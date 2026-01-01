@@ -1052,7 +1052,7 @@ b) az (5) bekezdés b) pontja szerinti esetben az Alkotmánybíróság megsemmis
 
 (1) A bírák függetlenek, és csak a törvénynek vannak alárendelve, ítélkezési tevékenységükben nem utasíthatóak. A bírákat tisztségükből csak sarkalatos törvényben meghatározott okból és eljárás keretében lehet elmozdítani. A bírák nem lehetnek tagjai pártnak, és nem folytathatnak politikai tevékenységet.
 
-(2) A hivatásos bírákat – sarkalatos törvényben meghatározottak szerint – a köztársasági elnök nevezi ki. Bíróvá az nevezhető ki, aki a harmincötödik életévét betöltötte. A Kúria elnöke és az Országos Bírósági Hivatal elnöke kivételével a bíró szolgálati jogviszonya az általános öregségi nyugdíjkorhatár betöltéséig állhat fenn.
+(2) A hivatásos bírákat – sarkalatos törvényben meghatározottak szerint – a köztársasági elnök nevezi ki. Bíróvá az nevezhető ki, aki a harmincötödik életévét betöltötte. A Kúria elnöke és az Országos Bírósági Hivatal elnöke kivételével a bíró szolgálati jogviszonya az általános öregségi nyugdíjkorhatár betöltéséig, sarkalatos törvényben meghatározott esetekben a bíró hetvenedik életévének betöltéséig állhat fenn.
 
 (3) A Kúria elnökét a bírák közül kilenc évre a köztársasági elnök javaslatára az Országgyűlés választja. A Kúria elnökének megválasztásához az országgyűlési képviselők kétharmadának szavazata szükséges.
 
@@ -1086,7 +1086,7 @@ c) felügyeletet gyakorol a büntetés-végrehajtás törvényessége felett;
 
 d) a közérdek védelmezőjeként az Alaptörvény vagy törvény által meghatározott további feladat- és hatásköröket gyakorol.
 
-(3) Az ügyészi szervezetet a legfőbb ügyész vezeti és irányítja, kinevezi az ügyészeket. A legfőbb ügyész kivételével az ügyész szolgálati jogviszonya az általános öregségi nyugdíjkorhatár betöltéséig állhat fenn.
+(3) Az ügyészi szervezetet a legfőbb ügyész vezeti és irányítja, kinevezi az ügyészeket. A legfőbb ügyész kivételével az ügyész szolgálati jogviszonya az ügyész hetvenedik életévének betöltéséig állhat fenn.
 
 (4) A legfőbb ügyészt a köztársasági elnök javaslatára az Országgyűlés választja kilenc évre. A legfőbb ügyész megválasztásához az országgyűlési képviselők kétharmadának szavazata szükséges.
 
@@ -1400,7 +1400,13 @@ esetén szükségállapotot hirdethet ki.
 
 #### 53. cikk
 
-(1) A Kormány különleges jogrendben rendeletet alkothat, amellyel – sarkalatos törvényben meghatározottak szerint – egyes törvények alkalmazását felfüggesztheti, törvényi rendelkezésektől eltérhet, valamint egyéb rendkívüli intézkedéseket hozhat.
+(1) A Kormány különleges jogrendben rendeletet alkothat, amellyel sarkalatos törvényben meghatározottak szerinti rendkívüli intézkedéseket hozhat, valamint
+
+a) hadiállapotban és szükségállapotban az Országgyűlés külön felhatalmazása nélkül,
+
+b) veszélyhelyzetben az Országgyűlés – a jelen lévő országgyűlési képviselők kétharmadának szavazatával határozott időre megadott – felhatalmazásával
+
+egyes törvények alkalmazását felfüggesztheti, törvényi rendelkezésektől eltérhet.
 
 (2) A Kormány a különleges jogrend idején a különleges jogrendre vonatkozó szabályok szerint alkotott rendeletről folyamatosan tájékoztatja a köztársasági elnököt, az Országgyűlés elnökét és az Országgyűlés tárgykör szerint feladat- és hatáskörrel rendelkező állandó bizottságát.
 
@@ -1440,7 +1446,7 @@ esetén szükségállapotot hirdethet ki.
 
 #### 56. cikk
 
-(1) A köztársasági elnök jogosult a hadiállapot kihirdetésére, a szükségállapot kihirdetésére és meghosszabbítására, valamint arra, hogy felhatalmazza a Kormányt a veszélyhelyzet meghosszabbítására, ha az Országgyűlés e döntések meghozatalában akadályoztatva van.
+(1) A köztársasági elnök jogosult a hadiállapot kihirdetésére, a szükségállapot kihirdetésére és meghosszabbítására, valamint arra, hogy felhatalmazza a Kormányt a veszélyhelyzet meghosszabbítására, illetve veszélyhelyzetben egyes törvények alkalmazásának felfüggesztésére, törvényi rendelkezésektől való eltérésre, ha az Országgyűlés e döntések meghozatalában akadályoztatva van.
 
 (2) Az Országgyűlés elnöke, az Alkotmánybíróság elnöke és a miniszterelnök egybehangzóan állapítja meg az Országgyűlés akadályoztatása tényét, ha az Országgyűlés nem ülésezik, és összehívása az idő rövidsége, továbbá a különleges jogrend kihirdetésére okot adó körülmény miatt elháríthatatlan akadályba ütközik.
 

@@ -270,6 +270,8 @@ szükséges, az eljáró jogi képviselő megkövetelheti a cégalapításhoz ka
 
 11/B. § Az e törvény szerint a cégeljárásban fizetendő közzétételi költségtérítés és a céginformációért fizetendő költségtérítés a központi költségvetés bevételét képezi. A cégeljárás, az e törvény szerinti nemperes eljárások és szolgáltatások során az elektronikus eljárást és ügyintézést támogató rendszer üzemeltetésével és fejlesztésével, az adatok feldolgozásával, továbbá a Cégközlöny szerkesztésével, kiadásával összefüggésben felmerült szükséges és igazolt költségeket a központi költségvetés utólagos elszámolási kötelezettség mellett legkésőbb a tárgyév február 15-éig biztosítja.
 
+11/C. § Ha törvény eltérően nem rendelkezik, a cégjegyzék adatairól – cégbizonyítvány, cégkivonat és cégmásolat formájában – kizárólag a cégbíróság és a céginformációs szolgálat nyújt közhiteles tájékoztatást. A céginformáció más általi biztosítása esetén jól látható módon fel kell tüntetni, hogy az információ nem közhiteles, továbbá a cégadatra vonatkozó információ nem nevezhető cégbizonyítványnak, cégkivonatnak vagy cégmásolatnak.
+
 ### 2. CÍM — A papír alapú, valamint az elektronikus
 
 és az elektronikus okirattá alakított cégiratok megismerése

@@ -29,7 +29,10 @@ Az Országgyűlés annak érdekében, hogy olyan szabályozás jöjjön létre, 
 - 7. egységár: a termék e törvény végrehajtására kiadott jogszabályban meghatározott mértékegységére vonatkozó ár,
 - 8. eladási ár: a termék egy egységére vagy adott mennyiségére vonatkozó ár,
 - 9. ellátási lánc: az e törvény hatálya alá tartozó azon folyamatok összessége, amelyek szereplői közvetlen vagy közvetett hatással vannak a fogyasztóknak értékesítésre szánt termék előállítására, tárolására, forgalomba hozatalára és felhasználására,
-- 10. fogyasztó: az önálló foglalkozásán és gazdasági tevékenységén kívül eső célok érdekében eljáró természetes személy, aki árut vesz, rendel, kap, használ, igénybe vesz vagy az áruval kapcsolatos kereskedelmi kommunikáció, ajánlat címzettje. A békéltető testületre vonatkozó szabályok alkalmazásában – a fogyasztói jogviták online rendezéséről, valamint a 2006/2004/EK rendelet és a 2009/22/EK irányelv módosításáról szóló, 2013. május 21-i 524/2013/EU európai parlamenti és tanácsi rendelet alkalmazásának kivételével – fogyasztónak minősül a fentieken túlmenően az önálló foglalkozásán és gazdasági tevékenységi körén kívül eső célok érdekében eljáró, külön törvény szerinti civil szervezet, egyházi jogi személy, társasház, lakásszövetkezet, amely árut vesz, rendel, kap, használ, igénybe vesz vagy az áruval kapcsolatos kereskedelmi kommunikáció, ajánlat címzettje. A belső piacon belül a vevő állampolgársága, lakóhelye vagy letelepedési helye alapján történő indokolatlan területi alapú tartalomkorlátozással és a megkülönböztetés egyéb formáival szembeni fellépésről, valamint a 2006/2004/EK és az (EU) 2017/2394 rendelet, továbbá a 2009/22/EK irányelv módosításáról szóló, 2018. február 28-i (EU) 2018/302 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2018/302 rendelet] alkalmazásában fogyasztónak minősül a fentieken túlmenően az (EU) 2018/302 rendelet szerint vevőnek minősülő vállalkozás is,
+- 10. fogyasztó:
+  - a) az önálló foglalkozásán és gazdasági tevékenységén kívül eső célok érdekében eljáró természetes személy, aki árut vesz, rendel, kap, használ, igénybe vesz vagy az áruval kapcsolatos kereskedelmi kommunikáció, ajánlat címzettje;
+  - b) a békéltető testületre vonatkozó szabályok alkalmazásában – a fogyasztói jogviták online rendezéséről, valamint a 2006/2004/EK rendelet és a 2009/22/EK irányelv módosításáról szóló, 2013. május 21-i 524/2013/EU európai parlamenti és tanácsi rendelet alkalmazásának kivételével – az önálló foglalkozásán és gazdasági tevékenységi körén kívül eső célok érdekében eljáró, külön törvény szerinti civil szervezet, egyházi jogi személy, társasház, lakásszövetkezet, amely árut vesz, rendel, kap, használ, igénybe vesz vagy az áruval kapcsolatos kereskedelmi kommunikáció, ajánlat címzettje; továbbá a mikro-, kis- és középvállalkozás (a továbbiakban együtt: KKV), amely közszolgáltatást vesz igénybe, vagy a kereskedelemről szóló törvény szerinti kiskereskedelmi tevékenység keretében terméket vásárol, használ, igénybe vesz vagy a termékkel kapcsolatos kereskedelmi kommunikáció, ajánlat címzettje;
+  - c) a belső piacon belül a vevő állampolgársága, lakóhelye vagy letelepedési helye alapján történő indokolatlan területi alapú tartalomkorlátozással és a megkülönböztetés egyéb formáival szembeni fellépésről, valamint a 2006/2004/EK és az (EU) 2017/2394 rendelet, továbbá a 2009/22/EK irányelv módosításáról szóló, 2018. február 28-i (EU) 2018/302 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2018/302 rendelet] alkalmazásában az (EU) 2018/302 rendelet szerint vevőnek minősülő vállalkozás,
 - 11. feljogosított szervezet: a fogyasztók érdekeit képviselő olyan közjogi vagy egyéb szervezet, amelyet valamely tagállam képviseleti keresetek indítására feljogosítottként kijelölt,
 - 12. fogyasztói csoport: a szervezők – díjazás ellenében történő – közreműködésével a csoport tagjai pénzének összegyűjtésén alapuló minden olyan csoport, amelynek célja, hogy minden tagja az általa előre meghatározott dolog tulajdonjogát a tagok befizetéseiből, előre meghatározott időtartamon belül – véletlenszerű vagy többletfeltételek vállalásától függő kiválasztás útján – a csoport segítségével megszerezze,
 - 13. fogyasztói érdekek képviseletét ellátó egyesület: az egyesülési jogról szóló törvény alapján létrehozott egyesület, ha az alapszabályában meghatározott célja a fogyasztók érdekeinek védelme, e célnak megfelelően legalább két éve működik, és természetes személy tagjainak száma legalább ötven fő, továbbá az ilyen egyesületek szövetsége,
@@ -588,7 +591,7 @@ foglalt személyes adatait.
 
 (7) A hozzájárulást megadottnak kell tekinteni, ha a fél – az elnök erre irányuló felhívásának kézbesítésétől számított – tizenöt napon belül nem nyilatkozik.
 
-(8) Az értesítésben a vállalkozást fel kell szólítani, hogy az értesítés részére történt kézbesítésétől számított nyolc napon belül írásban nyilatkozzon (a továbbiakban: válaszirat) a fogyasztó igényének jogosságát és az ügy körülményeit, valamint a tanács döntésének kötelezésként történő elfogadását (a továbbiakban: eseti alávetés) illetően, nyilatkozatában jelölje meg az állításait alátámasztó tényeket és azok bizonyítékait, valamint csatolja azokat az okiratokat (ezek másolatát), amelyek tartalmára bizonyítékként hivatkozik. Figyelmeztetni kell a vállalkozást, hogy egyezség létrehozatalára feljogosított személy részvételét köteles biztosítani a meghallgatáson, továbbá az ügy érdemére vonatkozó nyilatkozattételének elmaradása esetén a tanács a rendelkezésére álló adatok alapján határoz. Az értesítés kiterjed a (11) bekezdésben meghatározott együttműködési kötelezettségről történő tájékoztatásra, valamint arra, hogy annak megsértése esetén a fogyasztóvédelmi hatóság általi bírságkiszabásra kerül sor.
+(8) Az értesítésben a vállalkozást fel kell szólítani, hogy az értesítés részére történt kézbesítésétől számított tizenöt napon belül írásban nyilatkozzon (a továbbiakban: válaszirat) a fogyasztó igényének jogosságát és az ügy körülményeit, valamint a tanács döntésének kötelezésként történő elfogadását (a továbbiakban: eseti alávetés) illetően, nyilatkozatában jelölje meg az állításait alátámasztó tényeket és azok bizonyítékait, valamint csatolja azokat az okiratokat (ezek másolatát), amelyek tartalmára bizonyítékként hivatkozik. Figyelmeztetni kell a vállalkozást, hogy egyezség létrehozatalára feljogosított személy részvételét köteles biztosítani a meghallgatáson, továbbá az ügy érdemére vonatkozó nyilatkozattételének elmaradása esetén a tanács a rendelkezésére álló adatok alapján határoz. Az értesítés kiterjed a (11) bekezdésben meghatározott együttműködési kötelezettségről történő tájékoztatásra, valamint arra, hogy annak megsértése esetén a fogyasztóvédelmi hatóság általi bírságkiszabásra kerül sor.
 
 (9) A vállalkozás válasziratának másolatát az elnök a kérelmezőnek haladéktalanul megküldi, ha pedig erre már nincs elegendő idő, azt a meghallgatáson adja át.
 
@@ -817,9 +820,21 @@ történik.
 - e) független és nem áll a fogyasztóktól eltérő más olyan személyek – különösen vállalkozások – befolyása alatt, akiknek gazdasági érdeke fűződik képviseleti keresetek indításához, még abban az esetben sem, ha a szervezetnek harmadik felek nyújtanak finanszírozást, és e célból az ilyen befolyás megelőzése, továbbá a saját maga és a finanszírozói, valamint a fogyasztók érdekei közötti összeférhetetlenség megelőzésére irányuló eljárásokat alakított ki; valamint
 - f) bármely megfelelő eszköz segítségével – így különösen a honlapján – világos és közérthető megfogalmazásban nyilvánosságra hozza a szervezetnek az a)–e) pontban felsorolt feltételeknek való megfelelését igazoló információkat, továbbá információkat a finanszírozási forrásairól a pénzbeli vagy egyéb vagyoni jellegű juttatásról arról, hogy milyen a szervezeti, irányítási és tagsági struktúrája, valamint mi a létesítő okiratban meghatározott célja és mik a tevékenységei.
 
-(2) Az adott szervezet kérelme alapján eseti alapon feljogosított szervezetként kijelölhető a szervezet egy konkrét belföldi képviseleti kereset megindítására, amennyiben a szervezet megfelel az e törvényben előírt, feljogosított szervezetként való kijelölésre vonatkozó feltételeknek.
+(2) Az adott szervezet kérelme alapján eseti alapon feljogosított szervezetként nyilvántartásba vehető a szervezet egy konkrét belföldi képviseleti kereset megindítására, amennyiben a szervezet megfelel az e törvényben előírt, feljogosított szervezetként való nyilvántartásba vételre vonatkozó feltételeknek.
 
-(3) A feljogosított szervezetként történő keresetindítási jogosultságról a feljogosított szervezetként történő kijelölésről a fogyasztóvédelemért felelős miniszter dönt.
+(3) A fogyasztóvédelemért felelős miniszter a feljogosított szervezetekről nyilvántartást vezet, amely tartalmazza
+
+- a) a feljogosított szervezet
+  - aa) nevét,
+  - ab) székhelyét,
+  - ac) cégjegyzékszámát vagy nyilvántartási számát,
+- b) annak megjelölését, hogy a feljogosított szervezet
+  - ba) belföldi képviseleti kereset indítására jogosult,
+  - bb) határon átnyúló képviseleti kereset indítására jogosult, vagy
+  - bc) belföldi és határon átnyúló képviseleti kereset indítására jogosult, valamint
+- c) a (2) bekezdés szerinti esetben annak megjelölését, hogy a feljogosított szervezet nyilvántartásba vételére eseti alapon került sor.
+
+(3a) A (3) bekezdés szerinti nyilvántartás a (3) bekezdés b) pontjában meghatározott adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
 (4) Feljogosított szervezetként való kijelölési eljárás lefolytatása nélkül e törvény alapján jogosult belföldi képviseleti kereset indítására:
 
@@ -914,7 +929,7 @@ amelynek a feladatai közé tartozik az (EU) 2020/1828 irányelv I. mellékleté
 
 (3) A fél felszámíthatja a képviseleti keresettel megindított eljárásban a fogyasztóknak nyújtott tájékoztatással kapcsolatos költségei megtérítését.
 
-38/G. § (1) A fogyasztóvédelemért felelős miniszter a fogyasztóvédelmi hatóság honlapján általános tájékoztatást nyújt a folyamatban lévő és elbírált képviseleti keresetekről.
+38/G. § (1) A fogyasztóvédelemért felelős miniszter a fogyasztóvédelmi hatóság honlapján általános tájékoztatást nyújt a folyamatban lévő és elbírált képviseleti keresetekről és közérdekű keresetekről.
 
 (2) A fogyasztóvédelemért felelős miniszter közli az Európai Bizottsággal a feljogosított szervezetek jegyzékének elérhetőségét.
 
@@ -1013,8 +1028,9 @@ amelynek a feladatai közé tartozik az (EU) 2020/1828 irányelv I. mellékleté
 - c) a fogyasztóknak értékesítésre szánt, illetve értékesített áru mérésére, hatósági árára vagy egyébként kötelezően megállapított árára,
 - d) a fogyasztói panaszok intézésére,
 - e) a fogyasztói szerződés keretében érvényesített szavatossági és jótállási igények intézésére,
-- f) a termék forgalmazása vagy szolgáltatás nyújtása során az egyenlő bánásmód követelményére, továbbá
-- g) a fogyasztók tájékoztatására
+- f) a termék forgalmazása vagy szolgáltatás nyújtása során az egyenlő bánásmód követelményére,
+- g) a fogyasztók tájékoztatására, továbbá
+- h) a fizetési mód használatához kapcsolódó díj, költség vagy egyéb fizetési kötelezettség felszámításának tilalmára
 
 vonatkozó rendelkezések betartását, és eljár azok megsértése esetén.
 
@@ -1133,6 +1149,15 @@ vonatkozó rendelkezések betartását, és eljár azok megsértése esetén.
 
 (5) Termék próbavásárlását követően az ellenőrzési jogosultság igazolásakor a vállalkozás képviseletében eljáró személy a termék visszavétele mellett köteles annak árát visszatéríteni.
 
+(5a) A fogyasztóvédelmi hatóság a termék visszaszolgáltatására csak abban az esetben köteles, ha annak vételárát a vállalkozás – az erre vonatkozó felszólítást követően – visszatérítette.
+
+(5b) Ha
+
+- a) a vállalkozás képviseletében eljáró személy a termék visszavételét és a vételár visszafizetését megtagadja, vagy
+- b) a termék visszavétele és a vételár visszafizetése az eladó érdekkörében felmerült egyéb okból meghiúsul,
+
+a vissza nem vett terméket a fogyasztóvédelmi hatóság a zár alá vett dolgok értékesítésének szabályai szerint értékesíti, ennek meghiúsulása esetén megsemmisíti és a vételár eljárási költségnek minősül, amelyet a vállalkozás visel.
+
 (6) Szolgáltatás próbavásárlása esetén a szolgáltatás díja eljárási költség, amelyet a jogsértésért felelős vállalkozás visel, ha a szolgáltatás az előírt követelményeknek nem felel meg.
 
 47/B. § (1) A fogyasztóvédelmi hatóság az ellátási láncban szereplő gazdálkodó szervezet ellenőrzése során jogosult
@@ -1208,11 +1233,15 @@ bírságot szabhat ki.
 
 - a) a fogyasztóvédelmi hatóságnak a jogsértést megállapító véglegessé vált határozatában a vállalkozás számára előírt kötelezettség teljesítésére megállapított határnap elteltét, illetve határidő lejártát követő 3 éven belül a vállalkozás – amennyiben a jogsértést telephelyen követték el, ugyanazon a telephelyen – ugyanazon jogszabályi rendelkezést ismételten megsértette,
 - b) a jogsértés a fogyasztók széles körét érinti,
-- c) a vállalkozás megsérti a békéltető testületi eljárásban fennálló, a 29. § (11) bekezdésében meghatározott együttműködési kötelezettségét,
-- d) a vállalkozás megsérti a békéltető testületi eljárásban fennálló, a 36. § (5a) bekezdésében meghatározott tájékoztatási kötelezettségét, vagy
-- e) a vállalkozás megsérti az adatok végleges hozzáférhetetlenné tételét lehetővé tevő címke vagy adattörlő kód átadására irányuló kötelezettségét.
+- c) a KKV-nak nem minősülő vállalkozás megsérti a békéltető testületi eljárásban fennálló, a 29. § (11) bekezdésében meghatározott együttműködési kötelezettségét,
+- d) a KKV-nak nem minősülő vállalkozás megsérti a békéltető testületi eljárásban fennálló, a 36. § (5a) bekezdésében meghatározott tájékoztatási kötelezettségét, vagy
+- e) a KKV-nak nem minősülő vállalkozás megsérti az adatok végleges hozzáférhetetlenné tételét lehetővé tevő címke vagy adattörlő kód átadására irányuló kötelezettségét.
 
-(6) Az (5) bekezdésben foglaltak esetén közigazgatási szankcióként figyelmeztetés alkalmazásának nincs helye.
+(6) Az (5) bekezdés a) és c)-e) pontja szerinti esetekben közigazgatási szankcióként figyelmeztetés akkor alkalmazható, ha azt különös méltánylást érdemlő körülmény indokolja, vagy a jogsértés a vállalkozás érdekkörén kívül eső okra vezethető vissza.
+
+(6a) A (6) bekezdéstől eltérően a Szankció tv. 9. § (3) bekezdésében foglaltakon túl akkor sincs helye figyelmeztetés alkalmazásának, ha a jogsértés kereskedelmi kommunikáció útján valósul meg.
+
+(6b) Az (5) bekezdés b) pontja szerinti esetben közigazgatási szankcióként figyelmeztetés alkalmazásának nincs helye.
 
 (7) Az (5) bekezdés, valamint a Szankció tv. 9. § (3) bekezdése szerinti esetekben az (1) bekezdést azzal az eltéréssel kell alkalmazni, hogy a bírság legkisebb összege az (1) bekezdés a) pontjának hatálya alá tartozó vállalkozás esetében minden esetben 2 millió forint, az (1) bekezdés a) pontjának hatálya alá nem tartozó vállalkozás esetében minden esetben 200 ezer forint.
 
@@ -1343,7 +1372,7 @@ bírságot szabhat ki.
 - c) a kötelezettségvállalás tartalmát közérthetően összefoglalva, valamint
 - d) az arra vonatkozó figyelemfelhívást, hogy a hatósági szerződés a hatóságnál megtekinthető.
 
-51/B. § (1) A fogyasztóvédelemért felelős miniszter által vezetett minisztérium honlapján közzé kell tenni az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott elektronikus kereskedelmi szolgáltatással összefüggő súlyos jogsértést megállapító, a fogyasztóvédelmi hatóság, a Gazdasági Versenyhivatal által hozott véglegessé vált döntést vagy a bíróság által hozott jogerős döntést, valamint az azzal kapcsolatos alábbi adatokat:
+51/B. § (1) A fogyasztóvédelemért felelős miniszter a fogyasztóvédelmi hatóság honlapján közzéteszi az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott elektronikus kereskedelmi szolgáltatással összefüggő súlyos jogsértést megállapító, a fogyasztóvédelmi hatóság, a Gazdasági Versenyhivatal által hozott véglegessé vált döntést vagy a bíróság által hozott jogerős döntést, valamint az azzal kapcsolatos alábbi adatokat:
 
 - a) a közzététel e § szerinti jogcímét,
 - b) a véglegessé válásra vagy jogerőre történő utalást,

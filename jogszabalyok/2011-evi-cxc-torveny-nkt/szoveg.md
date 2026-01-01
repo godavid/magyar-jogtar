@@ -600,9 +600,10 @@ szükséges.
 - b) a nyilvántartásba vétel, létesítés napját,
 - c) a fenntartó képviseletére jogosult személy nevét,
 - d) a jogutódlással, átalakulással, fenntartóváltozással, intézményi átszervezéssel kapcsolatos alapítói, fenntartói határozatok számát és a döntést tartalmazó határozatokat, valamint a 84. § (2a) bekezdése szerinti előzetes vizsgálat és a 84. § (2b) bekezdése szerinti nyomon követés eredményét tartalmazó határozatot,
-- e) a megszűnésről szóló alapítói, fenntartói határozatot, a megszüntető okiratot, a megszűnés idejét és módját, valamint a megszűnt intézmény iratainak őrzési helyét.
+- e) a megszűnésről szóló alapítói, fenntartói határozatot, a megszüntető okiratot, a megszűnés idejét és módját,
+- f) a megszűnt intézmény iratainak őrzési helyét.
 
-(5a) A hivatal és a köznevelési feladatokat ellátó hatóság által vezetett (5) bekezdés szerinti nyilvántartás az (5) bekezdés a) pont aa)–ac) alpontja, valamint b)–e) pontja tekintetében közhiteles hatósági nyilvántartásnak minősül.
+(5a) A hivatal és a köznevelési feladatokat ellátó hatóság által vezetett (5) bekezdés szerinti nyilvántartás az (5) bekezdés a) pont aa) és ab) alpontja, az (5) bekezdés a) pont ac) alpontja szerinti képviseletre jogosult, valamint az (5) bekezdés b), d) és e) pontja tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
 (6)
 
@@ -620,7 +621,9 @@ szükséges.
 
 (9) Ha a köznevelési feladatokat ellátó hatóság a köznevelési intézményt a (8) bekezdés g) pontja alapján törli a nyilvántartásból, az erről szóló határozatában kijelöli azt a nevelési-oktatási intézményt vagy szakképző intézményt, amely a törölt köznevelési intézménnyel jogviszonyban álló gyermek, tanköteles tanuló felvételét nem tagadhatja meg. Nem tanköteles tanuló esetében csak az érintett kérelmére kell kötelező felvételt biztosító nevelési-oktatási intézményt vagy – a szakképzési államigazgatási szerv egyetértésével – szakképző intézményt kijelölni. A nevelési-oktatási intézményt vagy szakképző intézményt úgy kell kijelölni, hogy a gyermek, a tanuló számára a kijelölt intézményben a nevelés, a nevelés-oktatás igénybevétele ne jelentsen aránytalan terhet. A köznevelési intézmény nyilvántartásból való törléséről szóló végleges határozatot a köznevelési feladatokat ellátó hatóság megküldi a köznevelési intézmény székhelye szerint területileg illetékes tankerületi központnak, települési önkormányzatnak, a törvényben meghatározott feladataik ellátása érdekében. A jogutóddal megszűnő köznevelési intézmény iratállományát a jogutód köznevelési intézménynek kell átadni. A jogutód nélkül megszűnő köznevelési intézmény esetén a fenntartó, a fenntartó jogutód nélküli megszűnése esetén a köznevelési intézmény székhelye szerint területileg illetékes köznevelési feladatokat ellátó hatóság számára kell átadni az iratállományt.
 
-(9a) A (9) bekezdéstől eltérően a digitális bizonyítványokra vonatkozó iratállományt nem kell átadni. A jogutód nélkül megszűnő köznevelési intézmény esetén a fenntartó, a fenntartó jogutód nélküli megszűnése esetén a hivatal az arra jogosult kérelmére a tanulmányi rendszerben kiállított, tárolt és nyilvántartott digitális bizonyítványt továbbítja a kérelmező részére.
+(9a) A (9) bekezdéstől eltérően a digitális bizonyítványokat nem kell átadni a köznevelési intézmény székhelye szerint területileg illetékes köznevelési feladatokat ellátó hatóság számára. A jogutód nélkül megszűnő köznevelési intézmény esetében a digitális bizonyítványokhoz történő hozzáférést a volt tanuló részére az intézmény archív tanulmányi rendszeréből továbbra is biztosítani kell a volt tanuló intézményi tanulmányi rendszerbe történő hitelesített belépését követően.
+
+(9b) A (9a) bekezdésben foglaltak ellátása érdekében a tanulmányi rendszer üzemeltetője a jogutód nélkül megszűnő köznevelési intézmény esetén a tanulói jogviszony megszűnésétől számított 80 évig a volt tanuló tanulmányi rendszerbe történő belépéséhez szükséges azonosító adatokat, valamint a volt tanuló digitális bizonyítványában foglalt adatokat kezeli. A tanulmányi rendszer üzemeltetője ezen adatokat csak a volt tanuló, a volt tanuló törvényes képviselője, valamint törvényben meghatározott más szerv vagy személy részére adhatja át.
 
 (10) E § alkalmazásában súlyos jogszabálysértés, ha
 
@@ -1083,6 +1086,8 @@ továbbítható.
 
 (10) A köznevelési intézmény a nyilvántartott gyermek, tanuló, szülő, értesítendő hozzátartozó adatait a jogviszony megszűnésétől számított tíz évig, az alkalmazottak, óraadók adatait – ha törvény eltérő határidőt nem állapít meg – a jogviszony megszűnésétől számított öt évig őrzi és kezeli.
 
+(10a) A (10) bekezdéstől eltérően – az 57. § (6a) szerinti megőrzés és hozzáférés biztosítása céljából – a köznevelési intézmény a tanuló, volt tanuló intézményi tanulmányi rendszerbe történő belépéséhez szükséges adatait és a digitális bizonyítványában foglalt adatokat a tanulói jogviszony megszűnését követő nyolcvan évig kezeli.
+
 (11) Ha törvény alapján a kiskorú gyermek, tanuló adatai mindkét szülő részére továbbíthatóak, a szülői felügyeleti jogát nem gyakorló külön élő szülő részére a (2) bekezdés c) és d) pontjában, valamint e) pont eb) alpontjában nyilvántartott adatokat kell továbbítani.
 
 (12) A (11) bekezdés szerinti adatok nem továbbíthatóak azon szülőnek, akinek a bíróság – a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) 4:175. § (1) bekezdése szerint – a gyermek sorsát érintő lényeges kérdésekben a szülői felügyeleti jogát korlátozta vagy megvonta.
@@ -1491,9 +1496,9 @@ továbbítható.
 
 (6) Az óvodai és iskolai nyomtatványok – az állami vizsga teljesítéséről kiállított bizonyítvány kivételével – a tanulmányi rendszer alkalmazásával, a személyiségi, adatvédelmi és biztonságvédelmi követelmények megtartásával elektronikus úton készülnek el. Az állami vizsga teljesítéséről szóló bizonyítvány kiállításának alapjául szolgáló nyomtatványt ebben az esetben is elő kell állítani nyomtatott formában és meg kell őrizni. A 7. § (1) bekezdés a)–j) pontjában meghatározott köznevelési intézmények rendeltetésszerű működésük során a köznevelésért felelős miniszter által jóváhagyott, az állam által díjmentesen biztosított tanulmányi rendszert kötelesek használni.
 
-(6a) Az iskolai bizonyítvány az iskola igazgatójának elektronikus aláírásával ellátott digitális biztonsági okmány formájában kerül kiállításra. A digitális biztonsági formában kiállított bizonyítvány közokiratnak minősül. A digitális bizonyítványt a tanulmányi rendszerben – miniszteri rendeletben meghatározott ideig – kell megőrizni azzal, hogy a hosszú távú megőrzéséről is gondoskodni kell.
+(6a) Az iskolai bizonyítvány az iskola igazgatójának legalább fokozott biztonságú elektronikus aláírásával és időbélyegzővel ellátott digitális biztonsági okmány formájában kerül kiállításra. Az így kiállított bizonyítvány közokirat. A digitális bizonyítványt a tanulmányi rendszerben az időbélyegző felülhitelesítésével, a tanulói jogviszony megszűnését követő nyolcvan évig kell megőrizni. A tanuló, törvényes képviselője, továbbá a volt tanuló a digitális bizonyítványt a tanulmányi rendszerbe történő hitelesített belépést követően éri el.
 
-(6b) A tanulmányi rendszerben kiállított, tárolt és nyilvántartott digitális bizonyítványról kizárólag az arra jogosult tanuló vagy a tanuló szülőjének – a tanulmányi rendszeren keresztül is előterjeszthető – kérelemére hiteles papír alapú másolatot (a továbbiakban: díszpéldány) kell kiállítani. A díszpéldányon fel kell tüntetni a tanulmányi rendszer által generált és nyilvántartott egyedi azonosítót és azt, hogy a papír alapú hiteles másolat a digitális bizonyítvány hiteles másolata. A papír alapú hiteles másolatot eredeti aláírásával hitelesítenie kell a kiállítónak és az intézmény igazgatójának, továbbá a díszpéldányt az intézmény hivatalos körbélyegzőjével el kell látni. A díszpéldány első példánya ingyenes, a második példányért kormányrendeletben meghatározott térítési díjat kell fizetni.
+(6b) A tanulmányi rendszerben kiállított, tárolt és nyilvántartott digitális bizonyítványról kizárólag az arra jogosult tanuló vagy a tanuló szülőjének – a tanulmányi rendszeren keresztül is előterjeszthető – kérelemére hiteles papír alapú másolatot (a továbbiakban: díszpéldány) kell kiállítani. A díszpéldányon fel kell tüntetni a tanulmányi rendszer által generált és nyilvántartott egyedi azonosítót és azt, hogy a papír alapú hiteles másolat a digitális bizonyítvány hiteles másolata. A papír alapú hiteles másolatot eredeti aláírásával hitelesítenie kell a kiállítónak és az intézmény igazgatójának, továbbá a díszpéldányt az intézmény hivatalos körbélyegzőjével el kell látni. A díszpéldány, valamint iskolatípusonként a díszpéldányok tárolására szolgáló tartótok első példánya ingyenes, a második példányért kormányrendeletben meghatározott térítési díjat kell fizetni.
 
 (7) A kiadott érettségi bizonyítványokról az oktatási nyilvántartásról szóló 2018. évi LXXXIX. törvény (a továbbiakban: Onytv.) 1. melléklet V. részében meghatározottak szerint központi nyilvántartást kell vezetni.
 
@@ -1803,7 +1808,7 @@ fegyelmi büntetés szabható ki.
 
 - a) felel az intézmény szakszerű és törvényes működéséért, fenntartó által rendelkezésre bocsátott eszközök tőle elvárható gondossággal való kezeléséért – önálló költségvetéssel nem rendelkező intézmény kivételével – az intézmény gazdálkodásáért,
 - b)
-- c) dönt az intézmény működésével kapcsolatban minden olyan ügyben, amelyet jogszabály, kollektív szerződés, közalkalmazotti szabályzat nem utal más hatáskörébe,
+- c) dönt az intézmény működésével kapcsolatban minden olyan ügyben, amelyet jogszabály, kollektív szerződés nem utal más hatáskörébe,
 - d) felelős az intézményi szabályzatok elkészítéséért,
 - e)
 - f) képviseli az intézményt.
@@ -1942,7 +1947,7 @@ tájékoztassa a nevelési-oktatási intézményt, továbbá köteles gondoskodn
 - f) ügyrendjének a hivatal által történt jóváhagyását követően az intézményi tanácsot a hivatal felveszi a hatósági nyilvántartásba,
 - g) képviseletét az elnök látja el.
 
-(5a) Az e törvény alapján létrehozott intézményi tanácsról a 73. § (5) bekezdés a) pontja alapján vezetett nyilvántartás közhiteles hatósági nyilvántartásnak minősül. Az intézményi tanácsról vezetett nyilvántartás az alábbi adatokat tartalmazza:
+(5a) Az e törvény alapján létrehozott intézményi tanácsról az (5) bekezdés a) pontja alapján vezetett nyilvántartás az a), b), d) és f) pontban meghatározott adatok tekintetében közhiteles hatósági nyilvántartásnak minősül. Az intézményi tanácsról vezetett nyilvántartás az alábbi adatokat tartalmazza:
 
 - a) az intézményi tanács neve,
 - b) az intézményi tanács székhelye,
@@ -2010,9 +2015,10 @@ illeti meg.
 - h) jóváhagyja az iskolák által használt bizonyítványnyomtatványokat, és a kiállításuk alapjául szolgáló nyomtatványokat, engedélyezi előállításukat és forgalomba hozatalukat, továbbá jóváhagyja a kötelező tanügyi nyilvántartást felváltó, a tanulmányi rendszerben megvalósuló elektronikus adatnyilvántartást,
 - i) ellátja a területfejlesztéshez kapcsolódó oktatáspolitikai feladatokat,
 - j) az e törvényben biztosított tanulói jogok érvényesülésének elősegítésére megszervezi a középiskolai felvételi eljárást, kidolgoztatja a középiskolai felvételi eljárásban alkalmazott írásbeli felvételi vizsgafeladatokat,
-- k) dönt az állami felsőoktatási intézmény által fenntartott köznevelési intézmény létesítéséről, átszervezéséről, megszüntetéséről, alapfeladatának módosításáról, valamint a tankerületi központ által fenntartott köznevelési intézmény létesítéséről, a 21. § (3) bekezdés c)–e) pontjaiban felsoroltak módosulásával járó átszervezéséről, megszüntetéséről, alapfeladatának módosításáról.
+- k) dönt a tankerületi központ által fenntartott köznevelési intézmény létesítéséről, a 21. § (3) bekezdés c)–e) pontjaiban felsoroltak módosulásával járó átszervezéséről, megszüntetéséről, alapfeladatának módosításáról.
 - l) nemzetközi megállapodás alapján működő köznevelési intézmény által folytatott nevelés-oktatás esetén megállapítja a nevelés-oktatás nemzetiségi irányelvnek való megfelelését.
 - m) megállapítja a köznevelésért felelős miniszter által előírt képzés nyilvántartásba vételének feltételeit és eljárási szabályait, a nyilvántartás rendjét, a képzés tartalmát, a képzésben részt vevők körét, valamint a képzés teljesítésének szabályait.
+- n) egyetértési jogot gyakorol az állami felsőoktatási intézmény által fenntartott köznevelési intézmény létesítéséről, átszervezéséről, megszüntetéséről, alapfeladatának módosításáról szóló, a felsőoktatásért felelős miniszter által meghozott döntéshez.
 
 (3) A köznevelésért felelős miniszter az általa vezetett minisztérium költségvetésének a terhére országos és térségi szakmai ellenőrzést, pedagógiai-szakmai mérések, átvilágítások, elemzések készítését rendelheti el, továbbá felkérheti a fenntartót, hogy a fenntartásában lévő nevelési-oktatási intézményben végeztessen törvényességi, szakmai ellenőrzést, pedagógiai-szakmai mérést, átvilágítást, elemzést, és ennek eredményéről tájékoztassa. Ha a fenntartó a felkérésnek nem tesz eleget, a köznevelésért felelős miniszter intézkedésére a hivatal jár el.
 
@@ -2258,7 +2264,7 @@ véleményét.
 
 (6) A köznevelési feladatokat ellátó hatóság engedélyezi a működési engedéllyel rendelkező intézmények fenntartói számára a székhely, telephely változását tanítási évben, nevelési évben más, előre nem látható okból is. Ha a fenntartó három éven belül másodszor kéri előre nem látható okból a székhely-, telephelyváltozás engedélyezését, a köznevelési feladatokat ellátó hatóságnak le kell folytatnia a 34. § (2) bekezdésében szabályozott törvényességi ellenőrzést.
 
-(7) A fenntartó, a tankerületi központ, valamint az állami felsőoktatási intézmény által fenntartott intézmény esetében a köznevelésért felelős miniszter legkésőbb az intézkedés tervezett végrehajtása éve májusának utolsó munkanapjáig hozhat döntést
+(7) A fenntartó, a tankerületi központ esetében a köznevelésért felelős miniszter legkésőbb az intézkedés tervezett végrehajtása éve májusának utolsó munkanapjáig hozhat döntést
 
 - a) a nevelési-oktatási intézmény fenntartói jogának átadásával,
 - b) a nevelési-oktatási intézmény átalakításával, amely történhet:
@@ -2287,7 +2293,7 @@ kapcsolatban.
 
 (9a) A köznevelésért felelős miniszter a tankerületi központ által fenntartott intézmények tekintetében hozott, az e §-ban meghatározott döntéseihez nem köteles beszerezni az érintett nemzetiségi önkormányzat egyetértését, amennyiben a köznevelésért felelős miniszter a tankerületi központ véleményével egyező döntést hoz, és a tankerületi központ véleményével az érintett nemzetiségi önkormányzat egyetért.
 
-(9b) A magán köznevelési intézmény munkaviszonyból eredő olyan kötelezettségeiért, amelyek teljesítéséhez vagyona nem elégséges, a fenntartó kezesként felel. Ha a magán köznevelési intézmény jogutód nélkül szűnik meg, a munkaviszonyból származó, a munkavállalók elmaradt munkabérét és egyéb, munkáltatóval szemben fennálló követeléseit érintő jogok és kötelezettségek a megszűnés időpontjában a fenntartóra átszállnak.
+(9b) A magán köznevelési intézmény köznevelési foglalkoztatotti jogviszonyból, valamint munkaviszonyból eredő olyan kötelezettségeiért, amelyek teljesítéséhez vagyona nem elégséges, a fenntartó kezesként felel. Ha a magán köznevelési intézmény jogutód nélkül szűnik meg, a köznevelési foglalkoztatotti jogviszonyból, valamint munkaviszonyból származó, a köznevelési foglalkoztatottak és a munkavállalók elmaradt illetményét, munkabérét és egyéb, munkáltatóval szemben fennálló követeléseit érintő jogok és kötelezettségek a megszűnés időpontjában a fenntartóra átszállnak.
 
 (10) Többcélú köznevelési intézmény esetén az e §-ban foglaltakat csak az érintett intézményegység vonatkozásában kell alkalmazni.
 
@@ -2473,7 +2479,7 @@ a fenntartó helyett, közvetlenül az annak fenntartásában működő közneve
 
 (9) A Magyarország területén tartózkodó menedékesek gyermekei, valamint az államhatárról szóló 2007. évi LXXXIX. törvény 5. §-ában és 15/A. §-ában meghatározott tranzitzónában tartózkodó gyermekek részére a köznevelésért felelős miniszter ideiglenes működési engedély kiadásával engedélyezheti nevelési-oktatási intézmény működését a 90. § (1) bekezdésben meghatározott feltételek hiányában is, ha működése nem ellentétes az Alaptörvényben foglaltakkal. Az ideiglenes működési engedély egy évre szól és több alkalommal is meghosszabbítható. Az ideiglenes működési engedély iránti kérelmet az idegenrendészetért és menekültügyért felelős miniszter nyújtja be. Az ideiglenes működési engedély kiadásával egyidejűleg a nevelési-oktatási intézményt nyilvántartásba kell venni. Az ideiglenes működési engedélyben a köznevelésért felelős miniszter tudomásul veszi, hogy az ideiglenes menedéket élvezők Magyarország területén gyermekeik részére megszervezték az óvodai nevelést vagy iskolai nevelés-oktatást. Az ideiglenes működési engedély nem jelenti annak elismerését, hogy a nevelési-oktatási intézmény megfelel azon ország előírásainak, ahonnan az ideiglenes menedéket élvezők Magyarország területére érkeztek, továbbá nem jelenti az iskola által kiállított bizonyítvány Magyarország részéről történő elismerését.
 
-(10) A külföldi nevelési-oktatási intézményekről vezetett nyilvántartás közhiteles hatósági nyilvántartásnak minősül.
+(10) A külföldi nevelési-oktatási intézményekről vezetett nyilvántartás közhiteles hatósági nyilvántartásnak minősül, amely a (11) bekezdés a) pont aa), ab), és ad) alpontjában meghatározott adatok, valamint a (11) bekezdés a) pont ae) alpontja szerinti képviseletre jogosult tekintetében közhiteles.
 
 (11) A (10) bekezdés alapján a külföldi nevelési-oktatási intézményekről vezetett nyilvántartás tartalmazza
 

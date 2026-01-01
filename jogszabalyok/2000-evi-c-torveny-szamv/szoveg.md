@@ -308,8 +308,8 @@ Európai Gazdasági Térség állama: az Európai Unió tagállama és az Európ
 
 (6) Egyszerűsített éves beszámolóját – saját választása alapján – a 6. § (5) bekezdés szerinti kormányrendeletben foglaltaknak megfelelően (mikrogazdálkodói egyszerűsített éves beszámoló) is elkészítheti a könyvvizsgálatra nem kötelezett vállalkozó, ha két egymást követő üzleti évben a mérleg fordulónapján a következő, a nagyságot jelző három mutatóérték közül bármelyik kettő nem haladja meg az alábbi határértéket:
 
-- a) a mérlegfőösszeg a 150 millió forintot,
-- b) az éves nettó árbevétel a 300 millió forintot,
+- a) a mérlegfőösszeg a 180 millió forintot,
+- b) az éves nettó árbevétel a 360 millió forintot,
 - c) az üzleti évben átlagosan foglalkoztatottak száma a 10 főt.
 
 (6a) Nem készíthet mikrogazdálkodói egyszerűsített éves beszámolót
@@ -974,6 +974,8 @@ kimutatott tőketartalék, valamint az – osztalékként, részesedésként, ka
 
 (8) Amennyiben a 3. § (4) bekezdés 11. pontja szerinti szerződés(ek) tárgya terméknek azonos munkafolyamattal, nagy tömegben, sorozatosan történő gyártására irányul, a vállalkozó dönthet úgy, hogy nem alkalmazza a (7) bekezdés előírását. Ebben az esetben a szerződés elszámolási egységéhez kapcsolódó egyéb előírásokat sem alkalmazza.
 
+(9) Passzív időbeli elhatárolásként kell kimutatni a 87. § (2) bekezdése szerinti adófizetési kötelezettséggel szemben a globális minimum-adószintet biztosító kiegészítő adó adott üzleti évet terhelő várható összegét. Az így kimutatott passzív időbeli elhatárolást a globális minimum-adószintet biztosító kiegészítő adó összegének végleges megállapításakor (bevallásakor) kell megszüntetni az adófizetési kötelezettséggel szemben.
+
 45. § (1) A passzív időbeli elhatárolások között halasztott bevételként kell kimutatni az egyéb bevételként vagy a pénzügyi műveletek bevételeként elszámolt
 
 - a) fejlesztési célra – visszafizetési kötelezettség nélkül – kapott, pénzügyileg rendezett támogatás véglegesen átvett pénzeszköz összegét,
@@ -1040,7 +1042,7 @@ kimutatott tőketartalék, valamint az – osztalékként, részesedésként, ka
 
 (9) A bekerülési (beszerzési) érték részét képező – az (1)–(2) és a (4)–(8) bekezdésben felsorolt – tételeket a felmerüléskor, a gazdasági esemény megtörténtekor (legkésőbb az üzembe helyezéskor) kell számításba venni a számlázott, a kivetett összegben. Amennyiben a felmerülésig, a gazdasági esemény megtörténtéig (üzembe helyezésig, készletre vételig) a számla, a megfelelő bizonylat nem érkezett meg, a fizetendő összeget az illetékes hatóság nem állapította meg, akkor az adott eszköz értékét a rendelkezésre álló dokumentumok (szerződés, piaci információ, jogszabályi előírás) alapján kell meghatározni. Az így meghatározott érték és a ténylegesen számlázott vagy később módosított fizetendő (kivetett) összeg közötti különbözettel a beszerzési értéket a végleges bizonylatok kézhezvétele időpontjában akkor kell módosítani, ha a különbözet összege az adott eszköz értékét jelentősen módosítja. Amennyiben a különbözet összege jelentősen nem módosítja az adott eszköz bekerülési (beszerzési) értékét, annak összegét a végleges bizonylatok kézhezvétele időpontjában egyéb ráfordításként, illetve egyéb bevételként kell elszámolni.
 
-(10) Az eszköz bekerülési (beszerzési, előállítási) értékét módosítja az a felek között utólag elszámolt, a szokásos piaci ár és az alkalmazott ellenérték alapján számított különbözet, amellyel a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény (a továbbiakban: Tao. törvény) 18. §-a alapján a beszerzőnek a beszerzésre tekintettel a társasági adó alapját módosítani kellene, amennyiben a különbözetet a könyvviteli elszámolásában a bekerülési érték módosításaként nem szerepeltetné.
+(10) Az eszköz bekerülési (beszerzési, előállítási) értékét módosítja a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény (a továbbiakban: Tao. törvény) szerinti szokásos piaci ár (szokásos piaci tartomány) és az alkalmazott ellenérték alapján számított különbözetből a felek megállapodása alapján – a mérlegkészítés időpontjáig – utólag elszámolt összeg, abban az esetben, ha a Tao. törvény 18. §-a alapján a beszerzőnek a beszerzésre tekintettel a társasági adó alapját módosítani kellene, amennyiben a különbözetet a könyvviteli elszámolásában a bekerülési érték módosításaként nem szerepeltetné.
 
 (11) Ha a cash-flow fedezeti ügylet eszköz vagy kötelezettség jövőbeni bekerülésével vagy keletkezésével járó ügylete(ke)t fedez, akkor a fedezeti ügylet zárásakor realizált eredmény hatékony részét (ideértve a 32. § (5) bekezdés d) pontja, illetve 44. § (5) bekezdés d) pontja szerinti összeget is), valamint a 32. § (5) bekezdés e) pontja, illetve a 44. § (5) bekezdés e) pontja szerinti összeget az eszköz vagy kötelezettség bekerülésekor, azok bekerülési értékét módosító tételként kell elszámolni.
 
@@ -1614,7 +1616,7 @@ kell a mérlegben kimutatni mindaddig, amíg azt pénzeszközzel, váltóval, es
 
 (3) Az értékesítés nettó árbevételét növelő tételként kell elszámolni a vásárolt és saját termelésű készlet értékesítéséhez, a szolgáltatásnyújtáshoz kapcsolódóan utólag felszámított felár, az eladási árat növelő korrekciók helyesbítő számviteli bizonylatban rögzített – általános forgalmi adót nem tartalmazó – értékét (a helyesbítés a teljesítés időpontjára vonatkozik).
 
-(4) Az értékesítés nettó árbevételét módosítja az a felek között utólag elszámolt, a szokásos piaci ár és az alkalmazott ellenérték alapján számított különbözet, amellyel a Tao. törvény 18. §-a alapján az értékesítőnek az értékesítésre tekintettel a társasági adó alapját módosítani kellene, amennyiben a különbözetet a könyvviteli elszámolásában az értékesítés nettó árbevétele módosításaként nem szerepeltetné.
+(4) Az értékesítés nettó árbevételét módosítja a Tao. törvény szerinti szokásos piaci ár (szokásos piaci tartomány) és az alkalmazott ellenérték alapján számított különbözetből a felek megállapodása alapján – a mérlegkészítés időpontjáig – utólag elszámolt összeg, abban az esetben, ha a Tao. törvény 18. §-a alapján az értékesítőnek az értékesítésre tekintettel a társasági adó alapját módosítani kellene, amennyiben azt a könyvviteli elszámolásában az értékesítés nettó árbevétele módosításaként nem szerepeltetné.
 
 74. § (1) Belföldi értékesítés árbevételeként kell elszámolni a belföldi vevőnek értékesített vásárolt és saját termelésű készlet, valamint a belföldi igénybe vevő részére teljesített szolgáltatás 75. § szerint meghatározott értékét, függetlenül attól, hogy azt forintban, devizában, valutában, termék- vagy szolgáltatásimporttal egyenlítik ki. Belföldi értékesítés árbevételeként kell elszámolni a vámszabad és a tranzitterületen lévő vállalkozónak történő közvetlen értékesítés értékét, továbbá a vámszabad és a tranzitterületen lévő vállalkozónál a belföldi vállalkozónak, illetve a más vámszabad és tranzitterületen lévő vállalkozónak történő közvetlen értékesítés értékét.
 
@@ -1702,7 +1704,7 @@ ha az a tárgyévhez vagy a tárgyévet megelőző üzleti év(ek)hez kapcsolód
 
 (7) A külföldi székhelyű vállalkozás magyarországi fióktelepe a külföldi székhelyű vállalkozástól, vagy annak más fióktelepétől igénybe vett szolgáltatásokat (ideértve az irányítás átterhelt költségeit, ráfordításait is) a számlázott értéken – jellegének megfelelően – a (3)–(4), illetve a (6) bekezdés szerinti szolgáltatásként köteles az anyagjellegű ráfordítások között kimutatni.
 
-(8) A (3)–(4), illetve a (6) bekezdés szerint – jellegének megfelelően – elszámolt költség, ráfordítás értékét módosítja az a felek között utólag elszámolt, a szokásos piaci ár és az alkalmazott ellenérték alapján számított különbözet, amellyel a Tao. törvény 18. §-a alapján a szolgáltatást igénybe vevőnek az igénybe vett szolgáltatásra tekintettel a társasági adó alapját módosítani kellene, amennyiben a különbözetet a könyvviteli elszámolásában a szolgáltatás igénybe vétele miatti költség, ráfordítás értékének módosításaként nem szerepeltetné.
+(8) A (3), (4), illetve (6) bekezdés szerint – jellegének megfelelően – elszámolt költség, ráfordítás értékét módosítja a Tao. törvény szerinti szokásos piaci ár (szokásos piaci tartomány) és az alkalmazott ellenérték alapján számított különbözetből a felek megállapodása alapján – a mérlegkészítés időpontjáig – utólag elszámolt összeg, abban az esetben, ha a Tao. törvény 18. §-a alapján a szolgáltatást igénybe vevőnek az igénybe vett szolgáltatásra tekintettel a társasági adó alapját módosítani kellene, amennyiben a különbözetet a könyvviteli elszámolásában a szolgáltatás igénybevétele miatti költség, ráfordítás értékének módosításaként nem szerepeltetné.
 
 79. § (1) Személyi jellegű ráfordítások az alkalmazottaknak munkabérként, a szövetkezet tagjainak munkadíjként elszámolt összeg, a természetes személy tulajdonos (tag) személyes közreműködése ellenértékeként kivett összeg, továbbá a személyi jellegű egyéb kifizetések, valamint a bérjárulékok.
 
@@ -1917,7 +1919,7 @@ függetlenül attól, hogy azt hitelintézet, más gazdálkodó vagy magánszem�
 
 87. § (1) Az adózás előtti eredmény az üzemi (üzleti) tevékenység eredménye és a pénzügyi műveletek eredményének együttes összege.
 
-(2) Adófizetési kötelezettségként kell kimutatni az üzleti év adózás előtti eredményét terhelő adó (ideértve különösen a társasági adót, az abba beszámítható külföldi adót, valamint az olyan külföldi adót, amelynek alapjául szolgáló jövedelem nemzetközi szerződés rendelkezése alapján mentes a társasági adó alól), a kisvállalati adó, a globális minimum-adószintet biztosító kiegészítő adó megállapított (bevallott, kivetett) összegét.
+(2) Adófizetési kötelezettségként kell kimutatni az üzleti év adózás előtti eredményét terhelő adó (ideértve különösen a társasági adót, az abba beszámítható külföldi adót, valamint az olyan külföldi adót, amelynek alapjául szolgáló jövedelem nemzetközi szerződés rendelkezése alapján mentes a társasági adó alól), a kisvállalati adó, a globális minimum-adószintet biztosító kiegészítő adó megállapított (bevallott, kivetett, várható) összegét.
 
 (2a) A vállalkozó halasztott adókülönbözetként mutatja ki a 3. § (16) bekezdés 5. pontja szerinti tárgyévben keletkező halasztott adókövetelést és halasztott adókötelezettséget [a 37. § (8) és (9) bekezdése szerint elszámoltak kivételével], valamint a már kimutatott halasztott adókövetelés és halasztott adókötelezettség könyv szerinti értékének tárgyévi változását.
 
@@ -2769,7 +2771,7 @@ kell elszámolni, és annak megfelelően kell az eredménylevezetés tételeiben
 
 (3) Amennyiben az anyavállalat leányvállalatai és közös vezetésű vállalkozásai valamelyike nem rendelkezik a tárgyévet megelőző üzleti év (1) bekezdés szerinti adataival, akkor az (1) bekezdés szerinti mutatóérték meghatározásánál a tárgyévi várható – éves időtartamra átszámított – adatokat kell figyelembe venni.
 
-(4) A hitelintézeti, a biztosítói anyavállalatra, a pénzügyi vállalkozásra, mint anyavállalatra az (1) bekezdés szerinti mentesítés nem vonatkozik.
+(4) Az (1) bekezdés nem alkalmazható, ha az anyavállalat közérdeklődésre számot tartó gazdálkodó, vagy ha az anyavállalat leányvállalata vagy közös vezetésű vállalkozása közérdeklődésre számot tartó gazdálkodó.
 
 (5) Az (1) és (6) bekezdés nem alkalmazható, ha a mérleg fordulónapján az anyavállalat vagy a konszolidálásba bevont leányvállalat részvényei, üzletrészei, illetve az általuk kibocsátott értékpapírok tőzsdei kereskedelme engedélyezett, vagy az engedélyezést már kérelmezték.
 
@@ -3619,7 +3621,7 @@ a különbözettel.
 - h) regisztrálási szakterületét, valamint
 - i) szakmai továbbképzési kötelezettségének teljesítését.
 
-(8a) A könyvviteli szolgáltatást végzők nyilvántartása – a (8) bekezdés b) és c) pontjában foglalt adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+(8a) A könyvviteli szolgáltatást végzők nyilvántartása a (8) bekezdés a) és d)–i) pontjában foglalat adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
 (9) A könyvviteli szolgáltatást végzők nyilvántartása tartalmazhatja, a könyvviteli szolgáltatást végző önkéntes adatszolgáltatása alapján a nyilvántartásba felvettek
 
@@ -3838,6 +3840,10 @@ kezeli.
 
 (3) Amennyiben jogszabály lehetővé vagy kötelezővé teszi az éves beszámolóra, az egyszerűsített éves beszámolóra, az összevont (konszolidált) éves beszámolóra vonatkozó független könyvvizsgálói jelentés visszavonását és új független könyvvizsgálói jelentés kibocsátását a vállalkozó a visszavont, illetve az új független könyvvizsgálói jelentésre az e törvényben meghatározott közzétételi és letétbe helyezési előírásokat köteles alkalmazni.
 
+154/C. § (1) A 95/E. § (1) bekezdésének vagy a 134/I. § (1) bekezdésének hatálya alá tartozó vállalkozó az éves beszámolónak, az összevont (konszolidált) éves beszámolónak, az IFRS-ek szerinti éves beszámolónak, az IFRS-ek szerinti összevont (konszolidált) éves beszámolónak, a könyvvizsgálói jelentésnek, a fenntarthatósági jelentésnek, az összevont (konszolidált) fenntarthatósági jelentésnek, a bizonyossági véleménynek (a bizonyossági jelentésnek) és adott esetben a nyilatkozatnak, a kormányok részére fizetett összegekről szóló jelentésnek, valamint a kormányok részére fizetett összegekről szóló összevont jelentésnek a közzétételével egyidejűleg teljesíti az (EU) 2023/2859 európai parlamenti és tanácsi rendelet (a továbbiakban: ESAP rendelet) 2. cikk 2. pontjában meghatározott gyűjtőszervezetnek történő benyújtási kötelezettségét, az információknak az egységes európai hozzáférési ponton való hozzáférhetővé tétele céljából.
+
+(2) Az (1) bekezdésben említett információknak az egységes európai hozzáférési ponton való hozzáférhetővé tétele céljából gyűjtőszervezetként a céginformációs szolgálat jár el az ESAP rendelet előírásainak alkalmazásával.
+
 ### X. Fejezet — KÖNYVVIZSGÁLAT
 
 ### A könyvvizsgálat célja, a könyvvizsgálati kötelezettség
@@ -3859,7 +3865,7 @@ kezeli.
 
 - a) az a kettős könyvvitelt vezető vállalkozó, ahol a könyvvizsgálatot jogszabály írja elő,
 - b) a takarékszövetkezet,
-- c) a konszolidálásba bevont vállalkozás,
+- c) az összevont (konszolidált) éves beszámolót készítő anyavállalat, a konszolidálásba bevont leányvállalat és a konszolidálásba bevont közös vezetésű vállalkozás,
 - d) a külföldi székhelyű vállalkozás magyarországi fióktelepe,
 - e) az a vállalkozó, amelyik a 4. § (4) bekezdése szerint – a megbízható és valós kép érdekében – a kivételes esetben eltér a törvény előírásaitól.,
 - f) a közérdeklődésre számot tartó gazdálkodó.
@@ -4214,8 +4220,11 @@ kezeli.
 - h) az 537/2014/EU rendeletnek, a 2004/109/EK irányelvnek, a 2006/43/EK irányelvnek és 2013/34/EU irányelvnek a fenntarthatósággal kapcsolatos vállalati beszámolás tekintetében történő módosításáról szóló, 2022. december 14-i (EU) 2022/2464 európai parlamenti és tanácsi irányelv.
 - i) a 2013/34/EU európai parlamenti és tanácsi irányelvnek a mikro-, kis-, közép- és nagyvállalkozásokra vagy csoportokra vonatkozó méretkritériumok kiigazítása tekintetében történő módosításáról szóló, 2023. október 17-i (EU) 2023/2775 felhatalmazáson alapuló bizottsági irányelv.
 - j) az (EU) 2022/2464 és az (EU) 2024/1760 irányelvnek az egyes fenntarthatósággal kapcsolatos vállalati beszámolási és átvilágítási követelmények tagállamok általi alkalmazásának kezdőnapjai tekintetében történő módosításáról szóló, 2025. április 14-i (EU) 2025/794 európai parlamenti és tanácsi irányelv.
+- k) az egyes irányelveknek az egységes európai hozzáférési pont létrehozása és működése tekintetében történő módosításáról szóló, 2023. december 13-ai (EU) 2023/2864 európai parlamenti és tanácsi irányelv.
 
 (3) E törvény a 2004/109/EK európai parlamenti és tanácsi irányelvnek az egységes elektronikus beszámolási formátumot meghatározó szabályozástechnikai standardok tekintetében történő kiegészítéséről szóló 2018. december 17-i 2019/815 bizottsági felhatalmazáson alapuló rendeletének végrehajtásához szükséges rendelkezéseket állapít meg.
+
+(4) E törvény a pénzügyi szolgáltatások, a tőkepiacok és a fenntarthatóság szempontjából lényeges, nyilvánosan elérhető információkhoz központosított hozzáférést biztosító egységes európai hozzáférési pont létrehozásáról szóló, 2023. december 13-ai (EU) 2023/2859 európai parlamenti és tanácsi rendeletének végrehajtásához szükséges rendelkezéseket állapít meg.
 
 ### A magyar számviteli standardok
 
@@ -4497,6 +4506,16 @@ e törvénynek a Mód2. törvény által megállapított fenntarthatósági jele
 (110) E törvénynek az egyes adótörvények módosításáról szóló 2024. évi LV. törvénnyel megállapított 14. § (7) bekezdésében meghatározott értékhatárokat teljesítő vállalkozó akkor is mentesül az önköltségszámítás rendjére vonatkozó belső szabályzat elkészítése alól, ha a megelőző üzleti év(ek)ben a mentesítés lehetőségével nem élhetett.
 
 (111) E törvénynek a közpénzek szabályozásával összefüggő egyes törvények, valamint a számvitelről szóló törvény módosításáról szóló 2025. évi XXI. törvénnyel megállapított 95/B. § (2a) bekezdése, valamint 95/F. § (11) és (12) bekezdése a 2024. évben induló üzleti évre is alkalmazható.
+
+(112) E törvénynek az egyes adókötelezettségekről és egyes adótörvények módosításáról szóló 2025. évi LIV. törvénnyel megállapított 44. § (9) bekezdését, 87. § (2) bekezdését, 117. § (4) bekezdését és 155. § (5) bekezdés c) pontját először a 2026. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+
+(113) E törvénynek az egyes adókötelezettségekről és egyes adótörvények módosításáról szóló 2025. évi LIV. törvénnyel megállapított 44. § (9) bekezdését és 87. § (2) bekezdését a 2025. évben induló üzleti évről készített beszámolóra is lehet alkalmazni.
+
+(114) E törvénynek az egyes adótörvények adminisztrációt csökkentő és jogharmonizációs célú módosításáról szóló 2025. évi LXXXIII. törvénnyel megállapított 47. § (10) bekezdését, 73. § (4) bekezdését, 78. § (8) bekezdését először a 2026. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+
+(115) E törvénynek az egyes adótörvények adminisztrációt csökkentő és jogharmonizációs célú módosításáról szóló 2025. évi LXXXIII. törvénnyel megállapított 47. § (10) bekezdését, 73. § (4) bekezdését, 78. § (8) bekezdését a 2025. évben induló üzleti évről készített beszámolóra is alkalmazni lehet.
+
+(116) A pénzügyi közvetítőrendszert érintő törvények módosításáról szóló 2025. évi C. törvénnyel megállapított 154/C. § (1) bekezdése szerinti információknak az egységes európai hozzáférési ponton való hozzáférhetőségét 2028. január 10-étől kell biztosítani.
 
 ### Felhatalmazás
 

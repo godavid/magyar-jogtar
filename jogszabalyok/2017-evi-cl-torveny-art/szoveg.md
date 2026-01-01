@@ -664,7 +664,7 @@ besorolási rendjét kell irányadónak tekinteni. A besorolási rend ezt követ
 - b) a kifizető (ideértve az egyéni vállalkozónak nem minősülő természetes személy munkáltatót is);
 - c) a Tbj. 87. § (5) bekezdése szerinti kötelezett.
 
-(1a) A foglalkoztatónak nem minősülő, a Tbj. 6. § (1) bekezdés d) pontja szerinti, az Szja tv. rendelkezései szerint a vállalkozói jövedelem szerinti adózást alkalmazó egyéni vállalkozó a tárgyhót követő hónap tizenkettedik napjáig, az Szja tv. rendelkezései szerint átalányadózást alkalmazó egyéni vállalkozó – a tárgynegyedév adatait havonként külön feltüntetve – a tárgynegyedévet követő hónap tizenkettedik napjáig elektronikus úton bevallást tesz a (2) bekezdésben meghatározott adatokról.
+(1a) A foglalkoztatónak nem minősülő, a Tbj. 6. § (1) bekezdés d) pontja szerinti egyéni vállalkozó – a tárgynegyedév adatait havonként külön feltüntetve – a tárgynegyedévet követő hónap tizenkettedik napjáig elektronikus úton bevallást tesz a (2) bekezdésben meghatározott adatokról.
 
 (1b) A foglalkoztatónak nem minősülő, a Tbj. 6. § (1) bekezdés h) pontja szerinti mezőgazdasági őstermelő negyedévente, a negyedévet követő hónap tizenkettedik napjáig elektronikus úton bevallást tesz a (2) bekezdésben meghatározott adatokról.
 
@@ -691,12 +691,12 @@ besorolási rendjét kell irányadónak tekinteni. A besorolási rend ezt követ
 - 7b. a természetes személy tekintetében az Szja tv. 29/F. §-a szerinti kedvezmény érvényesítéséhez szükséges következő adatokat:
   - a) a születési idejét,
   - b) az Szja tv. 29/F. § (2) bekezdése szerint a kedvezmény alapját képező jövedelmeket jogcímenként,
-- 7c. a természetes személy esetében az Szja tv. 29/G. § szerinti kedvezmény érvényesítéséhez szükséges következő adatokat:
+- 7c. a természetes személy esetében a 30 év alatti anyák kedvezményéről szóló 2025. évi XIII. törvény szerinti kedvezmény érvényesítéséhez szükséges következő adatokat:
   - a) a születési idejét,
   - b) a természetes személy családi kedvezményre való jogosultságának az Szja tv. 29/A. § (3) bekezdés a) pontja vagy b) pontja szerinti jogcímét,
   - c) – a magzat kivételével – a gyermek nevét, adóazonosító jelét,
   - d) várandósság esetén ennek tényét, valamint
-  - e) az Szja tv. 29/G. § (3) bekezdése szerint a kedvezmény alapját képező jövedelmeket jogcímenként,
+  - e) a 30 év alatti anyák kedvezményéről szóló 2025. évi XIII. törvény 1. § (3) bekezdése szerint a kedvezmény alapját képező jövedelmeket jogcímenként,
 - 8. a 6–7b. pont szerinti kedvezmény esetében a változás bekövetkezésének időpontját, ha a természetes személy az adóelőleg-nyilatkozat tartalmát érintő változás miatt új nyilatkozatot ad a munkáltató, kifizető részére,
 - 9. a társadalombiztosítási járulék alapját képező jövedelmet, a társadalombiztosítási járulék-köteles jutalom összegét, illetve a levont társadalombiztosítási járulék összegét,
 - 10. a társadalombiztosítási járulék levonása, illetve levonás elmaradásának okát,
@@ -784,7 +784,7 @@ Az adóbevallás benyújtásában akadályozott adózó az akadályoztatás megs
 - a) a csoportos általános forgalmi adóalanyiság létrejöttétől, illetve a csoporthoz csatlakozástól számított harminc napon belül a csoporttag az általános forgalmi adójáról,
 - b) a csoportazonosító szám törlése esetén, a csoportképviselő – a törlő határozat véglegessé válásától számított harminc napon belül – a csoport általános forgalmi adójáról.
 
-(5) Ha a biztosított mezőgazdasági őstermelő, az Szja tv. rendelkezései szerint átalányadózást alkalmazó biztosított egyéni vállalkozó öregségi nyugdíj iránti igényt nyújt be, az igénylés benyújtását követő harminc napon belül saját magára vonatkozóan soron kívüli adóbevallást tesz az 50. § (2) bekezdésében meghatározott adatokról a bevallással még le nem fedett, az öregségi nyugdíj megállapításának általa kért kezdő napját megelőző napig terjedő időszakra vonatkozóan.
+(5) Ha a biztosított mezőgazdasági őstermelő, a biztosított egyéni vállalkozó öregségi nyugdíj iránti igényt nyújt be, az igénylés benyújtását követő harminc napon belül saját magára vonatkozóan soron kívüli adóbevallást tesz az 50. § (2) bekezdésében meghatározott adatokról a bevallással még le nem fedett, az öregségi nyugdíj megállapításának általa kért kezdő napját megelőző napig terjedő időszakra vonatkozóan.
 
 (6) Ha az alkalmazandó bevallási gyakoriság – a 2. melléklet B. rész 3.4. pontjának figyelembevételével – az adómegállapítási időszak közben megváltozik, az általános forgalmi adó bevallás benyújtására kötelezett adózó az általános forgalmi adóról az áttérést megelőző naptól számított harminc napon belül soron kívüli bevallást nyújt be a bevallással még le nem fedett időszakról.
 
@@ -1781,22 +1781,25 @@ Ha az adóhatóságnak az ellenőrzési eljárás keretében végrehajtott adatm
 
 (7) A nyugtatár-szolgáltató a nyugtatárba beérkezett adatokat tíz évig őrzi.
 
-#### 125. § [Közhiteles adóhatósági nyilvántartásra vonatkozó szabályok]
+#### 125. § [Az adóhatósági nyilvántartási bejegyzésre vonatkozó szabályok]
 
-(1) Az adóhatóság a jogszabályban meghatározott adatokról közhiteles hatósági nyilvántartást vezet, ha
+(1) Az adóhatósági nyilvántartásba történt bejegyzés határozatnak minősül.
 
-- a) a nyilvántartásba történő bejegyzés, annak módosítása és a nyilvántartásból való törlés az adózó jogait és kötelezettségeit keletkezteti, módosítja vagy szünteti meg, vagy
-- b) a nyilvántartás vezetésének célja a benne foglalt adatok közhitelű igazolására, bizonyítására szolgál.
+(2) Az adóhatósági nyilvántartásba történő hivatalbóli, mérlegelés nélküli bejegyzésre a határozatra vonatkozó – a döntés tartalma, véglegessége, kijavítása, kiegészítése és saját kézbesítő útján történő kézbesítése tárgyában irányadó – rendelkezéseket nem kell alkalmazni, és a döntés a nyilvántartásba való bejegyzés napján véglegessé válik.
 
-(2) Az adóhatósági nyilvántartásba történt bejegyzés határozatnak minősül.
+(3) Az adózó jogorvoslati kérelmének benyújtására nyitva álló határidő akkor kezdődik, amikor a bejegyzés tényét vagy az annak megtagadásáról szóló határozatot az adózóval közölték.
 
-(3) Ha törvény eltérően nem rendelkezik, az adóhatósági nyilvántartás közhitelessége alapján az ellenkező bizonyításáig vélelmezni kell annak jóhiszeműségét, aki az adóhatósági nyilvántartásban szereplő adatokban bízva szerez jogot. Az ellenkező bizonyításáig az adóhatósági nyilvántartásba bejegyzett adatról vélelmezni kell, hogy az fennáll, és az adóhatósági nyilvántartásból törölt adatról vélelmezni kell, hogy nem áll fenn.
+#### 125/A. § [Az állami adó- és vámhatóság által vezetett nyilvántartások közhitelessége]
 
-(4) Az adóhatósági nyilvántartásba történő hivatalbóli, mérlegelés nélküli bejegyzésre a határozatra vonatkozó – a döntés tartalma, véglegessége, kijavítása, kiegészítése és saját kézbesítő útján történő kézbesítése tárgyában irányadó – rendelkezéseket nem kell alkalmazni, és a döntés a nyilvántartásba való bejegyzés napján véglegessé válik.
+Az állami adó- és vámhatóság által vezetett, illetve működtetett
 
-(5) Az adózó jogorvoslati kérelmének benyújtására nyitva álló határidő akkor kezdődik, amikor a bejegyzés tényét vagy az annak megtagadásáról szóló határozatot az adózóval közölték.
+- a) adóalanyok törzsnyilvántartása az adószám, az adóazonosító jel, a közösségi adószám és a csoportazonosító szám,
+- b) adószámla nyilvántartás az adónem egyenleg és adószámla egyenleg, a felszámított, illetve előírt késedelmi pótlék, az elévült tartozás és túlfizetés,
+- c) köztartozásmentes adózói adatbázis a köztartozásmentes adózói adatbázisba történő felvétel napja,
+- d) be nem jelentett foglalkoztatottat foglalkoztatók listája a jogsértést megállapító határozat véglegessé válásának napja, közigazgatási per esetén a bírósági határozat jogerőssé válásának napja és a közzététel napja,
+- e) rendezett munkaügyi kapcsolatok követelményének meg nem felelő adózók listája a jogsértést megállapító határozat véglegessé válásának napja és a közzététel napja
 
-(6) Az állami adó- és vámhatóság a 41. § (2)–(4) bekezdésében, a 44. §-ban, a 123. §-ban, a 260. §-ban, a 263. §–266. §-ban és az 1. melléklet 1., 3., 14., 24. pontjában meghatározott adatok tekintetében közhiteles hatósági nyilvántartást vezet, illetve a 37. § (1) bekezdésében, a 70. § (1) bekezdésében, a 106. §-ban, a 260. §-ban foglalt nyilvántartás közhiteles hatósági nyilvántartásnak minősül. E nyilvántartások azon adatok kivételével minősülnek közhitelesnek, amely adatokat jogszabály más nyilvántartás részeként közhitelesnek minősít.
+tekintetében közhiteles nyilvántartásnak minősül.
 
 #### 126. § [A hatósági bizonyítvány, igazolvány]
 
@@ -2741,9 +2744,9 @@ E fejezet alkalmazásában elektronikus levélcímen való kapcsolattartás:
 
 ### XXIV. Fejezet — KÜLÖNÖS ELJÁRÁSOK
 
-#### 195. § [Önellenőrzés elbírálása határozattal]
+#### 195. § [Adókötelezettség csökkentése iránti kérelem]
 
-Az adóhatóság az önellenőrzés előterjesztésétől számított tizenöt napon belül – ellenőrzés lefolytatása nélkül – határozattal bírálja el az adózó önellenőrzését, ha az önellenőrzést az adózó kizárólag arra hivatkozással terjeszti elő, hogy az adókötelezettséget megállapító jogszabály alaptörvény-ellenes vagy az Európai Unió kötelező jogi aktusába ütközik, vagy önkormányzati rendelet más jogszabályba ütközik, feltéve hogy az Alkotmánybíróság, a Kúria, illetve az Európai Unió Bírósága e kérdésben hozott döntésének kihirdetésére az önellenőrzés előterjesztésekor még nem került sor, vagy az önellenőrzés a kihirdetett döntésben foglaltaknak nem felel meg.
+Az adóhatóság a kérelem előterjesztésétől számított tizenöt napon belül határozattal bírálja el az adózó adókötelezettség csökkentése iránti kérelmét, ha a kérelmet az adózó kizárólag arra hivatkozással terjeszti elő, hogy az adókötelezettséget megállapító jogszabály alaptörvény-ellenes vagy az Európai Unió kötelező jogi aktusába ütközik, vagy önkormányzati rendelet más jogszabályba ütközik, feltéve, hogy az Alkotmánybíróság, a Kúria, illetve az Európai Unió Bírósága e kérdésben hozott döntésének kihirdetésére a kérelem előterjesztésekor még nem került sor, vagy az adózó kérelme a kihirdetett döntésben foglaltaknak nem felel meg.
 
 #### 196. § [Visszatérítési igény érvényesítése az Alkotmánybíróság, a Kúria, illetve az Európai Unió Bírósága döntése alapján]
 
@@ -2851,6 +2854,8 @@ Az adóhatóság az önellenőrzés előterjesztésétől számított tizenöt n
 
 (2) Ha bíróság az adómegállapításhoz való jog elévülési idején túl az adózó adókötelezettségét érintő jogerős döntést hoz, az adózó az adókötelezettsége rendezése érdekében a már elévült adómegállapítási időszak tekintetében is jogosult önellenőrzés benyújtására. Az önellenőrzéssel érintett kötelezettség ellenőrzésére az adóhatóság az önellenőrzés beérkezésétől számított egy éven belül jogosult. Ha a bíróság ítéletével érintett adómegállapítási időszak már ellenőrzéssel lezárt, az adókötelezettséget az adóhatóság az adózó kérelmére ismételt ellenőrzés keretében rendezi.
 
+(3) Az adózó nem jogosult a (2) bekezdés szerinti önellenőrzés benyújtására, ha az általános forgalmiadó-kötelezettséget érintő önellenőrzés más adózó általános forgalmiadó-kötelezettségét is érintheti.
+
 #### 203. § [Az adómegállapításhoz való jog elévülésének meghosszabbodása]
 
 (1) Az adómegállapításhoz való jog elévülése hat hónappal meghosszabbodik, ha az adóbevallás vagy az adatbejelentés késedelmes benyújtásakor, illetve a költségvetési támogatás igénylésekor az adómegállapításhoz, illetve a költségvetési támogatás igényléséhez való jog elévüléséig kevesebb, mint hat hónap van hátra.
@@ -2930,7 +2935,7 @@ esetén, ha azt adóra, járulékra vagy költségvetési támogatásra követik
 
 (2) Az állami adó- és vámhatóság az adózó részére az adószámlán fennálló tartozásai után havonként felszámított, de a naptári évre vonatkozóan az ötezer forintot el nem érő késedelmi pótlékot nem írja elő.
 
-(3) Az adóhiány késedelmi pótléka az eredeti esedékességtől az ellenőrzésről felvett jegyzőkönyv keltéig, de legfeljebb három évre számítható fel.
+(3) Az adóhiány késedelmi pótléka az eredeti esedékességtől az ellenőrzésről felvett jegyzőkönyv keltéig, de legfeljebb három évre számítható fel. Az állami adó- és vámhatóság az adóhiány után felszámított, adónemenként ötezer forintot el nem érő késedelmi pótlékot nem írja elő.
 
 #### 208. § [A késedelmi pótlék alapja]
 
@@ -3143,12 +3148,14 @@ A természetes és nem természetes személy adózót egymillió forintig terjed
 
 #### 227/B. § [Globális minimum-adószintet biztosító kiegészítő adókkal kapcsolatos bejelentési, bevallási és adatszolgáltatási kötelezettség megsértése]
 
-Az állami adó- és vámhatóság, a globális minimum-adószintet biztosító kiegészítő adókról és ezzel összefüggésben egyes adótörvények módosításáról szóló törvény szerinti
+(1) Az állami adó- és vámhatóság a globális minimum-adószintet biztosító kiegészítő adókról és ezzel összefüggésben egyes adótörvények módosításáról szóló törvény szerinti
 
 - a) bejelentési kötelezettség elmulasztása, késedelmes teljesítése esetén ötmillió forint,
-- b) bevallási és adatszolgáltatási kötelezettség elmulasztása, késedelmes, hiányos, hibás vagy valótlan adattartalmú teljesítése esetén tízmillió forint,
+- b) bevallási kötelezettség elmulasztása, késedelmes, hiányos, hibás vagy valótlan adattartalmú teljesítése esetén tízmillió forint
 
 mulasztási bírságot szabhat ki.
+
+(2) Az állami adó- és vámhatóság a globális minimum-adószintet biztosító kiegészítő adókról és ezzel összefüggésben egyes adótörvények módosításáról szóló törvény, valamint az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együttműködés egyes szabályairól szóló 2013. évi XXXVII. törvény szerinti adatszolgáltatási kötelezettség elmulasztása, késedelmes, hiányos, hibás vagy valótlan adattartalmú teljesítése esetén tízmillió forint mulasztási bírságot szabhat ki.
 
 #### 228. § [Számla-, nyugtakibocsátási kötelezettség, valamint iratmegőrzési kötelezettség szabályainak megsértése]
 
@@ -3399,7 +3406,7 @@ Ha az állami adó- és vámhatóság az EKAER bejelentési kötelezettség elmu
 
 (1) Az adótanácsadói, adószakértői, vagy okleveles adószakértői tevékenység végzésére jogosult bejelentést tevőkről nyilvántartást kell vezetni. A nyilvántartás vezetésének célja annak hiteles dokumentálása, hogy az adótanácsadói, adószakértői vagy okleveles adószakértői tevékenység végzésére jogosult természetes személy a 248. § (1) bekezdése szerint bejelentést tett és rendelkezik a tevékenység végzéséhez jogszabályban előírt ismeretekkel és szakmai gyakorlattal. A nyilvántartásban szereplő természetes személyek nyilvános adatainak, az azokban bekövetkezett változásoknak a közzététele az ellenőrzés lehetőségének megteremtését és az időszerű tájékoztatást szolgálja.
 
-(2) Az adótanácsadók, adószakértők és okleveles adószakértők nyilvántartása – azon adat kivételével, amelyet jogszabály más nyilvántartás részeként közhitelesnek minősít – közhiteles hatósági nyilvántartásnak minősül.
+(2) Az adótanácsadók, adószakértők és okleveles adószakértők nyilvántartása a 255. § (1) bekezdés a), d), g) és h) pontjában foglalt adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
 (3) A nyilvántartásba vételt végző szervezet a nyilvántartásba vétellel egyidejűleg hivatalból – az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott – hatósági igazolványt állít ki. A hatósági igazolvány kiállításához szükséges fényképet a nyilvántartásba vételt végző szervezet a nyilvántartásba vételi eljárásban a hatósági igazolvány elkészítésének időtartamáig kezeli.
 
@@ -3608,7 +3615,7 @@ ingyenesen hozzáférhet.
 
 #### 260. § [Köztartozásmentes adózói adatbázis működtetése és közzététele]
 
-(1) A köztartozásmentes adózói adatbázis az állami adó- és vámhatóság honlapján közzétett, az az adózók nevét, elnevezését, székhelyét, telephelyét, adóazonosító számát tartalmazó nyilvántartás, amely azokat az adózókat tartalmazza, akik vagy amelyek a közzétételt megelőző hónap utolsó napján az alábbi együttes feltételeknek megfelelnek
+(1) A köztartozásmentes adózói adatbázis az állami adó- és vámhatóság honlapján közzétett, az az adózók nevét, elnevezését, székhelyét, telephelyét, adóazonosító számát és az adatbázisba történő felvétel napját tartalmazó nyilvántartás, amely azokat az adózókat tartalmazza, akik vagy amelyek a közzétételt megelőző hónap utolsó napján az alábbi együttes feltételeknek megfelelnek
 
 - a) az állami adó- és vámhatóságnál nyilvántartott
   - aa) adótartozásnak nem minősülő köztartozása nem haladja meg a harmincezer forintot,
@@ -4050,7 +4057,9 @@ E törvénynek az egyes adókötelezettségekről és egyes adótörvények mód
 
 #### 274/W. § [Átmeneti rendelkezés az egyes adótörvények adminisztrációt csökkentő és jogharmonizációs célú módosításáról szóló 2025. évi LXXXIII. törvényhez]
 
-E törvénynek az egyes adótörvények adminisztrációt csökkentő és jogharmonizációs célú módosításáról szóló 2025. évi LXXXIII. törvénnyel (a továbbiakban: Módtv.14.) megállapított 2. melléklet I. rész B) Az egyes adóbevallások határideje alcím 3. pont 3.1 alpont 3.1.14. pontját a Módtv.14. hatálybalépését megelőző időszakra vonatkozó bejelentésekre és változásbejelentésekre is alkalmazni kell.
+(1) E törvénynek az egyes adótörvények adminisztrációt csökkentő és jogharmonizációs célú módosításáról szóló 2025. évi LXXXIII. törvénnyel (a továbbiakban: Módtv.14.) megállapított 2. melléklet I. rész B) Az egyes adóbevallások határideje alcím 3. pont 3.1 alpont 3.1.14. pontját a Módtv.14. hatálybalépését megelőző időszakra vonatkozó bejelentésekre és változásbejelentésekre is alkalmazni kell.
+
+(2) E törvénynek a Módtv.14.-gyel megállapított 207. § (3) bekezdését a hatálybalépését követően indult ellenőrzések során kell alkalmazni.
 
 #### 275. § [Az Európai Unió jogának való megfelelés]
 
@@ -4094,13 +4103,15 @@ E törvénynek az egyes adótörvények adminisztrációt csökkentő és joghar
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
+(14) E törvény 227/B. § (2) bekezdése az adózás területén történő közigazgatási együttműködésről szóló 2011/16/EU irányelv módosításáról szóló, 2025. április 14-i (EU) 2025/872 tanácsi irányelvnek való megfelelést szolgálja.
+
 ### 1. melléklet az adózás rendjéről szóló 2017. évi CL. törvényhez
 
 #### Az állami adó- és vámhatósághoz bejelentendő adatok
 
 - 1. Az állami adó- és vámhatósághoz be kell jelenteni az adózó
 - 1.1. nevét (elnevezését), rövidített cégnevét,
-- 1.2. természetes személy adóazonosító jelét,
+- 1.2. természetes személy adóazonosító jelét, a Tbj. 4. § 2.1. pontja szerinti egyéni vállalkozó bejelentkezése esetén adóazonosító jelét és TAJ számát,
 - 1.3. külföldi vállalkozás esetén az illetősége szerinti állam hatósága által megállapított adóazonosító számát, és a közös hozzáadottértékadó-rendszerről szóló, 2006. november 28-i 2006/112/EK tanácsi irányelv 284. cikk (3) bekezdésének megfelelően megállapított egyedi azonosítószámát, ha ilyennel rendelkezik,
 - 1.4. címét, székhelyét, a cég székhelyétől különböző központi ügyintézés helyét, telephelyét vagy telephelyeit,
 - 1.5. – a cég honlapján való közzététel esetén – cég elektronikus elérhetőségét, honlapját,
@@ -4130,13 +4141,14 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 - 3. A munkáltató és a kifizető (ideértve a kiegészítő tevékenységet folytatónak nem minősülő, a Tbj. 4. § 2. pontja szerinti egyéni vállalkozót és a biztosított mezőgazdasági őstermelőt, és a Tbj. 87. §-a szerinti kötelezettet is), valamint a Tbj. 68. § (2) és (3) bekezdése és a Tbj. 85. § alapján eljáró szerv – a munkáltató, kifizető adóazonosító számának, nevének, elnevezésének, székhelyének, telephelyének, lakóhelyének, továbbá jogelődje nevének és adószámának közlésével – az állami adó- és vámhatóságnak elektronikus úton vagy az erre a célra rendszeresített nyomtatványon bejelenti az általa foglalkoztatott biztosított családi és utónevét, adóazonosító jelét, születési idejét, biztosítási jogviszonyának kezdetét, kódját, megszűnését, a biztosítás szünetelésének időtartamát, a heti munkaidejét, a FEOR-számát, a TAJ számát. Ha a biztosított nem rendelkezik adóazonosító jellel, a születési családi és utónevét, születési helyét, anyja születési családi és utónevét és a biztosított állampolgárságát is kötelező bejelenteni. A bejelentést
 - 3.1. a biztosítás kezdetére vonatkozóan legkésőbb a biztosítási jogviszony első napján, a foglalkoztatás megkezdése előtt, álláskeresési támogatás esetén a támogatást megállapító határozat jogerőre emelkedését követő tíz napon belül, illetve ha a biztosítás elbírálására utólag kerül sor, legkésőbb a biztosítási kötelezettség megállapítását követő napon kell teljesíteni,
 - 3.2. a jogviszony megszűnését, a szünetelés kezdetét és befejezését, a biztosítás megszűnését követően folyósított ellátás kezdő és befejező időpontját követő 8 napon belül kell teljesíteni, kivéve, ha a munkáltató az 50. § szerinti havi adó- és járulékbevallásban feltünteti a biztosítási jogviszony megszűnésének időpontját. Ez utóbbi esetben a havi adó- és járulékbevallás beérkezését követően az állami adó- és vámhatóság az adózó által közölt bevallási adatok alapján a biztosítási jogviszony megszűnéséről szóló bejelentést hivatalból e pontban foglaltaknak megfelelően elvégzi, amelyet a 6. pont alapján továbbít az egészségbiztosítás biztosítotti nyilvántartásának, és erről a foglalkoztatottat valamint a foglalkoztatót értesíti. Az állami adó- és vámhatóság a biztosítási jogviszony megszűnésének bejelentését nem pótolhatja, ha a foglalkoztatottnak a foglalkoztatóval egyidejűleg több biztosítási jogviszonya áll fenn.
-- 3.3. ha a foglalkoztató személyében jogutódlás következik be, a jogutód munkáltató, kifizető köteles a jogutódlással érintett, a Tbj. 6. § (1) bekezdés a)–c) és f)–g) pontja, valamint (2) bekezdése szerinti biztosított személyre vonatkozóan teljesíteni; a bejelentési határidőkre a 3.1. és 3.2. pontot, a bejelentendő adatok körére e bekezdést kell alkalmazni, azzal, hogy a bejelentésben fel kell tüntetni a jogelőd nevét, elnevezését és adószámát, a jogutódlás tényét és napját, továbbá a jogutód nevét, elnevezését, adószámát és a jogutód megalakulása napját is.
+- 3.3. ha a foglalkoztató személyében jogutódlás következik be, a jogutód munkáltató, kifizető köteles a jogutódlással érintett, a Tbj. 6. § (1) bekezdés a)–c), f)–g) és l) pontja, valamint (2) bekezdése szerinti biztosított személyre vonatkozóan teljesíteni; a bejelentési határidőkre a 3.1. és 3.2. pontot, a bejelentendő adatok körére e bekezdést kell alkalmazni, azzal, hogy a bejelentésben fel kell tüntetni a jogelőd nevét, elnevezését és adószámát, a jogutódlás tényét és napját, továbbá a jogutód nevét, elnevezését, adószámát és a jogutód megalakulása napját is.
 - 3.4. Ha a munkáltató, kifizető a 3.2. pont szerinti bejelentési kötelezettségét nem teljesítette, és az adózóról nyilvántartást vezető szerv – ideértve különösen a cégnyilvántartást, egyéni vállalkozói nyilvántartást, civil szervezetek névjegyzékét vezető szervet – által nyilvántartott adatok alapján jogutód nélkül megszűnt, az elmulasztott bejelentési kötelezettséget az állami adó-és vámhatóság hivatalból pótolja a jogutód nélküli megszűnés időpontjáról való tudomásszerzéstől számított tizenöt napon belül, amelyről elektronikus úton adatot szolgáltat az egészségbiztosítás biztosítotti nyilvántartása részére.
 - 3.5. A 3.4. pont szerinti esetben a biztosítási jogviszony megszűnésének vélelmezett időpontja a munkáltató, kifizető megszűnésének időpontja.
 - 3.6. Az állami adó- és vámhatóság a biztosítási jogviszony lezárásáról a természetes személyt értesíti.
 - 3.7. A 3.4. pontban foglalt rendelkezés az egyéni vállalkozó halála vagy gondnokság alá helyezése esetén akkor alkalmazható, ha az egyéni vállalkozó özvegye, örököse vagy törvényes képviselője nem jelenti be törvényi határidőn belül a tevékenység folytatását.
 - 3.8. Határozott idejű foglalkoztatás esetén a bejelentést egyidejűleg a biztosítás kezdetére és a jogviszony megszűnésére vonatkozóan is teljesíteni kell legkésőbb a biztosítási jogviszony első napján, de még a foglalkoztatás megkezdése előtt. A jogviszony megszűnése időpontjának módosulása vagy a határozott időtartam határozatlan időtartamra változása esetén e törvény változás-bejelentésre vonatkozó szabályai az irányadók.
 - 3.9. Ha a munkáltató végelszámolás, felszámolás, illetve kényszertörlési eljárás alatt áll, akkor a 3.2. alpont szerinti foglalkoztatottak biztosítási jogviszonya megszűnésének bejelentésére a végelszámoló, felszámoló, valamint a Bérgarancia biztos kötelezett.
+- 3.10. A 3.1. ponttól eltérően az állami adó- és vámhatóság a Tbj. 4. § 2.1. pontja szerinti egyéni vállalkozó helyett hivatalból teljesíti az egyéni vállalkozóra e minőségében vonatkozó biztosítotti bejelentést az 1. pont szerinti bejelentés, valamint az egyéni vállalkozók nyilvántartásának adatai alapján.
 - 4. Ha a munkáltató az egyszerűsített foglalkoztatásról szóló 2010. évi LXXV. törvényben (a továbbiakban: Efo. tv.) meghatározott korlátok túllépése miatt az Szja tv. és a Tbj. általános adózási és járulékfizetési szabályait köteles alkalmazni, az egyszerűsített foglalkoztatottként bejelentett személy(eke)t a jogsértés feltárásától számított nyolc napon belül – a 3. pontban előírt módon biztosítottként – jelenti be. Ettől eltérően nem kell a 3. pont szabályai szerint biztosítottként bejelenteni azt a természetes személyt, akit a munkáltató egyszerűsített foglalkoztatottként bejelentett, de a munkát nem vette fel és munkavégzés hiányában jövedelem kifizetésére nem került sor.
 - 5. A több munkáltató által létesített munkaviszony esetén a 3. pont szerinti bejelentésben a kijelölt munkáltató bejelenti az ugyanazon munkaviszony tekintetében a további foglalkoztató (e § alkalmazásában a továbbiakban: további foglalkoztató) adóazonosító számát, nevét, elnevezését, székhelyének címét, valamint a több munkáltató által létesített munkaviszonyban való részvétele kezdetét és a munkaviszonyból való kilépésének idejét. A bejelentés határidejére a 3.1. és 3.2. pontja megfelelően alkalmazandó.
 - 6. Az állami adó- és vámhatóság a 3. és 5. pontban meghatározott, munkáltató vagy kifizető, valamint a Tbj. 68. § (2) és (3) bekezdése alapján eljáró szerv által elektronikusan bejelentett adatokat azok beérkezését követően elektronikus úton haladéktalanul megküldi az egészségbiztosítás biztosítotti nyilvántartásának. A nyomtatványon teljesített munkáltatói, kifizetői bejelentéseket az állami adó- és vámhatóság soron kívül feldolgozza és elektronikus dokumentum formájában továbbítja az egészségbiztosítás biztosítotti nyilvántartása részére.
@@ -4150,7 +4162,7 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 - 13. Az előtársaság a cégbejegyzési kérelme benyújtása napjáig tartó időszakában az Efo. tv.-ben meghatározott bejelentési kötelezettségének elektronikus úton adószám feltüntetése nélkül tesz eleget. Az előtársaság az adószám megszerzésétől számított nyolc napon belül – az adószámot és a korábban teljesített bejelentés adóhatósági iktatószámát is feltüntetve – ismételten bejelenti a cégbejegyzési kérelem benyújtását megelőzően az Efo. tv. keretében általa foglalkoztatott természetes személy Efo. tv. 11. § (3) bekezdése szerinti adatait.
 - 14. Az iskolaszövetkezetnek, a közérdekű nyugdíjas szövetkezetnek, illetve a kisgyermekkel otthon lévők szövetkezetének a Tbj. 6. § (1) bekezdés b) pontja alapján biztosítottnak nem minősülő, a szövetkezetekről szóló törvény szerinti tagsági megállapodás alapján személyesen közreműködő tagja esetében – a 3. pontban foglaltaktól eltérően – az iskolaszövetkezet, illetve a közérdekű nyugdíjas szövetkezet, továbbá a kisgyermekkel otthon lévők szövetkezete az állami adó- és vámhatóság felé köteles a külső szolgáltatásra vonatkozó tagsági megállapodás megkötésének napján bejelenteni
 - 14.1. az iskolaszövetkezet, a közérdekű nyugdíjas szövetkezet, illetve a kisgyermekkel otthon lévők szövetkezetének adószámát,
-- 14.2. az iskolaszövetkezeti, a közérdekű nyugdíjas szövetkezeti tag, illetve a kisgyermekkel otthon lévők szövetkezete tagja adóazonosító jelét és társadalombiztosítási azonosító jelét, továbbá iskolaszövetkezeti tag esetén diákigazolványa számát, közérdekű nyugdíjas szövetkezeti tag esetén nyugdíjfolyósítási törzsszámát, illetve kisgyermekkel otthon lévők szövetkezetének tagja esetén azt, hogy nem nagyszülőként részesül-e gyermekgondozási díjban vagy gyermekgondozást segítő ellátásban.
+- 14.2. az iskolaszövetkezeti, a közérdekű nyugdíjas szövetkezeti tag, illetve a kisgyermekkel otthon lévők szövetkezete tagja adóazonosító jelét és társadalombiztosítási azonosító jelét, továbbá iskolaszövetkezeti tag esetén diákigazolványa számát, közérdekű nyugdíjas szövetkezeti tag esetén nyugdíjfolyósítási törzsszámát, illetve kisgyermekkel otthon lévők szövetkezetének tagja esetén azt, hogy részesül-e csecsemőgondozási díjban, gyermekek otthongondozási díjában, gyermeknevelési támogatásban, örökbefogadói díjban, nem nagyszülőként gyermekgondozási díjban vagy gyermekgondozást segítő ellátásban.
 - 15. Az iskolaszövetkezet, a közérdekű nyugdíjas szövetkezet, továbbá a kisgyermekkel otthon lévők szövetkezete köteles az állami adó- és vámhatósághoz bejelenteni a jogviszony megszűnését követő nyolc napon belül az iskolaszövetkezeti, illetve közérdekű nyugdíjas szövetkezeti tag, továbbá a kisgyermekkel otthon lévők szövetkezete tagjának jogviszonya megszűnésének napját. Jogutódlás esetén a 3.3. pontjában foglaltakat megfelelően alkalmazni kell.
 - 16. Az iskolaszövetkezet, a közérdekű nyugdíjas szövetkezet, továbbá a kisgyermekkel otthon lévők szövetkezete bejelentési kötelezettségét az egyszerűsített foglalkoztatás bejelentésével azonos módon
 - 16.1. elektronikus úton – a tárhelyen keresztül – vagy
@@ -4400,15 +4412,13 @@ fizeti meg, illetve ettől az időponttól igényelheti vissza.
 
 2.2. Az éves bevallásra kötelezett adózó év közben negyedévenkénti, a negyedévenként bevallásra kötelezett adózó a havonkénti elszámolás és bevallás engedélyezését kérheti. Az adóhatóság a gyakoribb elszámolást – az adóév végéig – különösen abban az esetben engedélyezheti, ha az adózó beszerzéseit terhelő levonható előzetesen felszámított forgalmiadó-kulcs magasabb az áthárított forgalmiadó-kulcsnál, illetve az adózó beruházást valósít meg. Az adóhatóság megtagadja az engedély kiadását, ha
 
-2.2.1. az adózó adószámát törölték, ha a törlés hatálya a kérelem benyújtásának napján fennáll,
+2.2.1. az adószám felfüggesztés hatálya alatt állt vagy adószámát törölték,
 
-2.2.2. az adóhatóság az adózót – számla-, nyugtakibocsátási kötelezettség elmulasztása, be nem jelentett foglalkoztatott foglalkoztatása miatt – a kérelem benyújtását megelőző két éven belül véglegessé vált határozatban mulasztási bírsággal sújtotta,
+2.2.2. az adóhatóság – számla-, nyugtakibocsátási kötelezettség elmulasztása, be nem jelentett alkalmazott foglalkoztatása miatt – véglegessé vált határozatban mulasztási bírsággal sújtotta,
 
-2.2.3. az adózó a kérelem benyújtását megelőző két éven belül szerepel(t) a 263. § vagy a 264. § alapján közzéteendő adózói listán,
+2.2.3. szerepel(t) a 263. § vagy a 264. § alapján közzéteendő adózói listán,
 
-2.2.4. az adózó ellen huszonötmillió forintot elérő vagy azt meghaladó összegű adótartozás miatt a kérelem benyújtását megelőző két éven belül végrehajtási eljárás folyt vagy folyik,
-
-2.2.5. az adózóval szemben csőd-, végelszámolási, kényszertörlési vagy felszámolási eljárás indult, amely a kérelem benyújtásának napján folyamatban van.
+2.2.4. huszonötmillió forintot elérő vagy azt meghaladó összegű adótartozás miatt végrehajtási eljárás folyt vagy folyik ellene.
 
 2.3. A gyakorított elszámolás évközi engedélyezése esetén az engedély szerinti bevallási kötelezettségre áttérést megelőző, bevallással le nem zárt időszakra vonatkozó adókötelezettséget meg kell állapítani, be kell vallani, meg kell fizetni.
 
@@ -4418,7 +4428,7 @@ fizeti meg, illetve ettől az időponttól igényelheti vissza.
 
 3.1. A társasági adó előlege
 
-3.1.1. Az adózó, ha a Tao tv. szerint havonta fizet adóelőleget, akkor az adóelőleget minden hónap huszadik napjáig, ha a Tao tv. szerint negyedévenként fizet adóelőleget, akkor az adóelőleget a negyedévet követő hó huszadik napjáig fizeti meg.
+3.1.1. Az adózó, ha a Tao tv. szerint havonta fizet adóelőleget, akkor az adóelőleget minden hónap huszadik napjáig, ha a Tao tv. szerint negyedévenként fizet adóelőleget, akkor az adóév első három negyedévére jutó adóelőleget a negyedévet követő hó huszadik napjáig, az adóév utolsó negyedévére jutó adóelőleget a negyedév harmadik hónapjának huszadik napjáig fizeti meg.
 
 3.1.2.
 
@@ -4438,7 +4448,7 @@ fizeti meg, illetve ettől az időponttól igényelheti vissza.
 
 4.1.2. a kifizető az általa levont járulékot a kifizetés hónapját követő hó tizenkettedik napjáig,
 
-4.1.3. a Tbj. 4. § 2. pontja szerinti egyéni vállalkozó a társadalombiztosítási járulékot havonta a tárgyhónapot követő hónap tizenkettedik napjáig
+4.1.3. a Tbj. 4. § 2. pontja szerinti egyéni vállalkozó a társadalombiztosítási járulékot negyedévente a tárgynegyedévet követő hónap tizenkettedik napjáig
 
 fizeti meg.
 

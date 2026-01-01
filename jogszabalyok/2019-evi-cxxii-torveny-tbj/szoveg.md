@@ -117,6 +117,9 @@ abban az esetben is, ha a nyugellátás folyósítása szünetel.
   - 21.4. az egyéni cég tagja,
   - 21.5. 21.5. a betéti társaság, a közkereseti társaság és a korlátolt felelősségű társaság olyan természetes személy tagja, aki a társaság ügyvezetését nem munkaviszony alapján látja el, kivéve, ha az 1. alpont szerint társas vállalkozónak minősül.
 - 22. Nemzetgazdasági szintű bruttó átlagkereset: a Központi Statisztikai Hivatal által a Hivatalos Értesítőben közzétett, teljes munkaidőben alkalmazásban állókra tekintettel megállapított bruttó átlagkereset.
+- 23. tartós megbízási jogviszony: olyan megbízási jogviszony, amelyet a foglalkoztató tartós megbízási jogviszonyként jelent be az állami adó- és vámhatóságnak.
+- 24. Komplex Jogviszony Nyilvántartás: olyan informatikai rendszer, amely a természetes személyek számára az e törvény szerinti biztosítási jogviszonnyal, vagy egyéb jogcímen egészségügyi szolgáltatást megalapozó jogosultsággal, továbbá a nyugdíjcélú járulékfizetéssel és az Európai Egészségbiztosítási Kártyával kapcsolatos adatok egy felületen történő lekérdezését, valamint az ehhez kapcsolódó ügyintézési lehetőségeket támogatja.
+- 25. jogcímcsoport: a Komplex Jogviszony Nyilvántartás szolgáltatásainak igénybevételéhez biztosított ügyintézési felületen megjelenő, az 58. § (2) bekezdés 24. pontja szerinti jogosulti jogcímek összesített megnevezése.
 
 ### III. Fejezet — A TÁRSADALOMBIZTOSÍTÁS ELLÁTÁSAI ÉS AZ ELLÁTÁSRA JOGOSULTAK
 
@@ -158,19 +161,20 @@ abban az esetben is, ha a nyugellátás folyósítása szünetel.
   - ba) az iskolaszövetkezet nappali rendszerű oktatás keretében tanulmányokat folytató tanuló, képzésben részt vevő személy, hallgató tagját – 25. életévének betöltéséig a tanulói, hallgatói jogviszonya szünetelésének időtartama alatt is –,
   - bb) a közérdekű nyugdíjas szövetkezet öregségi nyugdíjban vagy átmeneti bányászjáradékban részesülő tagját, és
   - bc) a szociális szövetkezetben tagi munkavégzés keretében munkát végző tagot,
-  - bd) a kisgyermekkel otthon lévők szövetkezetének nem nagyszülőként gyermekgondozási díjban vagy gyermekgondozást segítő ellátásban részesülő, egyéb jogcímen – ide nem értve az f) pont és a (2) bekezdés szerint – biztosított tagját,
+  - bd) a kisgyermekkel otthon lévők szövetkezetének csecsemőgondozási díjban, gyermekek otthongondozási díjában, gyermeknevelési támogatásban, örökbefogadói díjban, nem nagyszülőként gyermekgondozási díjban vagy gyermekgondozást segítő ellátásban részesülő, egyéb jogcímen – ide nem értve az f) pont és a (2) bekezdés szerint – biztosított tagját,
 - c) álláskeresési támogatásban részesülő személy,
 - d) egyéni vállalkozó,
 - e) társas vállalkozó,
-- f) díjazás ellenében munkavégzésre irányuló egyéb jogviszony keretében (megbízási szerződés alapján, egyéni vállalkozónak nem minősülő vállalkozási jogviszonyban) személyesen munkát végző személy – a törvényben meghatározott közérdekű önkéntes tevékenységet végző személy kivételével – ha az e tevékenységéből származó, tárgyhavi járulékalapot képező jövedelme eléri a minimálbér harminc százalékát, vagy naptári napokra annak harmincad részét,
+- f) díjazás ellenében munkavégzésre irányuló egyéb jogviszony keretében (megbízási szerződés alapján – ide nem értve a tartós megbízási jogviszonyt –, egyéni vállalkozónak nem minősülő vállalkozási jogviszonyban) személyesen munkát végző személy – a törvényben meghatározott közérdekű önkéntes tevékenységet végző személy kivételével – ha az e tevékenységéből származó, tárgyhavi járulékalapot képező jövedelme eléri a minimálbér harminc százalékát, vagy naptári napokra annak harmincad részét,
 - g) egyházi szolgálati viszonyban álló egyházi személy,
 - h) mezőgazdasági őstermelő, kivéve
   - ha) az őstermelők családi gazdaságának kiskorú tagját,
   - hb) az egyéb jogcímen – ide nem értve a f) pont és a (2) bekezdés szerint – biztosítottat,
   - hc)
 - i) a kisadózó vállalkozók tételes adójáról szóló törvényben meghatározottak szerint bejelentett személy;
-- j) állami projektértékelői jogviszonyban, illetve az Európai Unió Tanácsa 2024. második félévi magyar elnökségével kapcsolatos feladatok ellátására irányuló jogviszonyban álló személy, ha az e tevékenységéből származó, tárgyhavi járulékalapot képező jövedelme eléri a minimálbér harminc százalékát, vagy naptári napokra annak harmincad részét,
+- j) állami projektértékelői jogviszonyban álló személy, ha az e tevékenységéből származó, tárgyhavi járulékalapot képező jövedelme eléri a minimálbér harminc százalékát, vagy naptári napokra annak harmincad részét,
 - k) a köztársasági elnök saját jogú nyugdíjasnak nem minősülő házastársa arra az időre, amelyre a fennálló biztosítással járó jogviszonyában a biztosítása szünetel, vagy nem rendelkezik más biztosítással járó jogviszonnyal.
+- l) tartós megbízási jogviszony keretében munkát végző személy.
 
 (2) Az (1) bekezdés f) pontjában foglaltakon túl, munkavégzésre irányuló egyéb jogviszony keretében munkát végző személynek kell tekinteni azt is, aki gazdasági társaság társas vállalkozónak nem minősülő vezető tisztségviselője, alapítvány, egyesület, egyesületek szövetsége, társasház közösség, köztestület, kamara, európai részvénytársaság, egyesülés, európai gazdasági egyesülés, európai területi társulás, vízgazdálkodási társulat, erdőbirtokossági társulat, egyéb állami gazdálkodó szerv, egyes jogi személyek vállalata, közös vállalat, egyéni cég, szövetkezet, lakásszövetkezet, európai szövetkezet, állami vállalat, egyes jogi személyek vállalata, vállalatcsoport, Munkavállalói Résztulajdonosi Program szervezeteinek, önkéntes kölcsönös biztosító pénztárak, magánnyugdíjpénztárak tisztségviselője, vezető tisztségviselője, vagy e szervezetek felügyelőbizottságának, illetve a Kormány egyéb javaslattevő, véleményező vagy tanácsadói tevékenységet végző testületének a tagja, a helyi önkormányzati választásokon választott képviselő és tisztségviselők, társadalmi megbízatású polgármester, feltéve, hogy járulékalapot képező jövedelemnek minősülő tiszteletdíja (díjazása) eléri az (1) bekezdés f) pontjában meghatározott összeget, és a munkát Magyarországon vagy a szociális biztonsági rendszerek koordinálásáról szóló közösségi rendelet hatálya alá tartozó másik tagállam, vagy Magyarország által kötött kétoldalú szociális biztonságról szóló egyezményben részes másik állam területén végzi.
 
@@ -376,7 +380,7 @@ fizet.
   - bb) a tevékenység ellenértékeként a tárgy hónapban megszerzett – munkaviszony esetében a tárgyhónapra elszámolt – jövedelem, ha az nem éri el az alapbér (szerződésben meghatározott díj havi összege) vagy a tárgyévet megelőző év július hónapjára közzétett nemzetgazdasági szintű bruttó átlagkereset közül az egyiket;
   - bc) a tevékenység ellenértékeként harmadik ország állampolgára által a tárgyhónapban megszerzett – munkaviszony esetében a tárgyhónapra elszámolt – jövedelem.
 
-(2) A 6. § (1) bekezdés a) pontjában meghatározott esetben a járulékalap havonta legalább a minimálbér 30 százaléka (a továbbiakban: járulékfizetési alsó határ), azzal, hogy ha
+(2) A 6. § (1) bekezdés a) és l) pontjában meghatározott esetben a járulékalap havonta legalább a minimálbér 30 százaléka (a továbbiakban: járulékfizetési alsó határ), azzal, hogy ha
 
 - a) a biztosítási kötelezettséget eredményező jogviszony hónap közben keletkezik vagy szűnik meg,
 - b) a biztosítási jogviszony a 16. § alapján a hónap egészében nem áll fenn, vagy
@@ -384,7 +388,7 @@ fizet.
 
 a járulékfizetési alsó határ meghatározása során az a)–c) pontok szerinti naptári napokat figyelmen kívül kell hagyni. Amennyiben az a)–c) pontokban meghatározott körülmények a naptári hónap csak egy részében állnak fenn, a járulékfizetési alsó határ kiszámításánál egy-egy naptári napra a járulékalap harmincad részét kell alapul venni.
 
-(3) A (2) bekezdés szerinti járulékfizetési alsó határra vonatkozó rendelkezést nem kell alkalmazni a munkaviszonyban álló és
+(3) A (2) bekezdés szerinti járulékfizetési alsó határra vonatkozó rendelkezést nem kell alkalmazni a munkaviszonyban, tartós megbízási jogviszonyban álló és
 
 - a) csecsemőgondozási díjban, gyermekgondozási díjban, gyermekek otthongondozási díjában, örökbefogadói díjban, gyermekgondozást segítő ellátásban, gyermeknevelési támogatásban, ápolási díjban részesülők,
 - b) a köznevelési intézményben nappali rendszerű iskolai oktatás keretében vagy nappali oktatás munkarendje szerint folyó oktatásban tanulmányokat folytató tanuló, a szakképző intézmény által szervezett szakmai oktatásban jogszabály alapján ingyenesen részt vevő tanuló, illetve képzésben részt vevő személy, továbbá a felsőoktatási intézményben nappali rendszerű oktatás keretében tanulmányokat folytató hallgató esetében.
@@ -480,7 +484,7 @@ ténylegesen érvényesített családi kedvezménnyel csökkentett összeg 15 sz
 
 - a) táppénzben, baleseti táppénzben, csecsemőgondozási díjban, örökbefogadói díjban, gyermekgondozási díjban részesül,
 - b) gyermekgondozást segítő ellátásban, gyermeknevelési támogatásban, gyermekek otthongondozási díjában vagy ápolási díjban részesül, kivéve, ha a gyermekgondozást segítő ellátás, a gyermekek otthongondozási díja, illetve az ápolási díj fizetésének időtartama alatt vállalkozói tevékenységét személyesen folytatja,
-- c) csecsemőgondozási díjban, örökbefogadói díjban, gyermekgondozási díjban vagy gyermekgondozást segítő ellátásban egyidejűleg részesül,
+- c) csecsemőgondozási díjban, örökbefogadói díjban, gyermekgondozási díjban részesül és egyidejűleg gyermekgondozást segítő ellátást, gyermeknevelési támogatást, gyermekek otthongondozási díját vagy ápolási díjat is kap,
 - d) katonai szolgálatot teljesítő önkéntes tartalékos katona,
 - e) fogvatartott,
 - f) ügyvédként, szabadalmi ügyvivőként, közjegyzőként kamarai tagságát szünetelteti.
@@ -499,7 +503,7 @@ ténylegesen érvényesített családi kedvezménnyel csökkentett összeg 15 sz
 
 - a) táppénzben, baleseti táppénzben, csecsemőgondozási díjban, örökbefogadói díjban, gyermekgondozási díjban részesül,
 - b) gyermekgondozást segítő ellátásban, gyermeknevelési támogatásban, gyermekek otthongondozási díjában vagy ápolási díjban részesül, kivéve, ha a gyermekgondozást segítő ellátás, a gyermekek otthongondozási díja, illetve az ápolási díj fizetésének időtartama alatt vállalkozói tevékenységét személyesen folytatja,
-- c) csecsemőgondozási díjban, örökbefogadói díjban, gyermekgondozási díjban vagy gyermekgondozást segítő ellátásban egyidejűleg részesül,
+- c) csecsemőgondozási díjban, örökbefogadói díjban, gyermekgondozási díjban részesül és egyidejűleg gyermekgondozást segítő ellátást, gyermeknevelési támogatást, gyermekek otthongondozási díját vagy ápolási díjat is kap,
 - d) katonai szolgálatot teljesítő önkéntes tartalékos katona,
 - e) fogvatartott,
 - f) ügyvédként, szabadalmi ügyvivőként, közjegyzőként kamarai tagságát, egyéni vállalkozói tevékenységét a tárgyhó egészében szünetelteti.
@@ -724,42 +728,50 @@ kívánja szolgálati időként elismertetni.
 - n) érvényváltozás és a változás bejegyzés időpontja, időpontjai (jogcím, passziválás, viselt név, születési név, anyja neve, családi állapot, állampolgárság adatkörök esetén),
 - o) elhalálozás időpontja és helye.
 
+(2a) A TAJ nyilvántartás a (2) bekezdés a) pontjában meghatározott adat tekintetében közhiteles hatósági nyilvántartás.
+
 (3) A TAJ nyilvántartásban szereplő személyes adatokat a Kincstár központi szerve az érintett természetes személy elhunytát követő 30 évig kezeli.
 
 (4) A Kincstár központi szerve a honvédelmi adatkezelésekről szóló 2022. évi XXI. törvény 19. § t) pontjában és 20. § (1) bekezdés h) pontjában foglaltak szerint adatot szolgáltat a Magyar Honvédség központi nyilvántartó szerve és a területi katonai igazgatási szervek részére a hadkötelesek nyilvántartásának vezetése céljából.
 
 58. § (1) Az Egészségbiztosítási Alap kezelésére kijelölt egészségbiztosítási szerv vezeti az egészségbiztosítási nyilvántartást.
 
-(2) Az egészségbiztosítási nyilvántartásban az egészségügyi szolgáltatásokhoz kapcsolódó nyilvántartási feladatok ellátása, és a hatósági ügyintézés során történő felhasználás és azonosítás céljából nyilván kell tartani a TAJ számmal rendelkező természetes személyre vonatkozó alábbi adatokat és azok változását:
+(2) Az egészségbiztosítási nyilvántartásban az egészségügyi szolgáltatásokhoz kapcsolódó nyilvántartási feladatok ellátása, és a hatósági ügyintézés során történő felhasználás és azonosítás céljából a TAJ számmal rendelkező természetes személyre vonatkozó alábbi adatokat és azok változását kell nyilvántartani:
 
-- a) TAJ szám,
-- b) név (születési családi és utónév, viselt családi név és utónév),
-- c) anyja születési neve,
-- d) születési hely (születés országa, születési hely),
-- e) születési idő,
-- f) állampolgárság,
-- g) nem,
-- h) családi állapot,
-- i) címadatok (lakóhely, tartózkodási hely, annak be- és kikerülési dátuma és a fiktiválás dátuma),
-- j) külföldi állampolgár esetén a Magyarország területén való tartózkodás jogcíme,
-- k) külföldön történő letelepedés időpontja, időpontjai,
-- l) nyilvántartásba vételi adatok (személyes dokumentum típusa, száma, nyilvántartásba vétel dátuma, jogcíme, adatforrás, BM és ÖNY kapcsolati kód),
-- m) a nyilvántartásba történő bekerülés oka,
-- n) kiadott TAJ számot tartalmazó hatósági igazolvány lejáratának dátuma,
-- o) TAJ érvényesség státusza,
-- p) érvényesség kezdeti dátuma,
-- q) érvénytelenítés dátuma, oka, dokumentum típusa, azonosítója,
-- r) a b)–q) pontban felsorolt adatok változásbejegyzésének időpontja,
-- s) elhalálozás időpontja és helye,
-- t) foglalkozás, munkakör, tevékenység, munkahely vagy egészségügyi szolgáltatásra való jogosultságra vonatkozó bejelentő, jogosulti jogcím.
+- 1. TAJ szám,
+- 2. név (születési családi és utónév, viselt családi név és utónév),
+- 3. anyja születési neve,
+- 4. születési hely (születés országa, születési hely),
+- 5. születési idő,
+- 6. állampolgárság,
+- 7. nem,
+- 8. családi állapot,
+- 9. címadatok (lakóhely, tartózkodási hely, annak be- és kikerülési dátuma és a fiktiválás dátuma),
+- 10. külföldi állampolgár esetén a Magyarország területén való tartózkodás jogcíme,
+- 11. külföldön történő letelepedés időpontja, időpontjai,
+- 12. nyilvántartásba vételi adatok (személyes dokumentum típusa, száma, adatforrás),
+- 13. nyilvántartásba vételi adatok (nyilvántartásba vétel dátuma, jogcíme, személyiadat- és lakcímnyilvántartás kapcsolati kódja, valamint az összerendelési nyilvántartás titkosított kapcsolati kódja)
+- 14. a nyilvántartásba történő bekerülés oka,
+- 15. kiadott TAJ számot tartalmazó hatósági igazolvány lejáratának dátuma,
+- 16. TAJ érvényesség státusza,
+- 17. érvényesség kezdeti dátuma,
+- 18. érvénytelenítés dátuma,
+- 19. érvénytelenítés oka,
+- 20. érvénytelenítést megalapozó dokumentum típusa, azonosítója,
+- 21. elhalálozás időpontja és helye
+- 22. a 2–21. pontban felsorolt adatok változásbejegyzésének időpontja,
+- 23. foglalkozás, munkakör, tevékenység,
+- 24. munkahely vagy egészségügyi szolgáltatásra való jogosultságra vonatkozó bejelentő, jogosulti jogcím.
+
+(2a) Az egészségbiztosítási nyilvántartás a (2) bekezdés 13–19., 22. és 24. pontja szerinti adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
 (3) Az egészségbiztosítási nyilvántartásban szereplő személyes adatok az érintett természetes személy elhunytát követő 30 évig nem törölhetőek.
 
-(4) Az állami adó- és vámhatóság adóigazgatási eljárás, adategyeztetés és járulékfizetési kötelezettség teljesítésének vizsgálata, valamint biztosítotti jogviszonnyal kapcsolatos adategyeztetés céljából jogosult a (2) bekezdés a)–e), m), o)–r) és t) pontjaiban megjelölt adatok kezelésére. Az egészségbiztosítási nyilvántartást vezető szerv ezen adatokról az állami adó- és vámhatóság részére egyedi megkeresés alapján elektronikus úton adatot szolgáltat.
+(4) Az állami adó- és vámhatóság adóigazgatási eljárás, adategyeztetés és járulékfizetési kötelezettség teljesítésének vizsgálata, valamint biztosítotti jogviszonnyal kapcsolatos adategyeztetés céljából jogosult a (2) bekezdés 1–5., 14., 16–19. pontjában felsorolt adatok és a (2) bekezdés 2–5., valamint 16–19. pontjában felsorolt adatok változásbejegyzésének időpontja, továbbá a (2) bekezdés 23. és 24. pontjában felsorolt adatok kezelésére. Az egészségbiztosítási nyilvántartást vezető szerv ezen adatokról az állami adó- és vámhatóság részére egyedi megkeresés alapján elektronikus úton adatot szolgáltat.
 
 59. § (1) Az 55. § szerinti nyilvántartások tartalmazzák a foglalkoztatók és a biztosítottak törvényben előírt kötelezettségei teljesítésével szolgáltatott mindazon adatot, amelyből biztosítottanként megállapítható a társadalombiztosítási járulékalapot képező jövedelem, a biztosított után megfizetett, a tőle levont társadalombiztosítási járulék összege, a biztosítási jogviszony időtartama, valamint a biztosítottat megillető ellátások megállapításához szükséges adat.
 
-(2) Az 55. § szerinti nyilvántartások az (1) bekezdésben meghatározott adatok tekintetében közhiteles hatósági nyilvántartásoknak minősülnek.
+(2)
 
 (3) Az állami adóhatóság a társadalombiztosítási ellátások jogosulatlan igénybevételének megakadályozása, az ellátások összegének megállapítása érdekében az e törvényben és az Art.-ban meghatározott adatokat a biztosítottak adóazonosító jelének feltüntetésével szolgáltatja. A nyugdíjbiztosítási igazgatási szerv és az egészségbiztosítási szerv (a továbbiakban: társadalombiztosítási igazgatási szervek) az átadott nyilvántartás adatait a saját nyilvántartásának adataival a személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló törvény szabályai szerinti kapcsolati kód alkalmazásával veti egybe. A társadalombiztosítási igazgatási szervek – ide nem értve a biztosítotti nyilvántartás vezetéséért felelős szervet – a jogosulatlan ellátások igénybe vevőiről adóazonosító jel feltüntetésével tájékoztatják az állami adóhatóságot. A biztosítotti nyilvántartásért felelős szerv a jogosulatlan ellátások igénybevevőiről kapcsolati kód feltüntetésével tájékoztatja az állami adó- és vámhatóságot.
 
@@ -802,9 +814,9 @@ továbbá a fenti adatok változásáról, azok időpontjáról, nyilvántartás
 
 (3) A bíróság, az ügyészség, a bűnüldözés és a büntetés-végrehajtás szervei, valamint a nemzetbiztonsági szolgálatok feladataik ellátása érdekében a rájuk vonatkozó törvényekben meghatározott célok és feltételek teljesülése esetén e törvény felhatalmazása alapján a nyilvántartásba felvett adatok teljes körének igénylésére jogosultak.
 
-(4) A szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek, valamint a Magyarország által kötött nemzetközi egyezmények alapján egészségbiztosítási jogosultságokat igazoló nyilvántartás azon adat kivételével, amelyet jogszabály más nyilvántartás részeként közhitelesnek minősít, közhiteles hatósági nyilvántartásnak minősül.
+(4)
 
-61. § (1) A 60. § (1) bekezdés alapján nyilvántartásba vett adatokból
+61. § (1) Ha törvény eltérően nem rendelkezik, a 60. § (1) bekezdése alapján nyilvántartásba vett adatokból
 
 - a) az állami adóhatóság, valamint a vámhatóság az ellenőrzési feladatok érdekében a 60. § (1) bekezdés a) pontja szerinti adatok, a 60. § (1) bekezdés d) pontjából a munkahelyre vonatkozó adatok, a 60. § (1) bekezdés f) pontja szerinti jövedelemre vonatkozó adatok, valamint g) pontja szerinti,
 - b) az állami adóhatóság, az önkormányzati adóhatóság az adókötelezettség ellenőrzése és az adó-végrehajtási eljárás lefolytatása érdekében a 60. § (1) bekezdés a) pontja szerinti adatok, valamint a 60. § (1) bekezdés d) pontjából a munkahelyre és a foglalkoztatási jogviszony időtartamára vonatkozó adatok, támogatás megállapítása és ellenőrzése érdekében a 60. § (1) bekezdés e) pontjából az egészségkárosodás mértékére vonatkozó,
@@ -1038,9 +1050,9 @@ Az állami adó- és vámhatóság a visszamenőleges hatályú törlésről, an
 
 77. § (1) A foglalkoztató a foglalkoztatottnak minősülő biztosítottnak a tárgyhónapban kifizetett (juttatott), járulékalapot képező jövedelem, vagy a 27. § (2) bekezdés szerinti járulékfizetési alsó határ alapján köteles a társadalombiztosítási járulékot megállapítani és a biztosítottat terhelő járulékot levonni. A megállapított tárgyhavi járulékot az Art.-ban meghatározottak szerint kell a tárgyhónapot követő hónap 12-éig bevallani, illetve megfizetni az állami adó- és vámhatóságnak. A megállapított járulékot csökkenteni kell azzal az összeggel, amelyet a foglalkoztató az adott jogviszonnyal összefüggésben a tárgyévre vonatkozó túlfizetés miatt fizetett vissza a biztosítottnak. Ha a tárgyhónapban a 27. § (2) bekezdés szerinti járulékfizetési alsó határ után járulék fizetésére kötelezett biztosított részére a járulékfizetési alsó határt elérő jövedelmet nem fizettek, és a tárgyhónapban elszámolt járulék a járulékfizetési alsó határ után számított járulék összegét nem éri el, a foglalkoztató köteles a foglalkoztatottnak minősülő biztosított helyett a járulékalapot képező jövedelem és a járulékfizetési alsó határ közötti különbözet után fizetendő járulékot a törvényben előírt határidőn belül megfizetni. A 27. § (2) bekezdés szerinti járulékfizetési alsó határ vonatkozásában a 82. § szerinti járulék különbözet szabályait alkalmazni nem lehet.
 
-(2) Az Szja tv. rendelkezései szerint a vállalkozói jövedelem szerinti adózást alkalmazó egyéni vállalkozó a társadalombiztosítási járulékot az Art.-ban meghatározottak szerint a tárgyhónapot követő hónap 12. napjáig vallja be, illetve fizeti meg az állami adó- és vámhatóságnak.
+(2) Az egyéni vállalkozó a társadalombiztosítási járulékot az Art.-ban meghatározottak szerint a tárgynegyedévet követő hónap 12. napjáig havonkénti bontásban vallja be és a tárgynegyedév adóját az említett időpontig fizeti meg az állami adó- és vámhatóságnak.
 
-(2a) Az Szja tv. rendelkezései szerint átalányadózást alkalmazó egyéni vállalkozó a társadalombiztosítási járulékot az Art.-ban meghatározottak szerint a tárgynegyedévet követő hónap 12. napjáig vallja be, illetve fizeti meg az állami adó- és vámhatóságnak.
+(2a)
 
 (3) A mezőgazdasági őstermelő a társadalombiztosítási járulékot az Art. rendelkezései szerinti adattartalommal elektronikus úton negyedévente, a negyedévet követő hónap 12-éig vallja be és a bevallás benyújtására előírt határidőig fizeti meg az állami adóhatóságnak.
 

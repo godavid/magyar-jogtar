@@ -125,6 +125,7 @@ a hitelintézetekről és a pénzügyi vállalkozásokról
 - 19. elsődleges alapvető tőke, alapvető tőke és járulékos tőke: az 575/2013/EU rendeletben ekként meghatározott fogalom;
 - 20. eszközfenntartási mutató: olyan százalék formájában kifejezett hányados, amelynek számlálójában a fióktelep formájában működő pénzügyi intézmény Magyarországon meglévő pénzeszközeinek, a tulajdonában álló és harminc napon belül készpénzzé tehető értékpapírok piaci értékének, valamint problémamentes vagy külön figyelendőnek minősített hiteleinek és befektetéseinek összege, nevezőjében pedig a fióktelep Magyarországon vállalt kötelezettségei szerepelnek;
 - 21. EU-szintű anyavállalat, EU-szintű pénzügyi holding társaság és EU-szintű vegyes pénzügyi holding társaság anyavállalat: az 575/2013/EU rendeletben ekként meghatározott fogalom;
+- 21a. építményi hitel: fogyasztó részére ingatlanon alapított társasházi építményi jogon alapított zálogjog fedezete mellet nyújtott hitel vagy kölcsön;
 - 22. értékpapírosítás: az 575/2013/EU rendeletben ekként meghatározott fogalom;
 - 23. értékpapírosítási pozíció: az 575/2013/EU rendeletben ekként meghatározott fogalom;
 - 24. felügyeleti hatóság: a külföldi pénzügyi intézmény tevékenységi felügyeletét ellátó külföldi szervezet;
@@ -165,7 +166,7 @@ a hitelintézetekről és a pénzügyi vállalkozásokról
 - 49. jegyzett tőke: az Szmt. 35. § (3) bekezdése szerint meghatározott tőke;
 - 49a. jelentős IKT-vonatkozású esemény: a pénzügyi ágazat digitális működési rezilienciájáról, valamint az 1060/2009/EK, a 648/2012/EU, a 600/2014/EU, a 909/2014/EU és az (EU) 2016/1011 rendelet módosításáról szóló, 2022. december 14-i (EU) 2022/2554 európai parlamenti és tanácsi rendeletben [a továbbiakban: (EU) 2022/2554 európai parlamenti és tanácsi rendelet] ekképp meghatározott fogalom;
 - 49b. jelentős kiberfenyegetés: az (EU) 2022/2554 európai parlamenti és tanácsi rendeletben ekképp meghatározott fogalom;
-- 50. jelzáloghitel: a fogyasztó részére ingatlanon alapított jelzálogjog – ideértve az önálló zálogjogként alapított zálogjogot is – fedezete mellett nyújtott hitel vagy kölcsön;
+- 50. jelzáloghitel: a fogyasztó részére ingatlanon alapított jelzálogjog – ideértve az önálló zálogjogként alapított zálogjogot is – fedezete mellett nyújtott hitel vagy kölcsön, ideértve a halasztott fizetés vagy más ezekhez hasonló pénzügyi megoldás formájában nyújtott kölcsönt is, továbbá az építményi hitel;
 - 51. jó üzleti hírnév: a pénzügyi intézmény, a vegyes pénzügyi holding társaság, illetve a közvetítő vezetőinek, befolyásoló részesedéssel rendelkező tagjainak a pénzügyi intézmény, a vegyes pénzügyi holding társaság, illetve a közvetítő irányítására és tulajdonlására való alkalmasságát igazoló feltételek megléte;
 - 52. kamat: az adós által a kölcsönnyújtónak (betételhelyezőnek) az elfogadott betét vagy az igénybe vett kölcsön használatáért, kockázatáért fizetendő, a betét- vagy kölcsönösszeg százalékában meghatározott, időarányosan térítendő (elszámolandó) pénzösszeg vagy egyéb hozadék;
 - 53. kereskedési könyv: az 575/2013/EU rendeletben ekként alkalmazott fogalom;
@@ -286,8 +287,8 @@ amelynek fizetésképtelenné válása vagy nem prudens működése rendszerkock
 - 118. vegyes pénzügyi holding társaság: az 575/2013/EU rendeletben ekként meghatározott fogalom;
 - 119. vegyes tevékenységű holding társaság: az 575/2013/EU rendeletben ekként meghatározott fogalom;
 - 120. versengő szolgáltatások:
-  - a) ingatlanon alapított jelzálogjog (ideértve az önálló zálogjogot is) fedezete mellett öt évet elérő vagy azt meghaladó legrövidebb futamidőre kínált hitel és pénzkölcsön, valamint az ingatlan pénzügyi lízing,
-  - b) ingatlanon alapított jelzálogjog (ideértve az önálló zálogjogot is) fedezete mellett öt évet meg nem haladó leghosszabb futamidőre kínált hitel és pénzkölcsön, valamint pénzügyi lízing, továbbá valamennyi, ingatlanon alapított jelzálogjog fedezete nélkül kínált hitel és pénzkölcsön, ideértve a fizetési számlához (bankszámlához) kapcsolódó hitelkeretet és a hitelkártyát is, vagy
+  - a) ingatlanon alapított jelzálogjog (ideértve az önálló zálogjogot is) fedezete mellett öt évet elérő vagy azt meghaladó legrövidebb futamidőre kínált hitel és pénzkölcsön, továbbá az építményi hitel, valamint az ingatlan pénzügyi lízing,
+  - b) ingatlanon alapított jelzálogjog (ideértve az önálló zálogjogot is) fedezete mellett öt évet meg nem haladó leghosszabb futamidőre kínált hitel és pénzkölcsön, illetve építményi hitel, valamint pénzügyi lízing, továbbá valamennyi, ingatlanon alapított jelzálogjog fedezete nélkül kínált hitel és pénzkölcsön, illetve építményi hitel, ideértve a fizetési számlához (bankszámlához) kapcsolódó hitelkeretet és a hitelkártyát is, vagy
   - c) betét és fizetési számla (bankszámla)
 
 azzal, hogy nem minősül versengő szolgáltatásnak a kézizálog fedezete mellett nyújtott pénzkölcsön;
@@ -4072,6 +4073,8 @@ vonatkozó előírások.
 - f) – amennyiben vizsgabiztosi tevékenységet lát el – nyilvántartási számát, valamint a nyilvántartásból való törlése esetén a törlés tényét és időpontját.
 
 (6a) A hatósági vizsgára jelentkező személyekről vezetett nyilvántartás az adott személy (6) bekezdés a), b), c) és e) pontjában meghatározott adatait tartalmazza.
+
+(6b) A hatósági vizsga sikeres letételét a vizsgázó természetes személyazonosító adatait, a bizonyítvány számát, továbbá a vizsga típusát és időpontját tartalmazó hatósági bizonyítvány igazolja, melyről a hatóság nyilvántartást vezet. A nyilvántartás a bizonyítvány száma, vizsga típusa és időpontja tekintetében közhiteles hatósági nyilvántartás.
 
 (7) A Felügyelet a nyilvántartásba vételről szóló döntésben a (6) és (6a) bekezdésben meghatározott személyek számára személyi kódot állapít meg.
 

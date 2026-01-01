@@ -110,7 +110,7 @@ meghaladja, azzal, hogy a szociális rászorultságtól függő pénzbeli és te
 - g) szociális szolgáltató: az a személy vagy szervezet, amely kizárólag a 60–65/E. §-ban meghatározott szociális alapszolgáltatásokat nyújtja. Ha jogszabály másként nem rendelkezik, a szociális szolgáltatókra a szociális intézményekre vonatkozó szabályokat kell megfelelően alkalmazni;
 - h) szociális intézmény: az e törvényben meghatározott nappali, illetve bentlakásos ellátást vagy támogatott lakhatást nyújtó szervezet;
 - i) rendszeres pénzellátás: a táppénz, a csecsemőgondozási díj, az örökbefogadói díj, a gyermekgondozási díj, az öregségi nyugdíj, a korhatár előtti ellátás, a szolgálati járandóság, a táncművészeti életjáradék, az átmeneti bányászjáradék, a megváltozott munkaképességű személyek ellátásai, az öregségi járadék, a munkaképtelenségi járadék, az özvegyi járadék, a növelt összegű öregségi, munkaképtelenségi és özvegyi járadék, az özvegyi nyugdíj – kivéve az ideiglenes özvegyi nyugdíjat, továbbá a házastársa jogán árvaellátásra jogosult fogyatékossággal élő, illetve tartósan beteg vagy legalább két árvaellátásra jogosult gyermek eltartásáról gondoskodó személy özvegyi nyugdíját –, a baleseti táppénz, a hozzátartozói baleseti nyugellátás, az Flt. alapján folyósított pénzbeli ellátás, a bányászok egészségkárosodási járadéka, a rokkantsági járadék, a hadigondozottak és nemzeti gondozottak pénzbeli ellátásai, a gyermekgondozást segítő ellátás, a gyermekgondozási segély, a gyermeknevelési támogatás, az időskorúak járadéka, a foglalkoztatást helyettesítő támogatás, az egészségkárosodási és gyermekfelügyeleti támogatás, a gyermekek otthongondozási díja, az ápolási díj, a tartós ápolást végzők időskori támogatása, a nemzeti helytállásért elnevezésű pótlék, a közszolgálati járadék, valamint az uniós rendeletek alapján külföldi szerv által folyósított egyéb azonos típusú ellátás;
-- j) keresőtevékenység: ha e törvény másként nem rendelkezik, minden olyan munkavégzéssel járó tevékenység, amelyért ellenérték jár, kivéve a tiszteletdíj alapján végzett tevékenységet, ha a havi tiszteletdíj mértéke a kötelező legkisebb munkabér 30 százalékát nem haladja meg, valamint a mezőgazdasági őstermelői igazolvánnyal folytatott tevékenységet, ha az abból származó bevételt a személyi jövedelemadóról szóló szabályok szerint a jövedelem kiszámításánál nem kell figyelembe venni; nem minősül ellenértéknek a fogadó szervezet által az önkéntesnek külön törvény alapján biztosított juttatás, a szociális szövetkezet tagja, a kisgyermekkel otthon lévők szövetkezetének nem nagyszülőként gyermekgondozási díjban vagy gyermekgondozást segítő ellátásban részesülő tagja, valamint a közérdekű nyugdíjas szövetkezet öregségi nyugdíjban vagy átmeneti bányászjáradékban részesülő tagja által a szövetkezetben végzett tevékenység ellenértékeként megszerzett, a személyi jövedelemadóról szóló törvény alapján adómentes bevétel;
+- j) keresőtevékenység: ha e törvény másként nem rendelkezik, minden olyan munkavégzéssel járó tevékenység, amelyért ellenérték jár, kivéve a tiszteletdíj alapján végzett tevékenységet, ha a havi tiszteletdíj mértéke a kötelező legkisebb munkabér 30 százalékát nem haladja meg, valamint a mezőgazdasági őstermelői igazolvánnyal folytatott tevékenységet, ha az abból származó bevételt a személyi jövedelemadóról szóló szabályok szerint a jövedelem kiszámításánál nem kell figyelembe venni; nem minősül ellenértéknek a fogadó szervezet által az önkéntesnek külön törvény alapján biztosított juttatás, a szociális szövetkezet tagja, a kisgyermekkel otthon lévők szövetkezetének csecsemőgondozási díjban, gyermekek otthongondozási díjában, gyermeknevelési támogatásban, örökbefogadói díjban, nem nagyszülőként gyermekgondozási díjban vagy gyermekgondozást segítő ellátásban részesülő tagja, valamint a közérdekű nyugdíjas szövetkezet öregségi nyugdíjban vagy átmeneti bányászjáradékban részesülő tagja által a szövetkezetben végzett tevékenység ellenértékeként megszerzett, a személyi jövedelemadóról szóló törvény alapján adómentes bevétel;
 - k) aktív korú: a 18. életévét betöltött, de a rá irányadó nyugdíjkorhatárt be nem töltött személy;
 - l) egyedülálló: az a személy, aki hajadon, nőtlen, özvegy, elvált vagy házastársától külön él, kivéve, ha élettársa van;
 - m) fenntartó:
@@ -131,13 +131,13 @@ ha az e törvényben és más jogszabályokban meghatározott feltételek szerin
 - 1. a rendkívüli települési támogatás, valamint a lakhatáshoz kapcsolódó rendszeres kiadások viseléséhez, a gyógyszerkiadások viseléséhez és a lakhatási kiadásokhoz kapcsolódó hátralékot felhalmozó személyek részére nyújtott települési támogatás,
 - 2. a Gyvt. 20/A. §-a szerinti támogatás, a Gyvt. 20/B. §-ának (4)–(5) bekezdése szerinti pótlék, a nevelőszülők számára fizetett nevelési díj és külön ellátmány,
 - 3. az anyasági támogatás,
-- 4. a nyugdíjprémium, az egyszeri juttatás, a tizenharmadik havi nyugdíj, a tizenharmadik havi ellátás és a szépkorúak jubileumi juttatása,
+- 4. a nyugdíjprémium, az egyszeri juttatás, a tizenharmadik havi nyugdíj, a tizennegyedik havi nyugdíj, a tizenharmadik havi ellátás, a tizennegyedik havi ellátás és a szépkorúak jubileumi juttatása,
 - 5. a személyes gondoskodásért fizetendő személyi térítési díj megállapítása kivételével a súlyos mozgáskorlátozott személyek pénzbeli közlekedési kedvezményei, a vakok személyi járadéka és a fogyatékossági támogatás,
 - 6. a fogadó szervezet által az önkéntesnek külön törvény alapján biztosított juttatás,
 - 7. az alkalmi munkavállalói könyvvel történő munkavégzésnek, az egyszerűsített foglalkoztatásról szóló törvény alapján történő munkavégzésnek, valamint a természetes személyek között az adórendszeren kívüli keresettel járó foglalkoztatásra vonatkozó rendelkezések alapján háztartási munkára létesített munkavégzésre irányuló jogviszony keretében történő munkavégzésnek (a továbbiakban: háztartási munka) a havi ellenértéke,
 - 8. a házi segítségnyújtás keretében társadalmi gondozásért kapott tiszteletdíj,
 - 9. az energiafelhasználáshoz nyújtott támogatás,
-- 10. a szociális szövetkezet tagja által, a közérdekű nyugdíjas szövetkezet öregségi nyugdíjban vagy átmeneti bányászjáradékban részesülő tagja által, valamint a kisgyermekkel otthon lévők szövetkezetének nem nagyszülőként gyermekgondozási díjban vagy gyermekgondozást segítő ellátásban részesülő tagja által a szövetkezetben végzett tevékenység ellenértékeként megszerzett, a személyi jövedelemadóról szóló törvény alapján adómentes bevétel,
+- 10. a szociális szövetkezet tagja által, a közérdekű nyugdíjas szövetkezet öregségi nyugdíjban vagy átmeneti bányászjáradékban részesülő tagja által, valamint a kisgyermekkel otthon lévők szövetkezetének csecsemőgondozási díjban, gyermekek otthongondozási díjában, gyermeknevelési támogatásban, örökbefogadói díjban, nem nagyszülőként gyermekgondozási díjban vagy gyermekgondozást segítő ellátásban részesülő tagja által a szövetkezetben végzett tevékenység ellenértékeként megszerzett, a személyi jövedelemadóról szóló törvény alapján adómentes bevétel,
 - 11. az életvitelszerűen lakott ingatlan eladása, valamint az életvitelszerűen lakott ingatlanon fennálló vagyoni értékű jog átruházása esetén az eladott ingatlan, illetve átruházott vagyoni értékű jog ellenértékének azon része, amelyből az eladást vagy átruházást követő egy éven belül az eladó vagy átruházó saját, vagy közeli hozzátartozója életvitelszerű, tényleges lakhatásának célját szolgáló ingatlan vagy vagyoni értékű jog vásárlására kerül sor,
 - 12. az elengedett tartozás, illetve a megszűnt kötelezettség, ha a tartozás elengedésére vagy a kötelezettség megszűnésére a természetes személyek adósságrendezési eljárásában, továbbá közüzemi szolgáltatás szolgáltatója, illetve pénzügyi intézmény által, az adós megélhetését veszélyeztető szociális helyzete miatt került sor,
 - 13. az Szjatv. 7. § (1) bekezdés b)–z) pontja szerinti bevétel.
@@ -398,8 +398,8 @@ kell figyelembe venni, azzal, hogy a b) pont szerinti számításnál azon hóna
 
 (1b) Közhiteles hatósági nyilvántartásnak minősül
 
-- a) a 18. §-ban szabályozott nyilvántartás a 18. § d) és e) pontja szerinti adatkör tekintetében,
-- b) a 18/A. § szerinti nyilvántartás a 18/A. § d) és e) pontja szerinti adatkör tekintetében, és
+- a)
+- b)
 - c) a 18/B. § szerinti nyilvántartás a szociális vagy gyermekvédelmi ellátás megnevezése, jogcíme, összege, az arra való jogosultság fennállásának érdemi elbírálására, a jogosultság megváltoztatására és megszüntetésére vonatkozó adatok, a megszüntetés jogcíme, az ellátásra való jogosultsággal összefüggő érdemi döntés véglegessé válásának időpontja adatkörök tekintetében.
 
 (1c) Az (1) és (1a) bekezdéstől eltérően a 18/B. § (1) bekezdése szerinti országos nyilvántartáshoz az azt vezető hatóság – a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény szerinti automatikus információelérési felület útján – a jogosult azonosításához szükséges adatok tekintetében, valamint
@@ -1224,7 +1224,7 @@ tevődik össze.
 
 (3)
 
-(4) Az alanyi és a normatív közgyógyellátásra való jogosultságról a járási hivatal dönt. Az alanyi közgyógyellátásra való jogosultságot a megállapítása alapjául szolgáló, az (1) bekezdésben foglalt körülmény fennállásának időtartamáig, a normatív közgyógyellátásra való jogosultságot négy évre állapítják meg. A közgyógyellátásra való jogosultság kezdő időpontja – az (5) bekezdésben meghatározott kivétellel – a jogosultságot megállapító határozat meghozatalát követő nap.
+(4) Az alanyi és a normatív közgyógyellátásra való jogosultságról a járási hivatal dönt. Az alanyi közgyógyellátásra való jogosultságot a megállapítása alapjául szolgáló, az (1) bekezdésben foglalt körülmény fennállásának időtartamáig, de legalább négy évre, míg a normatív közgyógyellátásra való jogosultságot négy évre állapítják meg. A közgyógyellátásra való jogosultság kezdő időpontja – az (5) bekezdésben meghatározott kivétellel – a jogosultságot megállapító határozat meghozatalát követő harmadik nap.
 
 (4a) A közgyógyellátásra való jogosultság ugyanazon időszakra vonatkozóan csak egy jogcímen állapítható meg.
 
@@ -1298,7 +1298,7 @@ a járási hivatal a kérelmet visszautasítja.
 - h) a támogatás jogcímét (alanyi, normatív),
 - i) a közgyógyellátásra jogosult által a közgyógyellátás terhére igénybe vett gyógyszert és gyógyászati segédeszközt.
 
-(3a) A (2) bekezdés szerinti nyilvántartás a (3) bekezdés c)–i) pontja szerinti adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
+(3a) A (2) bekezdés szerinti nyilvántartás a (3) bekezdés e), g) és i) pontja szerinti adatok, valamint a (3) bekezdés f) pontja a jogosultsági időtartam alatt még felhasználható és az 50/E. §-ban szabályozott időszakban még rendelkezésre álló gyógyszerkeret összege tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
 (4) A nyilvántartás adatainak megismerésére – a (3) bekezdés e) pontja szerinti adat kivételével – az 51. §-ban meghatározott módon és célból a működési engedéllyel rendelkező gyógyszertár jogosult.
 
@@ -1556,7 +1556,7 @@ esetében kell vizsgálni.
 
 60. § (1) A falugondnoki, illetve tanyagondnoki szolgáltatás célja a falvak és a külterületi vagy egyéb belterületi, valamint a tanyasi lakott helyek intézményhiányából és a közösségi közlekedés nehézségéből eredő hátrányainak enyhítése, az alapvető szükségletek kielégítését segítő szolgáltatásokhoz, közszolgáltatáshoz valamint egyes alapszolgáltatásokhoz való hozzájutás biztosítása, továbbá az egyéni, közösségi szintű szükségletek teljesítésének segítése.
 
-(2) A falugondnoki szolgáltatás ezer lakosnál kisebb településen működtethető. Amennyiben a falugondnoki szolgáltatás létesítését követően a település lakosságszáma tíz százalékot meg nem haladó mértékben emelkedik ezer lakos fölé, a szolgáltatás tovább működtethető.
+(2) A falugondnoki szolgáltatás ezerötszáz főnél kisebb lakosságszámú településen működtethető. Amennyiben a falugondnoki szolgáltatás létesítését követően a település lakosságszáma tíz százalékot meg nem haladó mértékben emelkedik ezerötszáz lakos fölé, a szolgáltatás tovább működtethető.
 
 (3) A tanyagondnoki szolgáltatás legalább hetven és legfeljebb négyszáz lakosságszámú – külön jogszabályban meghatározott – külterületi vagy egyéb belterületi lakott helyen működtethető. Amennyiben a helyi sajátosságok alapján a tanyagondnoki szolgáltatás több tanyagondnok közreműködésével valósítható meg, a tanyagondnokok által ellátandó körzetek határait – figyelemmel a lakosságszám korlátra – a fenntartó települési önkormányzat rendeletében határozza meg azzal, hogy új tanyagondnoki szolgáltatás négyszáz lakos fölött szervezhető meg. Amennyiben a tanyagondnoki szolgáltatás létesítését követően a külterületi vagy egyéb belterületi lakott hely lakosságszáma tíz százalékot meg nem haladó mértékben emelkedik négyszáz lakos fölé, a szolgáltatás tovább működtethető.
 
@@ -2318,16 +2318,23 @@ rendeletet alkot.
 
 (2) A szolgáltatói nyilvántartás tartalmazza
 
-- a) a fenntartó nevét, székhelyét, adószámát és típusát, valamint egyházi fenntartó esetén a bevett egyház, a bejegyzett egyház, illetve a nyilvántartásba vett egyház nevét,
-- b) a fenntartó és a szociális szolgáltató, szociális intézmény (székhely, telephely) telefonszámát, telefaxszámát, elektronikus levélcímét, honlapjának címét, valamint kapcsolattartójának nevét, beosztását, telefonszámát és elektronikus levélcímét,
-- c) a szociális szolgáltató, szociális intézmény (székhely, telephely) és az általa nyújtott szociális szolgáltatás kormányrendeletben meghatározott adatait.
+- a) a fenntartó nevét, székhelyét és típusát,
+- b) egyházi fenntartó esetén a bevett egyház, a bejegyzett egyház, illetve a nyilvántartásba vett egyház nevét,
+- c) a fenntartó adószámát,
+- d) a fenntartó és a szociális szolgáltató, szociális intézmény (székhely, telephely) telefonszámát, telefaxszámát, elektronikus levelezési címét, honlapjának címét, valamint kapcsolattartójának nevét, beosztását, telefonszámát és elektronikus levelezési címét,
+- e) a szociális szolgáltató, szociális intézmény (székhely, telephely) és az általa nyújtott szociális szolgáltatás kormányrendeletben meghatározott adatait.
 
-(3) A szolgáltatói nyilvántartás hatósági nyilvántartás, amely közhitelesen tanúsítja a (2) bekezdés a) és c) pontja szerinti adatokat.
+(3) A szolgáltatói nyilvántartás hatósági nyilvántartás, amely közhitelesen tanúsítja
+
+- a) a (2) bekezdés a) pontja szerint a fenntartót és annak típusát, valamint
+- b) a (2) bekezdés e) pontja szerinti adatokat a költségvetési szerv szolgáltató törzskönyvi adatai kivételével.
 
 (4) A szolgáltatói nyilvántartásból törölt és a módosított adatokat a szolgáltatói nyilvántartás történeti állományába kell helyezni. A történeti állományba helyezett,
 
-- a) a (2) bekezdés b) pont szerinti adatokat a történeti állományba helyezést követő egy év elteltével,
-- b) a (2) bekezdés a) és c) pontja szerinti adatokat a szociális szolgáltatónak, szociális intézménynek (székhelynek, telephelynek) a szolgáltatói nyilvántartásból való törlését követő tíz év elteltével kell törölni.
+- a) a (2) bekezdés d) pontja szerinti adatokat a történeti állományba helyezést követő egy év elteltével,
+- b) a (2) bekezdés a)–c) és e) pontja szerinti adatokat a szociális szolgáltatónak, szociális intézménynek (székhelynek, telephelynek) a szolgáltatói nyilvántartásból való törlését követő tíz év elteltével
+
+kell törölni.
 
 (4a) A szolgáltatói nyilvántartás adatai a Gyvt.-ben meghatározott adatok kivételével nyilvánosak, és a történeti állományba tartozó adatok kivételével a Szociális Ágazati Portálon hozzáférhetők.
 
@@ -2683,6 +2690,8 @@ való jogra.
 (5) A szociális szolgáltatónál és szociális intézményben történő foglalkoztatás esetén a Kjt. 41. § (2) bekezdésének a) pontja nem alkalmazható.
 
 (6) A szociális intézményben, illetve szociális szolgáltatónál munkaviszonyban, közalkalmazotti jogviszonyban foglalkoztatott személynek, ha a beosztás szerinti napi munkaidejének kezdő időpontja rendszeresen változik, a tizennégy és tizennyolc óra közötti időtartam alatt történő munkavégzés esetén 15% bérpótlék jár, ha a munkáltató napi üzemelési ideje meghaladja a munkavállaló napi teljes munkaidejét és a közalkalmazottak, munkavállalók időszakonként rendszeresen, egy napon belül egymást váltva végzik azonos tevékenységüket.
+
+(7) A Kjt. illetményrendszerére vonatkozó szabályoktól a Kormány rendeletében eltérhet, ha az a közalkalmazott számára kedvezőbb. Az eltérő szabályok szerint megállapított illetményt a központi költségvetésről szóló törvényben biztosított támogatásban részesülő egyházi vagy nem állami fenntartású intézmény, szolgáltató a munkavállalók számára – ide nem értve a munkakörüket sajátos egyházi szolgálati viszonyban ellátó személyeket – köteles biztosítani.
 
 94/M. § (1) November 12-e a Szociális Munka Napja, amely a személyes gondoskodást nyújtó intézményeknél, szolgáltatóknál munkaviszonyban vagy közalkalmazotti jogviszonyban álló dolgozókra kiterjedően munkaszüneti nap.
 
@@ -3493,7 +3502,7 @@ járul hozzá.
 - l) a rehabilitációs intézményekben elhelyezettek utógondozási feladatainak részletes szabályait;
 - m) a tartós ápolást végzők időskori támogatásának igénylésére, megállapítására és folyósítására vonatkozó szabályokat;
 - n) a szociális hatóság, a 24/C. § szerinti jogi személy és a szociális szakértői szerv kijelölését;
-- o)
+- o) a szociális alapszolgáltatást és a szociális szakosított ellátást nyújtó intézménynél, szolgáltatónál foglalkoztatott személyek tekintetében a Kjt. illetményrendszerétől való eltérés és ennek végrehajtásának szabályait;
 - p) a fejlesztő foglalkoztatás finanszírozásának rendjére vonatkozó részletes szabályokat;
 - q) a személyes gondoskodás igénybevételével kapcsolatos eljárásokban közreműködő szakértőkre, szakértői szervekre vonatkozó részletes szabályokat;
 - r) a szociális intézményekben ellátott személyek állapotának felülvizsgálatára, a rehabilitációs alkalmassági vizsgálatra, a fogyatékos személyek alapvizsgálatára, valamint a komplex szükségletfelmérésre vonatkozó szabályokat;

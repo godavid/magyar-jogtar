@@ -16,7 +16,7 @@ Az Országgyűlés abból a meggyőződésből kiindulva, hogy a kiegyensúlyozo
 
 (5) A kisvállalati adó a központi költségvetés bevétele.
 
-(6) Az állami adó- és vámhatóság által a kisvállalati adóalanyiságot választó adózókról vezetett nyilvántartás – azon adat kivételével, amelyet jogszabály más nyilvántartás részeként közhitelesnek minősít – közhiteles hatósági nyilvántartásnak minősül.
+(6)
 
 (7) A kisvállalati adóval összefüggésben az adókötelezettséget, az adót befolyásoló, annak csökkenését eredményező szabály, adóelőny annyiban alkalmazható, érvényesíthető, amennyiben az annak alapjául szolgáló jogügylet (jogügyletek sorozata) megvalósítja a szabály, az adóelőny célját és tartalmát tekintve valós gazdasági, kereskedelmi okok alapozzák meg. Az alkalmazhatóságot, az érvényesíthetőséget annak kell bizonyítania, akinek az érdekében áll. Ha a jogügylet (jogügyletek sorozata) alapján az állapítható meg, hogy annak fő célja vagy egyik fő célja olyan adóelőny az egyik fél vagy a felek számára, amely ellentétes az alkalmazandó adójogszabály tárgyával vagy céljával, akkor a jogügylet (jogügyletek sorozata) alapján adóelőny nem érvényesíthető.
 
@@ -61,7 +61,7 @@ igénybe vehető, azzal, hogy a d) pont alkalmazásában foglalkoztatott alatt k
   - g) a 19. pont g) alpontja szerinti kedvezményezett foglalkoztatott esetében személyenként havonta a kutatás-fejlesztési tevékenység közvetlen költségeként elszámolt bérköltség 50 százaléka;
 - 21.
 - 22.
-- 23. pénztár mentesített értéke: a tárgyévi összes bevétel 5 százaléka, de legalább 1 millió forint vagy az adóalanyiság első évének nyitó mérlegében a pénztár kimutatott értéke; a kisvállalati adózásra 2016. december 31-ig áttért adózónál a tárgyévi összes bevétel 5 százaléka, de legalább 1 millió forint vagy a 2017. év nyitó mérlegében a pénztár kimutatott értéke.
+- 23. pénztár mentesített értéke: a tárgyévi összes bevétel 5 százaléka, de legalább 1 millió forint vagy az adóalanyiság első évének nyitó mérlegében a pénztár kimutatott értéke (ide nem értve az elektronikus pénzeszközök értékét); a kisvállalati adózásra 2016. december 31-ig áttért adózónál a tárgyévi összes bevétel 5 százaléka, de legalább 1 millió forint vagy a 2017. év nyitó mérlegében a pénztár kimutatott értéke (ide nem értve az elektronikus pénzeszközök értékét).
 - 24.
 
 ### II. Fejezet
@@ -171,14 +171,14 @@ amely megfelel az e törvényben meghatározott valamennyi feltételnek, és az 
 
 (5) A kisvállalati adóalanyiság megszűnik
 
-- a) a 6 milliárd forintos bevételi értékhatár negyedév első napján történő meghaladása esetén, a túllépést megelőző nappal;
+- a) a 12 milliárd forintos bevételi értékhatár negyedév első napján történő meghaladása esetén, a túllépést megelőző nappal;
 - b) a végelszámolás, a felszámolás, a kényszertörlési eljárás kezdő időpontját megelőző nappal;
 - c) ha az adóalany végelszámolási vagy felszámolási eljárás nélkül szűnik meg, a megszűnés napjával;
 - d) a (8a) bekezdésben foglaltak kivételével az adóalany egyesülése, szétválása napját megelőző nappal;
 - e) az állami adó- és vámhatóság határozata véglegessé válásának napját megelőző hónap utolsó napjával, ha az adóalany terhére az állami adó- és vámhatóság számla- vagy nyugtakibocsátási kötelezettség elmulasztásáért, be nem jelentett alkalmazott foglalkoztatásáért vagy igazolatlan eredetű áru forgalmazásáért véglegessé vált döntéssel mulasztási bírságot, jövedéki bírságot állapított meg;
 - f) az adóalany adószámának alkalmazását törlő határozat véglegessé válásának hónapját megelőző hónap utolsó napjával;
 - g) az adóalanyiság megszűnéséről rendelkező határozat véglegessé válásának napját magában foglaló negyedév utolsó napjával, ha az adóalany állami adó- és vámhatóságnál nyilvántartott, végrehajtható, nettó módon számított adótartozása a naptári év utolsó napján meghaladja az 1 millió forintot, azzal, hogy az állami adóhatóság visszavonja az adóalanyiság megszűnéséről rendelkező határozatát, ha az adóalany az adótartozását az adóalanyiság megszűnéséről rendelkező határozat véglegessé válásáig megfizeti;
-- h) a létszámváltozás hónapjának utolsó napjával, ha a létszámnövekedés miatt az adóalany átlagos statisztikai állományi létszáma meghaladta a 100 főt.
+- h) a létszámváltozás hónapjának utolsó napjával, ha a létszámnövekedés miatt az adóalany átlagos statisztikai állományi létszáma meghaladta a 200 főt.
 - i) a Tao. tv. szerinti kedvezményezett eszközátruházás vagy kedvezményezett részesedéscsere esetén az eszközátruházás vagy részesedéscsere napját megelőző napon;
 - j) az üzleti év mérlegfordulónapjának megváltoztatása esetén a választott mérlegfordulónappal;
 - k) ha az adózó ellenőrzött külföldi társasággal rendelkezik, annak az adóévnek az első napját megelőző nappal, amely adóévben a külföldi vállalkozónak nem minősülő külföldi személy vagy külföldi telephely ellenőrzött külföldi társaságnak minősül;
@@ -208,7 +208,7 @@ növelt összege, de legalább a b) pont szerinti összeg.
 (2) E fejezet alkalmazásában személyi jellegű kifizetésnek minősül
 
 - a) azon személyi jellegű ráfordítás, amely a Tbj. szerint járulékalapot képez az adóévben,
-- b) az a) ponttól eltérően tag esetén a Tbj. 4. § 14. pont 14.2. alpontja szerinti minimálbér 112,5%-a, ha a tagra jutó személyi jellegű ráfordítás ennél alacsonyabb, azzal, hogy nem kell figyelembe venni a minimálbér 112,5%-át arra az időszakra vonatkozóan, amelyre a tagnak nem keletkezik a Tbj. 39. §-a szerinti járulékalap utáni járulékfizetési kötelezettsége,
+- b) az a) ponttól eltérően tag esetén a Tbj. 4. § 14. pont 14.2. alpontja szerinti minimálbér 100%-a, ha a tagra jutó személyi jellegű ráfordítás ennél alacsonyabb, azzal, hogy nem kell figyelembe venni a minimálbér 100%-át arra az időszakra vonatkozóan, amelyre a tagnak nem keletkezik a Tbj. 39. §-a szerinti járulékalap utáni járulékfizetési kötelezettsége,
 - c) a Szocho. tv. 1. § (4) bekezdés a) pontja szerinti béren kívüli juttatás,
 - d) a Szocho. tv. 1. § (4) bekezdés b) pontja szerinti béren kívüli juttatásnak nem minősülő egyes meghatározott juttatás.
 
@@ -220,7 +220,7 @@ növelt összege, de legalább a b) pont szerinti összeg.
 
 - a) a tőkekivonás (különösen a jegyzett tőke leszállítás) cégbírósági bejegyzésére tekintettel az adóévben a saját tőke csökkenéseként elszámolt összeget,
 - b) az adóévben jóváhagyott fizetendő osztalék összegét (ide nem értve a kisvállalati adóalanyiságot megelőző adóévek adózott eredménye és eredménytartaléka terhére a kisvállalati adóalanyiság időszakában jóváhagyásra kerülő osztalékot),
-- c) a pénztár értékének tárgyévi növekményét, de legfeljebb a pénztár tárgyévi mérlegben kimutatott értékének a mentesített értéket meghaladó részét,
+- c) a pénztár értékének (ide nem értve az elektronikus pénzeszközök értékét) tárgyévi növekményét, de legfeljebb a pénztár tárgyévi mérlegben kimutatott értékének (ide nem értve az elektronikus pénzeszközök értékét) a mentesített értéket meghaladó részét,
 - d) a Tao. tv. 3. számú melléklet A) részében meghatározott, a nem a vállalkozási tevékenység érdekében felmerülő egyes költségeket, ráfordításokat,
 - e) az adóalanyiság időszakában bármely időszakra megállapított és megfizetett bírság, pótlék összegét,
 - f) a behajthatatlannak nem minősülő követelés elengedése esetén az elengedett követelés összegét, kivéve ha 1. a követelés elengedése magánszemély javára történik, vagy 2. az adózó olyan külföldi személlyel vagy magánszemélynek nem minősülő belföldi személlyel szemben fennálló követelését engedi el, amellyel kapcsolt vállalkozási viszonyban nem áll.
@@ -229,7 +229,7 @@ növelt összege, de legalább a b) pont szerinti összeg.
 
 - a) a tőkebevonás (különösen a jegyzett tőke emelés) cégbírósági bejegyzésére tekintettel az adóévben a saját tőke növekedéseként elszámolt összeget,
 - b) a kapott (járó) osztalék címén az adóévben elszámolt, a külföldön megfizetett (fizetendő) adó összegével csökkentett bevétel összegét, feltéve, hogy annak összegét az osztalékot megállapító társaság (ideértve a kezelt vagyont) nem számolja el az adózás előtti eredmény terhére ráfordításként,
-- c) a pénztár értékének tárgyévi csökkenését, de legfeljebb a pénztár előző évi mérlegben kimutatott értékének a mentesített értéket meghaladó részét; a kisvállalati adóalanyiság megszűnésének adóévében a pénztár előző évi mérlegben kimutatott értékének és mentesített értékének pozitív különbözetét,
+- c) a pénztár értékének (ide nem értve az elektronikus pénzeszközök értékét) tárgyévi csökkenését, de legfeljebb a pénztár előző évi mérlegben kimutatott értékének (ide nem értve az elektronikus pénzeszközök értékét) a mentesített értéket meghaladó részét; a kisvállalati adóalanyiság megszűnésének adóévében a pénztár előző évi mérlegben kimutatott értékének (ide nem értve az elektronikus pénzeszközök értékét) és mentesített értékének pozitív különbözetét,
 - d)
 
 (5) Amennyiben az adózó kapcsolt vállalkozásával kötött szerződésében, megállapodásában olyan ellenértéket (ügyleti értéket) határoz meg, amely nem felel meg a szokásos piaci árnak, – az (1)–(4) bekezdésben foglaltaktól függetlenül – az adóalapot a szokásos piaci ár és az ügyleti érték különbségével úgy módosítja, hogy az olyan adóalapnak feleljen meg, mint ha független vállalkozással kötött volna szerződést, megállapodást, feltéve, hogy a szerződés, megállapodás alapján az adóévben teljesítés történt. A szokásos piaci árat a Tao. tv. 18. § (2) bekezdésében meghatározott módszer szerint, a Tao. tv. 18. § (9), (11) és (12) bekezdésében foglalt rendelkezések figyelembevételével kell megállapítani.

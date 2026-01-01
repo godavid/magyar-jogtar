@@ -32,12 +32,7 @@ az általános forgalmi adózás szabályairól a következő törvényt alkotja
 
 után.
 
-3. § E törvény rendelkezéseit
-
-- a) az egyszerűsített vállalkozói adóról szóló törvény (a továbbiakban: Eva.) hatálya alá tartozó személyekre, szervezetekre, valamint
-- b) a jövedéki adóról szóló törvény (a továbbiakban: Jöt.) hatálya alá tartozó dohánygyártmányokra
-
-abban az esetben kell alkalmazni, ha arról az a) pontban említett esetben az Eva., a b) pontban említett esetben pedig a Jöt. kifejezetten rendelkezik.
+3. § E törvény rendelkezéseit a jövedéki adóról szóló törvény (a továbbiakban: Jöt.) hatálya alá tartozó dohánygyártmányokra abban az esetben kell alkalmazni, ha arról a Jöt. kifejezetten rendelkezik.
 
 4. § (1) Belföld alatt Magyarország területe értendő.
 
@@ -1672,7 +1667,7 @@ annak importja történik az 54. § értelmében, és egyúttal annak értékes�
 
 120. § Abban a mértékben, amilyen mértékben az adóalany – ilyen minőségében – a terméket, szolgáltatást adóköteles termékértékesítése, szolgáltatásnyújtása érdekében használja, egyéb módon hasznosítja, jogosult arra, hogy az általa fizetendő adóból levonja azt az adót, amelyet
 
-- a) termék beszerzéséhez, szolgáltatás igénybevételéhez kapcsolódóan egy másik adóalany – ideértve az Eva. hatálya alá tartozó személyt, szervezetet is – rá áthárított;
+- a) termék beszerzéséhez, szolgáltatás igénybevételéhez kapcsolódóan egy másik adóalany rá áthárított
 - b) termék beszerzéséhez – ideértve a termék Közösségen belüli beszerzését is –, szolgáltatás igénybevételéhez – ideértve az előleget is, ha az adót a 140. § a) pontja szerint a szolgáltatás igénybevevője fizeti – kapcsolódóan fizetendő adóként megállapított;
 - c) termék importjához kapcsolódóan
   - ca) maga vagy közvetett vámjogi képviselője megfizetett, illetőleg
@@ -1940,7 +1935,7 @@ fizeti, feltéve, hogy a szolgáltatást nyújtó adóalany belföldön gazdasá
 - a) mindegyike belföldön nyilvántartásba vett adóalany legyen, valamint
 - b) egyikének se legyen olyan, e törvényben szabályozott jogállása, amelynek alapján tőle adó fizetése ne lenne követelhető.
 
-(4) A (3) bekezdés a) pontjának alkalmazásában – akár termék értékesítője, szolgáltatás nyújtója vagy termék beszerzője, szolgáltatás igénybevevője minőségében, akár mindkét minőségben egyaránt – belföldön nyilvántartásba vett adóalany az Eva. hatálya alá tartozó személy, szervezet is.
+(4)
 
 (5) Az érintettség valószínűsítése mellett az ügylet teljesítésében érintett bármelyik fél kérheti
 
@@ -2431,7 +2426,7 @@ számlakibocsátási kötelezettséget jelent.
 
 ### Okiratok megőrzése
 
-178/A. § Az állami adóhatóság által az együttműködő közösségekről, a pénzforgalmi elszámolást választó adózókról és az MNB, illetve az EKB által hivatalosan közzétett árfolyamot alkalmazó adózókról vezetett nyilvántartás – azon adat kivételével, amelyet jogszabály más nyilvántartás részeként közhitelesnek minősít – közhiteles hatósági nyilvántartásnak minősül.
+#### 178/A. §
 
 179. § (1) Minden személy, szervezet, aki (amely) e törvényben szabályozott jogot gyakorol, illetőleg akire (amelyre) e törvény kötelezettséget állapít meg, köteles az adómegállapítás hiánytalan és helyes volta ellenőrizhetőségének érdekében az általa vagy nevében kibocsátott, valamint a birtokában levő vagy egyéb módon rendelkezésére álló okiratot legalább az adó megállapításához való jog elévüléséig megőrizni.
 
@@ -2609,7 +2604,7 @@ nem haladja meg a (2) bekezdésben meghatározott felső értékhatárt.
 
 (1a) A 12. § szerinti termékértékesítés esetén – amennyiben az adóalany annak kapcsán alanyi adómentes minőségében jár el – az (1) bekezdés szerinti értékhatár számítása szempontjából a 68. § szerinti adóalapot kell figyelembe venni.
 
-(2) Az alanyi adómentesség választására jogosító felső értékhatár: 18 000 000 forintnak megfelelő pénzösszeg.
+(2) Az alanyi adómentesség választására jogosító felső értékhatár: 20 000 000 forintnak megfelelő pénzösszeg.
 
 (3) Az alanyi adómentesség választására jogosító felső értékhatárba nem számítandó be:
 
@@ -3039,6 +3034,12 @@ tünteti fel.
 (2) Az árrés az a pénzben kifejezett különbözet, amelynél a kisebbítendő tag az utas által megtérített vagy megtérítendő, pénzben kifejezett – adó nélkül számított – ellenérték, a kivonandó tag pedig az utazásszervezési szolgáltatás teljesítéséhez szükséges, a 206. § (1) bekezdésének a) pontjában említett, más adóalany által teljesített szolgáltatásnyújtás, termékértékesítés megtérített vagy megtérítendő, pénzben kifejezett – adóval számított – együttes ellenértéke.
 
 (3) Abban az esetben, ha a (2) bekezdés szerinti számítás eredményeként a különbözet nem pozitív előjelű, árrésként nulla érték veendő figyelembe.
+
+210/A. § (1) Utazásszervezési szolgáltatás nyújtása esetén a 169. § i) és k) pontjától eltérően az adó alapját és az áthárított adó összegét nem kell feltüntetni a számlán, kivéve a (2) bekezdés szerinti esetet.
+
+(2) A 169. § i) és k) pontja szerinti adatokat is fel kell tüntetni a számlán, ha az utazásszervezési szolgáltatást igénybe vevő adóalany legkésőbb az utazásszervezési szolgáltatásról szóló számla kiállításáig nyilatkozik arról, hogy a szolgáltatást nem a XV. fejezet, vagy a Héa-irányelv 306–310. cikk szerinti utazásszervezőként veszi igénybe.
+
+(3) A 10. számú melléklet szerinti adatszolgáltatásnak az (1) bekezdés szerinti esetben is tartalmaznia kell az adó forintban meghatározott alapját és az áthárított adó forintban meghatározott összegét.
 
 ### Adó alóli mentesség
 
@@ -4794,6 +4795,8 @@ az állami adó- és vámhatóság részére.
 
 374. § E törvénynek az egyes adókötelezettségekről és egyes adótörvények módosításáról szóló 2025. évi LIV. törvénnyel módosított 6/C. számú melléklet 1a. és 2a. pontját a 2025. október 1-jét magában foglaló adómegállapítási időszakról teljesítendő bevallások tekintetében kell először alkalmazni.
 
+375. § A 3. számú melléklet I. részében foglalt táblázat egyes adótörvények adminisztrációt csökkentő és jogharmonizációs célú módosításáról szóló 2025. évi LXXXIII. törvénnyel megállapított 60. sorát első alkalommal azokban az esetekben kell alkalmazni, amelyekben a 84. § szerint megállapított időpont 2026. január 1-jére vagy azt követő időpontra esik.
+
 377. § (1) Az adóalany – az egyéb törvényi feltételek fennállása esetén – az alanyi adómentességet 2026. naptári évre abban az esetben választhatja, ha az adóalany 2. § a) pontja szerinti összes termékértékesítése, szolgáltatásnyújtása fejében megtérített vagy megtérítendő ellenértéknek – forintban kifejezett és éves szinten göngyölített – összege
 
 - a) sem a 2025. naptári évben ténylegesen,
@@ -4802,6 +4805,15 @@ az állami adó- és vámhatóság részére.
 nem haladja meg a 20 000 000 forintnak megfelelő pénzösszeget.
 
 (2) Az (1) bekezdésben foglalt feltételek fennállása esetén az adóalany az alanyi adómentességet 2026. naptári évre abban az esetben is választhatja, ha a 191. § (3) bekezdésében vagy a 195/K. § (6) bekezdésében rögzített időtartam még nem telt el.
+
+378. § (1) Az adóalany – az egyéb törvényi feltételek fennállása esetén – az alanyi adómentességet 2027. naptári évre abban az esetben választhatja, ha az adóalany 2. § a) pontja szerinti összes termékértékesítése, szolgáltatásnyújtása fejében megtérített vagy megtérítendő ellenértéknek – forintban kifejezett és éves szinten göngyölített – összege
+
+- a) sem a 2026. naptári évben ténylegesen,
+- b) sem a 2027. naptári évben észszerűen várhatóan, illetve ténylegesen
+
+nem haladja meg a 22 000 000 forintnak megfelelő pénzösszeget.
+
+(2) Az (1) bekezdésben foglalt feltételek fennállása esetén az adóalany az alanyi adómentességet 2027. naptári évre abban az esetben is választhatja, ha a 191. § (3) bekezdésében vagy a 195/K. § (6) bekezdésében rögzített időtartam még nem telt el.
 
 ### 1. számú melléklet a 2007. évi CXXVII. törvényhez
 
@@ -4914,6 +4926,7 @@ nem haladja meg a 20 000 000 forintnak megfelelő pénzösszeget.
 | 57. | Emberi fogyasztásra alkalmas halfilé és más halhús (aprított is) frissen, hűtve vagy fagyasztva, a cápahús kivételével | 0304-ből |
 | 58. | Házi sertés élelmezési célra alkalmas vágási mellékterméke és belsősége, frissen, hűtve vagy fagyasztva | 0206 30-ból 0206 41-ből 0206 49-ből |
 | 59. | Jogszabályban meghatározott rozsdaövezeti akcióterületen található földrészleten létesített többlakásos lakóingatlanban kialakítandó vagy kialakított, 150 négyzetmétert meg nem haladó összes hasznos alapterülettel rendelkező, a 86. § (1) bekezdés j) pont ja), jb) vagy jc) alpontja alá tartozó lakás értékesítése |  |
+| 60. | Háziasított szarvasmarha élelmezési célra alkalmas húsa, vágási mellékterméke és belsősége frissen, hűtve vagy fagyasztva | 0201 20 90-ből 0201 30 00-ból 0202 20 90-ből 0202 30 50-ből 0202 30 90-ből 0206 10-ből 0206 21 00-ból 0206 22 00-ból 0206 29-ből |
 
 #### I/A. rész: termékek a gyógyászati segédeszközök társadalombiztosítási támogatásba történő befogadásáról, támogatással történő rendeléséről, forgalmazásáról, javításáról és kölcsönzéséről szóló 14/2007. (III. 14.) EüM rendelet 2012. január 1. napján hatályos 10. számú mellékletében meghatározott gyógyászati segédeszközök közül
 
@@ -5374,8 +5387,10 @@ Számla kiállítása, -kibocsátása
 - 4/A. Amennyiben az adóalany a 11. § szerinti termékértékesítést, a 14. § szerinti szolgáltatásnyújtást teljesít tőle eltérő személy, szervezet részére, köteles adatot szolgáltatni az ügylet 11. §, illetve 14. § hatálya alá tartozásáról, valamint arról, hogy a számlában feltüntetett áfát a termékbeszerző, szolgáltatást igénybe vevő köteles-e számára megtéríteni.
 - 5. Amennyiben az adóalany az általa teljesített termékértékesítéshez, szolgáltatáshoz 59. § szerinti előleget kapott, a teljesítésről kibocsátott, kiállított számla, számlával egy tekintet alá eső okirat vonatkozásában az előleg figyelembevételével adódó különbözetről is szolgáltat adatot.
 - 5/A. Amennyiben az adóalany belföldön kívül teljesített termékértékesítést, szolgáltatásnyújtást, köteles adatot szolgáltatni arról, hogy az ügylet e törvény területi hatályán kívül esik.
-- 6. Az 1–5/A. pont szerinti adatszolgáltatást az állami adó- és vámhatóság által erre a célra biztosított elektronikus felületen kell teljesíteni. Az elektronikus felület az adóalany egyedi azonosítására szolgáló adatok igénylését követően használható. Az azonosító adatokat az adóalany vagy annak Air. szerinti állandó meghatalmazottja igényli.
-- 7. Az 1–5/A. pont szerinti adatszolgáltatást az adóalany nevében az a személy is teljesítheti, akit az adóalany vagy annak Air. szerinti állandó meghatalmazottja a 6. pont szerinti elektronikus felületen megjelöl. Az adóalany vagy annak Air. szerinti állandó meghatalmazottja által megjelölt személy által teljesített valamennyi adatszolgáltatás az adóalany nevében tett jognyilatkozatnak minősül.
+- 5/B. Amennyiben az adóalany a jogelődje által teljesített termékértékesítésről, szolgáltatásnyújtásról állít ki számlát, számlával egy tekintet alá eső okiratot, a jogelőd adószámáról is szolgáltat adatot.
+- 5/C. Csoportos adóalany által teljesített termékértékesítésről, szolgáltatásnyújtásról a csoportos adóalany által kiállított számla, számlával egy tekintet alá eső okirat esetén az ügyletben résztvevő tag adószámáról is adatot kell szolgáltatni.
+- 6. Az 1–5/C. pont szerinti adatszolgáltatást az állami adó- és vámhatóság által erre a célra biztosított elektronikus felületen kell teljesíteni. Az elektronikus felület az adóalany egyedi azonosítására szolgáló adatok igénylését követően használható. Az azonosító adatokat az adóalany vagy annak Air. szerinti állandó meghatalmazottja igényli.
+- 7. Az 1–5/C. pont szerinti adatszolgáltatást az adóalany nevében az a személy is teljesítheti, akit az adóalany vagy annak Air. szerinti állandó meghatalmazottja a 6. pont szerinti elektronikus felületen megjelöl. Az adóalany vagy annak Air. szerinti állandó meghatalmazottja által megjelölt személy által teljesített valamennyi adatszolgáltatás az adóalany nevében tett jognyilatkozatnak minősül.
 - 8. Az adóalany vagy annak Air. szerinti állandó meghatalmazottja a 6. pont szerinti elektronikus felületen megjelöli azon személyt, akinek az elektronikus felületen szolgáltatott adatokhoz hozzáférési lehetőséget ad. Számla befogadása
 - 9. Az adóalany termék beszerzése, szolgáltatás igénybevétele esetén arról az adómegállapítási időszakról teljesítendő bevallásban, amelyben az ügylet teljesítését vagy az előleg megfizetését tanúsító számla alapján adólevonási jogot gyakorol, számlánként nyilatkozni köteles:
   - a) a terméket értékesítő, szolgáltatást nyújtó adóalany – ideértve az Eva. hatálya alá tartozó személyt, szervezetet is – adószámának, csoportos adóalanyiság esetén csoportazonosító számának első nyolc számjegyéről,

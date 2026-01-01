@@ -290,6 +290,23 @@ jelöli ki.
 
 Az adóigazgatási eljárás kérelemre vagy hivatalból indul.
 
+#### 8/A. Automatikus döntéshozatal az adóigazgatási eljárásban
+
+#### 29/A. § [Automatikus döntéshozatal]
+
+(1) Az adóhatóság az adóigazgatási eljárást automatikus döntéshozatal útján is lefolytathatja, ha
+
+- a) a Dáptv. szerinti automatikus döntéshozatali eljárás feltételei fennállnak, vagy
+- b) a kérelemre vagy hivatalból indult eljárásban
+  - ba) az adóhatóság részére minden adat rendelkezésre áll, és
+  - bb) a döntés meghozatala mérlegelést nem igényel.
+
+(2) Automatikus döntéshozatali eljárásban az eljárást lezáró, az ügyintézéshez szükséges egyéb döntés, illetve egyéb adóhatósági irat is kiadható.
+
+(3) A 73. § (1) bekezdés d) pontjától eltérően az automatikus döntéshozatal útján kiadott döntés vagy egyéb adóhatósági irat tartalmazza az automatikus döntéshozatalra történő utalást, valamint az eljáró adóhatóság megnevezését – az állami adó- és vámhatóság esetében a „Nemzeti Adó- és Vámhivatal” megjelölést – tartalmazó minősített vagy minősített tanúsítványon alapuló fokozott biztonságú elektronikus bélyegzőt és minősített elektronikus időbélyegzőt.
+
+(4) Jogorvoslati eljárásban automatikus döntéshozatalnak nincs helye.
+
 #### 9. Nyelvhasználat
 
 #### 30. § [Nyelvhasználat]
@@ -912,9 +929,9 @@ Az adóhatóság az adóügy érdemében határozattal, az eljárás során eld�
 
 - a) az eljáró adóhatóság, az adózó és az ügy azonosításához szükséges minden adatot,
 - b) a rendelkező részt az adóhatóság döntésével, a jogorvoslat igénybevételével kapcsolatos tájékoztatással és a felmerült eljárási költséggel,
-- c) a megállapított tényállásra és az annak alapjául elfogadott bizonyítékokra, az adózó által felajánlott és mellőzött bizonyítékokra, a mérlegelés és a döntés indokaira, az ügyintézési határidő leteltének napjára, továbbá a döntést megalapozó, valamint a hatóság hatáskörét és illetékességét megállapító jogszabályhelyek megjelölésére is kiterjedő indokolást,
-- d) a döntéshozatal helyét és idejét, a hatáskör gyakorlójának nevét, hivatali beosztását, valamint a döntés kiadmányozójának a nevét, hivatali beosztását, ha az nem azonos a hatáskör gyakorlójával, valamint
-- e) a d) ponttól eltérően a döntéshozatal helyét és idejét, valamint a „Nemzeti Adó- és Vámhivatal” megjelölést, ha az eljáró adóhatóság jogszabályban meghatározott automatikus döntéshozatalt és szervezeti aláírást alkalmaz.
+- c) a megállapított tényállásra és az annak alapjául elfogadott bizonyítékokra, az adózó által felajánlott és mellőzött bizonyítékokra, a mérlegelés és a döntés indokaira, az ügyintézési határidő leteltének napjára, továbbá a döntést megalapozó, valamint a hatóság hatáskörét és illetékességét megállapító jogszabályhelyek megjelölésére is kiterjedő indokolást, valamint
+- d) a döntéshozatal helyét és idejét, a hatáskör gyakorlójának nevét, hivatali beosztását, valamint a döntés kiadmányozójának a nevét, hivatali beosztását, ha az nem azonos a hatáskör gyakorlójával.
+- e)
 
 (2) Jogorvoslatról való tájékoztatást mellőző, az indokolásban pedig csak az azt megalapozó jogszabályhelyek megjelölését tartalmazó egyszerűsített döntés hozható, ha az adóhatóság a kérelemnek teljes egészében helyt ad.
 

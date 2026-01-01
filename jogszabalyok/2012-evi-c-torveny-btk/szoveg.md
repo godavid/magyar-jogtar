@@ -2777,7 +2777,13 @@ vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.
 
 (3) A büntetés két évig terjedő szabadságvesztés, ha a személyes adattal visszaélést különleges adatra vagy bűnügyi személyes adatra követik el.
 
-(4) A büntetés bűntett miatt három évig terjedő szabadságvesztés, ha személyes adattal visszaélést hivatalos személyként vagy közmegbízatás felhasználásával követik el.
+(4) A büntetés bűntett miatt három évig terjedő szabadságvesztés, ha a személyes adattal visszaélést
+
+- a) hivatalos személyként,
+- b) közmegbízatás felhasználásával, vagy
+- c) bírósági eljárási cselekményről – a helyszínen vagy a tárgyalás online nyilvánosságáról szóló jogszabály megsértésével – jogosulatlanul készített kép- vagy hangfelvétellel, illetve kép- és hangfelvétellel
+
+követik el.
 
 ### Közérdekű adattal visszaélés
 

@@ -1751,6 +1751,8 @@ biztosítja.
 
 (3) Aki a nyilvánosság tájékoztatása céljából a bíróságtól, ügyészségtől vagy nyomozó hatóságtól tájékoztatást kér – ideértve a kép-, hang-, vagy a kép- és hangfelvétel készítésére vonatkozó engedélyt is –, indítványában köteles közölni a nevét, nem természetes személy esetén megnevezését, valamint elérhetőségét és azt, hogy a nyilvánosságot hogyan – különösen mely médiatartalom-szolgáltató vagy egyéb, az információs társadalommal összefüggő szolgáltatás útján – tájékoztatja.
 
+(4) A nyilvánosság tájékoztatására, illetve a büntetőeljárásról történő tájékoztatásra vonatkozó szabályok nem érintik a tárgyalás nyilvánosságára és a tárgyalás telekommunikációs eszköz útján történő nyomon követésére vonatkozó szabályok alkalmazását.
+
 ### A nyilvánosság tájékoztatása a bíróság tárgyalásáról
 
 108. § (1) Mindenkinek joga van ahhoz, hogy a bíróság tárgyalásáról a médiarendszer útján tájékoztatást kapjon.
@@ -5838,14 +5840,16 @@ a nyomozó hatóság vagy az ügyészség a gyanúsítotti kihallgatást megkezd
 
 394. § (1) Az ügyészség és a nyomozó hatóság felfüggeszti az eljárást, ha
 
-- a) az elkövető kiléte a nyomozásban nem volt megállapítható, vagy
-- b) az elkövető tartós, súlyos betegsége vagy a bűncselekmény elkövetése után bekövetkezett elmebetegsége miatt az eljárásban nem vehet részt.
+- a) az elkövető kiléte a nyomozásban nem volt megállapítható,
+- b) az elkövető tartós, súlyos betegsége vagy a bűncselekmény elkövetése után bekövetkezett elmebetegsége miatt az eljárásban nem vehet részt,
+- c) az elkövető ismeretlen helyen tartózkodik és a távollévő terhelttel szemben a CI. Fejezet alapján a bírósági eljárás lefolytatásának nincs helye vagy
+- d) az elkövető külföldön ismert helyen tartózkodik és a CII. Fejezet alapján a bírósági eljárás lefolytatásának nincs helye.
 
 (2) Az ügyészség felfüggeszti az eljárást a közvetítői eljárás lefolytatása céljából, ha annak feltételei fennállnak.
 
 (3) Az ügyészség és a nyomozó hatóság felfüggesztheti az eljárást, ha
 
-- a) az elkövető ismeretlen helyen vagy külföldön tartózkodik,
+- a)
 - b) jogsegély iránti megkeresés más állam hatósága általi teljesítése szükséges,
 - c) az eljárás lefolytatásához előzetes kérdésben hozott döntést kell beszerezni, vagy
 - d) az elkövetővel szemben a gyanúsítás tárgyát képező cselekmény miatt bíróság előtt büntetőeljárás van folyamatban.
@@ -6497,6 +6501,73 @@ zárt tárgyalást rendelhet el (a továbbiakban: zárt tárgyalás).
 
 (3) A bíróság nem hirdeti ki nyilvánosan azokat a határozat indokolásának részét képező adatokat, amelyek nyilvánosságra hozatala azon érdek sérelmét eredményezné, amelynek védelmében a zárt tárgyalást a bíróság elrendelte.
 
+### LXXI/A. Fejezet — HALLGATÓSÁG ONLINE JELENLÉTE A TÁRGYALÁSON
+
+438/A. § (1) Ha annak a technikai feltételei fennállnak, a hallgatóság számára a nyilvános tárgyalás nyomon követése jogszabályban meghatározottak szerint, a bíróság által biztosított telekommunikációs eszköz útján is megvalósulhat (a továbbiakban: online hallgatóság).
+
+(2) A tárgyalás ideje alatt az eljáró bíróság és az online hallgatóság közötti egyirányú – a kapcsolatfelvétel szükségessége esetén kétirányú – kép- és hangkapcsolatot biztosító összeköttetést, az erre szolgáló informatikai rendszer működtetésével, az Országos Bírósági Hivatal biztosítja.
+
+(3) A tárgyalás online hallgatóság által történő nyomon követése esetén – ha jogszabály kivételt nem tesz – a használt telekommunikációs eszközzel felvételt kell rögzíteni.
+
+438/B. § (1) Az online hallgatóság létszáma legfeljebb száz személy lehet.
+
+(2) Az online hallgatóságnak a nyilvános tárgyalás nyomon követéséhez regisztrálnia kell. A regisztráció a Dáptv. szerinti eAzonosításhoz kötött.
+
+(3) A nyilvános tárgyaláson online hallgatóságként az első száz eredményesen regisztráló nagykorú természetes személy vehet részt.
+
+(4) A regisztráció eredménytelen, ha a jelentkező kifejezett nyilatkozatával nem fogadja el az online hallgatóságra vonatkozó szabályokat, valamint nem nyilatkozik arról, hogy a személyes adatok kezelésére vonatkozó tájékoztatást megismerte.
+
+438/C. § (1) A felsőoktatási intézmény jogi vagy államtudományi képzési területén tanuló hallgatót, valamint a felsőoktatási intézmény jogi vagy államtudományi karán foglalkoztatott oktatóját vagy kutatóját – jogszabályban meghatározott – elsőbbségi regisztrációs jog illeti meg, ha tanulmányi, oktatási, vagy kutatási célból kíván online hallgatóságként a kitűzött tárgyaláson részt venni és hallgatói, oktatói, vagy kutatói minősége az oktatási nyilvántartásról szóló törvény szerinti felsőoktatási információs rendszer adatai alapján igazolást nyer.
+
+(2) Az oktató felel azért, hogy online hallgatóságként, illetve a megtekintett tárgyaláson történtek megvitatása során, a tanóra helyszínén
+
+- a) kizárólag egyénileg visszaigazolt regisztrációval rendelkező személyek legyenek jelen, valamint
+- b) ne legyen jelen olyan személy, akit online hallgatóként – az oktató tudomásával – a bíróság kizárt.
+
+438/D. § Az online hallgató a tárgyalásról kép- vagy hangfelvételt, illetve kép- és hangfelvételt nem készíthet, a tárgyalás nyomon követését más személynek egyidejű vagy késleltetett hozzáférés lehetővé tételével nem biztosíthatja, a tárgyalás anyagát más módon, részben vagy egészben nyilvánosságra nem hozhatja. Az online hallgatót előzetesen figyelmeztetni kell, hogy a tárgyalásról történő felvételkészítés illetve a felvétel, vagy a tárgyalás anyagának nyilvánosságra hozatala, valamint más személy részére a tárgyalás nyomon követésének bármilyen módon történő lehetővé tétele büntetőjogi, illetve polgári jogi felelősség megállapítását vonhatja maga után.
+
+438/E. § (1) A Dáptv. szerinti digitális állampolgárság szolgáltató a hallgatóságként regisztráló személy azonosíthatósága érdekében az eAzonosítást – valamint az f) és g) pont szerinti adatok tekintetében a személyi adat- és lakcímnyilvántartásból történő adatszolgáltatást – követően átadja az Országos Bírósági Hivatal részére a regisztráló személy következő azonosító adatait:
+
+- a) viselt neve,
+- b) születési neve,
+- c) születési helye,
+- d) születési ideje,
+- e) anyja neve,
+- f) lakcíme, valamint
+- g) arcképmása.
+
+(2) Az oktatási nyilvántartás vezetéséért felelős szerv – az eAzonosítást követően – tájékoztatást nyújt a felsőoktatási intézmény jogi vagy államtudományi képzési területén tanuló hallgatóként, illetve a felsőoktatási intézmény jogi vagy államtudományi karán foglalkoztatott oktatóként vagy kutatóként regisztráló személy hallgatói, oktatói, illetve kutatói minősége fennállásáról vagy fenn nem állásáról.
+
+(3) Az Országos Bírósági Hivatal a regisztráció eredményes befejezését követően haladéktalanul tájékoztatja a bíróságot az online hallgatóként regisztrált személyre vonatkozó (1) és (2) bekezdés szerinti adatokról.
+
+(4) Az online hallgató eredményes regisztrációját követően, a személye és az általa követni kívánt tárgyalás azonosítására szolgáló, összekapcsolt adatokat az Országos Bírósági Hivatal, valamint a bíróság az eljárás tárgyát képező ügyirat selejtezéséig vagy levéltárba adásáig kezeli.
+
+(5) Az online hallgatóságnak jelentkező személy viselt és születési nevén kívül az egyéb személyes adatait a bíróság zártan kezeli.
+
+438/F. § (1) Nincs helye a tárgyalás online hallgatóság által történő nyomon követésének,
+
+- a) nemi élet szabadsága vagy nem erkölcs elleni bűncselekmény miatt folyamatban lévő eljárásban,
+- b) gyermekek érdekét sértő és a család elleni bűncselekmények miatt folyamatban lévő eljárásban,
+- c) ha az különleges bánásmódot igénylő személy kímélete vagy védelme érdekében szükséges,
+- d) ha védett adat védelme más módon nem biztosítható,
+- e) ha az eljárás adatai alapján feltételezhető, hogy a hallgatóság online jelenlétének biztosítása a bizonyítás eredményes lefolytatását veszélyeztetné,
+- f) ha az más büntetőeljárás eredményességét veszélyezteti, valamint
+- g) ha a tárgyaláson jelen lévő vádlottak vagy más, büntetőeljárásban részt vevő személyek jelentős számára tekintettel az online hallgatóság tagjának kizárásával kapcsolatos körülmények vagy a tárgyalás online hallgatóság által történő nyomon követésének feltételeivel kapcsolatos körülmények ellenőrzése veszélyeztetné a tárgyalás időszerű lefolytatását.
+
+(2) A bíróság kizárja az online hallgatóság azon tagját,
+
+- a) akinek a tárgyalás online hallgatóság által történő nyomon követésével kapcsolatos szabályok megszegése miatt büntetőjogi, illetve polgári jogi felelősségét jogerős, végleges, vagy egyéb, további jogorvoslattal nem támadható határozat megállapította,
+- b) aki a tárgyaláson hallgatóságként nem vehet részt, valamint
+- c) aki a tárgyalás online hallgatóság által történő nyomon követésével kapcsolatos szabályokat megszegi.
+
+438/G. § (1) Ha a tárgyalást online hallgatóság nyomon követi, akkor a bíróság a tárgyalás megnyitását követően tájékoztatja a jelenlévőket arról, hogy
+
+- a) a tárgyalás online hallgatóság által történő nyomon követésére kerül sor,
+- b) az online hallgatóság mely tagjának kizárására került sor, valamint
+- c) mennyi a regisztrált online hallgatók száma.
+
+(2) Az (1) bekezdésben meghatározott tájékoztatást követően az ügyész, a terhelt és a védő, valamint a tárgyaláson jelen lévő személyek indítványra az online hallgatók viselt és születési nevét, valamint arcképmását – erre irányuló indítvány alapján – megismerhetik és indítványt tehetnek a hallgatóság online jelenlétének, illetve az online hallgatók kizárására.
+
 ### LXXII. Fejezet — A TÁRGYALÁS VEZETÉSE, MÉLTÓSÁGÁNAK MEGŐRZÉSE ÉS RENDJÉNEK FENNTARTÁSA
 
 ### A tárgyalás vezetése és méltóságának megőrzése
@@ -6575,7 +6646,7 @@ készíthető.
 - f) a jelen lévő vádlott nevét, illetve – azonosításra alkalmas – megjelölését,
 - g) az e törvényben meghatározott más személyes adatokat,
 - h) az eljárási cselekményen jelen lévő egyéb személyek nevét és azt, hogy az eljárási cselekményen milyen minőségben van jelen,
-- i) azt, hogy hallgatóság jelen van-e.
+- i) azt, hogy hallgatóság jelen van-e vagy az online hallgatóság a tárgyalást nyomon követi-e.
 
 (2) A jegyzőkönyvnek tartalmaznia kell
 
@@ -7106,7 +7177,7 @@ ellen.
 
 488. § (1) A bíróság felfüggesztheti az eljárást, ha
 
-- a) a vádlott ismeretlen helyen vagy külföldön tartózkodik,
+- a) a vádlott ismeretlen helyen vagy külföldön tartózkodik, és a távollevő terhelttel szemben a CI. vagy a CII. Fejezet alapján a bírósági eljárás lefolytatásának nincs helye,
 - b) a vádirat hiányosságainak pótlása vagy eljárási cselekmény elvégzése iránt intézkedett,
 - c) jogsegély iránti megkeresés más állam hatósága általi teljesítése szükséges,
 - d) az eljárás lefolytatásához előzetes kérdésben hozott döntést kell beszerezni,
@@ -8900,7 +8971,8 @@ tanácsülésen bírálja el.
 - d) az alapügyben hamis vagy hamisított bizonyítékot használtak fel,
 - e) az alapügyben a bíróság, az ügyészség vagy a nyomozó hatóság tagja a kötelességét a büntető törvénybe ütköző módon megszegte,
 - f) a köztársasági elnök a terhelttel szemben indult büntetőeljárás kegyelemből történő megszüntetéséről határozott,
-- g) az alapügyet a CI–CII. Fejezet szerint fejezték be.
+- g) az alapügyet a CI. Fejezet szerint fejezték be, vagy
+- h) az alapügyet a CII. Fejezet szerint fejezték be és végrehajtandó szabadságvesztés büntetés kiszabására került sor.
 
 (2) Az (1) bekezdés a) pontja szerinti új bizonyítéknak kell tekinteni az olyan személy tanúvallomását, aki az alapügyben a mentességi jogával élve a vallomástételt megtagadta.
 
@@ -8912,6 +8984,8 @@ tanácsülésen bírálja el.
 (4) A perújításnak nem akadálya, ha a (3) bekezdés a) pontjában megjelölt bűncselekmény miatt a felelősségre vonás az elkövető büntethetőségét, illetve a cselekmény büntetendőségét kizáró ok vagy büntethetőséget megszüntető ok miatt maradt el.
 
 (5) Az (1) bekezdés f) és – ha a terhelt elérhető – g) pontja esetén a perújítás lefolytatása kötelező.
+
+(6) Az (1) bekezdés h) pontjában meghatározott esetben a perújítás lefolytatása kötelező, ha a terhelt Magyarországon tartózkodik.
 
 638. § (1) Perújításnak nincs helye, ha a bíróság az eljárást azért szüntette meg, mert az ügyészség a vádat ejtette.
 
@@ -8943,6 +9017,12 @@ terjeszthet elő perújítási indítványt.
 (5) A perújítási indítványnak tartalmaznia kell az indítványozó kézbesítésre alkalmas elérhetőségét, a 637. § (1) bekezdés g) pontjára alapított perújítási indítványnak továbbá a terhelt tényleges tartózkodási helyét.
 
 (6) Ha valamely hatóság vagy hivatalos személy a hivatali hatáskörében olyan körülményről szerez tudomást, amelynek alapján perújítást lehet indítványozni, köteles erről a perújítás megengedhetőségének kérdésében döntő bíróság mellett működő ügyészséget tájékoztatni.
+
+(7) A terhelt és a védő a 637. § (1) bekezdés h) pontjára alapított perújítási indítványt attól a naptól számított egy hónapon belül terjesztheti elő, amelyen a terhelt
+
+- a) magyarországi tényleges tartózkodási helyét a bírósággal közölte,
+- b) a terheltet Magyarországon elfogták, vagy
+- c) a terheltet Magyarországra szállították.
 
 640. § (1) A perújítási indítvány a másodfokú bíróság perújítás megengedhetősége tárgyában tartott tanácsülésének megkezdéséig visszavonható.
 
@@ -9005,7 +9085,7 @@ terjeszthet elő perújítási indítványt.
 - a) megküldi az alapügyben eljárt elsőfokú bíróságnak vagy
 - b) átteszi a hatáskörrel és illetékességgel rendelkező bírósághoz.
 
-(2) A 637. § (1) bekezdés g) pontja alapján a perújítást csak a másodfokú, illetve csak a harmadfokú bírósági eljárásra vonatkozóan kell elrendelni, ha a terhelt távollétében csak a másodfokú, illetve csak a harmadfokú bírósági eljárást folytatták le.
+(2) A 637. § (1) bekezdés g) és h) pontja alapján a perújítást csak a másodfokú, illetve csak a harmadfokú bírósági eljárásra vonatkozóan kell elrendelni, ha a terhelt vagy a külföldön ismert helyen tartózkodó terhelt távollétében csak a másodfokú, illetve csak a harmadfokú bírósági eljárást folytatták le.
 
 (3) Ha a bíróság a 637. § (1) bekezdés b) pontja alapján rendeli el a perújítást, maga is hatályon kívül helyezheti az alapügyben hozott ítéletet, vagy annak a perújítással megtámadott részét és az 567. § (1) bekezdés b) pontja alapján megszüntetheti az eljárást.
 
@@ -9013,7 +9093,10 @@ terjeszthet elő perújítási indítványt.
 
 (5) A bíróság a perújítás elrendelésével egyidejűleg az alapügyben kiszabott büntetés vagy alkalmazott intézkedés végrehajtását, illetve a jogerős ügydöntő határozatban foglaltak teljesítését felfüggesztheti, illetve félbeszakíthatja, vagy a szükséges kényszerintézkedést elrendelheti.
 
-(6) Az alaptalan, illetve a törvényben kizárt, az arra nem jogosulttól származó vagy elkésett perújítási indítványt a bíróság nem ügydöntő végzésével elutasítja. A bíróság a perújítási indítványt elutasítja akkor is, ha az indítványozó, illetve a 637. § (1) bekezdés g) pontjára alapított perújítási indítvány esetén a terhelt elérhetetlenné vált.
+(6) Az alaptalan, illetve a törvényben kizárt, az arra nem jogosulttól származó vagy elkésett perújítási indítványt a bíróság nem ügydöntő végzésével elutasítja. A bíróság a perújítási indítványt elutasítja akkor is, ha
+
+- a) az indítványozó, illetve a 637. § (1) bekezdés g) pontjára alapított perújítási indítvány esetén a terhelt elérhetetlenné vált vagy
+- b) a 637. § (1) bekezdés h) pontjára alapított perújítási indítvány esetén a terhelt tényleges magyarországi tartózkodási helye megszűnt vagy elérhetetlenné vált.
 
 (7) A bíróság a perújítási indítványt elutasító határozatát közli azzal, aki a perújítási indítványt előterjesztette, és ha az indítványt nem az ügyészség terjesztette elő, az ügyészséggel is. A más által előterjesztett perújítási indítványt elutasító határozatot a terhelttel és a védővel is közölni kell.
 
@@ -9045,15 +9128,16 @@ terjeszthet elő perújítási indítványt.
 
 (6) A perújítás lefolytatása során
 
-- a) a bizonyítás terjedelmét – a 637. § (1) bekezdés g) pontjában meghatározott ok kivételével – kizárólag az a perújítási ok határozza meg, amely miatt a perújítást elrendelték, és
+- a) a bizonyítás terjedelmét – a 637. § (1) bekezdés g) és h) pontjában meghatározott ok kivételével – kizárólag az a perújítási ok határozza meg, amely miatt a perújítást elrendelték, és
 - b) nem rendelhető el olyan bizonyítás, amely a terhelt terhére szóló változást eredményezne, ha a perújítási indítványt a terhelt javára terjesztették elő.
 
 647. § (1) Ha a bíróság megállapítja, hogy a perújítás alapos, az alapügyben hozott ítéletet vagy eljárást megszüntető végzést, illetve annak a perújítással megtámadott részét hatályon kívül helyezi, és a törvénynek megfelelő határozatot hoz.
 
 (2) A bíróság a perújítást elutasítja, ha
 
-- a) azt alaptalannak találja, illetve
-- b) a 637. § (1) bekezdés g) pontja alapján elrendelt perújítás során a terhelt elérhetetlenné vált.
+- a) azt alaptalannak találja,
+- b) a 637. § (1) bekezdés g) pontja alapján elrendelt perújítás során a terhelt elérhetetlenné vált, illetve,
+- c) a 637. § (1) bekezdés h) pontjára alapított perújítási indítvány esetén a terhelt tényleges magyarországi tartózkodási helye megszűnt vagy elérhetetlenné vált.
 
 (3) Ha az alapügyben kiszabott büntetést összbüntetésbe foglalták, és a perújítás alapossága folytán az összbüntetési ítéletet is hatályon kívül kell helyezni, a bíróság az összbüntetési ítéletet is hatályon kívül helyezi, és – ha ennek feltételei fennállnak – lefolytatja az összbüntetési eljárást, feltéve, hogy ez a 839. § (1) bekezdése szerinti hatáskörét nem haladja meg; ellenkező esetben az ügyiratokat az összbüntetési eljárás lefolytatására hatáskörrel rendelkező bíróságnak küldi meg.
 
@@ -9625,6 +9709,8 @@ eléri, kivéve az ügydöntő határozat kihirdetése után elrendelt vagy fenn
 
 (2) A bíróság elrendelheti, hogy a tárgyalásnak azt a részét a fiatalkorú távollétében tartsák meg, amely a fiatalkorú helyes irányú fejlődését károsan befolyásolhatja. Az így lefolytatott tárgyalás lényegét – legkésőbb a bizonyítási eljárás befejezetté nyilvánítása előtt – a fiatalkorúval ismertetni kell.
 
+(3) Fiatalkorú elleni büntetőeljárásban a tárgyalás online hallgatóság által történő nyomon követésének nincs helye.
+
 692. § (1) A fiatalkorú elleni büntetőeljárásban ügyészségi fogalmazó és alügyész nem képviselheti a vádat.
 
 (2) A bíróság előtt a fiatalkorú védőjeként ügyvédjelölt nem járhat el ügyvéd helyetteseként.
@@ -10030,6 +10116,8 @@ tartja szükségesnek.
 - c) a bűncselekményre a törvény tízévi szabadságvesztésnél súlyosabb büntetést rendel, vagy
 - d) a bizonyítási eszközök nem állnak rendelkezésre.
 
+(5) Bíróság elé állítás esetén a tárgyalás online hallgatóság által történő nyomon követésének nincs helye.
+
 729. § (1) A bíróság a tárgyalást egy alkalommal, legfeljebb tizenöt napra elnapolhatja.
 
 (2) Ha a tárgyaláson felvett bizonyítás eredményéhez képest további bizonyítási eszközök felkutatása szükséges, és ezért a tárgyalás tizenöt napon belül vagy újabb elnapolás nélkül nem folytatható, a bíróság az ügyiratokat visszaküldi az ügyészségnek.
@@ -10256,73 +10344,116 @@ miatt.
 
 ### CI. Fejezet — ELJÁRÁS A TÁVOLLÉVŐ TERHELTTEL SZEMBEN
 
-747. § (1) A büntetőeljárás lefolytatásának nem akadálya az, hogy a bűncselekmény elkövetésével megalapozottan gyanúsítható személy vagy a terhelt elérhetetlenné vált.
+747. § (1) Az előkészítő eljárás és a nyomozás lefolytatásának nem akadálya, ha az elkövető, a bűncselekmény elkövetésével megalapozottan gyanúsítható személy vagy a terhelt ismeretlen helyen tartózkodik vagy elérhetetlenné vált.
 
-(2) A távollévő terhelttel szembeni eljárás esetén e törvény rendelkezéseit az e Fejezetben foglalt eltérésekkel kell alkalmazni.
+(2) A távollévő terhelttel szemben a bíróság eljárásának akkor van helye, ha
 
-(3) A távollévő terhelttel szemben vádemelésnek és azt követően a bíróság eljárásának akkor van helye, ha
+- a) a vád tárgyává tett cselekmény elkövetése miatt elfogták, gyanúsítottként hallgatták ki, vagy a gyanúsítás közlésére azért nem került sor, mert szabályszerű idézés ellenére nem jelent meg a kihallgatáson,
+- b) a vádlott az eljárás során elszökött, elrejtőzött, vagy megalapozottan feltehető, hogy a büntetőeljárás elkerülése érdekében más módon elérhetetlenné vált,
+- c) a vádiratban az ügyészség a terhelttel szemben végrehajtandó szabadságvesztés büntetés kiszabására indítványt tesz és
+- d) az eljárás lefolytatása a cselekmény tárgyi súlyára, az elkövetés körülményeire, az ügy megítélésére tekintettel nem mellőzhető és a bizonyítási eljárás a terhelt személyes részvétele nélkül is lefolytatható.
 
-- a) a bűncselekmény elkövetésével megalapozottan gyanúsítható személy vagy a terhelt az eljárás során elszökött, elrejtőzött, vagy megalapozottan feltehető, hogy a büntetőeljárás elkerülése érdekében más módon elérhetetlenné vált,
-- b) a terhelt vagy a bűncselekmény elkövetésével megalapozottan gyanúsítható személy felkutatása érdekében tett intézkedések észszerű időn belül nem vezettek eredményre, és
-- c) azt a bűncselekmény tárgyi súlya vagy az ügy megítélése indokolja.
+(3) A távollévő terhelttel szembeni eljárás esetén e törvény rendelkezéseit az e Fejezetben foglalt eltérésekkel kell alkalmazni.
 
-(4) A (3) bekezdés b) pontjában meghatározott feltétel akkor állapítható meg, ha
+(4) A távollévő terhelttel szemben a (2) bekezdés a) pontja szerinti bűncselekménytől eltérő további bűncselekmény miatt vádemelésnek és azt követően a bíróság eljárásának akkor van helye, ha a további bűncselekmény a (2) bekezdés a) pontja szerinti bűncselekménnyel szoros összefüggésben van és ezért együttes elbírálásuk célszerű.
 
-- a) a terhelt vagy a bűncselekmény elkövetésével megalapozottan gyanúsítható személy felkutatása érdekében bizonyítás felvételére, adatszerző tevékenység folytatására, vagy – ha annak feltételei fennállnak – leplezett eszközök alkalmazására került sor,
-- b) a nyomozó hatóság, ügyészség vagy a bíróság körözést, vagy – ha annak feltételei fennállnak – elfogatóparancsot bocsátott ki, és
-- c) a körözés vagy az elfogatóparancs a kibocsátásától számított tizenöt napon belül nem vezetett eredményre.
+(5) A (2) bekezdés a) pontja szerinti idézés esetén a 132. § (2) bekezdése és a 135. § (1) bekezdése nem alkalmazható.
 
-(5) Ha a távollévő terhelttel szembeni eljárás lefolytatásának feltételei nem állnak fenn, a bíróság vagy az ügyészség az eljárást felfüggeszti.
+(6) A (2) bekezdés b) pontjában meghatározott feltétel akkor állapítható meg, ha
 
-(6) A távollévő terhelttel szembeni eljárásban a védő részvétele kötelező.
+- a) a terhelt vagy a bűncselekmény elkövetésével megalapozottan gyanúsítható személy felkutatása érdekében bizonyítási eszközök beszerzésére, adatszerző tevékenység folytatására, vagy – ha annak feltételei fennállnak – leplezett eszközök alkalmazására került sor,
+- b) a nyomozó hatóság, ügyészség vagy a bíróság elfogatóparancsot bocsátott ki, és
+- c) az elfogatóparancs a kibocsátásától számított tizenöt napon belül nem vezetett eredményre.
+
+(7) Ha a távollévő terhelttel szembeni eljárás lefolytatásának feltételei nem állnak fenn, a bíróság, az ügyészség vagy a nyomozó hatóság az eljárást felfüggeszti.
+
+(8) A távollévő terhelttel szembeni eljárásban a védő részvétele kötelező.
 
 ### Nyomozás és vádemelés
 
-748. § (1) Ha a bűncselekmény elkövetésével megalapozottan gyanúsítható személy vagy a gyanúsított elérhetősége ismeretlen, és a távollévő terhelttel szembeni eljárás lefolytatásának feltételei fennállnak, az ügyészség a bűncselekmény elkövetésével megalapozottan gyanúsítható személyt vagy a gyanúsítottat távollévő terheltté nyilvánítja. A határozat ellen nincs helye panasznak.
+748. § (1) Ha a távollévő terhelttel szemben vádemelésnek lehet helye, az ügyészség vagy a nyomozó hatóság a terhelt részére védőt rendel ki, ha a terheltnek nincs védője.
 
-(1a) Ha az ügyészség a bűncselekmény elkövetésével megalapozottan gyanúsítható személyt távollévő terheltté nyilvánítja, de a nyomozást nem fejezi be, a nyomozást a vizsgálat szabályai szerint kell folytatni.
+(2) A terhelt védője részére az ügyiratok megismerését a 352. § (1) bekezdése rendelkezései szerint biztosítani kell.
 
-(2) Ha a távollévő terheltnek nincs védője, részére az ügyészség az (1) bekezdés szerinti határozatával egyidejűleg védőt rendel ki.
+(3) Ha a távollévő terhelttel szemben vádemelésre került sor, az ügyészség tájékoztatja a terheltet, hogy
 
-(3) A távollévő terhelt részére az ügyészség, illetve a nyomozó hatóság csak
+- a) az ügyészség a terhelt távollétében vádat emelt,
+- b) a védő kirendeléséről és a védő elérhetőségéről, ha az (1) bekezdés alapján védő kirendelésére került sor,
+- c) az elfogatóparancs kibocsátására került sor, valamint
+- d) az eljárásról a továbbiakban a nyomozó hatóságnál vagy az ügyészségnél kaphat tájékoztatást, megjelölve az érintett hatóságok elérhetőségét.
 
-- a) az (1) bekezdés szerinti határozatot,
-- b) az eljárást felfüggesztő, megszüntető határozatot,
-- c) a vádemelésről szóló tájékoztatást
+(4) A (3) bekezdés szerinti tájékoztatást az ügyészség és a nyomozó hatóság központi elektronikus tájékoztatásra szolgáló honlapján, és a Kormány által rendeletben meghatározott közzétételi felületen olyan módon kell közzétenni, hogy az interneten keresztül széleskörűen elterjedt böngészőprogramokkal folyamatosan elérhető és megtekinthető legyen, és a honlapon belül kereshető legyen legalább
 
-kézbesíti.
+- a) a tájékoztatást közzétevő ügyészség vagy nyomozó hatóság megnevezése alapján,
+- b) az ügy száma alapján,
+- c) a tájékoztatás közzétételének időpontja alapján,
+- d) az eljárás tárgyát képező bűncselekmény, több bűncselekmény esetén valamennyi bűncselekmény megnevezése alapján, és
+- e) a terhelt neve alapján.
 
-(4) Az (1) bekezdésben meghatározott feltételek fennállása esetén a gyanúsítás közlésének elmaradása a vádemelésnek nem akadálya. Ha az ügyészség az eljárás terhelt távollétében történő lefolytatását a vádiratban indítványozza, a vádiratnak a 422. §-ban meghatározottak mellett tartalmaznia kell a 747. § (3) és (4) bekezdésben felsorolt körülmények részletes leírását is.
+(5) A terhelt részére a (3) bekezdés szerinti tájékoztatást az eljárás befejezéséig kell közzétenni.
+
+(6) A (3) bekezdés szerinti tájékoztatás közzétételét követően az ügyészség és a nyomozó hatóság a terhelt részére kézbesítendő ügyirat kézbesítését mellőzi.
 
 ### A bíróság eljárása a távollévő vádlottal szemben
 
-749. § (1) A bíróság a távollévő terhelttel szemben az ügyészség erre irányuló indítványára jár el.
+749. § (1) A bíróság a távollévő terhelttel szemben az ügyészség erre irányuló indítványára járhat el.
 
 (2) A távollévő terhelt tekintetében előkészítő ülés tartásának nincs helye.
 
-750. § (1) Ha az ügyészség távollévő terhelttel szemben emelt vádat, és a vádlott elérhetősége a tárgyalás megkezdéséig ismertté válik, a bíróság tájékoztatja az ügyészséget. A bíróság további eljárására a Tizenharmadik–Tizennegyedik Rész rendelkezéseit kell alkalmazni.
+(3) Az egyesbíró vagy a tanács elnöke felfüggeszti az eljárást, ha
 
-(2) Ha a vádlott a vádemelés után válik elérhetetlenné, és a távollévő terhelttel szembeni eljárás lefolytatásának feltételei fennállnak, erről a bíróság az ügyészséget tájékoztatja.
+- a) az ügyészség a vádiratban, vagy ha a vádlott a vádemelés után vált elérhetetlenné, a bíróságnak az erről való tájékoztatását követő tizenöt napon belül nem tesz indítványt, hogy a tárgyalást a távollévő vádlottal szemben folytassák, vagy
+- b) a távollévő terhelttel szembeni eljárás lefolytatásának nincs helye.
 
-(3) Ha az ügyészség a tájékoztatás kézhezvételétől számított tizenöt napon belül nem tesz indítványt arra, hogy a tárgyalást a távollévő vádlottal szemben folytassák, az egyesbíró vagy a tanács elnöke az eljárást felfüggeszti. Az eljárás felfüggesztése nem akadálya annak, hogy az ügyészség az indítványát utóbb előterjessze.
+(4) Az eljárás (3) bekezdés szerinti felfüggesztése nem akadálya annak, hogy az ügyészség az indítványát utóbb előterjessze.
 
-(4) Ha a bíróság a távollévő vádlott részére védőt rendel ki, a tárgyalást a korábbi tárgyalás anyagának ismertetésével kell folytatni.
+750. § (1) Ha az ügyészség indítványt tett a távollévő terhelttel szembeni eljárás lefolytatására és annak feltételei fennállnak, akkor a bíróság a vádlott részére védőt rendel ki, ha a terheltnek nincs védője.
 
-(4a) A távollevő terhelttel szemben folytatott eljárásban az 562. § (2) és (3) bekezdésének rendelkezései nem alkalmazhatók és a másodfokú bíróság az elsőfokú ítéletet arra tekintet nélkül bírálja felül, hogy ki, milyen okból fellebbezett.
+(2) Ha az ügyészség a bírósági eljárás távollévő terhelttel szembeni lefolytatását indítványozza, és annak feltételei fennállnak, akkor a bíróság tájékoztatja a terheltet arról, hogy
 
-(5) Az (1)–(4) bekezdésben foglaltakat megfelelően alkalmazni kell a másodfokú és a harmadfokú bírósági eljárásban is.
+- a) a bíróság ez eljárást a terhelt távollétében folytatja,
+- b) a védő kirendeléséről és a védő elérhetőségéről, ha az (1) bekezdés alapján védő kirendelésére került sor,
+- c) az elfogatóparancs kibocsátására került sor,
+- d) az eljárásról a továbbiakban a bíróságon kaphat tájékoztatást, megjelölve az érintett bíróság elérhetőségét.
 
-751. § (1) Ha a vádlott felkutatására tett intézkedések az elsőfokú bíróság ügydöntő határozatának meghozatala előtt eredményre vezettek, a bíróság a tárgyalást a korábbi tárgyalás anyagának ismertetésével folytatja, szükség esetén a bizonyítási eljárást az 547. § alapján újra megnyitja.
+(3) A (2) bekezdés szerinti tájékoztatást a bíróság központi elektronikus tájékoztatásra szolgáló honlapján és a Kormány által rendeletben meghatározott közzétételi felületen olyan módon kell közzétenni, hogy
 
-(2) Ha a vádlott felkutatására tett intézkedések az elsőfokú bíróság ügydöntő határozatának meghozatala után vezettek eredményre, a vádlott a fellebbezésre nyitva álló határidőn belül fellebbezést jelenthet be.
+- a) az interneten keresztül széleskörűen elterjedt böngészőprogramokkal folyamatosan elérhető és megtekinthető legyen, és
+- b) a honlapon belül kereshető legyen legalább
+  - ba) a tájékoztatást közzétevő bíróság megnevezése alapján,
+  - bb) az ügy száma alapján,
+  - bc) a közzététel időpontja alapján,
+  - bd) az eljárás tárgyát képező bűncselekmény, több bűncselekmény esetén valamennyi bűncselekmény megnevezése alapján, és
+  - be) a terhelt neve alapján.
 
-752. § (1) Ha a vádlott felkutatására tett intézkedések a másodfokú bírósági eljárásban vezettek eredményre, a másodfokú bíróság tárgyalást tűz ki, és azon a vádlottat kihallgatja, ismerteti a vádlott távollétében tartott tárgyalás anyagának lényegét, valamint – ha szükséges – a vádlott vagy a védő által indítványozott további bizonyítást vesz fel.
+(4) A terhelt részére a (2) bekezdés szerinti tájékoztatást az eljárás befejezéséig kell közzétenni.
 
-(2) Ha a vádlott felkutatására tett intézkedések a harmadfokú bírósági eljárásban vezettek eredményre, a harmadfokú bíróság – feltéve, hogy a 625. § (3) bekezdés alkalmazásának nincs helye – a másodfokú bíróság ítéletét hatályon kívül helyezi, és a másodfokú bíróságot új eljárásra utasítja.
+(5) A (2) bekezdés szerinti tájékoztatás közzétételét követően a bíróság a terhelt részére kézbesítendő határozat – ideértve az ügydöntő határozatot is – vagy egyéb ügyirat kézbesítését mellőzi.
 
-(3) Ha a vádlott felkutatására tett intézkedések a harmadfokú bíróság hatályon kívül helyező végzése ellen bejelentett jogorvoslat elbírálása során vezettek eredményre, a Kúria a harmadfokú bíróság határozatát hatályon kívül helyezi, és a harmadfokú bíróságot új eljárásra utasítja. Ezt követően a harmadfokú bíróság eljárására a (2) bekezdést megfelelően alkalmazni kell.
+(6) Ha a bíróság a távollévő vádlott részére védőt rendel ki, a bíróság a tárgyalást a tárgyalás korábbi anyaga lényegének ismertetésével folytatja.
 
-(4) Ha a terhelt tartózkodási helye a jogerős ügydöntő határozat meghozatala után válik ismertté, a javára perújítási indítványt lehet előterjeszteni.
+(7) A távollevő terhelttel szemben folytatott eljárásban – a távollévő terhelt vonatkozásában –
+
+- a) a kihirdetés előtt írásba foglalt rendelkező rész kézbesítésének és az 562. § (1)–(3) bekezdés szerinti rövidített indokolásnak nincs helye,
+- b) a másodfokú bíróság az elsőfokú ítéletet teljes körűen és arra tekintet nélkül bírálja felül, hogy ki, milyen okból fellebbezett.
+
+(8) Az (1)–(7) bekezdésben foglaltakat megfelelően alkalmazni kell a másodfokú és a harmadfokú bírósági eljárásban is.
+
+751. § (1) Ha az ügyészség távollévő terhelttel szemben emelt vádat, és a vádlott elérhetősége a tárgyalás megkezdéséig ismertté válik, a bíróság tájékoztatja az ügyészséget és az eljárást az általános szabályok szerint kell folytatni.
+
+(2) Ha a vádlott felkutatására tett intézkedések az elsőfokú bíróság ügydöntő határozatának meghozatala előtt eredményre vezettek, a bíróság folytatja a tárgyalást és azon a vádlottat kihallgatja, ha arra a bírósági eljárás korábbi szakaszában nem került sor. A tárgyaláson az ügyész, a vádlott vagy a védő indítványozhatja a korábban lefolytatott bizonyítási eljárás lényegének ismertetését, valamint bizonyítás felvételére irányuló indítványt terjeszthet elő, ideértve a korábban már kihallgatott tanú kihallgatására, szakértő meghallgatására vagy más eljárási cselekmény elvégzésére irányuló indítványt is.
+
+(3) Ha a vádlott felkutatására tett intézkedések az elsőfokú bíróság ügydöntő határozatának meghozatala után vezettek eredményre, a vádlott a fellebbezésre nyitva álló határidőn belül fellebbezést jelenthet be.
+
+(4) A (2) és (3) bekezdésben foglaltakat megfelelően alkalmazni kell a másodfokú bírósági eljárásban is.
+
+(5) Ha a vádlott felkutatására tett intézkedések a harmadfokú bírósági eljárásban vezettek eredményre, a harmadfokú bíróság – feltéve, hogy a 625. § (3) bekezdés alkalmazásának nincs helye – a másodfokú bíróság ítéletét hatályon kívül helyezi, és a másodfokú bíróságot új eljárásra utasítja.
+
+(6) Ha a vádlott felkutatására tett intézkedések a harmadfokú bíróság hatályon kívül helyező végzése ellen bejelentett jogorvoslat elbírálása során vezettek eredményre, a Kúria a másodfokú és a harmadfokú bíróság határozatát hatályon kívül helyezi, és a másodfokú bíróságot új eljárásra utasítja.
+
+(7) Ha a terhelt tartózkodási helye a jogerős ügydöntő határozat meghozatala után válik ismertté, a javára perújítási indítványt lehet előterjeszteni.
+
+#### 752. §
 
 753. § (1) Az e Fejezet szerint megismételt eljárásra a Tizennyolcadik Rész rendelkezéseit kell megfelelően alkalmazni.
 
@@ -10332,29 +10463,77 @@ kézbesíti.
 
 ### CII. Fejezet — ELJÁRÁS A KÜLFÖLDÖN TARTÓZKODÓ TERHELT TÁVOLLÉTÉBEN
 
-754. § A külföldön tartózkodó terhelt távollétében történő eljárás esetén a CI. Fejezet rendelkezéseit az e Fejezetben foglalt eltérésekkel kell alkalmazni.
+754. § (1) Az előkészítő eljárás és a nyomozás lefolytatásának nem akadálya, ha az elkövető, a bűncselekmény elkövetésével megalapozottan gyanúsítható személy vagy a terhelt külföldön ismert helyen tartózkodik.
 
-755. § (1) A külföldön ismert helyen tartózkodó terhelt vagy a bűncselekmény elkövetésével megalapozottan gyanúsítható személy távollétében az eljárás lefolytatásának akkor van helye, ha
+(2) Külföldön ismert helyen tartózkodó terhelt távollétében a bíróság eljárásának akkor van helye, ha
 
-- a) európai vagy nemzetközi elfogatóparancs kibocsátásának nincs helye, vagy arra azért nem kerül sor, mert a vádiratban az ügyészség végrehajtandó szabadságvesztés büntetés kiszabására vagy javítóintézeti nevelés alkalmazására nem tesz indítványt, és
-  - aa) a terhelt vagy a bűncselekmény elkövetésével megalapozottan gyanúsítható személy szabályszerű idézés ellenére nem jelent meg, vagy
-  - ab) a terhelt vagy a bűncselekmény elkövetésével megalapozottan gyanúsítható személy külföldön fogva van,
-- b) európai vagy nemzetközi elfogatóparancsot bocsátottak ki, de a terhelt vagy a bűncselekmény elkövetésével megalapozottan gyanúsítható személy elfogását követően a terhelt vagy a bűncselekmény elkövetésével megalapozottan gyanúsítható személy átadására vagy kiadatására tizenkét hónapon belül nem került sor, és a büntetőeljárás átadására sem került sor,
-- c) európai vagy nemzetközi elfogatóparancsot bocsátottak ki, de a terhelt vagy a bűncselekmény elkövetésével megalapozottan gyanúsítható személy átadását vagy kiadatását megtagadták, és a büntetőeljárás átadására sem került sor,
-- d) európai vagy nemzetközi elfogatóparancsot bocsátottak ki, és a terhelt vagy a bűncselekmény elkövetésével megalapozottan gyanúsítható személy halasztott átadását vagy kiadatását rendelték el.
+- a) a vád tárgyává tett cselekmény tekintetében sor került a gyanúsított kihallgatására,
+- b) az eljárás lefolytatása a cselekmény tárgyi súlyára, az elkövetés körülményeire, az ügy megítélésére tekintettel nem mellőzhető és a terhelt személyes részvétele nélkül is lefolytatható, és
+- c) biztosított, hogy a terhelt a részére kézbesítendő ügyiratokat átvegye.
 
-(2) A külföldön tartózkodó terhelt vagy a bűncselekmény elkövetésével megalapozottan gyanúsítható személy távollétében az eljárás lefolytatásának az (1) bekezdésben meghatározott feltételek esetén is csak akkor van helye, ha
+(3) A külföldön ismert helyen lévő terhelt távolléte esetén e törvény rendelkezéseit az e Fejezetben foglalt eltérésekkel kell alkalmazni.
 
-- a) azt a bűncselekmény tárgyi súlya vagy az ügy megítélése indokolja, és
-- b) a terhelt vagy a bűncselekmény elkövetésével megalapozottan gyanúsítható személy részvétele az eljárásban, illetve jelenléte az eljárási cselekményen nemzetközi bűnügyi jogsegélykérelem előterjesztésével, illetve telekommunikációs eszköz alkalmazása útján nem biztosítható, vagy ezek alkalmazását a bűncselekmény tárgyi súlya vagy az ügy megítélése nem indokolja.
+(4) A külföldön ismert helyen tartózkodó terhelt távolléte estén a (2) bekezdés a) pontja szerinti bűncselekménytől eltérő további bűncselekmény miatt vádemelésnek és azt követően a bíróság eljárásának akkor van helye, ha a további bűncselekmény a (2) bekezdés a) pontja szerinti bűncselekmény tényállásával szoros összefüggésben van és ezért együttes elbírálásuk célszerű.
 
-(3) A külföldön tartózkodó terhelt távollétében folytatott eljárásban az 590. § (3)–(4) bekezdése szerinti felülbírálatnak is helye van.
+(5) A külföldön ismert helyen tartózkodó terhelt távolléte esetén a külföldön ismert helyen tartózkodó vádlott tekintetében előkészítő ülés tartásának nincs helye.
 
-756. § (1) Ha a vádemelést követően állapítható meg, hogy a terhelt külföldön tartózkodik, és a 755. § (1) bekezdésében meghatározott feltételek fennállnak, erről a bíróság az ügyészséget tájékoztatja. Ha az ügyészség a tájékoztatás kézhezvételétől számított tizenöt napon belül nem tesz indítványt arra, hogy a tárgyalást a terhelt távollétében folytassák, az egyesbíró vagy a tanács elnöke az eljárást felfüggeszti. Az eljárás felfüggesztése nem akadálya annak, hogy az ügyészség az indítványát utóbb előterjessze.
+(6) A külföldön ismert helyen tartózkodó terhelt távolléte esetén a védő részvétele kötelező.
 
-(2) Ha a vádemelést követően állapítható meg, hogy a távollévő terhelt külföldön tartózkodik, és a 755. § (1) bekezdésében meghatározott feltételek fennállnak, a bíróság az ügyészség felhívása nélkül folytatja az eljárást.
+(7) Nincs helye külföldön ismert helyen tartózkodó terhelt távollétében a bíróság eljárásának, ha a külföldön ismert helyen tartózkodó terhelt távollétében folytatott eljárás során a terhelt elérhetetlenné vált, majd külföldi elérhetősége ismét ismertté válik. Ebben az esetben az eljárás a CI. Fejezet szerint folytatható.
 
-(3) Ha a terhelt külföldön fogva van, a külföldön tartózkodó terhelttel szembeni eljárás lefolytatásának a vádemelést követően csak a terhelt hozzájárulásával van helye. Ha a terhelt az eljárás folytatásához nem járul hozzá, a bíróság az eljárást felfüggeszti.
+(8) Ha e Fejezet rendelkezései alapján a külföldön ismert helyen tartózkodó terhelt távollétében az eljárás lefolytatásának nincs helye, az nem akadálya az eljárás a CI. Fejezet szerint lefolytatásának, ha annak feltételei fennállnak.
+
+755. § (1) Ha az ügyészség az Európai Unió tagállamának területén ismert helyen tartózkodó terhelttel szemben emelt vádat, a külföldön ismert helyen tartózkodó terhelt távollétében a bírósági eljárás lefolytatásának az 754. § (1) bekezdésében foglaltak esetén is csak akkor van helye, ha
+
+- a) a terhelt szabadlábon van,
+- b) a vádlott szabályszerű idézés ellenére nem jelent meg, a tárgyaláson való jelenlét jogáról nem mondott le és jelenléte a tárgyaláson nemzetközi bűnügyi jogsegélykérelem alapján telekommunikációs eszköz használatával, illetve egyszerűsített telekommunikációs jelenléttel sem biztosítható,
+- c) európai elfogatóparancs kibocsátásának nincs helye, vagy arra azért nem kerül sor, mert a vádiratban az ügyészség végrehajtandó szabadságvesztés büntetés kiszabására nem tesz indítványt, az európai elfogatóparancsot a terhelt elfogását követő tizenkét hónapon belül nem hajtották végre vagy a végrehajtását megtagadták.
+
+(2) Ha az ügyészség az Európai Unió tagállamán kívüli ország területén ismert helyen tartózkodó, szabadlábon lévő terhelttel szemben emelt vádat, a külföldön ismert helyen tartózkodó terhelt távollétében a bírósági eljárás lefolytatásának a 754. § (1) bekezdésében foglaltak esetén is csak akkor van helye, ha
+
+- a) a vádlott szabadlábon van,
+- b) a vádiratban az ügyészség a külföldön tartózkodó terhelt vonatkozásában végrehajtandó szabadságvesztés büntetés kiszabására tett indítványt, vagy az indítványozott büntetés végrehajtásának átadása nemzetközi bűnügyi jogsegély útján a terhelt tartózkodási helye szerinti államba lehetséges,
+- c) a külföldön tartózkodó terhelt tartózkodási helye szerinti államba a nemzetközi bűnügyi jogsegély szabályai alapján az ügyiratok közvetlen kézbesítésére lehetőség van, vagy az ügyiratok a terhelt részére elektronikus kapcsolattartás – ideértve az egyszerűsített elektronikus úton történő kézbesítést is – útján kézbesíthetők,
+- d) a vádlott szabályszerű idézés ellenére nem jelent meg, a tárgyaláson való jelenlét jogáról nem mondott le, és jelenléte a tárgyaláson nemzetközi bűnügyi jogsegélykérelem alapján telekommunikációs eszköz útján biztosított jelenléttel, illetve egyszerűsített telekommunikációs eszköz alkalmazása útján nem biztosítható,
+- e) a vádlott vonatkozásában kiadatási kérelem előterjesztésének nincs helye, a kiadatási kérelmet a terhelt elfogását követő tizenkét hónapon belül nem hajtották végre vagy a kiadatási kérelem végrehajtását megtagadták.
+
+(3) Ha a bíróság megállapítja, hogy a bírósági eljárás a külföldön ismert helyen tartózkodó terhelt távollétében folytatható, erről tájékoztatja az ügyészséget.
+
+(4) Az egyesbíró vagy a tanács elnöke az eljárást felfüggeszti, ha
+
+- a) a bíróság megállapítja, hogy a bírósági eljárás külföldön ismert helyen tartózkodó terhelt távollétében történő lefolytatásának nincs helye,
+- b) az ügyészség a (3) bekezdés szerinti tájékoztatás kézbesítésétől számított 15 napon belül nem indítványozza a bírósági eljárás külföldön ismert helyen tartózkodó terhelt távollétében történő lefolytatását.
+
+(5) Az eljárás felfüggesztése nem akadálya annak, hogy az ügyészség az indítványát utóbb előterjessze.
+
+(6) A bíróság a vádlott részére védőt rendel ki, ha a terheltnek nincs védője. Az ügyész, a védő a tárgyaláson indítványozhatja a korábban lefolytatott bizonyítási eljárás lényegének ismertetését, valamint bizonyítás felvételére irányuló indítványt terjeszthet elő, ideértve a korábban már kihallgatott tanú kihallgatására, szakértő meghallgatására vagy más eljárási cselekmény elvégzésére irányuló indítványt is.
+
+(7) A bíróság tájékoztatja a vádlottat, hogy
+
+- a) a bíróság az eljárást a távollétében folytatja,
+- b) a védő kirendeléséről és a védő elérhetőségéről, ha a (6) bekezdés alapján védő kirendelésére került sor,
+- c) megjelenése a tárgyaláson nem kötelező, a tárgyalásról a bíróság a vádlottat a továbbiakban értesíteni fogja, az egyéb kézbesítendő ügyiratokat a vádlott részére kézbesíti,
+- d) védekezéshez való jogát írásban gyakorolhatja, amely keretében előadhatja, hogy személyes jelenléte és kihallgatása nélkül az eljárás miért nem folytatható, továbbá arról, hogy írásban észrevételt, indítványt tehet, a tárgyaláson megjelenhet és indítványozhatja, hogy a tárgyaláson való jelenlétét egyszerűsített telekommunikációs jelenléttel biztosítsák,
+- e) a tárgyalást abban az esetben is e Fejezet szerint fogja lefolytatni, ha a vádlott a tárgyaláson önként megjelenik vagy más módon önként részt vesz.
+
+(8) A (7) bekezdés szerinti tájékoztatást követően a vádlott jelenléte a tárgyaláson nem kötelező. Ha a terhelt a tájékoztatást követően a tárgyaláson önként megjelenik vagy azon más módon önként rész vesz, a bíróság a vádlottat kihallgatja, ha arra a bírósági eljárás korábbi szakaszában nem került sor, továbbá az ügyész, a terhelt vagy a védő a tárgyaláson indítványozhatja a korábban lefolytatott bizonyítási eljárás lényegének ismertetését, valamint bizonyítás felvételére irányuló indítványt terjeszthet elő, ideértve a korábban már kihallgatott tanú kihallgatására, szakértő meghallgatására vagy más eljárási cselekmény elvégzésére irányuló indítványt is. A tárgyaláson önként megjelent vádlott a tárgyaláson való jelenlét jogáról nem mondhat le.
+
+(9) A bíróság az eljárást az általános szabályok szerint folytatja, ha
+
+- a) a terhelttel szemben kibocsátott európai elfogatóparancsot vagy a kiadatási kérelmet végrehajtják,
+- b) a terhelt a tárgyaláson önként megjelenik és igazolja, hogy a tartózkodási helye Magyarországon van,
+- c) a terhelt az ítélet kihirdetéskor jelen van.
+
+(10) A külföldön ismert helyen tartózkodó terhelt távolléte estén – a külföldön tartózkodó terhelt vonatkozásában –
+
+- a) a kihirdetés előtt írásba foglalt rendelkező rész kézbesítésének és az 562. § (1)–(3) bekezdése szerinti rövidített indokolásnak nincs helye,
+- b) a másodfokú bíróság az elsőfokú ítéletet – a (12) bekezdésben meghatározott kivétellel – teljes körűen és arra tekintet nélkül bírálja felül, hogy ki, milyen okból fellebbezett.
+
+(11) Az (1)–(10) bekezdésben foglaltakat megfelelően alkalmazni kell a másodfokú és a harmadfokú bírósági eljárásban is, azzal, hogy a vádlottat a bírósági eljárásban egy alkalommal, e Fejezet szerinti eljárás megindulásakor kell tájékoztatni a (7) bekezdésben foglaltakról.
+
+(12) A külföldön ismert helyen tartózkodó terhelt távollétében folytatott eljárásban az 590. § (3)–(4) bekezdése szerinti felülbírálatnak is helye van.
+
+#### 756. §
 
 ### CIII. Fejezet — BIZTOSÍTÉK LETÉTBE HELYEZÉSÉVEL FOLYÓ ELJÁRÁS
 
@@ -10645,6 +10824,8 @@ a bíróság a tárgyalást a jogi képviselő költségére elhalasztja, illetv
 (5) Ha a tárgyaláson a magánvádló jogi képviselőjének a jelenléte kötelező és a magánvádló jogi képviselete az eljárásban megszűnik, a bíróság az erről való tudomásszerzést követő nyolc napon belül felhívja a magánvádlót, hogy jogi képviseletéről tizenöt napon belül gondoskodjék.
 
 (6) A magánvádló és − ha a magánvádló jogi képviselete kötelező – a magánvádló jogi képviselője a tárgyalásról ismételt vagy súlyos rendzavarása esetén sem utasítható ki, illetve vezettethető ki.
+
+(7) Magánvádas eljárásban a tárgyalás online hallgatóság által történő nyomon követésének nincs helye.
 
 774. § (1) A személyes meghallgatást követően a folyamatban lévő magánvádas ügyhöz más magánvádas ügyet nem lehet egyesíteni.
 
@@ -12192,7 +12373,7 @@ miatt került sor.
 - 3. a különleges bánásmódot igénylő személy részvételét igénylő eljárási cselekmény elvégzésére szolgáló helyiség kialakítására és ellenőrzésére vonatkozó szabályokat,
 - 4. a büntetőeljárás ügyiratai megismerésének szabályait az államháztartásért felelős miniszterrel, a rendészetért felelős miniszterrel és a Nemzeti Adó- és Vámhivatalt irányító miniszterrel egyetértésben,
 - 5. a bűnügyi költség előlegezésének, valamint a büntetőeljárásban elrendelt elővezetés végrehajtásával, illetve a terhelt elfogatóparancs alapján történő előállításával felmerült, a Rendőrségről szóló törvény alapján igazolt költség megtérítésének – ide nem értve az elővezetés költsége mértéke megállapítását – a szabályait az államháztartásért felelős miniszterrel, a rendészetért felelős miniszterrel és a Nemzeti Adó- és Vámhivatalt irányító miniszterrel egyetértésben,
-- 6.
+- 6. a büntetőeljárásban a tárgyalás online hallgatóság által történő nyomon követésére vonatkozó szabályokat,
 - 7. a büntetőeljárásban a pártfogó ügyvéd és a kirendelt védő díjára és költségeire vonatkozó szabályokat az államháztartásért felelős miniszterrel egyetértésben,
 - 8. a terhelt és a meghatalmazott védő költségeinek és a meghatalmazott védő díja állam, pótmagánvádló vagy magánvádló általi megtérítésének szabályait az államháztartásért felelős miniszterrel egyetértésben,
 - 9. a büntetőeljárásban részt vevő személyek és képviselőik díjára és költségeire vonatkozó szabályokat az államháztartásért felelős miniszterrel egyetértésben,
@@ -12336,6 +12517,10 @@ az igazságügyért felelős miniszterrel egyetértésben, az Országgyűlési �
 876. § (1) Ha a bíróság e törvény hatálybalépését megelőzően a bíróság elé állítás során az ügyiratokat az ügyészségnek visszaküldi, e törvény hatálybalépését követően a további eljárást e törvény rendelkezései szerint kell lefolytatni.
 
 (2) Ha a bíróság a végzését tárgyalás mellőzésével e törvény hatálybalépése előtt hozta meg, és tárgyalás tartását kérték, az eljárást e törvény szerint kell lefolytatni.
+
+(2b) A 2026. január 1. napján, a CI. vagy a CII. Fejezet alapján folyamatban levő eljárásban a bíróság, az ügyészség vagy a nyomozó hatóság – a (2c) bekezdésben meghatározott kivétellel – az eljárást felfüggeszti, ha e törvénynek az egyes igazságügyi tárgyú törvények módosításáról szóló 2025. évi XLIX. törvénnyel megállapított 394. § (1) bekezdés c) pontja, 747. § (2) bekezdése, 749. § (3) bekezdése, 754. § (2) bekezdése, 755. § (4) bekezdése szerint az eljárás lefolytatásának nem lenne helye.
+
+(2c) A 2026. január 1. napján a CI. vagy a CII. Fejezet alapján folyamatban levő eljárásban a bíróság az eljárást lefolytatja, ha az eljárás lefolytatásának kizárólag az e törvénynek az egyes igazságügyi tárgyú törvények módosításáról szóló 2025. évi XLIX. törvénnyel megállapított 747. § (2) bekezdés a) pontjában vagy a 754. § (2) bekezdés a) pontjában meghatározott feltétel hiánya lenne az akadálya.
 
 (3) Ha a tárgyalás mellőzését a pótmagánvádló vagy a magánvádló indítványozta, a bíróság a korábbi jogszabály alapján dönt, ha az indítvány a bíróságra e törvény hatálybalépése előtt érkezett.
 

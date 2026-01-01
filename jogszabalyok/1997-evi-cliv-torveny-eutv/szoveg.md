@@ -2027,7 +2027,7 @@ kell alkalmazni, azzal az eltéréssel, hogy az Etv. 18. § (2) bekezdés f) pon
 
 112. § (1) Azt a személyt, aki az e törvényben foglalt feltételeknek megfelel, kérelmére működési nyilvántartásba kell venni.
 
-(2) A működési nyilvántartás célja az egészségügyi dolgozók (4) bekezdés szerinti adatainak közhiteles tanúsítása. A működési nyilvántartás a (4) bekezdés b)–n) pontja szerinti adatok tekintetében közhiteles hatósági nyilvántartásnak minősül. A működési nyilvántartást az egészségügyi államigazgatási szerv vezeti és e körben jogosult a (4) bekezdés szerinti adatok kezelésére.
+(2) A működési nyilvántartás célja az egészségügyi dolgozók (4) bekezdés szerinti adatainak tanúsítása. A működési nyilvántartást az egészségügyi államigazgatási szerv vezeti és e körben jogosult a (4) bekezdés szerinti adatok kezelésére.
 
 (3) Nem vehető fel a működési nyilvántartásba az,
 
@@ -2073,6 +2073,17 @@ a törléstől, illetve a kérelem elutasításától számított egy évig,
 - c) az egészségügyi szakképesítésére utaló megnevezést használja. Ennek keretében az egészségügyi dolgozó az egészségügyi tevékenység gyakorlása során használt nevét köteles megjeleníteni a névtábláján, valamint az orvosok, fogorvosok az orvosi bélyegzőjükön és az orvosi vényen is használják.
 
 (4b) Amennyiben az egészségügyi dolgozó a (4a) bekezdés alapján az egészségügyi tevékenység gyakorlása során a születési nevét kívánja használni, azt annak a működési nyilvántartásba történt bejegyzését követően és kizárólag a (4a) bekezdésben meghatározott esetekben használhatja.
+
+(4c) A működési nyilvántartás közhiteles hatósági nyilvántartásnak minősül
+
+- a) az egészségügyi dolgozó alap- és működési nyilvántartási száma és alap- és működési nyilvántartásának jogszabályban meghatározott típusa,
+- b) a 115. § (2) bekezdés b) és d) pontja szerinti egészségügyi ágazati szakmai képzések keretében megszerzett szakképesítések, valamint egészségügyi szakirányú szakmai továbbképzések megnevezése, továbbá a 110. § (2) bekezdés a) pontja szerinti, az egészségügyi felsőfokú szakirányú szakképzés teljesítése során az egészségügyi tevékenység önálló végzésére feljogosító kompetenciára vonatkozó adat,
+- c) jogszabályban meghatározott halottvizsgálatra jogosult mentőtiszt esetén a halottvizsgálati jogosultságra vonatkozó adat,
+- d) a működési nyilvántartási ciklus érvényességi ideje, az egészségügyi tevékenység szüneteltetésének oka, kezdő, befejező dátuma, a működési nyilvántartás meghosszabbításának, illetve felfüggesztésének jogcíme, kezdő és befejező dátuma, továbbá a nyilvántartásból való törlés dátuma,
+- e) a korlátozott alkalmasság ténye,
+- f) a felügyelet melletti tevékenységgyakorlás kezdete és időtartama, a felügyeletet ellátó személye, működési nyilvántartási száma, a felügyelettel érintett szakképesítés
+
+tekintetében.
 
 (5) A (4) bekezdés b), c), e), f), k), m) és o) pontja, továbbá a) pontjából az egészségügyi dolgozó neve, illetve az egészségügyi tevékenység gyakorlása során használt neve, valamint g) pontjából az egészségügyi tevékenység szüneteltetésének kezdő és befejező dátuma, valamint a működési nyilvántartás 113/A. § (5) bekezdése szerinti felfüggesztésének kezdő és befejező dátuma bárki számára megismerhető adat.
 
@@ -2251,7 +2262,7 @@ a (3) bekezdésben meghatározott módon kezeli, feldolgozza és azok alapján e
 
 (5a) A 150. § (4) bekezdésében meghatározott feladat végrehajtásában – jogszabályban történő kijelölés esetén – az egészségügyi államigazgatási szerv részt vehet.
 
-(5b) A (4) bekezdés szerinti nyilvántartás az (5) bekezdés a) pontjában foglalt, a szakképzésben részt vevő személyek természetes személyazonosító adatainak kivételével közhiteles hatósági nyilvántartásnak minősül.
+(5b) A (4) bekezdés szerinti nyilvántartás hatósági nyilvántartásnak minősül.
 
 (6) Az egészségügyi felsőfokú szakirányú szakképzésről szóló kormányrendeletben foglalt támogatás folyósításának a feltétele a képzésben részt vevő személyt foglalkoztató egészségügyi szolgáltató és az egészségügyi felsőoktatási intézmény által havonta az egészségügyi államigazgatási szerv részére elektronikus úton történő tájékoztatás a képzésben részt vevő személynek az (5) bekezdés d) pontja szerinti adatairól.
 
@@ -2338,7 +2349,7 @@ a változás bekövetkezésétől számított 15 napon belül köteles bejelente
 - d) a megszerzett szakvizsga-bizonyítvány megnevezését, számát, eredményét,
 - e) az egészségügyi szakmai tevékenység végzésére jogosító okirat másolatát.
 
-(6a) Az (5) bekezdés szerinti nyilvántartás a (6) bekezdés a) pont ac) és ad) alpontjában, valamint b)–e) pontjában foglalt adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
+(6a) Az (5) bekezdés szerinti nyilvántartás hatósági nyilvántartásnak minősül.
 
 (7) Az (5) bekezdésben meghatározott nyilvántartás adatainak, valamint az egészségügyi felsőfokú szakirányú szakmai képzést lezáró szakvizsgáztatással kapcsolatos valamennyi dokumentumnak a kötelező megőrzési ideje 50 év.
 
@@ -2549,6 +2560,8 @@ feltéve, hogy a beteget más orvoshoz irányítja.
 135. § (1) A kezelőorvos a beteg tájékoztatását körültekintően, szükség szerint fokozatosan, a beteg állapotára és körülményeire tekintettel végzi.
 
 (2) A beteg tájékoztatása során kiemelt figyelmet kell fordítani a kezelés általánosan ismert, jelentős mellékhatásaira, az esetleges szövődményekre és a beavatkozások lehetséges következményeire, azok előfordulási gyakoriságára. Meg kell győződni arról, hogy a beteg a tájékoztatást megértette, továbbá szükség esetén gondoskodni kell a tájékoztatott lelki gondozásáról.
+
+(3) A 13. § (2) bekezdése szerinti tájékoztatás során mesterséges intelligencia által támogatott informatikai megoldás is alkalmazható.
 
 ### Dokumentációs kötelezettség
 
@@ -4088,7 +4101,7 @@ kezeli.
 
 (6) Rendkívüli halál esetében szemle során a hatóság halottvizsgálati szaktanácsadót vehet igénybe, ha a bizonyítási eszközök felkutatásához, megszerzéséhez, összegyűjtéséhez vagy rögzítéséhez különleges szakismeret szükséges, vagy a hatóság valamilyen – szakértőt nem igénylő – szakkérdésben felvilágosítást kér. A halottvizsgálati szaktanácsadót tevékenységéért díj illeti meg.
 
-(7) A halottvizsgálati szaktanácsadókról az egészségügyi államigazgatási szerv névjegyzéket vezet. A névjegyzék a halottvizsgálati szaktanácsadói jogosultság tekintetében közhiteles hatósági nyilvántartás. A névjegyzékbe nem kell felvenni azt, aki a Kormány rendelete alapján a névjegyzékbevétel nélkül is jogosult halottvizsgálati szaktanácsadói tevékenységet folytatni.
+(7) A névjegyzék a (8) bekezdés b) és f) pontja szerinti adatot közhitelesen tartalmazza. A névjegyzékbe nem kell felvenni azt, aki a Kormány rendelete alapján a névjegyzékbevétel nélkül is jogosult halottvizsgálati szaktanácsadói tevékenységet folytatni.
 
 (8) A névjegyzék tartalmazza a halottvizsgálati szaktanácsadó:
 
@@ -4131,7 +4144,7 @@ kezeli.
 
 (5) A hatósági vagy igazságügyi orvosi boncolás célja a halál okának, bekövetkezése körülményeinek tisztázása.
 
-(6) Ha a rendkívüli halállal kapcsolatos hatósági eljárást a hatóság azért szünteti meg, mert bűncselekményre utaló adatok merültek fel, a hatóság ezen döntése ellen nincs helye jogorvoslatnak.
+(6) A rendkívüli haláleset kivizsgálásával kapcsolatos eljárásban hozott döntés ellen fellebbezésnek akkor is helye van, ha a határozatot nem rendvédelmi szerv helyi szerve hozta. Ha a rendkívüli halállal kapcsolatos hatósági eljárást a hatóság azért szünteti meg, mert bűncselekményre utaló adatok merültek fel, a hatóság ezen döntése ellen nincs helye jogorvoslatnak.
 
 219. § (1) Az elhunyt személyt – függetlenül attól, hogy fekvőbeteg-gyógyintézetben vagy azon kívül hunyt el – kórbonctani vizsgálat alá kell vonni, ha
 
@@ -4669,7 +4682,7 @@ elnevezés használatát engedélyezték.
 - b) az engedélyes nevét, valamint
 - c) az engedély tárgyát.
 
-(4) A (3) bekezdés szerinti nyilvántartás a (3) bekezdés a) és c) pontja szerinti adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
+(4)
 
 #### 242/A. §
 

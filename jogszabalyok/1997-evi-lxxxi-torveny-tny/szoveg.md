@@ -99,15 +99,15 @@ vonatkozó szabályokat kell alkalmazni.
 
 (5)
 
-### A tizenharmadik havi nyugdíj
+### A tizenharmadik havi nyugdíj és a tizennegyedik havi nyugdíj
 
-6/A. § (1) Tizenharmadik havi nyugdíjra az jogosult, aki a tárgyévet megelőző év legalább egy napjára, valamint a tárgyév februárjára társadalombiztosítási nyugellátásban vagy a 6. § (4) bekezdése szerinti ellátásban részesül.
+6/A. § (1) Tizenharmadik havi nyugdíjra és tizennegyedik havi nyugdíjra az jogosult, aki a tárgyévet megelőző év legalább egy napjára, valamint a tárgyév februárjára társadalombiztosítási nyugellátásban vagy a 6. § (4) bekezdése szerinti ellátásban részesül.
 
-(2) Ha a jogosult több társadalombiztosítási nyugellátásban vagy a 6. § (4) bekezdése szerinti ellátásban részesül, a tizenharmadik havi nyugdíjra való jogosultságot ellátásonként kell vizsgálni.
+(2) Ha a jogosult több társadalombiztosítási nyugellátásban vagy a 6. § (4) bekezdése szerinti ellátásban részesül, a tizenharmadik havi nyugdíjra és a tizennegyedik havi nyugdíjra való jogosultságot ellátásonként kell vizsgálni.
 
-(3) A tizenharmadik havi nyugdíj összege megegyezik a tárgyév február hónapjára a jogosultat megillető, a tárgyévet megelőző év legalább egy napjára is folyósított, tizenharmadik havi nyugdíjra jogosító társadalombiztosítási nyugellátások és a 6. § (4) bekezdése szerinti ellátások együttes összegével.
+(3) Mind a tizenharmadik havi nyugdíj összege, mind a tizennegyedik havi nyugdíj összege megegyezik a tárgyév február hónapjára a jogosultat megillető, a tárgyévet megelőző év legalább egy napjára is folyósított, tizenharmadik havi nyugdíjra és tizennegyedik havi nyugdíjra jogosító társadalombiztosítási nyugellátások és a 6. § (4) bekezdése szerinti ellátások együttes összegével.
 
-(4) A tizenharmadik havi nyugdíjat a nyugdíjfolyósító szerv a tárgyév februárjában, hivatalból, külön határozat meghozatala nélkül folyósítja.
+(4) A tizenharmadik havi nyugdíjat és a tizennegyedik havi nyugdíjat a nyugdíjfolyósító szerv a tárgyév februárjában, hivatalból, külön határozat meghozatala nélkül folyósítja.
 
 ### II. Fejezet — AZ ÖREGSÉGI NYUGDÍJ
 
@@ -1223,7 +1223,7 @@ korlátozni kell. A korlátozást – az (1) bekezdésben meghatározott célbó
 - h) az igény érvényesítésével, az igény elbírálásával, a megállapító és a folyósító szervek közötti adatszolgáltatással kapcsolatos eljárást, továbbá a rögzített öregségi nyugdíj megállapítására vonatkozó részletes szabályokat,
 - i) a visszafizetési és megtérítési kötelezettség teljesítésével, elmulasztásával, továbbá a követelés érvényesítésével, valamint a mérséklés, elengedés, fizetési halasztás, részletfizetés engedélyezésével kapcsolatos eljárási rendelkezéseket,
 - j) a nyugdíjbiztosításon belüli jogorvoslat rendjét,
-- k) a tizenharmadik havi nyugdíj megállapítására és folyósítására vonatkozó részletes szabályokat,
+- k) a tizenharmadik havi nyugdíj és a tizennegyedik havi nyugdíj megállapítására és folyósítására vonatkozó részletes szabályokat,
 - l) az adatszolgáltatásra és bejelentési kötelezettségre vonatkozó eljárási rendelkezéseket,
 - m)
 - n) a kivételes nyugellátás megállapításának, továbbá a kivételes nyugdíjemelés és az egyszeri segély engedélyezésének részletes szabályait,
@@ -1332,11 +1332,7 @@ szolgálati viszonya az öregségi nyugdíj megállapítását követően helyre
 
 102/J. § A 18. § (2) bekezdés c) pontja, (2a) bekezdés b) pontja, a 83/C. § és a 102/I. § a bírák jogállásáról és javadalmazásáról szóló törvény alapján rendelkezési állományba helyezett bíróra, valamint a legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló törvény alapján rendelkezési állományba helyezett ügyészre nem alkalmazható az egyes igazságügyi jogviszonyokban alkalmazandó felső korhatárral kapcsolatos törvénymódosításokról szóló 2013. évi XX. törvény hatálybalépésétől 2022. december 31-ig.
 
-102/K. § A tizenharmadik havi nyugdíj összege a 6/A. § (3) bekezdésében foglaltaktól eltérően
-
-- a) a 2021. évben a 6/A. § (3) bekezdése szerinti összeg 25%-a,
-- b)
-- c)
+102/K. § A tizennegyedik havi nyugdíj összege a 6/A. § (3) bekezdésében foglaltaktól eltérően a 2026. évben a 6/A. § (3) bekezdése szerinti összeg 25 százaléka.
 
 102/L. § (1) A Magyarország 2015. évi központi költségvetésének megalapozásáról szóló 2014. évi XCIX. törvénnyel megállapított 38. § (1) bekezdés k) pontját a 2015. január 1-jén folyamatban lévő ügyekben is alkalmazni kell.
 

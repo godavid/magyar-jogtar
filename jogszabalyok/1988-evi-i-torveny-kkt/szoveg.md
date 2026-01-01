@@ -42,6 +42,19 @@ alapvető jogai és kötelezettségei
 
 (2) A közút kezelője a közlekedés résztvevőit tájékoztatja a közlekedés biztonságát és zavartalanságát jelentősen befolyásoló körülményekről.
 
+3/A. § (1) A Magyarország államhatárát közúton átlépő, 20 tonna megengedett össztömeg feletti nehéz tehergépkocsi Magyarország államhatárának közúton történő újbóli átlépéséig autópályán, autóúton vagy tranzitútként kijelölt útvonalon (a továbbiakban együtt: tranzitút-hálózat) közlekedhet.
+
+(2) A tranzitút-hálózaton kívüli utakat a 20 tonna megengedett össztömeg feletti nehéz tehergépkocsi elengedhetetlenül szükséges távolságban, abban az esetben használhatja, amennyiben a közlekedésére
+
+- a) Magyarországon telephelyére, vagy
+- b) az adott fuvarral összefüggésben a fuvarokmányában rögzített magyarországi le- és felrakóhelyére
+
+kerül sor.
+
+(3) Az (1) bekezdés szerinti 20 tonna megengedett össztömeg feletti nehéz tehergépkocsi a tranzitút-hálózatot a pihenőidő eltöltése céljából csak olyan parkolóhelyig hagyhatja el, amelynek megközelítése érdekében lakott területen vezető közutat nem kell igénybe venni.
+
+(4) A közlekedésért felelős miniszter egyedi – az (1) bekezdésben meghatározott tranzitút-hálózattól eltérő úthálózati elemeket is tartalmazó – tranzitútvonalat is megállapíthat a jármű műszaki kialakítására vagy a jármű által szállított rakományra tekintettel.
+
 #### 4. §
 
 5. § (1) Aki a közúti közlekedésben részt vesz, köteles
@@ -476,7 +489,7 @@ oktatása, szakképzése és utánképzése
 
 18. § (1) A közúti járművezetők képzése állami köznevelési közfeladat ellátásában vagy a szakképzési feladat ellátásában részt vevő szerveknél, az oktatási központnál, köznevelési és szakképzési intézményeknél, vagy – a Honvédelmi Sportszövetségről szóló törvényben meghatározott esetben – köztestületnél vagy tanfolyamon, a közúti közlekedési szakemberek képzése és továbbképzése szaktanfolyamon történik. A tanfolyami és a szaktanfolyami elméleti képzés és továbbképzés – a közlekedési hatóság engedélye alapján – zárt rendszerű elektronikus képzési (e-learning) formában, zárt rendszerű elektronikus képzésmenedzsment rendszer alkalmazása mellett is végezhető. A járművezetői vizsgabiztosok, a műszaki vizsgabiztosok, a szakoktatók és az iskolavezetők, valamint az utánképzési foglalkozásvezetők képzését és továbbképzését a Kormány rendeletében kijelölt állami tulajdonú gazdasági társaság vagy költségvetési szerv végzi vagy – a Honvédelmi Sportszövetségről szóló törvényben meghatározott esetben – köztestületnél történik.
 
-(2) A közúti járművezetők és a közúti közlekedési szakemberek tanfolyami, illetve szaktanfolyami képzése, továbbképzése és utánképzése a közlekedési hatóság engedélye alapján végezhető. A közúti járművezetők és a közúti közlekedési szakemberek képzésére, továbbképzésére, utánképzésére engedéllyel rendelkező szervezetekről a közlekedési hatóság jogosult a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott, valamint a közlekedési hatóság tevékenységével összefüggésben adatokat nyilvántartani, amely nyilvántartás a képzésre engedéllyel rendelkező szerv neve, fantázianeve, székhelye, cégjegyzékszáma, adószáma, a tárgyi feltételek biztosításának helyére, valamint a személyi feltételekre vonatkozó adatok vonatkozásában közhiteles hatósági nyilvántartásnak minősül. Az iskolavezetői, a szakoktatói, a vizsgabiztosi és az utánképzés-foglalkozásvezetői tevékenység folytatásához a közlekedési hatóság engedélye szükséges. A tanfolyami és szaktanfolyami képzést, továbbképzést és utánképzést a közlekedési hatóság ellenőrzi, valamint ellátja annak szakfelügyeletét.
+(2) A közúti járművezetők és a közúti közlekedési szakemberek tanfolyami, illetve szaktanfolyami képzése, továbbképzése és utánképzése a közlekedési hatóság engedélye alapján végezhető. A közúti járművezetők és a közúti közlekedési szakemberek képzésére, továbbképzésére, utánképzésére engedéllyel rendelkező szervezetekről a közlekedési hatóság jogosult a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott, valamint a közlekedési hatóság tevékenységével összefüggésben adatokat nyilvántartani. Az iskolavezetői, a szakoktatói, a vizsgabiztosi és az utánképzés-foglalkozásvezetői tevékenység folytatásához a közlekedési hatóság engedélye szükséges. A tanfolyami és szaktanfolyami képzést, továbbképzést és utánképzést a közlekedési hatóság ellenőrzi, valamint ellátja annak szakfelügyeletét.
 
 (2a) A közúti járművezetők és a közúti közlekedési szakemberek képzése, továbbképzése és utánképzése, valamint a szakoktatói, iskolavezetői vizsgabiztosi és az utánképzés-foglalkozásvezetői tevékenység határon átnyúló szolgáltatásnyújtás keretében nem végezhető.
 
@@ -550,6 +563,22 @@ meghatározott szerv felé – a közúti járművezetők és a közúti közlek
 (9c) A (9b) bekezdés szerinti nyilvántartás c)–f) pontjában szereplő adatok vonatkozásában közhiteles hatósági nyilvántartásnak minősül.
 
 (9d) A nyilvántartás adatai közül a szakmai képesítéssel rendelkezők családi neve és utóneve, születési családi neve és utóneve, a nyilvántartást vezető közlekedési hatóság megnevezése és a képesítő okmány száma, a kiadás dátuma nyilvánosak.
+
+(9e) A (2) bekezdés szerinti közúti járművezetők és a közúti közlekedési szakemberek képzésére, továbbképzésére, utánképzésére engedéllyel rendelkező szervezetekről vezetett nyilvántartás – a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott adatokon túl – tartalmazza
+
+- a) a képzésre engedéllyel rendelkező szerv
+  - aa) nevét,
+  - ab) fantázianevét,
+  - ac) székhelyét, cégjegyzékszámát, adószámát,
+- b) az elméleti képzés helyszínét,
+- c) a gyakorlati képzés helyszínét,
+- d) az engedélyezett kategóriákat,
+- e) az engedélyezett szaktanfolyamokat,
+- f) az engedélyezett utánképzési programokat (II-es program esetén járműkategória megjelölésével),
+- g) az iskolavezető nevét és
+- h) az iskolavezető azonosítóját.
+
+(9f) A (9e) bekezdés szerinti nyilvántartás a (9e) bekezdés a) pont ab) alpontjában, valamint a (9e) bekezdés b)–f) pontjában szereplő adatok vonatkozásában közhiteles hatósági nyilvántartásnak minősül.
 
 (10) A névjegyzék adatai közül a (2) bekezdés szerint tevékenység végzésére jogosultak családi neve és utóneve, születési családi neve és utóneve, a névjegyzéket vezető közlekedési hatóság megnevezése és a névjegyzékbe vételt igazoló okmány száma, a kiadás dátuma nyilvánosak.
 
@@ -776,6 +805,8 @@ e törvénnyel és a 48. § (3) bekezdés a) pont 5. alpontja alapján kiadott k
 vonatkozóan a megismert személyes adatokat a közlekedési hatóság az engedélyezett tevékenység gyakorlásának időtartama alatt, a járművezetői igazolvány érvényességi időtartama alatt, vagy az engedély megtagadását vagy visszavonását követő naptári év végéig kezeli.
 
 19/A. § A közúti árutovábbításra kötött szerződésekre a Polgári Törvénykönyvről szóló törvény szerződésekre vonatkozó általános, továbbá a fuvarozási szerződésekre vonatkozó rendelkezéseit az e törvényben, valamint a közúti árutovábbítási szerződésekről szóló kormányrendeletben foglalt kiegészítésekkel kell alkalmazni.
+
+19/B. § A közlekedési hatóság által a közúti fuvarozói szakma gyakorlására vonatkozó feltételek közös szabályainak megállapításáról és a 96/26/EK tanácsi irányelv hatályon kívül helyezéséről szóló, 2009. október 21-i 1071/2009/EK európai parlamenti és tanácsi rendeletben meghatározott nyilvántartások a díj ellenében végzett közúti árutovábbítási, a saját számlás áruszállítási, valamint az autóbusszal díj ellenében végzett személyszállítási és a saját számlás személyszállítási tevékenységről, továbbá az ezekkel összefüggő jogszabályok módosításáról szóló kormányrendeletben meghatározott adatok tekintetében közhiteles nyilvántartásnak minősülnek.
 
 20. § (1) Az e törvényben, valamint külön jogszabályban és közösségi jogi aktusban
 
@@ -1011,7 +1042,7 @@ terjedő közigazgatási bírságot kell kiszabni. Az egyes rendelkezések megs�
   - je) a járműnek a 25/B. § (4) bekezdés b) pontjában meghatározott iratban foglalt birtokba adása időpontját,
   - jf) a járműnek a 25/B. § (4) bekezdés b) pontjában meghatározott iratban foglalt használati jogosultság időtartamát.
 
-(1a) A közigazgatási bírságnyilvántartás az (1) bekezdésben foglalt adatok tekintetében – az (1) bekezdés a) és b) pontjában, valamint a j) pont ja) alpontjában foglalt adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+(1a) A közigazgatási bírságnyilvántartás az (1) bekezdésben foglalt adatok tekintetében – az (1) bekezdés a) és b) pontjában, valamint az (1) bekezdés i) pontjában és az (1) bekezdés j) pont ja) és jd) alpontjában foglalt adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
 (2) A közigazgatási bírságnyilvántartás részére az (1) bekezdésben meghatározott adatokat az eljáró hatóság, illetve a bíróság jogszabályban meghatározott formában és módon közli.
 
@@ -1316,7 +1347,7 @@ gyártóval szemben 130 000 forinttól 1 300 000 forintig terjedő bírság szab
 
 (2) Az (1) bekezdés b)–d) pontjaiban meghatározott adatokban bekövetkezett változásokat a közúti ellenőr a változás bekövetkezésétől számított 8 napon belül köteles írásban bejelenteni a közlekedési hatóságnak.
 
-(3) A közúti ellenőri névjegyzék az (1) bekezdés a), b) és f) pontja tekintetében közhiteles hatósági nyilvántartásnak minősül.
+(3)
 
 (4) A közlekedési hatóság az (1) bekezdés szerinti adatokat a közúti ellenőr ellenőrzési jogosultságának megszűnésének évét követő ötödik naptári év végéig kezeli.
 
@@ -1408,9 +1439,11 @@ adatokat.
 
 (5b) A közlekedési hatóság a vizsgáló állomás engedélyét az e törvény végrehajtására kiadott kormányrendeletben meghatározott esetekben felfüggeszti vagy visszavonja, amennyiben a vizsgáló állomás a tevékenységére vonatkozó – az e törvényben vagy a végrehajtására kiadott rendeletben foglalt – előírásokat, engedélyben foglaltakat megsérti.
 
-(6) A jármű honosítási eljárása, forgalomba helyezés előtti vizsgálata, valamint időszakos vizsgálata során a jármű műszaki megvizsgálását, illetve környezetvédelmi felülvizsgálatát a közlekedési hatóság kormánytisztviselője, illetve a (2) bekezdésben meghatározott tanúsító szervezettel foglalkoztatási jogviszonyban álló személy (a továbbiakban együtt: műszaki vizsgabiztos) végzi. Műszaki vizsgabiztosi tevékenységet az folytathat, aki büntetlen előéletű, nem áll műszaki vizsgabiztosi tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt, a műszaki vizsgabiztosi tevékenység folytatásához a közlekedési hatóság által kiadott engedéllyel rendelkezik, valamint rendelkezik a miniszter rendeletében meghatározott szakmai képesítésekkel, és megfelel az ott meghatározott egyéb feltételeknek. A közlekedési hatóság által a tevékenység folytatására jogosult személyekről vezetett közhiteles hatósági nyilvántartás tartalmazza a vizsgabiztosi tevékenység végzésére jogosult személy természetes személyazonosító adatait.
+(6) A jármű honosítási eljárása, forgalomba helyezés előtti vizsgálata, valamint időszakos vizsgálata során a jármű műszaki megvizsgálását, illetve környezetvédelmi felülvizsgálatát a közlekedési hatóság kormánytisztviselője, illetve a (2) bekezdésben meghatározott tanúsító szervezettel foglalkoztatási jogviszonyban álló személy (a továbbiakban együtt: műszaki vizsgabiztos) végzi. Műszaki vizsgabiztosi tevékenységet az folytathat, aki büntetlen előéletű, nem áll műszaki vizsgabiztosi tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt, a műszaki vizsgabiztosi tevékenység folytatásához a közlekedési hatóság által kiadott engedéllyel rendelkezik, valamint rendelkezik a miniszter rendeletében meghatározott szakmai képesítésekkel, és megfelel az ott meghatározott egyéb feltételeknek.
 
 (6a) A (6) bekezdésben foglaltakon túl, nem engedélyezhető, nem végezhető a műszaki vizsgabiztosi tevékenység annak, aki állam elleni bűncselekmény [a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) XXIV. Fejezet, illetve a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: 1978. évi IV. törvény) X. fejezet], igazságszolgáltatás elleni bűncselekmény (Btk. XXVI. Fejezet, illetve az 1978. évi IV. törvény XV. fejezet VI. cím), korrupciós bűncselekmény (Btk. XXVII. Fejezet), vagy közélet tisztasága elleni, valamint a nemzetközi közélet tisztasága elleni bűncselekmény (1978. évi IV. törvény XV. fejezet VII. és VIII. cím), hivatali bűncselekmény (Btk. XXVIII. Fejezet, illetve az 1978. évi IV. törvény XV. fejezet IV. cím), illetve közbizalom elleni bűncselekmény (Btk. XXXIII. Fejezet, illetve az 1978. évi IV. törvény XVI. fejezet III. cím) miatt indult büntetőeljárás hatálya alatt áll.
+
+(6b) A közlekedési hatóság a (6) bekezdés szerinti tevékenység folytatására jogosult személyekről nyilvántartást vezet, amely a közúti közlekedésre vonatkozó közigazgatási hatósági ügyekben alkalmazandó kiegészítő eljárási szabályokról szóló kormányrendeletben meghatározott adatok tekintetében közhiteles nyilvántartásnak minősül.
 
 (7) A közlekedési hatóság e törvény végrehajtására kiadott jogszabályban meghatározott esetekben a műszaki vizsgabiztos engedélyét felfüggeszti, vagy visszavonja és a nyilvántartásból törli.
 
@@ -1552,6 +1585,8 @@ tevékenységét a közlekedési hatóság engedélyezi és rendszeresen ellenő
 - d) a tachográfokra vonatkozó uniós rendeletben meghatározott rendelkezéseket súlyosan vagy ismételten megsérti.
 
 (7) A (6) bekezdés d) pontjában meghatározott esetben a névjegyzékből való törlés legfeljebb 2 éves időtartamig történhet.
+
+27/C. § A közlekedési hatóság a menetíró készülék beépítését, vizsgálatát, javítását végző járműfenntartó szervezetekről a menetíró készülékről szóló miniszteri rendelet szerinti adattartalommal nyilvántartást vezet. A nyilvántartás a menetíró készülékről szóló miniszteri rendeletben meghatározott adatok tekintetében közhiteles nyilvántartásnak minősül.
 
 28. § (1) A járművek környezetszennyezését a közlekedési hatóság az időszakos vizsgálat keretében elvégzett rendszeres környezetvédelmi felülvizsgálat keretében, valamint közúton és a jármű telephelyén végzett mérésekkel ellenőrzi.
 
@@ -1836,7 +1871,7 @@ is megtartható. A közmeghallgatás időpontját megelőzően lehetőséget kel
 
 (4) Az (1) bekezdés szerinti közúti hírközlő hálózatok szabad kapacitásai elsősorban a kormányzati célú hálózatok igényeinek kiszolgálására használhatóak azzal, hogy ez a használat a közúti hírközlő hálózatok útüzemeltetési, valamint az elektronikus útdíjszedési és díj ellenőrzési létesítmények működtetését, üzemeltetését támogató hálózati alapszolgáltatások megszakítás-mentes és a hálózathasználati szerződésben rögzített minőségi feltételekkel történő nyújtását nem veszélyeztetheti.
 
-(5) Az (1) bekezdés szerinti közúti hírközlő hálózatok alapfunkciójának teljes körű ellátását a hálózatkezelő gazdasági társaság biztosítani köteles. Ennek keretében teljes önköltség alapú hozzáférést köteles biztosítani a 33. § (1) bekezdés b) pont ba) alpontja szerinti közút kezelője, az útdíjszolgáltatási gazdasági társaság, a közútkezelő gazdasági társaság és a kormányzati célú hírközlési szolgáltató részére.
+(5) Az (1) bekezdés szerinti közúti hírközlő hálózatok alapfunkciójának teljes körű ellátását a hálózatkezelő gazdasági társaság biztosítani köteles. Ennek keretében teljes önköltség alapú hozzáférést köteles biztosítani a 33. § (1) bekezdés b) pont ba) alpontja szerinti közút kezelője, az útdíjszolgáltatási gazdasági társaság és a közútkezelő gazdasági társaság részére.
 
 (6) A (4) és (5) bekezdés szerinti hasznosítás mellett fennmaradó szabad kapacitás a hírközlési piacon történő értékesítés körében az állami vagyonnal való gazdálkodás szabályai szerint hasznosítható. A szabad kapacitásért fizetett ellenérték nem lehet alacsonyabb a mindenkori piaci árnál.
 
@@ -1908,9 +1943,13 @@ jogcímeken kell elszámolni és befizetni a központi költségvetésbe.
 
 (6) A használatidíj-rendszer üzemeltetése, működtetése és fejlesztése közfeladat, amelyet az útdíjszolgáltatási gazdasági társaság lát el. E feladatai ellátása tekintetében az útdíjszolgáltatási gazdasági társaság jogosult a közúti közlekedési nyilvántartás adataihoz a közúti közlekedési nyilvántartásról szóló törvényben foglaltak szerint hozzáférni. Ennek végrehajtása érdekében az útdíjszolgáltatási gazdasági társaság által ellátott közfeladatok biztosítására vonatkozó szerződés megkötésével kapcsolatos feladatokat az útdíjfizetési-szolgáltatásért felelős miniszter látja el.
 
-(6a) Ha az (1) bekezdésben meghatározott használati díj megfizetésének elmulasztása miatt kiszabott pótdíj az Európai Unió más tagállamában nyilvántartott jármű tekintetében áll fenn, az útdíjszolgáltatási gazdasági társaság az érintett jármű üzembentartója, ennek hiányában tulajdonosa azonosító adatainak megállapítása céljából a jogszabályban kijelölt nemzeti kapcsolattartó ponton keresztül a jármű teljes forgalmi rendszámának, a használatidíj-fizetés elmulasztásával összefüggő adatoknak, továbbá a mulasztás időpontjának megadásával automatizált keresést kezdeményezhet a jármű nyilvántartásba vétele szerinti tagállam nemzeti gépjármű-nyilvántartási adatállományában.
+(6a) Ha az útdíjszolgáltatási gazdasági társaság más, jogszabályban meghatározott feladatokat is ellát, akkor az útdíjszolgáltatási gazdasági társasági feladatait e gazdasági társaság különálló szervezeti egysége útján végzi. A különálló szervezeti egység vezetője felett a szervezet ügyvezető szervének elnöke gyakorolja az utasítási jogot. A különálló szervezeti egység az útdíjszolgáltatási tevékenység ellátása érdekében a jogszabályban kijelölt szervezetétől független műszaki, gazdasági, jogi, személyzeti, beszerzési és ügyfélszolgálati szervezetet működtet. E szervezeti egység az útdíjszolgáltatási gazdasági társasági tevékenységével kapcsolatos ügyekben önálló jogképességgel és ügyfélképességgel rendelkezik, képviseletét ezekben az ügyekben a különálló szervezeti egység vezetője látja el.
 
-(6b) A (6a) bekezdésben meghatározott automatizált keresés eredményeképpen ismertté vált üzembentartót, ennek hiányában tulajdonost az útdíjszolgáltatási gazdasági társaság vagy annak a 33/B. § (4a) bekezdésében meghatározott megbízottja az e törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározott formanyomtatvány alkalmazásával tájékoztatja a használatidíj-fizetés elmulasztása miatt kiszabott pótdíj érvényesítése érdekében indított eljárásról.
+(6b) Ha az útdíjszolgáltatási gazdasági társasági feladatok, és az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló törvény szerinti útdíjszedői, útdíjellenőrzés-támogatói, illetve egyetemes útdíjszolgáltatói feladatok ellátására ugyanaz a szervezet került kijelölésre, akkor e feladatokat a (6a) bekezdésben meghatározott szervezeti egység együttesen látja el.
+
+(6c) Ha az (1) bekezdésben meghatározott használati díj megfizetésének elmulasztása miatt kiszabott pótdíj az Európai Unió más tagállamában nyilvántartott jármű tekintetében áll fenn, az útdíjszolgáltatási gazdasági társaság az érintett jármű üzembentartója, ennek hiányában tulajdonosa azonosító adatainak megállapítása céljából a jogszabályban kijelölt nemzeti kapcsolattartó ponton keresztül a jármű teljes forgalmi rendszámának, a használatidíj-fizetés elmulasztásával összefüggő adatoknak, továbbá a mulasztás időpontjának megadásával automatizált keresést kezdeményezhet a jármű nyilvántartásba vétele szerinti tagállam nemzeti gépjármű-nyilvántartási adatállományában.
+
+(6d) A (6c) bekezdésben meghatározott automatizált keresés eredményeképpen ismertté vált üzembentartót, ennek hiányában tulajdonost az útdíjszolgáltatási gazdasági társaság vagy annak a 33/B. § (4a) bekezdésében meghatározott megbízottja az e törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározott formanyomtatvány alkalmazásával tájékoztatja a használatidíj-fizetés elmulasztása miatt kiszabott pótdíj érvényesítése érdekében indított eljárásról.
 
 (7) Az (1) bekezdésben meghatározott használati jogosultság az útdíjszolgáltatási gazdasági társaság saját, vagy az útdíjszolgáltatási gazdasági társasággal megállapodást kötött üzemanyagtöltő állomások, és az útdíjszolgáltatási gazdasági társasággal megállapodást kötött, a határátkelőhelyektől legfeljebb 5000 méter távolságban működő, a kereskedelemről szóló törvény szerinti üzletek (a továbbiakban együtt: viszonteladók) értékesítésében váltható meg.
 
@@ -2216,7 +2255,7 @@ szociális előírások ellenőrzése
 
 – a 20. § (11) bekezdésben és a 44. § (2) bekezdésben az ellenőrző hatóságok feladatkörét meghatározó előírások sérelme nélkül – a közlekedési hatóság feladata.
 
-(3) A tachográf nyilvántartás tachográf kártyán rögzített – tachográfokra vonatkozó uniós rendeletben meghatározott – adatokat tartalmazza.
+(3) A tachográf kártya nyilvántartás tachográf kártyán fizikailag feltüntetett – tachográfokra vonatkozó uniós rendeletben meghatározott – adatokat tartalmazza. A nyilvántartás a közúti közlekedésre vonatkozó közigazgatási hatósági ügyekben alkalmazandó kiegészítő eljárási szabályokról szóló kormányrendeletben meghatározott adatok tekintetében közhiteles nyilvántartásnak minősül.
 
 (4) A tachográf kártya nyilvántartásból az Európai Közösség más tagállamának illetékes hatóságai, valamint a külön jogszabály alapján ellenőrzési feladatkörrel rendelkező magyar hatóságok a (2) bekezdésben meghatározott közösségi jogszabályok szerinti ellenőrzési feladataik teljesítéséhez igényelhetnek adatot.
 
@@ -2502,7 +2541,7 @@ során – adatrögzítés nélkül – elektronikus berendezéssel távoli kép
 - 35. közúti árutovábbítás: közúton tehergépjárművel végzett árufuvarozás, díj ellenében más által – gépjárművezetővel együtt – rendelkezésre bocsátott tehergépjármű áruszállítás céljára való felhasználása, valamint díj ellenében végzett vontatás;
 - 36. tehergépjármű: a tehergépkocsi, a vontató, a lassú jármű, valamint a tehergépkocsiból, vontatóból vagy lassú járműből és pótkocsiból (félpótkocsiból) álló járműszerelvény;
 - 37. úthálózat-védelem: az országos út- és hídvagyon preventív védelme és megóvása, a közúti közlekedés biztonságát veszélyeztető, a megengedett legnagyobb össztömeget vagy tengelyterhelés-korlátozást túllépő, valamint a megengedett méretet meghaladó járművek közlekedésének szabályozásával és ellenőrzésével.
-- 38. használati díjból származó bevétel: a használati díjakból, pótdíjakból, valamint egyéb eljárási jellegű díjakból származó valamennyi bevételnek az útdíjszolgáltatási gazdasági társaság 33/A. § (6) bekezdésében meghatározott feladatainak ellátásával összefüggésben felmerült – kormányrendeletben meghatározott – indokolt költségeivel csökkentett összege;
+- 38. használati díjból származó bevétel: a használati díjakból, pótdíjakból, valamint egyéb eljárási jellegű díjakból származó valamennyi bevétel;
 - 39. utánképzés-foglalkozásvezető: a közúti járművezetők utánképzését végző, az utánképzési foglalkozás tartására az adott programnak megfelelő minősítéssel feljogosított személy.
 - 40. az útdíjfizetés elmulasztása: jogosulatlan úthasználat, amely az e törvényben meghatározott használati díj, vagy az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló törvényben meghatározott útdíj megfizetésének elmulasztásával valósul meg;
 - 41. a nyilvántartás helye szerinti tagállam: az Európai Unió azon tagállama, amelynek nemzeti gépjármű-nyilvántartásában az útdíjfizetés elmulasztása által érintett jármű szerepel;
@@ -2591,7 +2630,7 @@ során – adatrögzítés nélkül – elektronikus berendezéssel távoli kép
   - 57. a közúti árufuvarozásra, a személyszállításra, az egyes közúti közlekedési szabályokra vonatkozó rendelkezések megsértésével, valamint a jogosulatlan úthasználattal kapcsolatos bírságolással összefüggő hatósági feladatok szabályait,
 - b) a miniszter, hogy
   - 1. a Közlekedési Miniszterek Európai Konferenciája által létrehozott közlekedési engedélyek használatának részletes szabályait,
-  - 2. az útügyi igazgatás eljárási szabályait, a közútkezelői hozzájárulás kiadásának feltételeit, a közút nem közlekedési célú igénybevételéért fizetendő díj feltételeiről szóló szabályokat
+  - 2. az útügyi igazgatás eljárási szabályait, a közútkezelői hozzájárulás kiadásának feltételeit, a közút nem közlekedési célú igénybevételéért fizetendő díj feltételeiről szóló szabályokat, a tranzitút-hálózat magyarországi szakaszait,
   - 3. az ömlesztett (szóródó) tömegáru közúton történő fuvarozásának és saját számlás szállításának a feltételeit, valamint egyes közúti közlekedési szolgáltatások engedélyezésének a részletes szabályait,
   - 4. az országos közutak kezelésének szabályait és a helyi közutak, valamint a közforgalom elől el nem zárt magánutak kezelésének szakmai szabályait,
   - 5. az utak forgalomszabályozásának és a közúti jelzések elhelyezésének műszaki és eljárási szabályait,
@@ -2671,7 +2710,7 @@ során – adatrögzítés nélkül – elektronikus berendezéssel távoli kép
 - q) a miniszter, hogy a 21/B. § (3) bekezdésében említett, az útdíjfizetés elmulasztásával kapcsolatos információk határokon átnyúló cseréjének elősegítése során alkalmazandó formanyomtatványt,
 - r) a közlekedésrendészetért felelős miniszter, valamint a honvédelemért felelős miniszter, hogy a feladat- és hatáskörébe tartozó tevékenységhez kapcsolódó, továbbá a járműre szerelt, önjáró, vagy vontatott, valamint emelő-, rakodó gépek, az egyes technológiai műveletekben részfeladatokat ellátó, stabil kivitelezésű – telepített – gépsorok részét képező gépeket működtető gépkezelők képzésére és vizsgáztatására vonatkozó szabályokat
 - s)
-- t) a miniszter, hogy a 33/A. § (6b) bekezdésében meghatározott, a használatidíj-fizetés elmulasztása miatt kiszabott pótdíjfizetési kötelezettségről, és az annak érvényesítése érdekében indítható eljárásról szóló formanyomtatványt
+- t) a miniszter, hogy a 33/A. § (6d) bekezdésében meghatározott, a használatidíj-fizetés elmulasztása miatt kiszabott pótdíjfizetési kötelezettségről, és az annak érvényesítése érdekében indítható eljárásról szóló formanyomtatványt
 
 rendeletben állapítsa meg.
 

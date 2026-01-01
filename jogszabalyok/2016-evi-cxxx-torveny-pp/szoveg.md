@@ -2780,7 +2780,9 @@ elektronikus úton vagy az adatbázisok közvetlen elérésével is meggyőződh
 
 (2) A bíróság hivatalból vagy a fél indokolt kérelmére az egész tárgyalásról vagy annak egy részéről a nyilvánosságot kizárja, ha az minősített adat védelmében, üzleti titok vagy törvényben meghatározott más titok megőrzése, a közerkölcs védelmében, kiskorú védelmében vagy a fél személyiségi jogainak védelme érdekében indokolt. A bíróság a tárgyalásnak a tanúmeghallgatással érintett részéről a nyilvánosságot különösen indokolt esetben akkor is kizárhatja, ha a tanú adatainak zártan kezelését rendelte el és a zárt tárgyaláson történő meghallgatása a tanú, illetve hozzátartozója életének, testi épségének a megóvása érdekében feltétlenül szükséges.
 
-(3) A bíróság a nyilvánosságot kizáró végzését köteles indokolni.
+(2a) Az eljáró bíróság a hallgatóság azon tagjának tárgyaláson – vagy annak egy részén – történő részvételét kizárhatja, akinek jelenléte a bizonyítás eredményességének hátrányos befolyásolására valószínűsíthetően alkalmas lehet. A bíróság e személyt a tárgyalóteremből kiutasíthatja, illetve kivezettetheti.
+
+(3) A bíróság a nyilvánosságot kizáró vagy korlátozó végzését köteles indokolni.
 
 #### 232. § [Felvételkészítés a tárgyaláson]
 
@@ -2793,6 +2795,71 @@ elektronikus úton vagy az adatbázisok közvetlen elérésével is meggyőződh
 (4) Az ügyész kivételével a felekről és más perbeli személyekről, ezek képviselőiről, továbbá a tanúról, szakértőről, és szemletárgy birtokosáról csak kifejezett hozzájárulásuk esetén készíthető kép- és hangfelvétel, valamint a természetes személy fél teljes neve csak hozzájárulásával tüntethető fel médiatartalomban. Szükség esetén a bíróság e személyeket a hozzájárulásról nyilatkoztatja; ennek megtörténtét, valamint a nyilatkozat tartalmát a jegyzőkönyvben fel kell tüntetni.
 
 (5) Az e §-ban foglaltak betartásáról és a (4) bekezdésben említett személyek személyiségi jogainak védelméről a tárgyaláson az elnök a rendfenntartás keretében gondoskodik.
+
+#### 69/A. A tárgyalás online nyilvánossága
+
+#### 232/A. § [Online hallgatóságként történő részvétel a tárgyaláson]
+
+(1) A hallgatóság online felületen keresztül is részt vehet a tárgyaláson (a továbbiakban: online hallgatóság), ha az ehhez szükséges technikai feltételek a bíróságon rendelkezésre állnak. A tárgyalás nyilvánosságára vonatkozó rendelkezéseket a tárgyalás online nyilvánossága tekintetében – a jelen alcímben foglalt eltérésekkel – kell alkalmazni.
+
+(2) Az (1) bekezdés szerinti online felületet, valamint a tárgyalás ideje alatt az eljáró bíróság és az online hallgatóság közötti egyirányú – a kapcsolatfelvétel szükségessége esetén kétirányú – kép- és hangkapcsolatot biztosító összeköttetést, az erre szolgáló informatikai rendszer működtetésével, az Országos Bírósági Hivatal biztosítja.
+
+(3) Egy tárgyaláson online hallgatóságként legfeljebb az első 100 eredményesen regisztráló nagykorú természetes személy vehet részt.
+
+(4) Az online hallgatóságként történő részvétel feltétele az arra szolgáló elektronikus felületen történő regisztráció, amely nem minősül e törvény szerinti eljárási cselekménynek. A regisztráció a Dáptv. szerinti eAzonosításhoz kötött.
+
+(5) Az online hallgatóságként jelentkező személynek a regisztráció során kifejezett nyilatkozatával el kell fogadnia az online hallgatóságként történő részvétel szabályait, valamint nyilatkoznia kell, hogy a személyes adatok védelmére vonatkozó adatkezelési tájékoztatót megismerte. Ezek hiányában eredményes regisztrációra nem kerülhet sor.
+
+(6) Ha a tárgyaláson az online hallgatóságként történő részvétel biztosított, az eljáró bíróság a tárgyalás megkezdését követően tájékoztatja a jelenlévőket, hogy
+
+- a) a tárgyalás online felületen keresztül is követhető,
+- b) az online hallgatóság mely tagjának kizárására került sor, valamint
+- c) mennyi a regisztrált online hallgatók száma.
+
+#### 232/B. § [Online hallgatóságként történő részvétel tanulmányi, oktatási, illetve kutatási célból]
+
+(1) A felsőoktatási intézmény jogi vagy államtudományi képzési területén tanuló hallgatót, valamint a felsőoktatási intézmény jogi vagy államtudományi karán foglalkoztatott oktatóját vagy kutatóját – jogszabályban meghatározott – elsőbbségi regisztrációs jog illeti meg, ha tanulmányi, oktatási, vagy kutatási célból kíván online hallgatóságként a kitűzött tárgyaláson részt venni és hallgatói, oktatói, vagy kutatói minősége az oktatási nyilvántartásról szóló törvény szerinti felsőoktatási információs rendszer adatai alapján igazolást nyer.
+
+(2) Az oktató felel azért, hogy a tárgyalás tanóra keretében, online felületen keresztül történő nyomon követése, illetve a megtekintett tárgyaláson történtek megvitatása során, a tanóra helyszínén
+
+- a) kizárólag egyénileg visszaigazolt regisztrációval rendelkező személyek legyenek jelen, valamint
+- b) ne legyen jelen olyan személy, akinek a tárgyaláson történő részvételét – az oktató tudomásával – az eljáró bíróság kizárta.
+
+#### 232/C. § [A személyiségi jogok védelmének és a tárgyalás eredményességének biztosítása]
+
+(1) Az online hallgatóság a tárgyalásról kép- vagy hangfelvételt, illetve kép- és hangfelvételt nem készíthet, a tárgyalás nyomon követését más személynek egyidejű vagy késleltetett hozzáférés lehetővé tételével nem biztosíthatja, a tárgyalás anyagát más módon, részben vagy egészben nyilvánosságra nem hozhatja. Az online hallgatóság tagjait előzetesen figyelmeztetni kell, hogy a tárgyalásról történő felvételkészítés illetve a felvétel, vagy a tárgyalás anyagának nyilvánosságra hozatala, valamint más személy részére a tárgyalás nyomon követésének bármilyen módon történő lehetővé tétele büntetőjogi, illetve polgári jogi felelősség megállapítását vonhatja maga után.
+
+(2) Az eljáró bíróság – ha arról hivatalos tudomást szerez – az online hallgatóság tagjai közül kizárja azt a személyt, akinek az (1) bekezdésben meghatározott okból korábban büntetőjogi, illetve polgári jogi felelősségét jogerős, végleges, vagy egyéb, további jogorvoslattal nem támadható határozat megállapította.
+
+(3) Az eljáró bíróság az online hallgatóság tagjai közül kizárja azt a személyt, aki a hallgatóságként történő részvétel szabályait megszegi.
+
+(4) A tárgyaláson résztvevő peres fél, más perbeli személy, közreműködő, illetve érdekelt a tárgyalás megkezdésekor, illetve meghallgatása kezdetekor kérheti a tárgyalásra online hallgatóságként regisztrált személyek viselt és születési nevének, valamint arcképmásának megismerését, amelyet az eljáró bíróság a kérelmező számára biztosít.
+
+(5) Ha az arra jogosult az online hallgatóságként regisztrált személyek nevének és arcképmásának megismerését követően úgy nyilatkozik, hogy meghatározott személy tárgyaláson történő részvételét kizáró ok áll fenn és ezt valószínűsíti, a bíróság döntése előtt az ezzel kapcsolatos körülményeket megvizsgálja. A bíróság szükség szerint az online hallgatóságként bejelentkezett személyt, valamint a tárgyaláson részt vevő egyéb érintetteket nyilatkoztathatja, illetve szembesítheti.
+
+(6) A bíróság az online hallgatóság tárgyaláson történő részvételét a tárgyalás kitűzésekor előzetesen kizárhatja, ha a tárgyalásra megidézett személyek és közreműködők jelentős számára tekintettel az online hallgatóság tagjainak kizárásával kapcsolatos körülmények vagy a tárgyalás online hallgatóság által történő nyomon követésének feltételeivel kapcsolatos körülmények ellenőrzése veszélyeztetné a tárgyalás időszerű lefolytatását.
+
+(7) A bíróság a tárgyaláson történő részvétel kizárása esetén az online hallgatóságként regisztrált személy bejelentkezését meggátolja, a bejelentkezett személy vonatkozásában az összeköttetést megszakítja.
+
+#### 232/D. § [Az online hallgatóságként történő részvétellel kapcsolatos egyedi adatkezelés]
+
+(1) A Dáptv. szerinti digitális állampolgárság szolgáltató a hallgatóságként regisztráló személy azonosíthatósága érdekében az eAzonosítást – valamint az f) és g) pont szerinti adatok tekintetében a személyi adat- és lakcímnyilvántartásból történő adatszolgáltatást – követően átadja az Országos Bírósági Hivatal részére a regisztráló személy következő azonosító adatait:
+
+- a) viselt neve,
+- b) születési neve,
+- c) születési helye,
+- d) születési ideje,
+- e) anyja neve,
+- f) lakcíme, valamint
+- g) arcképmása.
+
+(2) Az oktatási nyilvántartás vezetéséért felelős szerv a rendelkezésére álló adatok alapján – az eAzonosítást követően – tájékoztatást nyújt a felsőoktatási intézmény jogi vagy államtudományi képzési területén tanuló hallgatóként, illetve a felsőoktatási intézmény jogi vagy államtudományi karán foglalkoztatott oktatóként vagy kutatóként regisztráló személy hallgatói, oktatói, illetve kutatói minősége fennállásáról vagy fenn nem állásáról.
+
+(3) Az Országos Bírósági Hivatal a regisztráció eredményes befejezését követően haladéktalanul tájékoztatja az eljáró bíróságot az online hallgatóságként regisztrált személyre vonatkozó (1) és (2) bekezdés szerinti adatokról.
+
+(4) Az online hallgatóságnak jelentkező személy eredményes regisztrációját követően, a személye és az általa követni kívánt tárgyalás azonosítására szolgáló, összekapcsolt adatokat az Országos Bírósági Hivatal, valamint az eljáró bíróság az eljárás tárgyát képező ügy iratainak selejtezéséig vagy levéltárba adásáig kezeli.
+
+(5) Az online hallgatóságnak jelentkező személy viselt és születési nevén kívül az egyéb személyes adatait az eljáró bíróság zártan kezeli, azokat csak a bíróság, a jegyzőkönyvvezető, a leíró, az ügyész vagy az annak megismerésére törvény alapján feljogosított személy jogosult megismerni, azokról felvilágosítás csak a 162. § (4) bekezdése szerinti feladat ellátása érdekében adható.
 
 #### 70. Pervezetés
 
@@ -4688,66 +4755,52 @@ A 393. § e) pontjára hivatkozással előterjesztett perújítási kérelmet az
 
 (2) Az (1) bekezdésben foglaltak megfelelő alkalmazásával van helye felülvizsgálati kérelem benyújtásának a keresetlevelet a 176. § (1) bekezdés a)–i) pontja és a 176. § (2) bekezdés b)–c) pontja alapján visszautasító és az eljárást a 240. § (1) bekezdés a)–c) és f) pontja alapján megszüntető jogerős végzések ellen.
 
+(3) Felülvizsgálatnak van helye az ítélettel szemben, ha
+
+- a) a törvényszék hatáskörébe tartozó perben és a személyi állapotot érintő perben az elsőfokú bíróság ítéletét a másodfokú bíróság megváltoztatta,
+- b) azt személyiségi jog érvényesítése iránt indított perben vagy közérdekű adat megismerésére irányuló igénnyel összefüggésben indítható perben kezdeményezik, vagy
+- c) ha a Kúria azt az e fejezetben foglalt feltételek fennállása esetén engedélyezi.
+
 #### 407. § [A felülvizsgálatból kizárt határozatok]
 
-(1) Nincs helye felülvizsgálatnak
+Nincs helye felülvizsgálatnak
 
-- a) az elsőfokon jogerőre emelkedett ítélet ellen, kivéve, ha azt törvény lehetővé teszi,
+- a) az első fokon jogerőre emelkedett ítélet ellen, kivéve, ha azt törvény lehetővé teszi,
 - b) abban az esetben, ha a fél a fellebbezési jogával nem élt és a másik fél fellebbezése alapján a másodfokú bíróság az elsőfokú ítéletet helybenhagyta,
 - c) a jogerős ítéletnek a meg nem fizetett illeték vagy az állam által előlegezett költség megfizetésére, a teljesítési határidőre, a részletfizetésre vonatkozó rendelkezései ellen vagy a jogerős ítéletnek csupán az indokolása ellen,
 - d) a Kúria által hozott ítélet ellen,
-- e) abban az esetben, ha azt törvény kizárja.
+- e) – a 406. § (3) bekezdés a) és b) pontjában foglalt kivétellel – a másodfokú bíróság ítélete ellen, valamint
+- f) ha azt törvény egyéb esetben kizárja.
 
-(2) Nincs helye felülvizsgálatnak, ha az elsőfokú bíróság ítéletét a másodfokú bíróság helybenhagyta
+#### 408. §
 
-- a) a szomszédjogok megsértéséből eredő, valamint közvetlenül a bíróság előtt megindított birtokperben, továbbá a közös tulajdonban álló dolog birtoklásával és használatával kapcsolatos perben,
-- b) a XL. Fejezetben szabályozott végrehajtási perekben,
-- c) a szülői felügyelet gyakorlásának rendezése, megváltoztatása, a gyermek harmadik személynél történő elhelyezése, elhelyezésének megváltoztatása, továbbá a gyermekkel való kapcsolattartás szabályozása iránti perekben,
-- d) a társasház tulajdonostársi közösségének szervei által hozott határozatok megtámadása iránti perben.
+#### 409. § [A felülvizsgálat engedélyezésének feltételei]
 
-#### 408. § [A felülvizsgálat kizártsága egyes vagyonjogi perekben]
-
-(1) Nincs helye felülvizsgálatnak olyan vagyonjogi perben, amelyben a felülvizsgálati kérelemben vitatott érték, illetve annak a 21. § (1)–(4) bekezdése alapján, továbbá a 21. § (5) bekezdésének az egyesített perekre történő megfelelő alkalmazásával megállapított értéke az ötmillió forintot nem haladja meg. Ez az értékhatártól függő kizárás nem vonatkozik a közhatalom gyakorlásával kapcsolatos kártérítés, illetve sérelemdíj megfizetése iránt indított perekre, valamint a tartási vagy élelmezési követelés, egyéb járadék iránt indított perekre.
-
-(2) Nincs helye felülvizsgálatnak vagyonjogi perben, ha az elsőfokú bíróság ítéletét a másodfokú bíróság azonos jogszabályi rendelkezésre és jogi indokolásra utalással hagyta helyben.
-
-#### 409. § [A felülvizsgálat kivételes engedélyezésének feltételei]
-
-(1) Ha a felülvizsgálatnak a 408. § alapján nem lenne helye – ugyanakkor törvény a felülvizsgálatot más okból nem zárja ki – a felülvizsgálatot a Kúria a (2) bekezdés szerinti esetekben engedélyezheti, a (3) bekezdés szerinti esetben engedélyezi.
-
-(2) A Kúria a felülvizsgálatot akkor engedélyezi, ha az ügy érdemére kiható jogszabálysértés vizsgálata
+(1) Ha felülvizsgálatnak a 407. § e) pontja alapján nincs helye, a Kúria engedélyezheti a felülvizsgálatot, ha az ügy érdemére kiható jogszabálysértés vizsgálata
 
 - a) a joggyakorlat egységének vagy továbbfejlesztésének biztosítása,
-- b) a felvetett jogkérdés különleges súlya, illetve társadalmi jelentősége vagy
-- c) – a másodfokú bíróság erről való döntése hiányában – az Európai Unió Bírósága előzetes döntéshozatali eljárásának szükségessége
+- b) a felvetett jogkérdés különleges súlya, illetve társadalmi jelentősége,
+- c) – a másodfokú bíróság erről való döntése hiányában – az Európai Unió Bírósága előzetes döntéshozatali eljárásának szükségessége, illetve
+- d) a fél alapvető eljárási jogának valószínűsíthető sérelme, illetve az ügy érdemére kiható egyéb eljárási szabályszegés
 
 miatt indokolt.
 
-(3) A Kúria engedélyezi a felülvizsgálatot, ha az ítélet a Kúria közzétett határozatától jogkérdésben eltér.
+(2) Ha felülvizsgálatnak a 407. § f) pontja alapján nincs helye, a Kúria engedélyezheti a felülvizsgálatot, ha az a joggyakorlat egységének biztosítása miatt indokolt.
 
-#### 410. § [Az engedélyezés iránti kérelem]
+(3) Ha felülvizsgálatnak a 407. § e) vagy f) pontja alapján nincs helye, de az ítélet a Kúria közzétett határozatától jogkérdésben eltér, a Kúria engedélyezi a felülvizsgálatot.
 
-(1) A felülvizsgálat engedélyezése iránti kérelmet a fél az elsőfokú bíróságnál, az ítélet közlésétől számított negyvenöt napon belül terjesztheti elő.
+(4) Nincs helye felülvizsgálat engedélyezésének – az (1)−(3) bekezdésben foglaltaktól eltérően –
 
-(2) A felülvizsgálat engedélyezése iránti kérelemben meg kell jelölni:
+- a) a házasságot érvénytelenítő vagy felbontó ítélet vonatkozásában az érvénytelenítés vagy felbontás kérdésében, valamint
+- b) az apaság vélelmét megdöntő ítélet apaság vélelmét megdöntő része vonatkozásában, ha az apaság vélelmének megdöntését követően a gyermeket valamely személy teljes hatályú apai elismeréssel a magáénak ismerte el, vagy az apaságot jogerős bírói ítélet állapította meg.
 
-- a) azt az ítéletet, amellyel szemben a fél a felülvizsgálat engedélyezését kéri,
-- b) az ügy érdemére kiható jogszabálysértést, a megsértett jogszabály pontos megjelölésével, és
-- c) az engedélyezést megalapozó
-  - ca) okokat, amelyek a joggyakorlat egységének vagy továbbfejlesztésének biztosítása érdekében indokolják a felülvizsgálat befogadásának engedélyezését,
-  - cb) jogkérdés megjelölését, amelynek különleges súlya vagy társadalmi jelentősége indokolja a befogadás engedélyezését,
-  - cc) jogkérdés megjelölését, amely az Európai Unió Bírósága előzetes döntéshozatali eljárásának szükségességét indokolja, vagy
-  - cd) – a Kúria közzétett határozatától jogkérdésben való eltérésre hivatkozás esetén – a Kúria közzétett határozatát és annak azt a részét, amelytől a felülvizsgálattal támadott ítéleti rendelkezés jogkérdésben eltér.
-
-(3) Az engedélyezés iránti kérelemre a felülvizsgálati kérelem előzetes megvizsgálására és visszautasítására vonatkozó rendelkezések irányadók. Az engedélyezés iránti kérelmet az előterjesztő fél ellenfelének a kérelem elbírálását megelőzően nem kell megküldeni.
-
-(4) A Kúria az engedélyezés iránti kérelmet visszautasítja, ha a kérelem a törvényi feltételeknek nem felel meg.
+#### 410. §
 
 #### 411. § [Döntés a felülvizsgálat engedélyezéséről]
 
-(1) Ha a felülvizsgálat engedélyezése iránti kérelem érdemi elbírálásra alkalmas, a Kúria háromtagú tanácsban, tárgyaláson kívül, harminc napon belül határoz a felülvizsgálat engedélyezéséről vagy annak megtagadásáról.
+(1) A Kúria tárgyaláson kívül, harminc napon belül határoz a felülvizsgálat engedélyezéséről vagy annak megtagadásáról. A Kúria a felülvizsgálatot mérlegelési jogkörében csak olyan okból engedélyezheti, amelyre a fél az engedélyezés iránti kérelmében hivatkozik.
 
-(2) A felülvizsgálat megtagadásáról szóló végzést röviden indokolni kell.
+(2) A felülvizsgálat megtagadásáról szóló végzést röviden, kizárólag annyiban kell megindokolni, hogy a felülvizsgálat engedélyezésére milyen okból nem került sor. A felülvizsgálat engedélyezésének indokait az érdemi határozat indokolásában kell megjelölni.
 
 (3) A felülvizsgálat engedélyezése tárgyában hozott végzést a Kúria kézbesíti az engedélyezési kérelmet előterjesztő félnek és – ha szükséges – felhívja, hogy a végzés kézbesítésétől számított tizenöt napon belül a bíróságnak benyújtott beadványon az illetéket a felülvizsgálati eljárás illetékére egészítse ki.
 
@@ -4757,15 +4810,20 @@ miatt indokolt.
 
 (1) A felülvizsgálati kérelmet az elsőfokú határozatot hozó bíróságnál az ítélet közlésétől számított negyvenöt napon belül kell benyújtani.
 
-(2) Ha a felülvizsgálat a 408. § rendelkezése szerint kizárt, a felülvizsgálati kérelemhez csatolni kell a felülvizsgálat engedélyezése iránti kérelmet, amelyen az engedélyezés iránti kérelem illetékét kell leróni.
+(2) Ha felülvizsgálatnak a 407. § e) vagy f) pontja alapján nincs helye, a felülvizsgálat engedélyezésének kezdeményezése esetén a felülvizsgálati kérelemnek elkülönülten kell tartalmaznia a felülvizsgálat engedélyezése iránti kérelmet. A felülvizsgálati kérelmen ebben az esetben a felülvizsgálat engedélyezésének illetékét kell leróni.
 
 #### 413. § [A felülvizsgálati kérelem tartalma]
 
 (1) A felülvizsgálati kérelemnek a beadványokra vonatkozó általános szabályok mellett tartalmaznia kell:
 
 - a) a felülvizsgálni kívánt ítélet számát,
-- b) a jogszabálysértés pontos megnevezésével, a jogszabályhely megjelölésével azt az eljárási, illetve anyagi jogi szabálysértést, amely kihatott az ügy érdemi eldöntésére, valamint annak indokait, hogy a fél az új határozat hozatalát vagy a határozat hatályon kívül helyezését milyen okból kívánja,
-- c) – a Kúria közzétett határozatától jogkérdésben való eltérésre hivatkozás esetén – a Kúria közzétett határozatát és annak azt a részét, amelytől a felülvizsgálattal támadott ítéleti rendelkezés jogkérdésben eltér,
+- b) a jogszabálysértés pontos megnevezésével, a jogszabályhely megjelölésével azt az eljárási, illetve anyagi jogi szabálysértést, amely kihatott az ügy érdemi eldöntésére, valamint annak indokait, hogy a fél az új határozat hozatalát vagy a határozat hatályon kívül helyezését vagy a jogsértés tényének megállapítását milyen okból kívánja,
+- c) – ha a felülvizsgálat engedélyhez kötött – az engedélyezést megalapozó
+  - ca) okokat, amelyek a joggyakorlat egységének vagy továbbfejlesztésének biztosítása érdekében indokolják a felülvizsgálat engedélyezését,
+  - cb) jogkérdés megjelölését, amelynek különleges súlya vagy társadalmi jelentősége indokolja a felülvizsgálat engedélyezését,
+  - cc) jogkérdés megjelölését, amely az Európai Unió Bírósága előzetes döntéshozatali eljárásának szükségességét indokolja,
+  - cd) a fél alapvető eljárási joga sérelmének vagy az ügy érdemére kiható egyéb eljárási szabályszegés megjelölését, illetve
+  - ce) – a Kúria közzétett határozatától jogkérdésben való eltérésre hivatkozás esetén – a Kúria közzétett határozatát és annak azt a részét, amelytől a felülvizsgálattal támadott ítéleti rendelkezés jogkérdésben eltér,
 - d) a Kúria döntésére vonatkozó határozott kérelmet, hogy a kérelmező milyen tartalmú döntés meghozatalát kívánja, és
 - e) a végrehajthatóság felfüggesztése iránti kérelmet tartalmazó felülvizsgálati kérelem esetén a végrehajtásra vonatkozó adatokat.
 
@@ -4773,7 +4831,7 @@ miatt indokolt.
 
 (3) A felülvizsgálati kérelmet nem lehet megváltoztatni; a kérelem mindaddig visszavonható, amíg a Kúria a határozatát meg nem hozta, illetve – tárgyalás tartása esetén – a határozathozatal céljából a tárgyalást be nem rekesztette. Ha a felülvizsgálati eljárással kapcsolatban szükséges, a Kúria a perköltség viseléséről és a meg nem fizetett illeték, illetve az állam által előlegezett költség viseléséről is határoz.
 
-(4) A felülvizsgálati eljárásban hiánypótlás elrendelésének nincs helye.
+(4) A felülvizsgálati eljárásban hiánypótlás elrendelésének csak az alaki kellékek hiányossága miatt van helye.
 
 #### 414. § [A felülvizsgálati kérelem felterjesztése]
 
@@ -4790,9 +4848,9 @@ miatt indokolt.
 - a) azt nem az arra jogosult nyújtotta be,
 - b) az eljárási illetéket – kivéve a 411. § (3) bekezdésében foglaltakat – nem fizették meg,
 - c) a felülvizsgálati kérelem elkésett,
-- d) a felülvizsgálati kérelemnek nincs helye a 407. § alapján,
-- e) a felülvizsgálati kérelemnek nincs helye a 408. § alapján, és a felülvizsgálati kérelem előterjesztője a felülvizsgálati kérelemmel együtt nem nyújtott be engedélyezés iránti kérelmet,
-- f) a kérelem nem felel meg a törvény által meghatározott követelményeknek, és az ennek megfelelő kiegészítése a kérelem benyújtására biztosított törvényes határidőn belül nem történt meg, vagy
+- d) felülvizsgálatnak nincs helye a 407. § a)−d) pontja alapján,
+- e) felülvizsgálatnak nincs helye a 407. § e) vagy f) pontja alapján és a fél nem kéri a felülvizsgálat engedélyezését,
+- f) a felülvizsgálati kérelem nem felel meg a törvény által meghatározott követelményeknek, és az ennek megfelelő kiegészítése a kérelem benyújtására biztosított törvényes határidőn belül nem történt meg, vagy
 - g) a kérelmet előterjesztő fél a megadott lakóhelyéről (székhelyéről) nem idézhető, illetve onnan ismeretlen helyre költözött.
 
 (2) Ha a felülvizsgálati kérelemben tartalmilag helyesen történik hivatkozás a megsértett jogszabályi rendelkezésre, de a jogszabályhely megjelölése téves, ezen okból a felülvizsgálati kérelem nem utasítható vissza.
@@ -4815,7 +4873,7 @@ Ha a jogerős ítélet vagy a jogerős ítélet alapját képező jogszabály el
 
 (1) A csatlakozó felülvizsgálati kérelem és az ellenkérelem előterjesztésére a csatlakozó fellebbezésre és ellenkérelemre vonatkozó rendelkezéseket kell alkalmazni. Csatlakozó felülvizsgálati kérelmet a fél csak akkor terjeszthet elő, ha maga is jogosult lett volna felülvizsgálatot kérni.
 
-(2) Ha a felülvizsgálatnak a Kúria engedélye alapján van helye, az eredményes engedélyezési kérelmet előterjesztő fél ellenfele a csatlakozó felülvizsgálati kérelmet a Kúria végzése által meghatározott jogértelmezési kérdéssel összefüggő, az ügy érdemi elbírálására kiható jogszabálysértésre hivatkozással terjesztheti elő.
+(2) Ha a felülvizsgálatnak a Kúria engedélye alapján van helye, a felülvizsgálatot engedélyező végzést és a felülvizsgálati kérelmet a Kúria azzal küldi meg az ellenérdekű félnek, hogy csatlakozó felülvizsgálati kérelmet a Kúria végzése által meghatározott jogértelmezési kérdéssel összefüggő, az ügy érdemi elbírálására kiható jogszabálysértésre hivatkozással terjeszthet elő.
 
 #### 113. Az érdemi elbírálás szabályai
 
@@ -4850,6 +4908,10 @@ A felülvizsgálati eljárásban bizonyítás felvételének helye nincs, a Kúr
 (2) Ha a Kúria azt állapítja meg, hogy a jogerős határozat megfelel a jogszabályoknak, a határozat indokolásának elegendő csak erre a körülményre utalnia, az alkalmazott jogszabályok feltüntetése mellett. Ha a határozat jogkérdésben nem tért el a Kúria hivatkozott, közzétett határozatától a határozatot hatályában fenntartó határozat indokolásában nem elegendő csak erre a körülményre utalni.
 
 (3) Ha a határozat az ügy érdemére kiható módon jogszabálysértő, illetve jogkérdésben eltér a Kúria hivatkozott, közzétett határozatától a Kúria a határozatot egészben vagy részben hatályon kívül helyezi, és a jogszabályoknak megfelelő új határozatot hoz, egyébként az ügyben eljárt első- vagy másodfokú bíróságot új eljárásra és új határozat hozatalára utasítja.
+
+(3a) Ha az elsőfokú bíróság ítéletét a másodfokú bíróság helybenhagyta, és a Kúria azt állapítja meg, hogy ez a határozat az ügy érdemére kiható módon jogszabálysértő, a Kúria a határozatot részben vagy egészben hatályon kívül helyezi és az első- vagy másodfokú bíróságot új eljárásra és új határozat hozatalára utasítja.
+
+(3b) Ha a felülvizsgálat engedélyezésére olyan ügyben került sor, amelyben törvény kizárja a felülvizsgálatot és a Kúria megállapítja, hogy a határozat az ügy érdemére kiható módon jogszabálysértő, illetve jogkérdésben eltér a Kúria hivatkozott, közzétett határozatától, de a jogszabálysértés a jogviszony természete vagy a beállt joghatások jellege miatt nem orvosolható, a Kúria kizárólag a jogsértés tényét állapítja meg.
 
 (4) Ha a Kúria az első- vagy másodfokú bíróságot új eljárásra és új határozat hozatalára utasítja, a hatályon kívül helyező végzésben az új eljárás lefolytatására vonatkozóan kötelező utasításokat ad. Ebben az esetben csak a felülvizsgálati eljárásban felmerült perköltség és a meg nem fizetett illeték, illetve az állam által előlegezett költség összegét állapítja meg, azok viselése, illetve megfizetése kérdésében az új határozatot hozó bíróság dönt.
 
@@ -4995,6 +5057,10 @@ A felperes a keresetétől az eljárás bármely szakaszában az alperes hozzáj
 (4) A bíróság az ideiglenes intézkedés iránti kérelem tárgyában a kérelem bírósághoz érkezésétől számított harminc napon belül határoz. A másodfokú bíróság az iratoknak a másodfokú bírósághoz történő beérkezését követő harminc napon belül határoz.
 
 (5) Ha az ismételten előterjesztett ideiglenes intézkedés iránti kérelem tárgya a korábban elbírált kérelemmel tartalmilag azonos, és a kérelmező nem valószínűsíti a kérelmet megalapozó új körülmény fennállását, az ideiglenes intézkedés iránti kérelmet elutasító végzés esetén a 105. § (1) bekezdésének a végzés elleni fellebbezésre vonatkozó rendelkezése nem alkalmazható.
+
+#### 435/A. § [A tárgyalás online nyilvánosságának kizártsága]
+
+Személyi állapotot érintő perekben a tárgyalás online felületen keresztül nem követhető a hallgatóság számára.
 
 ### XXXII. Fejezet — GONDNOKSÁGI PEREK
 
@@ -5501,6 +5567,10 @@ A pert a kiskorú gyermek lakóhelye vagy tartózkodási helye szerint illetéke
 
 (4) Ha a bíróság munkabérben vagy más jövedelemben részesülő személyt tartásdíj fizetésére kötelez – ideértve az ideiglenes intézkedéssel elrendelt tartást is –, köteles tájékoztatni a felet a közvetlen bírósági felhívás lehetőségéről.
 
+#### 492/A. § [A tárgyalás online nyilvánosságának kizártsága]
+
+A kiskorú gyermek tartása iránt indított perben a tárgyalás online felületen keresztül nem követhető a hallgatóság számára.
+
 ### XXXVIII. Fejezet — EGYES SZEMÉLYISÉGI JOGOK ÉRVÉNYESÍTÉSE IRÁNT INDÍTOTT PEREK
 
 #### 133. Közös szabályok
@@ -5820,11 +5890,7 @@ Ha a perfelvételi tárgyaláson a felek személyesen vagy képviselőik útján
 
 (2) Ha a munkajogi anyagi jogszabályok e törvény rendelkezéseitől eltérően határozzák meg a bizonyítási érdek tartalmát, az az anyagi jogszabályok szerint alakul.
 
-#### 523. § [Felülvizsgálat]
-
-(1) Nincs helye felülvizsgálatnak, ha a felülvizsgálati kérelemben vitatott érték, illetve annak a 21. § (1)–(4) bekezdése alapján, továbbá a 21. § (5) bekezdésének az egyesített perekre történő megfelelő alkalmazásával megállapított értéke a teljes munkaidőre megállapított kötelező legkisebb havi munkabér (minimálbér) ötszörösét nem haladja meg.
-
-(2) Ha a felülvizsgálatnak az (1) bekezdés alapján nem lenne helye – ugyanakkor törvény a felülvizsgálatot más okból nem zárja ki – a felülvizsgálati kérelem befogadását a Kúria kivételesen engedélyezheti a 409. § (2) bekezdésében foglalt okokra tekintettel.
+#### 523. §
 
 #### 524. § [Perújítás]
 
@@ -6829,6 +6895,7 @@ kapcsolatban, vagy
 - l) – az adópolitikáért felelős miniszterrel egyetértésben – az ítéletről és az ítélettel szembeni perorvoslat során hozott, az alsóbb fokú bíróságot új eljárásra és új határozat hozatalára utasító végzésről adott anonimizált másolat bíróságnak fizetendő díjára,
 - m) – a foglalkoztatáspolitikáért felelős miniszterrel egyetértésben – a munkavállalói költségkedvezmény vonatkozásában az 525. §-ban meghatározott mértékre, valamint a költségkedvezmény érvényesítésének eljárási szabályaira,
 - n) az eljárás anyagát rögzítő felvétel hitelesítésére, megtekintésére, illetve meghallgatására, az arról történő másolat készítésére és kiadására, valamint a felvétel tárolására, őrzésére és törlésére
+- o) a polgári per tárgyalásán online hallgatóságként történő részvételre
 
 vonatkozó részletes szabályokat rendeletben állapítsa meg.
 
