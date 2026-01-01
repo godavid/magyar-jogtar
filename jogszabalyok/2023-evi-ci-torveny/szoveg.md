@@ -453,7 +453,23 @@ j) a Kormány által rendeletben meghatározott egyéb regisztrált adathasznos�
 
 #### 19. Nemzeti Adatplatform szolgáltatás
 
-#### 29. §
+29. § (1) A Nemzeti Adatplatform szolgáltatás magában foglalja
+
+- a) adatok eredeti formában – személyes és védett adatok esetében személytelenített formában – történő átvételét és informatikai platformon történő tárolását;
+- b) előfeldolgozáshoz, adatrendezéshez, adattisztításhoz szükséges adattárhely biztosítását;
+- c) adatelemzéshez szükséges adatok tárolásának biztosítását;
+- d) tartós megőrzésű adatok – különösen idősoros elemzésekbe vonható adatok – tárolására alkalmas adattárhely biztosítását;
+- e) a 30. alcím szerinti felügyelt távoli elérés szolgáltatás biztosításához szükséges információ-technológiai megoldás biztosítását.
+
+(2) A Nemzeti Adatplatform szolgáltatás közvetlen számítógépes kapcsolaton érhető el.
+
+(3) A Nemzeti Adatplatform szolgáltatást kizárólag a NAVÜ nyújtja.
+
+(4) az (1) bekezdés e) pontja szerinti információtechnológiai megoldás keretében a Nemzeti Adatplatform szolgáltatás nyújtója a 30. alcím szerinti felügyelt távoli elérés szolgáltatást nyújtó szolgáltatók részére olyan adattárolási és programfuttatási megoldást biztosít, amely keretében azok teljes körű felügyeletet gyakorolhatnak a biztosított információtechnológiai megoldásra, beleértve annak meghatározását, hogy
+
+- a) a felügyelt távoli elérés szolgáltatás igénybevételére ki jogosult,
+- b) a felügyelt távoli elérés szolgáltatást az igénybe vevő milyen módon érheti el, valamint
+- c) a felügyelt távoli elérés szolgáltatás igénybe vevője milyen tevékenységet végezhet a felügyelt távoli elérés szolgáltatáshoz biztosított információtechnológiai megoldáson.
 
 #### 20. Adatok összekészítése szolgáltatás
 
@@ -462,7 +478,7 @@ j) a Kormány által rendeletben meghatározott egyéb regisztrált adathasznos�
 (2) A NAVÜ a szolgáltatás teljesítéséhez szükséges adatokra kiterjedően
 
 - a) közvetlen vagy másolati példányban a szolgáltatás igénylője számára hozzáférhetővé teszi az általa tárolt, illetve az általa külső forrásból közvetlenül hozzáférhető adatokat;
-- b)
+- b) közvetlen vagy másolati példányban hozzáférhetővé teszi a szolgáltatás igénylője számára a Nemzeti Adatplatformon keresztül hozzáférhető adatokat;
 - c) a 23. és 24. alcímben meghatározottak szerint további adatokat kér az adatkezelő közfeladatot ellátó szervektől.
 
 #### 21. Adat-összekapcsolási szolgáltatás
@@ -650,17 +666,33 @@ igénybevételét.
 
 (2) Az elemzési célú hozzáférés biztosítása szolgáltatás nyújtója a rendelkezésre bocsátható adatokat olyan formában teszi hozzáférhetővé, hogy azokon közvetlen műveleteket lehessen végrehajtani, és az igénylő az általa végzett adatelemzés eredményéhez elektronikus formában közvetlenül hozzáférhessen.
 
-(3)
+(3) Az elemzési célú hozzáférés biztosítása szolgáltatás nyújtója online elérhető adatelemzési eszközt is biztosíthat az igénylő számára a szolgáltatás által hozzáférhetővé tett adatokkal és az igénylő saját adataival elemzési feladatok elvégzésére.
 
 #### 29. Kutatószoba-szolgáltatás
 
-#### 52. §
+52. § (1) A NAVÜ a személyes és védett adatok biztonságos feldolgozására alkalmas, az adatkormányzási rendelet 2. cikk 20. pontjában meghatározott biztonságos adatkezelési környezetet (a továbbiakban: kutatószoba-szolgáltatás) nyújthat.
 
-#### 53. §
+(2) A kutatószoba-szolgáltatás nyújtója (ezen alcím alkalmazásában a továbbiakban: szolgáltató) az adatokhoz való hozzáférést olyan informatikai rendszeren keresztül biztosítja, amely megőrzi az alkalmazott biztonságos adatkezelési környezet műszaki rendszerei működésének integritását.
+
+(3) A kutatószoba-szolgáltatást csak előzetesen regisztrált, engedélyezett természetes személyek vehetik igénybe.
+
+(4) Csak személytelenített adatok bocsáthatók a kutatószoba-szolgáltatást igénybe vevők rendelkezésre.
+
+(5) A kutatószobában elérhetővé tett adatokhoz további adatot csak a szolgáltató adhat hozzá.
+
+53. § (1) A szolgáltató a kutatószobában a felhasználó által végzett adatkezelés folyamatát, módszereit és eredményeit a személyes adat és a szakmai titok védelme érdekében – az adatok további felhasználása célú igénybevétel esetén – az adatkormányzási rendelet 5. cikk (4) bekezdésében meghatározottak szerint ellenőrizni köteles.
+
+(2) Nem adható ki a kutatószoba-szolgáltatás keretében olyan eredmény, amely lehetővé teszi közvetlenül vagy közvetetten az érintett személy azonosítását.
 
 #### 30. Felügyelt távoli elérés szolgáltatás
 
-#### 54. §
+54. § (1) A NAVÜ felügyelt távoli elérés szolgáltatást nyújthat.
+
+(2) A felügyelt távoli elérés szolgáltatás nyújtója a felügyelt távoli elérés szolgáltatás keretében az adatokhoz való hozzáférést és azok további felhasználását távoli rendszereléréssel biztosítja biztonságos adatkezelési környezetben.
+
+(3) Felügyelt távoli elérés szolgáltatás kizárólag védett informatikai kapcsolaton keresztül nyújtható.
+
+(4) A felügyelt távoli elérés szolgáltatásra egyebekben a kutatószoba-szolgáltatás igénybevételére vonatkozó szabályokat kell alkalmazni.
 
 #### 31. Az adatkormányzási rendelet szerinti adatközvetítővel való kapcsolattartás szolgáltatás
 
@@ -698,11 +730,37 @@ eljárásban.
 
 #### 33. Az adathasznosítás-támogatási szolgáltatások iránti igény teljesítése egyszerűsített eljárásban
 
-#### 60. §
+60. § (1) Az adatokhoz való azonnali hozzáférést, továbbá valamely informatikai szolgáltatás közvetlen elérését biztosító egyszerűsített eljárás alkalmazható azon adatkészletek rendelkezésre bocsátása és olyan informatikai alkalmazások elérése során, amelyek esetében felhasználási feltételek és engedélyek elfogadása szükséges, de ezen felül nincs olyan ismert ok, amely az adat rendelkezésre bocsátásának vagy az informatikai alkalmazás elérésnek egyedi díjhoz kötését indokolná, továbbá ha jogszabály az adatok ingyenes, bárki számára hozzáférhetővé tételét írja elő.
+
+(2) Az egyszerűsített igénybevételi eljárás alkalmazható
+
+- a) adathasznosítást támogató alkalmazások közvetlen elérhetővé tételére, különösen adatokhoz adatvizualizációs alkalmazások keretében biztosított hozzáférésre,
+- b) előzetes megállapodás vagy jogszabály alapján az igénylő számára elektronikus formában közvetlenül hozzáférhetővé tehető adatok rendelkezésre bocsátására,
+- c) ingyenes, teljesen automatizált szolgáltatások elérésének biztosítására, valamint
+- d) a Nemzeti Adatplatformon tárolt adatok rendelkezésre bocsátására.
+
+(3) Egyszerűsített eljárásban a Nemzeti Közadatportálon közzétett általános szerződési feltételek elektronikus felületen történő elfogadását az igény benyújtásának kell tekinteni.
+
+(4) A (3) bekezdés szerinti igénybenyújtás esetén a Nemzeti Közadatportál az igényelt adatokhoz az igénylő számára az igénylési (informatikai) munkamenetben hozzáférést biztosít, vagy a hozzáféréshez szükséges paramétereket rendelkezésére bocsátja.
 
 #### 34. Az adathasznosítás-támogatási szolgáltatások iránti igény teljesítése automatizált eljárásban
 
-#### 61. §
+61. § (1) Automatizált eljárás alkalmazható olyan adatok rendelkezésre bocsátása vagy alkalmazások elérése iránti igények esetében, amelyek esetében a rendelkezésre bocsátás feltételeinek teljesülése előre meghatározott algoritmus alkalmazásával eldönthető.
+
+(2) Az automatizált eljárásban alkalmazott döntési szabályokat a Nemzeti Közadatportálon előzetesen közzé kell tenni.
+
+(3) Automatizált eljárásban az igényeket olyan elektronikus űrlapon kell előterjeszteni, amely teljes egészében gépi úton is kiértékelhető mezőket tartalmaz.
+
+(4) A szolgáltató a (3) bekezdés szerinti elektronikus űrlapon benyújtott igényt – ha ennek egyéb, jogszabályban meghatározott feltételei fennállnak – a továbbiakban a Dáptv. 21. §-a szerinti automatikus döntéshozatali eljárás keretében bírálja el.
+
+(5) Amennyiben az igény automatizált eljárás keretében elbírálható és fizetési kötelezettség nélkül is teljesíthető, az igényelt adatok rendelkezésre bocsátása, valamint az adatokhoz, alkalmazásokhoz és egyéb szolgáltatásokhoz való hozzáférés automatizált formában is engedélyezhető.
+
+(6) Fizetési kötelezettséggel járó igény esetén az adatok (5) bekezdés szerinti automatizált rendelkezésre bocsátása, valamint az egyes alkalmazásokhoz és szolgáltatásokhoz való automatizált hozzáférés biztosítása akkor alkalmazható, ha
+
+- a) az igénylő a fizetési kötelezettségét a Nemzeti Közadatportálon a Dáptv.-ben nevesített fizetési szolgáltatás keretében teljesíti, és
+- b) a fizetés a fizetési szolgáltató visszajelzése szerint sikeres.
+
+(7) Ha az igény elbírálása az (1) bekezdés szerinti döntési algoritmus alapján nem teljesíthető, az ezzel kapcsolatos szolgáltatói tájékoztatásnak az elutasítás okát tartalmaznia kell.
 
 ### VI. Fejezet — A NEMZETI ADATVAGYON KÖRÉBE TARTOZÓ, NEM SZEMÉLYES ÉS NEM VÉDETT ADATOK RENDELKEZÉSRE BOCSÁTÁSA IRÁNTI IGÉNYEK TELJESÍTÉSE ÁLTALÁNOS ELJÁRÁSBAN
 
@@ -818,7 +876,7 @@ eljárásban.
 
 (2) A 33. alcím szerinti egyszerűsített igénybevételi eljárásban a megállapodás a Nemzeti Közadatportálon közzétett általános szerződési feltételek elfogadásával jön létre.
 
-(3)
+(3) A 34. alcím szerinti automatizált igénybevételi eljárásban a megállapodás a Nemzeti Közadatportálon közzétett általános szerződési feltételek alapján az adatok kiadására vonatkozó automatikus döntéshozatali eljárásban meghozott döntés közlésével jön létre.
 
 (4) Az általános igénybevételi eljárásban megkötött további felhasználásra vonatkozó megállapodás tartalmazza legalább
 
@@ -847,11 +905,14 @@ eljárásban.
 
 71. § (1) Az igénylő – a (2) bekezdés kivételével – az igény elutasítása vagy az igény teljesítésére nyitva álló, vagy a szolgáltató által meghosszabbított határidő eredménytelen eltelte esetén, valamint a közadat további felhasználás céljából történő rendelkezésre bocsátásáért megállapított díj összegének felülvizsgálata érdekében bírósághoz fordulhat.
 
-(2)
+(2) Az automatizált eljárásban hozott döntéssel szemben a kijavítás iránti kérelem elektronikus úton az erre rendszeresített űrlapon a szolgáltatóhoz nyújtható be, amennyiben a benyújtott igény adatai alapján a közzétett automatizált eljárásban alkalmazott döntési szabályoknak nem megfelelő döntést vélelmez az igénylő. A közzétett automatizált eljárásban alkalmazott döntési szabályoktól való eltérést a beadványban tételesen meg kell jelölni.
 
-(3)
+(3) A (2) bekezdésnek nem megfelelő kérelmet a szolgáltató érdemi vizsgálat nélkül elutasítja.
 
-(4)
+(4) Automatizált eljárásban az (1) bekezdés szerint a bíróság előtt megtámadható a szolgáltató döntése, ha
+
+- a) a közzétett automatizált eljárásban alkalmazott döntési szabály jogszabályi rendelkezést sért,
+- b) a szolgáltató a (2) bekezdésben foglalt kérelmet elutasítja.
 
 72. § (1) Az igény elutasításának jogszerűségét, illetve a közadat további felhasználás céljából történő rendelkezésre bocsátásáért megállapított díj összegének megalapozottságát a szolgáltatónak kell bizonyítania.
 
@@ -978,7 +1039,17 @@ eljárásban.
 
 (2) A NAVÜ a miniszternek jelzi az esetlegesen tapasztalt eltéréseket, amellyel egyidejűleg javaslatot tesz a mulasztások orvoslására.
 
-#### 85. §
+85. § (1) A miniszter a 84. § (2) bekezdésében meghatározott esetben az alábbi fokozatos rendben tesz intézkedéseket a szabályszerű működés helyreállítása érdekében:
+
+- a) megállapítja a mulasztást és erről tájékoztatja a mulasztó szervezetet;
+- b) felhívja a mulasztó szervezetet a szabályszerű működés helyreállítására;
+- c) megkeresi a mulasztó szervezet szakmai felügyeletét ellátó hatóságot a szabályszerű működés helyreállítása érdekében;
+- d) adathasznosítási biztost delegál a mulasztó szervezethez azzal, hogy a mulasztó szervvel közösen intézkedési tervet dolgozzon ki a szabályszerű működés helyreállítása érdekében;
+- e) kijelölt vagy regisztrált szolgáltató esetében – ismételt mulasztás esetén – kezdeményezi a szolgáltató kijelölésének rendeleti úton történő visszavonását, egyidejűleg a NAVÜ-nél a szolgáltató törlését a szolgáltatók nyilvántartásából.
+
+(2) A miniszter az (1) bekezdés szerinti feladatait közjogi szervezetszabályozó eszköz útján munkaszervezetére vagy az általa felügyelt szervezetre ruházhatja.
+
+(3) Az e törvény szerinti kötelezettségek megszegése esetén alkalmazandó következmények, valamint a nemzeti adatvagyon körébe tartozó adatok további felhasználásának ösztönzése érdekében lefolytatandó szakmai felügyeleti eljárások szabályait a Kormány rendeletben állapítja meg.
 
 ### IX. Fejezet — A KULTURÁLIS KÖZADATOK TOVÁBBI FELHASZNÁLÁS CÉLJÁBÓL TÖRTÉNŐ RENDELKEZÉSRE BOCSÁTÁSÁRA VONATKOZÓ KÜLÖNÖS SZABÁLYOK
 
@@ -1064,13 +1135,17 @@ eljárásban.
 
 (3) A Központi Statisztikai Hivatal (a továbbiakban: KSH) közreműködik az egyedi statisztikai adat tovább feldolgozható, így különösen összekapcsolható formában történő bevonásában, adathasznosítás-támogatási szolgáltatás iránti igény teljesítésében. A közreműködés magában foglalja a jogszabályi kijelölés, illetve a hivatalos statisztikai szolgálat tagjával kötött egyedi megállapodás alapján egyedi statisztikai adat bekérését a hivatalos statisztikai szolgálat tagjától, valamint az igény teljesítéséhez szükséges átalakítások, így különösen összekapcsolás elvégzését.
 
-(4)
+(4) Amennyiben a NAVÜ jelzése alapján az adathasznosítás-támogatási szolgáltatás iránti igény teljesítéséhez kért egyedi statisztikai adat személyhez a továbbiakban véglegesen nem kapcsolható formában nem használható fel, különösen, ha a kért adatnak a statisztikai szolgálat rendelkezésére nem álló adatokkal történő összekapcsolására van szükség, az egyedi statisztikai adat védelmének érdekében az adatok kezelésére az (5)–(7) bekezdés szerinti előírásokat kell alkalmazni.
 
-(5)
+(5) A KSH a NAVÜ megkeresésére az egyedi statisztikai adatot a kulcsszolgáltatás igénybevételével személytelenített formában a Nemzeti Adatplatform szolgálatás által biztosított felügyelt távoli elérés szolgáltatás igénybevételével teszi hozzáférhetővé a NAVÜ számára adatelemzés elvégzéséhez.
 
-(6)
+(6) A KSH a felügyelt távoli elérés keretében a NAVÜ számára biztosítja:
 
-(7)
+- a) a személytelenített egyedi statisztikai adatok és a NAVÜ kezelésében lévő adatok bevonását adatelemzések végzésébe,
+- b) az adatok összekapcsolhatóságát, valamint
+- c) adatelemzések elvégezhetőségét.
+
+(7) A KSH a felügyelt távoli elérés szolgáltatás útján az adatelemzés eredményét is ellenőrzi, az ahhoz való hozzáférést engedélyéhez kötheti.
 
 96. § (1) A KSH a NAVÜ felkérésére közreműködik a NAVÜ által nyújtott szolgáltatások fejlesztésében és nyújtásában.
 

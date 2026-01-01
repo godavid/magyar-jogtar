@@ -263,7 +263,7 @@ igényelni, továbbá kezelni.
 - d) a kéményseprő-ipari szolgáltató ügyfélszolgálatának címét, telefonszámát, elektronikus elérhetőségét, honlapját,
 - e) a kéményseprő-ipari szolgáltató ellátási területét és a 2. § (1) bekezdése szerint ellátandó ingatlankört.
 
-(5) A (4) bekezdés szerinti nyilvántartás – a természetes személyazonosító adatok, valamint a kéményseprő-ipari szolgáltató és képviselője telefonszámának, elektronikus levélcímének kivételével – közhiteles hatósági nyilvántartásnak minősül.
+(5) A (4) bekezdés szerinti nyilvántartás – a természetes személyazonosító adatok, valamint a kéményseprő-ipari szolgáltató és képviselője telefonszámának, elektronikus levélcímének, székhelyének és telephelyének kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
 (6) A (4) bekezdés szerinti nyilvántartásba jogszabályban meghatározott szakmai, személyi, tárgyi és gazdasági feltételeknek megfelelő azon gazdálkodó szervezet vehető fel, amely a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott módon kérte a nyilvántartásba történő felvételét. A (4) bekezdés szerinti nyilvántartásba fel nem vett gazdálkodó szervezet kéményseprő-ipari tevékenységet nem végezhet.
 

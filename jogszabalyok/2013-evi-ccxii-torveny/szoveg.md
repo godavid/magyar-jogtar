@@ -1186,11 +1186,11 @@ súlyos eljárási jogszabálysértésnek minősül, ezért az eljárásban hozo
 
 ### XIII. Fejezet — FÖLDHASZNÁLATI NYILVÁNTARTÁS
 
-93. § A földhasználati nyilvántartás az érintett föld használatával kapcsolatban bejegyzett adatokra vonatkozóan – a természetes személyazonosító és lakcím-azonosító adatok, valamint a gazdálkodó szervezetek esetében az azonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+93. § A földhasználati nyilvántartás az érintett föld használatával kapcsolatban bejegyzett adatokra vonatkozóan – a személyiadat- és lakcímnyilvántartásban, valamint az ingatlan-nyilvántartásban szereplő közhiteles adatok, gazdálkodó szervezetek esetében a székhely és az azonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
 94. § (1) Az ingatlanügyi hatóság a mező- és erdőgazdasági hasznosítású földek – ide nem értve az erdő művelési ágban nyilvántartott földrészleteket – használatáról és a földhasználókról a közhiteles ingatlan-nyilvántartás adataira épülő, de attól elkülönülő, önálló nyilvántartást vezet. A földhasználati nyilvántartás tartalmazza
 
-- a) a földrészlet ingatlan-nyilvántartási adatait;
+- a) a földhasználó által használt földterület adatait;
 - b) a földrészlet (alrészlet) vagy földrészletek természetes személy földhasználójának
   - ba) természetes személyazonosító adatait,
   - bb) lakcímét,
@@ -1348,7 +1348,7 @@ elektronikus dokumentumként elektronikusan feldolgozható formában adatot szol
 
 ### XIV. Fejezet — A FÖLDMŰVESEK, A MEZŐGAZDASÁGI TERMELŐSZERVEZETEK ÉS A MEZŐGAZDASÁGI ÜZEMKÖZPONTOK NYILVÁNTARTÁSA
 
-100. § (1) A föld tulajdonjoga vagy a földhasználati jogosultság megszerzésének a hatósági jóváhagyása iránti eljárásban, továbbá a szerzési korlátozások hatósági ellenőrzése során, az e feladatkörébe tartozó ügy elbírálása, ellenőrzése érdekében a mezőgazdasági igazgatási szerv a földművesekről, a mezőgazdasági termelőszervezetekről és a mezőgazdasági üzemközpontokról nyilvántartást vezet, amely – a természetes személyazonosító és lakcím-azonosító adatok, valamint a gazdálkodó szervezetek esetében az azonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+100. § (1) A föld tulajdonjoga vagy a földhasználati jogosultság megszerzésének a hatósági jóváhagyása iránti eljárásban, továbbá a szerzési korlátozások hatósági ellenőrzése során, az e feladatkörébe tartozó ügy elbírálása, ellenőrzése érdekében a mezőgazdasági igazgatási szerv a földművesekről, a mezőgazdasági termelőszervezetekről és a mezőgazdasági üzemközpontokról nyilvántartást vezet, amely – a személyiadat- és lakcímnyilvántartásban, valamint az ingatlan-nyilvántartásban szereplő közhiteles adatok, a gazdálkodó szervezetek esetében a székhely és az azonosító adatok, továbbá a mezőgazdasági üzemközpont esetén az azon fennálló használat jogcíme kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
 (2) A nyilvántartásbavétel iránti eljárás a földműves, illetve a mezőgazdasági termelőszervezet kérelmére indul.
 
@@ -1372,7 +1372,7 @@ elektronikus dokumentumként elektronikusan feldolgozható formában adatot szol
   - bg) kényszerhasznosítóként való jelentkezésének tényét;
   - bh) adószámát;
 - c) a mezőgazdasági üzemközpont esetén
-  - ca) az üzemközpont fekvése szerinti ingatlan helyrajzi számát, a fekvése szerinti településnek, és az ingatlan fekvésének a megjelölését,
+  - ca) az üzemközpont helyét,
   - cb) azt, hogy a földművesnek, illetve a mezőgazdasági termelőszervezetnek az ingatlanon tulajdonjoga, haszonélvezeti joga, vagyonkezelői joga, vagy használati joga áll fenn, és
   - cc)
 

@@ -656,7 +656,7 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával az érintett kö
 
 (5)
 
-(6) Az élettársi nyilvántartás közhitelesen tartalmazza az élettársaknak a (4) bekezdés b)–e) pontjaiban foglalt adatait.
+(6) Az élettársi nyilvántartás a (4) bekezdés b)–e) pontjában meghatározott adatokat – a bejegyző közjegyző székhelye kivételével – közhitelesen tartalmazza.
 
 (7) Az élettársi nyilvántartás az adatokat az élettársi kapcsolat fennállásáról szóló nyilatkozat bejegyzésének időpontjától számított 100 évig tartalmazza.
 
@@ -713,7 +713,7 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával az érintett kö
 
 a nyilvántartás vezetésére és az abból történő adatszolgáltatásra vonatkozó rendeletben meghatározott részletes szabályok szerint vezeti.
 
-(4) A nyilvántartás – ellenkező bizonyításig – közhitelesen tanúsítja, hogy az abba bejegyzett vagyonjogi szerződés fennáll.
+(4)
 
 36/I. § (1) A vagyonjogi szerződésnek a nyilvántartásba történő bejegyzése iránti, továbbá a vagyonjogi szerződés módosítása, törlése, megszüntetése vagy megszűnése tényének bejegyzése iránti kérelmet a közjegyzőnél kell előterjeszteni. A kérelemhez csatolni kell a vagyonjogi szerződést, illetve az annak módosításáról, törléséről, megszüntetéséről vagy megszűnéséről szóló okiratot.
 
@@ -749,6 +749,8 @@ a nyilvántartás vezetésére és az abból történő adatszolgáltatásra von
 - d) a közjegyző nevét, székhelyét és a bejegyzés ügyszámát, továbbá a bejegyzés időpontját,
 - e) a szerződés megszüntetése vagy megszűnése esetében ennek tényét és a bejegyző közjegyző nevét, székhelyét és a bejegyzés ügyszámát, továbbá a bejegyzés időpontját.
 - f) azt, hogy az anyakönyvi bejegyzés szerint az élettársi kapcsolat vagy a házasság a kérelmezők bármelyikének halála miatt megszűnt.
+
+(1a) A nyilvántartás az (1) bekezdés a) és c)–f) pontja tekintetében – a bejegyző közjegyző székhelye kivételével – közhiteles.
 
 (2) A nyilvántartás adatairól közigazgatási hatóság, közigazgatási szerv, bíróság, bírósági végrehajtó, ügyészség, nyomozó hatóság, előkészítő eljárást folytató szerv, terrorizmust elhárító szerv, nemzetbiztonsági szolgálat, továbbá a közjegyző tevékenységének szakmai felügyeletét ellátó szerv az országos kamarától közvetlen hozzáféréssel adatot igényelhet. Az adatigénylés megkezdésekor az annak alapjául szolgáló eljárás tárgyát és ügyszámát, az igényelt adat tekintetében az adatigénylőt az ügy elbírálásához, továbbá jogosultság, illetve kötelezettség fennállásának ellenőrzéséhez az adatkezelésre feljogosító törvényi rendelkezést, valamint az adott személy beazonosításához szükséges valamennyi adatot elektronikus úton az országos kamara rendszere számára rendelkezésre kell bocsátani.
 

@@ -134,6 +134,8 @@ Ennek érdekében az Országgyűlés a következő törvényt alkotja:
 
 (8) A kamara felügyeletet ellátó szervként a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet végzők részére kiadja a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény, valamint az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló törvény szerinti, kötelező jellegű útmutatót. Az útmutató részét képező egységes szabályzatot a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet végzők az előző törvények szerinti belső szabályzatként fogadhatják el.
 
+(9) A 33. § (4) bekezdése, a 44. § (3) bekezdése, a 70. § (2) bekezdése és a 72. § (2) bekezdése szerinti adatoknak, valamint a 158. § (1) bekezdése szerinti információknak az egységes európai hozzáférési ponton való hozzáférhetővé tétele céljából az (EU) 2023/2859 európai parlamenti és tanácsi rendelet (a továbbiakban: ESAP rendelet) szerinti gyűjtőszervezetként a kamara jár el az ESAP rendelet előírásainak alkalmazásával.
+
 ### Kamarai hatósági eljárások
 
 5. § Az általános közigazgatási rendtartásról szóló törvény rendelkezéseit kell alkalmazni – az e törvényben foglaltak figyelembevételével – a következő ügyekben:
@@ -221,9 +223,11 @@ Ennek érdekében az Országgyűlés a következő törvényt alkotja:
 
 9/E. § (1) Az 537/2014/EU európai parlamenti és tanácsi rendelet (a továbbiakban: Rendelet) alkalmazásában a közfelügyeleti hatóság minősül illetékes hatóságnak.
 
-(2) A közfelügyeleti hatóság a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység folytatásához szükséges igazolással vagy engedéllyel kapcsolatos eljárás, a minősítési eljárás, a bank könyvvizsgálatához szükséges igazolással kapcsolatos eljárás, a 117. § (2) és (4) bekezdéseiben meghatározott közfelügyeleti hatóság egyetértéséhez kapcsolódó eljárások, a minőségellenőrzési eljárás, a rendkívüli minőségellenőrzési eljárás, a 172/A. § szerinti fellebbezési eljárás, a 189. § (1) bekezdés szerinti eljárások, a 195. § (1) bekezdése szerinti eljárás és a kamara feletti közfelügyeleti törvényességi felügyeleti eljárás lefolytatása érdekében kezeli az eljárásban részt vevő természetes személyek azonosítására szolgáló természetes személyazonosító adatokat, továbbá a tényállás tisztázásához, valamint az eljárás megindítását megalapozó körülmények vizsgálatához szükséges személyes adatokat és az eljárással összefüggésben keletkezett adatokat.
+(2) A közfelügyeleti hatóság a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység folytatásához szükséges igazolással vagy engedéllyel kapcsolatos eljárás, a minősítési eljárás, a 117. § (2) és (4) bekezdéseiben meghatározott közfelügyeleti hatóság egyetértéséhez kapcsolódó eljárások, a minőségellenőrzési eljárás, a rendkívüli minőségellenőrzési eljárás, a 172/A. § szerinti fellebbezési eljárás, a 189. § (1) bekezdés szerinti eljárások, a 195. § (1) bekezdése szerinti eljárás és a kamara feletti közfelügyeleti törvényességi felügyeleti eljárás lefolytatása érdekében kezeli az eljárásban részt vevő természetes személyek azonosítására szolgáló természetes személyazonosító adatokat, továbbá a tényállás tisztázásához, valamint az eljárás megindítását megalapozó körülmények vizsgálatához szükséges személyes adatokat és az eljárással összefüggésben keletkezett adatokat.
 
 (3) A közfelügyeleti hatóság a tudomására jutott adatokat nyilvántartja és megőrzi. A közfelügyeleti hatóság a (2) bekezdés szerinti eljárásokkal összefüggésben kezelt személyes adatot annak a naptári évnek az utolsó napjától számított 10 évig tartja nyilván, amelyben a (2) bekezdés szerinti eljárás lezárásra került.
+
+(4) A 193. § (6) bekezdése és a Rendelet 13a. cikke szerinti információknak az egységes európai hozzáférési ponton való hozzáférhetővé tétele céljából az ESAP rendelet szerinti gyűjtőszervezetként a közfelügyeleti hatóság jár el az ESAP rendelet előírásainak alkalmazásával.
 
 9/F. § (1) Az ügyfél kérelmére indított közfelügyeleti hatóság által lefolytatott eljárásért – a (2) bekezdés kivételével – az ügyfélnek igazgatási szolgáltatási díjat kell fizetnie. Az igazgatási szolgáltatási díj a közfelügyeleti hatóság bevétele. Az igazgatási szolgáltatási díj fizetésének részletes szabályait a miniszter rendeletben állapítja meg.
 
@@ -233,7 +237,7 @@ Ennek érdekében az Országgyűlés a következő törvényt alkotja:
 - b) a 35. § szerinti engedélyezési eljárásért, engedély visszavonásáért,
 - c) a 49. § szerinti minősítés visszavonására irányuló kérelem elbírálásáért, és
 - d) a 68. § (1) bekezdés szerinti engedély kiadásáért, visszavonásáért,
-- e) az 50. § (2c) bekezdés szerinti igazolás kiadásáért.
+- e)
 
 (3) A közfelügyeleti hatóság által lefolytatott hatósági eljárásokban az ügyfelek elektronikus ügyintézésre kötelezettek.
 
@@ -502,7 +506,7 @@ Isten engem úgy segéljen!”
 
 ### A kamarai tag könyvvizsgálók nyilvántartása, az adatok nyilvánossága
 
-32. § (1) A kamarai tag könyvvizsgálók nyilvántartásába azokat a természetes személyeket kell bejegyezni, akiket a kamara e törvény rendelkezései szerint tagjai közé felvett. A kamarai tag könyvvizsgálók nyilvántartása közhiteles nyilvántartásnak minősül.
+32. § (1) A kamarai tag könyvvizsgálók nyilvántartásába azokat a természetes személyeket kell bejegyezni, akiket a kamara e törvény rendelkezései szerint tagjai közé felvett. A kamarai tag könyvvizsgálók nyilvántartása a 33. § (1) bekezdés a), b) és h)–t) pontjában foglalt adatok tekintetében közhiteles nyilvántartásnak minősül.
 
 (2) A kamara a nyilvántartást központilag vezeti.
 
@@ -527,7 +531,7 @@ Isten engem úgy segéljen!”
 - m) a szakmai továbbképzéssel, a minőségbiztosítással, valamint a tagdíjfizetéssel kapcsolatos adatok, továbbá
 - n) nyilvántartási szám és a nyilvántartásba vételt végző hatóság neve, ha az Európai Gazdasági Térség más államában is nyilvántartásba vették jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátására jogosult könyvvizsgálóként,
 - o) a nyilvántartásba vételt végző hatóság neve és – ha van – a nyilvántartási szám, amennyiben harmadik országban könyvvizsgálóként nyilvántartásba vették,
-- p) az 50. § (2c) bekezdése szerinti igazolás megszerzésének időpontja, illetve érvényességének időtartama,
+- p)
 - q) az IFRS minősítéshez kapcsolódó szakmai minősítő vizsga követelményeinek való megfelelésre vonatkozó igazolás, valamint a számviteli törvény 10. § (6) bekezdés b) pontja szerinti IFRS mérlegképes könyvelői szakképesítés-ráépülést igazoló bizonyítvány száma, kelte és a kiállító intézmény neve,
 - r) a 11. § (1a) bekezdés szerinti egyéni vállalkozói jogviszony fennállása,
 - s) a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység végzéséhez szükséges igazolás megadásáról, valamint visszavonásáról szóló hatósági döntések.
@@ -648,7 +652,7 @@ Isten engem úgy segéljen!”
 
 ### A könyvvizsgáló cégek nyilvántartása, az adatok nyilvánossága
 
-43. § (1) A könyvvizsgáló cégek nyilvántartásába azt a gazdálkodó szervezetet (szervezetet) kell bejegyezni, amelynek e törvény rendelkezései szerint engedélyezett a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység végzése. A könyvvizsgálói cégek nyilvántartása közhiteles nyilvántartásnak minősül.
+43. § (1) A könyvvizsgáló cégek nyilvántartásába azt a gazdálkodó szervezetet (szervezetet) kell bejegyezni, amelynek e törvény rendelkezései szerint engedélyezett a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység végzése. A könyvvizsgálói cégek nyilvántartása a 44. § (1) bekezdés a), b), g), h) és l)–s) pontjában foglalt adatok, valamint a 44. § (1) bekezdés k) pontja szerint a könyvvizsgálói hálózati tagság tekintetében közhiteles nyilvántartásnak minősül.
 
 (2) Az (1) bekezdés szerinti nyilvántartásra megfelelően alkalmazni kell a 32. § (2)–(4) bekezdésének előírásait is.
 
@@ -670,7 +674,7 @@ Isten engem úgy segéljen!”
 - n) nyilvántartási szám és a nyilvántartásba vételt végző hatóság neve, ha az Európai Gazdasági Térség más államában is nyilvántartásba vették könyvvizsgáló cégként,
 - o) a nyilvántartásba vételt végző hatóság neve és – ha van – a nyilvántartási szám, amennyiben harmadik országban könyvvizsgáló gazdálkodóként nyilvántartásba vették,
 - p) a kérelemben megjelölt Európai Gazdasági Térség államának illetékes hatóságának neve és – ha van – a könyvvizsgáló cég kérelemben megjelölt nyilvántartási száma, ha a könyvvizsgáló céget a 35/A. § alapján vették nyilvántartásba, valamint annak feltüntetése, hogy az Európai Gazdasági Térség állama illetékes hatóságának nyilvántartása szerint jogosult-e fenntarthatósági jelentésre vonatkozó bizonyosság nyújtására,
-- q) az 50. § (2c) bekezdése szerinti igazolás megszerzésének időpontja, illetve érvényességének időtartama,
+- q)
 - r) a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység végzéséhez szükséges engedély megadásáról, valamint visszavonásáról szóló hatósági döntések.
 - s) az elektronikus aláírás azonosító száma és érvényességének kezdő és lejárati dátuma.
 
@@ -759,7 +763,7 @@ előírásai szerint jár el.
 
 (1c) A 49. § szerinti minősítés iránti kérelem tárgyában a közfelügyeleti hatóság a kérelem beérkezésétől számított 60 napon belül dönt.
 
-(1d) Ha a 49. § szerinti minősítés iránti kérelem, valamint az 50. § (2c) bekezdés szerinti igazolás iránti kérelem a közfelügyeleti hatóságnak az adott üggyel szorosan összefüggő más hatósági döntése nélkül megalapozottan nem bírálható el, vagy ha a döntéshez szükséges előkérdés megválaszolása más szerv hatáskörébe tartozik, a közfelügyeleti hatóság az eljárást felfüggeszti.
+(1d) Ha a 49. § szerinti minősítés iránti kérelem a közfelügyeleti hatóságnak az adott üggyel szorosan összefüggő más hatósági döntése nélkül megalapozottan nem bírálható el, vagy ha a döntéshez szükséges előkérdés megválaszolása más szerv hatáskörébe tartozik, a közfelügyeleti hatóság az eljárást felfüggeszti.
 
 (2) Kérelem alapján minősítést (ide nem értve a 49/A. § h) pontja szerinti minősítést) a kamarai tag könyvvizsgáló akkor kaphat, ha igazolja, hogy a minősítés megadása iránti kérelem benyújtását megelőző 5 éven belül
 
@@ -767,17 +771,13 @@ előírásai szerint jár el.
 - b) legalább három éven vagy három üzleti éven át jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet végzett és a kérelmezett minősítéssel egyező minősítéssel rendelkező kamarai tag könyvvizsgáló mellett legalább két évig vagy két üzleti éven át közreműködött olyan gazdálkodó tekintetében a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátásában, amelyre vonatkozóan jogszabály a kérelmezett minősítés meglétét előírja, vagy
 - c) legalább három éven vagy három üzleti éven át jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet végzett – vagy IFRS minősítés esetén legalább három éven vagy három üzleti éven át közreműködött kamarai tag könyvvizsgáló mellett jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátásában – és rendelkezik a kérelmezett minősítésre előírt szakmai minősítő vizsgával, vagy azzal egyenértékű vizsgával.
 
-(2a) A kamarai tag könyvvizsgáló a Hpt. 8. § (4) bekezdése szerinti hitelintézetnél (a továbbiakban: bank) pénzügyi intézményi minősítés birtokában is csak akkor végezhet a 3. § (1) bekezdés a) pontja szerinti jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet, ha rendelkezik a közfelügyeleti hatóság által elismert, a feltételek teljesülésének igazolása iránti kérelem benyújtását megelőző 5 éven belüli:
+(2a)
 
-- a) a (2) bekezdés a) pontja szerinti banknál végzett számviteli, ellenőrzési gyakorlattal, vagy
-- b) legalább egy üzleti évre kiterjedően banknál végzett 3. § (1) bekezdés a) pontja szerinti jogszabályi kötelezettségen alapuló könyvvizsgálói gyakorlattal, vagy
-- c) a (2) bekezdés b) pontja szerint a pénzügyi intézményi minősítésű kamarai tag könyvvizsgáló mellett banknál végzett jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátásában való közreműködéssel.
+(2b)
 
-(2b) Könyvvizsgáló cég banknál pénzügyi intézményi minősítés birtokában is csak akkor végezhet a 3. § (1) bekezdés a) pontja szerinti jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet, ha van legalább egy olyan kamarai tag könyvvizsgáló tagja vagy munkavállalója, aki a könyvvizsgáló cég nevében jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet végez, és rendelkezik a (2a) bekezdés szerinti feltételek teljesülésének elismeréséről szóló igazolással.
+(2c)
 
-(2c) A (2a) és (2b) bekezdés szerinti feltételek teljesülésének elismeréséről a közfelügyeleti hatóság igazolást állít ki, és az igazolásról szóló döntés véglegessé válásával egyidejűleg értesíti a kamarát. A feltételek teljesülésének elismerését a kamara rögzíti a kamarai nyilvántartásokban, és közzéteszi a honlapján.
-
-(2d) A (2c) bekezdés szerinti igazolás, a kiállításának naptári évét követő naptári év utolsó napjáig jogosít banknál a 3. § (1) bekezdés a) pontja szerinti jogszabályi kötelezettségen alapuló könyvvizsgálatra vonatkozó megbízás elfogadására.
+(2d)
 
 (2e) Fenntarthatósági minősítést az a kamarai tag könyvvizsgáló kaphat, aki
 
@@ -798,7 +798,7 @@ előírásai szerint jár el.
 
 (6) A minősítés megadásáról a közfelügyeleti hatóság dönt, amelyről a döntés véglegessé válását követő 30 napon belül értesíti a kamarát. A minősítést a minősítésnek megfelelő részletezésben a kamara rögzíti a közhiteles hatósági nyilvántartásnak minősülő kamarai tag könyvvizsgálókra, könyvvizsgáló cégekre vonatkozó kamarai nyilvántartásokban.
 
-(7) A minősített kamarai tag könyvvizsgálókról, könyvvizsgáló cégekről a minősítésnek megfelelő részletezésben külön – közhiteles hatósági nyilvántartásnak minősülő – nyilvántartást kell vezetni.
+(7) A minősített kamarai tag könyvvizsgálók, könyvvizsgáló cégek 49. § szerinti minősítésének adatait a 33. § (1) bekezdése és a 44. § (1) bekezdése szerinti nyilvántartások tartalmazzák.
 
 (8) A szakmai minősítő vizsga tartalmi követelményeit, az eljárási és az értékelési szabályokat a kamara külön szabályzatban határozza meg. A szakmai minősítő vizsgának legalább részben írásbeli vizsgának kell lennie.
 
@@ -2752,6 +2752,8 @@ foglalt kötelezettségeinek teljesítését (e §-ban a továbbiakban: ellenőr
 
 208/W. § A fenntarthatósági jelentésre vonatkozó bizonyosság nyújtására irányuló tevékenységet végző kamarai tag könyvvizsgálónak és a fenntarthatósági bizonyosság nyújtására irányuló megbízás minőségének áttekintését végző személynek a 2024–2026. üzleti évek tekintetében elegendő a 49/A. § h) pontja szerinti fenntarthatósági minősítéssel rendelkeznie a fenntarthatósági jelentésre vonatkozó bizonyosság nyújtására, a fenntarthatósági bizonyosság nyújtására irányuló megbízás minőségének az áttekintésére vonatkozóan, és nem szükséges a gazdálkodó könyvvizsgálatához előírt, egyéb minősítéssel rendelkeznie.
 
+208/X. § A pénzügyi közvetítőrendszert érintő törvények módosításáról szóló 2025. évi C. törvénnyel megállapított 4. § (9) bekezdése és 9/E. § (4) bekezdése szerinti információknak az egységes európai hozzáférési ponton való hozzáférhetőségét 2030. január 10-étől kell biztosítani.
+
 ### Az Európai Unió jogának való megfelelés
 
 209. § (1) E törvény
@@ -2759,10 +2761,13 @@ foglalt kötelezettségeinek teljesítését (e §-ban a továbbiakban: ellenőr
 - a) az Európai Parlament és a Tanács 2006. május 17-i, az éves és összevont (konszolidált) éves beszámolók jog szerinti könyvvizsgálatáról, a 78/660/EGK és a 83/349/EGK tanácsi irányelv módosításáról, valamint a 84/253/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2006/43/EK irányelvének,
 - b) az Európai Parlament és Tanács 2014. április 16-i, éves és összevont (konszolidált) éves beszámolók jog szerinti könyvvizsgálatáról szóló 2006/43/EK irányelv módosításáról szóló 2014/56/EU irányelvének
 - c) az Európai Parlament és a Tanács 2022. december 14-i, az 537/2014/EU rendeletnek, a 2004/109/EK irányelvnek, a 2006/43/EK irányelvnek és 2013/34/EU irányelvnek a fenntarthatósággal kapcsolatos vállalati beszámolás tekintetében történő módosításáról szóló 2022/2464/EU irányelvének
+- d) az Európai Parlament és a Tanács 2023. december 13-i, az egyes irányelveknek az egységes európai hozzáférési pont létrehozása és működése tekintetében történő módosításáról szóló (EU) 2023/2864 irányelvének
 
 való megfelelést szolgálja.
 
 (2) E törvény megállapítja az Európai Parlament és a Tanács 2014. április 16-i a közérdeklődésre számot tartó gazdálkodó egységek jogszabályban előírt könyvvizsgálatára vonatkozó egyedi követelményekről és a 2005/909/EK bizottsági határozat hatályon kívül helyezéséről szóló 537/2014/EU rendeletének végrehajtásához szükséges rendelkezéseket.
+
+(3) E törvény megállapítja az Európai Parlament és a Tanács 2023. december 13-i, a pénzügyi szolgáltatások, a tőkepiacok és a fenntarthatóság szempontjából lényeges, nyilvánosan elérhető információkhoz központosított hozzáférést biztosító egységes európai hozzáférési pont létrehozásáról szóló (EU) 2023/2859 rendeletének végrehajtásához szükséges rendelkezéseket.
 
 ### Módosuló jogszabályok és hatályon kívül helyezett rendelkezések
 

@@ -12,7 +12,13 @@ A vonatkozó felhatalmazás megadására az Országgyűlés a következő törv�
 
 2. § (1) Az Országgyűlés az Alaptörvény 51. cikk (3) bekezdése alapján felhatalmazza a Kormányt, hogy a veszélyhelyzetet 2026. május 13-ig meghosszabbítsa.
 
+(1a) Az Országgyűlés az Alaptörvény 53. cikk (1) bekezdés b) pontja alapján – figyelemmel a védelmi és biztonsági tevékenységek összehangolásáról szóló 2021. évi XCIII. törvény 80. § (2a) bekezdésére – általános jelleggel felhatalmazza a Kormányt, hogy a veszélyhelyzet ideje alatt, de legfeljebb 2026. május 13-ig, egyes törvények alkalmazását felfüggeszthesse, törvényi rendelkezésektől eltérhessen.
+
 (2) Az Országgyűlés a veszélyhelyzet ideje alatt az (1) bekezdés szerinti felhatalmazását visszavonhatja.
+
+(3) Az Országgyűlés a veszélyhelyzet ideje alatt az (1a) bekezdés szerinti felhatalmazását visszavonhatja vagy módosíthatja.
+
+(4) Az Országgyűlés az Alaptörvény 53. cikk (1) bekezdésében meghatározott jogalkotói hatáskörben megalkotott, az (1a) bekezdés hatálybalépésekor hatályban lévő kormányrendeleteket megerősíti.
 
 3. § Az Országgyűlés jóváhagyja a veszélyhelyzet során kiadott kormányrendeletek hatálybalépéséről és veszélyhelyzeti intézkedésekről szóló 425/2022. (X. 28.) Korm. rendeletet (a továbbiakban: KR2.), amellyel a Kormány az Alaptörvény 53. cikk (1) bekezdése alapján, rendkívüli intézkedésként a veszélyhelyzet kihirdetéséről szóló 478/2020. (XI. 3.) Korm. rendelet szerinti veszélyhelyzet, a veszélyhelyzet kihirdetéséről és a veszélyhelyzeti intézkedések hatálybalépéséről szóló 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet, illetve az Ukrajna területén fennálló fegyveres konfliktusra, illetve humanitárius katasztrófára tekintettel, valamint ezek magyarországi következményeinek az elhárítása érdekében veszélyhelyzet kihirdetéséről és egyes veszélyhelyzeti szabályokról szóló 180/2022. (V. 24.) Korm. rendelet szerinti veszélyhelyzet ideje alatt kiadott,
 
@@ -132,6 +138,10 @@ a 2022. október 31-én hatályos szöveggel, a KR2.-ben foglalt eltérésekkel 
 
 6. § (1) A 2. § (1) bekezdése 2026. május 14-én hatályát veszti.
 
+(1a) A 2. § (1a) bekezdése 2026. május 14-én hatályát veszti.
+
 (2) Ez a törvény a 2. § (1) bekezdése hatályvesztését követő napon hatályát veszti.
 
 7. § A 2. § (1) bekezdése és a 6. § (1) bekezdése az Alaptörvény 51. cikk (4) bekezdése alapján a jelen lévő országgyűlési képviselők kétharmadának szavazatával elfogadandó rendelkezésnek minősül.
+
+8. § A 2. § (1a) bekezdése és a 6. § (1a) bekezdése az Alaptörvény 53. cikk (1) bekezdés b) pontja alapján a jelen lévő országgyűlési képviselők kétharmadának szavazatával elfogadandó rendelkezésnek minősül.

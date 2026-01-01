@@ -150,7 +150,7 @@ a fenntartható finanszírozás és az egységes vállalati felelősségvállal�
 
 #### 4. A gazdaságfejlesztésért felelős miniszter feladatai
 
-8. § (1) A Kormány az e törvény szerinti fenntarthatósági célú átvilágítási kötelezettségekkel kapcsolatos feladatait a miniszter útján látja el.
+8. § (1) A Kormány az e törvény szerinti fenntarthatósági célú átvilágítási kötelezettségekkel kapcsolatos feladatait a gazdaságfejlesztésért felelős miniszter (a továbbiakban: miniszter) útján látja el.
 
 (2) A miniszter
 
@@ -375,7 +375,7 @@ felülvizsgálja.
 
 26. § (1) A vállalkozás ügyvezető szerve felel az ESG beszámoló e törvényben és az európai uniós jogi aktusokban előírt fenntarthatósági követelményeknek megfelelő elkészítéséért és közzétételéért.
 
-(2)
+(2) A vállalkozás fenntarthatósági célú átvilágítási kötelezettsége szerinti ESG adatszolgáltatási kötelezettség elmulasztása esetén, vagy ha az ESG beszámoló az e törvényben, illetve az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott követelményeknek nem felel meg, a Hatóság közigazgatási bírságot szab ki a vállalkozásra. A bírság mértékére, megállapításának szempontrendszerére és a bírság megfizetésének módjára vonatkozó szabályokat a Kormány rendeletben állapítja meg.
 
 27. § (1) Az 1. § (3) bekezdése szerinti szervezet az ESG adatszolgáltatási kötelezettségének ESG beszámoló készítésével vagy az ESG beszámoló mellékletét képező kérdőív vagy a Hatóság elnökének a vállalkozások fenntarthatósági célú átvilágítási kötelezettségei teljesítésének részletszabályairól szóló rendeletében meghatározott, a közvetlen szállítók részére küldendő kérdőív (a továbbiakban: szállítói kérdőív) kitöltésével tehet eleget.
 
@@ -487,28 +487,34 @@ felülvizsgálja.
 
 #### 16. ESG beszámoló nyilvántartása
 
-39. § A Hatóság a vállalkozások által készített ESG beszámolókról nyilvántartást vezet, amely a következőket tartalmazza:
+39. § (1) A Hatóság a vállalkozások által készített ESG beszámolókról nyilvántartást vezet, amely a következőket tartalmazza:
 
 - a) a vállalkozás neve, székhelye;
 - b) a vállalkozás által készített ESG beszámoló;
-- c) az ESG beszámoló ESG tanúsítványának kelte, érvényességi ideje;
-- d) az ESG tanúsítványt kiállító ESG tanúsító neve, elérhetősége.
-- e) a Hatóság elnökének rendeletében előírt további, személyes adatnak nem minősülő adatok.
+- c) az ESG beszámoló nyilvántartásba vételének időpontja;
+- d) az ESG beszámoló ESG tanúsítványának kelte;
+- e) az ESG tanúsítványt kiállító ESG tanúsító neve, elérhetősége;
+- f) a Hatóság elnökének rendeletében előírt további, személyes adatnak nem minősülő adatok.
+
+(2) Az (1) bekezdés szerinti nyilvántartás az (1) bekezdés c) és d) pontjában meghatározott adatok tekintetében közhiteles hatósági nyilvántartás.
 
 #### 17. ESG tanúsítók nyilvántartása
 
 40. § (1) A Hatóság vezeti az ESG tanúsítókról a Tanúsítók Névjegyzékét. A Tanúsítók Névjegyzéke tartalmazza:
 
 - a) az ESG tanúsító azonosításához szükséges adatokat,
-- b) ha az ESG tanúsító nem az Európai Unióban letelepedett szervezet, de Magyarország területén belül kínál szolgáltatásokat és magyarországi letelepedett képviselőt jelöl ki, a képviselő nevét vagy cégnevét, levelezési címét, telefonszámát és elektronikus levelezési címét,
-- c) a 43/B. § (1) bekezdése szerinti adatokat és dokumentumokat,
-- d) annak tényét, ha a Hatóság az ESG tanúsítót az ESG tanúsítói tevékenységtől eltiltotta,
-- e) a Hatóság elnökének rendeletében meghatározott feltételek teljesülését alátámasztó dokumentumokat, valamint
-- f) a Hatóság elnökének rendeletében előírt további, személyes adatnak nem minősülő adatokat.
+- b) az ESG tanúsító nyilvántartási számát és a Tanúsítók Névjegyzékébe történő felvételének időpontját,
+- c) ha az ESG tanúsító nem az Európai Unióban letelepedett szervezet, de Magyarország területén belül kínál szolgáltatásokat és magyarországi letelepedett képviselőt jelöl ki, a képviselő nevét vagy cégnevét, levelezési címét, telefonszámát és elektronikus levelezési címét,
+- d) a 43/B. § (1) bekezdése szerinti adatokat és dokumentumokat,
+- e) annak tényét, ha a Hatóság az ESG tanúsítót az ESG tanúsítói tevékenységtől eltiltotta,
+- f) a Hatóság elnökének rendeletében meghatározott feltételek teljesülését alátámasztó dokumentumokat, valamint
+- g) a Hatóság elnökének rendeletében előírt további, személyes adatnak nem minősülő adatokat.
 
 (1a) A Hatóság a honlapján közzéteszi az ESG tanúsítói tevékenység végzésére jogosult ESG tanúsítók (1) bekezdés a) pontja szerinti adatait.
 
 (1b) Az (1) bekezdés szerinti adatok kezelésének célja az ESG tanúsítókra vonatkozó információk naprakészen tartása, valamint a Hatóság hatósági ellenőrzési feladatainak ellátása.
+
+(1c) A Tanúsítók Névjegyzéke az (1) bekezdés b) és e) pontjában meghatározott adatok tekintetében közhiteles hatósági nyilvántartás.
 
 (2) A Tanúsítók Névjegyzékébe történő nyilvántartásba vétel feltétele
 
@@ -547,7 +553,7 @@ kell igazolnia.
 (2) A névjegyzék a természetes személy ESG tanácsadó esetén tartalmazza
 
 - 1. a tanácsadó családi és utónevét, születési családi és utónevét, születési helyét, születési idejét, anyja nevét, állampolgárságát, elérhetőségét, szakképesítését,
-- 2. a tanácsadó nyilvántartási számát,
+- 2. a tanácsadó nyilvántartási számát és névjegyzékbe történő felvételének időpontját,
 - 3. a 43/B. § (1) bekezdése szerinti adatokat és dokumentumokat,
 - 4. az akkreditált státusz hatálya kezdetének és lejártának időpontját,
 - 5. azt a tényt, hogy a természetes személy ESG tanácsadó
@@ -579,13 +585,16 @@ kell igazolnia.
   - a) a jogi személy ESG tanácsadóval legalább heti 30 órás munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban áll, vagy
   - b) a betéti társaság vagy a közkereseti társaság jogi személy ESG tanácsadó személyesen közreműködő tagja;
 - 9. a 43/B. § (1) bekezdése szerinti adatokat és dokumentumokat,
-- 10. a Hatóság elnökének rendeletében előírt további, személyes adatnak nem minősülő adatokat.
+- 10. a tanácsadó nyilvántartási számát és névjegyzékbe történő felvételének időpontját;
+- 11. a Hatóság elnökének rendeletében előírt további, személyes adatnak nem minősülő adatokat.
 
 (4) Az ESG tanácsadó a (2) vagy (3) bekezdés szerinti adatokban bekövetkező változást annak bekövetkezésétől számított 15 napon belül bejelenti a Hatóság részére.
 
 (5) Ha az ESG tanácsadó ESG tanácsadói tevékenységet már nem végez, akkor a (2) illetve (3) bekezdés szerinti adatokat a Hatóság a tevékenység befejezésének bejelentését követő öt év elteltével köteles a nyilvántartásból törölni.
 
 (6) Ha a (2) illetve (3) bekezdés szerinti adatok változását az ESG tanácsadó bejelenti, a nyilvántartásban a változás bejegyzését megelőzően szereplő adatot a Hatóság az adat változása bejegyzését követő öt év elteltével a nyilvántartásból törli.
+
+(6a) Az (1) bekezdés szerinti névjegyzék a (2) bekezdés 2., 4. és 5. pontjában, valamint a (3) bekezdés 10. pontjában meghatározott adatok tekintetében közhiteles hatósági nyilvántartás.
 
 (7) A Hatóság a honlapján közzéteszi ESG tanácsadói tevékenység végzésére jogosult ESG tanácsadók esetében az (1) bekezdés szerinti névjegyzék adatai közül
 
@@ -603,7 +612,10 @@ kell igazolnia.
 - c) a gyártó adószámát, cégjegyzékszámát,
 - d) a gyártó székhelyének címét,
 - e) a Kiberbiztonsági tv. alapján kiállított nemzeti vagy európai kiberbiztonsági tanúsítvány vagy megfelelőségi nyilatkozat meglétét igazoló dokumentumot,
-- f) a Hatóság elnökének rendeletében előírt további, személyes adatnak nem minősülő adatokat.
+- f) az ESG szoftver nyilvántartásba vételének időpontját,
+- g) a Hatóság elnökének rendeletében előírt további, személyes adatnak nem minősülő adatokat.
+
+(1a) Az (1) bekezdés szerinti nyilvántartás az (1) bekezdés f) pontjában meghatározott adat tekintetében közhiteles hatósági nyilvántartás.
 
 (2) A Hatóság a honlapján közzéteszi az (1) bekezdés szerinti nyilvántartás (1) bekezdés a)–d) pontja szerinti adatait.
 
@@ -630,7 +642,10 @@ kell igazolnia.
 - 6. az összeférhetetlenségi nyilatkozatot;
 - 7. az ESG minősítő által használt minősítési módszertan nyilvános elérhetőségének módját és helyét;
 - 8. a 43/B. § (1) bekezdése szerinti adatokat és dokumentumokat,
-- 9. a Hatóság elnökének rendeletében előírt további, személyes adatnak nem minősülő adatokat.
+- 9. az ESG minősítő nyilvántartási számát és névjegyzékbe történő felvételének időpontját;
+- 10. a Hatóság elnökének rendeletében előírt további, személyes adatnak nem minősülő adatokat.
+
+(2a) A (2) bekezdés szerinti névjegyzék a (2) bekezdés 9. pontjában meghatározott adat tekintetében közhiteles hatósági nyilvántartás.
 
 (3) A Hatóság a honlapján közzéteszi az (1) bekezdés szerinti névjegyzéknek a (2) bekezdés 1., 2. és 7. pontja szerinti adatait.
 
@@ -716,7 +731,7 @@ a jogsértővel szemben a Kormány rendeletében meghatározott mértékű közi
 
 (2) A vállalkozás vagy az 1. § (3) bekezdése szerinti szervezet a központi azonosítási ügynök szolgáltatás igénybevételével fér hozzá az ESG menedzsmentplatformhoz.
 
-(3) Az ESG menedzsmentplatform adatbázisa csak az ESG tanúsítvánnyal rendelkező beszámolók esetében közhiteles.
+(3)
 
 (4) Az állami ESG minősítő a vállalkozás és az 1. § (3) bekezdése szerinti szervezet ESG Menedzsmentplatformon tárolt ESG adataihoz hozzáférhet.
 

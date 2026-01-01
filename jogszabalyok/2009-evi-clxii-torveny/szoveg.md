@@ -40,6 +40,7 @@ a fogyasztónak nyújtott hitelről
 3. § E törvény alkalmazásában:
 
 - 1. előtörlesztés: a hitelszerződés alapján fennálló tartozás teljesítési idő előtt történő teljes vagy részleges teljesítése,
+- 1a. építményi hitel: a fogyasztó részére ingatlanon alapított társasházi építményi jogon alapított zálogjog fedezete mellett nyújtott hitel vagy kölcsön,
 - 2. fizetési számlához kapcsolódó hitelkeret-szerződés: olyan hitelszerződés, amellyel a hitelező a fogyasztó fizetési számlájának egyenlegét meghaladó összeget bocsát a fogyasztó rendelkezésére,
 - 3. fogyasztó: az önálló foglalkozása és gazdasági tevékenysége körén kívül eljáró természetes személy, valamint az értékpapír kibocsátása mellett megvalósuló zálogkölcsönnyújtás esetén a zálogtárgy birtokát hitelezőre átruházó természetes személy,
 - 4. fogyasztó által fizetendő teljes összeg: a hitel teljes összege és a hitel teljes díja,
@@ -54,7 +55,7 @@ a fogyasztónak nyújtott hitelről
 - 10. hitel teljes díja: a hitelező által ismert minden olyan – a teljes hiteldíj mutató számításánál a külön jogszabály szerint figyelembe veendő – ellenszolgáltatás, amelyet a fogyasztó a hitelszerződés kapcsán megfizet,
 - 11. hitel teljes összege: a hitelnek a hitelszerződésben meghatározott teljes összege vagy felső összeghatára,
 - 12. hiteltúllépés: fizetési számlához kapcsolódó olyan hitel, amelyet a hitelező a hitelkeret-szerződés szerinti összegét meghaladó összegben, vagy ilyen szerződés hiányában bocsát a fogyasztó rendelkezésére,
-- 13. jelzáloghitel: a fogyasztó részére ingatlanon alapított jelzálog – ideértve az önálló zálogjogként alapított zálogjogot is – fedezete mellett nyújtott hitel vagy kölcsön, ideértve a halasztott fizetés vagy más ezekhez hasonló pénzügyi megoldás formájában nyújtott kölcsönt is,
+- 13. jelzáloghitel: a fogyasztó részére ingatlanon alapított jelzálogjog – ideértve az önálló zálogjogként alapított zálogjogot is – fedezete mellett nyújtott hitel vagy kölcsön, ideértve a halasztott fizetés vagy más ezekhez hasonló pénzügyi megoldás formájában nyújtott kölcsönt is, továbbá az építményi hitel,
 - 14. kamatperiódus: a hitelszerződésben meghatározott olyan időszak, amely alatt a kamat mértékét a hitelező nem jogosult egyoldalúan megváltoztatni,
 - 15. kapcsolt hitelszerződés: olyan hitelszerződés, amely meghatározott termék értékesítéséhez vagy – a hitelnyújtástól eltérő – szolgáltatás nyújtásához kapcsolódik, ha
   - a) a hitelt maga a termék értékesítője vagy szolgáltatás nyújtója nyújtja, vagy
@@ -99,7 +100,7 @@ a fogyasztónak nyújtott hitelről
 (3) Ha a jelzáloghitelre vonatkozó kereskedelmi kommunikáció a teljes hiteldíj mutató értékén kívül hitelkamatot vagy bármilyen más ellenszolgáltatásra – ideértve a díjat, jutalékot, költséget – vonatkozó számadatot megjelöl – a (2) bekezdés a)–e) és g) pontján túl –, a kereskedelmi kommunikációban egyértelműen, tömören és feltűnően meg kell adni a következőket is:
 
 - a) a hitelező, a hitelközvetítő vagy a közvetítői alvállalkozó neve,
-- b) tájékoztatás arra vonatkozóan, hogy a hitel fedezete ingatlanra bejegyzett jelzálogjog,
+- b) tájékoztatás arra vonatkozóan, hogy a hitel fedezete ingatlanra bejegyzett jelzálogjog, vagy társasházi építményi jogra bejegyzett zálogjog,
 - c) a törlesztőrészletek száma, valamint
 - d) devizaalapú hitel esetén figyelmeztetés arra vonatkozóan, hogy az árfolyam változása befolyásolhatja a fogyasztó által fizetendő összeget.
 

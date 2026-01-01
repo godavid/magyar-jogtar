@@ -300,7 +300,13 @@ rendelkező személy.
 
 23. § Az elnököt feladatai ellátásában – a határon túli magyar ügyekben és a nemzetközi ügyekben – két alelnök segíti. Az alelnököt a közgyűlés három évre, az akadémikusok közül választja. Ha az alelnök mandátuma a megbízástól számított három éven belül megszűnik, helyére új alelnök az előző alelnök eredeti mandátumából hátralévő időre választható. Az alelnök legfeljebb egy alkalommal újraválasztható. Az alelnök újraválaszthatóságának korlátozása szempontjából nem kell figyelembe venni az alelnök azon mandátumát, amely az előző alelnök eredeti mandátumából hátralévő időre szólt.
 
-24. § (1) A főtitkárt – öt évre – a közgyűlés választja az Alapszabályban meghatározott módon. A főtitkár legfeljebb egy alkalommal újraválasztható.
+24. § (1) A főtitkárt – három évre – a közgyűlés választja az Alapszabályban meghatározott módon. A főtitkár legfeljebb egy alkalommal újraválasztható.
+
+(1a) Az elnök mandátumának megszűnése esetén a főtitkár mandátuma is megszűnik. Ha a főtitkár megválasztásakor az elnök mandátumából három évnél kevesebb van hátra, akkor a főtitkár megbízatása az elnök mandátumából hátralévő időre szól.
+
+(1b) Ha a főtitkár megbízatása – az (1a) bekezdésében foglaltaktól eltérő okból – a megbízás lejártát megelőzően szűnik meg, akkor a helyére új főtitkár az előző főtitkár eredeti mandátumából hátralévő időre választható.
+
+(1c) A főtitkár újraválaszthatóságának korlátozásánál nem kell figyelembe venni azt a főtitkári ciklust, amely – az elnök megbízásához, vagy az előző főtitkár eredeti megbízása lejáratához való igazodás okán – három évnél rövidebb ideig tartott.
 
 (2) A főtitkár vezeti a 28. § (1) bekezdésben meghatározott, az MMA működését biztosító költségvetési szervet.
 
@@ -558,6 +564,10 @@ részesült.
 30/A. § (1) A bíróság hivatalból, 2018. január 1-jei hatállyal törli nyilvántartásából az MMA közhasznú jogállására vonatkozó adatot.
 
 (2) A Módtv.-nyel megállapított 28/L. § (1) bekezdése szerinti művészjáradék legkorábban 2018. március 1-jétől állapítható meg.
+
+30/B. § (1) A Módtv.-nyel megállapított 24. § (1) bekezdésének a főtitkár három évre való megválasztásáról szóló rendelkezését első alkalommal a 2026. november 5-én hivatalba lépő főtitkár megválasztása során kell figyelembe venni, és 2026. november 5-étől kell alkalmazni.
+
+(2) A Módtv.-nyel megállapított 24. § (1a)–(1c) bekezdései rendelkezését 2026. november 5-étől kell alkalmazni.
 
 30/C. § (1) A felsőoktatás szabályozására vonatkozó és egyes kapcsolódó törvények módosításáról szóló 2020. évi CXLVIII. törvénnyel (a továbbiakban: Módtv2.) módosított 28/L. § (1) bekezdését, valamint a Módtv2.-vel megállapított 28/M. § (2) bekezdését a Módtv2. hatálybalépését követően indult művészjáradék megállapítása iránti ügyekben és a megismételt eljárásokban kell alkalmazni.
 

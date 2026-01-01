@@ -2027,7 +2027,7 @@ továbbítható.
 
 (7) Nem keletkeztet összeférhetetlenséget a nemzetközi közigazgatási szakértői tevékenység, ha a kormánytisztviselő és a digitális megoldások exportjával és programjának fejlesztésével összefüggő feladatok koordinációját ellátó szervezet közötti, erre irányuló megállapodást a munkáltatói jogkör gyakorlója előzetesen engedélyezte és a tevékenység időtartama tárgyévenként a hat hónapot nem haladhatja meg.
 
-(8) Vezetői beosztást betöltő személy az Európai Unió Tanácsa 2024. második félévi magyar elnökségével kapcsolatos feladatok ellátására irányuló jogviszonyt engedéllyel létesíthet.
+(8)
 
 110. § (1) A hivatásos állomány tagja köteles az állományilletékes parancsnoknak haladéktalanul bejelenteni, ha vele szemben a törvényben meghatározott összeférhetetlenségi ok merült fel, vagy ha szolgálati viszonyának fennállása alatt összeférhetetlen helyzetbe került. Az állományilletékes parancsnok köteles – kivéve, ha a hivatásos állomány tagja a 109. § (1) bekezdés a) pontjában meghatározott engedélyt kapott – írásban felszólítani a hivatásos állomány tagját az összeférhetetlenség megszüntetésére, vagy köteles a szükséges intézkedést megtenni az összeférhetetlenség kizárására.
 
@@ -2107,11 +2107,13 @@ besorolási kategóriába kell besorolni.
 
 (5) A szolgálati beosztás (4) bekezdés szerinti értékelésének felülvizsgálatát a miniszter elrendelheti.
 
-(6) A szolgálati beosztások besorolási kategóriáihoz rendelt rendfokozatokat és fizetési fokozatokat, a beosztási illetmény megállapításához szükséges szorzószámokat, valamint a (2) bekezdés a) pont aa) és ab) alpontjában megjelölt vezető illetményét
+(6) A szolgálati beosztások besorolási kategóriáihoz rendelt rendfokozatokat és fizetési fokozatokat, a beosztási illetmény megállapításához szükséges szorzószámokat, valamint a (2) bekezdés a) pont aa) és ab) alpontjában megjelölt vezető illetményének alsó határát
 
 - a) a (3) bekezdés a) pontjában megjelölt szerveknél a tiszthelyettesi besorolási osztályban az 5. melléklet, a tiszti besorolási osztályban a 6. melléklet,
 - b) a (3) bekezdés b) pontjában megjelölt szerveknél a tiszthelyettesi besorolási osztályban a 7. melléklet, a tiszti besorolási osztályban a 8. melléklet,
 - c) a vezetői besorolási osztályban a 9. melléklet tartalmazza.
+
+(6a) A (2) bekezdés a) pont aa) és ab) alpontjában megjelölt vezető illetményét a miniszter egyedileg határozza meg azzal, hogy az illetmény nem lehet kevesebb a (6) bekezdés c) pontja szerinti, a 9. mellékletben meghatározott alsó határnál.
 
 (7) A (2) bekezdés b) pontja szerinti szakirányító 1 és szakirányító 2 vezetői beosztásba – a szervezeti szint és irányítói jogkör figyelembevételével – azt a vezetői beosztást betöltőt lehet besorolni, aki központi szervnél vagy az országos főigazgató közvetlen alárendeltségébe tartozó szervezeti egységnél több szervezeti elemet irányít vagy szervezeti egységet vezet, de nem minősül kiemelt vezetőnek, vagy a területi szerv vezetőjének helyettese.
 
@@ -2767,7 +2769,7 @@ teljesíti szolgálatát.
 
 kell figyelembe venni.
 
-157/A. § (1) A 114. § (2) bekezdés a) pont aa) és ab) alpontja szerinti kiemelt vezető a 154–157. § szerint megállapított illetmény helyett a 9. melléklet I. alcíme szerinti illetményre jogosult, amelyet a munkáltatói jogkör gyakorlója állapít meg a 9. mellékletben meghatározott sávon belül.
+157/A. § (1) A 114. § (2) bekezdés a) pont aa) és ab) alpontja szerinti kiemelt vezető a 154–157. § szerint megállapított illetmény helyett a miniszter által egyedileg meghatározott illetményre jogosult, amelyet a munkáltatói jogkör gyakorlója állapít meg a 9. mellékletben meghatározott alsó sáv figyelembevételével. A 114. § (2) bekezdés a) pont aa) és ab) alpontja szerinti kiemelt vezető tárgyév március 1-jétől a következő év február végéig terjedő időszakra vonatkozó havi illetménye nem haladhatja meg a Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági havi bruttó átlagkereset tízszeresét.
 
 (2) Az (1) bekezdés szerinti kiemelt vezető esetében nem alkalmazható a 160. §, valamint a 10. melléklet.
 
@@ -6024,7 +6026,7 @@ kell érteni.
 - b) aki vállalja, hogy az e törvény szerinti határvadász vizsgát sikeresen teljesíti,
 - c) aki elfogadja egyes alapvető jogainak e törvény szerinti korlátozását,
 - d) aki megfelel a miniszter által meghatározott, a határvadász beosztásnak megfelelő egészségi, pszichológiai és fizikai alkalmassági követelményeknek,
-- e) akinek életvitele nem kifogásolható, és aki írásban tudomásul veszi, hogy azt a szerződéses jogviszony létesítését megelőzően ellenőrizhetik,
+- e) akinek életvitele nem kifogásolható, és aki írásban tudomásul veszi, hogy azt a szerződéses jogviszony létesítését megelőzően, valamint a szerződéses jogviszony fennállása alatt ellenőrizhetik,
 - f) aki tudomásul veszi, hogy szolgálata törvényes ellátását tudta és beleegyezése nélkül – a törvényben meghatározott esetekben és módon – az arra törvényben kijelölt szerv törvényben meghatározott megbízhatósági vizsgálattal ellenőrizheti,
 - g) aki tudomásul veszi és elfogadja a szerződéses jogviszonyra vonatkozó szabályokban meghatározott kötelezettségeket, valamint
 - h) akinél nem állnak fenn a szerződéses jogviszony létesítését kizáró, a 41. § szerinti körülmények.
@@ -6033,9 +6035,9 @@ kell érteni.
 
 (3) A kifogástalan életvitel-ellenőrzés – a 42. és 43. § szerinti – szabályait a határvadász esetében az alábbi eltérésekkel kell alkalmazni:
 
-- a) a kifogástalan életvitel ellenőrzésére kizárólag a szerződéses jogviszony létesítését megelőzően kerülhet sor,
+- a)
 - b) a kifogástalan életvitel ellenőrzését az általános rendőrségi feladatok ellátására létrehozott szerv vezetője által kijelölt személy (a továbbiakban: kezdeményező) kezdeményezi,
-- c) a kifogástalan életvitel-ellenőrzést az arra felhatalmazott szerv a kezdeményezéstől számított 10 napon belül lefolytatja,
+- c) a kifogástalan életvitel-ellenőrzést az arra felhatalmazott szerv a kezdeményezéstől számított tíz napon belül lefolytatja, amely határidőt a kifogástalan életvitel ellenőrzésre felhatalmazott szerv egy alkalommal tíz nappal meghosszabbíthatja,
 - d) a kifogástalan életvitel-ellenőrzés befejezésekor az arra felhatalmazott szerv határozathozatal nélkül, kizárólag az életvitel kifogásolhatóságát megalapozó körülmények fennállásáról vagy azok hiányáról tájékoztatja a kezdeményezőt,
 - e) a kifogástalan életvitel-ellenőrzés eredményétől függetlenül a szerződéses jogviszony – az állományilletékes parancsnok döntése alapján – létrehozható.
 
@@ -6099,6 +6101,7 @@ kell érteni.
 - g) a 185. § (1) bekezdés h) pontja szerinti fenyítés kiszabása,
 - h) a szerződéses jogviszony létesítését kizáró, a 41. § (1) bekezdése szerinti körülmények beállta,
 - i) méltatlanná válás.
+- j) a kifogástalan életvitel követelményének történő meg nem felelés miatt a határvadász szolgálatra alkalmatlanná válás.
 
 (4) A szerződéses jogviszony az állományilletékes parancsnok és a határvadász közös megegyezésével bármikor megszüntethető. A megszüntetést bármelyik fél kezdeményezheti, és azt indokolni nem kell.
 
@@ -6280,6 +6283,44 @@ a (4) bekezdés szerinti összeg 70%-ára jogosult.
 
 (3) A terrorizmust elhárító szerv főigazgatója az (1) bekezdés szerinti és a 109. § (3) bekezdése szerinti tevékenység folytatását korlátozhatja, ha veszélyezteti a szolgálati érdeket. A terrorizmust elhárító szerv főigazgatója köteles a döntését megindokolni.
 
+319/R. § (1) A terrorizmust elhárító szerv hivatásos állományába történő vezénylés, illetve a terrorizmust elhárító szervvel történő rendvédelmi igazgatási szolgálati jogviszony vagy munkaviszony létesítésének további feltétele
+
+- a) a Rendőrségről szóló 1994. évi XXXIV. törvény 1. § (2) bekezdés 5., 6a., 15. vagy 19. pontja szerinti feladat ellátására rendszeresített szolgálati beosztás vagy munkakör betöltése, vagy
+- b) titkos ügykezelői feladatok ellátása
+
+esetén a poligráfos vizsgálaton való részvétel vállalása.
+
+(2) A terrorizmust elhárító szerv személyi állományának tagja köteles megtartani a szolgálatellátással vagy munkavégzéssel összefüggésben tudomására jutott törvény által védett adatokat. Ezen túlmenően köteles – magánéletére is kiterjedően – olyan magatartást tanúsítani, hogy illetéktelen személy vagy szerv ne juthasson a terrorizmust elhárító szerv működésére – így különösen konkrét tevékenységére, személyi állományára, létesítményeire, vagyontárgyaira, eszközeire, módszereire, továbbá információforrásaira – vonatkozó ismeret birtokába. A titoktartási kötelezettség időbeli korlátozás nélkül áll fenn.
+
+(3) A titoktartási kötelezettség alól a terrorizmust elhárító szerv főigazgatója esetében a miniszter, egyéb esetben a terrorizmust elhárító szerv főigazgatója adhat felmentést. A terrorizmust elhárító szerv főigazgatójának a titoktartási kötelezettség alóli mentesítésre irányuló jogköre nem átruházható.
+
+(4) A titoktartási kötelezettség megszegésének gyanúja esetén, annak ellenőrzése érdekében a terrorizmust elhárító szerv az (1) bekezdésben meghatározott szolgálati beosztást vagy munkakört betöltő tagja, illetve titkos ügykezelői feladatokat ellátó tagja köteles magát a vezénylése, a rendvédelmi igazgatási szolgálati jogviszonya vagy a munkaviszonya fennállása alatt poligráfos vizsgálatnak alávetni.
+
+(5) A terrorizmust elhárító szerv az (1) bekezdés szerinti feladatkörökben a poligráfos vizsgálatot
+
+- a) a terrorizmust elhárító szervhez történő vezénylés kezdeményezésére irányuló eljárás vagy a rendvédelmi igazgatási szolgálati jogviszony, munkaviszony létesítését megelőző eljárás során,
+- b) a titoktartási kötelezettség megsértésének gyanúja esetén, annak ellenőrzése érdekében
+
+rendelheti el.
+
+(6) A poligráfos vizsgálat kérdései csak biztonsági kockázati tényezőkkel kapcsolatos adatkörökre terjedhetnek ki.
+
+(7) Az (1) bekezdés szerinti feladatkörökben a vezénylést megelőzően elvégzett poligráfos vizsgálatot követően a terrorizmust elhárító szerv főigazgatója dönt a terrorizmust elhárító szervhez történő vezénylés kezdeményezésének indokoltságáról vagy annak hiányáról. Ha a terrorizmust elhárító szerv főigazgatója nem kezdeményezi a terrorizmust elhárító szervhez történő vezénylést, a hivatásos állomány tagját az eredeti rendvédelmi szerv foglalkoztatja tovább, részére tájékoztatás a poligráfos vizsgálat eredményéről nem adható.
+
+(8) Az (1) bekezdés szerinti feladatkörökben a rendvédelmi igazgatási szolgálati jogviszony vagy munkaviszony létesítését megelőzően elvégzett poligráfos vizsgálatot követően a terrorizmust elhárító szerv főigazgatója dönt a jogviszony létesítésének indokoltságáról vagy annak hiányáról.
+
+(9) A terrorizmust elhárító szerv a poligráfos vizsgálat során keletkezett iratokat, adatokat a személyügyi iratoktól elkülönítetten kezeli, azokat
+
+- a) a hivatásos állományt vezénylő rendvédelmi szerv a vezénylés megszüntetését követően,
+- b) a személyi állomány tagjának áthelyezését követően foglalkoztató rendvédelmi szerv vagy más foglalkoztató szervezet
+
+nem ismerheti meg.
+
+(10) A poligráfos vizsgálat során keletkezett iratokat, adatokat meg kell semmisíteni
+
+- a) a poligráfos vizsgálatról készített vélemény kiállításától számított százhúsz nap elteltével, ha a vezénylésre nem kerül sor, a rendvédelmi igazgatási szolgálati jogviszony vagy a munkaviszony nem jön létre, vagy
+- b) az a) pontba nem tartozó esetekben a poligráfos vizsgálatról készített vélemény kiállításától számított öt év elteltével.
+
 #### 125. Különleges foglalkoztatási állomány
 
 320. § (1) Ha az öregségi nyugdíjkorhatár elérése előtt a szolgálati járandóságra jogosult
@@ -6413,6 +6454,8 @@ kérelmére – függetlenül attól, hogy melyik rendvédelmi szervnél vagy a 
 - m) a 82/J. § (1) bekezdés e) pontjából eltérően megszűnik a rendvédelmi egészségkárosodási járadékra való jogosultság, ha az egészségjavulás eredményeként a jogosult egészségi állapota lehetővé teszi a szolgálati viszony ismételt létesítését,
 - n) a 82/J. § (1) bekezdés f) pontjától eltérően a 82/A. § (3) bekezdése szerinti esetben az 50%-ot meghaladó mértékű egészségi állapot esetében szűnik meg az egészségkárosodási ellátásra való jogosultság,
 - o) a 82/J. § (2), (4) és (5) bekezdése nem alkalmazható.
+
+(4) Az Országgyűlési Őrség hivatásos állománya tagjának nem tanulmányi szerződés keretében végzett, más rendvédelmi szervnél vagy rendészeti felsőoktatást folytató felsőoktatási intézménynél történő oktatása, képzése az oktatás időtartamára a 60. § szerinti átrendeléssel történik.
 
 #### 128.
 
@@ -7247,6 +7290,8 @@ alakul át.
 
 (3) A rendvédelmi tisztjelölti jogviszony (1) bekezdés szerinti átalakulásával összefüggésben a rendvédelmi tisztjelöltnek próbaidő nem köthető ki, egészségi, pszichikai és fizikai alkalmasságvizsgálatokat elvégezni nem kell.
 
+379. § A rendészeti feladatellátás hatékonyságát támogató törvények módosításáról szóló 2025. évi LXXI. törvénnyel megállapított 319/R. § hatálybalépésekor a terrorizmust elhárító szervnek a személyi állományába tartozó, a 319/R. § (4) bekezdésében meghatározott tagja a 319/R. § hatálybalépését követő hatvan napon belül nyilatkozik, hogy vállalja-e a 319/R. § (5) bekezdés b) pontja szerinti poligráfos vizsgálaton való részvétel lehetőségét. Aki a határidőn belül nem tesz nyilatkozatot vagy nemleges nyilatkozatot tesz, annak a szolgálati beosztását, munkakörét úgy kell módosítani, hogy a 319/R. § (4) bekezdése szerinti feladatkört a továbbiakban nem láthat el.
+
 ### 1. melléklet a 2015. évi XLII. törvényhez
 
 #### A SZEMÉLYÜGYI NYILVÁNTARTÁS ADATKÖRE
@@ -7756,9 +7801,9 @@ A) Központi szerv vezetője és központi szerv vezetőjének helyettese
 
 |  | A | B | C |
 | --- | --- | --- | --- |
-| 1. | besorolási kategória | illetmény (Ft) | rendfokozat |
-| 2. | központi szerv vezetője | 1.500.000–2.500.000 | tábornok |
-| 3. | központi szerv vezetőjének helyettese | 1.300.000–2.100.000 | tábornok |
+| 1. | besorolási kategória | illetmény alsó határa (Ft) | rendfokozat |
+| 2. | központi szerv vezetője | 1 500 000 | tábornok |
+| 3. | központi szerv vezetőjének helyettese | 1 300 000 | tábornok |
 
 B) Területi szerv vezetője
 

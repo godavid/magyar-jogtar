@@ -1612,6 +1612,12 @@ szerinti besorolása alapján havonta a 9. melléklet szerinti illetményre jogo
 
 134/M. § Ha a tisztviselő, az írnok és bírósági ügyintéző számára az e törvénynek a Módtv3.-al megállapított rendelkezései alapján járó szabadsága a korábbi szabadságához képest csökkenne, mindaddig a Módtv3. hatálybalépése előtt megállapított szabadságára jogosult, amíg annak mértékét az e törvény Módtv3.-al megállapított rendelkezései szerinti szabadsága meg nem haladja.
 
+134/N. § (1) Az igazságügyi alkalmazott számára – a 134/L. §-ban foglaltak kivételével – a Módtv3. 53. §-ával megállapított rendelkezései alapján az illetményt akként kell megállapítani, hogy az magasabb legyen, mint a Módtv3. 53. §-ának hatálybalépését megelőzően őt megillető illetményelemek együttes összege.
+
+(2) Az igazságügyi alkalmazottat – a 134/L. §-ban foglaltak kivételével – 2026. február 28-ig kell 2026. január 1-jétől kezdődően e törvénynek a Módtv3. 53. §-ával megállapított rendelkezései szerint besorolni és – az (1) bekezdésben foglaltakat is figyelembe véve – illetményét megállapítani. A besorolásnál megállapítandó szolgálati idő a 2026. január 1-je előtti besorolásnál megállapított szolgálati időnél kevesebb nem lehet. A 2026. január 1. előtt soron kívüli előresorolással megszerzett szolgálati időt a besorolásnál figyelembe kell venni.
+
+(3) Az igazságügyi alkalmazottat – a 134/L. §-ban foglaltak kivételével – az e törvénynek a Módtv3. 53. §-ával megállapított rendelkezései alapján kiszámított illetmény 2026. január 1-jétől illeti meg. Az illetmény már folyósított és megemelt összege közötti különbözet kifizetésére 2026. január 1-jére visszamenőleg, legkésőbb 2026. március 31-ig kerül sor.
+
 135. § (1) Felhatalmazást kap a Kormány, hogy az egyéb igazságügyi szerveket rendeletben határozza meg.
 
 (2)
@@ -1733,26 +1739,26 @@ Megjegyzés: A nyilvántartási szám az alkalmazott szolgálati helyére és be
 |  | A | B | C | D | E |
 | --- | --- | --- | --- | --- | --- |
 | 1 | Fizetési fokozat | Szolgálati idő (év) |  | Alsó határ szorzószáma | Felső határ szorzószáma |
-| 2 | 1. | 0 | 3 | 0,99 | 1,07 |
-| 3 | 2. | 4 | 7 | 1,05 | 1,23 |
-| 4 | 3. | 8 | 11 | 1,13 | 1,34 |
-| 5 | 4. | 12 | 18 | 1,19 | 1,4 |
-| 6 | 5. | 19 | 25 | 1,24 | 1,46 |
-| 7 | 6. | 26 | 35 | 1,29 | 1,52 |
-| 8 | 7. | 36 |  | 1,41 | 1,55 |
+| 2 | 1. | 0 | 3 | 1,17 | 1,25 |
+| 3 | 2. | 4 | 7 | 1,23 | 1,41 |
+| 4 | 3. | 8 | 11 | 1,31 | 1,52 |
+| 5 | 4. | 12 | 18 | 1,37 | 1,58 |
+| 6 | 5. | 19 | 25 | 1,42 | 1,64 |
+| 7 | 6. | 26 | 35 | 1,47 | 1,7 |
+| 8 | 7. | 36 |  | 1,59 | 1,73 |
 
 - 2. Igazságügyi szakértő
 
 |  | A | B | C | D | E |
 | --- | --- | --- | --- | --- | --- |
 | 1. | Fizetési fokozat | Szolgálati idő (év) |  | Alsó határ szorzószáma | Felső határ szorzószáma |
-| 2. | 1. | 0 | 3 | 0,99 | 1,07 |
-| 3. | 2. | 4 | 7 | 1,05 | 1,23 |
-| 4. | 3. | 8 | 11 | 1,13 | 1,34 |
-| 5. | 4. | 12 | 18 | 1,19 | 1,4 |
-| 6. | 5. | 19 | 25 | 1,24 | 1,46 |
-| 7. | 6. | 26 | 35 | 1,29 | 1,52 |
-| 8. | 7. | 36 |  | 1,41 | 1,55 |
+| 2. | 1. | 0 | 3 | 1,17 | 1,25 |
+| 3. | 2. | 4 | 7 | 1,23 | 1,41 |
+| 4. | 3. | 8 | 11 | 1,31 | 1,52 |
+| 5. | 4. | 12 | 18 | 1,37 | 1,58 |
+| 6. | 5. | 19 | 25 | 1,42 | 1,64 |
+| 7. | 6. | 26 | 35 | 1,47 | 1,7 |
+| 8. | 7. | 36 |  | 1,59 | 1,73 |
 
 ### 4. melléklet az 1997. évi LXVIII. törvényhez
 
@@ -1763,18 +1769,18 @@ Megjegyzés: A nyilvántartási szám az alkalmazott szolgálati helyére és be
 |  | A | B | C | D | E |
 | --- | --- | --- | --- | --- | --- |
 | 1 | Fizetési fokozat | Szolgálati idő (év) |  | Alsó határ szorzószáma | Felső határ szorzószáma |
-| 2 | 1. | 0 | 1 | 0,68 | 0,89 |
-| 3 | 2. | 2 | 3 | 0,72 | 0,94 |
-| 4 | 3. | 4 |  | 0,75 | 0,98 |
+| 2 | 1. | 0 | 1 | 0,86 | 1,07 |
+| 3 | 2. | 2 | 3 | 0,9 | 1,12 |
+| 4 | 3. | 4 |  | 0,93 | 1,16 |
 
 - 2. Szakértőjelölt
 
 |  | A | B | C | D | E |
 | --- | --- | --- | --- | --- | --- |
 | 1. | Fizetési fokozat | Szolgálati idő (év) |  | Alsó határ szorzószáma | Felső határ szorzószáma |
-| 2. | 1. | 0 | 1 | 0,68 | 0,89 |
-| 3. | 2. | 2 | 3 | 0,72 | 0,94 |
-| 4. | 3. | 4 |  | 0,75 | 0,98 |
+| 2. | 1. | 0 | 1 | 0,86 | 1,07 |
+| 3. | 2. | 2 | 3 | 0,9 | 1,12 |
+| 4. | 3. | 4 |  | 0,93 | 1,16 |
 
 ### 5. melléklet az 1997. évi LXVIII. törvényhez
 
@@ -1783,14 +1789,14 @@ Megjegyzés: A nyilvántartási szám az alkalmazott szolgálati helyére és be
 |  | A | B | C | D | E |
 | --- | --- | --- | --- | --- | --- |
 | 1. | Fizetési fokozat | Szolgálati idő (év) |  | Alsó határ szorzószáma | Felső határ szorzószáma |
-| 2: | 1. | 0 | 3 | 0,57 | 0,85 |
-| 3. | 2. | 4 | 7 | 0,69 | 0,91 |
-| 4. | 3. | 8 | 11 | 0,74 | 1,03 |
-| 5. | 4. | 12 | 18 | 0,8 | 1,07 |
-| 6. | 5. | 19 | 25 | 0,88 | 1,2 |
-| 7. | 6. | 26 | 30 | 0,96 | 1,24 |
-| 8. | 7. | 31 | 35 | 1 | 1,28 |
-| 9. | 8. | 36 |  | 1,05 | 1,31 |
+| 2: | 1. | 0 | 3 | 0,75 | 1,03 |
+| 3. | 2. | 4 | 7 | 0,87 | 1,09 |
+| 4. | 3. | 8 | 11 | 0,92 | 1,21 |
+| 5. | 4. | 12 | 18 | 0,98 | 1,25 |
+| 6. | 5. | 19 | 25 | 1,06 | 1,38 |
+| 7. | 6. | 26 | 30 | 1,14 | 1,42 |
+| 8. | 7. | 31 | 35 | 1,18 | 1,46 |
+| 9. | 8. | 36 |  | 1,23 | 1,49 |
 
 ### 6. melléklet az 1997. évi LXVIII. törvényhez
 
@@ -1799,14 +1805,14 @@ Megjegyzés: A nyilvántartási szám az alkalmazott szolgálati helyére és be
 |  | A | B | C | D | E |
 | --- | --- | --- | --- | --- | --- |
 | 1. | Fizetési fokozat | Szolgálati idő (év) |  | Alsó határ szorzószáma | Felső határ szorzószáma |
-| 2. | 1. | 0 | 3 | 0,53 | 0,62 |
-| 3. | 2. | 4 | 7 | 0,57 | 0,69 |
-| 4. | 3. | 8 | 11 | 0,61 | 0,81 |
-| 5. | 4. | 12 | 18 | 0,68 | 0,88 |
-| 6. | 5. | 19 | 25 | 0,71 | 0,92 |
-| 7. | 6. | 26 | 30 | 0,74 | 0,95 |
-| 8. | 7. | 31 | 35 | 0,8 | 1 |
-| 9. | 8. | 36 |  | 0,87 | 1,08 |
+| 2. | 1. | 0 | 3 | 0,71 | 0,8 |
+| 3. | 2. | 4 | 7 | 0,75 | 0,87 |
+| 4. | 3. | 8 | 11 | 0,79 | 0,99 |
+| 5. | 4. | 12 | 18 | 0,86 | 1,06 |
+| 6. | 5. | 19 | 25 | 0,89 | 1,1 |
+| 7. | 6. | 26 | 30 | 0,92 | 1,13 |
+| 8. | 7. | 31 | 35 | 0,98 | 1,18 |
+| 9. | 8. | 36 |  | 1,05 | 1,26 |
 
 ### 7. melléklet az 1997. évi LXVIII. törvényhez
 
@@ -1815,12 +1821,12 @@ Megjegyzés: A nyilvántartási szám az alkalmazott szolgálati helyére és be
 |  | A | B | C |
 | --- | --- | --- | --- |
 | 1. | Fizetési fokozat | Alsó határ szorzószáma | Felső határ szorzószáma |
-| 2. | Főosztályvezető, az egyéb igazságügyi szerv vezetője és helyettese | 1,38 | 2 |
-| 3. | Főosztályvezető-helyettes, igazgató | 1,24 | 1,89 |
-| 4. | Osztályvezető, igazgatóhelyettes | 1,12 | 1,77 |
-| 5. | Osztályvezető-helyettes | 0,83 | 1,66 |
-| 6. | Csoportvezető | 0,79 | 1,6 |
-| 7. | Csoportvezető-helyettes, bírósági irodavezető | 0,68 | 1,54 |
+| 2. | Főosztályvezető, az egyéb igazságügyi szerv vezetője és helyettese | 1,56 | 2,18 |
+| 3. | Főosztályvezető-helyettes, igazgató | 1,42 | 2,07 |
+| 4. | Osztályvezető, igazgatóhelyettes | 1,3 | 1,95 |
+| 5. | Osztályvezető-helyettes | 1,01 | 1,84 |
+| 6. | Csoportvezető | 0,97 | 1,78 |
+| 7. | Csoportvezető-helyettes, bírósági irodavezető | 0,86 | 1,72 |
 
 ### 8. melléklet az 1997. évi LXVIII. törvényhez
 

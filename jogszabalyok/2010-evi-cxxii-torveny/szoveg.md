@@ -117,6 +117,7 @@ megállapítása, beszedése, nyilvántartása, végrehajtása, visszatérítés
 - k) együttműködik a Magyar Szénhidrogén Készletező Szövetséggel a behozott kőolaj és kőolajtermékek biztonsági készletezéséről szóló 2013. évi XXIII. törvény 46. § (1) bekezdésben meghatározott, a kiskereskedelmi és végfelhasználói töltőállomásokon a forgalmazott üzemanyagok ellenőrző jelölésének meglétével kapcsolatos feladat végrehajtásában,
 - l) végzi az Európai Unió által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló törvényben meghatározott feladatokat.
 - m) az e törvényben meghatározott feladatok hatékony teljesítése érdekében gazdálkodó szervezetekkel együttműködési megállapodást köthet.
+- n) működteti a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény 4. § 24. pontja szerinti informatikai rendszert.
 
 (3) A NAV
 

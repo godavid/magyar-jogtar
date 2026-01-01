@@ -15,6 +15,7 @@ Az Országgyűlés a nemzeti energiahatékonysági célkitűzés teljesítéséh
 - 2. egyéni fellépés: olyan energiahatékonysági beruházás, energiahatékonyságot javító intézkedés vagy ezek kombinációja, amely ellenőrizhető és mérhető vagy megbecsülhető energiahatékonysági javulást eredményez, és arra egy szakpolitikai intézkedés szerinti lényeges hozzájárulás nyomán került sor;
 - 2a. „első az energiahatékonyság” elve: az energiapolitikai tervezés, valamint a szakpolitikai és beruházási döntéshozatal során a költséghatékony, technikailag, gazdaságilag és környezetvédelmi szempontból megfelelő energiahatékonysági intézkedéseknek a lehető legnagyobb mértékű figyelembevétele;
 - 2b. egyéni fellépés kezdete: a beruházás, vagy intézkedés célját szolgáló termékek, szolgáltatások megrendelésének a napja, vagy bármely olyan kötelezettségvállalás, amely a beruházást visszafordíthatatlanná teszi;
+- 2c. energetikai auditálásra kötelezett gazdálkodó szervezet: az a gazdálkodó szervezet, amelynek a tárgyévet megelőző három évben az éves energiafogyasztásának átlaga az összes energiahordozót együttvéve meghaladja a 10 TJ-t, azzal, hogy a mérés nélkül továbbadott energia a továbbadó fogyasztásának számít;
 - 3. energia: az 1099/2008/EK európai parlamenti és tanácsi rendelet 2. cikk d) pontja szerinti energiatermékek;
 - 4. energiagazdálkodási rendszer: az energiahatékonysági célkitűzést, valamint az annak elérését célzó tervet meghatározó stratégia egymással összefüggő vagy kölcsönhatásban lévő elemeinek összessége, ideértve a tényleges energiafogyasztás nyomon követését, az energiahatékonyság növelésére hozott intézkedéseket és a haladás mérését is;
 - 5. energiahatékony beszerzéssel kapcsolatos dokumentáció: az energiahatékony beszerzések lefolytatására köteles szervezet ezen beszerzései során keletkezett olyan irat, amely rögzíti a beszerzés energiahatékonysági jellemzőit, valamint azt a tényt, hogy régi termék, épület cseréje vagy új beszerzés történt, továbbá a beszerzéssel elérhető éves energiamegtakarítás mértékét;
@@ -213,7 +214,7 @@ járó kiadások és bevételek értékelésére (a továbbiakban: költség-has
 - e) együttműködik a Nemzeti Energetikusi Hálózattal az a)–d) pontban meghatározott feladatok ellátása során,
 - f) a Nemzeti Energetikusi Hálózat által üzemeltetett online felületre feltölti és változás esetén frissíti az épületre vagy épületrészre vonatkozó adatokat, energetikai tanúsítványt, energetikai auditot;
 - g) együttműködik a villamos energiáról szóló 2007. évi LXXXVI. törvény (a továbbiakban: Vet.) szerinti elosztó, a földgázellátásról szóló 2008. évi XL. törvény (a továbbiakban: Get.) szerinti földgázelosztó (a továbbiakban együtt: elosztói engedélyesek) és a távhőszolgáltatásról szóló 2005. évi XVIII. törvény (a továbbiakban: Tszt.) szerinti távhőszolgáltató (a továbbiakban: távhőszolgáltató) által a Hivatal számára bejelentett energiafogyasztási adatok vizsgálatában;
-- h) mentesül az a), b) és d) pont szerinti feladatok alól, ha a közintézmény nagyvállalatnak vagy energetikai szakreferens igénybevételére köteles gazdálkodó szervezetnek minősül.
+- h) mentesül az a), b) és d) pont szerinti feladatok alól, ha a közintézmény energetikai auditálásra kötelezett gazdálkodó szervezetnek vagy energetikai szakreferens igénybevételére köteles gazdálkodó szervezetnek minősül;
 - i) energetikai felelőst jelöl ki a Nemzeti Energetikusi Hálózattal történő kapcsolattartás és e §-ban meghatározott feladatok közvetlen ellátása céljából.
 - j) teljesíti a 9. § szerinti nyilvántartás vezetésével összefüggő adatszolgáltatási kötelezettséget.
 
@@ -303,7 +304,7 @@ kell elérni.
 
 (3) Ha az energiamegtakarítás több alternatív szakpolitikai intézkedés közös eredménye, az egy alternatív szakpolitikai intézkedés eredményei között számolható el a végfelhasználási energiamegtakarítás teljesítése során. Az alternatív szakpolitikai intézkedések hitelesítési és nyomonkövetési rendszerét úgy kell kialakítani, hogy a 15. § szerinti energiahatékonysági kötelezettségi rendszerrel vagy más alternatív szakpolitikai intézkedésekkel történő közös megvalósítással létrejött energiamegtakarítás eredményei elkülöníthetők legyenek.
 
-(4) A Hivatal a 13. § (1) bekezdés b)–g) pontjában meghatározott alternatív szakpolitikai intézkedések keretében a második kötelezettségi időszakban megvalósított egyes energiahatékonyság-javító intézkedések reprezentatív módon kiválasztott statisztikailag jelentős részét felülvizsgálja. A statisztikailag jelentős részt a Hivatal éves felülvizsgálati tervben határozza meg. A felülvizsgálat végrehajtásáról, a levont következtetésekről, a bejelentett megtakarításoknak a Hivatal ellenőrzése alapján javasolt korrekciójáról a Hivatal felülvizsgálati jelentést készít az energiapolitikáért felelős miniszter részére.
+(4) A Hivatal a 13. § (1) bekezdés b)–g) pontjában meghatározott alternatív szakpolitikai intézkedések keretében a második kötelezettségi időszakban megvalósított egyes energiahatékonyság-javító intézkedések reprezentatív módon kiválasztott statisztikailag jelentős részét felülvizsgálja. A statisztikailag jelentős részt a Hivatal éves felülvizsgálati tervben határozza meg. A felülvizsgálat végrehajtásáról, a levont következtetésekről, a bejelentett megtakarításoknak a Hivatal ellenőrzése alapján javasolt korrekciójáról a Hivatal jelentést készít az energiapolitikáért felelős miniszter részére.
 
 (5) A Hivatal a (4) bekezdésben meghatározott feladatainak teljesítése érdekében jogosult a végrehajtó hatóságtól, az adott energiahatékonyság-javító intézkedéssel érintett végső felhasználótól, az energetikai tanúsítványok elektronikus nyilvántartását vezető szervezettől, valamint a közreműködő energetikai auditortól vagy auditáló szervezettől információt kérni, a kapcsolódó iratokba betekinteni, azokról másolatot, kivonatot készíteni, ideértve az üzleti titkot és személyes adatot tartalmazó iratokat is, valamint jogosult az általános közigazgatási rendtartásról szóló törvény szerinti szemlét lefolytatni.
 
@@ -336,7 +337,7 @@ megfelelő mértékű éves energiamegtakarítást köteles elérni a végső fe
 
 (2b) Az energiamegtakarítási kötelezettség alapjának 0,5%-a felett az adott évi energiamegtakarítási kötelezettség a tárgyévben, valamint az adott kötelezettségi időszakon belül bármely korábbi évben megvalósított, az energiapolitikáért felelős miniszter e törvény végrehajtására kiadott rendeletében meghatározott jegyzékben (a továbbiakban: jegyzék) szereplő, a jegyzék szerint számított és hitelesített, legalább 6 éves élettartamot elérő egyéni fellépésből származó, energiamegtakarítási kötelezettség teljesítésére korábban el nem számolt hitelesített energiamegtakarítással teljesíthető – figyelemmel az (5)–(5b) bekezdésben foglaltakra – azzal, hogy az adott évi energiamegtakarítási kötelezettség e törvény végrehajtására kiadott kormányrendeletben meghatározott százalékos arányának lakóépületek energiahatékonyságát javító egyéni fellépésből kell származnia.
 
-(2c) A lakóépületek energiahatékonyságát javító beruházás kivitelezése során az adott beruházás típusától függően az e törvény végrehajtására kiadott miniszteri rendeletben szereplő építési kulcstermékeket kell beépíteni, amelyeknek rendelkeznie kell az ÉMI Nonprofit Kft. által kiadott egyszerűsített környezeti minősítéssel, valamint a környezeti pontszámuk minimum értékének el kell érnie a 8-at.
+(2c) A lakóépületek energiahatékonyságát javító beruházás kivitelezése során az adott beruházás típusától függően az e törvény végrehajtására kiadott miniszteri rendeletben szereplő építési kulcstermékeket kell beépíteni, amelyeknek rendelkeznie kell a Közlekedéstudományi és Építésügyi Minőségellenőrző Intézet által kiadott egyszerűsített környezeti minősítéssel, valamint a környezeti pontszámuk minimum értékének el kell érnie a 8-at.
 
 (2d) Nem hitelesíthető az energiamegtakarítás, amennyiben nem felel meg a (2c) bekezdésben meghatározott követelménynek.
 
@@ -390,6 +391,8 @@ megfelelő mértékű éves energiamegtakarítást köteles elérni a végső fe
 (4e) A hitelesített energiamegtakarítások nyilvántartásában szereplő, egy adott évre elszámolható energiamegtakarítás adatait, ideértve a hitelesített energiamegtakarítás természetes személy jogosultjának nevét és címét a Hivatal a következő év március 31-ig az energiahatékonysági tájékoztató honlapján elérhetővé teszi.
 
 (4f) A Hivatal ellenőrzési tevékenységéért a hitelesítő szervezet felügyeleti díjat köteles fizetni, amelynek mértéke a hitelesített energiamegtakarítások nyilvántartásába felvezetett 1 GJ hitelesített energiamegtakarítás után az energiahatékonysági járulék 0,1%-a.
+
+(4g) A hitelesített energiamegtakarítások nyilvántartásában az energiamegtakarításra vonatkozó adat közhiteles adat.
 
 (5) A hitelesítő szervezet hitelesítésével igazolja az egyéni fellépés tényleges megvalósulását, a vásárolt termékekről és szolgáltatásokról kiállított számla hitelesítő szervezet részére történő bemutatását, valamint azt, hogy az energiamegtakarítás megállapítása során megfelelően vették figyelembe az e törvény végrehajtására kiadott kormányrendelet szerinti átváltási tényezőket, számítási módszereket és elveket, a lényeges hozzájárulás meglétét, továbbá az energiamegtakarítás addicionális mértékét a tárgyévre és az azt követő évekre egyaránt.
 
@@ -784,62 +787,62 @@ köteles a megkeresésben meghatározott tartalommal és formában, a Hivatal (4
 
 #### 18. Az energetikai auditálási kötelezettség
 
-22. § (1) A nagyvállalat tevékenysége energetikai jellemzőinek megismerése céljából köteles négyévente energetikai auditálást végeztetni (a továbbiakban: kötelező energetikai auditálás).
+22. § (1) Az energetikai auditálásra kötelezett gazdálkodó szervezet tevékenysége energetikai jellemzőinek megismerése céljából köteles négyévente energetikai auditálást végeztetni (a továbbiakban: kötelező energetikai auditálás).
 
 (1a) A négyéves időszak számításának kezdő időpontja a korábbi energetikai audit elkészítésének napja.
 
-(1b) A létrejövő nagyvállalat vagy nagyvállalattá minősülő vállalkozás esetében a kötelező energetikai auditálás első elvégeztetésének határideje az első nagyvállalati regisztrációs kötelezettséget követő év június 30. napja, függetlenül a regisztráció tényleges megtörténtétől.
+(1b) Energetikai auditálásra kötelezett gazdálkodó szervezet esetében a kötelező energetikai auditálás első elvégeztetésének határideje azon év október 10. napja, amelyet megelőző három évben az összes energiahordozót együttvéve az átlagos éves energiafogyasztása meghaladta a 10 TJ mennyiséget, függetlenül a 22/B. § (1) bekezdése szerinti regisztráció megtörténtétől.
 
-(2) Mentesül a kötelező energetikai auditálás alól az a nagyvállalat, amely az EN ISO 50001 szabványnak megfelelő, akkreditált tanúsító szervezet által tanúsított energiagazdálkodási rendszert működtet. Ebben az esetben a nagyvállalat köteles négyévente megküldeni a Hivatal részére az érvényes tanúsítványt.
+(2) Mentesül a kötelező energetikai auditálás alól az energetikai auditálásra kötelezett gazdálkodó szervezet, amely az EN ISO 50001 szabványnak megfelelő, akkreditált tanúsító szervezet által tanúsított energiagazdálkodási rendszert működtet. Ebben az esetben az energetikai auditálásra kötelezett gazdálkodó szervezet köteles négyévente megküldeni a Hivatal részére az érvényes tanúsítványt.
 
-(2a) Nem kell külön tanúsítványt szereznie annak a nagyvállalatnak, amely vállalkozáscsoport tagja és a vállalkozáscsoport egészére vagy egy részére vonatkozó tanúsítvány ezen nagyvállalatra is kiterjed. Ha a vállalkozáscsoport egészére vagy egy részére vonatkozó tanúsítványt a vállalkozáscsoport valamely tagja a Hivatal részére megküldte, a tanúsítványon szereplő további nagyvállalatnak ugyanazt a tanúsítványt már nem kell megküldenie a Hivatal részére.
+(2a) Nem kell külön tanúsítványt szereznie annak az energetikai auditálásra kötelezett gazdálkodó szervezetnek, amely vállalkozáscsoport tagja és a vállalkozáscsoport egészére vagy egy részére vonatkozó tanúsítvány ezen energetikai auditálásra kötelezett gazdálkodó szervezetre is kiterjed. Ha a vállalkozáscsoport egészére vagy egy részére vonatkozó tanúsítványt a vállalkozáscsoport valamely tagja a Hivatal részére megküldte, a tanúsítványon szereplő további gazdálkodó szervezetnek ugyanazt a tanúsítványt már nem kell megküldenie a Hivatal részére.
 
 (3)
 
-(4) A vállalkozáscsoport azon tagjának, amely önmagában kis- és középvállalkozásnak minősülne és az auditálás évét megelőző 3 évben az átlagos éves összes energiafogyasztása nem éri el a 3 GWh-t, nem kell kötelező energetikai auditálást lefolytatnia vagy a (2) bekezdés szerinti energiagazdálkodási rendszert működtetnie.
+(4)
 
-(4a) Ha a nagyvállalat a (4) bekezdés szerinti mentesség igénybevételekor nem rendelkezik 3 teljes évre vonatkozó energiafogyasztási adatokkal, akkor a törtidőszakra vonatkozó fogyasztási adatait kell éves szintre vetíteni és ez alapján az éves fogyasztási átlagot megállapítani.
+(4a)
 
-(5) Nem kell külön energetikai auditálást lefolytatnia annak a nagyvállalatnak, amely egy vállalkozáscsoport tagja és a vállalkozáscsoport egészére vagy egy részére vonatkozó energetikai audit ezen nagyvállalatra is kiterjed.
+(5) Nem kell külön energetikai auditálást lefolytatnia annak az energetikai auditálásra kötelezett gazdálkodó szervezetnek, amely egy vállalkozáscsoport tagja és a vállalkozáscsoport egészére vagy egy részére vonatkozó energetikai audit ezen energetikai auditálásra kötelezett gazdálkodó szervezetre is kiterjed.
 
-(6) Ha a nagyvállalat energetikai alapállapot felmérése során megállapították, hogy a valamely auditálandó részterület (épületek, folyamatok és szállítás) – tárgyévet megelőző 3 év átlagában – éves energiafelhasználása az összes éves energiafelhasználás 10 százalékát nem éri el, a részterület mentesül a kötelező auditálás alól.
+(6)
 
 (7) Energetikai auditálás lefolytatása esetén a kötelező energetikai auditálás akkor minősül teljesítettnek, amikor a 23. § (1) bekezdése szerinti adatszolgáltatás a jogszabályoknak megfelelő módon megtörtént.
 
-(8) A (4) bekezdés szerinti mentesség igénybevételét a Hivatal számára be kell jelenteni.
+(8) Az energetikai auditálásra kötelezett gazdálkodó szervezet köteles az energetikai audit elkészítéséhez szükséges naprakész energiafogyasztási adatokat és kapcsolódó információkat az energetikai auditor részére a szükséges határidőben és megfelelő formában átadni.
 
-22/A. § (1) A nagyvállalatnak minősülő tulajdonos köteles elvégeztetni a kötelező energetikai auditálás keretében a tulajdonában álló épület vonatkozásában az energetikai auditot.
+22/A. § (1) Az energetikai auditálásra kötelezett gazdálkodó szervezetnek minősülő tulajdonos köteles elvégeztetni a kötelező energetikai auditálás keretében a tulajdonában álló épület vonatkozásában az energetikai auditot.
 
-(2) A nagyvállalatnak minősülő bérlő abban az esetben köteles épületre vonatkozó energetikai auditálást végeztetni, ha a bérlemény alapterülete meghaladja a teljes épület alapterületének 50%-át.
+(2) Az energetikai auditálásra kötelezett gazdálkodó szervezetnek minősülő bérlő abban az esetben köteles épületre vonatkozó energetikai auditálást végeztetni, ha a bérlemény alapterülete meghaladja a teljes épület alapterületének 50%-át.
 
-(3) A kötelező energetikai auditálás keretében ugyanazon épületre vonatkozó energetikai auditálás elvégeztetésére a nagyvállalatnak minősülő tulajdonos és a (2) bekezdésben foglalt feltételeknek megfelelő és nagyvállalatnak minősülő bérlő egyetemlegesen kötelezett.
+(3) A kötelező energetikai auditálás keretében ugyanazon épületre vonatkozó energetikai auditálás elvégeztetésére az energetikai auditálásra kötelezett gazdálkodó szervezetnek minősülő tulajdonos és a (2) bekezdésben foglalt feltételeknek megfelelő és az energetikai auditálásra kötelezett gazdálkodó szervezetnek minősülő bérlő egyetemlegesen kötelezett.
 
 (4) Az energetikai auditálás elvégeztetése során az épület tulajdonosa és a bérlő köteles együttműködni.
 
-22/B. § (1) A nagyvállalatnak minden év június 30-áig a Hivatalnál regisztrálnia kell.
+22/B. § (1) A gazdálkodó szervezetnek első alkalommal azon év június 30-áig kell regisztrálnia a Hivatalnál, amely évet megelőző három évben az összes energiahordozót együttvéve a gazdálkodó szervezet átlagos éves energiafogyasztása meghaladta a 10 TJ-t. Ezt követően a gazdálkodó szervezetnek minden év június 30-áig kell regisztrálnia. A regisztráció alkalmával a gazdálkodó szervezet nyilatkozik arról, hogy az energetikai auditálásra vonatkozó kötelezettség feltételei fennállnak-e.
 
 (2) Az (1) bekezdés szerinti kötelezettség nem teljesítése vagy nem megfelelő teljesítése esetén a Hivatal
 
-- a) határidő tűzésével írásban felszólítja a nagyvállalatot a kötelezettsége teljesítésére vagy megfelelő teljesítésére,
+- a) határidő tűzésével írásban felszólítja az energetikai auditálásra kötelezett gazdálkodó szervezetet a kötelezettsége teljesítésére vagy megfelelő teljesítésére,
 - b) egymillió forintig terjedő bírságot szabhat ki.
 
 (2a) Az (1) bekezdés szerinti kötelezettség késedelmes teljesítése esetén a Hivatal 100 000 forintig terjedő bírságot szabhat ki.
 
 (3) A (2) bekezdés szerinti jogkövetkezmények együttesen is alkalmazhatók. A bírság ismételten kiszabható.
 
-(4) A regisztráló nagyvállalat az első regisztrációval egyidejűleg százezer forint regisztrációs díjat fizet a Hivatal részére. A regisztrációs díj a Hivatal bevételét képezi.
+(4) A regisztráló energetikai auditálásra kötelezett gazdálkodó szervezet az első regisztrációval egyidejűleg százezer forint regisztrációs díjat fizet a Hivatal részére. A regisztrációs díj a Hivatal bevételét képezi.
 
-(5) A Hivatal a regisztráló nagyvállalatokról nyilvántartást vezet, amelyet a Hivatal honlapján közzétesz. A nyilvántartás tartalmazza a nagyvállalat cégnevét és székhelyét.
+(5) A Hivatal a regisztráló energetikai auditálásra kötelezett gazdálkodó szervezetekről nyilvántartást vezet, amelyet a Hivatal honlapján közzétesz. A nyilvántartás tartalmazza az energetikai auditálásra kötelezett gazdálkodó szervezet cégnevét és székhelyét.
 
 (6) A regisztrációs díj köztartozásnak minősül és adók módjára kell behajtani.
 
-22/C. § (1) A nagyvállalat és – ha az energetikai szakreferens igénybevételére köteles gazdálkodó szervezet nem minősül nagyvállalatnak – az energetikai szakreferens igénybevételére köteles gazdálkodó szervezet a Hivatal részére adatszolgáltatást teljesít az adatszolgáltatás teljesítését közvetlenül megelőző naptári évre vonatkozó éves energiafelhasználás mértékéről, valamint a vizsgált évben megvalósult energiahatékonysági intézkedésekkel, fejlesztésekkel, a bevezetett üzemeltetési megoldásokkal kapcsolatos energiamegtakarítási adatokról.
+22/C. § (1) Az energetikai auditálásra kötelezett gazdálkodó szervezet és – ha az energetikai szakreferens igénybevételére köteles gazdálkodó szervezet nem minősül energetikai auditálásra kötelezett gazdálkodó szervezetnek – az energetikai szakreferens igénybevételére köteles gazdálkodó szervezet a Hivatal részére adatszolgáltatást teljesít az adatszolgáltatás teljesítését közvetlenül megelőző naptári évre vonatkozó éves energiafelhasználás mértékéről, valamint a vizsgált évben megvalósult energiahatékonysági intézkedésekkel, fejlesztésekkel, a bevezetett üzemeltetési megoldásokkal kapcsolatos energiamegtakarítási adatokról.
 
 (2) Az adatszolgáltatási kötelezettség tartalmát és formáját, valamint teljesítésének határidejét a Hivatal elnöke rendeletben állapítja meg.
 
 (3) Az (1) bekezdés szerinti kötelezettség nem teljesítése vagy nem megfelelő teljesítése esetén a Hivatal
 
-- a) határidő tűzésével írásban felszólítja a nagyvállalatot vagy az energetikai szakreferens igénybevételére köteles gazdálkodó szervezetet a kötelezettsége teljesítésére vagy megfelelő teljesítésére,
+- a) határidő tűzésével írásban felszólítja az energetikai auditálásra kötelezett gazdálkodó szervezetet vagy az energetikai szakreferens igénybevételére köteles gazdálkodó szervezetet a kötelezettsége teljesítésére vagy megfelelő teljesítésére,
 - b) egymillió forintig terjedő bírságot szabhat ki.
 
 (3a) Az (1) bekezdés szerinti kötelezettség késedelmes teljesítése esetén a Hivatal 100 000 forintig terjedő bírságot szabhat ki.
@@ -880,11 +883,11 @@ köteles a megkeresésben meghatározott tartalommal és formában, a Hivatal (4
 
 (5) A Hivatal éves ellenőrzési tervben határozza meg az adott évet megelőző évben elvégzett kötelező auditálás keretében létrejött energetikai auditálások statisztikailag jelentős hányadát, amely vonatkozásában megfelelőségi ellenőrzést végez.
 
-(6) A Hivatal az energetikai auditálási kötelezettség teljesítésének ellenőrzése során a nagyvállalattól bekérhet a kötelezettség teljesítésével kapcsolatos bármely iratot, kapcsolódó dokumentációt, ideértve valamely mentesülési lehetőség igénybevételét igazoló iratot.
+(6) A Hivatal az energetikai auditálási kötelezettség teljesítésének ellenőrzése során az energetikai auditálásra kötelezett gazdálkodó szervezettől bekérhet a kötelezettség teljesítésével kapcsolatos bármely iratot, kapcsolódó dokumentációt, ideértve valamely mentesülési lehetőség igénybevételét igazoló iratot.
 
 25. § (1) Az energetikai auditálási kötelezettség nem teljesítése esetén a Hivatal
 
-- a) írásban felszólítja a nagyvállalatot a kötelezettség 180 napon belüli teljesítésére,
+- a) írásban felszólítja az energetikai auditálásra kötelezett gazdálkodó szervezetet a kötelezettség 180 napon belüli teljesítésére,
 - b) 10 millió forintig terjedő bírságot szabhat ki.
 
 (2) Az (1) bekezdés szerinti jogkövetkezmények együttesen is alkalmazhatók.
@@ -899,11 +902,11 @@ köteles a megkeresésben meghatározott tartalommal és formában, a Hivatal (4
 
 (4) A Hivatal az energetikai auditort vagy energetikai auditáló szervezet általi auditálás esetén az energetikai auditáló szervezetet egymillió forintig terjedő bírsággal sújthatja, ha a feltárt hibát vagy hiányosságot felhívás ellenére a megadott határidőben nem javítja ki, vagy nem pótolja.
 
-(5) A (4) bekezdés szerinti jogkövetkezmény alkalmazása helyett vagy mellett a Hivatal az energetikai auditot érvénytelennek minősíti és ennek tényéről a nagyvállalatot értesíti. A nagyvállalatnak az értesítés kézhezvételétől számított 180 napon belül új, a jogszabálynak megfelelő energetikai auditálást kell elvégeztetnie.
+(5) A (4) bekezdés szerinti jogkövetkezmény alkalmazása helyett vagy mellett a Hivatal az energetikai auditot érvénytelennek minősíti és ennek tényéről az energetikai auditálásra kötelezett gazdálkodó szervezetet értesíti. Az energetikai auditálásra kötelezett gazdálkodó szervezetnek az értesítés kézhezvételétől számított 180 napon belül új, a jogszabálynak megfelelő energetikai auditálást kell elvégeztetnie.
 
 (6) Ha az energetikai auditorral vagy energetikai auditáló szervezettel szemben 2 éven belül ismét a (4) bekezdés alapján bírság kiszabásának lenne helye, a Hivatal a bírság kiszabása helyett a névjegyzékből törléssel egyidejűleg megtilthatja az energetikai auditor vagy energetikai auditáló szervezet általi auditálás esetén az energetikai auditáló szervezet számára az energetikai auditálási tevékenység folytatását. Erre az érintettet a (4) bekezdés szerinti bírság kiszabásakor figyelmeztetni kell.
 
-(7) Ha a nagyvállalat az (5) bekezdésben meghatározott kötelezettségének nem tesz eleget, a Hivatal a 25. § szerinti bírsággal, vagy ismételt bírsággal sújthatja és a teljesítésre 30 napos határidőt szab.
+(7) Ha az energetikai auditálásra kötelezett gazdálkodó szervezet az (5) bekezdésben meghatározott kötelezettségének nem tesz eleget, a Hivatal a 25. § szerinti bírsággal, vagy ismételt bírsággal sújthatja és a teljesítésre 30 napos határidőt szab.
 
 (8)
 
@@ -1282,7 +1285,7 @@ hatálya alá tartozik.
 
 (5) Az Adatbázisban tárolt, energetikai felülvizsgálóhoz tartozó személyes adatokat a tevékenység megszűnését vagy megszüntetését követő 5 év elteltével törölni kell. A Hatóság biztosítja az energetikai felülvizsgáló nevére és elérhetőségére vonatkozó adatok nyilvánosságát.
 
-(6) Az Adatbázis a felülvizsgálati jelentésre vonatkozó adatokat közhitelesen tartalmazza.
+(6)
 
 (7) Az energetikai felülvizsgáló és a rendszerüzemeltető az adataiban bekövetkezett változást a Hatóságnak az e törvény végrehajtására kiadott kormányrendeletben meghatározott módon, a változást követő 15 napon belül bejelenti.
 
@@ -1306,6 +1309,8 @@ hatálya alá tartozik.
 (7) Az energetikai felülvizsgáló nyilvántartásba vételét követően köteles részt venni a Magyar Mérnöki Kamara által meghatározott továbbképzésen.
 
 (8) Ha az energetikai felülvizsgáló a (7) bekezdésben meghatározott kötelezettségének nem tesz eleget, az energetikai felülvizsgálót törölni kell az Adatbázisból.
+
+(9) A nyilvántartás az energetikai felülvizsgálói tevékenység végzésére való jogosultság ténye, valamint annak keletkezési és megszűnési időpontja tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
 43/C. § (1) A Hatóság az e törvényben és végrehajtására kiadott kormányrendeletben meghatározottak szerint ellenőrzi a kötelező energetikai felülvizsgálat teljesítését.
 
@@ -1396,6 +1401,8 @@ rendeletben állapítsa meg.
 #### 28. Átmeneti rendelkezések
 
 48. § (1) Annak a nagyvállalatnak, amely 2015. december 5-én energetikai auditálásra volt kötelezett és 2015. december 26. napját követően nem mentesül az auditálási kötelezettség alól, következő alkalommal – az első kötelező energetikai audit elkészítésének időpontjától függetlenül – 2019. december 5-ig kell energetikai auditálást elvégeztetnie.
+
+(1a) Annak a nagyvállalatnak, amely 2025. december 31-én energetikai auditálásra volt kötelezett és 2026. január 1. napját követően energetikai auditálásra kötelezett gazdálkodó szervezetként is energetikai auditálásra kötelezett marad, a következő alkalommal a korábbi energetikai audit elkészítésének időpontját követő 4 éven belül kell elkészíttetnie az energetikai auditot.
 
 (2) Az energetikai szakreferensnek a 21/B. § (4) bekezdés c) pontja szerinti vizsgát első alkalommal 2017. június 30-ig kell teljesítenie.
 

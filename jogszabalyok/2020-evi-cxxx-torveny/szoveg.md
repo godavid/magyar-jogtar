@@ -1582,7 +1582,7 @@ időtartama alatt.
 - a) tudományos, oktatói, művészeti, lektori, szerkesztői, egészségügyi valamint jogi oltalom alá eső szellemi tevékenységet és nevelőszülői foglalkoztatási jogviszonyt (a továbbiakban együtt: gyakorolható tevékenység),
 - b) közérdekű önkéntes tevékenységet,
 - c) állami projektértékelői jogviszonyt.
-- d) az Európai Unió Tanácsa 2024. második félévi magyar elnökségével kapcsolatos feladatok ellátására irányuló jogviszonyt.
+- d)
 
 (2) A foglalkoztatott a munkáltatói jogkör gyakorlójának előzetes engedélyével létesíthet, illetve folytathat
 
@@ -1594,7 +1594,7 @@ időtartama alatt.
 
 - a) gyakorolható tevékenységet,
 - b) állami projektértékelői jogviszonyt.
-- c) az Európai Unió Tanácsa 2024. második félévi magyar elnökségével kapcsolatos feladatok ellátására irányuló jogviszonyt.
+- c)
 
 (4) Vezetői munkakört betöltő foglalkoztatott a munkáltatói jogkör gyakorlójának az előzetes engedélye alapján
 
@@ -4269,7 +4269,7 @@ alakul át e törvény hatálybalépésének napján.
 
 (42) E törvény hatálybalépése nem érinti a szolgálati idő 1996. évi XLIII. törvény 341/D. §-a alapján történő megállapítását.
 
-(43) A végkielégítésre és a jubileumi jutalomra jogosító szolgálati jogviszonyban töltött időt az e törvény hatálybalépése előtti időszak vonatkozásában a pénzügyőri státuszú foglalkoztatott esetében a Hszt. 2020. december 31-én hatályos 280. § (1) bekezdése szerinti szolgálati idejének figyelembe vételével kell megállapítani.
+(43) A végkielégítésre és a jubileumi jutalomra jogosító szolgálati jogviszonyban töltött időt az e törvény hatálybalépése előtti időszak vonatkozásában a pénzügyőri státuszú foglalkoztatott esetében a Hszt. 2020. december 31-én hatályos 280. § (1) bekezdése szerinti szolgálati idejének figyelembevételével kell megállapítani. Ha a pénzügyőri státuszú foglalkoztatott rendelkezik 1996. évi XLIII. törvény 341/D. §-a alapján kiadott szolgálati idő igazolással, akkor kérelmére az abban a végkielégítés és a jubileumi jutalom tekintetében elismert jogviszonyban töltött időszakokat a 2012. január 1. előtti időszakra vonatkozólag a végkielégítés és a jubileumi jutalom tekintetében szolgálati jogviszonyban töltött időként, a nyugdíj előtti rendelkezési állomány tekintetében elismert jogviszonyban töltött időszakokat a 2012. január 1. előtti időszakra vonatkozólag a 232. § (1) bekezdése és a 257. § (25) bekezdése szerinti tényleges szolgálati időként figyelembe kell venni, feltéve, ha az a foglalkoztatottra nézve kedvezőbb, mint az e törvény szerinti szolgálati idő számítása.
 
 #### 257/A. § [Átmeneti rendelkezések az egyes pénzügyi és gazdasági tárgyú törvények módosításáról szóló 2021. évi CXXXV. törvényhez]
 

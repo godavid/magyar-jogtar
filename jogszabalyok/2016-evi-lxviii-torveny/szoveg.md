@@ -229,6 +229,7 @@ használnak fel;
 - 14. intermedier: a nyersanyagtól a vegyipari és gyógyszeripari késztermékig terjedő gyártási folyamat egyes fázisaiban előálló gyártásközi vegyi termék;
 - 15. kedvezményes párlat: kisüzemi bortermelő, illetve egyszerűsített adóraktár engedélyese vagy a vele a Btv. 1. § 4. pontjában meghatározott borgazdasági egységbe tartozó szőlőtermelő által megtermelt szőlőből készült bor lepárlása útján adóraktárban előállított, legalább 37,5 térfogatszázalék tényleges alkoholtartalmú, palackozott és zárjeggyel ellátott, adózott párlat;
 - 16. kisüzemi bortermelő: az a borászatiüzem-engedéllyel rendelkező, más borászati üzemtől jogilag és gazdaságilag független személy, aki az utolsó három borpiaci év átlagában kevesebb mint évi 1000 hl csendes bort állít elő, továbbá az a más borászati üzemtől jogilag és gazdaságilag nem független, borászatiüzem-engedéllyel rendelkező személy, aki a kapcsolatban lévő másik borászati üzemmel együttesen kevesebb mint évi 1000 hl csendes bort állít elő, mindkét esetben feltéve, hogy nem kíván adóraktári engedéllyel működni;
+- 16a. kisüzemi habzóbor előállító: borpiaci évenként legfeljebb 500 hektoliter habzóbort előállító, más habzóbort előállító üzemtől jogilag és gazdaságilag független, más habzóbort előállító üzemtől elkülönült telephelyet használó, nem licencia alapján működő, borászatiüzem-engedéllyel rendelkező borászati üzem, továbbá habzóbort előállító üzemek együttműködése esetén az a borászatiüzem-engedéllyel rendelkező borászati üzem, amelynek a vele jogi és gazdasági kapcsolatban lévő habzóbort előállító borászati üzemével összesített termelése borpiaci évenként nem haladja meg az 500 hektoliter habzóbort, mindkét esetben beleértve a másik tagállam jogszabálya vagy illetékes hatósága által engedélyezett, előbbi feltételeket teljesítő borászati üzemet;
 - 17. kisüzemi sörfőzde: évente legfeljebb 200 ezer hektoliter sört előállító, más sörgyártó üzemtől jogilag és gazdaságilag független, más sörgyártó üzemtől elkülönült telephelyet használó, nem licencia alapján működő adóraktár, továbbá sörgyártó üzemek együttműködése esetén az az évente legfeljebb 200 ezer hektoliter sört előállító sörgyártó üzem, amelynek a vele jogi és gazdasági kapcsolatban lévő másik sörgyártó üzemével összesített éves termelése nem haladja meg a 200 ezer hektoliter sört;
 - 18. köztes alkoholtermék: – a sör, a csendes és habzóbor, valamint az egyéb csendes és habzó erjesztett ital kivételével – a 2204 10 11-2206 00 89 KN-kód szerinti olyan termék, amelynek tényleges alkoholtartalma 1,2 térfogatszázaléknál több, de legfeljebb 22 térfogatszázalék;
 - 18a. lé nélküli alkoholos gyümölcs: csokoládégyártáshoz történő felhasználás céljából előállított, alkoholtermékben áztatott olyan gyümölcs, amelyről az áztatást követően az alkoholterméket lecsepegtetik vagy amelyet szikkasztanak;
@@ -1742,7 +1743,7 @@ kezeli.
 
 93. § (1) Az állami adó- és vámhatóság az engedéllyel rendelkező személyekről és a nyilvántartásba vett személyekről nyilvántartást vezet.
 
-(2) Az (1) bekezdés szerinti nyilvántartás az engedélyes vagy a nyilvántartásba vett nevére, engedélyszámára vagy nyilvántartási számára, az engedélyben vagy nyilvántartásban szereplő jövedéki termék, berendezés vagy tevékenység megnevezésére, az engedély kiadása vagy a nyilvántartásba vétel időpontjára, valamint az engedély hatályosságára vonatkozó adatok tekintetében közhiteles hatósági nyilvántartásnak minősül. Az állami adó- és vámhatóság ezen adatokat az ellenőrzés érdekében, az engedély hatályvesztését vagy a nyilvántartásból történő törlést követő 5 évig kezeli.
+(2) Az (1) bekezdés szerinti nyilvántartás az engedélyes vagy a nyilvántartásba vett engedélyszámára vagy nyilvántartási számára, az engedélyben vagy nyilvántartásban szereplő jövedéki termék, berendezés vagy tevékenység megnevezésére, az engedély kiadása vagy a nyilvántartásba vétel időpontjára, valamint az engedély hatályosságára vonatkozó adatok tekintetében közhiteles hatósági nyilvántartásnak minősül. Az állami adó- és vámhatóság ezen adatokat az ellenőrzés érdekében, az engedély hatályvesztését vagy a nyilvántartásból történő törlést követő 5 évig kezeli.
 
 (3) Az állami adó- és vámhatóság a hatályos engedélyek vagy a gazdálkodókról vezetett nyilvántartások azon adatait, amelyek tekintetében az (1) bekezdés szerinti nyilvántartás közhiteles, a honlapján – kivéve a 42. § szerint nyilvántartásba vett személyek adatait – közzéteszi annak érdekében, hogy az engedéllyel rendelkező vagy nyilvántartásba vett személlyel gazdasági kapcsolatba lépő más személy tájékozódhasson üzletfele tevékenységének jogszerűségéről.
 
@@ -1766,6 +1767,8 @@ kezeli.
 
 (7) A 117. § (1) bekezdés c) pontja szerinti adó-visszaigénylés a halászati csoportmentességi rendelet I. melléklete szerinti nagyvállalkozás esetén az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a halászati és akvakultúra-ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló 2014. június 27-i 717/2014/EU bizottsági rendelet (HL L 190, 2014. 6. 18.) szerinti csekély összegű támogatásnak minősül.
 
+(7a) A 128. § (2) bekezdés a) pontja szerinti adómérték alkalmazására jogosult adózó tekintetében a 128. § (2) bekezdés a) és b) pontja szerinti adómérték közötti különbözet csekély összegű (de minimis) támogatásnak minősül, amely az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2023. december 13-i (EU) 2023/2831 bizottsági rendelet [a továbbiakban: (EU) 2023/2831 bizottsági rendelet] szabályaival összhangban vehető igénybe.
+
 (8) A 94. § (1)–(2) bekezdése, illetve a (3)–(6) bekezdés szerinti támogatások nem nyújthatók az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet 6. § (4) bekezdés b) pontja, az (5)–(6) bekezdése szerint nehéz helyzetben lévő vállalkozások, továbbá olyan vállalkozások részére, amelyekkel szemben érvényben van teljesítetlen visszafizetési felszólítás olyan korábbi bizottsági határozat nyomán, amely valamely támogatást jogellenesnek és a belső piaccal összeegyeztethetetlennek nyilvánított.
 
 (9) A 112. § (1) bekezdés b) pontja szerinti adófizetési kötelezettség alóli mentesülés és a hozzá kapcsolódó adó-visszaigénylés, valamint a 113. § (1)–(1a) bekezdése szerinti adó-visszaigénylés mértéke nem haladhatja meg éves szinten a szállítás összköltségének harminc százalékát, továbbá a közúti szállításhoz képest felmerülő externálisköltség-megtakarítás ötven százalékát.
@@ -1777,6 +1780,12 @@ kezeli.
 (12) A (9) bekezdés szerinti költségek megállapításának, a határértékeket meghaladóan visszaigényelt adó visszafizetésének, valamint a határértékeket meghaladóan igénybe vett mentesülés megfizetésének módját a végrehajtási rendelet szabályozza.
 
 (13) A 112. § (1) bekezdés b) pontja és a 113. § (1)–(1a) bekezdése szerinti támogatások nem nyújthatók olyan vállalkozás részére, amely nem tett eleget az Európai Bizottság valamely korábbi támogatást jogellenesnek és a belső piaccal összeegyeztethetetlennek nyilvánító, és annak visszatérítését elrendelő határozatának.
+
+(14) A 128. § (2) bekezdés a) pontja szerinti adókedvezmény igénybevétele esetén az adózó és a vele egy és ugyanazon vállalkozásnak minősülő vállalkozások részére az (EU) 2023/2831 bizottsági rendelet hatálya alá tartozó, bármely három év során Magyarországon odaítélt csekély összegű támogatás bruttó támogatástartalma nem haladhatja meg a 300 000 eurónak megfelelő forintösszeget, figyelembe véve az (EU) 2023/2831 bizottsági rendelet 3. cikk (8) és (9) bekezdését.
+
+(15) A 128. § (2) bekezdés a) pontja szerinti adókedvezmény, az Európai Unió működéséről szóló szerződés 107. és 108. cikkének az általános gazdasági érdekű szolgáltatást nyújtó vállalkozások számára nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2023. december 13-i (EU) 2023/2832 bizottsági rendelet alapján nyújtott támogatás kivételével, más csekély összegű támogatásokról szóló rendeletek alapján nyújtott csekély összegű támogatással a (14) bekezdésben meghatározott értékhatárig halmozható.
+
+(16) A 128. § (2) bekezdés a) pontja szerinti adókedvezmény halmozható azonos elszámolható költségek vagy azonos kockázatfinanszírozási célú intézkedés vonatkozásában nyújtott állami támogatással, ha a halmozás következtében az odaítélt támogatások nem lépik túl a csoportmentességi rendeletekben vagy az Európai Bizottság jóváhagyó határozatában meghatározott legmagasabb támogatási intenzitást vagy összeget.
 
 ### IX. Fejezet — ELLENŐRZÉS ÉS JOGKÖVETKEZMÉNYEK
 
@@ -2255,7 +2264,12 @@ felhasznált, évente hektáronként legfeljebb 97 liter gázolaj megfizetett ad
 
 128. § (1) Az adó alapja a habzóbor mennyisége hektoliterben kifejezve.
 
-(2) Az adó mértéke hektoliterenként 18 100 forint.
+(2) Az adó mértéke hektoliterenként
+
+- a) a kisüzemi habzóbor előállító által előállított habzóbor esetében 9830 forint,
+- b) más habzóbor esetében 19 650 forint.
+
+(3) A 3. § (3) bekezdés 16a. pontjában szereplő termelési mennyiséget túllépő személy sem a tárgy borpiaci évben, sem a tárgy borpiaci évet követő három borpiaci évben nem alkalmazhatja a (2) bekezdés a) pontja szerinti adómértéket, továbbá ha a 79. § (3) bekezdése alapján adózik, az általa a tárgy borpiaci évben szabadforgalomba bocsátott habzóbor mennyiségére a (2) bekezdés b) pontja szerinti adómértékkel számított összeg és a (2) bekezdés a) pontja szerinti adómértékkel számított összeg különbözetét a következő naptári hónapban bevallja, megfizeti és a termék-nyilvántartásában a változást átvezeti.
 
 #### 85. Egyéb csendes erjesztett ital
 
@@ -2332,10 +2346,7 @@ felhasznált, évente hektáronként legfeljebb 97 liter gázolaj megfizetett ad
 (3) Egyszerűsített adóraktárban
 
 - a) a 129. § (2) bekezdés a) pontja szerinti adómértékkel adózó egyéb csendes erjesztett ital előállítható, átvehető, tárolható, forgalomba hozható,
-- b) a saját szőlőből vagy saját előállítású csendes borból palackos erjesztéssel előállított habzóbor előállítható, átvehető, tárolható, forgalomba hozható,
-- c) a saját szőlőből vagy saját előállítású csendes borból nem palackos erjesztéssel előállított, palackozott habzóbor átvehető, tárolható, forgalomba hozható,
-
-azzal, hogy a b) és c) pont szerinti előállított, átvett termék összmennyisége évente legfeljebb 50 000 liter lehet és a b) és c) pont szerinti termék együttes készlete nem haladhatja meg az 50 000 litert, valamint egyszerűsített adóraktárból nem adható fel habzóbor másik egyszerűsített adóraktárnak és kisüzemi bortermelőnek.
+- b) saját szőlőből vagy saját előállítású csendes borból habzóbor előállítható, átvehető, tárolható, forgalomba hozható borpiaci évenként legfeljebb 500 hektoliter mennyiségben, és e termék készlete nem haladhatja meg az 500 hektolitert, valamint egyszerűsített adóraktárból nem adható fel habzóbor másik egyszerűsített adóraktárnak és kisüzemi bortermelőnek.
 
 (3a) Az egyszerűsített adóraktár engedélyese egyszerűsített adóraktárban a fogyasztó számára történő közvetlen értékesítés céljából egy borpiaci évben az általa vagy vele egy borgazdasági egységbe tartozó személy által az elmúlt három borpiaci évben művelt szőlőterület után hektáronként legfeljebb 0,7 hektoliter tiszta szesz, de legfeljebb összesen 1,5 hektoliter tiszta szesz mennyiségű kedvezményes párlatot vehet át. Az egyszerűsített adóraktár engedélyese egyidőben az általa vagy vele egy borgazdasági egységbe tartozó személy által az elmúlt három borpiaci évben művelt szőlőterület után hektáronként legfeljebb 0,7 hektoliter tiszta szesz, de összesen legfeljebb 1,5 hektoliter tiszta szesz mennyiségű kedvezményes párlatot tarthat készleten.
 
@@ -2388,11 +2399,8 @@ azzal, hogy a b) és c) pont szerinti előállított, átvett termék összmenny
 (4b) A kisüzemi bortermelő
 
 - a) csendes bort a (4c) bekezdésben foglaltak kivételével nem vesz át,
-- b) saját szőlőből vagy saját előállítású csendes borból palackos erjesztéssel előállított habzóbort előállíthat, átvehet, tárolhat, forgalomba hozhat,
-- c) saját szőlőből vagy saját előállítású csendes borból nem palackos erjesztéssel előállított, palackozott habzóbort átvehet, tárolhat, forgalomba hozhat,
-- d) az a)–c) pont szerinti termékeken kívül – a (4d) bekezdésben foglaltak kivételével – más jövedéki terméket nem állít elő, nem tárol és nem hoz forgalomba,
-
-azzal, hogy a b) és c) pont szerinti előállított, átvett termék összmennyisége évente legfeljebb 50 000 liter lehet és a b) és c) pont szerinti termék együttes készlete nem haladhatja meg az 50 000 litert, valamint kisüzemi bortermelőtől nem adható fel habzóbor másik kisüzemi bortermelőnek és egyszerűsített adóraktárnak.
+- b) saját szőlőből vagy saját előállítású csendes borból habzóbort előállíthat, átvehet, tárolhat, forgalomba hozhat borpiaci évenként legfeljebb 500 hektoliter mennyiségben, és e termék készlete nem haladhatja meg az 500 hektolitert, valamint kisüzemi bortermelőtől nem adható fel habzóbor másik kisüzemi bortermelőnek és egyszerűsített adóraktárnak,
+- c) az a)–b) pont szerinti termékeken kívül – a (4d) bekezdésben foglaltak kivételével – más jövedéki terméket nem állít elő, nem tárol és nem hoz forgalomba.
 
 (4c) Kisüzemi bortermelő csendes bort a következő esetekben vesz át:
 

@@ -94,6 +94,7 @@ alapul, amelyek előmozdításához és szervezéséhez szükséges alapvető fe
 - 27. az ország védelme és biztonsága szempontjából jelentős kettős kijelöléssel nem érintett szervezet: az ország védelme és biztonsága szempontjából jelentős szervezet, amelyet honvédelmi ágazati kijelölő hatóság jelölt ki nem honvédelem ágazatban, és az általános kijelölő hatóság nem jelölte ki, valamint a honvédelmi ágazati kijelölő hatóság által a 43/N. § alapján kijelölt olyan szervezet, mely kritikus szervezetként nem került kijelölésre,
 - 28. az ország védelme és biztonsága szempontjából jelentős kettős kijelölésű infrastruktúra: az ország védelme és biztonsága szempontjából jelentős infrastruktúra, melyet a honvédelmi ágazati kijelölő hatóság is kijelölt, valamint az a kritikus infrastruktúra, melyet a honvédelmi ágazati kijelölő hatóság a 43/N. § alapján is kijelölt,
 - 29. az ország védelme és biztonsága szempontjából jelentős kettős kijelölésű szervezet: az ország védelme és biztonsága szempontjából jelentős szervezet, melyet a honvédelmi ágazati kijelölő hatóság is kijelölt, valamint az a kritikus szervezet, melyet a honvédelmi ágazati kijelölő hatóság a 43/N. § alapján is kijelölt,
+- 29a. az ország védelme és biztonsága szempontjából jelentős lőtér: a védelmi és biztonsági igazgatás központi szerve által kijelölt, lőtér-üzemeltetési engedéllyel rendelkező polgári rendeltetésű lőtér, amely folyamatos működésével és rendelkezésre állásával részt vesz a védelmi és biztonsági érdekből végzett felkészítésben és lőgyakorlathoz, kiképzéshez használnak,
 - 30. az ország védelme és biztonsága szempontjából jelentős szervezet: az általános kijelölő hatóság vagy a honvédelmi ágazati kijelölő hatóság által kijelölt olyan alapvető szolgáltatást nyújtó szervezet, amely elengedhetetlen Magyarország társadalmi, gazdasági stabilitásához és a biztonság, a környezet, a védelmi képességek és a nemzeti ellenálló képességi rendszer fenntartásához.
 - 31. általános kijelölő hatóság: az ország védelme és biztonsága szempontjából jelentős szervezet, az ország védelme és biztonsága szempontjából jelentős infrastruktúra kijelölésére, a kijelölés fenntartására, vagy a kijelölés visszavonására irányuló közigazgatási hatósági eljárás lefolytatására kormányrendeletben kijelölt hatóság, amely a honvédelmi ágazati kijelölő hatóság kijelölési eljárása során az egyes közérdeken alapuló kényszerítő indok alapján eljáró szakhatóságok kijelöléséről szóló kormányrendeletben meghatározott esetekben szakhatóságként is közreműködik,
 - 32. ellenálló képességért felelős vezető: az ország védelme és biztonsága szempontjából jelentős szervezet vezető tisztségviselője vagy a vezető tisztségviselőkből álló testület közvetlen irányítása alá tartozó, az ország védelme és biztonsága szempontjából jelentős szervezet ellenálló képességének fejlesztéséért és a szervezet az ország védelme és biztonsága szempontjából jelentős státuszából eredő, az V/A. Fejezet és a kritikus szervezetek ellenálló képességéről szóló 2024. évi LXXXIV. törvény (a továbbiakban: Kszetv.) szerinti kötelezettségeinek teljesítéséért felelős személy,
@@ -617,6 +618,12 @@ megerősítése és a káros hatások csökkentése érdekében a Kormány irán
 - f) a természeti és ipari katasztrófák megelőzése, valamint a kockázatok lehető legkisebbre csökkentése, a következmények mielőbbi helyreállítása, valamint
 - g) a kritikus szervezetek és a kritikus infrastruktúrák, valamint az ország védelme és biztonsága szempontjából jelentős szervezetek és az ország védelme és biztonsága szempontjából jelentős infrastruktúrák ellenálló képessége és az alapvető szolgáltatások folyamatosságának biztosítása.
 
+42/A. § (1) Az ország védelme és biztonsága szempontjából jelentős lőtérré kizárólag olyan lőtér jelölhető ki, amely a nemzeti ellenállóképesség fejlesztése érdekében állami szervvel kötött együttműködési megállapodás alapján közreműködik a Magyar Honvédség, rendvédelmi szerv, fegyveres biztonsági őrség vagy más, az állam védelmi és biztonsági feladataiban közreműködő szerv állományának felkészítésében, képzésében vagy kiképzésében.
+
+(2) A kijelölő eljárásban a sommás eljárás kizárt.
+
+(3) A védelmi és biztonsági igazgatás központi szerve – a kijelölésre és a működés feltételeire vonatkozó, e törvény végrehajtására kiadott kormányrendeletben megállapított szabályok keretei között – meghatározza a lőtér folyamatos működésének követelményeit.
+
 43. § (1) A pilóta nélküli légijárművel végrehajtott támadás vagy jogosulatlan megfigyelés elleni védelem biztosítása érdekében a Kormány rendeletében meghatározottak szerint kijelölt szervnek, gazdasági társaságnak, illetve annak meghatározott létesítményének a Kormány rendeletében meghatározottak szerint beszerzett, telepített és folyamatosan üzemeltetett pilóta nélküli légijármű-védelmi rendszert kell üzemben tartania.
 
 (2) A Kormány rendeletében kijelölt szerv látja el a pilóta nélküli légijármű elleni védelem – (1) bekezdés szerinti pilóta nélküli légijármű-védelmi rendszer útján történő – biztosítását.
@@ -882,6 +889,7 @@ vonatkozó rendelkezéseit kell alkalmazni.
 - i) ellenőrzi a védelmi és biztonsági célú feladatellátást és az arra való felkészülést a minisztériumok, kormányzati főhivatalok, központi hivatalok tekintetében, valamint a nemzetbiztonsági szolgálatok tekintetében, valamint, a kritikus szervezetek és az ország védelme és biztonsága szempontjából jelentős szervezetek kijelölő hatóságai körében,
 - j) koordinálja a különleges jogrendi felkészülés ágazati feladatainak ellátását, valamint
 - k) ellátja a jogszabályban részére meghatározott további feladatokat.
+- l) kijelöli az ország védelme és biztonsága szempontjából jelentős lőteret.
 
 #### 23. A védelmi és biztonsági igazgatás területi és helyi szervei
 
@@ -1385,6 +1393,8 @@ hatékonyságára, eredményességére, kormányzati összehangolás keretében 
 
 (4) Az összehangolt védelmi tevékenység elrendeléséről a lakosságot – a nemzetbiztonsági érdek védelmének elsőbbségével – kormányrendeletben meghatározottak szerint azonnali hatállyal tájékoztatni kell és gondoskodni kell a lakosságtájékoztatás folyamatosságáról.
 
+(5) Összehangolt védelmi tevékenység, ha az elrendelése feltételei fennállnak, különleges jogrend idején is elrendelhető.
+
 #### 37. Az összehangolt védelmi tevékenység irányítása és a részt vevő szervek feladatai
 
 75. § (1) Az összehangolt védelmi tevékenységgel kapcsolatos
@@ -1497,7 +1507,7 @@ fokozott készenlétét, illetve intézkedhet az ehhez szükséges mértékben a
 
 az állampolgárok élet-, egészség-, személyi, vagyon- és jogbiztonságának, valamint a nemzetgazdaság stabilitásának garantálása érdekében rendeletével egyes törvények alkalmazását felfüggesztheti, törvényi rendelkezésektől eltérhet, és egyéb rendkívüli intézkedéseket hozhat.
 
-(2) A Kormány az (1) bekezdés szerinti hatáskörét
+(2) A Kormány az (1) bekezdés szerinti hatáskörét – a (2a) bekezdés szerinti kivétellel –
 
 - a) a személyes szabadsággal és az életkörülményekkel összefüggő,
 - b) a gazdaság- és ellátásbiztonsággal összefüggő,
@@ -1507,9 +1517,15 @@ az állampolgárok élet-, egészség-, személyi, vagyon- és jogbiztonságána
 - f) az országvédelemmel és országmozgósítással összefüggő,
 - g) az a)–f) pontban nem szereplő egyéb, a hadiállapotot, a szükségállapotot, a veszélyhelyzetet kiváltó esemény megelőzésével, kezelésével, felszámolásával, továbbá káros hatásainak megelőzésével, illetve elhárításával közvetlenül összefüggő
 
-szabályozási tárgykörökben gyakorolhatja.
+tárgykörökben gyakorolhatja.
+
+(2a) A Kormány az (1) bekezdés d) pontja szerinti hatáskörében kizárólag az Országgyűlés által adott felhatalmazásban meghatározott tárgykörökben függesztheti fel törvények alkalmazását, illetve térhet el törvényi rendelkezésektől. Az Országgyűlés törvények alkalmazásának felfüggesztésére, illetve törvényi rendelkezésektől eltérésre a veszélyhelyzetet kiváltó esemény megelőzésével, kezelésével, felszámolásával, továbbá káros hatásainak megelőzésével, illetve elhárításával közvetlenül összefüggően, a (2) bekezdés szerinti tárgykörökben, illetve általános jelleggel adhat felhatalmazást a Kormány részére.
+
+(2b) A Kormány hatályon kívül helyezi azon az Alaptörvény 53. cikk (1) bekezdés b) pontja szerinti rendeletét, amely – különösen a felhatalmazásban foglalt tárgykörök megváltozása vagy a meghatározott időtartam lejárta, illetve megváltozása következtében – nem felel meg a (2a) bekezdés szerinti felhatalmazásban meghatározott szabályozási kereteknek.
 
 (3) A Kormány az (1) bekezdés szerinti hatáskörét – a hadiállapotot, a szükségállapotot, a veszélyhelyzetet kiváltó eseményhez igazodó szükséges mértékben, az elérni kívánt céllal arányosan – a hadiállapotot, a szükségállapotot, a veszélyhelyzetet kiváltó esemény megelőzése, kezelése, felszámolása, továbbá káros hatásainak megelőzése, illetve elhárítása céljából gyakorolhatja.
+
+(3a) A Kormány az (1) bekezdés szerinti hatáskörében törvény, törvényi rendelkezés hatályba léptető vagy hatályon kívül helyező rendelkezésétől nem térhet el, törvény, törvényi rendelkezés hatályát nem függesztheti fel, továbbá hatályát vesztett jogszabály, jogszabályi rendelkezés hatályban tartását, ismételt hatálybalépését nem rendelheti el.
 
 (4) A Kormány az (1) bekezdés a) pontja szerinti esetben az (1) bekezdés szerinti hatáskörét – a (3) bekezdésben foglaltak sérelme nélkül – kizárólag olyan intézkedések bevezetésével összefüggésben gyakorolhatja, amelyek az azonnali reagálás érdekében, a kezelendő fenyegetéshez igazodó mértékben szükségesek és arányosak.
 
@@ -1525,7 +1541,9 @@ szabályozási tárgykörökben gyakorolhatja.
 
 (2) Ha az (1) bekezdésben meghatározott kihirdetés bármely okból akadályba ütközne, a kihirdetést a rendvédelmi szervek és a Honvédség technikai eszközeinek igénybevételével kell a lehetséges mértékben megvalósítani.
 
-82/A. § Az Országgyűlés Alaptörvény 51. cikk (3) bekezdése szerinti döntését kezdeményező javaslat a felhatalmazás alkalmanként legfeljebb 180 napos időtartamú megadására irányulhat.
+82/A. § (1) Az Országgyűlés Alaptörvény 51. cikk (3) bekezdése szerinti döntését kezdeményező javaslat a felhatalmazás alkalmanként legfeljebb 6 hónapos időtartamú megadására irányulhat.
+
+(2) Az Országgyűlés Alaptörvény 53. cikk (1) bekezdés b) pontja szerinti döntését kezdeményező javaslat a felhatalmazás alkalmanként legfeljebb 6 hónapos időtartamú megadására irányulhat.
 
 ## ÖTÖDIK RÉSZ — ZÁRÓ RENDELKEZÉSEK
 
@@ -1541,7 +1559,7 @@ szabályozási tárgykörökben gyakorolhatja.
 - 4. a gazdasági társaság honvédelmi, rendvédelmi, nemzetbiztonsági, valamint egyéb állami fegyveres szervek részére előírható ellátási kötelezettségének részletes szabályait, az ellátási kötelezettség körébe tartozó termékeket és szolgáltatásokat, valamint ezeknek a honvédelmi, és rendvédelmi, nemzetbiztonsági, valamint egyéb állami fegyveres szervek részére való átadásának-átvételének és azok ellentételezésének rendjét,
 - 5. a védelmi és biztonsági igazgatás központi szervét, a védelmi és biztonsági igazgatási feladatokat ellátó szervek és személyek, valamint a nemzeti eseménykezelő központ feladataira és működési rendjére, a védelmi és biztonsági igazgatás szakmai irányítására, felkészítésére, továbbá a védelmi és biztonsági tervezésre és ellenőrzésre vonatkozó részletes szabályokat,
 - 6. a védelmi és biztonsági igazgatási feladatok ellátásával összefüggő minősített adatközlési feltételek kialakítására és fenntartására, a védett kommunikáció kialakítására és működtetésére, valamint az érintett kormányzati igazgatási szervek kijelölésére vonatkozó szabályokat,
-- 7.
+- 7. az ország védelme és biztonsága szempontjából jelentős lőtér kijelölésének részletes szabályait, valamint a működésének feltételeit,
 - 8. a NATO Válságreagálási Rendszerével összefüggő döntéshozatal és feladatellátás részletes szabályait, valamint az ezzel összhangban álló Nemzeti Intézkedési Rendszer alkalmazásával összefüggő szabályokat,
 - 9. az összehangolt védelmi tevékenység elrendelését, valamint az e törvényben meghatározott intézkedések bevezetését.
 - 10. az ország védelme és biztonsága szempontjából jelentős szervezet, az ország védelme és biztonsága szempontjából jelentős infrastruktúra kijelölésével kapcsolatos részletes szabályokat, az eljáró hatóságokat, a kijelölés ágazati kritériumait.

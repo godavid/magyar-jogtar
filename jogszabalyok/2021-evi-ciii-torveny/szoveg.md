@@ -104,9 +104,9 @@ A törvényt az Országgyűlés a 2021. szeptember 27-i ülésnapján fogadta el
 
 31. §
 
-#### 13.
+#### 13. A veszélyhelyzet megszűnésével összefüggő átmeneti szabályokról és a járványügyi készültségről szóló 2020. évi LVIII. törvény módosítása
 
-32. §
+32. § Nem lép hatályba a veszélyhelyzet megszűnésével összefüggő átmeneti szabályokról és a járványügyi készültségről szóló 2020. évi LVIII. törvény 333. §-a, 335. §-a és 337. § c) pontja.
 
 #### 14. A Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény módosítása
 

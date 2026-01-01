@@ -8,7 +8,7 @@ Az Országgyűlés a fogyasztási-forgalmi adók adórendszerben betöltött sze
 
 1. § E törvény alkalmazásában:
 
-- 1. kiskereskedelmi tevékenység: a 2025. január 1-jén hatályos Gazdasági Tevékenységek Egységes Osztályozási Rendszere (TEÁOR’25) szerint a 47.1–47.9 alágazatokba sorolt azon tevékenységek, amelyek folytatása esetén a vevő magánszemély is lehet;
+- 1. kiskereskedelmi tevékenység: a 2025. január 1-jén hatályos Gazdasági Tevékenységek Egységes Osztályozási Rendszere (TEÁOR’25) szerint a 47.1–47.9 alágazatokba sorolt azon tevékenységek – ide nem értve az üzemanyagtöltő állomáson történő szolgáltatás-értékesítést –, amelyek folytatása esetén a vevő magánszemély is lehet;
 - 2. nettó árbevétel:
   - a) a számvitelről szóló 2000. évi C. törvény (a továbbiakban: Sztv.) hatálya alá tartozó adóalany esetén az Sztv-ben meghatározott értékesítés nettó árbevétele,
   - b) az egyedi beszámolóját az Sztv. 3. § (10) bekezdés 2. pontjában meghatározott IFRS-ek szerint készítő adóalany esetén, a helyi adókról szóló 1990. évi C. törvény 40/C. §-a szerinti nettó árbevétel,
@@ -68,10 +68,12 @@ Az Országgyűlés a fogyasztási-forgalmi adók adórendszerben betöltött sze
 - c) az adóalap 50 milliárd forintot meghaladó, de 150 milliárd forintot meg nem haladó része után 1 százalék,
 - d) az adóalap 150 milliárd forintot meghaladó része után 4,5 százalék.
 
-(1a) A 2025. január 1-jén hatályos Gazdasági Tevékenységek Egységes Osztályozási Rendszere (TEÁOR’25) szerint 47.3 ágazatba sorolt kiskereskedelmi tevékenység (a továbbiakban: gépjármű-üzemanyag kiskereskedelem) esetében a 2025-ben és a 2026-ban kezdődő adóévben az adó mértéke
+(1a) A 2025. január 1-jén hatályos Gazdasági Tevékenységek Egységes Osztályozási Rendszere (TEÁOR’25) szerint 47.3 ágazatba sorolt kiskereskedelmi tevékenység – ide nem értve az üzemanyagtöltő állomáson történő szolgáltatás-értékesítést – (a továbbiakban: gépjármű-üzemanyag kiskereskedelem) esetében a 2025-ben és a 2026-ban kezdődő adóévben az adó mértéke
 
 - a) a gépjármű-üzemanyag kiskereskedelemből származó adóévi nettó árbevételből keletkezett adóalaprész 500 millió forintot meg nem haladó része után 0 százalék,
 - b) a gépjármű-üzemanyag kiskereskedelemből származó adóévi nettó árbevételből keletkezett adóalaprész 500 millió forintot meghaladó része után 3 százalék.
+
+(1b) Az (1a) bekezdés alkalmazásában, amennyiben a gépjármű-üzemanyag kiskereskedelmi értékesítése más termékkel együtt történik, akkor a gépjármű-üzemanyag kiskereskedelmi értékesítése után az (1a) bekezdés szerinti adómértékek, az egyéb termék kiskereskedelmi értékesítése után az (1) bekezdés szerinti adómértékek alkalmazásával, egymástól függetlenül, önállóan kell az adókötelezettséget megállapítani.
 
 (2) Ha az adóév 365 napnál rövidebb, a fizetendő adó összege az adóévi 4. § szerinti adóalapnak az adóév naptári napjai alapján 365 napos időszakra számított összege alapján az (1) bekezdés szerinti adómértékkel megállapított adóösszegnek az adóév naptári napjaival arányos része.
 

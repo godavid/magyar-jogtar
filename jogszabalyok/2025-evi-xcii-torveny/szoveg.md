@@ -22,13 +22,21 @@ a magánjogi tárgyú törvények módosításáról
 
 #### 1. §
 
-#### 2.
+#### 2. A közjegyzőkről szóló 1991. évi XLI. törvény módosítása
 
-#### 2. §
+2. § A közjegyzőkről szóló 1991. évi XLI. törvény 55. § (1) bekezdés 10. pontja helyébe a következő rendelkezés lép:
 
-#### 3. §
+(Az országos kamara szabályzatban rendelkezik)
 
-#### 4. §
+„10. minden ügytípusra kiterjedően a közjegyzői díjszabásról szóló rendelet alkalmazásáról,”
+
+3. § A közjegyzőkről szóló 1991. évi XLI. törvény 182. §-a a következő (23) és (24) bekezdéssel egészül ki:
+
+„(23) A 2026. január 1-je előtt megüresedett és 2026. január 1-jén üres közjegyzői álláshely betöltésére kiírt pályázatról, annak kiírását megelőzően a miniszter köteles a területi kamarát tájékoztatni. A területi kamara a honlapján tájékoztatást tesz közzé az üres álláshelyről, amelynek a közzétételétől számított 15 napon belül a 20. § (3) bekezdése szerinti áthelyezési kérelem előterjesztésének van helye. Ha nem érkezik be áthelyezési kérelem, akkor a területi kamara erről szóló tájékoztatásának kézhezvételétől számított 30 napon belül a miniszter kiírja a pályázatot. E rendelkezést azon közjegyzői álláshelyre is alkalmazni kell, amelyről a területi kamara a 18. § (2) bekezdés szerint 2026. január 1-je előtt adott tájékoztatást.
+
+(24) A 20. § és a (23) bekezdés rendelkezései nem alkalmazhatók olyan közjegyzői álláshely esetén, amelyre a miniszter 2025. december 31-e előtt pályázatot írt ki, de a pályázati eljárás 2026. január 1-jén még nem zárult le.”
+
+4. § A közjegyzőkről szóló 1991. évi XLI. törvény 114. § (4) bekezdés b) pontjában a „terjeszti fel” szövegrész helyébe a „terjeszti fel elektronikus úton” szöveg lép.
 
 #### 3.
 
@@ -116,11 +124,13 @@ a magánjogi tárgyú törvények módosításáról
 
 #### 37. §
 
-#### 38. §
+38. § A bírák jogállásáról és javadalmazásáról szóló 2011. évi CLXII. törvény a következő 235. §-sal egészül ki:
+
+„235. § Ha a 234. § hatálya alá tartozó katonai bíró a 25/F. § szerinti továbbfoglalkoztatását kéri, és az OBH elnöke az érintett bíró katonai bírói tisztségből történő felmentéséről szóló javaslatot már a köztársasági elnök elé terjesztette, az OBH elnöke – a 97. § (3) bekezdésétől eltérően – a bírói tisztségre való kinevezésről szóló önálló javaslatot terjeszt a köztársasági elnök elé azzal, hogy az e felterjesztés alapján történő kinevezés a katonai bírói tisztség megszüntetésével egyidejű bírói kinevezésnek minősül.”
 
 #### 39. §
 
-#### 40. §
+40. § A bírák jogállásáról és javadalmazásáról szóló 2011. évi CLXII. törvény 237. § (1) bekezdésében a „232/Z. §-a” szövegrész helyébe a „232/Z. §-a, 234. §-a, 235. §-a,” szöveg lép.
 
 #### 13. A legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény módosítása
 
@@ -260,11 +270,11 @@ lép.
 
 #### 92. §
 
-#### 24.
+#### 24. Az igazságügyi tárgyú törvények módosításáról szóló 2025. évi XLIX. törvény módosítása
 
-#### 93. §
+93. § Az igazságügyi tárgyú törvények módosításáról szóló 2025. évi XLIX. törvény 246. § (1) bekezdés b) pontjában a „szóló 2016” szövegrész helyébe a „szóló, 2016” szöveg lép.
 
-#### 94. §
+94. § Nem lép hatályba az igazságügyi tárgyú törvények módosításáról szóló 2025. évi XLIX. törvény 72. § b) pontja.
 
 #### 25. Záró rendelkezések
 

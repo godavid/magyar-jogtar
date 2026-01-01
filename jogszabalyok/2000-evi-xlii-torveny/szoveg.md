@@ -115,7 +115,7 @@ látja el.
 - c) az orvos működési nyilvántartási száma;
 - d) annak megjelölése, hogy az orvos belvízi vagy tengeri hajós szolgálatot ellátó személy egészségi alkalmasságának vizsgálatára jogosult.
 
-(4) Az egészségi alkalmasság vizsgálatát végző orvosok nyilvántartása közhiteles nyilvántartásnak minősül, amelyet – az orvos nevét nem érintő természetes személyazonosító adatok kivételével – a hajózási hatóság a honlapján bárki számára ingyenesen és korlátozásmentesen megismerhető módon közzétesz.
+(4) Az egészségi alkalmasság vizsgálatát végző orvosok nyilvántartása a (3) bekezdés a) és d) pontjában szereplő adatok vonatkozásában közhiteles hatósági nyilvántartásnak minősül, amelyet a hajózási hatóság a honlapján bárki számára ingyenesen és korlátozásmentesen megismerhető módon közzétesz.
 
 (5) A hajózási hatóság a nyilvántartásában lévő természetes személyazonosító adatokat az orvos nyilvántartásból való törlését követő két évig kezeli.
 
@@ -184,12 +184,14 @@ lajstromban tartja nyilván.
 
 (4) A tulajdonos a lajstromból törölt úszólétesítményt köteles a víziútról eltávolítani, vagy azt a hajózást és a környezetet nem veszélyeztető módon, továbbá a vizek fenntartási munkáinak sérelme és akadályoztatása nélkül úgy elhelyezni, hogy az a víziközlekedés résztvevői számára ne jelentsen akadályt vagy veszélyt.
 
-10. § (1) A lajstrom nyilvánosan és közhitelesen tanúsítja a lajstromozott
+10. § (1) A lajstrom nyilvánosan tanúsítja a lajstromozott
 
 - a) úszólétesítmény állami hovatartozását;
 - b) az úszólétesítmény tulajdonosának természetes személyazonosító adatait és címét, illetve jogi személy esetén székhelyét, alapítójának nevét, a gazdasági társaság tagjának természetes személyazonosító adatait és címét, valamint tulajdoni arányát, a gazdasági társaság formáját és cégjegyzékszámát;
 - c) úszólétesítményhez kapcsolódó jogokat és jogi szempontból jelentős tényeket;
 - d) úszólétesítmény azonosító adatait.
+
+(1a) A lajstrom az (1) bekezdés a), c) és d) pontjában szereplő adatok vonatkozásában közhiteles hatósági nyilvántartásnak minősül.
 
 (2) A lajstrom megtekintése során a tulajdonosról nevének, székhelyének (címének) kivételével egyéb azonosító adat nem juthat a betekintő tudomására. A lajstrom egyes részeiről kiadott másolaton a nevén és székhelyén (címén) kívül a tulajdonosról egyéb azonosító adat nem tüntethető fel.
 
@@ -390,13 +392,13 @@ miatt vagy bűnszervezet keretében elkövetett bűntett miatt nem ítéltek el,
 
 (8) A vizsgaközpont, valamint a hajózási hatóság a jogszabály által meghatározott feladat- és hatáskörét érintően biztosítja, hogy a hivatásos hajós képesítésekkel kapcsolatos kompetenciák megszerzésével és értékelésével kapcsolatos tevékenységet, valamint az uniós képesítő bizonyítvánnyal, a szolgálati könyvvel és a hajónaplóval kapcsolatos adminisztrációt 2037. január 17-ig, azt követően pedig legalább tízévente független szerv értékelje. A vizsgaközpont, valamint a hajózási hatóság az értékelések eredményeit dokumentálja és az érintett hatóságok tudomására hozza.
 
-26/A. § (1) A hajózási hatóság a jóváhagyott képzőszervekről nyilvántartást vezet, amely az alábbi adatokat tartalmazza
+26/A. § (1) A hajózási hatóság a jóváhagyott képzőszervekről nyilvántartást vezet, amely tartalmazza
 
-- a) a képző szervezet nevét és címét;
+- a) a képző szervezet nevét és az általa megadott elérhetőségeit;
 - b) az engedély számát, dátumát és annak hatályát; valamint
-- c) a jóváhagyott képzés típusát.
+- c) a jóváhagyott képzés típusát és jellegét.
 
-(2) Az (1) bekezdés szerinti nyilvántartás az (1) bekezdés b)–c) pontjában szereplő adatok vonatkozásában közhiteles hatósági nyilvántartásnak minősül.
+(2) Az (1) bekezdés szerinti nyilvántartás adatai nyilvánosak, azokat a hajózási hatóság a honlapján közzéteszi.
 
 (3) A hajózási hatóság a képzőszerv engedélyét visszavonja és a képzőszervet a nyilvántartásból törli, ha
 
@@ -421,7 +423,9 @@ miatt vagy bűnszervezet keretében elkövetett bűntett miatt nem ítéltek el,
 - c) nyilvántartásba vétel száma, időpontja,
 - d) nyilvántartásba vétel alapját képező engedélyező döntés kelte, száma.
 
-(3) A névjegyzék a (2) bekezdés a), c) és d) pontjában szereplő adatok vonatkozásában közhiteles hatósági nyilvántartásnak minősül.
+(3) A névjegyzék a (2) bekezdés c) és d) pontjában szereplő adatok vonatkozásában közhiteles hatósági nyilvántartásnak minősül.
+
+(3a) A névjegyzékben szereplő vizsgabiztosok nevét és a vizsgabiztos igazolványának számát a hajózási hatóság a honlapján közzéteszi.
 
 (4) A hajózási hatóság a vizsgabiztosi tevékenység gyakorlásának időtartama alatt lefolytatott hatósági ellenőrzés keretében ellenőrzi azt is, hogy a vizsgabiztos büntetlen előéletű-e.
 
@@ -444,7 +448,7 @@ miatt vagy bűnszervezet keretében elkövetett bűntett miatt nem ítéltek el,
 - c) nyilvántartásba vétel száma, időpontja,
 - d) nyilvántartásba vétel alapját képező engedélyező döntés kelte, száma.
 
-(3) A névjegyzék a (2) bekezdés a), c) és d) pontjában szereplő adatok vonatkozásában közhiteles hatósági nyilvántartásnak minősül.
+(3) A névjegyzék a (2) bekezdés c) és d) pontjában szereplő adatok vonatkozásában közhiteles hatósági nyilvántartásnak minősül.
 
 (4) A hajózási hatóság az oktatói tevékenység gyakorlásának időtartama alatt lefolytatott hatósági ellenőrzés keretében ellenőrzi azt is, hogy az oktató büntetlen előéletű-e.
 
@@ -748,7 +752,21 @@ nyújtani, valamint – szükség esetén – gondoskodni arról, hogy a beteg a
 
 (2a) A hivatásos hajós képesítésekről szóló miniszteri rendelet hatálya alá nem tartozó úszólétesítmény személyzete részére hajós szolgálati könyv nem kötelező.
 
-(3) A kiadott szolgálati könyvekről a kiadó hajózási hatóság nyilvántartást vezet, amely nyilvántartás a hajón töltött szolgálati időre, a beosztásra és az egészségügyi alkalmasságra vonatkozó adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
+(3) A kiadott szolgálati könyvekről a kiadó hajózási hatóság nyilvántartást vezet az alábbi adatokkal:
+
+- a) a szolgálati könyv tulajdonosának
+  - aa) neve és születési adatai,
+  - ab) személyzeti azonosító száma,
+  - ac) fényképe,
+- b) a szolgálati könyv sorszáma,
+- c) a kiállítás dátuma,
+- d) a kiállító hatóság megnevezése,
+- e) a szolgálati könyv tulajdonosának képesítései,
+- f) szolgálati idő és beosztás,
+- g) szolgálati idő alatt megtett utak,
+- h) egészségügyi alkalmasságra vonatkozó adatok.
+
+(4) A (3) bekezdés szerinti nyilvántartás a (3) bekezdés b)–h) pontjában szereplő adatok vonatkozásában közhiteles hatósági nyilvántartásnak minősül.
 
 ### Személyes adatok kezelése
 
@@ -789,7 +807,7 @@ kezeli.
 - d) a tengerész munkaközvetítő és a tengerész kölcsönbeadó Tengerészeti Munkaügyi Egyezménynek való megfelelését igazoló, a hajózási hatóság által kiadott bizonyítvány száma;
 - e) a tengerész munkaközvetítő és a tengerész kölcsönbeadó hajózási hatóság nyilvántartásából való törlésére, tevékenységének felfüggesztésére vonatkozó adatok.
 
-(6a) A tengerész munkaközvetítők és a tengerész kölcsönbeadók nyilvántartása a természetes személyazonosító adatok kivételével közhiteles nyilvántartásnak minősül, amelyet a hajózási hatóság honlapján bárki számára ingyenesen és korlátozásmentesen megismerhető módon közzétesz.
+(6a) A tengerész munkaközvetítők és a tengerész kölcsönbeadók nyilvántartása a (6) bekezdés a), d) és e) pontja tekintetében közhiteles nyilvántartásnak minősül, amelyet a hajózási hatóság honlapján bárki számára ingyenesen és korlátozásmentesen megismerhető módon közzétesz.
 
 (6b) A hajózási hatóság a nyilvántartásában lévő természetes személyazonosító adatokat a tengerész munkaközvetítő vagy a tengerész kölcsönbeadó nyilvántartásból való törlését követő két évig kezeli.
 
@@ -887,7 +905,7 @@ kezeli.
 - e) a hajózási engedély időbeli hatályát,
 - f) a kérelmező hajózási vállalkozás és a hajózási tevékenységhez használt úszólétesítmény magyar tulajdoni hányadának a megjelölését.
 
-(6) A hajózási engedélyekről vezetett nyilvántartás az (5) bekezdésben foglalt adatok tekintetében – az (5) bekezdés a) pontjában foglalt adat kivételével – közhiteles hatósági nyilvántartásnak minősül.
+(6)
 
 52. § (1) Hajózási engedély az EGT-államban lajstromozott úszólétesítményt üzemben tartó, magyarországi székhelyű jogi személy és gazdálkodó szervezet részére adható.
 

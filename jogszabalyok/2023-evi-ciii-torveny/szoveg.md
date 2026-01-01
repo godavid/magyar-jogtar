@@ -267,7 +267,7 @@ szerepel, akkor a nyilvántartást vezető szerv a 43. § (2) bekezdése szerint
 
 13. § (1) A nyilvántartás a következő adatokat tartalmazza:
 
-- a) a felhasználó felhasználói profilja aktiválásának, illetve inaktiválásának, valamint megszüntetésének ténye és ideje, a digitális állampolgár azonosító,
+- a) a felhasználó felhasználói profilja aktiválásának, inaktiválásának, valamint megszüntetésének ténye és ideje, a digitális állampolgár azonosító,
 - b) a 12. § (2)–(4) bekezdése szerint átvett adatok a személyazonosságot igazoló okmány érvényessége tényének kivételével, a természetes személy felhasználó személyiadat- és lakcímnyilvántartásból történő kikerülésének oka és ideje, valamint a 12. § (5) bekezdése szerinti kapcsolati kód,
 - c) a felhasználó elektronikus levelezési címe és egyéb elérhetőségei,
 - d) a Kormány által kötelezően biztosítandó elektronikus azonosítási szolgáltatáshoz kapcsolódó, a 46. § (7) bekezdésben meghatározott adatok,
@@ -479,7 +479,7 @@ teljesíti.
 
 (2) A természetes személy felhasználó hivatalos elérhetősége az általa a rendelkezési nyilvántartásba bejelentett hivatalos elérhetőség vagy az (1) bekezdés szerinti tárhely.
 
-26. § (1) Gazdálkodó szervezet felhasználó – törvény eltérő rendelkezése hiányában a nyilvántartásba vételét, ha a gazdálkodó szervezet működéséhez jogszabály által rendszeresített nyilvántartásba vétele nem kötelező, létrejöttét követő nyolc napon belül – köteles hivatalos elérhetőségként bejelenteni a rendelkezési nyilvántartásba az elektronikus kapcsolattartásra szolgáló elérhetőségét (a továbbiakban: hivatalos elérhetőség), amely lehet
+26. § (1) Gazdálkodó szervezet felhasználó – törvény eltérő rendelkezése hiányában a nyilvántartásba vételét, ha a gazdálkodó szervezet működéséhez jogszabály által rendszeresített nyilvántartásba vétele nem kötelező, létrejöttét követő 8 napon belül – köteles hivatalos elérhetőségként bejelenteni a rendelkezési nyilvántartásba az elektronikus kapcsolattartásra szolgáló elérhetőségét (a továbbiakban: hivatalos elérhetőség), amely lehet
 
 - a) ajánlott elektronikus kézbesítési szolgáltatási cím, vagy
 - b) ePosta elérhetőség.
@@ -811,7 +811,7 @@ tartalmazza. Az ügyfél-regisztrációs nyilvántartás tartalmazhatja az elekt
 
 (4) A központi idegenrendészeti nyilvántartásban, vagy elektronikus ügyintézést igénybe vevő külföldiek nyilvántartásában szereplő természetes személy felhasználó az (1) bekezdés b) pontja szerinti azonosítási szolgáltatást veheti igénybe.
 
-(5) A Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatás igénybe vevője díjmentesen jogosult egy, a Kormány rendeletében meghatározott, az (1) bekezdésben megjelölt elektronikus azonosítási szolgáltatáshoz egységesen kapcsolódó ajánlott elektronikus kézbesítési szolgáltatás és az ahhoz kapcsolódó tárhely használatára.
+(5) A Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatás igénybe vevője díjmentesen jogosult egy, a Kormány rendeletében meghatározott, az (1) bekezdésben megjelölt elektronikus azonosítási szolgáltatáshoz egységesen kapcsolódó ajánlott elektronikus kézbesítési szolgáltatás, továbbá az ahhoz kapcsolódó tárhely használatára.
 
 (6) A digitális állampolgárság nyilvántartás tekintetében az ügyfél-regisztrációs nyilvántartás és a nyilvántartásba történő regisztráció szabályait a 12. §-ban foglalt eltérésekkel kell alkalmazni.
 
@@ -928,7 +928,7 @@ olyan technológiai megoldást kell alkalmazni, ami garantálja, hogy a digitál
 
 (7) A felhasználó az eAláírást magánszemélyként használja. Az eAláírás nem tanúsít attribútumot.
 
-55. § (1) A digitális keretszolgáltatásként elérhető ePosta szolgáltatás a felhasználó számára ajánlott elektronikus kézbesítési szolgáltatási címnek megfelelő elektronikus tárhelyet biztosít, valamint lehetővé teszi az elektronikus dokumentumok elküldését, továbbá igazolja a kézbesítés sikerességét vagy sikertelenségét, és a kézbesített dokumentum címzett fél általi letöltését.
+55. § (1) A digitális keretszolgáltatásként elérhető ePosta szolgáltatás a felhasználó számára ajánlott elektronikus kézbesítési szolgáltatási címnek megfelelő elektronikus tárhelyet biztosít, valamint lehetővé teszi az elektronikus dokumentumok elküldését, továbbá igazolja a kézbesítés sikerességét vagy annak sikertelenségét, és a kézbesített dokumentum címzett fél általi letöltését.
 
 (2) A digitális állampolgárság szolgáltató felhasználói szerepkör szerint funkcionalitásában elkülönülő tárhelyet biztosít az elektronikus dokumentum küldésére, fogadására és tárolására.
 
@@ -1111,6 +1111,8 @@ kormányrendelet állapítja meg.
 
 67. § (1) A Kormány által kijelölt szerv az elektronikus ügyintézés biztonsága, a felhasználók hiteles elektronikus azonosítása, valamint az egyes elektronikus ügyintézési szolgáltatások igénybevételének biztosítása érdekében nyilvántartást vezet azon, életvitelszerűen külföldön élő, Magyarországon bejelentett lakóhellyel vagy tartózkodási hellyel nem rendelkező külföldi természetes személyekről, akik ebbe a nyilvántartásba az elektronikus ügyintézés céljából önkéntesen regisztrálnak (a továbbiakban: külföldi személyek nyilvántartása).
 
+(1a) A külföldi személyek nyilvántartása a digitális ügyintézés során történő személyazonosításhoz szükséges adatokat közhitelesen igazolja.
+
 (2) Az e törvény hatálya alá tartozó ügyeit az (1) bekezdés szerinti regisztráció nélkül is elektronikusan intézheti a külföldön élő, Magyarországon bejelentett lakóhellyel vagy tartózkodási hellyel nem rendelkező az a természetes személy is, aki
 
 - a) az eIDAS Rendelet hatálya alá tartozik és az eIDAS Rendelet 6. cikk (1) bekezdése szerinti feltételeknek megfelelő elektronikus azonosítási eszközzel azonosítja magát, vagy
@@ -1173,7 +1175,7 @@ kormányrendelet állapítja meg.
 
 #### 37. A digitális szolgáltatások tervezése és megvalósítása
 
-71. § E törvény céljainak megvalósítása érdekében a Kormány rendeletében kijelölt digitális állampolgárság szolgáltató közzéteszi a digitális szolgáltatások és támogató szolgáltatások tervezésére és megvalósítására vonatkozó szabályokat és ajánlásokat, valamint módszertani támogatást nyújt ezen tevékenységek végzéséhez, továbbá az eredményeket folyamatosan figyelemmel kíséri.
+71. § E törvény céljainak megvalósítása érdekében a Kormány rendeletében kijelölt szervezet közzéteszi a digitális szolgáltatások és támogató szolgáltatások tervezésére és megvalósítására vonatkozó szabályokat és ajánlásokat, valamint módszertani támogatást nyújt ezen tevékenységek végzéséhez, továbbá az eredményeket folyamatosan figyelemmel kíséri.
 
 #### 38. A digitális szolgáltatások felügyelete
 
@@ -1576,7 +1578,7 @@ kell alkalmazni.
 - d) az 92. és 93. § szerinti átvevő bizalmi szolgáltatókról; és
 - e)
 
-(2) Az (1) bekezdés szerinti nyilvántartásokban nyilvános adatként, illetve dokumentumként közzétehető a bizalmi szolgáltató neve, lakcíme, székhelye, nyilvántartásbavételi száma, a szolgáltatás megjelölése, nyújtásának helye, megkezdésének időpontja, a szolgáltatási szabályzat, a szolgáltatási rend, a szolgáltatási kivonat, valamint az általános szerződési feltétel. A bizalmi felügyelet által közzétett nyilvántartás közhiteles nyilvántartásnak minősül.
+(2) Az (1) bekezdés szerinti nyilvántartásokban nyilvános adatként, illetve dokumentumként közzétehető a bizalmi szolgáltató neve, lakcíme, székhelye, nyilvántartásbavételi száma, a szolgáltatás megjelölése, nyújtásának helye, megkezdésének időpontja, a szolgáltatási szabályzat, a szolgáltatási rend, a szolgáltatási kivonat, valamint az általános szerződési feltétel. A bizalmi felügyelet által közzétett nyilvántartás a bizalmi szolgáltató neve, lakcíme, székhelye kivételével közhiteles nyilvántartásnak minősül.
 
 #### 50. A bizalmi szolgáltatók ellenőrzése, a bizalmi felügyelet által alkalmazható jogkövetkezmények
 
@@ -1881,7 +1883,7 @@ kell biztosítani.
 - 7. az ajánlott elektronikus kézbesítési szolgáltatási címnek megfelelő elektronikus tárhely típusait és azok egymással való kommunikációs lehetőségeit,
 - 8. a nemzeti digitális irattárca szolgáltatás egyes funkcióit, valamint a szolgáltatás nyújtásának és igénybevételének feltételeit,
 - 9. a digitális szolgáltatás nyújtására köteles szervek egymás közötti, valamint a természetes személyekkel vagy gazdálkodó szervezetekkel történő elektronikus kapcsolattartására vonatkozó szabályokat.
-- 10. a proaktív szolgáltatásokat, valamint a proaktív szolgáltatás nyújtására vonatkozó szabályokat,
+- 10. a proaktív szolgáltatásokat és a proaktív szolgáltatás nyújtására vonatkozó szabályokat,
 - 11. a hozzájárulás alapú adatszolgáltatás teljesítése érdekében a digitális állampolgárság szolgáltató által nyilvántartott adatokat,
 - 12. az aggregátum szolgáltatás nyújtására, a szolgáltatáshoz történő csatlakozásra, a csatlakozás és a szolgáltatás igénybevétele során igénybe vehető szakértői szolgáltatásra és annak díjára, valamint a csatlakozó szervek nyilvántartásának vezetésére vonatkozó szabályokat,
 - 13. az európai digitális személyiadat-tárca felügyelet feladatának részletszabályait.

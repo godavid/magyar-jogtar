@@ -70,18 +70,22 @@ Az Országgyűlés a gazdasági, társadalmi és területi kohézió megerősít
 - c) az európai területi társulás célkitűzése és feladata,
 - d) a közhasznú jogállás megszerzésének, módosításának, törlésének ténye, az erről szóló határozat száma és jogerőre emelkedésének napja,
 - e) az európai területi társulás működésének időtartama,
-- f) az európai területi társulás igazgatójának neve, lakóhelye, a képviseleti jog gyakorlásának módja (önálló vagy együttes),
-- g) az európai területi társulás elfogadott egyezménye és alapszabálya,
-- h) az európai területi társulás nyilvántartásba vételének időpontja,
-- i) az európai területi társulás nyilvántartási száma,
-- j) az európai területi társulás végelszámolásának, csődeljárásának, valamint felszámolásának kezdete,
-- k) az európai területi társulás megszűnésének időpontja.
+- f) az európai területi társulás igazgatójának neve,
+- g) az európai területi társulás igazgatójának lakóhelye,
+- h) az európai területi társulás igazgatója képviseleti jogának gyakorlási módja (önálló vagy együttes),
+- i) az európai területi társulás elfogadott egyezménye és alapszabálya,
+- j) az európai területi társulás nyilvántartásba vételének időpontja,
+- k) az európai területi társulás nyilvántartási száma,
+- l) az európai területi társulás végelszámolásának, csődeljárásának, valamint felszámolásának kezdete,
+- m) az európai területi társulás megszűnésének időpontja.
 
 (3) Az ETT nyilvántartásba bejegyzett adatok változását – a változástól számított harminc napon belül – a Hatóság részére be kell jelenteni, a bejelentésre és a változásnak az ETT nyilvántartásban történő átvezetésére a nyilvántartásba-vételi eljárásra vonatkozó szabályokat kell megfelelően alkalmazni.
 
 (4) Az ETT nyilvántartás fennálló, valamint törölt adatai, valamint az alapszabály és az egyezmény nyilvánosak, azokat a Hatóság a honlapján bárki számára korlátozás nélkül megismerhető módon közzéteszi.
 
-(5) Az ETT nyilvántartás közhiteles.
+(5) Az ETT nyilvántartás – a (2) bekezdés g) pontjában szereplő adat kivételével – közhiteles.
+
+(6) Ha a (2) bekezdés b) és f) pontjában szereplő adat más jogszabállyal rendszeresített nyilvános és közhiteles nyilvántartásban is szerepel, az adatok közötti eltérés fennállása esetén ezen utóbbi adatot kell irányadónak tekinteni.
 
 ### III. Fejezet — AZ EURÓPAI TERÜLETI TÁRSULÁS GAZDÁLKODÁSA
 
@@ -179,8 +183,24 @@ Az Országgyűlés a gazdasági, társadalmi és területi kohézió megerősít
 
 #### 10. Módosító rendelkezések
 
-28–35. §
+#### 28. §
+
+#### 29. §
+
+#### 30. §
+
+#### 31. §
+
+#### 32. §
+
+#### 33. §
+
+#### 34. §
+
+#### 35. §
 
 #### 11. Hatályon kívül helyező rendelkezések
 
-36–37. §
+#### 36. §
+
+#### 37. §

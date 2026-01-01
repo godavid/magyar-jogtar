@@ -2924,7 +2924,7 @@ részére forintban és külföldi pénznemben bankszámlát vezetni.
 
 162. § (1) Az MNB könyveinek és e könyvekből vett cégszerűen aláírt kivonatoknak közokirati bizonyító erejük van.
 
-(2) Az MNB feladataival és elsődleges céljával összhangban, a többségi tulajdonában álló gazdasági társaságot alapíthat vagy alapítványt hozhat létre.
+(2) Az MNB feladataival és elsődleges céljával összhangban többségi tulajdonában álló gazdasági társaságot alapíthat vagy alapítványt hozhat létre azzal, hogy az MNB vagyonkezelő alapítványt nem alapíthat, valamint MNB által alapított alapítvány gazdasági tevékenységként nem végezhet befektetési, vagyonkezelési tevékenységet és nem bonyolíthat egyéb pénzforgalmi ügyleteket.
 
 (3) Az MNB többségi vagy kizárólagos tulajdonában álló gazdasági társaság által az MNB bármely feladatának ellátásával kapcsolatban kezelt azon adat, amelynek megismerése az Infotv. 27. § (2) bekezdés e) pontja szerinti központi pénzügyi vagy devizapolitikai érdeket sértene, az MNB vagy az MNB többségi vagy kizárólagos tulajdonában álló gazdasági társaság általi nyilvánosságra hozataláig, de legfeljebb az adat keletkezésétől számított tíz évig nem nyilvános.
 
@@ -3020,9 +3020,9 @@ szervezetben.
 
 #### 50. A felügyeleti díj fizetésének szabályai
 
-167. § (1) A felügyeleti díj bevallását az MNB honlapján közzétett nyomtatványon kell teljesíteni.
+167. § (1)
 
-(2) A díjfizetésre kötelezett a felügyeleti díj összegét külön jogszabályban meghatározott módon számítja ki, és az (1) bekezdésben meghatározott nyomtatványt a megfizetésre vonatkozó határidőn belül kitöltve az MNB-hez benyújtja.
+(2) A díjfizetésre kötelezett a felügyeleti díj összegét külön jogszabályban meghatározott módon számítja ki, és a felügyeletidíj-számítást a jogszabály szerinti tartalommal és formában – felügyleti díjbevallásként – a felügyeleti díj megfizetésére vonatkozó határidőn belül kitöltve az MNB-hez benyújtja.
 
 (3) A díjfizetésre kötelezett akkor is köteles a bevallást benyújtani, ha a kiszámítási időszakban díjfizetési kötelezettsége nem keletkezik. A díj megfizetése a díjszámítási és bevallási kötelezettséget nem pótolja.
 
@@ -3032,11 +3032,11 @@ szervezetben.
 
 168. § (1) A külön jogszabály szerint kiszámított alapdíjat a naptári év első napján engedéllyel rendelkező, illetve az MNB nyilvántartásában szereplő díjfizetésre kötelezett évente egy összegben, január 31-éig utalja át az MNB számlájára.
 
-(2) A díjfizetésre kötelezett a külön jogszabály szerint kiszámított változó díj összegét negyedévente, a tárgynegyedévet követő hónap utolsó napjáig utalja át az MNB számlájára.
+(2) A díjfizetésre kötelezett – a Hpt. szerinti független közvetítő és a Bit. szerinti többes ügynök és alkusz kivételével – a 167. § (2) bekezdésében meghatározott módon kiszámított változó díj összegét félévente, a tárgyfélévet követő 45. napig utalja át az MNB számlájára. A Hpt. szerinti független közvetítő és a Bit. szerinti többes ügynök és alkusz a változó díj összegét félévente, a tárgyfélévet követő 60. napig utalja át az MNB számlájára.
 
-(3) Az év közben negyedévente kiszámított és bevallott díjakon kívül – ha az adott évről készített éves beszámolónak a 39. §-ban meghatározott törvények hatálya alá tartozó szervezetek közgyűlése vagy taggyűlése általi elfogadása miatt szükséges – a tárgyévre meghatározott díjkülönbözetet a tárgyévet követő év második negyedévére vonatkozó bevallásban külön korrekciós tételként kell bevallani.
+(3) Az év közben félévente kiszámított és bevallott díjakon kívül – ha az adott évről készített éves beszámolónak a 39. §-ban meghatározott törvények hatálya alá tartozó szervezetek közgyűlése vagy taggyűlése általi elfogadása miatt szükséges – a tárgyévre meghatározott díjkülönbözetet a tárgyévet követő év második félévére vonatkozó bevallásban külön korrekciós tételként kell bevallani.
 
-(4) A díjkülönbözet miatti fizetési kötelezettség a tárgyévet követő év második negyedéves díjszámításából származó díjfizetési kötelezettséggel egy időben válik esedékessé. A díjkülönbözet miatti túlfizetés összegével a tárgyévet követő év második negyedévében esedékessé váló díjtartozás csökkenthető.
+(4) A díjkülönbözet miatti fizetési kötelezettség a tárgyévet követő év második féléves díjszámításából származó díjfizetési kötelezettséggel egy időben válik esedékessé. A díjkülönbözet miatti túlfizetés összegével a tárgyévet követő év második fél évében esedékessé váló díjtartozás csökkenthető.
 
 #### 169. §
 
@@ -3369,6 +3369,8 @@ azzal, hogy 2019. január 1-jétől az anticiklikus tőkepufferrátát a 33. §-
 (2) A Módtv.4.-gyel módosított 149. § (1)–(3), (5), (6) és (8) bekezdését első alkalommal a Módtv.4. hatálybalépésének napjától 2023. február 28-ig terjedő időszakra vonatkozóan kell alkalmazni.
 
 183/O. § A Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény, valamint a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény módosításáról szóló 2023. évi CXII. törvénnyel (a továbbiakban: Módtv.5.) megállapított 12. § (4) bekezdés b) pontját és 12. § (8) bekezdését 2023-ban azzal az eltéréssel kell alkalmazni, hogy az igazgatóság a 12. § (4) bekezdés b) pontja szerinti, a saját tőke várható alakulásáról szóló jóváhagyott előrejelzését a Módtv.5. hatálybalépését követő három napon belül küldi meg egyidejűleg a részvényesnek és a Költségvetési Tanácsnak.
+
+183/P. § Az államháztartásról szóló 2011. évi CXCV. törvény, valamint a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény módosításáról szóló 2025. évi XLVII. törvénnyel módosított 162. § (2) bekezdését a hatálybalépését megelőzően alapított alapítványra nem kell alkalmazni.
 
 #### 55. Az Alaptörvény sarkalatosságra vonatkozó követelményének megfelelés
 

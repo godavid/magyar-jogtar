@@ -753,6 +753,23 @@ pénzt, készpénz-helyettesítő fizetési eszközt, utalványt, értékpapírt
 
 (5) Semmis a letéti szerződésnek az a rendelkezése, amely az ügyvéd felelősségét a letétkezelési tevékenységgel összefüggésben kizárja vagy korlátozza.
 
+47/A. § (1) A negyvenmillió forintot elérő vagy meghaladó értékű letét kezelésére irányuló megbízást az ügyvéd akkor vállalhatja el, ha a letétkezeléssel összefüggő ügyvédi tevékenységével okozott károk megtérítésének, illetve a sérelemdíj megfizetésének a fedezetét, olyan kiegészítő felelősségbiztosítása biztosítja, amelynek káreseményenként számított legalacsonyabb összege negyvenmillió forint.
+
+(2) A négyszázmillió forintot elérő vagy meghaladó értékű letét kezelésére irányuló letéti szerződést a letétkezelő ügyvéd mellett egy további közreműködő ügyvédnek is ellenjegyzéssel kell ellátnia.
+
+(3) A (2) bekezdés szerinti ügyletben közreműködő ügyvédként az járhat el, aki
+
+- a) az (1) bekezdésben meghatározott kiegészítő felelősségbiztosítással rendelkezik,
+- b) ügyvédként legalább öt éves kamarai tagsággal rendelkezik,
+- c) nem áll fegyelmi büntetés hatálya alatt,
+- d) esetében letétkezeléssel összefüggő fegyelmi vétség miatt korábban kizárás fegyelmi büntetést nem alkalmaztak, illetve a megelőző öt évben letétkezeléssel összefüggő fegyelmi vétség miatt pénzbírságot nem szabtak ki.
+
+(4) Nem érinti a letéti szerződés érvényességét, ha a közreműködő ügyvéd a (3) bekezdésben meghatározott feltételeknek nem felel meg. A (2) és (3) bekezdésben foglaltak megsértéséért a letétkezelő és a közreműködő ügyvéd fegyelmi felelősséggel tartozik.
+
+(5) A letétkezelő ügyvéd a (2) bekezdés szerinti esetben a letétet akkor adhatja ki, ha azt a közreműködő ügyvéd írásban jóváhagyta.
+
+(6) A letétnek a letéti szerződés szerinti, szabályszerű kiadásáért a letétkezelő és a közreműködő ügyvéd egyetemlegesen felel.
+
 48. § (1) Az ügyvéd a letétet a letéti szerződés feltételei szerint, biztonságosan, a jogosulatlan hozzáférést megakadályozó módon köteles őrizni.
 
 (2) Az ügyvéd a letétet a letét céljától eltérően nem használhatja, azt nem hasznosíthatja, továbbá azt más személy birtokába vagy őrizetébe e törvény eltérő rendelkezése hiányában nem adhatja. Az ügyvéd a letett pénzt lekötheti.
@@ -3030,6 +3047,8 @@ rendeletben szabályozza.
 208/E. § A fél vagy képviselője által a 2024. augusztus 31-én hatályos az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény szerinti azonosításra visszavezetett dokumentumhitelesítés-szolgáltatással való hitelesítéssel 2024. december 31-ig aláírt és azt követően az ügyvéd vagy a kamarai jogtanácsos által ellenjegyzett elektronikus okirat ügyvéd vagy kamarai jogtanácsos által ellenjegyzett magánokiratnak minősül.
 
 208/F. § Az ügyvédi kamarai nyilvántartásban szereplő ingatlan-nyilvántartási eljárási jogosultsággal rendelkező ügyvéd és alkalmazott ügyvéd esetében a területi kamara 2025. szeptember 1-jéig hivatalból bejegyzi az 1. mellékletben foglalt táblázat 33b. sora szerinti adatot.
+
+208/G. § A 47/A. § rendelkezéseit a hatálybalépését követően megkötött letétkezeléssel összefüggő megbízás és ügyvédi letéti szerződés esetében kell alkalmazni.
 
 #### 92. Az Európai Unió jogának való megfelelés
 

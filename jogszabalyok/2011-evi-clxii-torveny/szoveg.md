@@ -318,6 +318,32 @@ bírói tanácsa a pályázókat meghallgatja, és a pályázatokat az elért po
 
 25/A. § A 24. § (2) bekezdése és a 25. § (2) bekezdése alkalmazása szempontjából tényleges működés a tényleges bírói álláshelyen végzett feladatellátás azzal, hogy az egybefüggően 30 napot meghaladó keresőképtelenség, fizetés nélküli szabadság vagy szülési szabadság időtartama nem minősül tényleges bírói működésnek.
 
+#### 13/A. A bíró általános öregségi nyugdíjkorhatár betöltését követő bírói szolgálati viszonyban történő továbbfoglalkoztatása
+
+25/B. § (1) A bíró kérheti az Alaptörvény 26. cikk (2) bekezdése szerinti általános öregségi nyugdíjkorhatár betöltését követő bírói szolgálati viszonyban történő továbbfoglalkoztatását.
+
+(2) A bírói szolgálati viszonyban történő továbbfoglalkoztatás felső korhatára a betöltött hetvenedik életév.
+
+(3) A jelen alcím rendelkezéseit kell alkalmazni az OBH-ba, a Kúriára vagy az érintett szervhez beosztott bíró vonatkozásában is azzal az eltéréssel, hogy a továbbfoglalkoztatást – a bíró kérelmére – a munkáltatói jogkör gyakorlója engedélyezi.
+
+25/C. § (1) A kérelmet a munkáltatói jogkör gyakorlójához kell benyújtani.
+
+(2) A kérelmet legkorábban azon a napon lehet benyújtani, amely az Alaptörvény 26. cikk (2) bekezdése szerinti általános öregségi nyugdíjkorhatár betöltésének napját tizenöt hónappal megelőzi. A kérelmet legkésőbb azon a napon lehet benyújtani, amely az Alaptörvény 26. cikk (2) bekezdése szerinti általános öregségi nyugdíjkorhatár betöltésének napját 12 hónappal megelőzi.
+
+25/D. § (1) A munkáltatói jogkör gyakorlója visszautasítja a kérelmet, ha az idő előtti, vagy elkésett.
+
+(2) Az (1) bekezdés szerinti visszautasító döntést a bíró annak közlésétől számított 3 napon belül az elsőfokú szolgálati bíróság előtt kifogásolhatja. Az elsőfokú szolgálati bíróság a kifogást, annak előterjesztését követő 8 napon belül – a felek meghallgatása nélkül, tanácsülésen – bírálja el, és döntését nyomban közli a bíróval és a munkáltatói jogkör gyakorlójával. Ha az elsőfokú szolgálati bíróság a kérelemnek helyt ad, a visszautasító döntést hatályon kívül helyezi. Az elsőfokú szolgálati bíróság határozatával szemben további jogorvoslatnak nincs helye.
+
+(3) A kérelmet idő előttiség vagy elkésettség miatt visszautasító döntéssel szemben benyújtott kifogás elbírálása iránti eljárást a szolgálati bíróság – a (3) bekezdésben foglalt eltérésekkel – a fegyelmi eljárás szabályainak megfelelő alkalmazásával folytatja le azzal, hogy
+
+- a) a kifogást a döntéshozónál az elsőfokú szolgálati bírósághoz címezve írásban kell benyújtani,
+- b) a kifogást a döntéshozó a kifogásra vonatkozó nyilatkozatával és a döntését megalapozó iratokkal együtt 3 munkanapon belül megküldi az elsőfokú szolgálati bíróságnak,
+- c) a kifogás elbírálására vizsgálóbiztos kijelölése és előzetes vizsgálat nélkül, tanácsülésen, szükség esetén iratok beszerzése és a felek meghallgatása mellett kerül sor.
+
+25/E. § A kérelmet az OBH elnöke vagy – kúriai bíró esetén – a Kúria elnöke érdemi vizsgálat nélkül, annak benyújtásától számított 15 napon belül hagyja jóvá.
+
+25/F. § Ha a katonai bíró Magyar Honvédséggel fennálló szolgálati viszonya a honvédek jogállásáról szóló kormányrendelet szerint az öregségi nyugdíjkorhatár betöltésével megszűnik és a bíró az általános öregségi nyugdíjkorhatár betöltését követő bírói szolgálati viszonyban történő továbbfoglalkoztatását kéri, a 97. § (3) bekezdése szerint kell eljárni.
+
 #### 14. A bíró beosztása
 
 26. § (1) A bírót első kinevezésekor az OBH elnöke, ezt követően a Kúriára a Kúria elnöke, az ítélőtáblára az ítélőtábla elnöke, a törvényszékre, valamint a járásbíróságra a törvényszék elnöke osztja be.
@@ -947,8 +973,10 @@ szünetel.
 - f) ha a bírót országgyűlési, európai parlamenti, helyi önkormányzati képviselőnek, nemzetiségi szószólónak vagy polgármesternek megválasztották, vagy a kormányzati igazgatásról szóló 2018. évi CXXV. törvény szerinti politikai felsővezetőnek, közigazgatási államtitkárnak és helyettes államtitkárnak megválasztották vagy kinevezték,
 - g) ha a bíró – az OBH elnökének egyetértésével – nemzetközi szervezetnél vagy az Európai Unió valamely szervénél pályázat alapján ítélkezésre vagy az igazságszolgáltatással összefüggő egyéb munkavégzésre irányuló jogviszonyt létesít,
 - h) ha a bíró
-  - ha) betölti az Alaptörvény 26. cikk (2) bekezdése szerinti általános öregségi nyugdíjkorhatárt,
+  - ha) betölti az Alaptörvény 26. cikk (2) bekezdése szerinti általános öregségi nyugdíjkorhatárt és nem kérte az általános öregségi nyugdíjkorhatár betöltését követő bírói szolgálati viszonyban történő továbbfoglalkoztatását,
   - hb) a felmentési okként meghatározott életkor betöltése előtt, maga kéri nyugállományba helyezését a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény (a továbbiakban: Tny.) 18. § (2) vagy (2a) bekezdésében foglalt feltételek fennállására hivatkozással,
+  - hc) az Alaptörvény 26. cikk (2) bekezdése szerinti általános öregségi nyugdíjkorhatár betöltését követő továbbfoglalkoztatása esetén betölti a hetvenedik életévét,
+  - hd) az Alaptörvény 26. cikk (2) bekezdése szerinti általános öregségi nyugdíjkorhatár betöltését követő továbbfoglalkoztatása esetén – a Tny. 18. § (2) vagy (2a) bekezdésben foglalt feltételek fennállására hivatkozással – maga kéri nyugállományba helyezését,
 - i) ha a bíróval szemben lefolytatott fegyelmi eljárás során jogerős fegyelmi büntetésként a bírói tisztségből való felmentést indítványozták,
 - j) ha a pályázat eredményével szembeni jogorvoslati eljárás során megállapítást nyert, hogy a bíró kinevezésének törvényi feltételei nem állnak fenn,
 - k) ha a bíró a vagyonnyilatkozat-tételi kötelezettségét szándékosan elmulasztja, vagy a vagyonnyilatkozatában – a vele közös háztartásban élő hozzátartozók adatait is ideértve – lényeges adatot, tényt szándékosan valótlanul közöl, illetve elhallgat, vagy a vagyonnyilatkozatát és a személyes adat kezelésére felhatalmazó nyilatkozatát visszavonja,
@@ -2273,15 +2301,15 @@ kerülhet sor.
 
 való megfelelést szolgálja.
 
-#### 234. §
+234. § Az a bíró, aki 2026. január 1. napja és 2027. január 31. napja között tölti be az általános öregségi nyugdíjkorhatárt, és a 90. § h) pont hb) alpontja szerinti felmentésére nem került sor, a továbbfoglalkoztatásra irányuló kérelmét legkésőbb 2026. január 31. napjáig nyújthatja be.
 
-#### 235. §
+235. § Ha a 234. § hatálya alá tartozó katonai bíró a 25/F. § szerinti továbbfoglalkoztatását kéri, és az OBH elnöke az érintett bíró katonai bírói tisztségből történő felmentéséről szóló javaslatot már a köztársasági elnök elé terjesztette, az OBH elnöke – a 97. § (3) bekezdésétől eltérően – a bírói tisztségre való kinevezésről szóló önálló javaslatot terjeszt a köztársasági elnök elé azzal, hogy az e felterjesztés alapján történő kinevezés a katonai bírói tisztség megszüntetésével egyidejű bírói kinevezésnek minősül.
 
 236. § (1)–(3)
 
 (4)
 
-237. § (1) E törvény 1–4. alcíme, III. Fejezete, 19–22. alcíme, 25–30. alcíme, V–X. Fejezete, XII. Fejezete, XIII. Fejezete, 223. §-a, 224. §-a, 232/L–232/U. §-a, 232/W. §-a, 232/X. §-a, 232/Y. §-a, 232/Z. §-a 236. §-a, valamint 2–4. melléklete az Alaptörvény 25. cikk (8) bekezdése, valamint 26. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
+237. § (1) E törvény 1–4. alcíme, III. Fejezete, 19–22. alcíme, 25–30. alcíme, V–X. Fejezete, XII. Fejezete, XIII. Fejezete, 223. §-a, 224. §-a, 232/L–232/U. §-a, 232/W. §-a, 232/X. §-a, 232/Y. §-a, 232/Z. §-a, 234. §-a, 235. §-a, 236. §-a, valamint 2–4. melléklete az Alaptörvény 25. cikk (8) bekezdése, valamint 26. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
 
 (2) E törvénynek más jogszabályban alkalmazandó rövid megjelölése: Bjt.
 

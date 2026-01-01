@@ -67,7 +67,7 @@ Az Országgyűlés a társadalom széles körét érintő egyes ipari, közmű-s
 
 5/B. § (1) Az ERRA, mint egyesületként bejegyzett intézményközi szervezet magyarországi működésére e törvény rendelkezéseit kell alkalmazni, azzal, hogy az e törvényben nem szabályozott kérdésekben az egyesületekre vonatkozó szabályok alkalmazandók. E törvény nem érinti az ERRA jogi személyiségének egyéb vonatkozásaira, a polgári jogi jogviszonyaira, valamint a közteherviselési kötelezettségére irányadó jogszabályok alkalmazását.
 
-(2) Az ERRA nyilvántartásával kapcsolatos feladatokat a külgazdasági ügyekért és külpolitikáért felelős miniszter látja el az általa vezetett közhiteles nyilvántartásra irányadó szabályok szerint, az e törvényben foglalt eltérésekkel.
+(2) Az ERRA nyilvántartásával kapcsolatos feladatokat a külgazdasági ügyekért és külpolitikáért felelős miniszter látja el az általa vezetett nyilvántartásra irányadó szabályok szerint, az e törvényben foglalt eltérésekkel.
 
 (3) Az ERRA feletti törvényességi felügyeletet a külgazdasági ügyekért és külpolitikáért felelős miniszter látja el, amelynek keretében – ha jogszabályba vagy az alapszabályba ütköző működésre utaló adat jut a tudomására –, megfelelő határidő tűzésével felhívja az ERRA-t a működés törvényességének helyreállítására, ennek eredménytelensége esetén az ERRA székhelye szerint illetékes törvényszékhez fordulhat. A törvényszék az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény civil szervezetek feletti törvényességi ellenőrzés során alkalmazható bírósági intézkedések szabályainak alkalmazásával jár el.
 
@@ -83,6 +83,8 @@ Az Országgyűlés a társadalom széles körét érintő egyes ipari, közmű-s
 - h) alapszabálya és annak módosítása, a bejegyzés időpontjával,
 - i) nyilvántartásba vételének időpontja,
 - j) megszűnésének időpontja.
+
+(4a) A (4) bekezdés szerinti nyilvántartás a (4) bekezdés e), f), valamint h)–j) pontjában meghatározott adatok tekintetében közhiteles nyilvántartás.
 
 (5) Az ERRA a nyilvántartásban rögzített adataiban bekövetkezett változást 30 napon belül írásban bejelenti a külgazdasági ügyekért és külpolitikáért felelős miniszternek, aki azt a nyilvántartásba bejegyzi és arról tájékoztatja az ERRA-t.
 

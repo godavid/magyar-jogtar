@@ -862,7 +862,7 @@ hasznosítására.
 - l) a hasznosítási és a kényszerengedélyeket, és
 - m) azt, ha a szabadalmi igény vagy a szabadalmi oltalomból eredő jogok bizalmi vagyonkezelés alapján fennálló kezelt vagyonba tartoznak.
 
-(3) A szabadalmi lajstrom a bejegyzett jogok és tények fennállását hitelesen tanúsítja. Az ellenkező bizonyításáig a szabadalmi lajstromba bejegyzett jogokról és tényekről vélelmezni kell, hogy azok fennállnak. A szabadalmi lajstromban feltüntetett adatokkal szemben a bizonyítás azt terheli, aki vitatja a helyességüket vagy a valósággal való egyezőségüket.
+(3) A szabadalmi bejelentésekről vezetett nyilvántartás, valamint a szabadalmi lajstrom – az (1a) bekezdés c), d) és e) pontjában, valamint a (2) bekezdés d), e) és f) pontjában foglalt adatok kivételével – közhiteles nyilvántartás, amely a bejegyzett jogok és tények fennállását hitelesen tanúsítja. Az ellenkező bizonyításáig a szabadalmi lajstromba bejegyzett jogokról és tényekről vélelmezni kell, hogy azok fennállnak. A szabadalmi lajstromban feltüntetett adatokkal szemben a bizonyítás azt terheli, aki vitatja a helyességüket vagy a valósággal való egyezőségüket.
 
 (4) Jóhiszemű és ellenérték fejében jogot szerző harmadik személlyel szemben a szabadalommal kapcsolatos bármely jogra csak akkor lehet hivatkozni, ha azt a szabadalmi lajstromba bejegyezték.
 
@@ -1175,6 +1175,8 @@ kell benyújtani, a korábban lejáró határidő figyelembevételével.
 
 74. § (1) A Szellemi Tulajdon Nemzeti Hivatala a bejelentő külön kérelmére végzi el a közzétett szabadalmi bejelentés érdemi vizsgálatát.
 
+(1a) Az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott vizsgálati díj megfizetését önmagában úgy kell tekinteni, hogy a bejelentő érdemi vizsgálat iránti kérelmet nyújtott be.
+
 (2) Az érdemi vizsgálat arra terjed ki, hogy a találmány
 
 - a) kielégíti-e az 1–5/A. §-okban meghatározott követelményeket, és a 6. § (2)–(4) bekezdései, valamint (10) bekezdése alapján nincs-e kizárva a szabadalmi oltalomból,
@@ -1211,6 +1213,16 @@ kell benyújtani, a korábban lejáró határidő figyelembevételével.
 78. § (1) A Szellemi Tulajdon Nemzeti Hivatala a szabadalom megadását követően szabadalmi okiratot ad ki. Ehhez mellékeli szabadalmi leírást az igényponttal és a rajzot.
 
 (2) A szabadalom megadását be kell jegyezni a szabadalmi lajstromba (54. §), és arról hatósági tájékoztatást kell közölni a Szellemi Tulajdon Nemzeti Hivatala hivatalos lapjában (56. §).
+
+### Gyorsított szabadalmi eljárás
+
+78/A. § (1) Gyorsított szabadalmi eljárásra kerül sor, ha a bejelentő a szabadalmi bejelentés benyújtásával egyidejűleg kéri a szabadalmi bejelentés tizennyolc hónapnál korábbi időpontban történő közzétételét és a bejelentés érdemi vizsgálatát, valamint az érdemi vizsgálati díját megfizette.
+
+(2) Gyorsított szabadalmi eljárás esetén a Szellemi Tulajdon Nemzeti Hivatala a bejelentés napjától számított három hónapon belül elvégzi a bejelentést követő vizsgálatot, az alaki vizsgálatot, valamint az újdonságkutatást, továbbá közzétételre készíti elő a szabadalmi bejelentést.
+
+(3) A szabadalmi bejelentés a benyújtását követő harmadik hónap elteltével közzétételre kerül. A közzétételt követően a Szellemi Tulajdon Nemzeti Hivatala soron kívül megkezdi a bejelentés érdemi vizsgálatát és a szabadalom megadása tárgyában születő döntés előkészítését, amennyiben a szabadalmi bejelentés megfelel a 65. § és a 68. § (1) bekezdése alapján vizsgált feltételeknek, és a Szellemi Tulajdon Nemzeti Hivatala a 69. § szerinti újdonságkutatás eredményeként nem tárt fel a szabadalom megadását kizáró körülményt.
+
+(4) Ha a bejelentő az eljárás során az esetleges hiánypótlási felhívásra a megadott határidőn belül, megfelelően válaszol, a bejelentést követő hatodik hónap elteltével a szabadalom megadása kérdésében a Szellemi Tulajdon Nemzeti Hivatala meghozza végleges döntését.
 
 ### X. Fejezet — Egyéb szabadalmi eljárások
 

@@ -460,6 +460,14 @@ a Donor Regiszterből lekérdezheti.
 
 (6) Az egészségügyi ellátóhálózat a statisztikáról szóló törvényben meghatározott adatgyűjtéssel kapcsolatos feladatai teljesítése céljából kezeli a népmozgalmi adatszolgáltatás körébe tartozó adatokat.
 
+(7) Az egészségügyi ellátóhálózat szereplője, az EESZT működtetője a Központi Statisztikai Hivatal részére hivatalos statisztikai tevékenysége ellátásához, az ahhoz szükséges mértékben a Központi Statisztikai Hivatal által meghatározott, az ellátóhálózat, az EESZT működtetője által kezelt egészségügyi adatokat a Központi Statisztikai Hivatal által meghatározott paraméterek szerint álnevesíti és átadja.
+
+(8) Ha a (7) bekezdésben meghatározott paraméterek okán vagy más okból az adatok egyéb adatkezelő, vagy a Központi Statisztikai Hivatal saját kezelésében lévő adatbázisokkal való összekapcsolása indokolt, az adatátadást a nemzeti adatvagyon hasznosításának rendszeréről és az egyes szolgáltatásokról szóló 2023. évi CI. törvény (a továbbiakban: Nahtv.) szerinti adat-összekapcsolási szolgáltatás szabályai szerint kell végrehajtani.
+
+(9) A (7) és (8) bekezdés szerinti adatátadás, adatok álnevesítése, adat-összekapcsolás – ideértve a kulcsszolgáltató tevékenységét – térítésmentes.
+
+(10) A (7) és (8) bekezdés szerinti adatátadás feltételeiről a Központi Statisztikai Hivatal és az egészségügyi ellátóhálózat szereplője, illetve az EESZT működtetője a hivatalos statisztikáról szóló 2016. évi CLV. törvény szerint megállapodást köt.
+
 ### Tudományos kutatás céljából történő adatkezelés
 
 21. § (1) Tudományos kutatás céljából az intézményvezető vagy az adatvédelmi tisztviselő engedélyével a tárolt adatokba be lehet tekinteni, azonban tudományos közleményben nem szerepelhetnek egészségügyi és személyazonosító adatok oly módon, hogy az érintett személyazonossága megállapítható legyen. Tudományos kutatás során a tárolt adatokról nem készíthető személyazonosító adatokat is tartalmazó másolat.
@@ -786,6 +794,28 @@ meghatározott egészségügyi dokumentáció elhelyezéséről, illetve feldolg
 
 (3) A működtető az (1) és (2) bekezdésben meghatározottakon túl az érintett hozzájárulása alapján egyéb adattárolási és az EESZT útján történő adattovábbítási szolgáltatásokat biztosíthat.
 
+(4) A működtető kérelemre mesterséges intelligencia algoritmusok betanítása, tesztelése és értékelése, orvostechnikai eszközök és digitális egészségügyi alkalmazások fejlesztése (a továbbiakban együtt: MI fejlesztés) érdekében – ha az (5) bekezdés szerinti biztonságos feldolgozási környezet rendelkezésre áll – hozzáférést engedélyezhet az EESZT-ben tárolt adatokhoz az (5)–(7) bekezdésben meghatározott feltételek mellett.
+
+(5) Az MI fejlesztés a technikai és szervezeti intézkedések, valamint biztonsági követelmények teljesülése érdekében az EESZT-n belül kizárólag biztonságos feldolgozási környezetben valósítható meg. A biztonságos feldolgozási környezet
+
+- a) a hozzáférést a vonatkozó engedélyben felsorolt, felhatalmazott természetes személyekre korlátozza,
+- b) a legkorszerűbb technikai és szervezési intézkedésekkel minimalizálja a biztonságos feldolgozási környezetben tárolt elektronikus egészségügyi adatok jogosulatlan olvasásának, másolásának, módosításának vagy eltávolításának kockázatát,
+- c) a biztonságos feldolgozási környezetben tárolt elektronikus egészségügyi adatok bevitelét és az elektronikus egészségügyi adatok megtekintését, módosítását vagy törlését korlátozott számú, arra jogosult azonosítható személyre korlátozza;
+- d) biztosítja, hogy az egészségügyi adatok felhasználói csak az engedélyben szereplő egészségügyi adatokhoz férjenek hozzá, kizárólag egyéni és egyedi felhasználói azonosítók és bizalmas hozzáférési módok segítségével,
+- e) naplózza a biztonságos feldolgozási környezethez való hozzáférést és a biztonságos feldolgozási környezetben végzett tevékenységeket, mely bejegyzéseket egy évig őriz meg.
+
+(6) A biztonságos feldolgozási környezetben a működtető kérelemre MI fejlesztés érdekében hozzáférést engedélyezhet az EESZT-ben tárolt adatokhoz a (7) bekezdésben meghatározott feltételek mellett.
+
+(7) A biztonságos feldolgozási környezetben MI fejlesztés céljából az EESZT-ben tárolt adatokhoz történő hozzáférés kizárólag anonim adatokhoz és annak engedélyezhető, aki
+
+- a) rendelkezik a tudományos kutatási tevékenység végzéséhez az Egészségügyi Tudományos Tanács megfelelő szakmai-etikai bizottsága által kiadott engedéllyel,
+- b) biztosítja, hogy az általa alkalmazott MI fejlesztés során megismert adatok kizárólag az MI fejlesztés céljára kerülnek felhasználásra,
+- c) garantálja, hogy az MI fejlesztés kizárólag anonim adatokkal történik,
+- d) megfelelő biztosítékokat nyújt az adatok nem az engedélyben meghatározott célra és körben történő felhasználásának megakadályozására, valamint a természetes személyek jogai és érdekei védelme érdekében,
+- e) az MI fejlesztés megkezdése előtt adatvédelmi hatásvizsgálatot folytat le.
+
+(8) Az adatok felhasználásának és az eredmények rendelkezésre bocsátásának feltételeiről a működtető és a kérelmező megállapodást köt.
+
 35/B. § (1) Az EESZT-hez engedélyezett informatikai rendszere útján csatlakozásra köteles
 
 - a) az egészségügyi szolgáltatás nyújtására az egészségügyi államigazgatási szerv által kiadott működési engedély alapján jogosult egészségügyi szolgáltató, aki finanszírozási jelentés benyújtására vagy elektronikus adatszolgáltatásra kötelezett,
@@ -999,6 +1029,17 @@ hívja fel az érintett csatlakozott adatkezelőt.
 
 (6) Az (5) bekezdés szerinti nyilvántartás adatait a működtető az (1) bekezdés szerinti elektronikus szolgáltatásrendelés visszavonásától, felhasználásától vagy felhasználási idejének lejártától számított 5 év, a (4) bekezdés szerinti foglalások időpontjától számított 5 év elteltével törli.
 
+(7) Az EESZT működtetője – az EESZT üzemeltetője honlapján közzétett szolgáltatási körben – közfinanszírozott egészségügyi ellátásokhoz informatikai megoldásra épülő orvosi és gyógyszerészi döntéstámogatási rendszert biztosíthat.
+
+(8) A (7) bekezdés szerinti döntéstámogatást az EESZT működtetője a megkereső egészségügyi szolgáltató által a döntéstámogatási rendszerbe beküldött, a beteg egészségügyi adatai alapján biztosítja. A döntéstámogatás során – az egészségügyi diagnózist támogató javaslat teljes körű felállítása érdekében – az EESZT működtetője a betegnek egyéb, az EESZT-ben tárolt és a döntéstámogatáshoz szükséges adatait is felhasználhatja azzal, hogy a felhasználás kizárólag automatikusan, emberi közbeavatkozás nélkül valósulhat meg.
+
+(9) Az EESZT működtetője a beteg (8) bekezdés szerinti adatait és a döntéstámogatási javaslatban foglalt adatokat a döntéstámogatási javaslatnak a megkereső egészségügyi szolgáltató részére történő továbbításáig kezeli.
+
+(10) Az EESZT működtetője kizárólag olyan döntéstámogatási rendszert biztosít, amely
+
+- a) garantálja a kezelt adatok, információk és a rendszer által nyújtott vagy azon keresztül elérhető szolgáltatások bizalmasságát, sértetlenségét és rendelkezésre állását, valamint a rendszer elemeinek sértetlenségét és rendelkezésre állását, és
+- b) összhangban áll a kiberbiztonsági követelményekkel.
+
 ### Az egészségügyi ellátó hálózaton kívüli, EESZT-hez nem csatlakozott szerv részére történő adattovábbítás
 
 35/P. § (1) A 4. § (2) bekezdés j) pontja szerinti célból, törvényben vagy kormányrendeletben kijelölt, egészségügyi ellátó hálózaton kívüli, EESZT-hez nem csatlakozott szerv részére az EESZT-n keresztül továbbítja
@@ -1095,6 +1136,66 @@ e fejezet szerint kérheti Covid–19 elleni védőoltásának bejegyzését az 
 
 35/V. § A 35/T. § (1) bekezdése szerinti bejelentés illeték- és díjmentes.
 
+### III/D. Fejezet — AZ EGÉSZSÉGÜGYI ADATVAGYON-HASZNOSÍTÁS
+
+35/W. § (1) A nemzeti adatvagyonnak az egészségügyi ellátóhálózat, az EESZT és az egészségbiztosítási szerv által kezelt adatainak a Nahtv. szerinti további felhasználása (a továbbiakban: egészségügyi adatvagyon-hasznosítás) során a Nahtv.-ben és végrehajtási rendeletében, valamint az e fejezetben és e törvény végrehajtására kiadott rendeletben foglaltak szerint kell eljárni.
+
+(2) Az egészségügyi adatvagyon-hasznosítás során az Egészségügyi Adathasznosítást Támogató Testület feladata a különféle ágazati és piaci érdekek felmérése, az egészségügyi adatvagyon-hasznosítással kapcsolatos javaslatok megfogalmazása, és szakmai tanácsadás az ágazati illetékes szerv felé. Az Egészségügyi Adathasznosítást Támogató Testület tagjait és feladatainak részletszabályait a Kormány rendeletben határozza meg.
+
+(3) Az egészségügyi adatvagyon-hasznosítás iránti igényt a Nahtv. szerinti ágazati illetékes szerv (a továbbiakban: ágazati illetékes szerv) bírálja el. Az ágazati illetékes szerv feladatait, az igény benyújtásának és elbírálásának részletszabályait a Kormány rendelete határozza meg.
+
+(4) A (3) bekezdésben foglaltakon túl az ágazati illetékes szerv ellátja az európai egészségügyi adattérről, valamint a 2011/24/EU irányelv és az (EU) 2034/2847 rendelet módosításáról szóló, 2025. február 11-i, 2025/327 (EU) európai parlamenti és tanácsi rendelet szerinti digitális egészségügyi hatóság, az egészségügyi adatokhoz való hozzáférés tekintetében illetékes szerv és az egészségügyi adatok másodlagos felhasználását szolgáló nemzeti kapcsolattartó pont szerinti feladatokat. Az ágazati illetékes szerv ezen feladataihoz kapcsolódó részletszabályokat a Kormány rendelete határozza meg.
+
+(5) Az EESZT működtetője közreműködik az egészségügyi adatvagyon-hasznosítás során az EESZT-ben tárolt adatoknak a további felhasználás jogosultja számára – az ágazati illetékes szerv által megadott paraméterek szerint – történő összegyűjtésében, anonimizálásában, álnevesítésében.
+
+(6) Az EESZT működtetője a 35/X. § (2) bekezdése szerinti biztonságos feldolgozási környezetre és kapcsolt szolgáltatásokra vonatkozóan a Kormány rendeletében meghatározott egyes
+
+- a) feltételek kialakítását,
+- b) informatikai feladatokat
+
+– ideértve az a) és b) pontokhoz kapcsolódó beruházási feladatokat is – hirdetménnyel induló, a közbeszerzésekről szóló 2015. évi CXLIII. törvény (a továbbiakban: Kbt.) szerint lefolytatott eljárás alapján az eljárás nyertesével (a továbbiakban: működtetésben közreműködő) a Kbt. szerint megkötött szerződés útján is biztosíthatja.
+
+(7) Az állam nevében a Kbt. szerinti eljárás lefolytatására, az eljárás nyertesével a Kbt. szerinti szerződés megkötésére, valamint e szerződés módosítására és megszüntetésére az egyes beszerzési eljárások tekintetében a Kormány rendeletében kijelölt miniszter jogosult.
+
+(8) A (6) bekezdés szerinti szerződésben előírható, hogy ha a Kbt. szerinti szerződés megkötését követően e törvény rendelkezéseinek, valamint az ágazati szabályozás megváltozása következtében a Kbt. szerinti szerződés változatlan feltételek melletti teljesítése a működtetésben közreműködő számára gazdasági hátrányt vagy jogi érdeksérelmet okoz vagy okozna, és e törvény rendelkezéseinek, valamint az ágazati szabályozás megváltozásának lehetősége a Kbt. szerinti szerződés megkötésének időpontjában a Kbt. szerinti eljárás nyertese számára nem volt előrelátható, a működtetésben közreműködő választása szerint
+
+- a) a Kbt. szerinti szerződést legalább három hónapos felmondási idő mellett felmondhatja,
+- b) a Kbt. szerinti szerződés bírósági módosítása útján a (6) bekezdés szerinti szolgáltatás nyújtásáért fizetendő díj arányos csökkentését kérheti, vagy
+- c) az elszenvedett gazdasági hátránnyal vagy jogi érdeksérelemmel arányos egyösszegű vagy részletekben teljesítendő pénzbeli kompenzációra tarthat igényt.
+
+(9) A (8) bekezdés alkalmazásában ágazati szabályozásnak minősül az állam és az Európai Unió által alkotott, az egészségügyi adatvagyon-hasznosításra vonatkozó olyan jogszabály és jogi tartalmú szabályozás, amely a 35/X. § (2) bekezdése szerinti biztonságos feldolgozási környezet működtetése feltételeit meghatározza.
+
+(10) A működtetésben közreműködő feladatainak részletes szabályait a Kormány rendeletben határozza meg.
+
+35/X. § (1) Az ágazati illetékes szerv az egészségügyi adatvagyon-hasznosítás céljából kérelemre – ha a (2) bekezdés szerinti biztonságos feldolgozási környezet rendelkezésre áll – hozzáférést engedélyezhet az EESZT-ben tárolt adatokhoz a (2)–(4) bekezdésben foglaltak szerint.
+
+(2) Az egészségügyi adatvagyon-hasznosítás esetén a szükséges adatelemzés kizárólag biztonságos feldolgozási környezetben valósítható meg. A biztonságos feldolgozási környezet
+
+- a) a hozzáférést a vonatkozó engedélyben felsorolt, felhatalmazott természetes személyekre korlátozza,
+- b) a legkorszerűbb technikai és szervezési intézkedésekkel minimalizálja a biztonságos feldolgozási környezetben tárolt elektronikus egészségügyi adatok jogosulatlan olvasásának, másolásának, módosításának vagy eltávolításának kockázatát,
+- c) a biztonságos feldolgozási környezetben tárolt elektronikus egészségügyi adatok bevitelét és az elektronikus egészségügyi adatok megtekintését, módosítását vagy törlését korlátozott számú, arra jogosult azonosítható személyre korlátozza,
+- d) biztosítja, hogy az egészségügyi adatok felhasználói csak az engedélyben szereplő egészségügyi adatokhoz férjenek hozzá, kizárólag egyéni és egyedi felhasználói azonosítók és bizalmas hozzáférési módok segítségével,
+- e) naplózza a biztonságos feldolgozási környezethez való hozzáférést és a biztonságos feldolgozási környezetben végzett tevékenységeket, amely bejegyzéseket egy évig őriz meg.
+
+(3) A biztonságos feldolgozási környezetben az EESZT-ben tárolt adatokhoz történő hozzáférés kizárólag anonimizált adatokhoz és annak engedélyezhető, aki
+
+- a) biztosítja, hogy az egészségügyi adatvagyon-hasznosítás során megismert adatok kizárólag a kérelemben megjelölt adatvagyon-hasznosítási célra kerülnek felhasználásra,
+- b) garantálja, hogy az egészségügyi adatvagyon-hasznosítás kizárólag anonimizált adatokkal történik,
+- c) megfelelő biztosítékokat nyújt az adatoknak az engedélyben meghatározottól eltérő célra és körben történő felhasználásának megakadályozására, valamint a természetes személyek jogai és érdekei védelme érdekében,
+- d) az egészségügyi adatvagyon-hasznosítás előtt adatvédelmi hatásvizsgálatot folytat le.
+
+(4) A (3) bekezdés b) pontjában foglaltaktól eltérően az egészségügyi adatvagyon-hasznosítás álnevesített adatokkal is történhet, ha
+
+- a) az adatvagyon-hasznosítás célja más módon nem vagy csak aránytalan időveszteséggel és költséggel érhető el,
+- b) az adatvagyon-hasznosító garantálja, hogy úgy jár el, hogy az álnevesített adatok a személy azonosítására alkalmatlanok legyenek és biztosítja, hogy az álnevesített adatot a biztonságos feldolgozási környezeten kívül nem kezeli.
+
+(5) Egészségügyi adatvagyon-hasznosítás során az ágazati illetékes szerv az egészségügyi adatvagyon-hasznosítás iránti igényt elutasítja, ha alaposan vélelmezhető, hogy
+
+- a) az engedélykérő olyan technológiát használ, amely alapján – akár a korábban kapott, hozzáférést engedélyezett adatokkal – a személytelenített adatokból személyes adatokra tud következtetést levonni,
+- b) az engedélykérő a részére hozzáférhetővé tett adatokból olyan következtetést tud levonni, amely miatt a teljesítés Magyarország nemzetbiztonsági, honvédelmi, rendvédelmi érdekeit sérti vagy veszélyezteti.
+
+(6) Az (5) bekezdés szerinti körülmények fennállása vizsgálata érdekében az ágazati illetékes szerv a Kormány rendeletében meghatározott szerv véleményét kikéri.
+
 ### IV. Fejezet — Vegyes és záró rendelkezések
 
 36. § (1) Az EESZT szolgáltatásainak biztosítására a működtető legkésőbb 2016. június 1-jétől köteles.
@@ -1177,6 +1278,8 @@ megismerheti.
 
 (3) E törvény előírásait alkalmazni kell a meghalt személyre vonatkozó egészségügyi adatok esetén is.
 
+37/A. § A Magyarország versenyképességének javítása érdekében egyes törvények módosításáról szóló 2025. évi LXVII. törvénnyel megállapított 20. § (7)–(10) bekezdésében és III/D. Fejezetében foglaltakat a Kormány rendeletében meghatározott időponttól kell alkalmazni.
+
 38. § (1) Ez a törvény a kihirdetését követő 7. hónap 1. napján lép hatályba.
 
 (2) Felhatalmazást kap a miniszter, hogy
@@ -1228,6 +1331,27 @@ rendeletben jelölje ki.
 (3b) Felhatalmazást kap a külpolitikáért felelős miniszter, hogy az egészségügyért felelős miniszter és a közbiztonságért felelős miniszter egyetértésével rendeletben határozza meg a 35/S. § szerinti országokat.
 
 (3c) Felhatalmazást kap a Kormány, hogy az EESZT csatlakozáshoz használt informatikai rendszerek műszaki bevizsgálására és engedélyezésére vonatkozó részletes szabályokat rendeletben határozza meg.
+
+(3d) Felhatalmazást kap a Kormány, hogy
+
+- a) az egészségügyi adatvagyon-hasznosítás során eljáró, az adatkormányzási rendelet szerinti ágazati illetékes szerv feladatait,
+- b) az egészségügyi adatvagyon-hasznosításra irányuló kérelem benyújtásának és elbírálásának részletszabályait,
+- c) a működtetésben közreműködő részére átadható feladatokat és a feladatai részletes szabályait,
+- d) a 35/W. § (7) bekezdése szerinti miniszter kijelölését,
+- e) az Egészségügyi Adathasznosítást Támogató Testület tagjait és feladatainak részletszabályait
+
+rendeletben határozza meg.
+
+(3e) Felhatalmazást kap a Kormány, hogy az európai egészségügyi adattérről szóló rendelet szerinti
+
+- a) digitális egészségügyi hatóságot,
+- b) digitális egészségügyért felelős nemzeti kapcsolattartó pontot,
+- c) egészségügyi adatokhoz való hozzáférés tekintetében illetékes szervet,
+- d) elektronikus egészségügyi adatok másodlagos felhasználását szolgáló nemzeti kapcsolattartó pontot
+
+rendeletben jelölje ki.
+
+(3f) Felhatalmazást kap a Kormány, hogy a 37/A. § szerinti rendelkezések alkalmazásának kezdő időpontját rendeletben határozza meg.
 
 (4) Ez a törvény a foglalkozási megbetegedések európai jegyzékéről szóló 2003/670/EK ajánlásnak való megfelelést szolgálja.
 

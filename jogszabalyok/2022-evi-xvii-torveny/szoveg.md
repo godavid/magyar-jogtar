@@ -40,6 +40,8 @@ gazdasági szereplők által a fogyasztók részére történő biztosítására
 - a) az online térképek és térképszolgáltatások, feltéve, hogy a navigációs célra szánt térképek esetében az alapvető információkat akadálymentes digitális formában bocsátják rendelkezésre;
 - b) a harmadik fél tulajdonát képező olyan tartalmak, amelyeket nem az érintett gazdasági szereplő finanszírozott vagy fejlesztett ki, és nem tartoznak annak ellenőrzése alá.
 
+(3a) A 4. alcímben foglaltakat nem kell alkalmazni a közbeszerzésekről szóló 2015. évi CXLIII. törvény szerinti közbeszerzési eljárás és koncessziós beszerzési eljárás esetén.
+
 (4) E törvény rendelkezéseit alkalmazni kell a „112-es” egységes európai segélyhívó számra beérkezett segélyhívásokra is.
 
 2. § E törvény alkalmazásában
@@ -157,6 +159,8 @@ de legalább ötévente felülvizsgálja.
 (4) Ha a szolgáltatás nem felel meg az akadálymentességi követelményeknek, a szolgáltató erről haladéktalanul tájékoztatja az ellenőrző hatóságot, illetve azoknak a tagállamoknak az illetékes nemzeti hatóságait, amelyek területén a szolgáltatást nyújtja, és részletesen ismerteti a meg nem felelést és a meghozott korrekciós intézkedéseket.
 
 (5) A szolgáltató az ellenőrző hatóság felhívására átadja a hatóság részére a szolgáltatás akadálymentességi követelményeknek való megfelelésének igazolásához szükséges valamennyi információt és dokumentációt.
+
+(6) A szolgáltató az ellenőrző hatóság felhívására együttműködik a hatósággal annak érdekében, hogy a szolgáltatás megfeleljen az akadálymentességi követelményeknek.
 
 7. § A gazdasági szereplő termékekre vonatkozó akadálymentességi követelmények teljesülésével kapcsolatos kötelezettségeit a termékek piacfelügyeletéről szóló 2012. évi LXXXVIII. törvény tartalmazza.
 

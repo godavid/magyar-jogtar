@@ -1413,123 +1413,126 @@ A. A joghatóságnak rendelkeznie kell a fent meghatározott jelentéstételi é
 ### 1. melléklet a 2015. évi CXC. törvényhez
 
 - 1. Albánia
-- 1a. Andorra
-- 2. Anguilla
-- 3. Antigua és Barbuda
-- 4. Argentína
-- 5. Aruba
-- 6. Ausztrália
-- 7. Ausztria
-- 7a. Azerbajdzsán
-- 7b. Bahama-szigetek
-- 7c. Bahrein
-- 8. Barbados
-- 9. Belgium
-- 10. Belize
-- 11. Bermuda
-- 11a. Brazília
-- 12. Brit Virgin-szigetek
-- 12a. Brunei
-- 13. Bulgária
-- 14. Chile
-- 15. Ciprus
-- 16. Cook-szigetek
-- 17. Costa Rica
-- 18. Curaçao
-- 19. Csehország
-- 20. Dánia
-- 21. Dél-Afrika
-- 21a. Dominikai Közösség
-- 21b. Ecuador
-- 21c. Egyesült Arab Emírségek
-- 22. Egyesült Királyság
-- 23. Észtország
-- 24. Feröer-szigetek
-- 25. Finnország
-- 26. Franciaország és annak következő tengerentúli területei: – Francia Guyana, – Guadeloupe, – Martinique, – Mayotte, – Réunion, – Saint-Barthélemy és – Új-Kaledónia
-- 26a. Georgia
-- 27. Ghána
-- 28. Gibraltár
-- 29. Görögország
-- 30. Grenada
-- 30a. Grönland
-- 31. Guernsey
-- 32. Hollandia és annak következő területe: – Bonaire, Sint Eustatius és Saba
-- 32a. Hongkong
-- 33. Horvátország
-- 34. India
-- 35. Indonézia
-- 36. Írország
-- 37. Izland
-- 37a. Izrael
-- 37b. Jamaica
-- 38. Japán
-- 39. Jersey
-- 40. Kajmán-szigetek
-- 40a. Kamerun
-- 41. Kanada
-- 41a. Katar
-- 41b. Kazahsztán
-- 41c. Kenya
-- 41d. Kína
-- 42. Kolumbia
-- 43. Korea
-- 43a. Kuvait
-- 44. Lengyelország
-- 45. Lettország
-- 45a. Libanon
-- 45b. Libéria
-- 46. Liechtenstein
-- 47. Litvánia
-- 48. Luxemburg
-- 48a. Makaó
-- 48b. Malajzia
-- 48c. Maldív-szigetek
-- 49. Man-sziget
-- 49a. Marokkó
-- 50. Marshall-szigetek
-- 51. Mauritius
-- 52. Málta
-- 53. Mexikó
-- 53a. Moldova
-- 53b. Monaco
-- 53c. Montenegró
-- 54. Montserrat
-- 54a. Nauru
-- 55. Németország
-- 55a. Nigéria
-- 56. Niue
-- 57. Norvégia
-- 58. Olaszország
-- 58a. Omán
-- 58b. Orosz Föderáció
-- 58c. Örményország
-- 58d. Pakisztán
-- 58e. Panama
-- 58f. Peru
-- 59. Portugália
-- 60. Románia
-- 60a. Ruanda
-- 60b. Saint Kitts és Nevis
-- 61. Saint Lucia
-- 62. Saint Vincent és a Grenadine-szigetek
-- 63. Samoa
-- 64. San Marino
-- 65. Seychelle-szigetek
-- 66. Sint Maarten
-- 67. Spanyolország
-- 68. Svájc
-- 69. Svédország
-- 69a. Szaúd-Arábia
-- 69b. Szenegál
-- 69c. Szingapúr
-- 70. Szlovák Köztársaság
-- 71. Szlovénia
-- 71a. Törökország
-- 71b. Thaiföld
-- 72. Turks és Caicos-szigetek
-- 72a. Uganda
-- 72b. Ukrajna
-- 72c. Uruguay
-- 73. Új-Zéland
-- 74. Vanuatu
+- 2. Andorra
+- 3. Anguilla
+- 4. Antigua és Barbuda
+- 5. Argentína
+- 6. Aruba
+- 7. Ausztrália
+- 8. Ausztria
+- 9. Azerbajdzsán
+- 10. Bahama-szigetek
+- 11. Bahrein
+- 12. Barbados
+- 13. Belgium
+- 14. Belize
+- 15. Bermuda
+- 16. Brazília
+- 17. Brit Virgin-szigetek
+- 18. Brunei
+- 19. Bulgária
+- 20. Chile
+- 21. Ciprus
+- 22. Cook-szigetek
+- 23. Costa Rica
+- 24. Curaçao
+- 25. Csehország
+- 26. Dánia
+- 27. Dél-Afrika
+- 28. Dominikai Közösség
+- 29. Ecuador
+- 30. Egyesült Arab Emírségek
+- 31. Egyesült Királyság
+- 32. Észtország
+- 33. Feröer-szigetek
+- 34. Finnország
+- 35. Franciaország és annak következő tengerentúli területei: Francia Guyana, Guadeloupe, Martinique, Mayotte, Réunion, Saint-Barthélemy és Új-Kaledónia
+- 36. Georgia
+- 37. Ghána
+- 38. Gibraltár
+- 39. Görögország
+- 40. Grenada
+- 41. Grönland
+- 42. Guernsey
+- 43. Hollandia és annak következő területe: Bonaire, Sint Eustatius és Saba
+- 44. Hongkong
+- 45. Horvátország
+- 46. India
+- 47. Indonézia
+- 48. Írország
+- 49. Izland
+- 50. Izrael
+- 51. Jamaica
+- 52. Japán
+- 53. Jersey
+- 54. Kajmán-szigetek
+- 55. Kamerun
+- 56. Kanada
+- 57. Katar
+- 58. Kazahsztán
+- 59. Kenya
+- 60. Kína
+- 61. Kolumbia
+- 62. Korea
+- 63. Kuvait
+- 64. Lengyelország
+- 65. Lettország
+- 66. Libanon
+- 67. Libéria
+- 68. Liechtenstein
+- 69. Litvánia
+- 70. Luxemburg
+- 71. Makaó
+- 72. Malajzia
+- 73. Maldív-szigetek
+- 74. Man-sziget
+- 75. Marokkó
+- 76. Marshall-szigetek
+- 77. Mauritius
+- 78. Málta
+- 79. Mexikó
+- 80. Moldova
+- 81. Monaco
+- 82. Mongólia
+- 83. Montenegró
+- 84. Montserrat
+- 85. Nauru
+- 86. Németország
+- 87. Nigéria
+- 88. Niue
+- 89. Norvégia
+- 90. Olaszország
+- 91. Omán
+- 92. Orosz Föderáció
+- 93. Örményország
+- 94. Pakisztán
+- 95. Panama
+- 96. Pápua Új-Guinea
+- 97. Peru
+- 98. Portugália
+- 99. Románia
+- 100. Ruanda
+- 101. Saint Kitts és Nevis
+- 102. Saint Lucia
+- 103. Saint Vincent és a Grenadine-szigetek
+- 104. Samoa
+- 105. San Marino
+- 106. Seychelle-szigetek
+- 107. Sint Maarten
+- 108. Spanyolország
+- 109. Svájc
+- 110. Svédország
+- 111. Szaúd-Arábia
+- 112. Szenegál
+- 113. Szingapúr
+- 114. Szlovák Köztársaság
+- 115. Szlovénia
+- 116. Törökország
+- 117. Thaiföld
+- 118. Trinidad és Tobago
+- 119. Turks és Caicos-szigetek
+- 120. Uganda
+- 121. Ukrajna
+- 122. Uruguay
+- 123. Új-Zéland
+- 124. Vanuatu

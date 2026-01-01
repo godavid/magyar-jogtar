@@ -1158,6 +1158,8 @@ alapul.
 - b) ha a bejelentő egyéni vállalkozó, a vállalkozói nyilvántartási száma,
 - c) a díjfizető neve, számlázási címe, adószáma vagy adóazonosító jele.
 
+(2a) A kivitelezési jogosultsággal rendelkező vízszerelők nyilvántartása – a természetes személyazonosító adatok, az egyéni vállalkozói nyilvántartási szám, az adószám és az adóazonosító kivételével – közhiteles hatósági nyilvántartásnak minősül.
+
 (3) A közforgalom elől el nem zárt területen létesült csatlakozó hálózat geodéziai bemérésre az igénybejelentő kizárólag a földmérési és térképészeti tevékenység végzéséhez szükséges szakképzettségről szóló miniszteri rendeletben meghatározott szakképzettséggel rendelkező személynek adhat megbízást.
 
 55/J. § (1) Ha a víziközmű-szolgáltató az ivóvíz-bekötővezeték vagy szennyvíz-bekötővezeték létesítésére irányuló a bekötéssel összefüggő terveket kivitelezésre alkalmatlannak minősítette, új terv benyújtását, vagy a tervek olyan kiegészítését írta elő, amellyel az igénybejelentő nem ért egyet, az igénybejelentő a műszaki biztonsági hatóságtól kérheti az alkalmassági nyilatkozat kiadását. A kivitelezésre való alkalmasság megállapítására indított eljárásra az e törvény végrehajtására kiadott kormányrendelet rendelkezéseit kell alkalmazni azzal, hogy a műszaki-biztonsági hatóság az alkalmassági nyilatkozat kiadására irányuló kérelmet a kérelem beérkezésétől számított 8 munkanapon belül köteles elbírálni és döntéséről a kérelmezőt értesíteni. A műszaki-biztonsági hatóság eljárása díjmentes.

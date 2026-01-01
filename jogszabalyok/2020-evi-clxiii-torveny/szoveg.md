@@ -52,9 +52,9 @@ Az Országgyűlés a szőlő-bor ágazat átlátható és fenntartható működ�
 
 (2) A szőlő termőhelyi katasztert vezető szerv besorolja a földterületet a szőlő termőhelyi kataszterbe.
 
-(3) A szőlő termőhelyi kataszter azon adat kivételével, amelyet jogszabály más nyilvántartás részeként közhitelesnek minősít, közhiteles hatósági nyilvántartásnak minősül.
+(3) A szőlő termőhelyi kataszter azon adatok tekintetében, amelyeket e törvény végrehajtására kiadott kormányrendelet annak nyilvánít, közhitelesnek minősül.
 
-(4) A hegyközség hozzájárulása szükséges
+(4) A hegyközség illetékességi területén belül a hegyközség, a hegyközség illetékességi területen kívül a Hegyközségek Nemzeti Tanácsának (a továbbiakban: HNT) hozzájárulása szükséges
 
 - a) a szőlő termőhelyi kataszterbe sorolt földterületen a csemegeszőlő-telepítést kivéve gyümölcsös, erdő vagy fásítás telepítéséhez, faiskola, halastó és nádas létesítéséhez, valamint a termőföld más célú hasznosításához,
 - b) a földterület szőlő termőhelyi kataszterből történő törléséhez.
@@ -86,7 +86,7 @@ szükséges.
 
 (3) Az (1) bekezdés szerinti ültetvények telepítésének vagy kivágásának tényét az ültetvény használója – a művelet befejezését követő 15 napon belül – bejelenti a hegybírónak. A bejelentést követő 240 napon belül a hegybíró ellenőrzi a telepítés vagy a kivágás megtörténtét.
 
-(4) Ha az új telepítések számára engedélyezhető terület nagyságát meghaladó mértékű területnagyságra érkezik be új telepítési engedély iránti kérelem, e törvény végrehajtására kiadott rendeletben foglaltak szerint a Hegyközségek Nemzeti Tanácsa (a továbbiakban: HNT) a kérelmek összesítését követően a kérelmekben szereplő területnagyságot arányosan visszaosztja, vagy e törvény végrehajtására kiadott miniszteri rendeletben foglalt elsőbbségi szempontok alapján rangsorolja a kérelmeket.
+(4) Ha az új telepítések számára engedélyezhető terület nagyságát meghaladó mértékű területnagyságra érkezik be új telepítési engedély iránti kérelem, e törvény végrehajtására kiadott rendeletben foglaltak szerint a HNT a kérelmek összesítését követően a kérelmekben szereplő területnagyságot arányosan visszaosztja, vagy e törvény végrehajtására kiadott miniszteri rendeletben foglalt elsőbbségi szempontok alapján rangsorolja a kérelmeket.
 
 (5) Osztatlan közös tulajdonban álló ingatlan esetén a szőlőtelepítéshez valamennyi tulajdonostárs hozzájáruló nyilatkozata szükséges. A kérelmezőnek a szőlőtelepítéshez szükséges hozzájáruló nyilatkozatot írásban, igazolt módon kell kérnie (a továbbiakban: hozzájáruló nyilatkozat iránti kérelem) a tulajdonostársaktól.
 
@@ -105,7 +105,7 @@ szükséges.
 
 (3a) A rendeltetésszerű művelés elmulasztása miatt kiszabott bírság a szőlőültetvény fekvése szerinti hegyközség bevétele.
 
-(4) Ha a szőlőültetvény használója vagy tulajdonosa a (3) bekezdés szerinti kivágásra vonatkozó kötelezettségét nem teljesíti, a hegybíró értesíti a növénytermesztési hatóságot, amely – az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény 133. § (1) bekezdésében foglaltak szerint – elrendeli a döntés végrehajtását.
+(4) Ha a szőlőültetvény tulajdonosa a (3) bekezdés szerinti kivágásra vonatkozó kötelezettségét nem teljesíti, a hegybíró értesíti a növénytermesztési hatóságot, amely – az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény 133. § (1) bekezdésében foglaltak szerint – elrendeli a döntés végrehajtását.
 
 6. § (1) Ha a szőlőtermést nem az ültetvény használója dolgozza fel, a szőlőtermés felvásárlásáról a felvásárló felvásárlási jegyet készít, amelyet megküld a hegybírónak. A felvásárlási jegy a felvásárlási okirat Áfa tv.-ben meghatározott adatain kívül tartalmazza
 
@@ -133,9 +133,9 @@ szükséges.
 - b) az üzemeltető Éltv. szerinti élelmiszerlánc-felügyeleti információs rendszer (a továbbiakban: FELIR) azonosító számát (a továbbiakban: FELIR azonosító), mezőgazdasági és vidékfejlesztési támogatási szerv által adott ügyfél-azonosítóját, telefonos és elektronikus elérhetőségét,
 - c) a borászati üzem szakmai tevékenységéért felelős személy természetes személyazonosító adatait, lakcímét, telephelyét, telefonos és elektronikus elérhetőségét, adóazonosító jelét, egyéni vállalkozó természetes személy esetén nevét, székhelyét, adószámát, telefonos és elektronikus elérhetőségét.
 
-(5) A borászati üzemengedély-nyilvántartás azon adat kivételével, amelyet jogszabály más nyilvántartás részeként közhitelesnek minősít, közhiteles hatósági nyilvántartásnak minősül. A borászati üzemengedély-nyilvántartás e törvény végrehajtására kiadott kormányrendeletben meghatározott adatait, természetes személy esetén a nevét, adóazonosítóját vagy adószámát és FELIR azonosítóját a borászati hatóság a honlapján közzéteszi.
+(5) A borászati üzemengedély-nyilvántartás azon adatok tekintetében, amelyeket e törvény végrehajtására kiadott kormányrendelet annak nyilvánít, közhitelesnek minősül. A borászati üzemengedély-nyilvántartás e törvény végrehajtására kiadott kormányrendeletben meghatározott adatait, természetes személy esetén a nevét, adóazonosítóját vagy adószámát és FELIR azonosítóját a borászati hatóság a honlapján közzéteszi.
 
-8. § Az Európai Unió közvetlenül alkalmazandó jogi aktusa értelmében nem engedélyezett borászati eljárás a borászati hatóság engedélyével, kísérleti céllal alkalmazható. A kiadott engedélyekről a borászati hatóság közhiteles nyilvántartást vezet.
+8. § Az Európai Unió közvetlenül alkalmazandó jogi aktusa értelmében nem engedélyezett borászati eljárás a borászati hatóság engedélyével, kísérleti céllal alkalmazható. A kiadott engedélyekről a borászati hatóság nyilvántartást vezet.
 
 8/A. § (1) A HNT az e törvény végrehajtására kiadott rendeletben meghatározott
 
@@ -166,7 +166,9 @@ lehetséges.
 
 (2) Nem kell alkalmazni az (1) bekezdés
 
-- a) b)–d) pontját a Magyarország területéről kiszállított szőlőmust, sűrített szőlőmust és finomított szőlőmustsűrítmény,
+- a) b)–d) pontját a Magyarország területéről
+  - aa) kiszállított szőlőmust, sűrített szőlőmust és finomított szőlőmustsűrítmény, valamint
+  - ab) további feldolgozás, illetve kiszerelés céljából kiszállított, majd annak elvégzését követően visszaszállított borászati termék;
 - b) b) és c) pontját
   - ba) az e törvény végrehajtására kiadott kormányrendeletben meghatározott esetben a még erjedésben lévő újbor,
   - bb) a borecet,
@@ -177,7 +179,7 @@ tekintetében.
 
 (2a) Szőlőmust Magyarország területéről való kivitele esetén a 9. § (1) bekezdés a) pontja szerinti származási bizonyítványt a kivitelt követően az e törvény végrehajtására kiadott kormányrendeletben meghatározott határidőn belül szükséges beszerezni.
 
-(2b)
+(2b) A Magyarország területéről a (2) bekezdés a) pont ab) alpontja szerint további feldolgozás, illetve kiszerelés céljából kiszállított borászati terméket a művelet elvégzésétől számított 7 napon belül vissza kell szállítani abba a borászati üzembe, ahonnan eredetileg elszállították.
 
 (3) A hegybíró az első származási bizonyítványt az érintett borászati termékhez kapcsolódó szüreti bejegyzés alapján adja ki.
 
@@ -219,7 +221,7 @@ tekintetében.
 
 #### 6. A földrajzi árujelzőt kezelő hegyközségi szervezet jogosultságai
 
-13. § (1) Az e törvény végrehajtására kiadott kormányrendeletben foglalt szempontok figyelembevételével a földrajzi árujelzőt kezelő hegyközségi szervezet a miniszter hozzájárulásával
+13. § (1) Az e törvény végrehajtására kiadott kormányrendeletben foglalt szempontok figyelembevételével a földrajzi árujelzőt kezelő hegyközségi szervezet az agrárpolitikáért felelős miniszter (a továbbiakban: miniszter) hozzájárulásával
 
 - a) meghatározhatja az általa kezelt földrajzi árujelző termőterületén telepíthető fajták listáját,
 - b) az évjárat jellegétől vagy a piaci helyzettől függően az adott évi szüret vonatkozásában a földrajzi árujelző termékleírásának
@@ -296,11 +298,16 @@ tekintetében.
 
 (4) Az ePincekönyv rendszer a lekérdezést követő 60 napig nyilvántartja – az adatszolgáltató által a saját adatai vonatkozásában végzett lekérdezést kivéve – az ePincekönyv rendszerből egyedi azonosításra alkalmas módon lekérdezett adatokat és a lekérdezést végző személy nevét.
 
-(5) A HNT hozzáférést biztosít az ePincekönyv rendszerhez a miniszter, az állami adó- és vámhatóság, a földrajzi árujelzőt kezelő hegyközségi szervezet, a hegybíró, valamint a borászati hatóság számára, jogszabályban meghatározott feladataik ellátása céljából, az ahhoz szükséges mértékben. A HNT biztosítja továbbá az ePincekönyv rendszert használó adatszolgáltató számára az e törvényben és e törvény végrehajtására kiadott jogszabályban meghatározott adatszolgáltatási kötelezettségének teljesítése, valamint hatósági eljárás kezdeményezése céljából az ePincekönyv rendszerben biztosított tárhelyéhez való hozzáférést és az azon keresztül történő ügyintézést, elektronikus azonosítását követően.
+(5) A HNT hozzáférést biztosít az ePincekönyv rendszerhez a miniszter, az állami adó- és vámhatóság, a földrajzi árujelzőt kezelő hegyközségi szervezet, a tevékenység végzése szerint illetékes hegyközségi szervezet, a hegybíró, valamint a borászati hatóság számára, jogszabályban meghatározott feladataik ellátása céljából, az ahhoz szükséges mértékben. A HNT biztosítja továbbá az ePincekönyv rendszert használó adatszolgáltató számára az e törvényben és e törvény végrehajtására kiadott jogszabályban meghatározott adatszolgáltatási kötelezettségének teljesítése, valamint hatósági eljárás kezdeményezése céljából az ePincekönyv rendszerben biztosított tárhelyéhez való hozzáférést és az azon keresztül történő ügyintézést, elektronikus azonosítását követően.
 
 (6) A hatósági ellenőrzések kockázatbecslésen alapuló tervezéséhez az ePincekönyv rendszer a (2) bekezdés szerinti adatokat automatikus információátadással biztosítja a FELIR számára. A FELIR nyilvántartja a borászati hatóság által a (4) bekezdésben foglaltak szerint végzett lekérdezéssel kapcsolatos adatokat, az ott meghatározott módon.
 
 (7) A FELIR automatikus információátadással biztosítja az ePincekönyv rendszer számára a FELIR azonosítóval rendelkező adatszolgáltatók listáját, ezek vonatkozásában a felfüggesztett, visszavont vagy törölt FELIR azonosítókat, az engedélyezett borászati üzemek listáját, továbbá a forgalomba hozatalhoz kapcsolódó adatokat.
+
+(7a) A HNT az általa a Hktv. alapján működtetett informatikai rendszer adataiból automatikus információátadással rendszeresen biztosítja az ePincekönyv rendszer és a FELIR számára a hatósági eljárásokhoz és az ePincekönyv rendszer működéséhez szükséges, a hegyközségi névjegyzékben szereplő természetes személy hegyközségi tagok és nyilvántartott adatszolgáltatók következő adatait:
+
+- a) a természetes személy természetes személyazonosító adatait, lakcímét, telephelyét, adóazonosító jelét, valamint
+- b) az egyéni vállalkozó természetes személy nevét, székhelyét és adószámát.
 
 (8) A HNT az ePincekönyv rendszerben kezelt adatokat az agrárgazdasági elemzésekkel foglalkozó intézmény és a borrégiós tanács részére statisztikai felhasználás céljából, egyedi azonosításra nem alkalmas módon, térítésmentesen átadja.
 
@@ -345,7 +352,7 @@ tekintetében.
   - dh) engedély nélkül telepített, illetve kivágott státuszát, ha van ilyen.
 - e) a szakmai-jövedéki nyilvántartás vezetésének módját.
 
-(2) A gazdasági akta az (1) bekezdés a) pont af) és ag) alpontja, valamint b) és c) pontja tekintetében – azon adat kivételével, amelyet jogszabály más nyilvántartás részeként közhitelesnek minősít – közhiteles hatósági nyilvántartásnak minősül.
+(2) A gazdasági akta az (1) bekezdés a) pont af) és ag) alpontja, valamint az (1) bekezdés b) pontja szerinti adatok, továbbá az (1) bekezdés c) pontja szerinti hatósági bizonyítványok kiállításának alapjául szolgáló, a szőlőültetvény vagy ültetvényrész azonosítására, a szőlő és borászati termék jellemzőire és eredetére vonatkozó adatok tekintetében – a természetes személyazonosító adatok, valamint a cégnyilvántartásban szereplő adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
 (3) A gazdasági akta az adatszolgáltató személyes adatait az adatszolgáltatási kötelezettség megszűnését követő 5 évig tartja nyilván.
 

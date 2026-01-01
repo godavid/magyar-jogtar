@@ -33,9 +33,20 @@ a környezetvédelemmel, a hulladékgazdálkodással és a víziközmű-szolgál
 
 #### 7. §
 
-#### 8. §
+8. § A Ktdt.
 
-#### 9. §
+- a) 2. § 32a. pontjában a „tárgyévet megelőző év” szövegrész helyébe a „2024.” szöveg,
+- b) 3. § (9) bekezdés c) pontjában a „vált termék” szövegrész helyébe a „vált termékből” szöveg
+
+lép.
+
+9. § Hatályát veszti a Ktdt.
+
+- a) 2. § 18. pontjában az „ , újbóli felhasználásra előkészíthető” szövegrész,
+- b) 2. § 32. pontja,
+- c) 3. § (2a) bekezdésében az „ , újbóli felhasználásra előkészített” szövegrész,
+- d) 3. § (9) bekezdés c) pontjában a „vagy a használt termék újbóli felhasználásra történő előkészítését” szövegrész,
+- e) 9/A. § (1) bekezdés b) pontjában az „újbóli felhasználásra előkészített,” szövegrész.
 
 #### 3. A víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény módosítása
 

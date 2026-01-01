@@ -45,16 +45,16 @@ a társadalombiztosítás pénzügyi alapjainak és a társadalombiztosítás sz
 
 (5) Az (1) bekezdés alapján a munkáltató akkor köteles kezdeményezni a kormányhivatalnál a kifizetőhelyként történő nyilvántartásba vételét, ha a pénzbeli egészségbiztosítási ellátásra jogosult foglalkoztatottak létszáma tartósan – legalább hat egymás követő hónapban – meghaladja a 100 főt.
 
-(6) Ha a munkáltató az (5) bekezdés szerinti kötelezettségének nem tesz eleget, a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 80. § (6) bekezdése szerinti mulasztási bírság fizetésére kötelezhető.
+(6) Ha a munkáltató az (5) bekezdés szerinti kötelezettségének nem tesz eleget, a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény (a továbbiakban: Ebtv.) 80. § (6) bekezdése szerinti mulasztási bírság fizetésére kötelezhető.
 
-(7) A Nemzeti Egészségbiztosítási Alapkezelő
+(7) Az egészségbiztosítási szerv
 
 - a) az (5) bekezdésben foglalt feltétel bekövetkezése esetén a (8) bekezdésben,
 - b) az (1) bekezdés szerint kifizetőhelyet működtető foglalkoztató foglalkoztatotti létszámának 100 fő alá csökkenése esetén a (9) bekezdésben,
 - c) a pénzbeli egészségbiztosítási ellátások és a baleseti táppénz megállapítása, folyósítása és ellenőrzése céljából a (10) bekezdésben
 - d) a pénzbeli egészségbiztosítási ellátásokkal, a baleseti táppénzzel, a nyugellátásokkal és a családtámogatási ellátásokkal kapcsolatban fennálló követelések keresetből történő levonása céljából a (10a) bekezdésben
 
-foglalt adattartalommal adatszolgáltatást teljesít elektronikus úton a Magyar Államkincstár részére.
+foglalt adattartalommal adatszolgáltatást teljesít elektronikus úton a kincstár részére.
 
 (8) A (7) bekezdés a) pontja szerinti adatszolgáltatás tartalmazza
 
@@ -107,7 +107,7 @@ foglalt adattartalommal adatszolgáltatást teljesít elektronikus úton a Magya
 
 (17) A kifizetőhelyi feladatellátás során keletkezett iratok megőrzési idejére megfelelően alkalmazni kell a kormányhivatalok mindenkori egységes iratkezelési szabályzatáról szóló szabályozásban foglalt, az egészségbiztosítási pénzbeli ellátási ügyekben keletkezett iratokra vonatkozó rendelkezéseket.
 
-(18) A kifizetőhelyekről az egészségbiztosító nyilvántartást vezet. A kifizetőhelyek nyilvántartása – a foglalkoztatók kifizetőhelyi minőségével összekapcsoltan – a (19) bekezdés a)–c) és e)–f) pontja tekintetében közhiteles hatósági nyilvántartásnak minősül.
+(18) A kifizetőhelyekről az egészségbiztosító nyilvántartást vezet. A kifizetőhelyek nyilvántartása – a foglalkoztatók kifizetőhelyi minőségével összekapcsoltan – a (19) bekezdés c) és e)–g) pontja tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
 (19) A (18) bekezdés szerinti nyilvántartás az alábbi adatokat tartalmazza:
 
@@ -117,12 +117,45 @@ foglalt adattartalommal adatszolgáltatást teljesít elektronikus úton a Magya
 - d) a kapcsolattartóként kijelölt személy (kifizetőhelyi ügyintéző) neve és elérhetőségei,
 - e) a kifizetőhely létesítésének napja,
 - f) a kifizetőhely megszűnésének napja.
+- g) a foglalkoztató kifizetőhelyi minőségének jelölése.
 
 (20) A (19) bekezdés d) pontja szerinti adatokat az egészségbiztosító a kifizetőhely megszűnésének napját követő 5 évig kezeli.
 
-#### 9/A. §
+(21) A foglalkoztató kifizetőhelyi minősége a (18) bekezdés szerinti nyilvántartásba vétellel jön létre.
 
-#### 9/B. §
+9/A. § (1) Az egészségbiztosítási szerv a biztosítási jogviszonyokról, valamint az Ebtv. szerinti egészségbiztosítási pénzbeli ellátásokról és a baleseti táppénzről biztosítottanként elektronikus nyilvántartást vezet (a továbbiakban: e-TB kiskönyv) az egészségbiztosítás pénzbeli ellátásaihoz kapcsolódó igények érvényesítése céljából.
+
+(2) A kifizetőhelyek az e-TB kiskönyv adatait a 9/B. §-ban rögzített felület útján, a biztosítottak pedig az egészségbiztosítási szerv által üzemeltetett Betegéletút szolgáltatás keretében kérdezhetik le.
+
+(3) Az e-TB kiskönyv biztosítottanként tartalmazza a TAJ számmal rendelkező természetes személyekre vonatkozó alábbi adatokat:
+
+- a) biztosított személyazonosító adatai és TAJ száma,
+- b) a biztosított jogviszonyai vonatkozásában
+  - ba) a foglalkoztató neve, adószáma,
+  - bb) jogviszonyának jogcímkódja,
+  - bc) jogviszonyának időtartama,
+  - bd) jogviszonya szünetelésének időtartama,
+  - be) jogviszonya szerinti munkakör (FEOR),
+  - bf) jogviszonya szerinti munkaidő mértéke,
+- c) a biztosított egészségbiztosítási pénzbeli ellátásaira és baleseti táppénzére vonatkozóan
+  - ca) az ellátás jogcíme,
+  - cb) az ellátás folyósításának időtartama,
+  - cc) az ellátás naptári napi alapja,
+  - cd) az ellátást megállapító hatóság megnevezése,
+  - ce) a foglalkoztató neve és adószáma, amennyiben az ellátást az egészségbiztosító állapította meg,
+  - cf) a gyermekápolási táppénz, a csecsemőgondozási díj, a gyermekgondozási díj és az örökbefogadói díj esetén az ellátásra jogosító gyermek születési neve, születési helye és ideje, továbbá a TAJ száma, amennyiben azzal a gyermek rendelkezik.
+
+(4) A kincstár a (3) bekezdés c) pontja szerinti adatokról az egészségbiztosítási szerv részére elektronikus úton adatot szolgáltat.
+
+(5) Az e-TB kiskönyv vezetéséhez szükséges adatátadás gyakoriságáról, formájáról, formátumáról, az adatok fogadásáról, az átadásra kerülő adatállományok minőségéről, az adatvizsgálat során alkalmazandó minőségi paraméterek meghatározásáról a kincstár megállapodást köt az egészségbiztosítási szervvel. A felek a megállapodást évente kötelesek felülvizsgálni, szükség esetén módosítani.
+
+(6) Az egészségbiztosítási szerv az (1) bekezdés szerinti nyilvántartásban szereplő adatokat a biztosított halálát követő 10 évig kezeli.
+
+9/B. § (1) A kifizetőhely az e-TB kiskönyv 9/A. § (3) bekezdése szerinti adatait az egészségbiztosítási szerv által erre a célra létrehozott és az egészségbiztosítási szerv által üzemeltetett elektronikus felületről (a továbbiakban: lekérdezőfelület) kérdezheti le az elektronikus azonosítást követően abban az esetben, ha a kincstár 9. § (18) és (19) bekezdése szerinti közhiteles hatósági nyilvántartásában kifizetőhelyként szerepel.
+
+(2) A lekérdezőfelületen a kifizetőhely kizárólag azon biztosítottak adatainak megismerésére jogosult, akik a lekérdezés időpontjában a kifizetőhelyet működtető foglalkoztatónál a társadalombiztosítás ellátásaira jogosító jogviszonyban állnak.
+
+(3) A kincstár 9. § (1) bekezdése szerinti társadalombiztosítási kifizetőhelyként működő illetményszámfejtő helye jogosult közvetlen elektronikus adatkapcsolat útján lekérni a 9/A. § (3) bekezdése szerinti adatokat a központosított illetményszámfejtési körbe tartozó foglalkoztatóknál biztosítási jogviszonyban állók vonatkozásában.
 
 #### 9/C. §
 
@@ -134,7 +167,7 @@ foglalt adattartalommal adatszolgáltatást teljesít elektronikus úton a Magya
 
 (4)
 
-#### 11. §
+11. § A kincstár a 9/A. § (4) bekezdése szerinti adatszolgáltatás keretében az egészségbiztosítási szerv részére az egészségbiztosító által 2023. december 31. napja után megállapított, valamint a kifizetőhelynek a 2023. december 31. napja után teljesített, az Ebtv. 79/B. § (4) bekezdése szerinti adatszolgáltatásában szereplő ellátások adatait adja át.
 
 #### 12. §
 

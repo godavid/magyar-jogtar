@@ -48,9 +48,13 @@ az államháztartásról szóló 2011. évi CXCV. törvény, valamint a Magyar N
 
 #### 18. §
 
-#### 19. §
+19. § Az Mnbtv. 162. § (2) bekezdése helyébe a következő rendelkezés lép:
 
-#### 20. §
+„(2) Az MNB feladataival és elsődleges céljával összhangban többségi tulajdonában álló gazdasági társaságot alapíthat vagy alapítványt hozhat létre azzal, hogy az MNB vagyonkezelő alapítványt nem alapíthat, valamint MNB által alapított alapítvány gazdasági tevékenységként nem végezhet befektetési, vagyonkezelési tevékenységet és nem bonyolíthat egyéb pénzforgalmi ügyleteket.”
+
+20. § Az Mnbtv. 54. alcíme a következő 183/P. §-sal egészül ki:
+
+„183/P. § Az államháztartásról szóló 2011. évi CXCV. törvény, valamint a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény módosításáról szóló 2025. évi XLVII. törvénnyel módosított 162. § (2) bekezdését a hatálybalépését megelőzően alapított alapítványra nem kell alkalmazni.”
 
 #### 21. §
 

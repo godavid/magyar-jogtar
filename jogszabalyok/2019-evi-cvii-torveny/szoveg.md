@@ -51,18 +51,9 @@ Az Országgyűlés a hatékonyan működő, költségtakarékos, az adminisztrat
 
 #### 4. § [Az álláshely besorolása]
 
-(1) A különleges jogállású szerv alaplétszámába tartozó álláshelyet a szerv vezetője sorolja be a (2) vagy (3) bekezdés szerinti kategóriák valamelyikébe a különleges jogállású szerv rendelkezésére álló költségvetési keret figyelembevételével.
+(1) A különleges jogállású szerv alaplétszámába tartozó álláshelyet a szerv vezetője sorolja be a (3) bekezdés szerinti kategóriák valamelyikébe a különleges jogállású szerv rendelkezésére álló költségvetési keret figyelembevételével.
 
-(2) Az álláshely besorolási kategóriái a 69. § (1) bekezdése szerinti különleges jogállású szervnél:
-
-- a) ügyintéző, ezen belül:
-  - aa) tanácsos,
-  - ab) vezető-tanácsos,
-  - ac) főtanácsos,
-  - ad) vezető-főtanácsos,
-- b) vezető, ezen belül:
-  - ba) szakmai vezető I. (önálló szervezeti egység vezetője),
-  - bb) szakmai vezető II. (nem önálló szervezeti egység vezetője).
+(2)
 
 (3) Az álláshely besorolási kategóriái a 69. § (2) bekezdése szerinti különleges jogállású szervnél:
 
@@ -76,7 +67,7 @@ Az Országgyűlés a hatékonyan működő, költségtakarékos, az adminisztrat
   - ba) szakmai vezető I. (önálló szervezeti egység vezetője),
   - bb) szakmai vezető II. (nem önálló szervezeti egység vezetője).
 
-(4) A (2) bekezdés b) pontja és (3) bekezdés b) pontja szerinti vezetői álláshely a szervezeti és működési szabályzatban meghatározott szervezeti egység vezetésére tölthető be.
+(4) A (3) bekezdés b) pontja szerinti vezetői álláshely a szervezeti és működési szabályzatban meghatározott szervezeti egység vezetésére tölthető be.
 
 (4a) Ha az önálló szervezeti egység nem tagolódik nem önálló szervezeti egységekre vagy kizárólag az önálló szervezeti egység vezetője által közvetlenül vezetett nem önálló szervezeti egységekre tagolódik, – szabályzat eltérő rendelkezése hiányában – az önálló szervezeti egység vezetőjét az általa vagy a munkáltatói jogkör gyakorlója által írásban kijelölt köztisztviselő helyettesíti.
 
@@ -1168,7 +1159,7 @@ második hónap végéig két munkanapra.
 
 (1) Nem létesíthető közszolgálati jogviszony, ha a köztisztviselő ezáltal hozzátartozójával irányítási (felügyeleti), ellenőrzési vagy elszámolási kapcsolatba kerülne.
 
-(2) A köztisztviselő további jogviszonyt – tudományos, oktatói, művészeti, lektori, szerkesztői, jogi oltalom alá eső szellemi tevékenység, a nevelőszülői foglalkoztatási jogviszony , az állami projektértékelői jogviszony és az Európai Unió Tanácsa 2024. második félévi magyar elnökségével kapcsolatos feladatok ellátására irányuló jogviszony (a továbbiakban együtt: gyakorolható tevékenység), továbbá a közérdekű önkéntes tevékenység kivételével – csak a munkáltatói jogkör gyakorlójának előzetes engedélyével létesíthet. A gyakorolható tevékenység végzésére irányuló jogviszonyt, valamint a közérdekű önkéntes tevékenység végzésére irányuló jogviszonyt, annak létesítését megelőzően a munkáltatói jogkör gyakorlójának írásban be kell jelenteni, ha e jogviszony keretében végzett tevékenység a köztisztviselő álláshely szerinti feladataival közvetlenül összefügg.
+(2) A köztisztviselő további jogviszonyt – tudományos, oktatói, művészeti, lektori, szerkesztői, jogi oltalom alá eső szellemi tevékenység, a nevelőszülői foglalkoztatási jogviszony és az állami projektértékelői jogviszony (a továbbiakban együtt: gyakorolható tevékenység), továbbá a közérdekű önkéntes tevékenység kivételével – csak a munkáltatói jogkör gyakorlójának előzetes engedélyével létesíthet. A gyakorolható tevékenység végzésére irányuló jogviszonyt, valamint a közérdekű önkéntes tevékenység végzésére irányuló jogviszonyt, annak létesítését megelőzően a munkáltatói jogkör gyakorlójának írásban be kell jelenteni, ha e jogviszony keretében végzett tevékenység a köztisztviselő álláshely szerinti feladataival közvetlenül összefügg.
 
 (3) A köztisztviselő a (2) bekezdésben foglaltaktól eltérően a gyakorolható tevékenység, továbbá a közérdekű önkéntes tevékenység végzésére irányuló jogviszonyt kizárólag a munkáltatói jogkör gyakorlójának előzetes engedélye alapján létesíthet, ha a munkavégzés időtartama részben azonos a köztisztviselő beosztás szerinti munkaidejével.
 
@@ -1454,7 +1445,7 @@ megfelelő mértékű szabadidő jár.
 
 #### 63. § [A szabadság]
 
-(1) A köztisztviselőnek a munkában töltött idő alapján minden naptári évben 20 munkanap alapszabadság jár és az alapszabadságon felül évente a (3)–(15) bekezdésben és a 66/A. §-ban meghatározott pótszabadságot jogosult igénybe venni (a továbbiakban együtt: szabadság).
+(1) A köztisztviselőnek a munkában töltött idő alapján minden naptári évben 20 munkanap alapszabadság jár és az alapszabadságon felül évente a (4)–(15) bekezdésben és a 66/A. §-ban meghatározott pótszabadságot jogosult igénybe venni (a továbbiakban együtt: szabadság).
 
 (2) Az (1) bekezdésben foglaltakon túl szabadság jár a következő időszakok alapján:
 
@@ -1465,14 +1456,7 @@ megfelelő mértékű szabadidő jár.
 - e) a 47. § (11) bekezdés a), b), h), j), k), n) és o) pontjában, valamint a 47. § (11a) bekezdésében meghatározott esetek, valamint
 - f) minden olyan munkában nem töltött idő, amelyre a köztisztviselő illetményre jogosult.
 
-(3) A 69. § (1) bekezdése szerinti különleges jogállású szerv köztisztviselője az (1) bekezdés szerinti alapszabadságán felül az általa betöltött álláshely besorolásától függően évente:
-
-- a) tanácsos besorolásnál három munkanap,
-- b) vezető-tanácsos besorolásnál öt munkanap,
-- c) főtanácsos besorolásnál hét munkanap,
-- d) vezető-főtanácsos besorolásnál kilenc munkanap
-
-pótszabadságot vehet igénybe.
+(3)
 
 (4) A 69. § (2) bekezdése szerinti különleges jogállású szerv köztisztviselője az (1) bekezdés szerinti alapszabadságán felül az általa betöltött álláshely besorolásától függően évente:
 
@@ -1484,7 +1468,7 @@ pótszabadságot vehet igénybe.
 
 pótszabadságot vehet igénybe.
 
-(5) A vezetői álláshelyet betöltő köztisztviselő a (3) és (4) bekezdésben szereplő pótszabadság helyett vezetői pótszabadságot vehet igénybe, amelynek mértéke évente:
+(5) A vezetői álláshelyet betöltő köztisztviselő a (4) bekezdésben szereplő pótszabadság helyett vezetői pótszabadságot vehet igénybe, amelynek mértéke évente:
 
 - a) nem önálló szervezeti egység vezetője esetén öt munkanap,
 - b) önálló szervezeti egység vezetője esetén tíz munkanap,
@@ -1682,13 +1666,13 @@ időtartamát.
 
 #### 69. § [Az illetmény]
 
-(1) Az Alkotmánybíróság Hivatala köztisztviselője közszolgálati jogviszonya alapján havonta az 1. melléklet szerinti illetményre jogosult, amelyet a munkáltatói jogkör gyakorlója állapít meg az álláshelyhez tartozó besorolás szerinti sávon belül.
+(1)
 
 (2) Az Alapvető Jogok Biztosának Hivatala, a Magyar Tudományos Akadémia Titkársága, a Magyar Művészeti Akadémia Titkársága, az Állambiztonsági Szolgálatok Történeti Levéltára, a Nemzeti Választási Iroda, a Nemzeti Emlékezet Bizottságának Hivatala és a Nemzeti Adatvédelmi és Információszabadság Hatóság köztisztviselője közszolgálati jogviszonya alapján havonta a 2. melléklet szerinti illetményre jogosult, amelyet a munkáltatói jogkör gyakorlója állapít meg az álláshelyhez tartozó besorolás szerinti sávon belül.
 
-(3) Az (1) és a (2) bekezdés szerinti különleges jogállású szerv vezetője és annak helyettese a különleges jogállású szervet létrehozó törvényben meghatározott mértékű illetményre jogosult.
+(3) A (2) bekezdés szerinti különleges jogállású szerv vezetője és annak helyettese a különleges jogállású szervet létrehozó törvényben meghatározott mértékű illetményre jogosult.
 
-(4) Az 5. § (2) bekezdése szerinti vezénylés vagy kirendelés esetén az illetmény összegére az (1)–(2) bekezdés helyett a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény, a honvédek jogállásáról szóló kormányrendelet, a polgári nemzetbiztonsági szolgálatok személyi állományának jogállásáról szóló törvény vagy a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény rendelkezéseit kell alkalmazni, ha az a foglalkoztatottra kedvezőbb szabályt állapít meg.
+(4) Az 5. § (2) bekezdése szerinti vezénylés vagy kirendelés esetén az illetmény összegére a (2) bekezdés helyett a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény, a honvédek jogállásáról szóló kormányrendelet, a polgári nemzetbiztonsági szolgálatok személyi állományának jogállásáról szóló törvény vagy a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény rendelkezéseit kell alkalmazni, ha az a foglalkoztatottra kedvezőbb szabályt állapít meg.
 
 (5) Az illetmény összegének legalább a garantált bérminimum összegét el kell érnie.
 
@@ -2461,7 +2445,7 @@ kapcsolatos ügyekben. Egyéb esetekben a köztisztviselő az igény érvényes�
 
 #### 98. § [A közszolgálati munkaszerződés]
 
-(1) A Sándor-palota, a Magyar Energetikai és Közmű-szabályozási Hivatal, a Nemzeti Média- és Hírközlési Hatóság, a Szabályozott Tevékenységek Felügyeleti Hatósága, a Gazdasági Versenyhivatal, az Országos Atomenergia Hivatal, az Integritás Hatóság, a Közbeszerzési Hatóság és az Európai Támogatásokat Auditáló Főigazgatóság, Szuverenitásvédelmi Hivatal köztisztviselőjének közszolgálati jogviszonya a különleges jogállású szerv mint munkáltató és a köztisztviselő mint foglalkoztatott között közszolgálati munkaszerződéssel jön létre.
+(1) A Sándor-palota, az Alkotmánybíróság Hivatala, a Magyar Energetikai és Közmű-szabályozási Hivatal, a Nemzeti Média- és Hírközlési Hatóság, a Szabályozott Tevékenységek Felügyeleti Hatósága, a Gazdasági Versenyhivatal, az Országos Atomenergia Hivatal, az Integritás Hatóság, a Közbeszerzési Hatóság és az Európai Támogatásokat Auditáló Főigazgatóság, Szuverenitásvédelmi Hivatal köztisztviselőjének közszolgálati jogviszonya a különleges jogállású szerv mint munkáltató és a köztisztviselő mint foglalkoztatott között közszolgálati munkaszerződéssel jön létre.
 
 (1a) Az (1) bekezdés szerinti különleges jogállású szerv vezetőjének és helyettesének közszolgálati jogviszonya a különleges jogállású szervet létrehozó törvényben meghatározottak szerint jön létre.
 
@@ -2477,7 +2461,9 @@ kapcsolatos ügyekben. Egyéb esetekben a köztisztviselő az igény érvényes�
 
 (1) Az Alkotmánybíróság Hivatalának álláshelyeire az 5. § (2) bekezdése nem alkalmazható.
 
-(2) A 3. § (1) és (2) bekezdése, a 4. § (1) bekezdése, a 7. §, a 16. § (15) bekezdése, a 27. § (2) bekezdése, a 39. § (2) bekezdés a) pontja, a 45. § (5) bekezdése, a 46. § (5) bekezdése, az 50. § (3) bekezdése, az 52. § (4) bekezdése, a 60. § (4) bekezdése, a 61. § (6) bekezdése, a 76. § (2) bekezdése, a 81. § (5) bekezdése, a 82. § (1) és (5) bekezdése, a 83. § (2) bekezdése, a 86. § (12) bekezdése, a 97. § (1) bekezdése, valamint a 103. § (1) bekezdés 15. pont a) és b) alpontja szerinti jogkört az Alkotmánybíróság Hivatalának vonatkozásában az Alkotmánybíróság elnöke gyakorolja.
+(1a) A 4. § (1) bekezdésétől eltérően az Alkotmánybíróság Hivatalának vonatkozásában az Alkotmánybíróság elnöke határozza meg az álláshelyek kategóriáit, valamint sorolja be az alaplétszámba tartozó álláshelyeket e kategóriák valamelyikébe a rendelkezésre álló költségvetési keret figyelembevételével.
+
+(2) A 3. § (1) és (2) bekezdése, a 7. §, a 16. § (15) bekezdése, a 27. § (2) bekezdése, a 39. § (2) bekezdés a) pontja, a 45. § (5) bekezdése, a 46. § (5) bekezdése, az 50. § (3) bekezdése, az 52. § (4) bekezdése, a 60. § (4) bekezdése, a 61. § (6) bekezdése, a 76. § (2) bekezdése, a 81. § (5) bekezdése, a 82. § (1) és (5) bekezdése, a 83. § (2) bekezdése, a 86. § (12) bekezdése, a 97. § (1) bekezdése, valamint a 103. § (1) bekezdés 15. pont a) és b) alpontja szerinti jogkört az Alkotmánybíróság Hivatalának vonatkozásában az Alkotmánybíróság elnöke gyakorolja.
 
 (3) Az Alkotmánybíróság az ügyrendjében állapítja meg az ítélkezési szünete időtartamát.
 
@@ -2527,7 +2513,7 @@ kapcsolatos ügyekben. Egyéb esetekben a köztisztviselő az igény érvényes�
 - 1a. apa: a Ptk. szerint szülői felügyelettel rendelkező apai jogállású férfi vagy örökbefogadó férfi;
 - 2. beosztás szerinti heti munkaidő: a hétre elrendelt rendes munkaidő;
 - 3. beosztás szerinti napi munkaidő: a munkanapra elrendelt rendes munkaidő;
-- 4. egyéb jogviszony: különösen a munkaviszony, kormányzati szolgálati jogviszony, politikai szolgálati jogviszony, biztosi jogviszony, közalkalmazotti jogviszony, az egészségügyi szolgálati jogviszony, a köznevelési foglalkoztatotti jogviszony, adó- és vámhatósági szolgálati jogviszony, rendvédelmi igazgatási szolgálati jogviszony, honvédelmi alkalmazotti jogviszony, bírósági szolgálati, igazságügyi alkalmazotti szolgálati, illetve munkaviszony, ügyészségi, hivatásos (szerződéses) szolgálati jogviszony, nemzetbiztonsági szolgálati jogviszony, nemzetbiztonsági alkalmazotti jogviszony, ösztöndíjas foglalkoztatási jogviszony, bedolgozói munkaviszony, a munkavégzési kötelezettséget magában foglaló szövetkezeti tagsági viszony, a szakcsoporti tagsági viszony, a vállalkozási és megbízási szerződésen alapuló, valamint a személyes közreműködéssel járó gazdasági és polgári jogi társasági vagy egyéni cég tagjaként végzett tevékenység, az ügyvédi és az egyéni vállalkozói tevékenység, valamint a tudományos, oktatói, művészeti, lektori, szerkesztői, valamint jogi oltalom alá eső szellemi tevékenység végzésére irányuló jogviszony, a nevelőszülői foglalkoztatási jogviszony, a közérdekű önkéntes tevékenység végzésére irányuló jogviszony , az állami projektértékelői jogviszony és az Európai Unió Tanácsa 2024. második félévi magyar elnökségével kapcsolatos feladatok ellátására irányuló jogviszony;
+- 4. egyéb jogviszony: különösen a munkaviszony, kormányzati szolgálati jogviszony, politikai szolgálati jogviszony, biztosi jogviszony, közalkalmazotti jogviszony, az egészségügyi szolgálati jogviszony, a köznevelési foglalkoztatotti jogviszony, adó- és vámhatósági szolgálati jogviszony, rendvédelmi igazgatási szolgálati jogviszony, honvédelmi alkalmazotti jogviszony, bírósági szolgálati, igazságügyi alkalmazotti szolgálati, illetve munkaviszony, ügyészségi, hivatásos (szerződéses) szolgálati jogviszony, nemzetbiztonsági szolgálati jogviszony, nemzetbiztonsági alkalmazotti jogviszony, ösztöndíjas foglalkoztatási jogviszony, bedolgozói munkaviszony, a munkavégzési kötelezettséget magában foglaló szövetkezeti tagsági viszony, a szakcsoporti tagsági viszony, a vállalkozási és megbízási szerződésen alapuló, valamint a személyes közreműködéssel járó gazdasági és polgári jogi társasági vagy egyéni cég tagjaként végzett tevékenység, az ügyvédi és az egyéni vállalkozói tevékenység, valamint a tudományos, oktatói, művészeti, lektori, szerkesztői, valamint jogi oltalom alá eső szellemi tevékenység végzésére irányuló jogviszony, a nevelőszülői foglalkoztatási jogviszony, a közérdekű önkéntes tevékenység végzésére irányuló jogviszony és az állami projektértékelői jogviszony;
 - 5. éjszakai munka: a huszonkét és hat óra közötti időszakban teljesített munkavégzés;
 - 6. előkészítő vagy befejező tevékenység: minden olyan feladat ellátása, amelyet a köztisztviselő az álláshelyéhez tartozó feladatkörhöz kapcsolódóan, szokás szerint és rendszeresen, külön utasítás nélkül köteles elvégezni;
 - 7. fogyatékossággal élő gyermek: az a gyermek, akire tekintettel a családok támogatásáról szóló törvény szerinti magasabb összegű családi pótlék került megállapításra;
@@ -2682,18 +2668,6 @@ E törvény az Európai Unió következő uniós jogi aktusainak való megfelel�
 #### 110. §
 
 ### 1. melléklet a 2019. évi CVII. törvényhez
-
-#### Illetménytábla a 69. § (1) bekezdése szerinti szervek részére
-
-|  | A) | B) | C) |
-| --- | --- | --- | --- |
-|  | besorolási fokozat megnevezése | illetmény alsó határa | illetmény felső határa |
-| 1. | tanácsos | a mindenkori garantált bérminimum | 750 000 Ft |
-| 2. | vezető-tanácsos | 350 000 Ft | 1 000 000 Ft |
-| 3. | főtanácsos | 400 000 Ft | 1 250 000 Ft |
-| 4. | vezető-főtanácsos | 600 000 Ft | 1 800 000 Ft |
-| 5. | nem önálló szervezeti egység vezetője | 700 000 Ft | 1 600 000 Ft |
-| 6. | önálló szervezeti egység vezetője | 800 000 Ft | 2 400 000 Ft |
 
 ### 2. melléklet a 2019. évi CVII. törvényhez
 

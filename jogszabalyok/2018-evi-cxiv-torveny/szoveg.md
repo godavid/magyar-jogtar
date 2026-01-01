@@ -781,7 +781,7 @@ minősíteni kell.
 - b) a munkavégzés a Katonai Nemzetbiztonsági Szolgálat tevékenységi körébe is tartozik, vagy ha a munkavégzésre a Katonai Nemzetbiztonsági Szolgálattal gazdasági vagy egyéb elszámolási kapcsolatban álló munkáltatónál kerül sor,
 - c) a munkavégzés veszélyezteti a honvédelmi alkalmazott munkaköri kötelezettségének teljesítését.
 
-50. § (1) A honvédelmi alkalmazott a munkaidejét nem érintő további munkavégzésre irányuló jogviszony létesítését – a tudományos, oktatói, művészeti, lektori, szerkesztői, a jogi oltalom alá eső szellemi tevékenység, a közérdekű önkéntes tevékenység, az állami projektértékelői jogviszony és az Európai Unió Tanácsa 2024. második félévi magyar elnökségével kapcsolatos feladatok ellátására irányuló jogviszony kivételével – köteles a honvédelmi szervezetnek előzetesen írásban bejelenteni, amely összeférhetetlenség esetén a további jogviszony létesítését írásban megtiltja.
+50. § (1) A honvédelmi alkalmazott a munkaidejét nem érintő további munkavégzésre irányuló jogviszony létesítését – a tudományos, oktatói, művészeti, lektori, szerkesztői, a jogi oltalom alá eső szellemi tevékenység, a közérdekű önkéntes tevékenység és az állami projektértékelői jogviszony kivételével – köteles a honvédelmi szervezetnek előzetesen írásban bejelenteni, amely összeférhetetlenség esetén a további jogviszony létesítését írásban megtiltja.
 
 (2) A honvédelmi szervezetnek a munkavégzésre irányuló további jogviszony létesítését megtiltó intézkedése ellen munkaügyi jogvita kezdeményezhető.
 

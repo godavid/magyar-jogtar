@@ -321,7 +321,7 @@ szolgáltatók nyilvántartása
 - c) azt az időtartamot, amelyre a bejelentés szól, továbbá
 - d) az adott szolgáltatási tevékenység megkezdésére és folytatására való jogosultságot szabályozó jogszabályban meghatározott egyéb adatokat.
 
-(3) Az (1) bekezdés szerinti nyilvántartás a (2) bekezdés a) és b) pontjában meghatározott adatok tekintetében – a természetes személyazonosító, valamint a lakcím-azonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+(3) Az (1) bekezdés szerinti nyilvántartás a 22. § (1) bekezdés c) pontjában és a 22. § (2) bekezdésében, valamint a határon átnyúló szolgáltatásnyújtás keretében folytatni kívánt tevékenységre vonatkozó bejelentés esetén a 22. § (3) bekezdésében meghatározott adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
 28. § A szolgáltatás felügyeletét ellátó hatóság törli a 27. § szerinti nyilvántartásból a szolgáltatót, ha
 

@@ -24,6 +24,15 @@ Az Országgyűlés a szövetségesi feladatok, a nemzetközi egyezmények és el
 
 nem alkalmazandó.
 
+(3a) Az 1. mellékletben foglalt táblázat 72. és 75. sorában meghatározott alapvető szolgáltatást nyújtó szervezetként eljáró Magyar Nemzeti Bankra
+
+- a) a 19. § (2) bekezdés és a 19. § (5) bekezdés b) pont bc)–be) alpontja,
+- b) a 21. § (1)–(5) bekezdése,
+- c) a 28. §, valamint
+- d) a 32. § (5) bekezdése
+
+nem alkalmazandó.
+
 (4) A kritikus szervezetekre és kritikus infrastruktúrákra e törvényben foglalt rendelkezéseket az (EU) 2022/2555 európai parlamenti és tanácsi irányelvet (a továbbiakban: NIS 2 irányelv) átültető nemzeti jogszabályokban foglaltak elsőbbségével kell alkalmazni.
 
 (5) A földgáz, hidrogén és villamos energia alágazatra e törvény rendelkezései – e törvényben meghatározott eltérésekkel – alkalmazandók.
@@ -309,7 +318,7 @@ hivatalból dönt.
 
 #### 11. Ellenálló képességi terv
 
-19. § (1) A kritikus szervezet a kijelölő hatóság határozatában meghatározott határidőre kidolgozza, és az általános kijelölő hatóság részére elfogadás céljából, elektronikus úton megküldi az általános kijelölő hatóság által meghatározott és honlapján közzétett formanyomtatvány kitöltésével elkészített ellenálló képességi tervet és annak mellékletét képező ellenálló képességi mátrixot.
+19. § (1) A kritikus szervezet a kijelölő hatóság határozatában meghatározott határidőre kidolgozza, és az általános kijelölő hatóság részére elfogadás céljából – az 1. mellékletben foglalt táblázat 72. és 75. sorában meghatározott alapvető szolgáltatást nyújtó szervezetként eljáró Magyar Nemzeti Bank tájékoztatás céljából –, elektronikus úton megküldi az általános kijelölő hatóság által meghatározott és honlapján közzétett formanyomtatvány kitöltésével elkészített ellenálló képességi tervet és annak mellékletét képező ellenálló képességi mátrixot.
 
 (2) A kritikus szervezet által elkészített ellenálló képességi terv, ellenálló képességi mátrix elfogadásáról, kiegészíttetéséről, módosításáról vagy elutasításáról a tartalmi és formai követelmények vizsgálata alapján az általános kijelölő hatóság dönt az érintett energetikai ágazati kijelölő hatóság vagy ágazati szakhatóság bevonásával.
 
@@ -531,7 +540,7 @@ vizsgálja.
 
 (5) A komplex ellenálló képességi gyakorlat célja a kritikus szervezet ellenálló képességi tervében megjelölt szervezeti és eszközrendszer alkalmasságának, továbbá a kritikus szervezet és a rendkívüli esemény kezelésében érintett szervezetek együttműködésének vizsgálata.
 
-(6) A komplex ellenálló képességi gyakorlat megfelelőségét az általános kijelölő hatóság értékeli. Ha az értékelő azt állapítja meg, hogy az ellenálló képességi terv valamely része, vagy az alkalmazott eljárásrend nem megfelelő, a kritikus szervezetet az ellenálló képességi terv soron kívüli módosítására, a komplex ellenálló képességi gyakorlat megismétlésére kötelezheti.
+(6) A komplex ellenálló képességi gyakorlat megfelelőségét az általános kijelölő hatóság értékeli. Ha az értékelő azt állapítja meg, hogy az ellenálló képességi terv valamely része, vagy az alkalmazott eljárásrend nem megfelelő, a kritikus szervezetet – az 1. mellékletben foglalt táblázat 72. és 75. sorában meghatározott alapvető szolgáltatást nyújtó szervezetként eljáró Magyar Nemzeti Bank kivételével – az ellenálló képességi terv soron kívüli módosítására, a komplex ellenálló képességi gyakorlat megismétlésére kötelezheti. Az 1. mellékletben foglalt táblázat 72. és 75. sorában meghatározott alapvető szolgáltatást nyújtó szervezetként eljáró Magyar Nemzeti Bank esetében az általános kijelölő hatóság a Magyar Nemzeti Bankot tájékoztatja a komplex gyakorlat megfelelőségéről tett megállapításairól.
 
 (7) A kritikus szervezet a komplex ellenálló képességi gyakorlat lefolytatásával a tárgyévben esedékes ellenálló képességi gyakorlatot is teljesíti.
 
@@ -576,7 +585,7 @@ részére, amely szervek a jelentést megküldik a védelmi és biztonsági tev�
 
 (6) Az (1) bekezdés szerinti bejelentést a rendkívüli esemény kezelésében érintett szervezetek felhasználják a kritikus szervezetek rendkívüli eseményre történő reagálása, védekezése és helyreállításának fejlesztése érdekében.
 
-(7) Ha a közérdek alapján szükséges, az erre kijelölt közigazgatási szerv, illetve állami vezető a rendkívüli eseménnyel kapcsolatban tájékoztatja a nyilvánosságot.
+(7) Ha a közérdek alapján szükséges, az erre kijelölt közigazgatási szerv, illetve állami vezető a rendkívüli eseménnyel kapcsolatban tájékoztatja a nyilvánosságot, kivéve a Magyar Nemzeti Bankra mint az 1. mellékletben foglalt táblázat 72. és 75. sorában meghatározott alapvető szolgáltatást nyújtó szervezetre vonatkozó rendkívüli eseményt, amelyről a Magyar Nemzeti Bank elnöke döntése szerint kerül a nyilvánosság tájékoztatásra.
 
 (8) A kritikus infrastruktúrát érintő tervezett és soron kívüli karbantartások, javítások és a rendkívüli esemény kezelésében közreműködő szervezetek, valamint a közreműködő természetes személyek, szervezetek és más érintett résztvevők kötelesek biztosítani annak elsődlegességét, hogy a kritikus szervezet és kritikus infrastruktúra, az alapvető szolgáltatás működése a lehető legrövidebb ideig legyen korlátozott.
 
@@ -1228,7 +1237,7 @@ végrehajtáshoz szükséges rendelkezéseket állapít meg.
 | 73 |  |  | központi szerződő fél tevékenysége |
 | 74 |  |  | központi értéktár tevékenysége |
 | 75 |  |  | készpénzellátás |
-| 76 |  |  | Magyar Nemzeti Bank alapvető feladatai, ide nem értve a monetáris politikát, a makroprudenciális politikát és a jegybanki információs rendszer működtetését |
+| 76 |  |  |  |
 | 77 | Víz | Ivóvíz | emberi fogyasztásra szánt ivóvíz -termelés, -tárolás, -ellátás, -kezelés |
 | 78 |  | Szennyvíz | települési szennyvíz elvezetése, összegyűjtése, tisztítása, kezelése, befogadóba vezetése |
 

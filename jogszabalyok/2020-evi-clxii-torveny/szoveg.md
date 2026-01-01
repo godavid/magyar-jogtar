@@ -12,6 +12,7 @@ a Kormányzati Személyügyi Döntéstámogató Rendszerről
 - b) a létszám- és illetményadatok elemzéséhez, illetve az előmeneteli és illetményrendszer országos működtetéséhez szükséges létszám- és illetményadatok elemzéséhez adatok biztosítása a bérpolitikai intézkedésekre vonatkozó országgyűlési döntést előkészítő kormányzati szervek, illetve országgyűlési bizottságok részére,
 - c) a nemzetközi kapcsolatokkal összefüggő esetenkénti adatszolgáltatás biztosításához szükséges adatok biztosítása,
 - d) statisztikai lekérdezések biztosítása.
+- e) az egészségügyi ellátórendszerben – az e törvényben meghatározott körben – foglalkoztatott személyeknek az egészségügyi stratégiai tervezéshez szükséges adatainak biztosítása, elemzése.
 
 (3) A KSZDR felépítését, működését, a jogosultságkezelés rendjét a Kormány rendeletben határozza meg.
 
@@ -71,8 +72,9 @@ felel.
 
 6. § (1) Az adatgyűjtő modulnak a személyhez köthető adatokat
 
-- a) a 2. § szerinti foglalkoztató szervezet a 7. § (1) bekezdése szerint, valamint
-- b) a 7. § (2) és (3) bekezdése szerinti információs rendszer
+- a) a 2. § szerinti foglalkoztató szervezet a 7. § (1) bekezdése szerint,
+- b) a 7. § (2) és (3) bekezdése szerinti információs rendszer és
+- c) a 7. § (4) bekezdése szerinti személyi körben az egészségügyi hatósági és igazgatási tevékenységről szóló 1991. évi XI. törvény (a továbbiakban: Ehi. tv.) 6. § (1) bekezdés e) pont eb) alpontja szerinti nyilvántartás
 
 szolgáltatja.
 
@@ -88,6 +90,8 @@ szolgáltatja.
 
 meghatározott adatkörök tekintetében a foglalkoztató szervezettel foglalkoztatási jogviszonyban álló foglalkoztatottakra, illetve – feltéve, hogy a foglalkoztatási jogviszony megszűnését vagy megszüntetését követő tíz év még nem telt el – volt foglalkoztatottakra kiterjedően kell végezni.
 
+(3) Az adatgyűjtő modul részére a 7. § (4) bekezdése szerinti személyi körben a nem állami vagy önkormányzati fenntartású egészségügyi szolgáltatóval fennálló jogviszony adataira vonatkozó adatfeltöltést az állami vagy önkormányzati fenntartású egészségügyi szolgáltatóval fennálló, Esztv. szerinti foglalkoztatási jogviszony alatt kell elvégezni.
+
 7. § (1) A foglalkoztatottak 6. § (2) bekezdése szerinti adatairól, azok változásairól, illetve a foglalkoztató szervezet szervezeti adatairól a 2. § szerinti foglalkoztató szervezet – a Kormány rendeletében meghatározott rendben – elektronikus úton adatfeltöltést végez
 
 - a) a kormányzati igazgatási szerv Kit. 175. §-a szerinti közszolgálati alapnyilvántartásából, illetve a Kit. 279. § (8) bekezdése szerinti munkaügyi nyilvántartásából,
@@ -101,6 +105,8 @@ a foglalkoztató szervezet által vezetett személyügyi nyilvántartó informat
 (2) A foglalkoztatottak létszám- és illetményadatairól, kereseti adatairól a központi illetményszámfejtési rendszer – a Kormány rendeletében meghatározott rendben – egyedi azonosító alkalmazásával adatszolgáltatást végez az adatgyűjtő modul részére.
 
 (3) Az adatgyűjtő modul a foglalkoztatott személyéhez köthető, az 1–7. melléklet szerinti adatkörben meghatározott kiegészítő adatokat vehet át – a Kormány rendeletében meghatározott rendben – az emberi erőforrás-folyamatok adatainak jogszabályban meghatározott szaknyilvántartásából.
+
+(4) Ha az állami vagy önkormányzati fenntartású egészségügyi szolgáltatónál egészségügyi szolgálati jogviszonyban álló személy ezen jogviszonyával egyidejűleg egészségügyi dolgozóként nem állami vagy önkormányzati fenntartású egészségügyi szolgáltatónál is munkavégzésre irányuló jogviszonyban áll, az adatgyűjtő modul a 7/A. melléklet szerinti, a nem állami vagy önkormányzati fenntartású egészségügyi szolgáltatónál fennálló jogviszonyára vonatkozó adatkörben meghatározott adatokat veszi át – a Kormány rendeletében meghatározott rendben – az Ehi. tv. 6. § (1) bekezdés e) pont eb) alpontja szerinti nyilvántartásból.
 
 8. § (1) Az adatgyűjtő modulban a szervezeti adatok nyilvántartásának rendjét és a 7. § (1) bekezdése szerinti szervezeti adatok szolgáltatásának rendjét a Kormány rendeletben határozza meg.
 
@@ -154,6 +160,12 @@ a foglalkoztató szervezet által vezetett személyügyi nyilvántartó informat
 
 (2) A szerepkör-tanúsító szolgáltató részére átadásra kerülő adatokat a 8. melléklet tartalmazza.
 
+#### 4/B. Adatszolgáltatás az egészségügyi szolgáltatók nevében és felelősségére egészségügyi tevékenységet végző egészségügyi dolgozóknak és egyes egészségügyben dolgozóknak az egészségügyi tevékenység végzésével összefüggő adatait vezető nyilvántartáshoz
+
+14/B. § (1) A KSZDR részére történő munkáltatói adatszolgáltatással az állami vagy önkormányzati fenntartású egészségügyi szolgáltató az Ehi. tv.-ben és végrehajtási rendeletében szereplő, az egészségügyi szolgáltatók nevében és felelősségére egészségügyi tevékenységet végző egészségügyi dolgozóknak és egyes egészségügyben dolgozóknak az egészségügyi tevékenység végzésével összefüggő adatait vezető nyilvántartás számára előírt adatszolgáltatási kötelezettségét is teljesíti.
+
+(2) A KSZDR az egészségügyi államigazgatási szerv részére – az Ehi. tv. 6. § (1) bekezdés e) pont eb) alpontjában meghatározott nyilvántartás vezetése céljából – átadja az állami vagy önkormányzati fenntartású egészségügyi szolgáltató foglalkoztatottjainak a 9. melléklet szerinti adatait.
+
 #### 5. Záró rendelkezések
 
 15. § Felhatalmazást kap a Kormány, hogy rendeletben meghatározza
@@ -174,6 +186,7 @@ a foglalkoztató szervezet által vezetett személyügyi nyilvántartó informat
 - 14. a 3. § (1) bekezdés d) pontja szerinti személyügyi nyilvántartások vezetésére szolgáló személyügyi alapnyilvántartó és ügyviteli rendszert,
 - 15. azon állami fenntartású egészségügyi szolgáltatók meghatározását, amely egészségügyi szolgáltatónál foglalkoztatottak vonatkozásában az adatgyűjtő modulba történő adatátadást 2021. január 1-jén meg kell kezdeni.
 - 16. a szerepkör-tanúsítvány kiállítása érdekében a szerepkör-tanúsító szolgáltató részére átadásra kerülő adatok átadásának rendjét.
+- 17. A 7. § (4) bekezdése és a 14/B. § (2) bekezdése szerinti adatszolgáltatás rendjét.
 
 16. § (1) Ez a törvény – a (2)–(4) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.
 
@@ -330,6 +343,7 @@ sarkalatosnak minősül.
 - 1.8. társadalombiztosítási azonosító jel
 - 1.9. adóazonosító jel
 - 1.10. nyugdíjas foglalkoztatott (nyugállományba helyezés ideje, nyugdíjfolyósítási törzsszám, nyugdíjfolyósítás kezdete)
+- 1.11. arcképmás
 - 2. Elérhetőség
 - 2.1. címadatok (lakóhely, tartózkodási hely, értesítési cím)
 - 2.2. elérhetőségi adatok (telefonszám, e-mail-cím, a biztonságos kézbesítési szolgáltatásra alkalmas elektronikus elérhetőség)
@@ -450,6 +464,7 @@ sarkalatosnak minősül.
 - 1.8. társadalombiztosítási azonosító jel
 - 1.9. adóazonosító jel
 - 1.10. nyugdíjas foglalkoztatott (nyugállományba helyezés ideje, nyugdíjfolyósítási törzsszám, nyugdíjfolyósítás kezdete)
+- 1.11. arcképmás
 - 2. Elérhetőség
 - 2.1. címadatok (lakóhely, tartózkodási hely, értesítési cím)
 - 2.2. elérhetőségi adatok (telefonszám, e-mail-cím, a biztonságos kézbesítési szolgáltatásra alkalmas elektronikus elérhetőség)
@@ -575,6 +590,7 @@ sarkalatosnak minősül.
 - 1.8. társadalombiztosítási azonosító jel
 - 1.9. adóazonosító jel
 - 1.10. nyugdíjas foglalkoztatott (nyugállományba helyezés ideje, nyugdíjfolyósítási törzsszám, nyugdíjfolyósítás kezdete)
+- 1.11. arcképmás
 - 2. Elérhetőség
 - 2.1. címadatok (lakóhely, tartózkodási hely, értesítési cím)
 - 2.2. elérhetőségi adatok (telefonszám, e-mail-cím, a biztonságos kézbesítési szolgáltatásra alkalmas elektronikus elérhetőség)
@@ -722,6 +738,7 @@ sarkalatosnak minősül.
 - 1.8. társadalombiztosítási azonosító jel
 - 1.9. adóazonosító jel
 - 1.10. nyugdíjas foglalkoztatott (nyugállományba helyezés ideje, nyugdíjfolyósítási törzsszám, nyugdíjfolyósítás kezdete)
+- 1.11. arcképmás
 - 2. Elérhetőség
 - 2.1. címadatok (lakóhely, tartózkodási hely, értesítési cím)
 - 2.2. elérhetőségi adatok (telefonszám, e-mail-cím, a biztonságos kézbesítési szolgáltatásra alkalmas elektronikus elérhetőség)
@@ -839,6 +856,7 @@ sarkalatosnak minősül.
 - 1.8. társadalombiztosítási azonosító jel
 - 1.9. adóazonosító jel
 - 1.10. nyugdíjas foglalkoztatott (nyugállományba helyezés ideje, nyugdíjfolyósítási törzsszám, nyugdíjfolyósítás kezdete)
+- 1.11. arcképmás
 - 2. Elérhetőség
 - 2.1. címadatok (lakóhely, tartózkodási hely, értesítési cím)
 - 2.2. elérhetőségi adatok (telefonszám, e-mail-cím)
@@ -1050,6 +1068,7 @@ sarkalatosnak minősül.
 - 14.5. összeférhetetlenség oka
 - 14.6. összeférhetetlenség megszüntetésére felszólítás időpontja
 - 14.7. összeférhetetlenség megszüntetésének időpontja
+- 15. A foglalkoztatott 9. mellékletben meghatározott adatai.
 
 ### 7. melléklet a 2020. évi CLXII. törvényhez
 
@@ -1145,6 +1164,23 @@ sarkalatosnak minősül.
 - 12.9. versenytilalmi korlátozás kezdete, vége
 - 12.10. ellenérték összege
 
+### 7/A. melléklet a 2020. évi CLXII. törvényhez
+
+#### Az egészségügyi hatósági és igazgatási tevékenységről szóló törvény 6. § (1) bekezdés e) pont eb) alpontja szerinti nyilvántartásból a KSZDR által átvételre kerülő adatok köre
+
+- 1. Alapnyilvántartási szám
+- 2. Foglalkoztatási jogviszony típusa
+- 3. Foglalkoztatás jellege (alkalmazottnál)
+- 4. Heti óraszám (összesen)
+- 5. A szervezeti egységben végzett heti óraszám
+- 6. Az önként vállalt többletmunka ténye (alkalmazottnál)
+- 7. Az önként vállalt többletmunka havi óraszáma
+- 8. A nyilvántartás típusa
+- 9. Foglalkoztató egészségügyi szolgáltató megnevezése, azonosítója
+- 10. Szervezeti egység neve, azonosítója
+- 11. A foglalkoztatási jogviszony kezdetének és a végének időpontja
+- 12. A szakma neve és kódja
+
 ### 8. melléklet a 2020. évi CLXII. törvényhez
 
 #### A szerepkör-tanúsító szolgáltató részére a szerepkör-tanúsítvány kiállítása érdekében a KSZDR által átadásra kerülő adatok köre
@@ -1168,3 +1204,31 @@ sarkalatosnak minősül.
 - 4. Munkáltató szervezet adatai
 - 4.1. jelenlegi szervezet megnevezése
 - 4.2. jelenlegi szervezeti egység megnevezése
+
+### 9. melléklet a 2020. évi CLXII. törvényhez
+
+#### A KSZDR által az Ehi. tv.-ben, valamint annak végrehajtási rendeletében szereplő, az egészségügyi szolgáltatók nevében és felelősségére egészségügyi tevékenységet végző egészségügyi dolgozóknak és egyes egészségügyben dolgozóknak az egészségügyi tevékenység végzésével összefüggő adatait vezető nyilvántartás számára előírt adatszolgáltatási kötelezettség teljesítésére átadott adatok
+
+- 1. Szervezeti egység azonosító
+- 2. Személyes közreműködő szolgáltató neve
+- 3. Személyes közreműködő szolgáltató adószámának első 8 jegye
+- 4. Szervezeti egység neve
+- 5. Szakma kód
+- 6. Szakma neve
+- 7. Dolgozó neve
+- 8. Dolgozó születési helye
+- 9. Dolgozó születési ideje
+- 10. Alapnyilvántartás típusa
+- 11. Alapnyilvántartási szám
+- 12. FEOR kód
+- 13. Foglalkoztatás jellege
+- 14. Foglalkoztatás időtartama
+- 15. Jogviszony típusa
+- 16. Foglalkoztatás kezdete
+- 17. Foglalkoztatás vége
+- 18. Heti óraszám
+- 19. Önként vállalt többletmunka ténye
+- 20. Önként vállalt többletmunka havi óraszáma
+- 21. Tartós távollét indoka
+- 22. Tartós távollét kezdete
+- 23. Tartós távollét vége

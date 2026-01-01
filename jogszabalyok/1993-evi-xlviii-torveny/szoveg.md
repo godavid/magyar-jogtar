@@ -16,7 +16,7 @@ E törvény célja az ásványi nyersanyagok bányászatának, a geotermikus ene
 - d) a megszűnt föld alatti bányák nyitvamaradó térségeinek fenntartása, hasznosítása és felhagyása;
 - e) más törvény hatálya alá nem tartozó, nem bányászati célt szolgáló, bányászati módszerekkel végzett föld alatti tevékenységek (aknamélyítés, mélyfúrás, alagút- és vágathajtás),
 - f) a szénhidrogén-bányászatban használt technológiai létesítmény, a csővezeték, a szénhidrogén- és széndioxid-szállító vezeték, a földgázelosztó- és célvezeték, valamint az egyéb gázok és gáztermékek vezetékeinek és bányaüzem területén az egyéb gáztechnológiák létesítése, használatba vétele, műszaki üzemeltetése, felhagyása, elbontása;
-- g) szénhidrogének tárolására alkalmas földtani szerkezetek kiképezése és tárolásra történő hasznosítása;
+- g) földgáz, illetve hidrogén tárolására alkalmas földtani szerkezetek kutatása, kiképzése, tárolásra történő hasznosítása és bezárása;
 - h) a geotermikus energia kutatása, kinyerése és hasznosítása;
 - i) az állam más törvény hatálya alá nem tartozó földtani feladatai;
 - j) a bányászati hulladék kezelése;
@@ -87,7 +87,7 @@ személy tulajdonába kerül.
 
 (1f) A földgáz szolgáltató az (1e) bekezdés szerinti földgáz tulajdonjogát 0 forint értéken szerzi meg és a számvitelről szóló 2000. évi C. törvény 50. § (4) bekezdése alapján 0 forint bekerülési értéken tartja nyilván.
 
-(2) A kőolaj, a kőolajtermékek, továbbá – a földgáz kivételével – a szénhidrogén-gázok csővezetéken történő szállítása kizárólagos állami tevékenység.
+(2)
 
 (3) A bányászati ügyekért felelős miniszter (a továbbiakban: miniszter) — a (4) bekezdésben szabályozott esetek kivételével — a 8. §-ban felsorolt tevékenységek gyakorlását koncessziós szerződéssel meghatározott időre átengedheti.
 
@@ -125,7 +125,7 @@ megtiltja az adott tevékenység folytatását.
 
 (7) Az előkutatást annak megkezdése előtt legalább 45 nappal a bányafelügyelethez kell bejelenteni.
 
-(8) Előkutatás bejelentése során a bányafelügyelet megkeresi a magyar állam tulajdonosi jogait gyakorló szervet azzal, hogy a megkeresés kézhezvételétől számított 35 napon belül igényt jelenthet be az előkutatásra. A megkeresés időtartama nem számít bele a bejelentés elfogadására vonatkozó, a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben a bejelentés megfelelőségéről szóló igazolás megküldésére meghatározott határidőbe.
+(8) Előkutatás bejelentése során a bányafelügyelet megkeresi a magyar állam tulajdonosi jogait gyakorló szervet azzal, hogy a megkeresés kézhezvételétől számított 35 napon belül igényt jelenthet be az előkutatásra. A megkeresés időtartama nem számít bele a bejelentés elfogadására vonatkozó, a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvényben (a továbbiakban: Szolg. tv.) a bejelentés megfelelőségéről szóló igazolás megküldésére meghatározott határidőbe.
 
 (9) A 41. § (7)–(7b) bekezdését az előkutatásra is alkalmazni kell.
 
@@ -140,8 +140,8 @@ megtiltja az adott tevékenység folytatását.
 - a) nyílt területen az ásványi nyersanyagkutatást,
 - b) a bányatelek megállapítását követően az ásványvagyon feltárását és kitermelését, valamint a kitermelés szüneteltetését,
 - c) a meddőhányó hasznosítását,
-- d) földgáz tárolására alkalmas földtani szerkezetek kutatását, kiképezését és tárolásra történő hasznosítását, ha ez a környezetet nem veszélyezteti,
-- e) az 1. § (1) bekezdés f) pontja szerinti létesítmények, továbbá a föld alatti gáztároló létesítményei létesítését, használatba vételét, elbontását, illetőleg felhagyását,
+- d) földgáz, illetve hidrogén tárolására alkalmas földtani szerkezetek kutatását, kiképzését, tárolásra történő hasznosítását és bezárását, ha ez a környezetet nem veszélyezteti,
+- e) az 1. § (1) bekezdés f) pontja szerinti létesítmények, továbbá a föld alatti gáztároló létesítményei létesítését, használatba vételét, üzemeltetését, elbontását, illetőleg felhagyását,
 - f) a cseppfolyós propán-, butángázok és ezek elegyei tartályban vagy palackban történő forgalmazását, a cseppfolyós propán-, bután gázok és ezek elegyei töltő és tároló létesítményeinek, valamint elosztóvezetékeinek létesítését, használatba vételét és elbontását, valamint felhagyását,
 - g) nyílt területen, valamint a 8. § (2) bekezdése szerinti esetben a termálvíz kitermeléssel történő geotermikus energia kutatását, kinyerését, hasznosítását, az elsődlegesen gyógyászati vagy elsődlegesen mezőgazdasági célú termálvíz kitermelés kivételével,
 - h) a bányászati hulladék kezelését,
@@ -155,9 +155,11 @@ megtiltja az adott tevékenység folytatását.
 
 (2) A kőolaj- és földgázbányászatra jogosult bányavállalkozó – a Magyar Energetikai és Közmű-szabályozási Hivatal földgáztárolásra vonatkozó működési engedélyének birtokában – a bányafelügyeletnél kezdeményezheti a bányatelek föld alatti gáztárolásra történő kiterjesztésének engedélyezését, ha az a környezetet nem szennyezi, veszélyezteti vagy károsítja.
 
-(2a) Ha a bányafelügyelet a kőolaj- és földgázbányászatra jogosult bányavállalkozó kérelme alapján módosítja a bányatelek föld alatti gáztárolásra történő kiterjesztését engedélyező határozatát, a módosítást – a bányafelügyelet által megküldött végleges határozat alapján – a Magyar Energetikai és Közmű-szabályozási Hivatal a földgáztárolásra vonatkozó működési engedélyben átvezeti.
+(2a) Ha a bányafelügyelet a kőolaj- és földgázbányászatra jogosult bányavállalkozó kérelme alapján módosítja a bányatelek föld alatti földgáz, illetve hidrogén tárolására történő kiterjesztését engedélyező határozatát, a módosítást – a bányafelügyelet által megküldött végleges határozat alapján – a Magyar Energetikai és Közmű-szabályozási Hivatal a földgáztárolásra vonatkozó működési engedélyben átvezeti.
 
 (2b) A 3. § (1e) bekezdése szerint a földgáz szolgáltató tulajdonába került földgázt földgáztárolási működési engedéllyel rendelkező bányavállalkozó termeli ki.
+
+(2c) A kőolaj- és földgázbányászatra jogosult bányavállalkozó a bányafelügyelettől kérelmezheti a földgáz tárolására vonatkozó engedélyének módosítását annak érdekében, hogy az engedély hidrogén tárolására is kiterjedjen. A bányafelügyelet az együttes tárolást akkor engedélyezi, ha az a tároló integritását nem veszélyezteti, továbbá a környezetet nem veszélyezteti, szennyezi vagy károsítja.
 
 (3) Az e törvény szerint engedélyköteles tevékenységeket a bányafelügyelet által kiadott engedélyek alapján lehet megkezdeni, és az abban foglalt feltételek szerint gyakorolni.
 
@@ -248,7 +250,7 @@ tartozása van, vagy
 - a) zárt területen
   - aa) az ásványi nyersanyagok kutatását, feltárását, kitermelését,
   - ab) a geotermikus energia kutatását, kinyerését és hasznosítását,
-- b) a kőolaj, a kőolajtermék, továbbá – a földgáz kivételével – az egyéb szénhidrogén-gáz szállítóvezetékek létesítését és üzemben tartását.
+- b)
 
 (2) A 21/A. § (2a) bekezdése szerinti geotermikus energia kutatást a bányafelügyelet az (1) bekezdés a) pont ab) alpontja szerinti zárt területen is engedélyezheti. A bányafelügyelet a 21/A. § (2a) bekezdése szerinti kutatási engedély iránti kérelmet elutasítja, ha a kérelem szerinti kutatási tevékenység a koncesszió jogosultjának a koncessziós szerződés szerinti kutatási tevékenységének elvégzését, vagy a geotermikus energia kinyerését és hasznosítását jelentős mértékben korlátozná vagy kizárná.
 
@@ -344,13 +346,7 @@ tartozása van, vagy
 
 (2) Megszűnik a koncesszió, ha a koncesszió jogosultja a bányatelek megállapításától számított 10 éven belül az üzemszerű kitermelést, vagy a geotermikus védőidom megállapításától számított 6 éven belül az energetikai célú hasznosítást nem kezdi meg.
 
-### Szénhidrogének szállítása és föld alatti tárolása
-
-16. § (1) Kőolaj, kőolajtermékek és szénhidrogén-gázok – a földgáz kivételével – koncessziós szerződés alapján történő szállítására a 10–13. §-okban foglalt rendelkezések az irányadók.
-
-(2) Kőolaj, kőolajtermék és szénhidrogén-gáz szállítóvezeték létesítésére és üzemben tartására adott koncesszió alapján a bányavállalkozó jogosult a szállítóvezeték, valamint az üzemben tartásához szükséges létesítmények megépítése és működtetése iránti engedélykérelmet a bányafelügyelethez benyújtani.
-
-(3) Kőolaj, kőolajtermék és szénhidrogén-gáz szállítóvezeték létesítésére, és üzemeltetésére vonatkozó koncessziók együttesen is adhatók.
+#### 16. §
 
 #### 17. §
 
@@ -561,7 +557,7 @@ különbözőségének figyelembevételével koncessziós területenként állap
 - d) a kutatásra engedélyezett időtartamot és
 - e) a kutatási engedély visszavonása esetén, a kutatási engedély megszűnésének napját.
 
-(9) A (8) bekezdés szerinti nyilvántartás – a (8) bekezdés c) pontja szerinti adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+(9)
 
 21/B. § (1) Geotermikus energiát kinyerni – a (6) bekezdés szerinti eset kivételével – a földkéreg e célra elhatárolt részéből (geotermikus védőidom) szabad.
 
@@ -745,13 +741,13 @@ különbözőségének figyelembevételével koncessziós területenként állap
 
 ### A földtani kutatás
 
-22/D. § (1) A földtani kutatásra a bányafelügyelet földtani kutatási engedélyt ad. Földtani kutatást koncessziós pályázatra kijelölt területen engedélyezni nem lehet. A földtani kutatás kőolaj, földgáz, valamint a szén-dioxid gáz kitermelésére vagy a föld alatti gáztárolásra megállapított bányatelek és geotermikus védőidom területén vagy kőolaj, földgáz, valamint szén-dioxid gáz kutatási területen akkor engedélyezhető, ha ahhoz a bányászati jog jogosultja hozzájárult.
+22/D. § (1) A földtani kutatásra a bányafelügyelet földtani kutatási engedélyt ad. Földtani kutatást koncessziós pályázatra kijelölt területen engedélyezni nem lehet. A földtani kutatás kőolaj, földgáz, valamint a szén-dioxid gáz kitermelésére vagy a föld alatti gáz-, illetve hidrogéntárolásra megállapított bányatelek és geotermikus védőidom területén vagy kőolaj, földgáz, valamint szén-dioxid gáz kutatási területen akkor engedélyezhető, ha ahhoz a bányászati jog jogosultja hozzájárult.
 
 (2) A földtani kutatási engedélyben lehatárolt térrészre a földtani kutatási engedély hatálya alatt újabb azonos célú földtani kutatás nem engedélyezhető.
 
 (3) A földtani kutatási engedély alapján a földtani kutatásra jogosult a földtani kutatási engedélyben lehatárolt térrészben jogosult az engedélyben meghatározott célból a földkéreg anyagi, szerkezeti és fejlődéstörténeti sajátosságainak megismerésére szolgáló műszeres mérések, vizsgálatok, fúrások elvégzésére, mintavételezésre, valamint bányászati kutatóépítmények kivitelezésére.
 
-(4) Földtani kutatást csak a bányafelügyelet részére a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerint bejelentett személy vezethet.
+(4) Földtani kutatást csak a bányafelügyelet részére a Szolg. tv. szerint bejelentett személy vezethet.
 
 (5) A földtani kutatásról összefoglaló földtani jelentést kell készíteni, amelyet a kutatás befejezésétől számított 6 hónapon belül kell a bányafelügyeletnek benyújtani. Az összefoglaló földtani jelentés benyújtását megelőzően, vagy a benyújtás elmulasztása esetén, vagy ha az összefoglaló földtani jelentést a bányafelügyelet véglegessé vált határozatában elutasította, a kutatás során megismert földtani adatokat a földtani kutatásra jogosult nem használhatja fel, és nem hasznosíthatja.
 
@@ -763,15 +759,24 @@ különbözőségének figyelembevételével koncessziós területenként állap
 
 (9) A földtani kutatásra jogosult köteles a 41. § (7) bekezdése szerinti biztosítékot nyújtani.
 
+22/E. § (1) A földgáz, illetve a hidrogén tárolására alkalmas földtani szerkezetek kutatására a 22/D. §-t kell alkalmazni azzal, hogy kutatás
+
+- a) kőolaj, földgáz, valamint szén-dioxid gáz kitermelésére vagy föld alatti gáztárolásra megállapított bányatelek területén, vagy
+- b) kőolaj, földgáz, valamint szén-dioxid gáz kutatási területen
+
+nem engedélyezhető.
+
+(2) Nem kell földtani kutatást végezni, ha a földgáz, illetve hidrogén tervezett tárolása föld alatti gáztárolásra megállapított bányatelek területén történik. Ebben az esetben a hasznosítani tervezett földtani szerkezet földgáz, illetve hidrogén tárolására való alkalmasságát kell igazolni.
+
 ### A feltárás, kitermelés és a meddőhányó hasznosításának engedélyezése
 
-23. § (1) Az ásványvagyon feltárására és kitermelésére, valamint a szénhidrogén föld alatti tárolására – a 26. § (2) bekezdésében foglalt kivétellel – a bányatelek jogosultja kaphat engedélyt.
+23. § (1) Az ásványvagyon feltárására és kitermelésére, valamint a földgáz, illetve hidrogén földtani szerkezetekben történő tárolására – a 26. § (2) bekezdésében foglalt kivétellel – a bányatelek jogosultja kaphat engedélyt.
 
 (1a) A koncessziós szerződésben vagy a kutatást engedélyező határozatban megállapított kutatási időszak végétől számított második évet követően a feltárás és kitermelés szénhidrogén esetében is csak bányatelken folytatható.
 
 (1b) Föld alatti szénelgázosítással történő ásványi nyersanyag kitermelés a kutatási zárójelentés elfogadását követően kísérleti jelleggel a feltárási műszaki üzemi terv hatályán belül legfeljebb hat hónapig bányatelek megállapítása nélkül is folytatható.
 
-(2) Az ásványi nyersanyag feltárását és kitermelését, a föld alatti gáztárolást, valamint a meddőhányó hasznosítását a bányafelügyelet a műszaki üzemi terv (27. §) jóváhagyásával engedélyezi. A meddőhányóból történő ásványi nyersanyag kitermelésre a külfejtéssel történő kitermelés szabályait kell alkalmazni.
+(2) Az ásványi nyersanyag feltárását és kitermelését, a földgáz, illetve hidrogén földtani szerkezetekben történő tárolását, valamint a meddőhányó hasznosítását a bányafelügyelet a műszaki üzemi terv (27. §) jóváhagyásával engedélyezi. A meddőhányóból történő ásványi nyersanyag kitermelésre a külfejtéssel történő kitermelés szabályait kell alkalmazni.
 
 (2a) Az (1a) bekezdés szerinti feltárás és kitermelés engedélyezésére vonatkozó műszaki üzemi terv hatályát veszti, amennyiben a bányavállalkozó a kutatási zárójelentés benyújtására nyitva álló határidőt elmulasztja, vagy a bányafelügyelet a kutatási zárójelentés elfogadása iránti kérelmet véglegessé vált döntésével elutasította vagy az eljárást megszüntette.
 
@@ -852,7 +857,7 @@ vonatkozó információ.
 
 ### Bányatelek
 
-26. § (1) Ásványi nyersanyagot feltárni és kitermelni, szénhidrogén felszín alatti tárolására földtani szerkezetet hasznosítani a föld felszínének és mélyének e célra elhatárolt részén (a továbbiakban: bányatelek) szabad.
+26. § (1) Ásványi nyersanyagot feltárni és kitermelni, földgáz, illetve hidrogén föld alatti tárolására földtani szerkezetet hasznosítani a föld felszínének és mélyének e célra elhatárolt részén (a továbbiakban: bányatelek) szabad.
 
 (2) Nem kell bányatelket megállapítani az ásványi nyersanyagoknak a kutatás keretében, továbbá a meddőhányónak a hasznosítása során végzett feltárására és kitermelésére.
 
@@ -901,6 +906,14 @@ vonatkozó információ.
 
 (8) Nem lehet a (6) bekezdés szerinti pályázaton meghirdetni az olyan bányatelket, amely a benne található ásványi nyersanyag tekintetében zárt területnek minősül. A bányatelket a bányászati jogot törlő határozat véglegessé válását követően a bányafelügyelet hivatalból törli a nyilvántartásból.
 
+(9) A bányafelügyelet megállapítja a bányatelket földgáz, illetve hidrogén tárolására, ha a kérelmező
+
+- a) a földtani szerkezet földgáz, illetve hidrogén tárolására való alkalmasságát a 22/D. § (5) bekezdése szerinti összefoglaló földtani jelentéssel vagy a 22/E. § (2) bekezdése szerint igazolja,
+- b) a tevékenység végzéséhez szükséges jogszabály által megállapított környezetvédelmi engedéllyel vagy a környezetvédelmi hatóság előzetes vizsgálati eljárást lezáró végleges határozatával rendelkezik és
+- c) teljesíti a bányatelek-dokumentáció tartalmára jogszabályban előírt követelményeket.
+
+(10) A földgáz, illetve hidrogén tárolására megállapított bányatelek egyben a bányatelekkel lehatárolt földtani szerkezet hasznosítására vonatkozó engedély is.
+
 26/B. § (1) Külfejtéses bányaművelésre szolgáló bányatelek megállapítását követően, de legkésőbb a 26/A. § (3) bekezdésének c) pontjában említett ütemtervben megjelölt időpont előtt 5 évvel a bányavállalkozó jogosult a bányatelekkel fedett ingatlanokra a vonatkozó építésügyi jogszabályok rendelkezései szerint építési és telekalakítási tilalom elrendelésének kezdeményezését kérni a bányafelügyelettől. A határidő elmulasztása esetén a bányavállalkozónak az építési és telekalakítási tilalom kezdeményezésére vonatkozó jogai megszűnnek.
 
 (2) Mélyművelésre szolgáló bányatelek esetében a bányavállalkozó akkor jogosult az építési és telekalakítási tilalom elrendelését kezdeményezni, ha a bányászati tevékenység előreláthatóan kihat a felszíni ingatlanra.
@@ -923,7 +936,7 @@ vonatkozó információ.
   - bd) az ásványi nyersanyag kitermelésének módját,
   - be) a bányatelket törlő határozat számát, véglegessé válásának napját.
 
-(3b) A (3a) bekezdés szerinti nyilvántartás – a jogosítottjának neve és lakóhelye, illetve megnevezése és székhelye kivételével – közhiteles hatósági nyilvántartásnak minősül.
+(3b)
 
 (4) A bányafelügyelet a bányatelket kérelemre vagy hivatalból módosíthatja. Ha a módosítás az ingatlan-nyilvántartásba bejegyzett bányatelket érint, a módosításról rendelkező véglegessé vált határozata alapján felhívja az ingatlanügyi hatóságot a bányatelekben bekövetkezett módosulás ingatlan-nyilvántartási bejegyzése végett.
 
@@ -1061,11 +1074,11 @@ tevékenységi körön belül a Hatóság elnöke által rendeletben meghatároz
 
 (2) A bányavállalkozó a bányaüzembe felelős műszaki vezetőt és helyettest (a továbbiakban együtt: bányaüzemi felelős műszaki vezető) köteles megbízni. Szénhidrogén-bányaüzemben egyes speciális bányászati tevékenységek tekintetében külön bányaüzemi felelős műszaki vezető is megbízható. A bányaüzemi felelős műszaki vezetőt a bányafelügyelethez be kell jelenteni.
 
-(3) Aki bányaüzemi felelős műszaki vezetői tevékenységet kíván folytatni, köteles az erre irányuló szándékát a bányafelügyelet részére a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerint bejelenteni. Bányaüzemi felelős műszaki vezetői tevékenységet az folytathat, aki büntetlen előéletű, és megfelel a bányaüzem felelős műszaki vezetőjének kijelöléséről szóló rendeletben meghatározott feltételeknek.
+(3) Aki bányaüzemi felelős műszaki vezetői tevékenységet kíván folytatni, köteles az erre irányuló szándékát a bányafelügyelet részére a Szolg. tv. szerint bejelenteni. Bányaüzemi felelős műszaki vezetői tevékenységet az folytathat, aki büntetlen előéletű, és megfelel a bányaüzem felelős műszaki vezetőjének kijelöléséről szóló rendeletben meghatározott feltételeknek.
 
-(4) A bányafelügyelet által a bányaüzemi felelős műszaki vezetői tevékenység végzésére jogosult személyekről vezetett nyilvántartás tartalmazza a tevékenység végzésére jogosult személy természetes személyazonosító adatait, kapcsolattartásra megjelölt elérhetőségét, iskolai végzettségének megnevezését és oklevelének számát.
+(4) A bányafelügyelet által a bányaüzemi felelős műszaki vezetői tevékenység végzésére jogosult személyekről vezetett nyilvántartás tartalmazza a bejelentett szolgáltatási tevékenység megjelölését, a tevékenység végzésére jogosult személy természetes személyazonosító adatait, kapcsolattartásra megjelölt elérhetőségét, iskolai végzettségének megnevezését és oklevelének számát.
 
-(4a) A (4) bekezdés szerinti nyilvántartás – a természetes személyazonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+(4a) A (4) bekezdés szerinti nyilvántartás a Szolg. tv. 27. § (3) bekezdésében meghatározott adatok tekintetében közhiteles hatósági nyilvántartás.
 
 (4b) A (4) bekezdés szerinti nyilvántartás alapján a bányafelügyelet a honlapján naprakészen közzéteszi a bányaüzemi felelős műszaki vezetők jegyzékét, amely tartalmazza a tevékenységet folytató személy nevét és kapcsolattartásra megjelölt elérhetőségét, valamint a bányaüzem típusát, amelyre a bányaüzemi felelős műszaki vezető bejelentése vonatkozik.
 
@@ -1949,6 +1962,8 @@ eltelt.
 
 (13)
 
+(14) A bányafelügyelet elektronikus hozzáférést biztosít a Nemzeti Építésgazdasági Nyilvántartásról és az építőipari ellátásbiztonság érdekében a stratégiai jelentőségű építési anyagokkal kapcsolatos építésgazdasági intézkedésekről szóló kormányrendeletben foglaltak szerint az építési alapanyagok körébe tartozó építőipari nyersanyagok vonatkozásában a Kormány rendeletében meghatározott adatokhoz a Nemzeti Építésgazdasági Nyilvántartás építési alapanyag modulja számára.
+
 43/C. § (1) A bányafelügyelet eljárása során az ügyintézési határidő
 
 - a) a szén-dioxid geológiai tárolásával kapcsolatban:
@@ -1997,7 +2012,7 @@ eltelt.
 - c) a megszűnt föld alatti bányák nyitva maradó térségeinek fenntartása és felhagyása,
 - d) a geotermikus energia kutatása, energetikai célra történő kinyerése és hasznosítása, az ehhez szükséges létesítmények és berendezések építése, használatbavétele és üzemeltetése,
 - e) szénhidrogén-bányászatban használt technológiai létesítmény, csővezeték, a szénhidrogén- és a széndioxid-szállító vezeték, a földgázelosztó- és célvezeték, valamint az egyéb gáz és gáztermékvezeték és bányaüzem területén az egyéb gáztechnológia építése, használatba vétele, üzemeltetése, elbontása és felhagyása,
-- f) a szénhidrogén, valamint energetikai és ipari eredetű szén-dioxid tárolására alkalmas földtani szerkezetek kutatása, tárolásra történő kialakítása és hasznosítása, az ehhez szükséges létesítmények és berendezések építése, használatbavétele, üzemeltetése, bezárása,
+- f) a földgáz, illetve hidrogén, valamint energetikai és ipari eredetű szén-dioxid tárolására alkalmas földtani szerkezetek kutatása, kiképzése, tárolásra történő hasznosítása és bezárása, az ehhez szükséges létesítmények és berendezések építése, használatbavétele, üzemeltetése, bezárása,
 - g) a cseppfolyós propán-bután gázok és ezek elegyei tartályban vagy palackban történő forgalmazása, a cseppfolyós propán-bután gázok és ezek elegyeinek töltő és tároló létesítményei, a töltőüzemben lévő nyomáspróbázó és javító létesítményei, azok berendezései, valamint elosztóvezetékei építése, használatbavétele, üzemeltetése, elbontása és felhagyása,
 - h) a polgári célú robbantóanyag raktárainak építése, használatbavétele és üzemeltetése,
 - i) a meddőhányók létesítése, hasznosítása és megszüntetése,
@@ -2019,15 +2034,15 @@ eltelt.
 
 (2) Polgári felhasználású robbanóanyag forgalmazását és polgári robbantási tevékenység végzését a bányafelügyelet annak a gazdálkodó szervezetnek, valamint e tevékenységet végző, irányító, felügyelő személynek engedélyezi, aki megfelel a jogszabályban meghatározott feltételeknek. A bányafelügyelet a tevékenység folytatására engedéllyel rendelkezőkről nyilvántartást vezet.
 
-(2a) A gazdálkodó szervezetekre vonatkozó (2) bekezdés szerinti nyilvántartás tartalmazza az engedélyes megnevezését, székhelyét (telephelyét, fióktelepét), az engedély fajtáját és hatályát, a felelős személy nevét és lakcímét, valamint a forgalmazásra vagy felhasználásra engedélyezett robbanóanyag mennyiségét és a robbanóanyag kereskedelmi megnevezését.
+(2a) A gazdálkodó szervezetekre vonatkozó (2) bekezdés szerinti nyilvántartás tartalmazza az engedélyezett szolgáltatási tevékenység megjelölését, az engedélyes megnevezését, székhelyét (telephelyét, fióktelepét), az engedély számát, fajtáját és hatályát, valamint a forgalmazásra vagy felhasználásra engedélyezett robbanóanyag mennyiségét és a robbanóanyag kereskedelmi megnevezését.
 
-(2b) A tevékenységet végző, irányító, felügyelő személyekre vonatkozó (2) bekezdés szerinti nyilvántartás tartalmazza a tevékenység folytatására engedéllyel rendelkező természetes személyazonosító adatait, az engedély típusát, nyilvántartási számát, kiadójának nevét, érvényességi körét, hatályát, az engedélyező határozat számát.
+(2b) A tevékenységet végző, irányító, felügyelő személyekre vonatkozó (2) bekezdés szerinti nyilvántartás tartalmazza az engedélyezett szolgáltatási tevékenység megjelölését, a tevékenység folytatására engedéllyel rendelkező természetes személyazonosító adatait, az engedély típusát, nyilvántartási számát, kiadójának nevét, érvényességi körét, hatályát, az engedélyező határozat számát.
 
-(2c) A (2) bekezdés szerinti nyilvántartás – a természetes személyazonosító adatok, valamint a forgalmazásra vagy felhasználásra engedélyezett robbanóanyag mennyiségére vonatkozó adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+(2c) A (2) bekezdés szerinti nyilvántartás a Szolg. tv. 26. § (2a) bekezdésében meghatározott adatok tekintetében közhiteles hatósági nyilvántartás.
 
-(3) A szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti szabad szolgáltatásnyújtás jogával rendelkező szolgáltató határon átnyúló szolgáltatásnyújtás keretében történő polgári felhasználású robbanóanyag-forgalmazási tevékenység folytatására irányuló szándékát köteles a bányafelügyeletnek bejelenteni.
+(3) A Szolg. tv. szerinti szabad szolgáltatásnyújtás jogával rendelkező szolgáltató határon átnyúló szolgáltatásnyújtás keretében történő polgári felhasználású robbanóanyag-forgalmazási tevékenység folytatására irányuló szándékát köteles a bányafelügyeletnek bejelenteni.
 
-(4) A nyomástartó berendezést vizsgáló szakértői vagy felügyeleti tevékenységet az folytathat, aki büntetlen előéletű, rendelkezik az e törvény végrehajtására a Hatóság elnöke által kiadott rendeletben meghatározott szakmai képesítéssel, gyakorlati idővel, megfelel az ott meghatározott egyéb feltételeknek, és a tevékenység folytatásáról a bányafelügyeletnél a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerint bejelentést tett. A tevékenységet folytató személyekről a bányafelügyelet által vezetett nyilvántartás tartalmazza a tevékenységet folytató személy természetes személyazonosító adatait, iskolai végzettségének megnevezését és oklevelének számát, bejelentésének sorszámát, a bejelentett tevékenység megnevezését, valamint a nyilvántartásból törlés időpontját és iktatási számát.
+(4) A nyomástartó berendezést vizsgáló szakértői vagy felügyeleti tevékenységet az folytathat, aki büntetlen előéletű, rendelkezik az e törvény végrehajtására a Hatóság elnöke által kiadott rendeletben meghatározott szakmai képesítéssel, gyakorlati idővel, megfelel az ott meghatározott egyéb feltételeknek, és a tevékenység folytatásáról a bányafelügyeletnél a Szolg. tv. szerint bejelentést tett. A tevékenységet folytató személyekről a bányafelügyelet által vezetett nyilvántartás – mely a Szolg. tv. 27. § (3) bekezdésében meghatározott adatok tekintetében közhiteles hatósági nyilvántartás – tartalmazza a bejelentett szolgáltatási tevékenység megjelölését, a tevékenységet folytató személy természetes személyazonosító adatait, iskolai végzettségének megnevezését és oklevelének számát, bejelentésének sorszámát, a bejelentett tevékenység megnevezését, valamint a nyilvántartásból törlés időpontját és iktatási számát.
 
 (4a) A (4) bekezdés szerinti nyilvántartás alapján a bányafelügyelet a honlapján naprakészen közzéteszi a tevékenységet folytató személyek jegyzékét, amely tartalmazza a tevékenységet folytató személy nevét és címét, a tevékenység folytatásáról szóló bejelentés számát, és a bejelentett tevékenység betűkódját.
 
@@ -2037,23 +2052,23 @@ eltelt.
 
 (7)
 
-44/A. § (1) Ha e törvény vagy a felhatalmazása alapján kiadott jogszabály földtani szakkérdésben szakértő igénybevételét írja elő, vagy szakértő igénybevételéhez jogkövetkezményt állapít meg, – az igazságügyi szakértőkről szóló törvény szerint igazságügyi szakértői tevékenység végzésére jogosult szakértő kivételével – szakértőként kizárólag az a személy vehető igénybe, valamint a jogszabályban meghatározott jogkövetkezmények csak annak a személynek az igénybevételéhez fűződnek, aki a bányafelügyeletnél a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerint bejelentést tett.
+44/A. § (1) Ha e törvény vagy a felhatalmazása alapján kiadott jogszabály földtani szakkérdésben szakértő igénybevételét írja elő, vagy szakértő igénybevételéhez jogkövetkezményt állapít meg, – az igazságügyi szakértőkről szóló törvény szerint igazságügyi szakértői tevékenység végzésére jogosult szakértő kivételével – szakértőként kizárólag az a személy vehető igénybe, valamint a jogszabályban meghatározott jogkövetkezmények csak annak a személynek az igénybevételéhez fűződnek, aki a bányafelügyeletnél a Szolg. tv. szerint bejelentést tett.
 
 (2) Az (1) bekezdés szerinti szakértői tevékenységet az a személy folytathat, aki büntetlen előéletű, rendelkezik az e törvény felhatalmazása alapján a Hatóság elnökének rendeletében meghatározott szakmai képesítéssel, és megfelel az ott meghatározott egyéb feltételeknek.
 
-(3) A bányafelügyelet által a szakértői tevékenység folytatására jogosult személyekről vezetett nyilvántartás tartalmazza a szakértői tevékenység végzésére jogosult személy természetes személyazonosító adatait, kapcsolattartásra megjelölt elérhetőségét, valamint a Hatóság elnökének rendeletében előírt további, személyes adatokat nem tartalmazó adatokat. A nyilvántartásból kizárólag a szakértői tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat.
+(3) A bányafelügyelet által a szakértői tevékenység folytatására jogosult személyekről vezetett nyilvántartás tartalmazza a bejelentett szolgáltatási tevékenység megjelölését, a szakértői tevékenység végzésére jogosult személy természetes személyazonosító adatait, kapcsolattartásra megjelölt elérhetőségét, valamint a Hatóság elnökének rendeletében előírt további, személyes adatokat nem tartalmazó adatokat. A nyilvántartásból kizárólag a szakértői tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat.
 
-(4) A (3) bekezdés szerinti nyilvántartás – a természetes személyazonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+(4) A (3) bekezdés szerinti nyilvántartás a Szolg. tv. 27. § (3) bekezdésében meghatározott adatok tekintetében közhiteles hatósági nyilvántartás.
 
 (5) A (3) bekezdés szerinti nyilvántartás alapján a bányafelügyelet a honlapján naprakészen közzéteszi a földtani szakértők jegyzékét, amely tartalmazza a tevékenységet folytató személy nevét és kapcsolattartásra megjelölt elérhetőségét, valamint a földtani szakértő szakterületének megnevezését.
 
-44/B. § (1) Aki hites bányamérői tevékenységet kíván folytatni, köteles az erre irányuló szándékát a bányafelügyeletnek a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerint bejelenteni. A bejelentésben meg kell jelölni a bejelentő természetes személyazonosító adatait.
+44/B. § (1) Aki hites bányamérői tevékenységet kíván folytatni, köteles az erre irányuló szándékát a bányafelügyeletnek a Szolg. tv. szerint bejelenteni. A bejelentésben meg kell jelölni a bejelentő természetes személyazonosító adatait.
 
 (2) Hites bányamérői tevékenységet az folytathat, aki büntetlen előéletű, és megfelel az e törvény felhatalmazása alapján kiadott rendeletben meghatározott egyéb feltételeknek.
 
-(3) A hites bányamérői tevékenységet folytató személyekről a bányafelügyelet által vezetett nyilvántartás tartalmazza a tevékenység végzésére jogosult személy természetes személyazonosító adatait, kapcsolattartásra megjelölt elérhetőségét, valamint a Hatóság elnökének rendeletében előírt további, személyes adatokat nem tartalmazó adatokat. A nyilvántartásból kizárólag a hites bányamérői tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat.
+(3) A hites bányamérői tevékenységet folytató személyekről a bányafelügyelet által vezetett nyilvántartás tartalmazza a bejelentett szolgáltatási tevékenység megjelölését, a tevékenység végzésére jogosult személy természetes személyazonosító adatait, kapcsolattartásra megjelölt elérhetőségét, valamint a Hatóság elnökének rendeletében előírt további, személyes adatokat nem tartalmazó adatokat. A nyilvántartásból kizárólag a hites bányamérői tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat.
 
-(4) A (3) bekezdés szerinti nyilvántartás – a természetes személyazonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+(4) A (3) bekezdés szerinti nyilvántartás a Szolg. tv. 27. § (3) bekezdésében meghatározott adatok tekintetében közhiteles hatósági nyilvántartás.
 
 (5) A (3) bekezdés szerinti nyilvántartás alapján a bányafelügyelet a honlapján naprakészen közzéteszi a hites bányamérői tevékenységet folytató személyek jegyzékét, amely tartalmazza a tevékenységet folytató személy nevét, kapcsolattartásra megjelölt elérhetőségét és a hites bányamérő szakterületének megnevezését.
 
@@ -2105,7 +2120,7 @@ bányahatósági felügyelete
 
 (3) Az anyagnyerő hely létesítési engedély hivatalból vagy kérelemre módosítható. Hivatalból akkor módosítható a létesítési engedély, ha a kitermelési tevékenység során védendő érték válik ismertté. A létesítési engedély módosítására a létesítésre vonatkozó szabályokat kell megfelelően alkalmazni.
 
-47/C. § (1) A bányafelügyelet az anyagnyerő helyről – közhitelesnek nem minősülő – nyilvántartást vezet, és azt a honlapján közzéteszi.
+47/C. § (1) A bányafelügyelet az anyagnyerő helyről nyilvántartást vezet, és azt a honlapján közzéteszi.
 
 (2) Az (1) bekezdés szerinti nyilvántartás tartalmazza:
 
@@ -2172,14 +2187,14 @@ bányahatósági felügyelete
 
 ### Az ásványvagyon nyilvántartása
 
-48/B. § (1) A bányafelügyelet az ásványvagyon-gazdálkodási célok teljesülésének érvényesülése érdekében az ásványvagyonról, annak minőségi és mennyiségi változásáról mérlegszerű nyilvántartást vezet. A bányafelügyelet a nyilvántartásban szereplő adatokról kérelemre hatósági bizonyítványt ad ki.
+48/B. § (1) A bányafelügyelet az ásványvagyon-gazdálkodási célok teljesülésének érvényesülése érdekében az ásványvagyonról, annak minőségi és mennyiségi változásáról mérlegszerű nyilvántartást vezet.
 
 (2) A bányafelügyelet az ásványvagyon-nyilvántartást ásványinyersanyag-lelőhelyenként, azon belül telepenként, illetve készletszámítási tömbönként vezeti, a nyilvántartásban szereplő lelőhelyeket kódszámmal látja el.
 
 (3) A nyilvántartás tartalmazza
 
 - a) a lelőhelyre vonatkozó adatokat, azon belül a telep, illetve a készletszámítási tömb megnevezését és kódját, továbbá bányászati jogosultsággal érintett lelőhely estén a bányatelek védnevét,
-- b) az állami ásványvagyon-nyilvántartás pontossága és közhitelességének biztosítása érdekében az ásványvagyon kitermelésére jogosult nevét, természetes személyazonosító adatait és lakóhelyét, illetve megnevezését és székhelyét,
+- b) az állami ásványvagyon-nyilvántartás pontossága biztosítása érdekében az ásványvagyon kitermelésére jogosult nevét, természetes személyazonosító adatait és lakóhelyét, illetve megnevezését és székhelyét,
 - c) a lelőhely közigazgatási megjelölését az érintett települések megnevezésével, EOV rendszer szerinti koordinátákkal történő lehatárolását, fedő- és feküsíkjának magasságát mBf értékkel, továbbá szilárd ásványi nyersanyagok esetén az érintett ingatlanok helyrajzi számát,
 - d) a lelőhely minősítését a szerint, hogy bányászati joggal érintett vagy nem,
 - e) az ásványi nyersanyag megnevezését az ásványi nyersanyagok és a geotermikus energia fajlagos értékének, valamint az értékszámítás módjának meghatározásáról szóló kormányrendelet szerint,
@@ -2190,7 +2205,7 @@ bányahatósági felügyelete
 
 (4) A nyilvántartásban a kutatási zárójelentésben vagy készletszámítási jelentésben elfogadott vagyonadatokat kell kezdeti vagyonadatként szerepeltetni. A nyilvántartásban szereplő adatok módosítása a 25. § (2) bekezdés b) és c) pontja szerinti bányavállalkozói adatszolgáltatások, vagy az ásványvagyon változását eredményező végleges bányafelügyeleti döntések – ideértve a bányavállalkozó által végzett ásványvagyon újraértékelésével kapcsolatos döntést is – alapján történhet. Az ásványvagyon bányavállalkozói újraértékeléséhez a bányavállalkozó mellékeli az ásványvagyon-változásra vonatkozó földtani szakértő által ellenjegyzett készletszámítási jelentést.
 
-(5) A (2) bekezdés szerinti nyilvántartás – a (2) bekezdés b) pontja szerinti adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+(5)
 
 (6) A bányafelügyelet minden év június 30-ig országos ásványvagyonmérleg-jelentést készít a tárgyévet megelőző év január 1-jei állapot szerint, amelyet közzétesz a honlapján.
 
@@ -2263,12 +2278,12 @@ terjedhet.
   - b) a haszonanyagok helyben végzett készletezése,
   - c) a bánya szüneteltetése, bezárása, a szénhidrogénmező felhagyása,
   - d) a bányászati tevékenység befejezését követő tájrendezés,
-  - e) a szénhidrogén tárolására alkalmas földtani szerkezetek kutatása, tárolásra történő kialakítása, igénybevétele és bezárása,
+  - e) a földgáz, illetve hidrogén tárolására alkalmas földtani szerkezetek kutatása, kiképzése, tárolásra történő hasznosítása és bezárása,
   - f) a geotermikus energia kutatása, kinyerése és hasznosítása,
   - g) az a)–f) pontokban meghatározott tevékenységek során keletkezett hulladék kezelése, továbbá
   - h) a bányavállalkozó bányászati tevékenysége során felszín alatti víz járulékos kitermelését követően a kitermelt felszín alatti vízben oldott állapotban lévő ásványi nyersanyag kinyerése is.
 - 5. „Bányavállalkozó” a bányászati tevékenység végzésére jogosult jogi vagy természetes személy, továbbá
-  - a) a 2. §, a 18. §, a 21. § (1) bekezdése, a 24. § (1) bekezdése, a 28. § (1) bekezdése, a 31–35. §, a 37. és 38. §, a 41. § alkalmazásában a szénhidrogén szállítóvezetékek létesítésére és üzemben tartására jogosult személy,
+  - a) a 2. §, a 6/B. és 6/C. §, a 18. §, a 21. § (1) bekezdése, a 24. § (1) bekezdése, a 28. § (1) bekezdése, a 31–35. §, a 37. és 38. §, a 41. § alkalmazásában a szénhidrogén szállítóvezetékek létesítésére és üzemben tartására jogosult személy,
   - b) a 2. §, a 21. § (1) bekezdése, a 28. § (1) bekezdése, a 31–34. §, a 41. és 42. § alkalmazásában a megszűnt föld alatti bánya nyitva maradó térségének fenntartására, hasznosítására jogosult személy, valamint
   - c) a használaton kívüli bányászati célú mélyfúrás tulajdonosa vagy vagyonkezelője.
 - 6. „Feldolgozás”: az ásványi nyersanyagokon – beleértve a külfejtéses bányák működése során – végrehajtott mechanikai, fizikai, biológiai, termikus vagy kémiai eljárás, vagy eljárások összessége, beleértve a méret megváltoztatását, szétválasztását és a kioldást, továbbá az előzőleg elhagyott bányászati hulladék újrafeldolgozását, de nem beleértve az olvasztást, a mészkőégetéstől eltérő termikus gyártási folyamatokat és kohászati eljárásokat.
@@ -2285,8 +2300,8 @@ terjedhet.
 - 17. „Kutatás”: olyan földtani (geológiai, geofizikai, geokémiai) és mérnöki módszerekkel végzett bányászati tevékenység, amelynek célja:
   - a) az ásványi nyersanyagok lelőhelyének felfedezése,
   - b) a felfedezett ásványi nyersanyag lelőhely lehatárolása és mennyiségi, minőségi megismerése, továbbá
-  - c) a geotermikus energia földkéregbeli viszonyainak megismerése, valamint
-  - d) a földtani szerkezetek megismerése szénhidrogén felszín alatti tárolására való alkalmasság szempontjából.
+  - c) a geotermikus energia földkéregbeli viszonyainak megismerése.
+  - d)
 - 18. „Kutatási terület”: a koncessziós szerződésben vagy a kutatást engedélyező határozatban meghatározott ásványi nyersanyag, vagy geotermikus energia kutatására körülhatárolt terület.
 - 19. ,,Lelőhely'' az ásványi nyersanyagok természetes előfordulásának helye (pl. réteg, telep, lerakódás).
 - 20. ,,Nyílt terület'' minden olyan terület, amely meghatározott ásványi nyersanyag vonatkozásában nem minősül zárt területnek.
@@ -2552,6 +2567,7 @@ vonatkozó részletes szabályok rendeletben történő megállapítására.
 - 36. a bányaüzem területén az egyéb gáztechnológia építésére, használatba vételére, üzemeltetésére, elbontására és felhagyására
 - 37. a szakági műszaki bizottságok létesítésére, feladataikra
 - 38. a feltáró kutatásra vonatkozó kérelem tartalmi követelményeire, a feltáró kutatás engedélyezésére, az engedély tartalmi követelményeire, a kutatás során megszerzett földtani adatok szolgáltatásának rendjére
+- 39. a földgáz, illetve hidrogén tárolására alkalmas földtani szerkezetek kutatására, kiképzésére, tárolásra történő hasznosítására és bezárására
 
 vonatkozó részletes szabályok rendeletben történő megállapítására.
 
@@ -2564,7 +2580,7 @@ vonatkozó részletes szabályok rendeletben történő megállapítására.
 - c) a bányafelügyelet piacfelügyeleti ellenőrzése alá tartozó termékek piacfelügyeleti ellenőrzésére vonatkozó és az importtermékek ellenőrzésével kapcsolatos részletes szabályokat, továbbá a piacfelügyeleti hatósági jogkörben eljáró bányafelügyelet által – közigazgatási hatósági hatáskörben eljárva – alkalmazandó kiegészítő eljárási szabályokat,
 - d) az előkutatás és az e törvény hatálya alá tartozó jogosultságok részletes szabályait,
 - e) a bányászati jog átruházása során a bányafelügyeleti vizsgálat részletes szabályait,
-- f) a kutatási, feltárási, kitermelési, szüneteltetési, bányabezárási és tájrendezési, föld alatti gáztárolási és meddőhányó-hasznosítási műszaki üzemi terv részletes tartalmi követelményeit, építőipari nyers- és alapanyagokra megállapított bányatelekre vonatkozó kitermelési műszaki üzemi terv rendszeres felülvizsgálatának részletes szabályait,
+- f) a kutatási, feltárási, kitermelési, szüneteltetési, bányabezárási és tájrendezési, föld alatti földgáz-, illetve hidrogéntárolási és meddőhányó-hasznosítási műszaki üzemi terv részletes tartalmi követelményeit, építőipari nyers- és alapanyagokra megállapított bányatelekre vonatkozó kitermelési műszaki üzemi terv rendszeres felülvizsgálatának részletes szabályait,
 - g) világörökségi területen az ásványi nyersanyag kitermelésének a feltételeit, megkezdett kitermelés esetén az ezeknek a feltételeknek való megfelelés határidejét, valamint ezekhez kapcsolódóan a világörökségi területen bányászati tevékenységre vonatkozó műszaki üzemi terv jóváhagyásának részletes feltételeit,
 - h) a piacfelügyeleti intézkedésre okot adó állapot fennállását,
 - i) a 27/B. § (1) bekezdése szerinti szabályokat és követelményeket,
@@ -2671,7 +2687,7 @@ rendeletben történő megállapítására.
 
 - a) az Európai Parlament és a Tanács 1994. május 30-i 94/22/EK irányelve a szénhidrogének kutatására, feltárására és kitermelésére vonatkozó engedélyek megadásának és felhasználásának feltételeiről;
 - b) az Európai Parlament és a Tanács 2009. július 13-i 2009/73/EK irányelve a földgáz belső piacára vonatkozó közös szabályokról és a 2003/55/EK irányelv hatályon kívül helyezéséről;
-- c) az Európai Parlament és a Tanács 2006. március 15-i 2006/21/EK irányelve az ásványinyersanyag-kitermelő iparban keletkező hulladék kezeléséről és a 2004/35/EK irányelv módosításáról (3. cikk 3., 6. és 8. pontja, 7. cikk, 11–12. cikk, 14. és 19. cikk), a törvény 1. §-a, 2. §-a, 16. §-a, 19. §-a, valamint a 41. § (1) bekezdés d) pontja, 43/B. § (6) bekezdés e) pontja, 44. § (1) bekezdés n) pontja, 49. § 4., 6., 8. és 43. pontja, 50/A. § (1b) bekezdés 31. pontja;
+- c) az Európai Parlament és a Tanács 2006. március 15-i 2006/21/EK irányelve az ásványinyersanyag-kitermelő iparban keletkező hulladék kezeléséről és a 2004/35/EK irányelv módosításáról (3. cikk 3., 6. és 8. pontja, 7. cikk, 11–12. cikk, 14. és 19. cikk), a törvény 1. §-a, 2. §-a, 19. §-a, valamint a 41. § (1) bekezdés d) pontja, 43/B. § (6) bekezdés e) pontja, 44. § (1) bekezdés n) pontja, 49. § 4., 6., 8. és 43. pontja, 50/A. § (1b) bekezdés 31. pontja;
 - d) a szén-dioxid geológiai tárolásáról, valamint a 85/337/EGK tanácsi irányelv, a 2000/60/EK, a 2001/80/EK, a 2004/35/EK, a 2006/12/EK és a 2008/1/EK európai parlamenti és tanácsi irányelv, valamint az 1013/2006/EK rendelet módosításáról szóló, 2009. április 23-i 2009/31/EK európai parlamenti és tanácsi irányelv.
 - e) a megújuló energiaforrásokból előállított energia használatának előmozdításáról szóló, 2018. december 11-i (EU) 2018/2001 európai parlamenti és tanácsi irányelv.
 

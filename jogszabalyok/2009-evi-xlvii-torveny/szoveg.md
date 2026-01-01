@@ -6,11 +6,13 @@ a bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bír
 
 ### Alapvető rendelkezések
 
-1. § (1) Az e törvény hatálya alá tartozó nyilvántartások hatósági nyilvántartások. A bűnügyi nyilvántartások az azokban kezelt adatok tekintetében közhiteles hatósági nyilvántartások.
+1. § (1) Az e törvény hatálya alá tartozó nyilvántartások hatósági nyilvántartások. Az e törvény hatálya alá tartozó nyilvántartások – a (2) bekezdésben meghatározott kivétellel – az azokban kezelt adatok tekintetében közhiteles hatósági nyilvántartások.
 
-(2) Az e törvény hatálya alá tartozó nyilvántartások törvényességi felügyeletét a legfőbb ügyész látja el.
+(2) A személyazonosító adatok és fényképek nyilvántartásában és az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásában kezelt adatok abban az esetben közhitelesek, ha nem szerepelnek a személyiadat- és lakcímnyilvántartásban vagy az idegenrendészeti nyilvántartásokban.
 
-(3) Az e törvény hatálya alá tartozó hatósági nyilvántartások vezetésére és az azokhoz kapcsolódó hatósági eljárásra az általános közigazgatási rendtartásról szóló törvény rendelkezéseit az e törvényben meghatározott eltérésekkel és kiegészítésekkel kell alkalmazni.
+(3) Az e törvény hatálya alá tartozó nyilvántartások törvényességi felügyeletét a legfőbb ügyész látja el.
+
+(4) Az e törvény hatálya alá tartozó hatósági nyilvántartások vezetésére és az azokhoz kapcsolódó hatósági eljárásra az általános közigazgatási rendtartásról szóló törvény rendelkezéseit az e törvényben meghatározott eltérésekkel és kiegészítésekkel kell alkalmazni.
 
 ### Értelmező rendelkezések
 
@@ -971,6 +973,7 @@ részére tett nyilatkozatával tiltakozzon.
 - c) a közrendvédelmi, valamint határrendészeti feladatainak ellátása során
   - ca) a kényszerintézkedések végrehajtása ellenőrzése céljából a 23. § c) és h) pontjában meghatározott adatok,
   - cb) a határbiztosítási távoltartás szabályai betartásának ellenőrzése céljából a 23. § c) pontjában meghatározott adatok, amennyiben az érintettet a határzár tiltott átlépése (Btk. 352/A. §), a határzár megrongálása (Btk. 352/B. §), a határzárral kapcsolatos építési munka akadályozása (Btk. 352/C. §), embercsempészés (Btk. 353. §), jogellenes tartózkodás elősegítése (Btk. 354. §), jogellenes bevándorlás elősegítése, támogatása (Btk. 353/A. §) bűncselekmény megalapozott gyanúja miatt büntetőeljárás alá vontak;
+  - cc) a feltételes ügyészi felfüggesztés ellenőrzése céljából a 23. § f) pontjában meghatározott adatok,
 - d) a vagyonvédelmi rendszert tervező és szerelő tevékenység, valamint a magánnyomozói tevékenység hatósági engedélyezése és ellenőrzése során a közbiztonsági feltételek vizsgálata céljából
   - da) a 11. § (1) bekezdés ca), cb), cf) alpontjában, e), f), h), i) pontjában, a 11. § (2) bekezdés e) pontjában meghatározott adatok,
   - db) a 16. § (1) bekezdés ca), cb), cf) alpontjában, f), g), i), k) pontjában, a 16. § (2) bekezdés k) pontjában meghatározott adatok, valamint

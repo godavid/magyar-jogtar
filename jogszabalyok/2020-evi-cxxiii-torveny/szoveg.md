@@ -164,7 +164,7 @@ terjed ki.
 
 #### 10. A mezőgazdasági őstermelők és az őstermelők családi gazdaságainak nyilvántartása
 
-12. § (1) A mezőgazdasági őstermelők és az őstermelők családi gazdaságának adatait (a továbbiakban: őstermelői nyilvántartás) az élelmiszerlánc-felügyeleti információs rendszerben (a továbbiakban: FELIR) kell nyilvántartani, amely a 13. § (1) bekezdésének 1. pont h) alpontjában, 2–9., 11. és 13. pontjában meghatározott adatok tekintetében közhitelesnek minősül.
+12. § (1) A mezőgazdasági őstermelők és az őstermelők családi gazdaságának adatait (a továbbiakban: őstermelői nyilvántartás) az élelmiszerlánc-felügyeleti információs rendszerben (a továbbiakban: FELIR) kell nyilvántartani, amely a 13. § (1) bekezdés 2–9., 11. és 13. pontjában meghatározott adatok tekintetében közhitelesnek minősül.
 
 (2) A mezőgazdasági őstermelőknek őstermelők családi gazdaságában való részvételének tényét az őstermelői nyilvántartásban fel kell tüntetni.
 

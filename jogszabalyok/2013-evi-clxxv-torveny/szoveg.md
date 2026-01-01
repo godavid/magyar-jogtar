@@ -107,7 +107,7 @@ a gondnokoltak és az előzetes jognyilatkozatok nyilvántartásáról
 - f) az előzetes jognyilatkozat alkalmazásáról határozatot hozó bíróság megnevezését és ügyszámát,
 - g) az előzetes jognyilatkozatban tett, hatályossá vált rendelkezést.
 
-(2) Az (1) bekezdés b)–g) pontja szerinti adatokat az előzetes jognyilatkozatok nyilvántartása közhitelesen tartalmazza.
+(2) Az előzetes jognyilatkozatok nyilvántartása az (1) bekezdés b)–g) pontja szerinti adatokat – az előzetes jognyilatkozatot (visszavonását, módosítását) okiratba foglaló szerv (személy) székhelye kivételével – közhitelesen tartalmazza.
 
 11. § (1) A 10. § (1) bekezdés a) pont aa–ae) alpontja és b)–d) pontja szerinti adatokat az előzetes jognyilatkozatot tett személy kérelmére a lakóhelye szerint illetékes járásbíróság jegyzi be az előzetes jognyilatkozatok nyilvántartásába. Belföldi lakóhely hiányában az illetékesség az előzetes jognyilatkozatot tett személy tartózkodási helyéhez igazodik; ha az előzetes jognyilatkozatot tett személy tartózkodási helye ismeretlen vagy külföldön van, az utolsó belföldi lakóhely, ennek hiányában az utolsó tartózkodási hely az irányadó.
 

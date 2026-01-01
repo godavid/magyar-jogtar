@@ -87,9 +87,11 @@ reklám ellenszolgáltatás fejében történő közzététele.
 
 (3) Mentes az adó alól a 3. § (1) bekezdés szerinti adóalany adóköteles tevékenységből származó adóévi nettó árbevételéből 100 millió forint.
 
-(4) A (3) bekezdés szerinti mentesség csekély összegű (de minimis) támogatásnak minősül, amely az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló 1407/2013/EU bizottsági rendelet szabályaival összhangban vehető igénybe.
+(4) A (3) bekezdés szerinti mentesség csekély összegű (de minimis) támogatásnak minősül, amely az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló 2023. december 13-i (EU) 2023/2831 bizottsági rendelet szabályaival összhangban vehető igénybe.
 
-5/A. § Az 5. § (1)–(2) bekezdésekben foglaltaktól eltérően az adó mértéke 2019. július 1-jétől 2025. december 31-ig az adóalap 0%-a.
+(5) Ha az adóév 365 napnál rövidebb, a fizetendő adó összege az adóévi 4. § (1) bekezdés szerinti adóalapnak az adóév naptári napjai alapján 365 napos időszakra számított összege alapján az (1) bekezdés szerinti adómértékkel megállapított adóösszegnek az adóév naptári napjaival arányos része.
+
+5/A. § Az 5. § (1)–(2) bekezdésekben foglaltaktól eltérően az adó mértéke 2019. július 1-jétől 2026. június 30-ig az adóalap 0%-a.
 
 #### 5.
 
@@ -124,50 +126,25 @@ reklám ellenszolgáltatás fejében történő közzététele.
 
 (11) Az Szt. hatálya alá tartozó adóalany az e törvény alapján megállapított adót az adózás előtti eredmény terhére számolja el.
 
-7/A. § (1) Az állami adóhatóság a 3. § (1) bekezdés szerinti adóalany nevéről (elnevezéséről) és adóazonosító számáról a (2)–(5) bekezdés szerinti külön nyilvántartást vezet, melyet a honlapján közzétesz.
+7/A. § (1) Az a 3. § (1) bekezdése szerinti adóalany, amelyet az állami adóhatóság valamely adónem hatálya alá tartozó adózóként nem vett nyilvántartásba, a 2. § (1) bekezdése szerinti adóköteles tevékenység megkezdését követő 30 napon belül köteles bejelentkezni az állami adóhatóság által rendszeresített nyomtatványon. E rendelkezés nem alkalmazható az Szja tv. szerint egyéni vállalkozónak nem minősülő magánszemély esetén.
 
-(2) A 3. § (1) bekezdés szerinti adóalanyt – annak kérelmére – az állami adóhatóság akkor veszi nyilvántartásba, ha
+(2) Ha az (1) bekezdés szerinti adóalany a bejelentkezési kötelezettségét nem teljesíti, akkor az állami adóhatóság – a mulasztás jogkövetkezményeire történő figyelmeztetés mellett – 15 napos határidő tűzésével felhívja az adóalanyt az adókötelezettség jogszerű teljesítésére.
 
-- a) adó-, adóelőleg-bevallási és adó-, adóelőleg-fizetési kötelezettségét határidőben teljesítette, vagy
-- b) nyilatkozik az állami adóhatóságnak arról, hogy az adóévben adófizetési kötelezettség nem terheli.
+(3) A (2) bekezdés szerinti határidő eredménytelen elteltét követően az állami adóhatóság 10 millió forintig terjedő mulasztási bírságot szab ki és – a mulasztás jogkövetkezményeire történő figyelmeztetés mellett – 15 napos határidő tűzésével ismételten felhívja az adóalanyt az adókötelezettség jogszerű teljesítésére. Az állami adóhatóság a bejelentkezési kötelezettség elmulasztásának minden további megállapításakor 10 millió forintig terjedő mulasztási bírságot szab ki, és – a mulasztás jogkövetkezményeire történő figyelmeztetés mellett – 15 napos határidő tűzésével ismételten felhívja az adóalanyt az adókötelezettség jogszerű teljesítésére.
 
-(3) Az állami adóhatóság a nyilvántartásba vételt megelőzően ellenőrzéssel vizsgálhatja a (2) bekezdés b) pontja szerinti nyilatkozat megalapozottságát.
+(4) Ha az adóalany az állami adóhatóság felhívására a bejelentkezési kötelezettségét teljesíti, akkor az állami adóhatóság a (3) bekezdés szerint utoljára kiszabott mulasztási bírságot elengedi, a (3) bekezdés szerint korábban kiszabott mulasztási bírságot pedig az adózás rendjéről szóló 2017. évi CL. törvény (a továbbiakban: Art.) bírságmérséklésre vonatkozó szabályai szerint mérsékelheti vagy elengedheti.
 
-(4) Az állami adóhatóság törli az adóalanyt az (1) bekezdés szerinti, honlapján közzétett nyilvántartásból
+7/B. § (1) Ha a reklám közzétételének megrendelése időpontjában a 7/A. § szerint közzétett nyilvántartásban nem szereplő, 3. § (1) bekezdése szerinti adóalany a 3. § (3) bekezdése szerinti nyilatkozattételi kötelezettségét a reklám-közzététel megrendelője számára nem teljesíti, akkor az állami adóhatóság a 3. § (1) bekezdése szerinti adóalanyt felhívja a 3. § (3) bekezdése szerinti nyilatkozat állami adóhatósághoz történő teljesítésére. Ezzel egyidejűleg figyelmezteti arra, hogy amennyiben a 3. § (3) bekezdése szerinti nyilatkozatot a felhívás kézhezvételétől számított 15 napon belül nem teszi meg, 500 ezer forint mulasztási bírságot kell fizetnie. E rendelkezés nem alkalmazható, ha a 3. § (1) bekezdése szerinti adóalany az Szja tv. szerint egyéni vállalkozónak nem minősülő magánszemély.
 
-- a) az adóalany kérelmére,
-- b) ha az adóalany bevallás-benyújtási kötelezettségét elmulasztja vagy adófizetési kötelezettségét maradéktalanul nem teljesíti,
-- c) ha az adóalanyt a (2) bekezdés b) pontja szerinti nyilatkozata ellenére az adóévben adófizetési kötelezettség terheli, kivéve, ha e kötelezettségét e törvény rendelkezésének megfelelően teljesíti,
-- d) a (2) bekezdés b) pontja szerinti nyilatkozatot tevő adóalany esetén az adóév végével,
-- e) ha az adóalany megszűnik,
-- f) ha az adóalany ellen felszámolási, végelszámolási vagy kényszertörlési eljárás indult,
-- g) ha az adóalany adótartozása nettó módon számítva – a naptári hónap 1. napján – a 100 000 forintot meghaladja.
+(2) Ha a 3. § (1) bekezdése szerinti adóalany a 3. § (3) bekezdése szerinti nyilatkozattételi kötelezettsége teljesítését ugyanazon megrendelő számára ismételten elmulasztja, akkor az állami adóhatóság az (1) bekezdés szerint jár el azzal, hogy amennyiben a 3. § (1) bekezdése szerinti adóalany a 3. § (3) bekezdése szerinti nyilatkozatot a felhívás kézhezvételétől számított 15 napon belül nem teszi meg, 10 millió forintig terjedő mulasztási bírságot szab ki. A nyilatkozattételi kötelezettség minden további, ugyanazon megrendelő számára történő elmulasztása esetén az állami adóhatóság az előző alkalommal kiszabott mulasztási bírság kétszeresét kitevő mulasztási bírságot szab ki.
 
-(5) Az állami adóhatóság az adatváltozást az adatváltozásról való tudomásszerzés napján átvezeti az (1) bekezdés szerinti nyilvántartáson, és azt az átvezetést követő hónap első napján a honlapján közzéteszi.
+(3) Ha az adóalany az állami adóhatóság felhívására a nyilatkozattételi kötelezettségét teljesíti, akkor az állami adóhatóság a (2) bekezdés szerint utoljára kiszabott mulasztási bírságot elengedi, az (1) és (2) bekezdés szerint korábban kiszabott mulasztási bírságot pedig az Art. bírságmérséklésre vonatkozó szabályai szerint mérsékelheti vagy elengedheti.
 
-7/B. § (1) Az a 3. § (1) bekezdés szerinti adóalany, amelyet az állami adóhatóság valamely adónem hatálya alá tartozó adózóként nem vett nyilvántartásba, a 2. § (1) bekezdés szerinti adóköteles tevékenység megkezdését követő 15 napon belül köteles bejelentkezni az állami adóhatóság által rendszeresített nyomtatványon. E rendelkezés nem alkalmazható az Szja tv. szerint egyéni vállalkozónak nem minősülő magánszemély esetén.
+7/C. § Ha a 3. § (1) bekezdése szerinti adóalany adóbevallás-benyújtási kötelezettségét nem teljesítette, akkor az állami adóhatóság az adóellenőrzést megindítja és az adót becsléssel állapítja meg.
 
-(2) Ha az (1) bekezdés szerinti adóalany a bejelentkezési kötelezettségét nem teljesíti, akkor az állami adóhatóság – a kötelezettség teljesítésére való felhívás mellett – első alkalommal 10 millió forint mulasztási bírságot szab ki.
+#### 7/D. §
 
-(3) A mulasztás ismételt megállapítása esetén az állami adóhatóság az előző alkalommal kiszabott mulasztási bírság háromszorosát kitevő mulasztási bírságot szab ki.
-
-(4) Az állami adóhatóság az (1) bekezdés szerinti bejelentkezési kötelezettség elmulasztását naponta határozatban állapítja meg, amely a közléssel véglegessé válik és végrehajtható. A határozat közigazgatási perben támadható meg, mely során kizárólag okirati bizonyításnak van helye és az eljáró bíróság tárgyaláson kívül határoz.
-
-(5) Ha az adóalany az állami adóhatóság első alkalommal való felhívására bejelentkezési kötelezettségét teljesíti, akkor a (2) és (3) bekezdés szerinti bírság korlátlanul enyhíthető.
-
-7/C. § (1) Ha a reklám közzétételének megrendelése időpontjában a 7/A. § szerint közzétett nyilvántartásban nem szereplő, 3. § (1) bekezdés szerinti adóalany a 3. § (3) bekezdés szerinti nyilatkozattételi kötelezettségét a reklám-közzététel megrendelője számára nem teljesíti, akkor az állami adóhatóság a 3. § (1) bekezdés szerinti adóalanyt felhívja a 3. § (3) bekezdés szerinti nyilatkozat állami adóhatósághoz történő teljesítésére. Ezzel egyidejűleg figyelmezteti arra, hogy amennyiben a 3. § (3) bekezdés szerinti nyilatkozatot a felhívás kézhezvételétől számított 8 napon belül nem teszi meg, 500 ezer forint mulasztási bírságot kell fizetnie. E rendelkezés nem alkalmazható, ha a 3. § (1) bekezdés szerinti adóalany az Szja tv. szerint egyéni vállalkozónak nem minősülő magánszemély.
-
-(2) Ha az (1) bekezdés szerinti adóalany a 3. § (3) bekezdés szerinti nyilatkozattételi kötelezettsége teljesítését ugyanazon megrendelő számára ismételten elmulasztja, akkor az állami adóhatóság 10 millió forint mulasztási bírságot szab ki. A nyilatkozattételi kötelezettség minden további, ugyanazon megrendelő számára történő elmulasztása esetén az állami adóhatóság az előző alkalommal kiszabott mulasztási bírság háromszorosát kitevő mulasztási bírságot szab ki.
-
-(3) Az állami adóhatóság (1) és (2) bekezdés szerinti mulasztási bírságot kiszabó határozata a közléssel véglegessé válik és végrehajtható. A határozat közigazgatási perben támadható meg.
-
-7/D. § Az állami adóhatóság ugyanazon adóalany terhére a 7/B. § és a 7/C. § alapján összesen legfeljebb 1 milliárd forint mulasztási bírságot szabhat ki.
-
-7/E. § (1) Ha a 3. § (1) bekezdés szerinti adóalany adóbevallás-benyújtási kötelezettségét nem teljesítette, akkor az állami adóhatóság a megelőző naptári évvel megegyező vélelmezett adóévre 3 milliárd forint vélelmezett adót állapít meg.
-
-(2) Az adóalany az (1) bekezdés szerint vélelmezett adót megállapító határozat közlésétől számított 30 napon belül a határozatban megállapítottakkal szemben ellenbizonyítással élhet. A határidő elmulasztása jogvesztő. Ha az adóalany ellenbizonyítással nem él, a határozat az ellenbizonyításra nyitva álló határidő lejártát követő napon véglegessé válik és végrehajtható, ellene közigazgatási per nem indítható.
-
-(3) Ha az adóalany ellenbizonyítással él, akkor az állami adóhatóság az (1) bekezdés szerint vélelmezett adót megállapító határozatát visszavonja és az adót új határozatban állapítja meg, amely a közléssel véglegessé válik és végrehajtható. A határozat közigazgatási perben támadható meg.
+#### 7/E. §
 
 #### 6/A. Az Európai Bizottság C(2016) 6929 final számú határozatának végrehajtását szolgáló rendelkezések
 
@@ -188,9 +165,9 @@ reklám ellenszolgáltatás fejében történő közzététele.
 
 azzal, hogy a Mód. törvénnyel megállapított 5. § (1) bekezdés szerinti, 2017. július 1-jétől hatályos adómértéket az adóév 2017. június 30-át követő időszakára kell alkalmazni.
 
-10. § Az 5. § (3) bekezdése az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló 1407/2013/EU bizottsági rendelet (HL L 352., 2013.12.24., 1. o.) hatálya alá tartozó támogatást tartalmaz.
+10. § Az 5. § (3) bekezdése az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló 2023. december 13-i (EU) 2023/2831 bizottsági rendelet hatálya alá tartozó támogatást tartalmaz.
 
-11. § (1) A 2019. július 1. és 2025. december 31. közötti adókötelezettségre nem kell alkalmazni a 3. § (3)–(4) bekezdését, a 7. § (4)–(5) és (7) bekezdését, valamint a 7/B. §–7/E. §-t.
+11. § (1) A 2019. július 1. és 2026. június 30. közötti adókötelezettségre nem kell alkalmazni a 3. § (3)–(4) bekezdését, a 7. § (4)–(5) és (7) bekezdését, valamint a 7/B. §–7/E. §-t.
 
 (2) Az adóalany a 2019. július 1-jét magában foglaló adóév adóalapjának azon hányadára (részére) alkalmazza az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2019. évi LXXIII. törvénnyel megállapított 5/A. § szerinti adómértéket, amekkora
 
@@ -202,3 +179,5 @@ azzal, hogy az 5. § (1) bekezdés szerinti adómértéket az adóévi adóalap 
 (3) A 2019. július 1-jét magában foglaló adóévre a 7. § (3) bekezdés szerint megállapított adóelőleg felét kell megfizetni, a 7. § (4) bekezdésében szereplő – az adóalany választása szerinti, rá irányadó – egyik előlegfizetési időpontban.
 
 (4) Az (1)–(3) bekezdés rendelkezéseit a naptári évtől eltérő üzleti évet választó adóalany is alkalmazhatja.
+
+12. § A 2026. július 1-jét magában foglaló adóévre a 7. § (3) bekezdése szerint megállapított adóelőleg felét kell megfizetni, a 7. § (4) bekezdésében szereplő – az adóalany választása szerinti, rá irányadó – egyik előlegfizetési időpontban. 2026. évben a naptári évtől nem eltérő üzleti éves adóalanyok adóéve 2026. július 1-től 2026. december 31-ig tart.

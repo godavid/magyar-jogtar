@@ -204,7 +204,7 @@ szakértői névjegyzékbe az igazságügyi szakterületnek megfelelő szakterü
 
 (2) Az (1) bekezdés szerinti névjegyzék – az 1. melléklet 1.1–1.6., 1.8–1.9., 1.13., 1.15., pontjában, 1.20.1. és 1.20.2. alpontjában, valamint 1.24. és 1.25. pontjában foglalt adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
-(3) Az 1. melléklet 1.14.1. és 1.14.3–1.14.5. alpontja szerint nyilvántartott igazságügyi szakértőnek az 1. melléklet 1.1., 1.7–1.11. pontjában, 1.12.1. alpontjában, 1.13. pontjában, 1.14.4. és 1.14.5. alpontjában, 1.15. pontjában, 1.16. pontjában, 1.19. pontjában, valamint 1.21–1.24. és 1.25. pontjában foglalt adatai nyilvánosak, azokat az igazságügyi szakértői névjegyzéket vezető hatóság a kormányzati portálon közzéteszi.
+(3) Az 1. melléklet 1.14.1. és 1.14.3–1.14.5. alpontja szerint nyilvántartott igazságügyi szakértőnek az 1. melléklet 1.1., 1.7–1.11. pontjában, 1.12.1. alpontjában, 1.13. pontjában, 1.14.4. és 1.14.5. alpontjában, 1.15. pontjában, 1.16. pontjában, 1.19. pontjában, valamint 1.22–1.24. és 1.25. pontjában foglalt adatai nyilvánosak, azokat az igazságügyi szakértői névjegyzéket vezető hatóság a kormányzati portálon közzéteszi.
 
 (4) A névjegyzék (3) bekezdésben fel nem sorolt adatai nem nyilvánosak, azokról csak törvényben foglalt esetben, az arra jogosult részére adható tájékoztatás. A névjegyzéket vezető hatóság az 1. melléklet 1.12.2. és 1.12.3. alpontjában, valamint 1.17. pontjában foglalt adatok kivételével a nyilvántartás adatait a Kamara részére átadja, azokat a Kamara e törvény rendelkezései szerint nyilvántartja és kezeli.
 
@@ -2130,7 +2130,7 @@ való megfelelést szolgálja.
 - 1.14.4. névjegyzékbe bejegyzett, kamarai tagsági viszony szünetel,
 - 1.14.5. névjegyzékbe bejegyzett, kamarai tagsági viszony felfüggesztve,
 - 1.14.6. névjegyzékből törölt,
-- 1.14.7. elhunyt;
+- 1.14.7. elhalálozás miatt törölt;
 - 1.15. tudományos fokozat;
 - 1.16. nyilvántartási szám;
 - 1.17. az igazgatási ügyiratok ügyszáma;
@@ -2139,7 +2139,7 @@ való megfelelést szolgálja.
 - 1.20. a szakértő ellen
 - 1.20.1. közvádra üldözendő szándékos bűncselekmény miatt indult eljárás megindításának, megszüntetésének, illetve befejezésének ténye,
 - 1.20.2. indult fegyelmi eljárás során kiszabott fegyelmi büntetés;
-- 1.21. a Dáptv. szerinti hivatalos elérhetőség;
+- 1.21.
 - 1.22. az igazságügyi szakértő tevékenységével kapcsolatos közleményei („közlemények”);
 - 1.23. nyilatkozat arról, hogy az igazságügyi szakértő tevékenységét fő- vagy mellékállásban végzi;
 - 1.24. egyetemi vagy főiskolai végzettsége, a diploma minősítése;

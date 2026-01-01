@@ -370,7 +370,7 @@ Ha a Vámkódex 6. cikk (3) bekezdés a) pontja alapján az információcsere é
 
 (7) A vámhatóság kérheti az adatok hitelességét bizonyító okiratok bemutatását.
 
-(8) A vámhatóság vámazonosító szám igénylése esetén a bejelentés alapján EORI számot állapít meg a Vámkódex 9. cikk (1) és (2) bekezdése szerinti esetekben.
+(8) A vámhatóság vámazonosító szám igénylése esetén a bejelentés alapján EORI számot állapít meg a Vámkódex 9. cikk (1) és (2) bekezdése szerinti esetekben. Az állami adó- és vámhatóság által vezetett nyilvántartás az EORI szám és a VPID szám tekintetében közhiteles nyilvántartásnak minősül.
 
 (9) A vámhatóság az FJA 6. cikk (2) bekezdése alapján a nyilvántartásba vétel mellőzésének indokoltságát az ügy körülményeire tekintettel alkalmanként állapítja meg.
 
@@ -2254,7 +2254,9 @@ A Vámkódex 92. cikk (1) bekezdése alapján a biztosítékot nyújtó személy
 
 - a) nem áll csődeljárás, felszámolási eljárás, végelszámolási eljárás és kényszertörlési eljárás alatt,
 - b) biztosítékot nyújt garanciavállaló nyilatkozat vagy készpénz formájában, és
-- c) kérelméhez csatolja a képviseletre jogosult személy(ek) hiteles cégaláírási nyilatkozatát (közjegyzői aláírás-hitelesítéssel ellátott címpéldány) vagy cégbírósághoz benyújtott, ügyvéd vagy kamarai jogtanácsos által ellenjegyzett aláírásmintát.
+- c) kérelméhez csatolja a képviseletre jogosult személy(ek) hiteles cégaláírási nyilatkozatát (közjegyzői aláírás-hitelesítéssel ellátott címpéldány).
+
+(1a) Ha a kérelmező cégjegyzékben nyilvántartott cég és a képviselőjének közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy ügyvéd által ellenjegyzett aláírásmintáját a cégbírósághoz benyújtotta és ezt a tényt a cégjegyzék tartalmazza, a vámhatóság az iratot a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi be.
 
 (2) Az (1) bekezdés szerinti engedélyben meg kell határozni – a nyújtott biztosítékkal összhangban – a kötelezettségvállalással összességében vállalható legmagasabb összeghatárt, valamint szükség esetén az engedély érvényességi idejét.
 
@@ -3017,7 +3019,7 @@ fogadja el.
 
 (1) A vámtanácsadói tevékenység végzésére jogosult bejelentést tevőkről nyilvántartást kell vezetni. A nyilvántartás vezetésének célja annak hiteles dokumentálása, hogy a vámtanácsadói tevékenység végzésére jogosult természetes személy a 207. § (1) bekezdése szerint bejelentést tett és rendelkezik a tevékenység végzéséhez jogszabályban előírt ismeretekkel és szakmai gyakorlattal. A nyilvántartásban szereplő természetes személyek nyilvános adatainak, az azokban bekövetkezett változásoknak a közzététele az ellenőrzés lehetőségének megteremtését és az időszerű tájékoztatást szolgálja.
 
-(2) A vámtanácsadók nyilvántartása – azon adat kivételével, amelyet jogszabály más nyilvántartás részeként közhitelesnek minősít – közhiteles hatósági nyilvántartásnak minősül.
+(2) A vámtanácsadók nyilvántartása az (5) bekezdés d) pontjában foglalt adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
 (3) A vámtanácsadók nyilvántartásába való felvételre irányuló bejelentést a nyilvántartásba vételt végző szervezetnél lehet előterjeszteni.
 

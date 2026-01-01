@@ -190,7 +190,7 @@ vezetnek.
 
 15. § (1) A hadkötelezettség bevezetésének biztosítása, a hadkötelezettség alapján katonai szolgálatra történő behívás tervezése, előkészítése és végrehajtása, valamint a hadkötelezettség alapján teljesített szolgálattal kapcsolatos hatósági bizonyítványok kiadása, továbbá az önkéntes tartalékos állomány toborzása céljából a kiképzett és kiképzetlen hadkötelesekről hadköteles nyilvántartást kell vezetni.
 
-(2) Az (1) bekezdés szerinti nyilvántartás a 6. melléklet 6. pont 6.1., 6.8–6.11. alpontja, 14. és 16. pontja vonatkozásában közhiteles nyilvántartásnak minősül.
+(2) Az (1) bekezdés szerinti nyilvántartás a 6. melléklet 6. pont 6.1., 6.8–6.11. alpontja és a 6. melléklet 14. pontja vonatkozásában közhiteles nyilvántartásnak minősül.
 
 (3) A hadkötelezett állományba vétel végrehajtása céljából az (1) bekezdés szerinti nyilvántartás adatait a honvédségi szervezetek megismerik, részükre a Honvédség központi nyilvántartó szerve adatot továbbít.
 
@@ -385,6 +385,8 @@ kezeli.
 #### 16. A veszteség-nyilvántartás
 
 28. § (1) A veszteség-nyilvántartásban a (3) bekezdés szerinti személyeknek a 10. melléklet szerinti adatait kell kezelni.
+
+(1a) Az (1) bekezdés szerinti nyilvántartás a 10. melléklet 2–2.4. pontja és 4–7. pontja vonatkozásában közhiteles nyilvántartásnak minősül.
 
 (2) A veszteség-nyilvántartás adatait a katonai szolgálat felső korhatáráig a Honvédség központi nyilvántartó szerve, azt követően a hadtörténelmi levéltári feladatokat ellátó honvédelmi szervezet a rá vonatkozó törvényi rendelkezések szerint kezeli.
 
@@ -789,7 +791,7 @@ tart.
 
 - a) a kiegészítő rokkantsági támogatásban részesülő személy esetében a 20. melléklet 1–5. pontja, valamint 7. pontja szerinti,
 - b) a kiegészítő hozzátartozói támogatásban és az árvák kiegészítő támogatásában részesülő személy esetében a 20. melléklet 1., 3–5. pontja, valamint 7. pontja szerinti,
-- c) a honvédelmi alkalmazottak után járó árvák kiegészítő támogatásában részesülő személy esetében a 20. melléklet 1., 4. és 5. pontja szerinti, illetve
+- c)
 - d) az üzemi balesettel és a foglalkozási megbetegedéssel kapcsolatos
 
 adatokat.
@@ -1966,7 +1968,7 @@ kezeli.
 
 (5) A hadkötelezettek szolgálati beosztása szerint illetékes honvédelmi szervezet a részére megküldött katonai igazolványokról a hadkötelezettség fennállása idején nyilvántartást vezet, amely az (1) bekezdés szerinti adatokat tartalmazza.
 
-(6) Az (1) bekezdés szerinti nyilvántartás igazolvánnyal összefüggő, a honvédelmi szervezet által rögzített adatai tekintetében közhiteles nyilvántartásnak minősül.
+(6)
 
 (7) A (2) bekezdés a) pontja szerinti adatokat, a (2) bekezdés b) pontja szerinti érvényességi időt, valamint a (2) bekezdés d)–f) és i) pontja szerinti adatokat a katonai igazolvány angol és magyar nyelven egyaránt tartalmazza.
 
@@ -2002,7 +2004,7 @@ kiadásával összefüggő feladatok ellátása céljából kezeli a 27. mellék
 
 (7) A honvédelmi szervezet az érvényességüket vesztett, bevont igazolványokat és a bevonás okára vonatkozó adatot továbbítja a Honvédség központi nyilvántartó szerve részére az igazolvány megsemmisítése céljából.
 
-(8) Az (1) bekezdés szerinti nyilvántartás igazolvánnyal összefüggő, a honvédelmi szervezet által rögzített adatai tekintetében közhiteles nyilvántartásnak minősül.
+(8)
 
 #### 52. A katonai nyugdíjas igazolvány kiadásával kapcsolatos adatkezelés
 
@@ -2030,11 +2032,11 @@ kiadásával összefüggő feladatok ellátása céljából kezeli a 27. mellék
 
 (8) A katonai igazgatás területi szerve az érvényességüket vesztett, bevont igazolványokat és a bevonás okára vonatkozó adatot továbbítja a Honvédség központi nyilvántartó szerve részére az igazolvány megsemmisítése céljából.
 
-(9) Az (1) bekezdés szerinti nyilvántartás igazolvánnyal összefüggő, a honvédelmi szervezet által rögzített adatai tekintetében közhiteles nyilvántartásnak minősül.
+(9)
 
 #### 53. A honvédségi nyugdíjas igazolvány kiadásával kapcsolatos adatkezelés
 
-104. § (1) A Honvédség központi nyilvántartó szerve a honvédségi nyugdíjasokról a Honvédség által biztosított ellátások igénybevétele érdekében, jogosultságuk igazolására szolgáló honvédségi nyugdíjas igazolvány kiadásával összefüggő feladatok ellátása céljából e személyek 27. melléklet 1–8., 10–13. és 16. pontja szerinti adatait és az adatok hitelességét igazoló iratokat vagy másolataikat a jogosultság fennállása kezdetétől annak megszűnését követő 5 évig, vagy a hiánypótlásra nyitva álló idő eredménytelen leteltéig kezeli. Ha az igazolványra jogosult írásképtelen, cselekvőképtelen, vagy az igazolvány igénylése tekintetében cselekvőképességében korlátozott, és ezért nevében törvényes képviselője jár el, úgy az adatkezelő a törvényes képviselő 27. melléklet 1–5. és 8. pontja szerinti adatait és az adatok hitelességét igazoló iratokat vagy másolataikat is kezeli. Az e bekezdés szerinti nyilvántartás igazolvánnyal összefüggő, a honvédelmi szervezet által rögzített adatai tekintetében közhiteles nyilvántartásnak minősül.
+104. § (1) A Honvédség központi nyilvántartó szerve a honvédségi nyugdíjasokról a Honvédség által biztosított ellátások igénybevétele érdekében, jogosultságuk igazolására szolgáló honvédségi nyugdíjas igazolvány kiadásával összefüggő feladatok ellátása céljából e személyek 27. melléklet 1–8., 10–13. és 16. pontja szerinti adatait és az adatok hitelességét igazoló iratokat vagy másolataikat a jogosultság fennállása kezdetétől annak megszűnését követő 5 évig, vagy a hiánypótlásra nyitva álló idő eredménytelen leteltéig kezeli. Ha az igazolványra jogosult írásképtelen, cselekvőképtelen, vagy az igazolvány igénylése tekintetében cselekvőképességében korlátozott, és ezért nevében törvényes képviselője jár el, úgy az adatkezelő a törvényes képviselő 27. melléklet 1–5. és 8. pontja szerinti adatait és az adatok hitelességét igazoló iratokat vagy másolataikat is kezeli.
 
 (2) A honvédségi nyugdíjas igazolvány tartalmazza
 
@@ -2083,7 +2085,7 @@ kiadásával összefüggő feladatok ellátása céljából kezeli a 27. mellék
 
 (6) A honvédelmi szervezet az érvényességüket vesztett, bevont igazolványokat és a bevonás okára vonatkozó adatot továbbítja a Honvédség központi nyilvántartó szerve részére az igazolvány megsemmisítése céljából.
 
-(7) Az (1) bekezdés szerinti nyilvántartás igazolvánnyal összefüggő, a honvédelmi szervezet által rögzített adatai tekintetében közhiteles nyilvántartásnak minősül.
+(7)
 
 #### 55. A katonai rendész igazolvány kiadásával kapcsolatos adatkezelés
 
@@ -2110,7 +2112,7 @@ kiadásával összefüggő feladatok ellátása céljából kezeli a 27. mellék
 
 (7) A honvédelmi szervezet az érvényességüket vesztett, bevont igazolványokat és a bevonás okára vonatkozó adatot továbbítja a Honvédség központi nyilvántartó szerve részére az igazolvány megsemmisítése céljából.
 
-(8) Az (1) bekezdés szerinti nyilvántartás igazolvánnyal összefüggő, a honvédelmi szervezet által rögzített adatai tekintetében közhiteles nyilvántartásnak minősül.
+(8)
 
 #### 56. A Genfi Egyezménynek megfelelő személyazonossági igazolvány kiadásával kapcsolatos adatkezelés
 
@@ -2130,7 +2132,7 @@ kiadásával összefüggő feladatok ellátása céljából kezeli a 27. mellék
 
 (3) A (2) bekezdés a) és b) pontja szerinti adatokat, a (2) bekezdés c) pontja szerinti érvényességi időt, valamint a (2) bekezdés e) és h) pontja szerinti adatokat a személyazonossági igazolvány angol és magyar nyelven is tartalmazza.
 
-(4) Az (1) bekezdés szerinti nyilvántartás igazolvánnyal összefüggő, a honvédelmi szervezet által rögzített adatai tekintetében közhiteles nyilvántartásnak minősül.
+(4)
 
 (5) A honvédelmi szervezet az igazolvány érintett részére történő igénylésekor a személyügyi nyilvántartásból továbbítja az érintett 27. melléklet 1–8., 10. és 16. pontja szerinti adatait a Honvédség központi nyilvántartó szerve részére az igazolvány kiadásával összefüggő feladatok ellátása céljából.
 
@@ -2142,7 +2144,7 @@ kiadásával összefüggő feladatok ellátása céljából kezeli a 27. mellék
 
 #### 57. A belföldi katonai futárigazolvány kiadásával kapcsolatos adatkezelés
 
-108. § (1) A Honvédség központi nyilvántartó szerve Magyarország területén működtetett katonai futárszolgálatra kijelölt hivatásos, szerződéses és önkéntes tartalékos katona ez irányú jogosultságainak és a belföldi katonai futárszolgálat ellátásának igazolására szolgáló igazolvány kiadásával összefüggő feladatok ellátása, valamint a biztonsági okmány jogszerűtlen használatának vizsgálata céljából a 27. melléklet 1–8., 10–13. és 16. pontja szerinti adatokat és az adatok hitelességét igazoló iratokat vagy másolataikat a katonai futár jogosultságának kezdetétől a jogosultság megszűnését követő 5 évig, vagy a hiánypótlásra nyitva álló idő eredménytelen leteltéig kezeli. Az e bekezdés szerinti nyilvántartás igazolvánnyal összefüggő, a honvédelmi szervezet által rögzített adatai tekintetében közhiteles nyilvántartásnak minősül.
+108. § (1) A Honvédség központi nyilvántartó szerve Magyarország területén működtetett katonai futárszolgálatra kijelölt hivatásos, szerződéses és önkéntes tartalékos katona ez irányú jogosultságainak és a belföldi katonai futárszolgálat ellátásának igazolására szolgáló igazolvány kiadásával összefüggő feladatok ellátása, valamint a biztonsági okmány jogszerűtlen használatának vizsgálata céljából a 27. melléklet 1–8., 10–13. és 16. pontja szerinti adatokat és az adatok hitelességét igazoló iratokat vagy másolataikat a katonai futár jogosultságának kezdetétől a jogosultság megszűnését követő 5 évig, vagy a hiánypótlásra nyitva álló idő eredménytelen leteltéig kezeli.
 
 (2) A belföldi katonai futárigazolvány tartalmazza:
 
@@ -2182,7 +2184,7 @@ kiadásával összefüggő feladatok ellátása céljából kezeli a 27. mellék
 
 (6) A honvédelmi szervezet az érvényességüket vesztett, bevont személyi igazolójegyeket és a bevonás okára vonatkozó adatot továbbítja a Honvédség központi nyilvántartó szerve részére a személyi igazolójegy megsemmisítése céljából.
 
-(7) Az (1) bekezdés szerinti nyilvántartás személyi igazolójeggyel összefüggő, a honvédelmi szervezet által rögzített adatai tekintetében közhiteles nyilvántartásnak minősül.
+(7)
 
 #### 59. A honvédelmi ágazatban használt igazolványok közös rendelkezései
 
@@ -2372,7 +2374,7 @@ részben vagy egészben elengedheti, ha a kötelezett igazolja, hogy a tanulmán
 
 #### 127. §
 
-#### 128. §
+128. § Hatályát veszti az 54. § (2) bekezdés c) pontja.
 
 ### 1. melléklet a 2022. évi XXI. törvényhez
 

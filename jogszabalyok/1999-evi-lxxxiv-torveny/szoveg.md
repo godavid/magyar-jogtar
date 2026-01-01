@@ -214,7 +214,7 @@ a nyilvántartó a (2) bekezdés szerinti módon gondoskodik a schengeni figyelm
 
 (2) Az engedély-nyilvántartás az (1) bekezdésben meghatározott adatokon kívül tartalmazza a SIS-ben elhelyezendő figyelmeztető jelzés (a továbbiakban: figyelmeztető jelzés) kezelésével kapcsolatos, törvényben, személyes adatoknak nem minősülő adatok esetében jogszabályban meghatározott adatokat is.
 
-(3) Az engedély-nyilvántartás az (1) és (2) bekezdésben meghatározott adatok tekintetében – az (1) bekezdés a) pont aa), ab), ai) , aj) és ak) alpontjában foglalt adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+(3) Az engedély-nyilvántartás az (1) és (2) bekezdésben meghatározott adatok tekintetében – az (1) bekezdés a) pont aa), ab), af), ag), ai), ak) és al) alpontjában foglalt adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
 8/A. § (1) A parkolási igazolvány nyilvántartása tartalmazza
 
@@ -287,7 +287,7 @@ feltéve, hogy az a járművek számára ténylegesen tárolási helyéül szolg
 
 (6a) A járműnyilvántartás tartalmazza a természetes személlyel szemben megindított bírósági adósságrendezési eljárás tényét.
 
-(7) A járműnyilvántartás az (1)–(5) bekezdésben meghatározott adatok tekintetében – a természetes személyazonosító, valamint a lakcím-azonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+(7) A járműnyilvántartás az (1)–(4) bekezdésben meghatározott adatok tekintetében – az (1) bekezdés a)–d) pontjában foglalt adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
 (8) A származás-ellenőrzéssel kapcsolatos adatok nyilvántartásba vételével összefüggő közlekedési igazgatási hatósági eljárás során a járművet hatósági jelzéssel és engedéllyel ellátni abban az esetben lehet, ha a kötelező gépjármű-felelősségbiztosítás fedezetének meglétét a jármű tulajdonosa igazolta, valamint ha a külön jogszabály alapján a közlekedési hatóság a járművet a közúti forgalomban való részvételre alkalmasnak minősítette.
 
@@ -320,7 +320,7 @@ feltéve, hogy az a járművek számára ténylegesen tárolási helyéül szolg
 
 (3) Az (1) bekezdés j) pontjában és a 9. § (1) bekezdés a)–d) pontjában szereplő adatok a járműnyilvántartásból elektronikus adatkapcsolat útján térítésmentesen ellenőrzésre kerülnek, amennyiben azok a járműnyilvántartásban szerepelnek.
 
-(4) Az előzetes eredetiségvizsgálati nyilvántartás az (1) bekezdés c)–h) pontjában meghatározott adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
+(4) Az előzetes eredetiségvizsgálati nyilvántartás az (1) bekezdés d)–h) pontjában meghatározott adatok tekintetében – a természetes személyazonosító, valamint a lakcím-azonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
 (5) A közlekedési igazgatási hatóság a közlekedési igazgatási eljárás során informatikai adatkapcsolat útján közvetlen bekérdezéssel jogosult megismerni az alvázszámmal azonosított jármű eredetiségvizsgálata során megállapított minősítést és annak időpontját.
 
@@ -369,7 +369,7 @@ feltéve, hogy az a járművek számára ténylegesen tárolási helyéül szolg
 - d) szerződés és kockázatviselés kezdetét és végét, valamint
 - e) szerződő fél megnevezését.
 
-(5) Az ideiglenes rendszámtáblák nyilvántartása az (1)–(4a) bekezdésben meghatározott adatok tekintetében – a természetes személyazonosító, valamint a lakcímazonosító adatok és a (2) bekezdés e) pontjában szereplő elektronikus okiratok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+(5) Az ideiglenes rendszámtáblák nyilvántartása az (1)–(4a), valamint a (6) bekezdésben meghatározott adatok tekintetében – az (1) bekezdés a)–d) pontjában foglalt adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
 (6) Az ideiglenes rendszámtáblák nyilvántartása az (1)–(4) bekezdésben meghatározott adatokon kívül tartalmazza a figyelmeztető jelzés kezelésével kapcsolatos, jogszabályban meghatározott adatokat is.
 

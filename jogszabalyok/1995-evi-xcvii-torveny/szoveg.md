@@ -458,7 +458,7 @@ vonatkozó azon döntéseiről, amelyek a meglévő tanúsítványok és engedé
 
 (6) A lajstromba vett légijárműre, repülőeszközre — a lajstromba történt bejegyzéssel — jelzálogot lehet alapítani.
 
-(7) A lajstrom nyilvános, közhiteles nyilvántartás. A bejegyzett adatokról a légiközlekedési hatóság — kérelemre — tájékoztatást (kivonatot) ad.
+(7) A lajstrom nyilvános, valamint a légi közlekedésről szóló 1995. évi XCVII. törvény végrehajtásáról szóló kormányrendelet szerinti adatok tekintetében közhiteles nyilvántartás. A bejegyzett adatokról a légiközlekedési hatóság – kérelemre – tájékoztatást (kivonatot) ad.
 
 13. § (1) A légiközlekedési hatóság a lajstromba felveszi a biztonságos repülésre alkalmas polgári légijárművet, amely más állam légijármű lajstromában nem szerepel, légialkalmassági bizonyítvánnyal és – az Európai Gazdasági Térség területén kívülről történő behozatal esetén – az Európai Gazdasági Térségről szóló megállapodásban részes állam vámhatósága vámkezelését igazoló okmánnyal rendelkezik. Bérelt légijármű lajstromba vétele esetén a tulajdonos hozzájárulása szükséges a lajstromba vételhez.
 
@@ -631,7 +631,7 @@ vezetett nyilvántartások adatait a nemzetbiztonsági szolgálatokról szóló 
 - f) a repülés végrehajtásának kiegészítő feltételeit,
 - g) az üzemben tartási engedély időbeli hatályát.
 
-(7a) Az üzemben tartási engedélyekről vezetett nyilvántartás a (7) bekezdésben meghatározott adatok vonatkozásában – a (7) bekezdés a) pontjában foglalt adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+(7a)
 
 (8) A polgári légiközlekedés tekintetében az üzemben tartás feltételeit az (1) bekezdés a) és c) pontjában és a (3) bekezdésben meghatározott esetekben a miniszter állapítja meg.
 
@@ -1331,7 +1331,7 @@ köteles elhelyezni és karbantartani.
 
 53. § (1) A szakszolgálati engedély azt igazolja, hogy a légijármű vezetője, továbbá a szakszemélyzet tagja az adott tevékenység ellátására szakmailag alkalmas.
 
-(2) A szakszolgálati engedélyt a légiközlekedési hatóság, illetve a katonai légügyi hatóság adja ki. A légiközlekedési hatóság, illetve a katonai légügyi hatóság a kiadott szakszolgálati engedélyekről nyilvántartást vezet, amely nyilvántartás közhiteles hatósági nyilvántartásnak minősül.
+(2) A szakszolgálati engedélyt a légiközlekedési hatóság, illetve a katonai légügyi hatóság adja ki. A légiközlekedési hatóság, illetve a katonai légügyi hatóság a kiadott szakszolgálati engedélyekről nyilvántartást vezet.
 
 (3) A szakszolgálati engedély jogszabályban meghatározott feltételek hiánya esetén, vagy ha tulajdonosa a tevékenység folytatásának szabályait szándékosan vagy gondatlanul megszegi, meghatározott időre felfüggeszthető. Amennyiben a feltételek nem teljesülnek, az engedélyt vissza kell vonni.
 

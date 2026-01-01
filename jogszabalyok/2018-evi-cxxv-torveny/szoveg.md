@@ -525,7 +525,7 @@ helyettesíti.
 - a) összeférhetetlenségi nyilatkozatokat és érdekeltségi nyilatkozatokat rendszeresen, mintavételes eljárással, valamint hatósági nyilvántartások és nyilvánosan elérhető információk, valamint megkeresés útján megismerhető adatok, továbbá az ellenőrzött személyes kapcsolataira vonatkozó nyilatkozata alapján ellenőriz,
 - b) kockázatelemzést végez,
 - c) gondoskodik az összeférhetetlenségi helyzetek megelőzése érdekében a tudatosság növeléséről és az intézményrendszer uniós támogatások végrehajtásáért felelős szereplőinek képzéséről,
-- d) együttműködik a büntetőeljárásban eljáró szervekkel.
+- d) az Igazgatóságot megillető, a büntetőeljárásról szóló 2017. évi XC. törvény 58. §-ban meghatározott egyéb érdekelti jogállásból eredő jogosultságokra is tekintettel együttműködik a büntetőeljárásban eljáró szervekkel.
 
 (3a) A (3) bekezdés a) pont szerinti
 
@@ -685,7 +685,7 @@ való hozzáférést.
 
 (9) A Nemzeti Fejlesztési Központ önálló gazdasági szervezettel rendelkezik.
 
-(10)
+(10) A Nemzeti Fejlesztési Központ a Magyarország kiberbiztonságáról szóló törvény alkalmazásában központi kormányzati igazgatási szervként központi államigazgatási szervnek minősül.
 
 #### 33/D. § [A Nemzeti Fejlesztési Központ vezetője és vezetőhelyettese]
 
@@ -2097,7 +2097,7 @@ ha a kormánytisztviselő álláshelyi feladatai körébe az adott nemzetiségi 
 
 ha a kormánytisztviselő álláshelyi feladatai körébe az adott nemzetiségi önkormányzatot érintő ügyek tartoznak és a kormányzati igazgatási szerv illetékessége a helyi nemzetiségi önkormányzatra kiterjed.
 
-(5) A kormánytisztviselő további munkavégzésre irányuló jogviszonyt, ideértve más keresőfoglalkoztatást, valamint díjazás ellenében folytatott tevékenységet is – a tudományos, oktatói, művészeti, lektori, szerkesztői, jogi oltalom alá eső szellemi tevékenység, a nevelőszülői foglalkoztatási jogviszony , az állami projektértékelői jogviszony és az Európai Unió Tanácsa 2024. második félévi magyar elnökségével kapcsolatos feladatok ellátására irányuló jogviszony (a továbbiakban együtt: gyakorolható tevékenység), továbbá a közérdekű önkéntes tevékenység kivételével – kizárólag a munkáltatói jogkör gyakorlójának előzetes engedélyével létesíthet.
+(5) A kormánytisztviselő további munkavégzésre irányuló jogviszonyt, ideértve más keresőfoglalkoztatást, valamint díjazás ellenében folytatott tevékenységet is – a tudományos, oktatói, művészeti, lektori, szerkesztői, jogi oltalom alá eső szellemi tevékenység, a nevelőszülői foglalkoztatási jogviszony és az állami projektértékelői jogviszony (a továbbiakban együtt: gyakorolható tevékenység), továbbá a közérdekű önkéntes tevékenység kivételével – kizárólag a munkáltatói jogkör gyakorlójának előzetes engedélyével létesíthet.
 
 (6) A kormánytisztviselő annak létesítését megelőzően köteles írásban bejelenteni a munkáltatói jogkör gyakorlója részére a gyakorolható tevékenység végzésére irányuló jogviszonyt, valamint a közérdekű önkéntes tevékenység végzésére irányuló jogviszonyt.
 
@@ -3680,11 +3680,11 @@ Az időtartam elteltével a fegyelmi büntetést minden nyilvántartásból tör
 
 #### 168. § [A jogvita]
 
-(1) A kormánytisztviselő a kormányzati szolgálati jogviszonyból származó igényének érvényesítése érdekében közszolgálati panaszt nyújthat be a 80. § (3) bekezdésében meghatározott kormányzati igazgatási szerv ellen. A kormányzati igazgatási szerv és az érdekképviseleti szerv az e törvényből származó igényét bíróság előtt érvényesítheti.
+(1) A kormánytisztviselő a kormányzati szolgálati jogviszonyból, a kormányzati igazgatási szervnél foglalkoztatott munkavállaló a munkaviszonyból származó igényének érvényesítése érdekében közszolgálati panaszt nyújthat be a 80. § (3) bekezdésében meghatározott kormányzati igazgatási szerv ellen. A kormányzati igazgatási szerv és az érdekképviseleti szerv az e törvényből származó igényét bíróság előtt érvényesítheti.
 
 (2) A közszolgálati panaszt a sérelmesnek tartott munkáltatói intézkedésről szóló irat kézbesítésétől számított harminc napon belül lehet a Közszolgálati Döntőbizottsághoz benyújtani
 
-- a) a kormányzati szolgálati jogviszony megszűnése és megszüntetése,
+- a) a kormányzati szolgálati jogviszony, illetve a munkaviszony megszűnése és megszüntetése,
 - b) az összeférhetetlenség megszüntetésére irányuló írásbeli felszólítás,
 - c) a teljesítményértékelés,
 - d) a fegyelmi és kártérítési ügyben hozott határozat,
@@ -3693,16 +3693,19 @@ Az időtartam elteltével a fegyelmi büntetést minden nyilvántartásból tör
 - g) a fizetési felszólítás
 - h) a tartós külszolgálat megszűnése és megszüntetése,
 - i) a tartós külszolgálatra kihelyezés és annak egyoldalú módosítása
+- j) a munkaszerződés egyoldalú módosítása,
+- k) a munkavállaló kötelezettségszegése miatt alkalmazott jogkövetkezmény,
+- l) az Mt. 81. § (1) bekezdése szerinti értékelés
 
 tárgyában.
 
 (3) A (2) bekezdésben meghatározottakon túli igény esetén a közszolgálati panaszt az elévülési időn belül lehet előterjeszteni.
 
-(4) A Közszolgálati Döntőbizottság döntésével szemben a kormánytisztviselő, illetve a kormányzati igazgatási szerv bírósághoz fordulhat.
+(4) A Közszolgálati Döntőbizottság döntésével szemben a kormánytisztviselő, a kormányzati igazgatási szervnél foglalkoztatott munkavállaló, illetve a kormányzati igazgatási szerv bírósághoz fordulhat.
 
-(5) A kormánytisztviselő közvetlenül a bírósághoz fordulhat keresetével, ha a Közszolgálati Döntőbizottság a (10) bekezdésben meghatározott határidőn belül nem bírálja el a közszolgálati panaszt. Ebben az esetben a keresetlevelet a határidő lejártától számított harminc napon belül lehet előterjeszteni.
+(5) A kormánytisztviselő, illetve a kormányzati igazgatási szervnél foglalkoztatott munkavállaló közvetlenül a bírósághoz fordulhat keresetével, ha a Közszolgálati Döntőbizottság a (10) bekezdésben meghatározott határidőn belül nem bírálja el a közszolgálati panaszt. Ebben az esetben a keresetlevelet a határidő lejártától számított harminc napon belül lehet előterjeszteni.
 
-(6) A jogviszony közös megegyezéssel történő megszüntetésére vonatkozó megállapodás megtámadása esetén a kormánytisztviselő a közszolgálati panaszt, a 80. § (3) bekezdésében meghatározott kormányzati igazgatási szerv a keresetlevelet a 74. § (10) és (11) bekezdése szerinti megtámadás eredménytelenségének megállapításától számított harminc napon belül terjesztheti elő. A megtámadás eredménytelen, ha a másik fél annak közlésétől számított tizenöt napon belül nem válaszol, vagy azt nem fogadja el.
+(6) A jogviszony közös megegyezéssel történő megszüntetésére vonatkozó megállapodás megtámadása esetén a kormánytisztviselő, illetve a kormányzati igazgatási szervnél foglalkoztatott munkavállaló a közszolgálati panaszt, a 80. § (3) bekezdésében meghatározott kormányzati igazgatási szerv a keresetlevelet a 74. § (10) és (11) bekezdése szerinti megtámadás eredménytelenségének megállapításától számított harminc napon belül terjesztheti elő. A megtámadás eredménytelen, ha a másik fél annak közlésétől számított tizenöt napon belül nem válaszol, vagy azt nem fogadja el.
 
 (7) A kormányzati igazgatási szerv mérlegelési jogkörébe tartozó döntése ellen a kormánytisztviselő a Közszolgálati Döntőbizottsághoz akkor fordulhat, ha e törvény megengedi.
 
@@ -4128,6 +4131,8 @@ miatt szűnt meg.
 
 (11) A politikai felsővezető szabadságát a politikai szolgálati jogviszony megszűnésekor meg kell váltani, ha a munkáltatói jogkör gyakorlója az arányos szabadságot nem adta ki.
 
+(12) Ha a politikai felsővezető – a miniszterelnök kivételével – megbízatása a politikai felsővezető halála miatt szűnik meg, a politikai felsővezető kinevezését a politikai felsővezető halálát követő naptól e törvény erejénél fogva visszavontnak kell tekinteni.
+
 ### XXVI. Fejezet — A MINISZTERELNÖK
 
 #### 188. § [A miniszterelnök megválaszthatóságának feltételei]
@@ -4264,9 +4269,7 @@ vonatkozó előírásokat alkalmazni kell.
 
 (4) Felmentés esetén a miniszter megbízatása megszűnésének időpontját a miniszterelnök javaslatára a köztársasági elnök határozza meg azzal, hogy a (2) és (3) bekezdés szerinti felmentés esetében az időpont nem lehet későbbi a miniszterelnök (2) bekezdés szerinti kezdeményezésétől számított tizenötödik napnál.
 
-#### 199. § [A miniszter halála]
-
-Ha a miniszter megbízatása az Alaptörvény 20. cikk (3) bekezdés d) pontjában meghatározott ok miatt szűnik meg, ennek tényéről a miniszterelnök közleményben ad tájékoztatást, amit a Magyar Közlönyben közzé kell tenni.
+#### 199. §
 
 #### 200. § [Eljárás a miniszter megbízatásának megszűnése esetén]
 
@@ -4318,7 +4321,7 @@ Ha a miniszter megbízatása az Alaptörvény 20. cikk (3) bekezdés d) pontjáb
 
 (2) Ha a miniszterelnök politikai igazgatójának megbízatása az (1) bekezdés a) pontja alapján szűnt meg, a miniszterelnök politikai igazgatója az új Kormány megalakulásáig vagy az (1) bekezdés b)–d) pontjában meghatározott feltétel bekövetkeztéig gyakorolja hatáskörét.
 
-(3) Ha a miniszterelnök politikai igazgatójának megbízatása az (1) bekezdés d) pontja alapján szűnik meg, ennek tényét a miniszterelnök állapítja meg.
+(3)
 
 #### 201/C. § [A miniszterelnök politikai igazgatójának lemondása]
 
@@ -4374,7 +4377,7 @@ A miniszterelnök nemzetbiztonsági főtanácsadója tekintetében a XXVII/A. Fe
 
 (2) Ha az államtitkár megbízatása az (1) bekezdés a) pontja alapján szűnt meg, az államtitkár az új Kormány megalakulásáig vagy az (1) bekezdés b)–d) pontjában meghatározott feltétel bekövetkeztéig gyakorolja hatáskörét.
 
-(3) Ha az államtitkár megbízatása az (1) bekezdés d) pontja alapján szűnik meg, ennek tényéről a miniszter közleményben ad tájékoztatást, amit a Magyar Közlönyben közzé kell tenni.
+(3)
 
 #### 204. § [Az államtitkár lemondása]
 
@@ -4649,6 +4652,10 @@ nevezhető ki.
 
 (4) A biztosi jogviszonyban álló személyre a 82. § (2)–(4) bekezdését alkalmazni kell.
 
+(5) A biztosi jogviszonyban álló személy biztosi jogviszonya halálával megszűnik.
+
+(6) Ha a biztosi jogviszony az (5) bekezdés alapján szűnik meg, a kinevezésére vonatkozó normatív határozat vagy normatív utasítás e törvény erejénél fogva hatályát veszti.
+
 ## HETEDIK RÉSZ — A KORMÁNYZATI SZOLGÁLATI JOGVISZONYBAN ÁLLÓ VEZETŐK
 
 ### XXXII. Fejezet — A SZAKMAI FELSŐVEZETŐ
@@ -4701,6 +4708,8 @@ A fegyelmi vétséget elkövető közigazgatási államtitkárral, valamint hely
 - e) hivatalvesztés fegyelmi büntetéssel,
 - f) álláshelyének a központosított álláshelyállományba kerülésével.
 
+(1a) Ha a közigazgatási államtitkár és a helyettes államtitkár megbízatása az (1) bekezdés a) pontja alapján szűnik meg, a közigazgatási államtitkár és a helyettes államtitkár kinevezését a közigazgatási államtitkár, illetve a helyettes államtitkár halálát követő naptól e törvény erejénél fogva visszavontnak kell tekinteni.
+
 (2) A közigazgatási államtitkár és a helyettes államtitkár kormányzati szolgálati jogviszonya megszüntethető:
 
 - a) e tisztségéről történő lemondással,
@@ -4744,7 +4753,7 @@ A fegyelmi vétséget elkövető közigazgatási államtitkárral, valamint hely
 
 (5) Ha a közigazgatási államtitkár kormányzati szolgálati jogviszonya a 228. § (1) bekezdés b), d) vagy f) pontja, illetve a 228. § (2) bekezdés a) pontja alapján szűnik meg, a megbízatás megszűnésének tényét a miniszterelnök előterjesztésére a köztársasági elnök állapítja meg.
 
-(6) Ha a közigazgatási államtitkár megbízatása a 228. § (1) bekezdés a) pontja alapján szűnik meg, ennek tényéről a miniszter közleményben ad tájékoztatást, amit a Magyar Közlönyben közzé kell tenni.
+(6)
 
 #### 232. § [A közigazgatási államtitkár lemondása]
 
@@ -4819,9 +4828,9 @@ A helyettes államtitkár az 1. mellékletben meghatározott helyettes államtit
 
 (1) Ha a helyettes államtitkár kormányzati szolgálati jogviszonya a 228. § (1) bekezdés b) vagy d) pontja, illetve a 228. § (2) bekezdés a) pontja alapján szűnik meg, a megbízatás megszűnésének tényét a minisztérium helyettes államtitkára esetében a miniszter előterjesztésére, a Miniszterelnöki Kormányiroda helyettes államtitkára esetében a Miniszterelnöki Kormányiroda közigazgatási államtitkárának előterjesztésére, a Politikai Igazgatói Irodán működő helyettes államtitkár esetében a miniszterelnök politikai igazgatójának előterjesztésére, a Nemzeti Fejlesztési Központ helyettes államtitkára esetén az európai uniós források felhasználásáért felelős miniszter előterjesztésére a miniszterelnök állapítja meg.
 
-(1a) Ha a helyettes államtitkár megbízatása a 228. § (1) bekezdés a) pontja alapján szűnik meg, ennek tényéről a miniszter közleményben ad tájékoztatást, amit a Magyar Közlönyben közzé kell tenni.
+(1a)
 
-(2) A helyettes államtitkár kormányzati szolgálati jogviszonyának megszűnésével vagy megszüntetésével kapcsolatos munkáltatói intézkedéseket a miniszterelnök határozata és a miniszter (1a) bekezdés szerinti közleménye alapján a közigazgatási államtitkár, a Nemzeti Fejlesztési Központ helyettes államtitkára esetén a 33/B. § (1) bekezdése szerinti államtitkár teszi meg.
+(2) A helyettes államtitkár kormányzati szolgálati jogviszonyának megszűnésével vagy megszüntetésével kapcsolatos munkáltatói intézkedéseket a miniszterelnök határozata a közigazgatási államtitkár, a Nemzeti Fejlesztési Központ helyettes államtitkára esetén a 33/B. § (1) bekezdése szerinti államtitkár teszi meg.
 
 #### 237. § [A helyettes államtitkár összeférhetetlensége]
 
@@ -5194,7 +5203,7 @@ illetménynek megfelelő összeg.
 
 (1) A kormányzati igazgatási szervnél foglalkoztatott munkavállalók munkaviszonyára az Mt.-t az e törvényben meghatározott eltérésekkel kell alkalmazni.
 
-(2) A kormányzati igazgatási szervnél foglalkoztatott munkavállaló munkaviszonyára a 71. § (8)–(15) bekezdését, a 72. §-t, 82. § (7)–(9) bekezdését, a 95. § (5)–(7) bekezdését, a 104. § (1) bekezdés k)–m) pontját és a 107. § (2) bekezdés f) pontját alkalmazni kell azzal, hogy a munkaviszonynak 104. § (1) bekezdés k)–m) pontja alapján történő megszűnése esetén a munkavállaló végkielégítésre jogosult, a munkaviszonynak 107. § (2) bekezdés f) pontja alapján történő megszüntetése esetén felmondási időre és végkielégítésre nem jogosult.
+(2) A kormányzati igazgatási szervnél foglalkoztatott munkavállaló munkaviszonyára a 71. § (8)–(15) bekezdését, a 72. §-t, 82. § (7)–(9) bekezdését, a 95. § (5)–(7) bekezdését, a 104. § (1) bekezdés k)–m) pontját és a 107. § (2) bekezdés f) pontját, valamint a 168. §-t alkalmazni kell azzal, hogy a munkaviszonynak 104. § (1) bekezdés k)–m) pontja alapján történő megszűnése esetén a munkavállaló végkielégítésre jogosult, a munkaviszonynak 107. § (2) bekezdés f) pontja alapján történő megszüntetése esetén felmondási időre és végkielégítésre nem jogosult.
 
 (3) A munkáltató működésével összefüggő okból történő felmondás esetén a munkavállaló a munkavégzési kötelezettség alóli mentesítés idejére járó távolléti díjra havonta egyenlő részletben jogosult, a végkielégítést pedig a felmondási idő utolsó napján kell kifizetni.
 
@@ -5304,7 +5313,7 @@ illetménynek megfelelő összeg.
   - b) az, aki a saját háztartásában élő gyermeket örökbe kívánja fogadni, és az erre irányuló eljárás már folyamatban van,
   - c) a gyám,
   - d) a nevelőszülő és a helyettes szülő;
-- 34. további jogviszony: különösen a közszolgálati jogviszony, a fennálló kormányzati szolgálati jogviszony esetén másik kormányzati szolgálati jogviszony, az adó- és vámhatósági szolgálati jogviszony, a munkaviszony, a politikai szolgálati jogviszony, a közalkalmazotti jogviszony, a honvédelmi alkalmazotti jogviszony, a rendvédelmi igazgatási szolgálati jogviszony, a nemzetbiztonsági szolgálati jogviszony, a nemzetbiztonsági alkalmazotti jogviszony, a bírósági szolgálati, igazságügyi alkalmazotti szolgálati, illetve munkaviszony, ügyészségi, hivatásos (szerződéses) szolgálati jogviszony, ösztöndíjas foglalkoztatási jogviszony, bedolgozói munkaviszony, a munkavégzési kötelezettséget magában foglaló szövetkezeti tagsági viszony, a szakcsoporti tagsági viszony, a vállalkozási és megbízási szerződésen alapuló, valamint a személyes közreműködéssel járó gazdasági és polgári jogi társasági vagy egyéni cég tagjaként végzett tevékenység, az ügyvédi és az egyéni vállalkozói tevékenység, valamint a tudományos, oktatói, művészeti, lektori, szerkesztői, valamint jogi oltalom alá eső szellemi tevékenység végzésére irányuló jogviszony, a nevelőszülői foglalkoztatási jogviszony, a közérdekű önkéntes tevékenység végzésére irányuló jogviszony , az állami projektértékelői jogviszony és az Európai Unió Tanácsa 2024. második félévi magyar elnökségével kapcsolatos feladatok ellátására irányuló jogviszony.
+- 34. további jogviszony: különösen a közszolgálati jogviszony, a fennálló kormányzati szolgálati jogviszony esetén másik kormányzati szolgálati jogviszony, az adó- és vámhatósági szolgálati jogviszony, a munkaviszony, a politikai szolgálati jogviszony, a közalkalmazotti jogviszony, a honvédelmi alkalmazotti jogviszony, a rendvédelmi igazgatási szolgálati jogviszony, a nemzetbiztonsági szolgálati jogviszony, a nemzetbiztonsági alkalmazotti jogviszony, a bírósági szolgálati, igazságügyi alkalmazotti szolgálati, illetve munkaviszony, ügyészségi, hivatásos (szerződéses) szolgálati jogviszony, ösztöndíjas foglalkoztatási jogviszony, bedolgozói munkaviszony, a munkavégzési kötelezettséget magában foglaló szövetkezeti tagsági viszony, a szakcsoporti tagsági viszony, a vállalkozási és megbízási szerződésen alapuló, valamint a személyes közreműködéssel járó gazdasági és polgári jogi társasági vagy egyéni cég tagjaként végzett tevékenység, az ügyvédi és az egyéni vállalkozói tevékenység, valamint a tudományos, oktatói, művészeti, lektori, szerkesztői, valamint jogi oltalom alá eső szellemi tevékenység végzésére irányuló jogviszony, a nevelőszülői foglalkoztatási jogviszony, a közérdekű önkéntes tevékenység végzésére irányuló jogviszony és az állami projektértékelői jogviszony.
 
 (2)
 
@@ -5806,7 +5815,9 @@ alkalmazni kell.
 
 (4) A (2) bekezdés szerinti szolgálati elismerés összegét a Módtv10. hatálybalépését követő 60 napon belül ki kell fizetni a kormánytisztviselő részére.
 
-#### 304. §
+#### 304. § [Átmeneti rendelkezés a közszolgálati tárgyú törvények módosításáról szóló 2025. évi CXXI. törvényhez]
+
+E törvénynek a közszolgálati tárgyú törvények módosításáról szóló 2025. évi CXXI. törvénnyel módosított 168. §-a szerinti, a kormányzati igazgatási szervnél foglalkoztatott munkavállalók jogvitájára vonatkozó rendelkezéseit e rendelkezés hatálybalépését követően meghozott munkáltatói intézkedésre kell alkalmazni.
 
 #### 305. §
 

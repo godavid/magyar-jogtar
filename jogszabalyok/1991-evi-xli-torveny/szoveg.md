@@ -221,7 +221,7 @@ a közjegyzőkről
 
 (2) A területi kamara elnöksége a közjegyzői szolgálat megszűnése miatt megüresedő vagy megüresedett közjegyzői állásról
 
-- a) ha a közjegyzői szolgálat előreláthatólag azért szűnik meg, mert a közjegyző betölti azt a kort, amikor a törvény alapján a közjegyzői szolgálata megszűnik, legkésőbb a szolgálat megszűnésének várható időpontját hat hónappal megelőzően; vagy
+- a) ha a közjegyzői szolgálat előreláthatólag azért szűnik meg, mert a közjegyző betölti azt a kort, amikor a törvény alapján a közjegyzői szolgálata megszűnik és a közjegyző nem nyújtott be közjegyzői szolgálat meghosszabbítása iránti kérelmet, legkésőbb a szolgálat megszűnésének várható időpontját 7 hónappal megelőzően; vagy
 - b) ha a közjegyzői szolgálat a közjegyző halála miatt szűnik meg, a halál tényének a területi elnökség tudomására jutásától számított 8 napon belül
 
 tájékoztatja a minisztert. A közjegyzői álláshelyre a pályázatot a miniszter a tájékoztatás kézhezvételét követő 45 napon belül, hirdetmény közzététele útján írja ki.
@@ -232,15 +232,21 @@ tájékoztatja a minisztert. A közjegyzői álláshelyre a pályázatot a minis
 - b) a közjegyzői szolgálat megszűnése esetén az ennek megállapításáról szóló határozat véglegessé válását;
 - c) a fegyelmi bíróság hivatalvesztést, érdemtelenséget vagy alkalmatlanságot megállapító jogerős határozatának kézhezvételét;
 - d) a pályázati eljárás eredménytelenné vagy érvénytelenné nyilvánítását;
-- e)
-- f) újonnan létrehozott álláshely esetén az álláshelyet létrehozó jogszabály kihirdetését; valamint
-- g) a területi kamara elnökségének a (2) bekezdésben foglalt tájékoztatása hiányában az álláshely megüresedéséről való tudomásszerzést
+- e) a közjegyzői álláshely kérelemre történő áthelyezés miatti megüresedését;
+- f) újonnan létrehozott álláshely esetén az álláshelyet létrehozó jogszabály kihirdetését;
+- g) a területi kamara elnökségének a (2) bekezdésben foglalt tájékoztatása hiányában az álláshely megüresedéséről való tudomásszerzést; valamint
+- h) a közjegyző a szolgálatának meghosszabbítása iránti kérelmét visszautasító vagy elutasító döntés véglegessé válását
 
 követő 45 napon belül, hirdetmény közzététele útján írja ki.
 
-(4)
+(4) A területi kamara a honlapján a közjegyzői álláshely megüresedéséről
 
-(5)
+- a) a (2) bekezdés szerinti tájékoztatás iránti intézkedésével egyidejűleg, vagy
+- b) a miniszternek a (3) bekezdés szerinti körülmény bekövetkezéséről való tájékoztatása alapján, legkésőbb a miniszteri tájékoztatás közlését követő munkanapon
+
+tájékoztatást tesz közzé. A tájékoztatás közzétételétől számított 15 napon belül a 20. § (3) bekezdése szerinti áthelyezési kérelem előterjesztésének van helye.
+
+(5) Nincs helye pályázat kiírásának, ha a közjegyzői álláshely vonatkozásában közjegyző áthelyezési kérelme kerül benyújtásra, ebben az esetben a pályázat kiírásának határideje az áthelyezési kérelmet visszautasító vagy elutasító döntés véglegessé válását követő napon újra kezdődik.
 
 (6)
 
@@ -268,7 +274,24 @@ követő 45 napon belül, hirdetmény közzététele útján írja ki.
 
 (2e)
 
-(3) Ha a közjegyzői álláshelyet a miniszter – a 18. §-ban foglaltak szerint – más székhelyre kinevezett közjegyzővel tölti be, a közjegyzőt e székhelyre helyezi át. A közjegyző a kinevezésétől számított 3 éven belül csak a kinevezését követően felmerült különös méltánylást érdemlő okból helyezhető át. A különös méltánylást érdemlő okra a pályázó közjegyzőnek a pályázat benyújtásával egyidejűleg hivatkoznia kell.
+(3) A miniszter a közjegyzőt kérelmére megüresedett, megüresedő vagy újonnan létrehozott közjegyzői székhelyre (álláshelyre) pályázat kiírása nélkül áthelyezheti. Az áthelyezési kérelmet a betölteni kívánt székhely (álláshely) szerint illetékes területi kamara elnöksége útján az országos kamara bevonásával kell a miniszterhez benyújtani.
+
+(3a) A (3) bekezdés szerint nincs helye áthelyezésnek a közjegyző kinevezését követő 3 éven belül és azon időpontot megelőző 5 éven belül, amikor a közjegyző betölti azt a kort, amikor a törvény alapján a közjegyzői szolgálata megszűnik.
+
+(3b) A területi kamara a kérelmet a benyújtástól számított 15 napon belül véleményével együtt küldi meg az országos kamarának. A területi kamara a véleményét
+
+- a) a legutóbbi működési vizsgálat eredménye,
+- b) az áthelyezési kérelem benyújtását megelőző két évben a közjegyzővel szemben felmerült panaszok száma és jellege,
+- c) a közjegyző továbbképzési kötelezettségének teljesítése, valamint
+- d) a kamarában végzett tevékenysége
+
+alapján alakítja ki.
+
+(3c) Az országos kamara – amennyiben szükségesnek tartja saját véleményével együtt – a kérelmet és a területi kamara véleményét annak megküldésétől számított 8 napon belül továbbítja a miniszter részére.
+
+(3d) A miniszter a kérelemről – miniszteri rendeletben rögzített mérlegelési szempontok figyelembevételével –, annak kézhezvételétől számított 30 napon belül dönt.
+
+(3e) A miniszter a meghozott döntéséről értesíti a területi kamara elnökségét, valamint az országos kamarát.
 
 (4) Az áthelyezéssel a közjegyző szolgálata folyamatos marad, de megváltozik az álláshelye, székhelye és illetékességi területe, továbbá – a kölcsönös áthelyezés esetét kivéve – eredeti álláshelye megüresedik. A közjegyző áthelyezése nem érinti a korábbi székhelyén lefolytatott eljárásokkal kapcsolatos felelősségét, illetve sérelemdíj fizetési kötelezettségét. Az áthelyezésre megfelelően alkalmazni kell a kinevezésre vonatkozó szabályokat.
 
@@ -298,6 +321,51 @@ követő 45 napon belül, hirdetmény közzététele útján írja ki.
 
 (6) A bizalmi szolgáltató az elektronikus aláíráshoz tartozó tanúsítvány érvényességét a kamara megkeresésére haladéktalanul felfüggeszti, illetve a tanúsítványt visszavonja.
 
+### A közjegyzői szolgálat meghosszabbítása
+
+21/B. § (1) A közjegyző kérheti a szolgálatának meghosszabbítását, az ezen alcím szerinti feltételekkel.
+
+(2) A kérelem engedélyezése esetén a közjegyzői szolgálat felső korhatára a betöltött hetvenedik életév.
+
+(3) A kérelem benyújtásának feltétele, hogy a közjegyző a szolgálata meghosszabbítása érdekében rendkívüli pályaalkalmassági vizsgálaton vegyen részt.
+
+(4) A kérelem engedélyezésének – az (5) bekezdésben foglalt kivétellel – előfeltétele, hogy a közjegyző
+
+- a) a rendkívüli pályaalkalmassági vizsgálaton „alkalmas” minősítést kapjon, valamint
+- b) a szolgálati jogviszonyt megszüntető életkor betöltése előtt, a szolgálati jogviszony várható megszűnésével összefüggésben lefolytatott működési vizsgálat eredményeként „megfelelt” értékelést kapjon.
+
+(5) Ha a szolgálati viszony várható megszűnésével összefüggésben lefolytatott működési vizsgálat eredményének megállapítására a kérelem benyújtásáig nem kerül sor, a szolgálat meghosszabbításának engedélyezése során a közjegyző működését nem kell értékelni, a közjegyző az egyéb feltételek fennállása esetén a szolgálatának meghosszabbítására jogosult.
+
+(6) Az e § szerinti rendkívüli pályaalkalmassági vizsgálat, valamint a szolgálati viszony várható – meghatározott életkor betöltése miatti – megszűnésével összefüggésben lefolytatott működési vizsgálat során e törvény pályaalkalmassági vizsgálatra, valamint a közjegyzők működési vizsgálatára vonatkozó szabályait – a jelen alcím szerinti eltérésekkel – kell alkalmazni.
+
+21/C. § (1) A kérelmet a területi kamara elnöksége útján kell a miniszterhez benyújtani.
+
+(2) A kérelmet legkorábban azon a napon lehet benyújtani, amely a szolgálati jogviszonyt megszüntető életkor betöltésének napját egy évvel megelőzi. A kérelmet legkésőbb azon a napon lehet benyújtani, amely a szolgálati jogviszonyt megszüntető életkor betöltésének napját 8 hónappal megelőzi.
+
+(3) A közjegyzőnek a kérelem benyújtásával egyidejűleg igazolnia kell, hogy rendelkezik érvényes – a szolgálatának meghosszabbítása érdekében elvégzett, a kérelem benyújtásának időpontjában 6 hónapnál nem régebbi – rendkívüli pályaalkalmassági vizsgálati eredménnyel.
+
+21/D. § (1) A területi kamara a kérelmet – véleményével és az elbíráláshoz szükséges iratokkal együtt – a benyújtástól számított 15 napon belül küldi meg a miniszternek. A területi kamara a véleményét
+
+- a) a szolgálati viszony várható – meghatározott életkor betöltése miatti – megszűnésével összefüggésben lefolytatott működési vizsgálat eredménye,
+- b) a kérelem benyújtását megelőző két évben a közjegyzővel szemben felmerült panaszok száma és jellege,
+- c) a közjegyző továbbképzési kötelezettségének teljesítése, valamint
+- d) a kamarában végzett tevékenysége,
+
+alapján alakítja ki.
+
+(2) A miniszter a kérelemről, annak kézhezvételétől számított 30 napon belül dönt.
+
+(3) A miniszter a kérelem elbírálása során
+
+- a) vizsgálja, hogy a kérelem engedélyezésének előfeltételei a közjegyző vonatkozásában teljesülnek-e, valamint
+- b) mérlegeli a területi kamara véleményében foglaltakat,
+
+és döntéséről értesíti a területi kamara elnökségét.
+
+(4) Nincs helye pályázat kiírásának, ha a közjegyző a szolgálat meghosszabbítása iránti kérelmet nyújt be, ebben az esetben a pályázat kiírásának határideje a szolgálat meghosszabbítása iránti kérelmet visszautasító vagy elutasító döntés véglegessé válását követő napon újra kezdődik.
+
+(5) A miniszter a közjegyző ezen alcím szerinti – a közjegyzői szolgálat meghosszabbítása iránti – ügyében az általános közigazgatási rendtartásról szóló törvény rendelkezései szerint jár el.
+
 ### A közjegyzői szolgálat megszűnése
 
 22. § (1) A közjegyzői szolgálat megszűnik:
@@ -305,8 +373,10 @@ követő 45 napon belül, hirdetmény közzététele útján írja ki.
 - a) a közjegyző felmentéséről szóló határozatban megjelölt napon, ha e napig a felmentésről szóló határozat nem válik véglegessé, akkor a határozat véglegessé válásának,
 - b) a közjegyzői szolgálat megszűnését megállapító határozatban megjelölt napon, ha e napig a közjegyzői szolgálat megszűnését megállapító határozat nem válik véglegessé, akkor a határozat véglegessé válásának,
 - c) a közjegyzői fegyelmi bíróság hivatalvesztést, a közjegyző alkalmatlanságát vagy érdemtelenségét megállapító határozata jogerőre emelkedésének,
-- d) a társadalombiztosítási nyugellátásról szóló törvényben meghatározott öregségi nyugdíjra jogosító legmagasabb öregségi nyugdíjkorhatár, de legalább a 65. életév közjegyző általi betöltésének, vagy
-- e) a közjegyző halálának
+- d) – ha nem terjesztett elő szolgálat meghosszabbítása iránti kérelmet vagy korábban előterjesztett szolgálat meghosszabbítása iránti kérelme elutasításra került – a szolgálati jogviszonyt megszüntető életkor közjegyző általi betöltésének,
+- e) a közjegyző halálának,
+- f) a szolgálati jogviszonyt megszüntető életkor közjegyző általi betöltését követően a szolgálat meghosszabbítása iránti kérelmet visszautasító vagy elutasító döntés véglegessé válásának, vagy
+- g) a szolgálati jogviszonyt megszüntető életkor betöltését követően a szolgálat meghosszabbítása esetén a hetvenedik életév betöltésének
 
 napján.
 
@@ -572,11 +642,11 @@ kezeli.
 
 (5) A közjegyzői iroda másik közjegyzői irodával egyesülhet vagy közjegyzői irodákká válhat szét, és kiválásra sor kerülhet úgy is, hogy a közjegyzői irodától megváló tag a vagyon egy részével más, már működő közjegyzői irodához, mint átvevő közjegyzői irodához csatlakozik.
 
-(5a) A közjegyzői szolgálatnak a 22. § (1) bekezdés a) vagy d) pontja alapján történő megszűnésétől számított 90 napon belül meghozott végleges döntéssel a közjegyzői iroda korlátolt felelősségű társasággá alakulhat át, vagy több közjegyző tagságával működő közjegyzői iroda szétválhat úgy, hogy kiválással a közjegyzői szolgálat megszűnésével érintett tag korlátolt felelősségű társaságot alapít.
+(5a) A közjegyzői szolgálatnak a 22. § (1) bekezdés a), d), f) vagy g) pontja alapján történő megszűnésétől számított 90 napon belül meghozott végleges döntéssel a közjegyzői iroda korlátolt felelősségű társasággá alakulhat át, vagy több közjegyző tagságával működő közjegyzői iroda szétválhat úgy, hogy kiválással a közjegyzői szolgálat megszűnésével érintett tag korlátolt felelősségű társaságot alapít.
 
 (5b) Ha az egyszemélyes közjegyzői iroda a közjegyző tag halála miatt szűnik meg, a közjegyző örökösei az elhalálozás időpontjától számított 90 napon belül meghozott végleges döntéssel a közjegyzői irodát legalább egyikük tagságával működő korlátolt felelősségű társasággá alakíthatják át. A közjegyzői iroda más esetben vagy más gazdasági társasággá történő átalakulásáról, gazdasági társaság kiválásáról nem dönthet.
 
-(6) A közjegyző iroda egyesüléséhez és szétválásához a területi kamara elnökségének előzetes engedélye, korlátolt felelősségű társasággá történő átalakuláshoz vagy annak kiválással történő létrehozásához a közjegyzői szolgálatnak a 22. § (1) bekezdés a) vagy d) pontjában meghatározott okból történő megszűnéséről kiállított igazolása szükséges.
+(6) A közjegyző iroda egyesüléséhez és szétválásához a területi kamara elnökségének előzetes engedélye, korlátolt felelősségű társasággá történő átalakuláshoz vagy annak kiválással történő létrehozásához a közjegyzői szolgálatnak a 22. § (1) bekezdés a), d), f) vagy g) pontjában meghatározott okból történő megszűnéséről kiállított igazolása szükséges.
 
 31/G. § (1) A közjegyzői iroda végelszámolója – a (2) bekezdésben foglalt kivétellel – csak közjegyző, közjegyzőhelyettes, vagy az a személy lehet, aki a közjegyzői szolgálatának megszűnését megelőzően a közjegyzői iroda vezető tisztségviselője volt.
 
@@ -1013,7 +1083,7 @@ foglalt kötelezettségek teljesítését.
 - 7. a közjegyzői nyilvántartások vezetésével összefüggő eljárási szabályokról,
 - 8. a közjegyzők működésének vizsgálatáról,
 - 9. a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben és az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló törvényben meghatározott kötelezettségek körébe tartozó feladatok teljesítéséről, felügyeleti eljárásrendről, kockázatértékelésről és útmutatóról, valamint az auditált elektronikus hírközlő eszköz és működtetésének minimum követelményeiről, auditálásának módjáról és az ilyen eszköz útján végzett ügyfél-átvilágítás végrehajtásáról,
-- 10. a közjegyzői díjszabás alkalmazásáról,
+- 10. minden ügytípusra kiterjedően a közjegyzői díjszabásról szóló rendelet alkalmazásáról,
 - 11. a közjegyző őrzésében levő pénz, értéktárgy és értékpapír kezeléséről és nyilvántartásáról,
 - 12. a közjegyzői pénzletétről,
 - 13. a közjegyző hivatali elektronikus aláírása hitelesítése céljából kibocsátott tanúsítvány közjegyző általi alkalmazásának rendjéről, valamint kibocsátásának és bevonásának részletes eljárási szabályairól,
@@ -1630,7 +1700,7 @@ amely feltételek bekövetkezését az országos elnök ideiglenes intézkedésk
 (4) A nyelvi jogosítvány iránti kérelmet
 
 - a) a közjegyző vagy közjegyzőhelyettes székhelye szerinti területi kamara terjeszti fel az országos elnökhöz, vagy
-- b) a közjegyző vagy közjegyzőhelyettes közvetlenül terjeszti fel az igazságügyért felelős miniszterhez,
+- b) a közjegyző vagy közjegyzőhelyettes közvetlenül terjeszti fel elektronikus úton az igazságügyért felelős miniszterhez,
 
 aki a meghallgatást követően dönt a nyelvi jogosítvány kiadásáról.
 
@@ -2273,13 +2343,19 @@ alapján tanúsíthatja.
 
 (21) E törvénynek a jogi versenyképesség érdekében egyes törvények deregulációs célú módosításáról szóló 2024. évi LXXXV. törvénnyel módosított 41. § (1) bekezdés e) pontja szerinti választási szabályzatot a területi kamara 2026. december 31-ig alkotja meg. A szervezeti és működési szabályzat jóváhagyásának nem akadálya, ha a területi kamara a választási szabályzatát a szervezeti és működési szabályzatában állapította meg. A jogi versenyképesség érdekében egyes törvények deregulációs célú módosításáról szóló 2024. évi LXXXV. törvénnyel módosított 41. §-t a hatálybalépését megelőzően elfogadott szabályzatokra is alkalmazni kell.
 
+(22) Az a közjegyző, aki 2026. január 1. napja és 2026. október 31. napja között tölti be a szolgálati jogviszonyt megszüntető életkort, a szolgálat meghosszabbítása iránti kérelmét legkésőbb 2026. január 31. napjáig nyújthatja be.
+
+(23) A 2026. január 1-je előtt megüresedett és 2026. január 1-jén üres közjegyzői álláshely betöltésére kiírt pályázatról, annak kiírását megelőzően a miniszter köteles a területi kamarát tájékoztatni. A területi kamara a honlapján tájékoztatást tesz közzé az üres álláshelyről, amelynek a közzétételétől számított 15 napon belül a 20. § (3) bekezdése szerinti áthelyezési kérelem előterjesztésének van helye. Ha nem érkezik be áthelyezési kérelem, akkor a területi kamara erről szóló tájékoztatásának kézhezvételétől számított 30 napon belül a miniszter kiírja a pályázatot. E rendelkezést azon közjegyzői álláshelyre is alkalmazni kell, amelyről a területi kamara a 18. § (2) bekezdés szerint 2026. január 1-je előtt adott tájékoztatást.
+
+(24) A 20. § és a (23) bekezdés rendelkezései nem alkalmazhatók olyan közjegyzői álláshely esetén, amelyre a miniszter 2025. december 31-e előtt pályázatot írt ki, de a pályázati eljárás 2026. január 1-jén még nem zárult le.
+
 ### Felhatalmazás
 
 183. § Felhatalmazást kap a miniszter, hogy — a 12. § (3) bekezdésében foglaltakon túl — rendelettel állapítsa meg:
 
 - a) a közjegyzők működésének folyamatosságához szükséges átmeneti intézkedéseket,
 - b) a közjegyzői állások számát és székhelyét, a közjegyzők illetékességi területét, valamint hagyatéki ügyekben az azonos illetékességi területen működő közjegyzők között érvényesülő ügyelosztási rendet a Magyar Országos Közjegyzői Kamara és az Országos Bírósági Hivatal elnöke véleményének ismeretében, továbbá a közjegyzői állások betöltésének részletes feltételeit,
-- c)
+- c) a pályázat kiírása nélkül történő közjegyzői áthelyezéssel kapcsolatos döntés mérlegelési szempontjaira vonatkozó szabályokat,
 - d) a közjegyzők ügyvitelének szabályait,
 - e) a közjegyzői díjszabást,
 - f) az e törvény végrehajtásához szükséges részletes eljárási szabályokat,

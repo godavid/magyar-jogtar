@@ -141,7 +141,7 @@ is végezhető, feltéve, ha felhasználásról, tárolásról, raktározásról
 
 (13) A fémkereskedő a fémkereskedelmi engedélyköteles anyag más fémkereskedőtől történő felvásárlása során a 4. § (2) bekezdésben meghatározott írásbeli megállapodásban és az anyagkísérő okmányon a 3. § (5) bekezdésben felsorolt fémkereskedelmi engedélyköteles anyagokat külön tételként az ott meghatározott felismerésre alkalmas jellemző megjelölésével köteles feltüntetni és aszerint nyilvántartásba venni.
 
-(14) A fémkereskedelmi hatóság által a (10) bekezdés alapján vezetett nyilvántartás – a telephelyek nyitva tartására vonatkozó adat, illetve azon adat kivételével, amelyet jogszabály más nyilvántartás részeként közhitelesnek minősít – közhiteles hatósági nyilvántartásnak minősül.
+(14)
 
 5. § (1) A fémkereskedő a fémkereskedelmi engedélyköteles anyag értékesítéséről eladónként és vevőnként az anyag jogszerű beszerzésének igazolása céljából külön nyilvántartást vezet, és a beszerzett és értékesített anyag értékét és mennyiségét naponta, a nap végén összesíti. A fémkereskedő a nyilvántartásban szereplő adatokról jogszabályban meghatározott módon elektronikus úton adatot szolgáltat a fémkereskedelmi hatóságnak, amely azt a fémkereskedelmi engedélyköteles anyag jogszerű beszerzésének ellenőrzésére használhatja fel. A személyes adatok kivételével az általános rendőrségi feladatok ellátására létrehozott rendőrségi szerv ezen adatokba betekinthet.
 

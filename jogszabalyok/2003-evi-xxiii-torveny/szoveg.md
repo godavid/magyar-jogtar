@@ -182,9 +182,9 @@ kell érteni.
 - a) a rendszerben résztvevő elszámoló fél 10. § d) pont dc) alpontja szerinti hatósági tevékenységi engedélyét,
 - b) a rendszert létrehozó és működését szabályozó megállapodást,
 - c) a rendszer résztvevőinek alapító okiratát, valamint az esetleges közvetett résztvevők azonosításához szükséges adatokat,
-- d) magyarországi bejegyzett cég esetében három hónapnál nem régebbi cégkivonatot, bejegyzés hiányában a bejegyzés iránti kérelmet, annak igazolásával együtt, hogy a bejegyzés iránti kérelmet a cégbíróság átvette, külföldi székhelyű cég esetében az alapítás és a bejegyzés igazolására alkalmas, három hónapnál nem régebben kiállított okiratot, ennek hiányában az alapítás és bejegyzés iránti kérelem benyújtásának az igazolására alkalmas okiratot.
+- d) még be nem jegyzett magyarországi cég esetében a bejegyzés iránti kérelmet, annak igazolásával együtt, hogy a bejegyzés iránti kérelmet a cégbíróság átvette, külföldi székhelyű cég esetében az alapítás és a bejegyzés igazolására alkalmas, három hónapnál nem régebben kiállított okiratot, ennek hiányában az alapítás és bejegyzés iránti kérelem benyújtásának az igazolására alkalmas okiratot.
 
-(5)
+(5) Magyarországon bejegyzett cég cégkivonatát a kijelölő hatóság a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi be.
 
 (6) A kijelölési feltételekben bekövetkezett bárminemű változást – a változást követő öt napon belül – be kell jelenteni a kijelölő hatóságnak. A bejelentésben foglaltakat igazoló dokumentumot a kijelölő hatóság felhívására be kell mutatni.
 

@@ -555,7 +555,7 @@ külön rendelkezések
 
 (3) A mezőgazdasági és vidékfejlesztési támogatási szerv az 1306/2013/EU európai parlamenti és tanácsi rendelet VII. Cím II. fejezete szerinti integrált igazgatási és ellenőrzési rendszert az általa működtetett integrált informatikai rendszer részeként alakítja ki.
 
-(4) Az integrált informatikai rendszer az abban rögzített – más közhiteles nyilvántartásban nem nyilvántartott – adatok, valamint fényképek, kép- és hangfelvételek, ezek metaadatai, valamint ezek készítésének helyére, idejére, valamint irányára vonatkozó adatok tekintetében közhiteles hatósági nyilvántartásnak, az integrált informatikai rendszerben keletkezett elektronikus irat hiteles elektronikus dokumentumnak minősül. Az ellenkező bizonyításig vélelmezni kell, hogy ezek az adatok fennállnak és valósak.
+(4) Az integrált informatikai rendszerben a 26. § (1) bekezdés f) pontjában meghatározott nyilvántartás közhiteles hatósági nyilvántartásnak minősül. Az integrált informatikai rendszerben rögzített egyéb – más közhiteles nyilvántartásban nem nyilvántartott – adatok, valamint fényképek, kép- és hangfelvételek, ezek metaadatai, valamint ezek készítésének helyére, idejére, valamint irányára vonatkozó adatok tekintetében az ellenkező bizonyításig vélelmezni kell, hogy ezek az adatok fennállnak és valósak.
 
 27/A. § A mezőgazdasági és vidékfejlesztési szerv – a 2021/2116/EU európai parlamenti és a tanácsi rendelet 66. cikk (1) bekezdés c) pontjának megfelelően – az integrált igazgatási és ellenőrzési rendszer részeként területi monitoringrendszert üzemeltet. A területi monitoringrendszer által szolgáltatott eredményeket a mezőgazdasági és vidékfejlesztési támogatási szerv a tényállás tisztázásához, illetve bizonyítási eszközként használja fel.
 
@@ -752,7 +752,7 @@ térítésmentesen hozzáférhet.
 
 (2) Az intervenciós raktárregiszter a 28. § (2) bekezdés szerinti adatokon kívül tartalmazza az ügyfél regisztrációs számát, a raktározási helyszíneket és a raktározási építmények műszaki paramétereit.
 
-(2a) Az intervenciós raktárregiszter a (2) bekezdésben foglalt adatok tekintetében – kivéve a 28. § (2) bekezdésében foglalt természetes személyazonosító adatokat – közhiteles hatósági nyilvántartásnak minősül.
+(2a) Az intervenciós raktárregiszterben a (2) bekezdés szerinti adatok tekintetében az ellenkező bizonyításig vélelmezni kell, hogy ezek az adatok fennállnak és valósak.
 
 (3) A hatósági nyilvántartás adatait a mezőgazdasági és vidékfejlesztési támogatási szerv az informatikai rendszerében kezeli. A (2) bekezdésben meghatározott adatoknak az informatikai adatbázisban történő rögzítése a mezőgazdasági és vidékfejlesztési támogatási szerv által történik a raktárregiszterbe történő felvétel iránt benyújtott kérelem alapján. A mezőgazdasági és vidékfejlesztési támogatási szerv azokat a raktározókat, akikkel már kötött raktárszerződést, hivatalból nyilvántartásba veszi.
 

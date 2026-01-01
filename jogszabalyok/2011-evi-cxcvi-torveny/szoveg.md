@@ -145,7 +145,7 @@ Az Országgyűlés a nemzeti vagyonnak a közérdek és a közösségi szükség
 
 #### 3. A nemzeti vagyon megőrzése és védelme
 
-6. § (1) Az állam vagy a helyi önkormányzat kizárólagos tulajdonában álló nemzeti vagyon – a (2)–(3c), (3e) és (3g)–(3h) bekezdésben és a 14. § (1) bekezdésében foglalt kivétellel – nem idegeníthető el, vagyonkezelői jog, kizárólagos gazdasági tevékenységhez kapcsolódó működtetési jog, építményi jog, jogszabályon alapuló, továbbá az ingatlanra közérdekből külön jogszabályban feljogosított szervek javára alapított használati jog, továbbá a helyi önkormányzat javára alapított vezetékjog kivételével nem terhelhető meg, biztosítékul nem adható, azon osztott tulajdon nem létesíthető. Ezen tilalom az állam vagy a helyi önkormányzat kizárólagos tulajdonában álló nemzeti vagyonba tartozó javak teljes terjedelme tekintetében fennáll.
+6. § (1) Az állam vagy a helyi önkormányzat kizárólagos tulajdonában álló nemzeti vagyon – a (2)–(3c), (3e) és (3g)–(3h) bekezdésben és a 14. § (1) bekezdésében foglalt kivétellel – nem idegeníthető el, vagyonkezelői jog, kizárólagos gazdasági tevékenységhez kapcsolódó működtetési jog, építményi jog, jogszabályon alapuló, továbbá az ingatlanra közérdekből jogszabályban feljogosított szervek javára alapított szolgalom vagy más használati jog, a villamos energiáról szóló törvény szerinti termelői vezeték, magánvezeték és közvetlen vezeték vezetékjoga és a helyi önkormányzat javára alapított vezetékjog kivételével nem terhelhető meg, biztosítékul nem adható, azon osztott tulajdon nem létesíthető. Ezen tilalom az állam vagy a helyi önkormányzat kizárólagos tulajdonában álló nemzeti vagyonba tartozó javak teljes terjedelme tekintetében fennáll.
 
 (2) A természetes előfordulási helyükről kitermelt, kinyert, a 4. § (1) bekezdés c) pontjában meghatározott vagyon feletti tulajdonjog ágazati törvényben meghatározott módon szerezhető meg. A föld alatti gáztárolóban, mint természetes előfordulási helyén lévő szénhidrogén tulajdonjoga – ágazati törvényben meghatározottak szerint – a kitermelést megelőzően is megszerezhető.
 
@@ -438,6 +438,8 @@ közvetlen vagy közvetett többségi tulajdonában lévő gazdálkodó szerveze
 (11a) Az (1) bekezdés l) pontjában meghatározott kizárólagos gazdasági tevékenység gyakorlásának joga külön ágazati törvényben szabályozott módon másnak átengedhető.
 
 (11b) Az (1) bekezdés n) pontjában meghatározott kizárólagos gazdasági tevékenység vagy egyes résztevékenységei gyakorlásának joga ágazati törvényben szabályozott módon másnak átengedhető.
+
+(11c) Az (1) bekezdés a) pontjában meghatározott kizárólagos gazdasági tevékenységi kör mint gyűjtőfogalom keretein belül a szénhidrogén-szállítóvezetékek létesítésének és üzemben tartásának joga koncessziós pályázat kiírása vagy koncessziós szerződés nélkül ágazati törvényben meghatározott módon másnak átengedhető.
 
 (12) A (4)–(6) bekezdésben foglalt korlátozások figyelembevételével, valamint a (7)–(11) bekezdésben meghatározottakon kívül az állam és a helyi önkormányzat kizárólagos gazdasági tevékenysége gyakorlásának időleges joga koncessziós szerződés megkötése nélkül kizárólag
 
@@ -2689,5 +2691,5 @@ IV. Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonban tarta
 | 10 | Budapest XI. kerület belterület 4082/23 hrsz. | Tüskecsarnok és Tüske Uszoda |
 | 11 | Szeged külterület 02065/12, 02065/12/A, 02065/13 hrsz. | Maty-éri Evezőspálya |
 | 12 | Dunavarsány külterület 050/4 hrsz. | Dunavarsányi Edzőtábor |
-| 13 | Ráckeve belterület 54 hrsz. | Ráckevei Vízisporttelep |
+| 13 |  |  |
 | 14 | Gyöngyös-Mátraháza belterület 7112, 7138 hrsz. | Mátraházi Edzőtábor |

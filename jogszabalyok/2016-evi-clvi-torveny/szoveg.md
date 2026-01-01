@@ -159,7 +159,7 @@ járhat el építtetőként.
 
 #### 6/A. Nemzeti Turisztikai Adatszolgáltató Központ
 
-9/A. § A szálláshely-szolgáltató, a vendéglátó üzlet üzemeltetője és a turisztikai attrakció üzemeltetője adminisztrációs kötelezettségének könnyítése és adatelemzés, hivatalos statisztikai adatok előállításának segítése, valamint gazdasági és pénzügyi stabilitás elősegítése érdekében a turisztikai és vendéglátóipari célú támogatás vagy hitel és pénzkölcsön igénybevételéhez és nyújtásához szükséges adatokat biztosító informatikai rendszer (a továbbiakban: Nemzeti Turisztikai Adatszolgáltató Központ) működik, amelynek üzemeltetőjét a Kormány rendeletben jelöli ki.
+9/A. § A szálláshely-szolgáltató, a vendéglátó üzlet üzemeltetője és a turisztikai attrakció üzemeltetője adminisztrációs kötelezettségének könnyítése, adóbevallás-tervezet összeállításának előkészítése és adatelemzés, hivatalos statisztikai adatok előállításának segítése, valamint gazdasági és pénzügyi stabilitás elősegítése érdekében a turisztikai és vendéglátóipari célú támogatás vagy hitel és pénzkölcsön igénybevételéhez és nyújtásához szükséges adatokat biztosító informatikai rendszer (a továbbiakban: Nemzeti Turisztikai Adatszolgáltató Központ) működik, amelynek üzemeltetőjét a Kormány rendeletben jelöli ki.
 
 9/B. § (1) A Nemzeti Turisztikai Adatszolgáltató Központ
 
@@ -306,6 +306,10 @@ továbbítsa.
 (3) A KTH Zrt.-nek az (1) bekezdés szerinti kötelezettségei biztosítékaként az e törvény alapján vállalt jogszabályi állami készfizető kezességvállaláson túlmenően a hitelező további biztosíték előírására nem köteles.
 
 (4) Az állami kezességvállalásért a KTH Zrt. a Kormány rendeletében meghatározott módon számított kezességvállalási díjat fizet az állam számára.
+
+(5) A KTH Zrt. (1) bekezdés szerinti bevont forrásai együttes állományának felső határát a Magyarország központi költségvetéséről szóló törvényben meg kell határozni. Devizában történő forrásbevonás esetén az állomány értékét a szerződéskötés napján a Magyar Nemzeti Bank által közzétett hivatalos devizaárfolyamon forintra átszámított értékén kell meghatározni.
+
+(6) Az (5) bekezdésben meghatározott állomány együttes összege az év egyetlen napján sem haladhatja meg a Magyarország központi költségvetéséről szóló törvényben felső határként meghatározott összeget.
 
 ### III. Fejezet — ZÁRÓ RENDELKEZÉSEK
 

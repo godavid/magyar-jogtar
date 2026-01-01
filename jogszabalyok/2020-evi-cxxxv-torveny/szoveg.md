@@ -157,7 +157,7 @@ kivéve, ha a végrehajtásra az állami adó és vámhatóság megkeresése meg
 
 (2) A foglalkoztatás állami felügyelete hatékony működésének biztosítása céljából az állami adóhatóság az (1) bekezdés szerinti adatokat – az (1) bekezdés ab), ac), ad), af) és ag) alpontja szerinti adatok kivételével – átadja a foglalkoztatás-felügyeleti hatóság részére.
 
-(3) A foglalkoztatás-felügyeleti hatóság – azon adat kivételével, amelyet jogszabály más nyilvántartás részeként közhitelesnek minősít – közhiteles hatósági nyilvántartást vezet, a foglalkoztatók munkaügyi kapcsolatai rendezettségével kapcsolatos adatoknak más szervek eljárásában történő felhasználása céljából.
+(3) A foglalkoztatás-felügyeleti hatóság a foglalkoztatók munkaügyi kapcsolatai rendezettségével kapcsolatos adatoknak más szervek eljárásában történő felhasználása céljából közhiteles hatósági nyilvántartást vezet. E hatósági nyilvántartás – az (1) bekezdés b) és c) pontjában foglalt adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
 (4) A hatósági nyilvántartás tartalmazza – az (1) bekezdés b) pont bd) alpontja kivételével – a foglalkoztató (1) bekezdés b) és c) pontja szerinti adatait, a jogsértést megállapító határozat keltét és számát, véglegessé és végrehajthatóvá válásának időpontját, a jogsértés megjelölését, az alkalmazott jogkövetkezményt és mértékét az annak alapjául szolgáló jogszabályhelyre történő utalással, közigazgatási per esetén a jogerős bírósági határozat keltét és számát, jogerőssé és végrehajthatóvá válásának időpontját, valamint azt, hogy a bíróság milyen döntést hozott.
 

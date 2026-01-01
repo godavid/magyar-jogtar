@@ -422,7 +422,7 @@ igazságügyi tárgyú törvények módosításáról
 
 (6) A 4. § 2025. január 1-jén lép hatályba.
 
-171. § A jogi személyek nyilvántartásáról és a nyilvántartási eljárásról szóló 2021. évi XCII. törvény 2026. január 1-jén lép hatályba.
+#### 171. §
 
 172. § E törvény
 

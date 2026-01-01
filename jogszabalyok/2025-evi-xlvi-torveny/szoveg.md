@@ -4,9 +4,11 @@ egyes sportcélú állami tulajdonú vagyonelemek ingyenes tulajdonba adásáró
 
 [1] Az Országgyűlés kiemelt fontosságot tulajdonít a nagy hagyományokkal rendelkező, sikeres sportszervezeteknek és országos sportági szakszövetségeknek.
 
+[1a] Az Országgyűlés elismeri és támogatja a helyi önkormányzatok sporttal kapcsolatos feladatainak ellátását.
+
 [2] E szervezeteknek az utánpótlás-nevelés, a sportolók eredményes felkészítése, a helyi közösségépítő és egészségmegőrző szabadidősport szervezése területén végzett tevékenységére és ezáltal a sportcélú közfeladatok ellátásában való közreműködésére figyelemmel, működésük megfelelő feltételeinek hosszú távú javítása érdekében az Országgyűlés a következő törvényt alkotja.
 
-1. § A nemzeti vagyonról szóló 2011. évi CXCVI. törvény (a továbbiakban: Nvtv.) 13. § (3) bekezdése és az állami vagyonról szóló 2007. évi CVI. törvény 36. § (1) bekezdése alapján az 1. mellékletben meghatározott állami tulajdonú sportcélú ingatlanok, a részben állami tulajdonú sportcélú ingatlanok esetében az állam tulajdonában álló tulajdoni hányadok, továbbá ezen ingatlanok és az állam tulajdonában álló tulajdoni hányadoknak természetben megfeleltethető ingatlanrészek működtetéséhez, az azokon végzett sporttevékenység ellátásához kapcsolódó állami tulajdonban álló ingó vagyonelemek (a továbbiakban együtt: vagyonelemek) e törvény erejénél fogva, a 2. § (1) bekezdése szerinti tulajdonjog átszállással ingyenesen az 1. mellékletben megjelölt sportegyesület vagy országos sportági szakszövetség (a továbbiakban: együtt szervezet) tulajdonába kerülnek sportcélú közfeladatai ellátásának elősegítése és a vagyonelemek egyéb, a közfeladat ellátását nem veszélyeztető hasznosítása céljából. A szervezet az 1. melléklet szerinti ingatlant, illetve ingatlanhányadot a fennálló terhekkel és az ingatlant, illetve ingatlanhányadot terhelő kötelezettségekkel együtt szerzi meg.
+1. § A nemzeti vagyonról szóló 2011. évi CXCVI. törvény (a továbbiakban: Nvtv.) 13. § (3) bekezdése és az állami vagyonról szóló 2007. évi CVI. törvény 36. § (1) bekezdése alapján az 1. mellékletben meghatározott állami tulajdonú sportcélú ingatlanok, a részben állami tulajdonú sportcélú ingatlanok esetében az állam tulajdonában álló tulajdoni hányadok, továbbá ezen ingatlanok és az állam tulajdonában álló tulajdoni hányadoknak természetben megfeleltethető ingatlanrészek működtetéséhez, az azokon végzett sporttevékenység ellátásához kapcsolódó állami tulajdonban álló ingó vagyonelemek (a továbbiakban együtt: vagyonelemek) e törvény erejénél fogva, a 2. § (1) bekezdése szerinti tulajdonjog-átszállással ingyenesen az 1. mellékletben megjelölt sportszervezet, országos sportági szakszövetség vagy helyi önkormányzat (a továbbiakban együtt: szervezet) tulajdonába kerülnek sportcélú közfeladatai ellátásának elősegítése és a vagyonelemek egyéb, a közfeladat ellátását nem veszélyeztető hasznosítása céljából. A szervezet az 1. melléklet szerinti ingatlant, illetve ingatlanhányadot a fennálló terhekkel és az ingatlant, illetve ingatlanhányadot terhelő kötelezettségekkel együtt szerzi meg.
 
 2. § (1) Az 1. melléklet szerinti ingatlan, illetve ingatlanhányad tulajdonjogának változását az ingatlanügyi hatóság a szervezet kérelme alapján jegyzi be az ingatlan-nyilvántartásba. Az ingatlan-nyilvántartási kérelemben elegendő kizárólag e törvény tulajdonjogátruházást tartalmazó rendelkezésére, valamint az érintett ingatlan helyrajzi számát tartalmazó 1. mellékletére hivatkozni.
 
@@ -87,5 +89,15 @@ egyes sportcélú állami tulajdonú vagyonelemek ingyenes tulajdonba adásáró
 | 31 | Budapest, belterület 16155/17 (14565/21443 tulajdoni hányad arányában) | Vasas Sport Club |
 | 32 | Budapest, belterület 26085/1123 (33261/125049 tulajdoni hányad arányában) | Vasas Sport Club |
 | 33 | Budapest, belterület 76561/221 | Vasas Sport Club |
+| 34. | Békés 1152 | Békés Város Önkormányzata |
+| 35. | Békés 2290/1 | Békés Város Önkormányzata |
+| 36. | Budapest, belterület 38442/15 | Ferencvárosi Torna Club |
+| 37. | Budapest, belterület 169171/1 | Honvéd Futball Club Korlátolt Felelősségű Társaság (székhely: 1194 Budapest, Temesvár utca 25/a, a továbbiakban: Honvéd Futball Club Kft.) |
+| 38. | Budapest, belterület 168207/1 | Honvéd Futball Club Kft. |
+| 39. | Vác, belterület 2432 | K4 Kajak-Kenu Sportegyesület (székhely: 2600 Vác, Dózsa György út 19., a továbbiakban: K4 Kajak-Kenu Sportegyesület) |
+| 40. | Vác, belterület 2433 | K4 Kajak-Kenu Sportegyesület |
+| 41. | Budapest, belterület 17977/3 | Újpesti Torna Egylet |
+| 42. | Budapest, belterület 26085/1007 | VASAS Futball Club Korlátolt Felelősségű Társaság (székhely: 1139 Budapest, Fáy u. 58.) |
+| 43. | Ráckeve, belterület 54 | Újpesti Torna Egylet |
 
 ### 2. melléklet a 2025. évi XLVI. törvényhez

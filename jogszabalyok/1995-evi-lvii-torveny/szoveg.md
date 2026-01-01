@@ -568,7 +568,7 @@ vízhasználat.
 
 (3) A vízjogi engedéllyel, bányafelügyeleti szerződéssel rendelkező vízhasználó a vízkészletjárulék mértékének kiszámítását, bevallását és befizetését elektronikusan teljesítheti.
 
-(4) A vízkészletjárulék fizetési kötelezettség fennállásának ellenőrzése és mértékének meghatározása érdekében az illetékes vízügyi hatóság jogosult hozzáférni a vízhasználók minden vízhasználatára vonatkozó adatához az e-vízikönyvi hatósági közhiteles nyilvántartásból.
+(4) A vízkészletjárulék fizetési kötelezettség fennállásának ellenőrzése és mértékének meghatározása érdekében az illetékes vízügyi hatóság jogosult hozzáférni a vízhasználók minden vízhasználatára vonatkozó adatához a vízikönyvi nyilvántartásból.
 
 (5) A vízhasználók által bevallott, a vízkészletjárulék alapjául szolgáló tényleges vízhasználatra vonatkozó adatokhoz a vízügyi igazgatási szervek jogosultak hozzáférni a vízkészlet-gazdálkodási faladataik ellátása céljából.
 
@@ -579,6 +579,8 @@ vízhasználat.
 - c) ha tevékenységét bányafelügyeleti szerződés nélkül vagy a vízjogi engedélyköteles a tevékenységet engedély nélkül folytatja (a továbbiakban: engedély nélküli vízhasználat), 60,00 forint/m3 alapjárulék figyelembevételével, a befizetés összegét meghatározó, e törvény végrehajtására kiadott jogszabályban előírt – az igénybe vett vízmennyiség meghatározásának módjától, a vízhasznosítás és a vízkészlet jellegétől, továbbá az adott térség vízkészlet-gazdálkodási helyzetétől függő – szorzószámok alkalmazásával, a ténylegesen igénybe vett vízmennyiség
 
 alapján kell kiszámítania.
+
+(1a) Az (1) bekezdésében rögzített alapjárulék minden évben a Központi Statisztikai Hivatal által közzétett előző évi éves átlagos infláció mértékével növekszik. A tárgyév január 1-jétől alkalmazandó alapjárulék e bekezdés szerinti számított értékét a vízgazdálkodásért felelős miniszter a Hivatalos Értesítőben a tárgyév február 28-áig közzéteszi.
 
 (2) A vízmennyiség meghatározását az engedély nélküli vízhasználatnál a külön jogszabályban foglaltak szerint kell elvégezni.
 
@@ -887,6 +889,7 @@ kezdeményezi a terület tulajdonjogának az állam javára történő megszerz�
 - d)
 - e) a 31. § (1) bekezdését,
 - f) a 31/A. §-t.
+- g) a 32/B. § (2) bekezdését.
 
 28/A. § (1) A jogszabály alapján bejelentéshez kötött tevékenységektől eltekintve – a termálvíz kitermeléssel történő geotermikus energia kinyerését és hasznosítását kivéve –, vízjogi engedély szükséges
 
@@ -993,9 +996,29 @@ indokolja.
 
 (2) A behajtott vízgazdálkodási bírság a központi költségvetés bevétele.
 
-33. § (1) A vízügyi hatóság az általa engedélyezett vízimunkákról, vízilétesítményekről és vízhasználatokról vízikönyvet, továbbá a vízügyi igazgatási szerv a vízgazdálkodási objektumokról és a vízkészletről nyilvántartást vezet.
+32/B. § (1) Ha a végrehajtás meghatározott cselekmény elvégzésére vagy meghatározott magatartásra irányul, a teljesítés elmaradása esetén a végrehajtást foganatosító szerv a végrehajtást elrendelő vízügyi hatóság.
 
-(2) A helyi vízgazdálkodási hatósági jogkörben eljáró hatóság a vízilétesítményekről nyilvántartást vezet.
+(2) Az (1) bekezdés szerinti esetben a vízügyi hatóság az önkéntes teljesítés elmaradása esetén e törvény végrehajtására kiadott kormányrendeletben előírt, szükséges végrehajtási módokon felül a meghatározott cselekményt a kötelezett költségére és veszélyére elvégeztetheti.
+
+33. § (1) A vízügyi igazgatási szerv a vízgazdálkodási objektumokról és a vízkészletről nyilvántartást vezet.
+
+(2) A vízügyi hatóság az általa engedélyezett vízimunkákról, vízilétesítményekről és vízhasználatokról, valamint a vízhasználatokkal összefüggő jogokról és kötelezettségekről, jogi szempontból jelentős tényekről és adatokról vízikönyvet vezet.
+
+(3) A vízikönyv tartalmazza:
+
+- a) a határozatban megjelölt jogosított, illetve kötelezett
+  - aa) nevét, címét, székhelyét, adószámát, adóazonosító jelét,
+  - ab) elérhetőségét,
+  - ac) nyilvántartásba vételének időpontját;
+- b) a jog gyakorlását, kötelezettség keletkezését, módosulását, szüneteltetését vagy megszűnését, valamint az azt eredményező végleges határozat számát és keltét, a vízikönyvi nyilvántartási számát, továbbá a vízikönyvbe történő bejegyzés vagy a törlés időpontját;
+- c) a határozat tárgyát, a vízilétesítmény, vízimunka, vagy vízhasználat jellemző vízgazdálkodási adatainak megjelölését – ideértve földrajzi helyét – és vízgazdálkodási értelemben vett azonosítóját (objektumazonosítóját);
+- d) a bejegyzés alapját képező határozatban megállapított határidőket, a határozat hatályát vagy a teljesítési határidőt;
+- e) a bejegyzés tárgyát képező határozattal megállapított vízilétesítmény elhelyezését, üzemeltetését érintő ingatlanokra vonatkozó használati korlátozásokat az ingatlan-nyilvántartásban feltüntetett jogokra és tényekre történő utalást (védőterület, védősáv, vízelvezetési szolgalom);
+- f) a vízjogi üzemeltetési és fennmaradási engedély esetén a vízilétesítménnyel, vízhasználattal összefüggő felügyeleti kategóriát.
+
+(4) A (2) bekezdés szerinti nyilvántartás a (3) bekezdés a) pont ac) alpontjában és a (3) bekezdés b) pontjában meghatározott adatok tekintetében közhiteles hatósági nyilvántartás.
+
+(5) A helyi vízgazdálkodási hatósági jogkörben eljáró hatóság a vízilétesítményekről nyilvántartást vezet.
 
 33/A. § A vízügyi hatóság jogosult – a természeti és a környezeti veszélyeztetettség megelőzése (így a nagyvízi meder vízszállító képességének megőrzése, az árvizek levezetésének biztosítása) érdekében – a nagyvízi mederben telekalakítási, illetve építési tilalmat elrendelni.
 
@@ -1361,7 +1384,7 @@ céljából jogosult.
 - e) a vízgazdálkodással kapcsolatos hatósági jogkör gyakorlására, valamint az egyéb eljárási költségnek minősülő laboratóriumi vizsgálati költségek, illetve egyéb műszeres vizsgálatok költségeinek, továbbá az eljárás során a tényállás tisztázása kapcsán felmerült személyi és dologi költségek mértékére és fizetésének részletes szabályaira vonatkozó szabályok;
 - f) a vízgazdálkodás országos koncepciójának végrehajtásához kapcsolódó nemzeti programok;
 - g) a szennyvízelvezetési agglomerációk lehatárolásának és települési jegyzékének;
-- h)
+- h) a meghatározott cselekmény elvégzésére vagy meghatározott magatartásra irányuló jogkövetkezmények végrehajtására vonatkozó részletes szabályok;
 - i)
 - j) a települési szennyvíztisztításra vonatkozó nyilvántartási és jelentési kötelezettség;
 - k) az emberi fogyasztásra szolgáló víz (ivóvíz), valamint a fürdővíz minőségi követelményeire, az ivóvízhez való hozzáférésre, továbbá a vízminőség ellenőrzésére vonatkozó szabályok;
@@ -1523,7 +1546,7 @@ létesített háztartási kútra.
 
 45/P. § E törvénynek a vízgazdálkodásról szóló 1995. évi LVII. törvény módosításáról szóló 2023. évi LI. törvénnyel (a továbbiakban: Vgtv.mód4.) módosított 29. § (7) bekezdését a Vgtv.mód4. hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
 
-#### 46. §
+46. § E törvénynek a közhitelességről és a közhiteles nyilvántartások egységes vezetéséről szóló 2024. évi LXXXII. törvénnyel összefüggő törvények módosításáról szóló 2025. évi LXXX. törvénnyel megállapított 32/B. §-át a 2026. január 1-jén folyamatban lévő ügyekben is alkalmazni kell.
 
 47. § (1) E törvénynek az állam működését érintő egyes törvények módosításáról szóló 2024. évi XXIX. törvénnyel megállapított 2. § (1) bekezdés r) pontját, 3. § (2a) bekezdését, 16. § (3) bekezdését és 28/A. § (1b) bekezdését a folyamatban lévő ügyekben is alkalmazni kell.
 
@@ -1575,7 +1598,7 @@ E törvény alkalmazásában
 - 26. vízilétesítmény: az a mű (víziközmű), műtárgy, berendezés, felszerelés vagy szerkezet, amelynek rendeltetése, hogy a vizek lefolyási, áramlási viszonyait, mennyiségét vagy minőségét, medrének vagy partjának állapotát, a vizek kártételeinek elhárítása, a vizek hasznosítása — ideértve a víziközművekkel végzett közüzemi tevékenységgel nyújtott szolgáltatást —, minőségének és mennyiségének megfigyelése vagy védelme, illetve ásványi és földtani kutatások végzése céljából vagy ásványi nyersanyag kitermelése céljából befolyásolja:
   - a) közcélú vízilétesítmény: az a vízilétesítmény, amely az államnak, illetve a helyi önkormányzatnak törvényben meghatározott vízgazdálkodási feladatait, különösen a víziközművekkel nyújtott szolgáltatást, a vizek kártételei elleni védelmet, a vízkészletek feltárását, megóvását, hasznosítását, pótlását és állapotának figyelemmel kísérését, a vízkészlettel való gazdálkodását szolgálja; közcélú vízilétesítménynek minősülnek továbbá az országos közút és a törzshálózati vasút kiépítését, fejlesztését és fenntartását szolgáló vízilétesítmények;
   - b) saját célú vízilétesítmény: rendeltetésük szerint üzemi, háztartási, mezőgazdasági vízellátást, valamint vízkárelhárítási, víztisztítási, vízerő hasznosítási, vízvédelmi feladatokat ellátó, továbbá a közcélú vízilétesítménynek nem minősülő szennyvíz gyűjtését, tisztítását, hasznosítását és elhelyezését szolgáló mű, és ami a víziközmű-szolgáltatásról szóló törvény szerint nem minősül víziközműnek.
-- 27. vízikönyv: a vízimunkákkal, a vízilétesítményekkel és a vízhasználatokkal kapcsolatos jogok és kötelezettségek közhitelű nyilvántartása;
+- 27. vízikönyv: a vízimunkákkal, a vízilétesítményekkel és a vízhasználatokkal kapcsolatos jogok és kötelezettségek nyilvántartása;
 - 28. vízkár: a vizek többletéből vagy hiányából származó kár;
 - 29. vízkészlet-gazdálkodás: azoknak a tevékenységeknek az összessége, amelyeknek célja a vizek használatára irányuló igények kielégítése oly módon, hogy ennek következtében a vizek állapotában visszafordíthatatlan változás ne következzék be és a vízkészlethez való hozzáférés lehetősége ne csökkenjen;
 - 30. vizek kártételei elleni védelem és védekezés (vízkárelhárítás): a károsan sok vagy károsan kevés víz elleni szervezett tevékenység, ideértve a kártételek megelőzését szolgáló védőművek építését, rekonstrukcióját, fejlesztését, üzemeltetését és fenntartását, valamint a védekezést követő helyreállítást is;

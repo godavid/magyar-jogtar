@@ -374,7 +374,9 @@ terheli.
 
 - a) a külső és a belső környezetnek, az elhelyezésnek, az elrendezésnek, a méreteknek, a berendezéseknek, az eszközöknek, a technológiáknak, a termelési és tárolási kapacitásnak, a felhasznált élelmiszer, élelmiszer-összetevők vagy takarmány biztonságosságának, minőségének, az alkalmazott élelmiszerrel rendeltetésszerűen érintkezésbe kerülő anyagok, tárgyak és az élelmiszerláncban felhasznált fertőtlenítőszerek megfelelőségének, biztonságos alkalmazásának, a rovarok és rágcsálók elleni védekezésnek, az alkalmazott személyek egészségének, szakképesítésének, illetve szaktudásának alkalmasnak kell lennie az élelmiszer- vagy takarmánybiztonsági és -minőségi előírások betartásának folyamatos garantálására;
 - b) olyan önellenőrzési, minőségbiztosítási, nyomonkövetési, termékvisszahívási rendszereket vagy ilyen rendszerek olyan elemeit kell működtetni, amelyekkel biztosítható az élelmiszer vagy takarmány biztonságossága, megfelelő minősége, azonosíthatósága és nyomonkövethetősége;
-- c) az üzemelés teljes időtartama alatt jelen kell lennie egy – az e törvény végrehajtására kiadott jogszabályban meghatározott élelmiszer- vagy takarmánybiztonsági szaktudással rendelkező – azonnali intézkedésre feljogosított, felelős személynek.
+- c) az (1a) bekezdésben foglaltak kivételével az üzemelés teljes időtartama alatt rendelkezésre kell állnia egy – az e törvény végrehajtására kiadott jogszabályban meghatározott élelmiszer- vagy takarmánybiztonsági szaktudással rendelkező –, azonnali intézkedésre feljogosított, felelős személynek.
+
+(1a) Élelmiszer- és a takarmány-mikrovállalkozások esetében az (1) bekezdés c) pontja szerinti azonnali intézkedésre feljogosított, felelős személynek oly módon kell rendelkezésre állnia, hogy szükség esetén rövid időn – legfeljebb 2 órán – belül meg tudjon jelenni a helyszínen.
 
 (2) Az élelmiszer-, illetve takarmány-vállalkozás az élelmiszer, illetve a takarmány előállítását, valamint forgalomba hozatalát megelőzően az e törvény végrehajtására kiadott jogszabályban meghatározott részletes, írásos dokumentációt (így különösen gyártmánylapot, anyaghányad-nyilvántartást) köteles készíteni és vezetni.
 
@@ -754,7 +756,7 @@ esetén.
 - i) részt vesz a növényvédelmi szakemberképzésben, és véleményezi az iskolarendszeren kívüli oktatási pályázatok tematikáját;
 - j) törvényességi szempontból ellenőrzi a növényorvosok, valamint a segédszemélyzet tevékenységét.
 
-38. § (1) Az élelmiszerlánc-felügyeleti szerv az élelmiszerlánc hatósági felügyeletével kapcsolatos feladatainak ellátása érdekében az e törvény végrehajtására kiadott rendeletben, valamint az Európai Unió közvetlenül alkalmazandó jogi aktusában meghatározottak szerint nyilvántartást vezet
+38. § (1) Az élelmiszerlánc-felügyeleti szerv az élelmiszerlánc hatósági felügyeletével kapcsolatos feladatainak ellátása érdekében az e törvény végrehajtására kiadott rendeletben, valamint az Európai Unió közvetlenül alkalmazandó jogi aktusában meghatározottak szerint, a 38/A. § (1) bekezdése szerinti FELIR-ben nyilvántartást vezet
 
 - 1. az állatorvosokról;
 - 2. a termelőkről, állattartókról, lófélék esetében az állat tulajdonosáról, tenyészetekről, állattartási helyekről, állatkereskedőkről;
@@ -777,7 +779,7 @@ esetén.
 - 19. a gombaszakellenőrökről, a 853/2004/EK európai parlamenti és tanácsi rendelet III. melléklet IV. szakasz I. fejezet 2. pontja szerinti képzett személynek minősülő személyekről (a továbbiakban: vadhúsvizsgáló) és a hatósági állatorvos méhegészségüggyel kapcsolatos munkáját segítő, e törvény végrehajtására kiadott rendeletben meghatározott méhészeti ismeretekkel rendelkező személyekről (a továbbiakban: méhegészségügyi felelős);
 - 20.
 - 21. a légi permetezés iránti kérelmekről és az ezzel kapcsolatos döntésekről;
-- 22. a növényorvosokról, a növényvédelmi gépek felülvizsgálatát végzőkről, a használatban lévő növényvédelmi gépekről, a növényvédelmi szolgáltatási tevékenységet végzőkről és a növényvédelmi munkavégzőkről;
+- 22. a növényorvosokról, a növényvédelmi gépek felülvizsgálatára jogosultakról, a használatban lévő növényvédelmi gépekről, a növényvédelmi szolgáltatási tevékenységet végzőkről és a növényvédelmi munkavégzőkről;
 - 23. kistermelői élelmiszer előállítást és forgalmazást végzőkről;
 - 24. élelmiszerrel rendeltetésszerűen érintkezésbe kerülő anyagot és tárgyat előállítókról és az első magyarországi forgalomba hozókról;
 - 25. faanyagok és fa csomagolóanyag kezelőkről és javítókról;
@@ -795,6 +797,7 @@ esetén.
 - 29. minősített vendéglátóipari és közétkeztetést végző létesítményekről.
 - 30. az átruházott feladatok ellátására jogosult élelmiszerlánc-felügyelőkről,
 - 31. a vadbegyűjtő és a mobil vadfeldolgozó létesítményekről.
+- 32. a faanyag-kereskedelmi lánc tevékenységhez kapcsolódó nyomtatvány kiállító programokról.
 
 (2) Az (1) bekezdésben megjelölt nyilvántartás tartalmazza
 
@@ -803,7 +806,7 @@ esetén.
 - c) természetes személyek esetén a természetes személyazonosító adatokat, lakcímet, telephelyet, elérhetőséget, adóazonosító jelét, egyéni vállalkozó természetes személy esetén a székhelyet, főtevékenységet a mindenkor hatályos Önálló Vállalkozók Tevékenységi Jegyzéke (a továbbiakban: ÖVTJ) nómenklatúra szerinti megjelöléssel és adószámot, őstermelő természetes személy esetén az adószámot is,
 - d) jogi személy, valamint jogi személyiséggel nem rendelkező szervezet esetén a (cég)nevet, adószámot, főtevékenységet a mindenkor hatályos gazdasági tevékenységek egységes ágazati osztályozási rendszere (a továbbiakban: TEÁOR) nómenklatúra szerinti megjelöléssel, székhelyet, telephelyet, statisztikai számjelet, elérhetőséget.
 
-(2a) Az (1) bekezdés 3.,12.,13.,14.,15.,17.,18. és 27–29. pontja szerinti nyilvántartás a (2) bekezdés b) pontjában szereplő adatok vonatkozásában közhiteles hatósági nyilvántartásnak minősül.
+(2a)
 
 (3) Élelmiszer-, illetve takarmányvállalkozások, valamint a növényvédelmi szolgáltató vállalkozások működési engedélyének kiadásáról, visszavonásáról vagy módosításáról szóló határozatot az élelmiszerlánc-felügyeleti szervvel is közölni kell, azok nyilvántartásba vétele céljából.
 
@@ -823,7 +826,7 @@ esetén.
 
 38/A. § (1) Az élelmiszerlánc-felügyelet megalapozott irányítása, valamint az Európai Unió követelményeinek teljesítése érdekében az élelmiszerlánc-felügyeleti szerv létrehozza és működteti a FELIR-t.
 
-(1a) A FELIR a természetes személy ügyfél személyes adatai, jogi személy és szervezet esetén a cégjegyzékbe bejegyzett adatai, valamint a (2) bekezdés p) pont kivételével a (2) bekezdés szerinti adatok vonatkozásában közhiteles hatósági nyilvántartásnak minősül.
+(1a) A FELIR – a személyiadat- és lakcímnyilvántartásban, a cégnyilvántartásban, az ingatlan-nyilvántartásban, a közlekedési nyilvántartásban, valamint az adózással kapcsolatos nyilvántartásban szereplő közhiteles adatok kivételével – közhiteles nyilvántartásnak minősül, a nyilvántartás adattartalmát szabályozó jogszabályban meghatározott adatok tekintetében.
 
 (2) A FELIR tartalmazza
 
@@ -832,10 +835,10 @@ esetén.
   - ab) ügyfél által végzett tevékenységre vonatkozó adatokat;
   - ac) ügyfél által végzett tevékenység helyére (beleértve a térinformatikai leíró) vonatkozó adatokat és az ültetvény kataszterben nyilvántartott adatokat;
 - b) az állatok nyilvántartási és állategészségügyi felügyeleti elektronikus rendszerét (a továbbiakban: DATAVET), amely magába foglalja
-  - ba) az állattartó helyeket, állatállományokat, a járványügyi egységeket, a kompartmenteket és a járványügyi intézkedések adatait,
+  - ba) az állattartó helyeket, állatállományokat, a járványügyi egységeket, a kompartmenteket, a 30. § (1) bekezdés m) pontjában meghatározott laboratóriumi vizsgálatok adatait és a járványügyi intézkedések adatait,
   - bb) a lófélék, szarvasmarhafélék, sertés, juh, kecske, baromfi, nyúl, méhészeti, hal, halgazdálkodási akvakultúra termék nyomonkövetési adatait (valamennyi ENAR vonatkozásában), beleértve az állattartó helyek közötti állatmozgások adatait, továbbá az ebeknek az állatok védelméről és kíméletéről szóló 1998. évi XXVIII. törvény alapján nyilvántartott adatait;
 - c) az élelmiszerlánc-felügyelet keretében elvégzett valamennyi ellenőrzés, minősítés és vizsgálat eredményét elektronikusan olyan módon, hogy az ügyfélhez, létesítményhez, és termékhez is köthető legyen;
-- d) az élelmiszerlánc-felügyeleti szerv által vezetett nyilvántartások adatait;
+- d)
 - e) az ökológiai termelési rendszerben részt vevő ügyfelekkel, az ökológiai termelés tanúsításával, ellenőrzésével kapcsolatos adatokat;
 - f) bejelentett élelmiszerlánc-biztonsági problémák adatait;
 - g) a 47/A. § (5) bekezdés szerinti intelligens élelmiszerlánc-elemzési rendszert;
@@ -853,10 +856,10 @@ esetén.
 engedélyezési, nyilvántartási, nyomonkövetési adatait, beleértve azok fogyasztási, felhasználási adatait is;
 
 - i) az Élelmiszerlánc Adatközpontot, beleértve a lakosság hiteles tájékoztatását támogató tartalomszolgáltató rendszer adatait, valamint az élelmiszerlánc-felügyelet alá tartozó termékekre, szolgáltatásokra és tevékenységekre vonatkozó követelmények és védjegyek tudástárát;
-- j) a őstermelők családi gazdaságaira, valamint a mezőgazdasági őstermelőkre vonatkozó nyilvántartásban szereplő adatokat;
+- j)
 - k)
 - l) a talaj, növény, növénytermesztés nyilvántartási, ellenőrzési és engedélyezési rendszerét;
-- m) a faanyag kereskedelmi lánc hatósági felügyeletével kapcsolatos nyilvántartási, ellenőrzési, valamint kockázatelemzést megalapozó adatait;
+- m) a faanyag kereskedelmi lánc hatósági felügyeletével kapcsolatos nyilvántartási, ellenőrzési, valamint kockázatelemzést megalapozó adatokat;
 - n) vállalkozók által az élelmiszerlánc-felügyeleti szervhez beküldött önellenőrzési adatokat;
 - o) a 38/B. § (1) bekezdés szerinti rendszert;
 - p) FELIR felhasználók természetes személyazonosító adatait.
@@ -1958,6 +1961,7 @@ vonatkozó előírásokat;
 - 59. a vadbegyűjtő és a mobil vadfeldolgozó létesítmény üzemeltetésének és a vadhúsvizsgálói tevékenység folytatásának részletes feltételeit, valamint a vadbegyűjtő és a mobil vadfeldolgozó létesítmény, továbbá a vadhúsvizsgálói tevékenység bejelentésére, nyilvántartásba vételére és a nyilvántartásból való törlésre, továbbá a nyilvántartás vezetésére vonatkozó részletes szabályokat;
 - 60. a méhegészségügyi felelősi tevékenység folytatásának részletes feltételeit, valamint a méhegészségügyi felelősi tevékenység bejelentésére, a méhegészségügyi felelős nyilvántartásba vételére és a nyilvántartásból való törlésre, továbbá a nyilvántartás vezetésére vonatkozó részletes szabályokat.
 - 61. az Elektronikus Gazdálkodási Napló személyes adatok körébe nem tartozó tartalmát.
+- 62. a FELIR részét képező nyilvántartások közhiteles adattartalmát.
 
 (3)
 

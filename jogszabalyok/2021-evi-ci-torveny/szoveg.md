@@ -1164,7 +1164,8 @@ Az ingatlan-nyilvántartás szerinti Piliscsaba belterület 1602/4 helyrajzi sz�
 | 4 | Győr, belterület 5761/7/B | ETO Futball Sportszervező és Szolgáltató Kft. |
 | 5 | Győr, belterület 5761/7/C | ETO Futball Sportszervező és Szolgáltató Kft. |
 | 6 | Budapest, belterület 74332 | ÚJPEST 1885 Futball Korlátolt Felelősségű Társaság (székhely: 1044 Budapest, Megyeri út 13., cégjegyzékszám: 01-09-999393) |
-| 7 | Budapest, belterület 26085/1123 (91788/125049 tulajdoni hányad) | VASAS Futball Club Korlátolt Felelősségű Társaság |
+| 7. | Budapest, belterület 26085/1123 (43630/125049 tulajdoni hányad) | VASAS Futball Club Korlátolt Felelősségű Társaság (székhely: 1139 Budapest, Fáy u. 58., cégjegyzékszám: 01-09-717962) |
+| 8. | Budapest, belterület 26085/1123 (48158/125049 tulajdoni hányad) | Vasas Akadémia Korlátolt Felelősségű Társaság (székhely: 1139 Budapest, Fáy utca 58., cégjegyzékszám: 01-09-940733) |
 
 ### 5. melléklet a 2021. évi CI. törvényhez
 

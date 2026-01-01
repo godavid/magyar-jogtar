@@ -30,41 +30,97 @@ egyes gazdaságszabályozási tárgyú törvények módosításáról
 
 (2)
 
-(3)
+(3) Az Szjtv. 1. §-a a következő (11a) bekezdéssel egészül ki:
 
-(4)
+„(11a) Szerencsejáték műszaki-informatikai rendszer auditálását a Magyarország kiberbiztonságáról szóló törvény szerinti, „jelentős” vagy „magas” biztonsági osztályra nyilvántartásba vett auditor végzi, amely rendelkezik a nemzeti akkreditálásról szóló törvény szerint kijelölt akkreditáló szerv vagy az akkreditáló szerv által elismert külföldi akkreditáló szervezet által odaítélt akkreditált státusszal a szerencsejáték műszaki-informatikai rendszerek auditálására (a továbbiakban: auditor).”
 
-#### 2. §
+(4) Az Szjtv. 1. § (12) bekezdése helyébe a következő rendelkezés lép:
 
-#### 3. §
+„(12) A nyereményigazolások zárt számítástechnikai rendszeren keresztül történő kiállításának jóváhagyása iránt a szervező a szerencsejáték-felügyeleti hatóság által rendszeresített formanyomtatványon terjeszthet elő kérelmet. A kérelemhez csatolni kell az auditor által kiadott, a rendszer auditálását igazoló okiratot.”
+
+2. § Az Szjtv. a következő 1/C. §-sal egészül ki:
+
+„1/C. § Ha e törvény vagy e törvény végrehajtására kiadott jogszabály a szerencsejáték műszaki-informatikai rendszer vagy annak egy része auditálását írja elő, akkor a szerencsejáték-szervező megbízásából a szerencsejáték műszaki-informatikai rendszer vagy annak része auditálását elvégző auditor erről – legfeljebb 2 évig érvényes – auditálási okiratot állít ki.”
+
+3. § Az Szjtv. 2. § (6) bekezdése helyébe a következő rendelkezés lép:
+
+„(6) A hírközlő eszköz és rendszer által részvételi jogosultságot biztosító szerencsejáték-szervezés engedélyezéséhez a (3)–(5) bekezdésben foglalt feltételek teljesítésén túl a szervező az auditor által kiállított auditálási okirattal igazolja, hogy
+
+- a) az adott tevékenység kockázati tényezőiről a játékosokat hírközlő eszközön és rendszeren keresztül megfelelően tájékoztatja,
+- b) a játékosok személyes adatai, valamint egyéb, személyiségi jogai védelmét biztosítja, és
+- c) a véletlen elemeket a szerencsejáték műszaki-informatikai rendszer biztosítja.”
 
 #### 4. §
 
-#### 5. §
+5. § (1) Az Szjtv. 12. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) A közigazgatási bírság
+
+- a) 50 ezer forinttól 500 ezer forintig terjedhet az 1. § (8) bekezdésébe, a 9. § (3) bekezdésébe, a 16. § (2) bekezdésébe, a 17. § (1) bekezdésébe, a 18. § (1) bekezdésébe, a 36. § (3) bekezdésébe, a 36/C–36/E. §-ba,
+- b) 100 ezer forinttól 10 millió forintig terjedhet az 1. § (5a)–(6d) bekezdésébe, a 9. § (2) bekezdésébe, a 11. § (7a)–(10) bekezdésébe, a (3b) és (3c) bekezdésbe, a 17. § (4) bekezdésébe, a 26. § (4) bekezdésébe, a 27. § (9) és (11) bekezdésébe, a 29/A. § (3) bekezdésébe, a 29/B. § (2) és (5)–(8) bekezdésébe, a 35/B. §-ba és a 35/D. § b) pontjába, valamint az e törvény végrehajtására kiadott jogszabály rendelkezéseibe,
+- c) 200 ezer forinttól 3 millió forintig terjedhet az 1. § (7a) bekezdésébe, a 9. § (1) bekezdésébe, az ellenőrzési díj meg nem fizetése esetén a 13. § (1) bekezdés b)–d) pontjába, a 18. § (2) bekezdésébe, a 19. § (1) bekezdésébe, a 28. § (1) és (2) bekezdésébe, a 29/B. § (9) bekezdésébe, a 30. § (4) bekezdésébe és a 30/B. §-ba,
+- d) 500 ezer forinttól 100 millió forintig terjedhet az 1. § (4) és (5) bekezdésébe, a 2. § (2) és (7) bekezdésébe, a 26. § (3) bekezdésébe, a 29/B. § (3) bekezdésébe, a 29/C–29/V. §-ba és a 30. § (3) bekezdésébe
+
+ütköző tevékenység vagy mulasztás esetén.”
+
+(2) Az Szjtv. 12. §-a a következő (3b) és (3c) bekezdéssel egészül ki:
+
+„(3b) Ha kétség merül fel a szerencsejáték műszaki-informatikai rendszer megfelelősége tárgyában, a Hatóság kötelezheti a szerencsejáték-szervezőt, hogy saját költségén végeztesse el az auditálást.
+
+(3c) Ha a szerencsejáték műszaki-informatikai rendszer auditálási okiratát jogsértő módon adták ki, vagy a szerencsejáték műszaki-informatikai rendszer nem teljesíti az auditálási követelményeket, a Hatóság kötelezheti az auditort vagy a szerencsejáték-szervezőt a szerencsejáték műszaki-informatikai rendszer ismételt auditálására.”
 
 #### 6. §
 
-#### 7. §
+7. § Az Szjtv. 27/B. § (2) bekezdés d) pontja helyébe a következő rendelkezés lép:
 
-#### 8. §
+[A kérelemhez – a 7/B. § (3) bekezdésében foglaltakon túl – csatolni kell]
 
-#### 9. §
+„d) a kaszinóban működtetni kívánt szerencsejáték-eszközök hitelesítéséről készült bizonyítványok egy-egy eredeti példányát, valamint azok jogszerű birtoklását igazoló okiratot, továbbá az auditor által kiállított, a játékkaszinó minden elsődleges adatforrásként működő számítógépes rendszerének megfelelőségét igazoló auditálási okiratot, amelynek ki kell terjednie a Vhr. szerinti számítógépes elszámolási rendszer auditálására is, amennyiben a szervező ilyen rendszert üzemeltet,”
 
-#### 10. §
+8. § Az Szjtv. 28/B. § (2) bekezdés f) pontja helyébe a következő rendelkezés lép:
 
-#### 11. §
+[Az engedély iránti kérelemhez a 7/B. § (3) bekezdésében foglaltakon túl csatolni kell:]
+
+„f) a hírközlő eszköz és rendszer által részvételi jogosultságot biztosító fogadások engedélyezése esetén a 2. § (6) bekezdésében foglalt követelmények teljesítését igazoló, auditor által kiadott auditálási okiratot.”
+
+9. § Az Szjtv. 29/B. § (15) bekezdés c) pontja helyébe a következő rendelkezés lép:
+
+[A kérelemhez a 7/B. § (3) bekezdésében foglaltakon túl csatolni kell:]
+
+„c) a kártyateremben működtetni kívánt szerencsejáték-eszközök jogszerű birtoklását igazoló okiratot, valamint a Vhr. szerint hitelesítendő eszközök esetében a hitelesítési bizonyítványokat, továbbá az auditor által kiállított, a kártyaterem minden elsődleges adatforrásként működő számítógépes rendszere mint szerencsejáték műszaki-informatikai rendszer megfelelőségét igazoló auditálási okiratot, amelynek ki kell terjednie a Vhr. szerinti számítógépes elszámolási rendszer auditálására is, amennyiben a szervező ilyen rendszert üzemeltet,”
+
+10. § Az Szjtv. 29/F. § (1a) bekezdés a) pontja helyébe a következő rendelkezés lép:
+
+[A kérelemhez a 7/B. § (3) bekezdésében foglaltakon túl csatolni kell]
+
+„a) az auditor által kiállított auditálási okiratot,”
+
+11. § Az Szjtv. III. Fejezete a következő 4. címmel egészül ki:
+
+### „4. CÍM — AZ AUDITOR
+
+35/B. § Az auditor szerencsejáték-szervező tevékenységet nem folytathat. Az auditor, az auditor vezető tisztségviselője, tagja, részvényese, tényleges tulajdonosa, az auditor nevében az auditálási okiratot aláíró személy, valamint az auditot végző foglalkoztatott nem lehet tagja, részvényese, vezető tisztségviselője vagy tényleges tulajdonosa szerencsejáték-szervezőnek.
+
+35/C. § A 35/B. §-ban foglalt rendelkezést a nyilvánosan működő részvénytársaság részvényesére nem kell alkalmazni.
+
+35/D. § A szerencsejáték-felügyeleti hatóság eltilthatja a nyilvántartásba vett auditort az 1. § (11a) bekezdése szerinti tevékenység végzésétől, ha
+
+- a) a 35/B. §-ban meghatározott feltételeket nem teljesíti, vagy
+- b) megállapítást nyer, hogy az auditor által végzett audit vagy kiadott auditálási okirat jogsértő volt.”
 
 #### 12. §
 
 #### 13. §
 
-#### 14. §
+14. § Az Szjtv. 37. § 27. pontja helyébe a következő rendelkezés lép:
+
+„27. Szerencsejáték műszaki-informatikai rendszer: a szerencsejáték-szervezés esetén a játékmenetet, a játékosazonosítást, a játékosi egyenlegek kezelését és az egyéb pénzügyi folyamatokat biztosító műszaki-informatikai berendezés és szoftver.”
 
 #### 15. §
 
 16. § Hatályát veszti az Szjtv.
 
-- a)
+- a) 27/F. § (1) bekezdésében az „és hitelesítés” szövegrész,
 - b)
 - c)
 

@@ -139,6 +139,8 @@ E törvény célja
 
 (2) Zöldterület övezetből, mezőgazdasági terület övezetből és erdőterület övezetből új beépítésre szánt területet, vagy különleges beépítésre nem szánt területet kijelölni nem lehet, kivéve, ha legalább az új kijelöléssel azonos mértékű és legalább azzal megegyező biológiai aktivitás értékű zöldterület övezet, mezőgazdasági terület övezet vagy erdőterület övezet kerül csereterületként kijelölésre az új beépítésre szánt terület kijelölésével azonos település közigazgatási területén belül. Amennyiben a csereterület zöldterület övezetként kerül megvalósításra, a zöldterületnek alkalmasnak kell lennie az általános településrendezési és építési követelményekről szóló kormányrendeletben meghatározott közkerti vagy közparki funkció ellátására.
 
+(2a) A (2) bekezdésétől eltérően szélerőmű és szélerőműpark létesítése esetén nem kell csereterületet biztosítani, ha a villamos energiáról szóló törvény szerinti könnyített térségben valósul meg a beruházás.
+
 (3) Az építészeti-műszaki tervezés és az építési tevékenység során törekedni kell a meglévő növényállomány megtartására, valamint a zöld védjeggyel ellátott termékek alkalmazására.
 
 (4) A jogszabályokban és a hatósági eljárások során a környezetvédelmi, természetvédelmi, területfejlesztési és területrendezési előírások betartásával kell az építésügyi előírásokat meghatározni.
@@ -1251,7 +1253,7 @@ folytatja le.
 
 (3) A főépítészi szervezetrendszert az országos főépítész szakmailag irányítja.
 
-(4) A területi kamara – szakmagyakorlási jogosultságot nem keletkeztető – közhiteles és bárki számára elérhető nyilvántartást vezet a területén lakóhellyel rendelkező állami és az önkormányzati főépítészekről. A nyilvántartásba vétel iránti kérelmet írásban kell előterjeszteni. A nyilvántartásba vételről – valamint ha az adott főépítész még nem kamarai tag, akkor a kamarai tagságról is – a területi kamara elnöksége a törvényi feltételek igazolása után 30 napon belül határoz.
+(4) A területi kamara – szakmagyakorlási jogosultságot nem keletkeztető – kormányrendeletben meghatározottak szerint közhiteles és bárki számára elérhető nyilvántartást vezet a területén lakóhellyel rendelkező állami és az önkormányzati főépítészekről. A nyilvántartásba vétel iránti kérelmet írásban kell előterjeszteni. A nyilvántartásba vételről – valamint ha az adott főépítész még nem kamarai tag, akkor a kamarai tagságról is – a területi kamara elnöksége a törvényi feltételek igazolása után 30 napon belül határoz.
 
 #### 54. § [Az országos és a Balatoni főépítész jogállása és feladatai]
 
@@ -1730,7 +1732,9 @@ kell elkészíteni.
 - b) a magasépítmény elhelyezését jogszabály nem tiltja, és
 - c) a magasépítmény terepcsatlakozásához, lejtős terepen a lejtőoldali legalacsonyabb terepcsatlakozásához mért legmagasabb pontja nem haladja meg a 130 métert.
 
-(11) A (10) bekezdésben foglaltakat nem kell alkalmazni a katonai, honvédelmi és nemzetbiztonsági célú és rendeltetésű építményekre, a mezőgazdasági rendeltetésű építményekre, a víziközművekre, villamos távvezeték tartóoszlopaira és az elektronikus hírközlési építményekre. Az épületekre a (7)–(9) bekezdésben foglaltak az irányadóak. A szélerőművek esetében a (10) bekezdés c) pontja szerinti magasságot a szélerőmű oszlopmagasságára kell érteni.
+(10a) A (10) bekezdés c) pontjától eltérően, ha a szélerőmű a villamos energiáról szóló törvény szerinti könnyített térségben valósul meg, akkor a szélerőmű terepcsatlakozásához, lejtős terepen a szélerőmű lejtőoldali legalacsonyabb terepcsatlakozásához mért legmagasabb pontja nem haladhatja meg a 199 métert.
+
+(11) A (10) bekezdésben foglaltakat nem kell alkalmazni a katonai, honvédelmi és nemzetbiztonsági célú és rendeltetésű építményekre, a mezőgazdasági rendeltetésű építményekre, a víziközművekre, villamos távvezeték tartóoszlopaira és az elektronikus hírközlési építményekre. Az épületekre a (7)–(9) bekezdésben foglaltak az irányadóak. A szélerőművek esetében a (10) bekezdés c) pontja és a (10a) bekezdés szerinti magasságot a szélerőmű oszlopmagasságára kell érteni.
 
 (12) Külterületen magasépítmény elhelyezésének lehetőségét biztosító helyi építési szabályzat készítése vagy módosítása esetén az állami főépítész az egyeztetés záró szakaszában a helyi építési szabályzat, illetve módosítása tervezetét köteles véleményezésre megküldeni az országos főépítésznek. Az országos főépítész a véleménykérés kézhezvételét követő 15 napon belül adja ki a nyilatkozatát, a határidő jogvesztő. Az állami főépítészi vélemény kiadására meghatározott határidőbe nem számít bele az országos főépítész nyilatkozatának kiadására rendelkezésre álló határidő.
 
@@ -2869,9 +2873,20 @@ A műemléki értékek védelmével kapcsolatos költségvetési pénzeszközök
 
 (1) A nemzeti emlékek és a műemléki sajátos helyszínek központi, közhiteles nyilvántartása digitális szakrendszerekből, valamint papír alapú dokumentumokból áll, amelyet a nyilvántartási hatóság vezet.
 
-(2) Az (1) bekezdés szerinti nyilvántartás tartalmazza a védettség létrejöttét, fennállását és megszűnésének tényét, műemléki érték kategóriáját, a védelem fajtáját, az azonosításhoz szükséges adatokat és a műemléki érték leírását. A nyilvántartás részletes adattartalmát az e törvény alapján kiadott kormányrendelet határozza meg.
+(2) Az (1) bekezdés szerinti nyilvántartás tartalmazza
 
-(3) Az (1) bekezdés szerinti nyilvántartás a védettség fennállására vonatkozó adatok tekintetében közhiteles hatósági nyilvántartásnak minősül, amely tanúsítja a védettség létrejöttének, fennállásának vagy megszüntetésének tényét. A védettség tényére vonatkozó adatokhoz való hozzáférés nem korlátozható. A védettség tényére vonatkozó adatot nyilvánosan elérhető elektronikus felületen hozzáférhetővé kell tenni.
+- a) a védettség létrejöttét, fennállását és megszűnésének tényét,
+- b) műemléki érték kategóriáját,
+- c) a védelem fajtáját,
+- d) a védettség földrészletre vonatkozó kiterjedését,
+- e) a védettséget megalapozó érték meghatározását,
+- f) a műemlékvédelmi bírság kategóriáját,
+- g) az azonosításhoz szükséges adatokat és
+- h) a műemléki érték leírását.
+
+(2a) A nyilvántartás részletes adattartalmát az e törvény alapján kiadott kormányrendelet határozza meg.
+
+(3) Az (1) bekezdés szerinti nyilvántartás a (2) bekezdés a)–f) pontjában szereplő adatok tekintetében közhiteles hatósági nyilvántartásnak minősül. A védettség tényére vonatkozó adatokhoz való hozzáférés nem korlátozható. A védettség tényére vonatkozó adatot nyilvánosan elérhető elektronikus felületen hozzáférhetővé kell tenni.
 
 (4) Az (1) bekezdés szerinti nyilvántartáshoz szükséges állami ingatlan-nyilvántartási térképi adatbázis adatait, a legfrissebb országos ortofotó állományt, a Mezőgazdasági Parcella Azonosító Rendszernek a műemléki nyilvántartáshoz szükséges adattartalmú felszínborítási rétegét, a Mezőgazdasági Parcella Azonosító Rendszer programszerű felújításához használt legfrissebb évjárat szerinti ortofotóit, valamint az ország 1:10000 digitális szintvonalrajzát és domborzatmodelljét (DDM-5) a nyilvántartási hatóság számára, a földmérési és térinformatikai államigazgatási szerv, illetve annak jogszabályban kijelölt szolgáltatója térítésmentesen biztosítja.
 
@@ -3670,6 +3685,12 @@ megvalósítására irányul.
 
 (3) Ipari parkban vagy logisztikai parkban megvalósuló kereskedelmi, szolgáltató, ipari, raktározási vagy logisztikai rendeltetésű építési beruházások abban az esetben is kiemelt beruházássá és az azokkal összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilváníthatók, ha európai uniós és központi költségvetési támogatás felhasználása nélkül valósulnak meg.
 
+(3a) Az építési beruházás magáncélú kiemelt beruházássá és a kiemelt beruházással összefüggő közigazgatási hatósági ügy kiemelt jelentőségű üggyé nyilvánítható – abban az esetben is, ha az építési beruházás központi költségvetési vagy európai uniós támogatás felhasználása nélkül valósul meg, továbbá az (1) bekezdés g) pontja szerinti feltételek nem teljesülnek –, ha
+
+- a) az építési beruházás fő célja a FIX 3% hitelprogram feltételeit teljesítő lakásokat tartalmazó, egybefüggő területen elhelyezkedő egy vagy több lakóépület megépítése,
+- b) a kiemelt beruházás keretében legalább 250 lakás valósul meg és
+- c) a b) pont szerinti egy vagy több lakóépületben megvalósuló lakások legalább 70 százaléka megfelel a FIX 3% hitelprogram lakásokra vonatkozó feltételrendszernek.
+
 (4) Az az építési beruházás (e bekezdés alkalmazásában a továbbiakban: beszállító) is kiemelt beruházássá és a kiemelt beruházással összefüggő közigazgatási hatósági ügy kiemelt jelentőségű üggyé nyilvánítható, amely az (1) bekezdésben megállapított feltételeket nem teljesíti – ideértve azt is, hogy európai uniós és központi költségvetési támogatás felhasználása nélkül valósul meg a beszállító építési beruházása –, azonban az (1) bekezdés g) pontja szerinti építési beruházás megvalósítójával (e bekezdés alkalmazásában a továbbiakban: anyacég) írásbeli megállapodást köt a termeléséhez kapcsolódó beszállítói tevékenységről. Ilyen esetben az anyacég az (1) bekezdés g) pontja szerinti feltételeket önállóan vagy a beszállítóval együtt is teljesítheti. Az anyacég és a beszállító kiemelt beruházásának helyszínét és közvetlen környezetét a kiemelt beruházássá nyilvánító törvényben vagy kormányrendeletben meg kell határozni. A beszállítóra egyebekben a magáncélú kiemelt beruházásokra irányadó szabályokat kell alkalmazni.
 
 (5) Több építési beruházás együttesen is kiemelt beruházássá és a kiemelt beruházással összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilváníthatóak, amelyek európai uniós és központi költségvetési támogatás felhasználása nélkül valósulnak meg, az (1) bekezdés g) pontjában szereplő feltételeket azonban együttesen teljesítik. Ilyen esetben az építési beruházásoknak egymással közvetlenül szomszédos ingatlanokon kell megvalósulniuk, és a kiemelt beruházás helyszínét és közvetlen környezetét a kiemelt beruházássá nyilvánító törvényben vagy kormányrendeletben meg kell határozni. Erre a több építési beruházást magában foglaló kiemelt beruházásra egyebekben a magáncélú kiemelt beruházásokra irányadó szabályokat kell alkalmazni.
@@ -3711,6 +3732,98 @@ megvalósítására irányul.
 (12) A 193. § (1) bekezdés a)–e) pontja, valamint a 193. § (2) bekezdése szerinti közcélú kiemelt beruházás megvalósításával összefüggésben, az építmény rendeltetésszerű és biztonságos használhatósága, közszolgálati járművel, vagy gyalogosan történő megközelíthetőségének, valamint közhasználatú építmény esetén az akadálymentes módon történő megközelítésének biztosítása szempontjából, illetve a biztonságos kiürítés biztosíthatósága érdekében, a közterület és az építmény szintkülönbségének áthidalása (terepcsatlakozás) céljából az építtető által – a közterületre a feltétlenül szükséges mértékben – rámpa, lépcső, vagy egyéb szintemelés építéséhez nem szükséges tulajdonosi hozzájárulás.
 
 (13) Az építtető a (12) bekezdés szerint közterületen elhelyezett építményrészt az adott közterületre vonatkozó jogszabályi és építési követelményeknek megfelelően köteles megvalósítani. Az építtető vagy az ingatlan tulajdonosa, használója a (12) bekezdés szerint létrejött, közterületen elhelyezkedő építményrész tekintetében a beruházás befejezését követően a közhasználatot nem korlátozhatja, és a beruházást követően egyebekben az építményrészre a közterületre vonatkozó szabályokat kell alkalmazni.
+
+#### 194/A. § [A FIX 3% hitelprogram feltételeit teljesítő lakásokat tartalmazó egy vagy több lakóépület megépítése érdekében magáncélú kiemelt beruházássá nyilvánított beruházásokra vonatkozó szabályok]
+
+(1) A 193. § (3a) bekezdése szerinti magáncélú kiemelt beruházássá nyilvánítás kezdeményezése során az építtető közokiratban vagy teljes bizonyító erejű magánokiratban nyilatkozik – több építtető esetén az építtetők együttesen nyilatkoznak – arról, hogy a beruházás a 193. § (3a) bekezdése szerinti feltételeknek maradéktalanul megfelel, amelyhez csatolja – a kormányzati stratégiák kidolgozásának támogatásáért felelős miniszter által vezetett minisztérium honlapján közzétett tájékoztató szerint – az e feltételeknek való megfelelést és a beruházás kiemelt beruházássá nyilvánításának szükségességét alátámasztó, a tervezett lakásépítési beruházás megvalósításával kapcsolatos következő információkat tartalmazó dokumentumokat:
+
+- a) a beruházási terület pontos meghatározását,
+- b) a területen megvalósítani tervezett beruházások bemutatását,
+- c) koncepciótervet, látványtervet,
+- d) tulajdoni lapokat, térképmásolatot, földhasználati lapokat,
+- e) szükség esetén a tulajdonosi hozzájárulásokat,
+- f) a területen korábban folytatott tevékenységek bemutatását,
+- g) a nyilatkozat (2) bekezdés szerinti benyújtásakor fennálló környezeti állapot, környezethasználat vizsgálatát, főbb jellemzőinek bemutatását,
+- h) a beruházás becsült költségigényének meghatározását,
+- i) a területtel kapcsolatos környezeti felelősségi kérdéseket,
+- j) a fejlesztések pozitív és negatív hatásait, externáliákat,
+- k) a terület fejlesztésre való alkalmassá tételének egyéb feltételeit és az ehhez szükséges intézkedések bemutatását,
+- l) a beruházási területre vonatkozó, speciális jogi szabályozás szükségességének meghatározását, a hatályos jogszabályoktól való eltérések összefoglalását.
+
+(2) Az építtető az (1) bekezdés szerinti nyilatkozatát és az ahhoz csatolt dokumentumokat a kormányzati stratégiák kidolgozásának támogatásáért felelős miniszterhez nyújtja be az általa vezetett minisztérium honlapján közzétett postai vagy elektronikus levelezési címre. A kormányzati stratégiák kidolgozásának támogatásáért felelős miniszter a nyilatkozatot – véleményével kiegészítve – megküldi az építésügyi szabályozásért és építéshatósági ügyekért felelős miniszter részére.
+
+(3) A beruházás 193. § (3a) bekezdése szerinti magáncélú kiemelt beruházássá nyilvánítását követően
+
+- a) a 193. § (3a) bekezdése szerinti feltételek teljesítéséért a mindenkori építtető felelős azzal, hogy a 193. § (3a) bekezdés c) pontja szerinti feltételnek legkésőbb az építési engedély véglegessé válásának napjától számított három éven belül kell teljesülnie, amely határidő a lakások kevesebb, mint 50 százalékának értékesítése esetén egy évvel meghosszabbodik, továbbá
+- b) az építtető személyében bekövetkező változás esetén a régi és az új építtető köteles e tényt a kormányzati stratégiák kidolgozásának támogatásáért felelős miniszter részére az arra vonatkozó szerződés megkötésétől számított 30 napon belül a (2) bekezdés szerinti postai vagy elektronikus úton bejelenteni, az (1) bekezdés szerinti nyilatkozat új építtető általi megtételével együtt.
+
+(4) Több építtető esetén a (3) bekezdés a) pontját azzal az eltéréssel kell alkalmazni, hogy a 193. § (3a) bekezdése szerinti feltételek, illetve az e § szerinti kötelezettségek teljesítéséért az építtetők egyetemlegesen felelősek.
+
+(5) A 193. § (3a) bekezdése szerint magáncélú kiemelt beruházássá nyilvánított beruházás esetén az építtető köteles a kormányzati stratégiák kidolgozásának támogatásáért felelős miniszter részére az általa vezetett minisztérium honlapján közzétett formanyomtatvány alkalmazásával beszámolót benyújtani
+
+- a) első alkalommal a beruházásra vonatkozó építési engedély véglegessé válását követő év március 31. napjáig, valamint
+- b) második alkalommal a kiemelt beruházássá nyilvánított beruházás tekintetében a használatbavételi engedély véglegessé válásának napját követő 120 napon belül.
+
+(6) Az (5) bekezdés a) és b) pontja szerinti beszámolónak tartalmaznia kell
+
+- a) az építési engedéllyel rendelkező lakások számát és azok alapterületét, valamint
+- b) a már értékesített lakások vonatkozásában a vevők természetes vagy jogi személy jellegére, valamint a természetes személy vevők állampolgárságára és életkorára vonatkozó összesített adatokat, továbbá e lakások számát és négyzetméterárát, az alábbi elkülönítésben:
+  - ba) az 1 500 000 forint/négyzetméterár felett és 100 000 000 forint vételár felett értékesített lakások,
+  - bb) az 1 500 000 forint/négyzetméterár felett és 100 000 000 forint vételár alatt értékesített lakások,
+  - bc) az 1 500 000 forint/négyzetméterár alatt és 100 000 000 forint vételár felett értékesített lakások,
+  - bd) az 1 500 000 forint/négyzetméterár alatt és 100 000 000 forint vételár alatt értékesített lakások,
+
+azzal, hogy az egyes lakások négyzetméterárának számításakor a lakás nettó alapterületét és az erkély, loggia, valamint a terasz nettó alapterületének 50%-át kell figyelembe venni.
+
+(7) A 193. § (3a) bekezdése szerint magáncélú kiemelt beruházássá nyilvánított beruházás esetén az építtető az építési engedélyezési eljárás megindításától számított 30 napon belül tájékoztatja a kormányzati stratégiák kidolgozásának támogatásáért felelős minisztert, valamint az építésügyi szabályozásért és építéshatósági ügyekért felelős minisztert az építési engedélyezési eljárás megindításáról. Az építtető köteles továbbá az építési engedély véglegessé válásának napjától számított 60 napon belül az építési munkaterületet átadni a kivitelező részére.
+
+(8) A beruházás 193. § (3a) bekezdése szerinti magáncélú kiemelt beruházássá nyilvánítása és a beruházással összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánítása e törvény erejénél fogva megszűnik, és a Kormány gondoskodik a beruházást kiemelt beruházássá és a beruházással összefüggő közigazgatási hatósági ügyeket kiemelt jelentőségű üggyé nyilvánító kormányrendelet ezzel összhangban történő módosításáról, illetve hatályon kívül helyezéséről, ha az építtető a beruházás 193. § (3a) bekezdése szerinti magáncélú kiemelt beruházássá nyilvánításáról és a beruházással összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló rendelkezés hatálybalépésének napjától számított hat hónapon belül
+
+- a) a 193. § (3a) bekezdése szerinti magáncélú kiemelt beruházássá nyilvánított beruházásra vonatkozóan nem nyújt be építési engedély iránti kérelmet az építésügyi hatóság részére, vagy
+- b) az a) pont szerinti kérelmet olyan tartalommal nyújtja be az építésügyi hatóság részére, hogy a kérelemben megjelölt, megvalósítandó lakások száma nem éri el a 193. § (3a) bekezdés b) pontja szerinti lakásszámot.
+
+A kiemelt jelentőségű ügy koordinációjára kijelölt főispán a kormányrendeletben előírt tájékoztatási kötelezettségének teljesítése körében az a) és b) pontban foglaltakról tájékoztatja a közigazgatás-szervezésért felelős minisztert, és ezzel egyidejűleg a kormányzati stratégiák kidolgozásának támogatásáért felelős minisztert, valamint az építésügyi szabályozásért és építéshatósági ügyekért felelős minisztert.
+
+(9) A beruházás 193. § (3a) bekezdése szerinti magáncélú kiemelt beruházássá nyilvánítását követően
+
+- a) a 193. § (3a) bekezdése szerinti feltételek építtető által a (3) bekezdés a) pontja szerinti határidőn belüli nemteljesítésének, vagy
+- b) a (3) bekezdés b) pontja szerinti bejelentési, az (5) bekezdés szerinti beszámolási, illetve a (7) bekezdés szerinti tájékoztatási kötelezettség határidőre történő nemteljesítésének, illetve az annak keretében történt hiányos vagy valótlan tartalmú adatszolgáltatás
+
+észlelése esetén a Gazdasági Versenyhivatal – a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény (a továbbiakban: Tpvt.) 67. § (2) bekezdésében meghatározott feltételek fennállása esetén – versenyfelügyeleti eljárást indít.
+
+(10) A (9) bekezdés szerinti versenyfelügyeleti eljárásban a Gazdasági Versenyhivatal a Tpvt. 21. §-ának megsértése esetén irányadó rendelkezések szerint jár el azzal az eltéréssel, hogy ha a Gazdasági Versenyhivatal jogsértést állapít meg, a versenyfelügyeleti eljárást lezáró határozatában
+
+- a) elrendelheti a jogsértő magatartás megszüntetését és megtiltja annak folytatását, illetve
+- b) bírságot szabhat ki.
+
+(11) A (10) bekezdés b) pontja szerinti bírság
+
+- a) összege a 193. § (3a) bekezdés c) pontjában meghatározott, a FIX 3% hitelprogram feltételeinek megfelelő, értékesített lakásoknak az építési engedély szerinti lakások számához viszonyított 70 százalékos arányszám elmaradása esetén
+  - aa) ha az értékesített és a FIX 3% hitelprogram lakásokra vonatkozó feltételrendszerének megfelelő lakások aránya eléri legalább az építési engedély szerinti lakások számának 60 százalékát, de nem éri el a 70 százalékot, jogsértéssel érintett lakásonként legalább 1 000 000 forint, legfeljebb 3 000 000 forint,
+  - ab) ha az értékesített és a FIX 3% hitelprogram lakásokra vonatkozó feltételrendszerének megfelelő lakások aránya eléri legalább az építési engedély szerinti lakások 50 százalékát, de nem éri el a 60 százalékát, jogsértéssel érintett lakásonként legalább 3 000 000 forint, legfeljebb 5 000 000 forint,
+  - ac) ha az értékesített és a FIX 3% hitelprogram lakásokra vonatkozó feltételrendszerének megfelelő lakások aránya nem éri el az építési engedély szerinti lakások 50 százalékát, jogsértéssel érintett lakásonként legalább 5 000 000 forint, legfeljebb 10 000 000 forint,
+- b) a (3) bekezdés b) pontja szerinti bejelentési, az (5) bekezdés szerinti beszámolási, illetve a (7) bekezdés szerinti tájékoztatási kötelezettség határidőre történő nemteljesítésének, illetve az annak keretében történt hiányos vagy valótlan tartalmú adatszolgáltatás esetén ismételten is kiszabható, azzal, hogy a bírság összege
+  - ba) első alkalommal 5 000 000 forint,
+  - bb) második alkalommal 10 000 000 forint,
+  - bc) harmadik alkalommal 15 000 000 forint,
+  - bd) negyedik alkalommal 20 000 000 forint,
+  - be) ötödik és minden további alkalommal 25 000 000 forint.
+
+(12) A (10) bekezdés b) pontja szerinti bírság az államháztartás központi alrendszerének bevétele.
+
+(13) A (11) bekezdés a) pont aa)–ac) alpontja szerinti bírság kiszabása során a Gazdasági Versenyhivatal figyelembe veszi
+
+- a) a 193. § (3a) bekezdése szerint kiemelt beruházássá nyilvánított beruházás nagyságát és területi elhelyezkedését,
+- b) a jogsértéssel elért esetleges vagyoni előny mértékét,
+- c) a 193. § (3a) bekezdés c) pontjában foglalt 70%-os arányszámtól történő eltérés mértékét,
+- d) a jogsértés helyreállíthatóságát,
+- e) a lakáspiac és az építőipari árak alakulását,
+- f) a beruházás során alkalmazott értékesítési gyakorlatot, valamint
+- g) a hatósággal tanúsított együttműködő magatartást.
+
+(14) A (9) bekezdés szerinti jogsértő magatartás észlelése esetén – a bejelentésre vonatkozó szabályok kivételével – a Tpvt. IX. Fejezetét alkalmazni kell.
+
+(15) A kormányzati stratégiák kidolgozásának támogatásáért felelős miniszter az (5) bekezdés a) és b) pontja szerinti beszámolókat a beérkezéstől számított nyolc napon belül továbbítja a Gazdasági Versenyhivatal részére. Amennyiben az építtető a beszámolót az (5) bekezdés a) és b) pontja szerinti határidőben nem nyújtja be, a kormányzati stratégiák kidolgozásának támogatásáért felelős miniszter a mulasztást követő harminc napon belül e tényről tájékoztatja a Gazdasági Versenyhivatalt.
 
 #### 195. § [A közcélú nyomvonalas építmények, mint közcélú kiemelt beruházások megvalósítása során irányadó különös szabályok]
 
@@ -4408,13 +4521,23 @@ ellenőrzi.
 
 (3) A (2) bekezdés a) pontja szerinti esetben a jogsértő tevékenységért az azt megvalósító fővállalkozó kivitelező felelős.
 
-224. § (1)
+224. § (1) Kormányrendeletben foglaltak szerint az Üvegkapu nyilvántartja a kormányrendeletben meghatározott egyes anyagok munkaterületre történő be- és kiszállításának mennyiségi és eseményadatait. A nyilvántartásban történő adatfelvétel elsődlegesen valós idejű adatrögzítés – kormányrendeletben meghatározott feltételek teljesülése esetén a szállítást megelőző vagy követő adatfelvétel, továbbá az intelligens szállítólevél – alapján történik.
 
-(2)
+(2) Az (1) bekezdés szerinti adatrögzítés építési anyag esetében egyedi termékazonosító kóddal történik. Kormányrendeletben, továbbá az általános szerződési feltételekben meghatározottak szerint az Üvegkapu kormányrendeletben kijelölt üzemeltetője közreműködik az egyedi termékazonosító kód rendelkezésre állásában, illetve megszerzésében.
 
-(3)
+(3) Az Üvegkapuban az építési munkaterületre történő be- vagy kilépésére figyelemmel a következő adatokat kell rögzíteni:
 
-(4)
+- a) az építési termék egyedi termékazonosító kódját, mennyiségi adatait,
+- b) az építési alapanyagok megnevezését vagy megjelölését, kormányrendeletben meghatározott kategóriáját, mennyiségi adatait,
+- c) a szállítmány feladójának, valamint a címzettjének az adószámát,
+- d) az anyagok akadálymentes célú felhasználhatóságára vonatkozó adatokat, valamint
+- e) kormányrendeletben meghatározott további – különösen az (5) bekezdés szerint átvett – adatokat.
+
+(4) A Nemzeti Építőipari Felügyeleti és Adatszolgáltató Rendszer automatikus adattovábbítással
+
+- a) az elektronikus építési naplónak átadja az építési anyagok tranzakciós adatait,
+- b) építési-bontási hulladékok esetében a hulladékgazdálkodási nyilvántartásnak átadja a hulladékok tranzakciós adatait, valamint
+- c) kormányrendeletben foglalt más nyilvántartáshoz vagy adatbázishoz is kapcsolódhat.
 
 (5)
 
@@ -4749,6 +4872,18 @@ bizonyos időtartammal automatikusan meghosszabbodik.
 (1) Az e rendelkezés hatálybalépése előtt kiemelten közérdekű beruházássá, nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházássá, illetve közcélú kiemelt beruházássá nyilvánított beruházásokkal összefüggő ügyekre a továbbiakban a 193. § (1) bekezdés a)–e) pontja és a 193. § (2) bekezdése kiemelt beruházásokra vonatkozó szabályait kell alkalmazni azzal, hogy a kiemelten közérdekű beruházássá, nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházássá, illetve közcélú kiemelt beruházássá nyilvánító törvény vagy kormányrendelet módosítása esetén a 225. § (2) bekezdése szerinti felhatalmazó rendelkezések alkalmazandók.
 
 (2) Az (1) bekezdésben meghatározottak kivételével a korábban nemzetgazdasági szempontból kiemelt jelentőségű üggyé és beruházássá, illetve magáncélú kiemelt beruházássá nyilvánított beruházással összefüggő ügyekre a továbbiakban a 193. § (1) bekezdés f) és g) pontjára, valamint a a 193. § (3)–(5) bekezdésére vonatkozó szabályokat kell alkalmazni azzal, hogy a nemzetgazdasági szempontból kiemelt jelentőségű üggyé és beruházássá, illetve magáncélú kiemelt beruházássá nyilvánító kormányrendeletnek a 225. § (2) bekezdés a)–d) pontja és a 225. § (2) bekezdés f)–h) pontja szerinti felhatalmazó rendelkezések alapján történő módosítására csak abban az esetben kerülhet sor, ha a hatályos rendelkezések szerint is – ideértve a 193. § (3)–(5) bekezdésében foglaltakat is – az építési beruházást magáncélú kiemelt beruházássá lehetne nyilvánítani.
+
+(3) E törvénynek a vállalkozói adminisztratív terhek csökkentésére irányuló egyes törvények módosításáról szóló 2025. évi XCIII. törvénnyel (a továbbiakban: Módtv.) megállapított 193. § (3a) bekezdését, továbbá 194/A. §-át e rendelkezések hatálybalépésekor hatályos építési engedéllyel rendelkező, azonban kiemelt beruházássá még nem nyilvánított építési beruházásokra, valamint az e beruházásokkal összefüggő, e rendelkezések hatálybalépésekor folyamatban lévő hatósági eljárásokra is alkalmazni kell a 193. § (3a) bekezdése szerinti esetben.
+
+(4) A magyar építészetről szóló törvény kiemelt beruházások körét meghatározó rendelkezéseinek eltérő alkalmazásáról szóló 257/2025. (VIII. 11.) Korm. rendelet [a továbbiakban: 257/2025. (VIII. 11.) Korm. rendelet] alapján magáncélú kiemelt beruházássá nyilvánított beruházások a 193. § (3a) bekezdése szerinti kiemelt beruházásnak minősülnek.
+
+(5) E törvénynek a Módtv.-vel megállapított 194/A. § (3)–(15) bekezdését a (4) bekezdés szerinti beruházások esetén is alkalmazni kell azzal, hogy ha a 194/A. § (3) bekezdés b) pontja szerinti bejelentési, illetve (7) bekezdése szerinti tájékoztatási kötelezettség teljesítésére vonatkozó valamely határidő e rendelkezések hatálybalépésének napján már letelt vagy abból kevesebb, mint 30 nap van hátra, akkor azt az építtető e rendelkezések hatálybalépését követő 30 napon belül köteles teljesíteni.
+
+(6) Ha a (4) bekezdés szerinti beruházások esetén a 257/2025. (VIII. 11.) Korm. rendelet 2. § (3) és (4) bekezdése alapján tett nyilatkozat nem felel meg a 194/A. § (1) és (2) bekezdése szerinti követelményeknek, akkor az építtető a 194/A. § (1) és (2) bekezdése szerinti nyilatkozatot, illetve az ahhoz csatolandó dokumentumokat a kormányzati stratégiák kidolgozásának támogatásáért felelős miniszterhez az e rendelkezések hatálybalépését követő 60 napon belül köteles benyújtani. Ha az építtető e kötelezettségének a 60 napos határidőn belül maradéktalanul nem tesz eleget, a beruházás kiemelt beruházássá nyilvánítása és a beruházással összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánítása e törvény erejénél fogva megszűnik, és a Kormány gondoskodik a beruházást kiemelt beruházássá és a beruházással összefüggő közigazgatási hatósági ügyeket kiemelt jelentőségű üggyé nyilvánító kormányrendelet ezzel összhangban történő módosításáról, illetve hatályon kívül helyezéséről.
+
+#### 234/A. § [Szélerőművekre vonatkozó átmeneti rendelkezések]
+
+E törvénynek az energetikai tárgyú törvények módosításáról szóló 2025. évi XCVI. törvénnyel (a továbbiakban: Mód.Tv.) megállapított 7. § (2a) bekezdését és 76. § (10a) bekezdését a Mód.Tv. hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
 
 #### 52. Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 

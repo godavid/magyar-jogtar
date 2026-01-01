@@ -440,7 +440,7 @@ köteles átadni.
 
 ### A videómegosztóplatform-szolgáltatásokra vonatkozó különös szabályok
 
-15/C. § (1) A videómegosztóplatform-szolgáltatás nyújtásának megkezdésére irányuló szándékot a videómegosztóplatform-szolgáltatónak nyilvántartásba vétel céljából be kell jelentenie a Hivatalhoz, amely a videómegosztóplatform-szolgáltatásokról közhiteles nyilvántartást vezet. A nyilvántartás a (2) bekezdés f) és h) pontja szerinti adatok vonatkozásában minősül közhiteles hatósági nyilvántartásnak. A nyilvántartásba vétel nem feltétele a szolgáltatásnyújtás megkezdésének.
+15/C. § (1) A videómegosztóplatform-szolgáltatás nyújtásának megkezdésére irányuló szándékot a videómegosztóplatform-szolgáltatónak nyilvántartásba vétel céljából be kell jelentenie a Hivatalhoz, amely a videómegosztóplatform-szolgáltatásokról nyilvántartást vezet. A nyilvántartás a (2) bekezdés f) és h) pontja szerinti adatok vonatkozásában minősül közhiteles hatósági nyilvántartásnak. A nyilvántartásba vétel nem feltétele a szolgáltatásnyújtás megkezdésének.
 
 (2) A videómegosztóplatform-szolgáltatás Hivatalhoz történő bejelentésében meg kell jelölni
 

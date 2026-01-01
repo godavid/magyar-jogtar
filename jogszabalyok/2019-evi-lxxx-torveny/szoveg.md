@@ -1175,7 +1175,7 @@ létrehozott nonprofit gazdasági társaság ágazati képzőközpontként műk�
 - c) a gazdasági kamara adatait, képviselőjének és a nyilvántartásba-vételi eljárásba bevont szakértő nevét, és
 - d) a Kormány rendeletében meghatározott, személyes adatnak nem minősülő adatokat.
 
-(4) A duális képzőhelyek nyilvántartása közhiteles hatósági nyilvántartásnak minősül.
+(4)
 
 (5) A nyilvántartásba-vételi eljárás ingyenes.
 
@@ -1815,7 +1815,7 @@ A szakképzési közokirat külföldön történő felhasználásához – ha ne
 - 29. a diákönkormányzat működésére vonatkozó részletes szabályokat,
 - 30. a képzési hitel igénybevételének részletes feltételeit és eljárási szabályait, a hitelszerződés megkötésének, a képzési hitel kamata meghatározásának, igénylésének, folyósításának, törlesztésének, előtörlesztésének, támogatásának, záró elszámolásának, megszűnésének, továbbá felmondásának részletes szabályait, az együttműködési megállapodás megkötésének és felmondásának részletes szabályait, valamint a képzési hitelrendszer működtetésének részletes szabályait,
 - 30a. a diákigazolvány kiadásával és használatával kapcsolatos szabályokat,
-- 31. a duális képzőhelyek nyilvántartásának – személyes adatnak nem minősülő – adattartalmát, a nyilvántartásba-vételi eljárás részletes szabályait, a szakirányú oktatási célt szolgáló tanműhelyként történő nyilvántartásba vétel feltételeit, a duális képzőhely felelősségbiztosításának mértékét és a duális képzőhelyek ellenőrzésének részletes szabályait,
+- 31. a duális képzőhelyek nyilvántartásának – személyes adatnak nem minősülő – adattartalmát, a közhiteles adatok körét, a nyilvántartásba-vételi eljárás részletes szabályait, a szakirányú oktatási célt szolgáló tanműhelyként történő nyilvántartásba vétel feltételeit, a duális képzőhely felelősségbiztosításának mértékét és a duális képzőhelyek ellenőrzésének részletes szabályait,
 - 32. a szakirányú oktatásról való mulasztás igazolásának, pótlásának módját, az igazolatlan mulasztás következményeit, az igazolatlan mulasztások esetén követendő eljárás szabályait,
 - 33. a tiltott tárgyak és a használatában korlátozott tárgyak – szakképző intézmény típusára, évfolyamonként meghatározott – körét, ezek átvételének, az ellenőrzési jog gyakorlásának és a tárgyak visszaadásának szabályait, az igazgató, valamint az oktató vagy a pedagógus általi, a tanuló részére a birtoklás és használat engedélyezésére vonatkozó részletes szabályokat,
 - 34. a szakképzési munkaszerződés tartalmi elemeit,
@@ -1833,7 +1833,7 @@ A szakképzési közokirat külföldön történő felhasználásához – ha ne
 - 43. az életpálya-tanácsadással, a pályaorientációval és a tanulmányi versenyek szervezésével összefüggő feladatokat, a pályaorientációval és az egész életen át tartó életpálya-tanácsadással és pályaorientációval kapcsolatos adatszolgáltatások részletes szabályait, a pályaorientációval és az egész életen át tartó életpálya-tanácsadási és pályaorientációs szolgáltatásokat koordináló szervezet, valamint az életpálya-tanácsadást és a pályaorientációt nyújtó szervezetek feladatait,
 - 44. a képzési tanács összetételét és működésének részletes szabályait,
 - 45. az önköltség szakmánként alkalmazandó súlyszorzóját,
-- 46. a szakképzés információs rendszerében tárolt – személyes adatnak nem minősülő – adatok körét, azok közzétételének és továbbításának módját,
+- 46. a szakképzés információs rendszerében tárolt – személyes adatnak nem minősülő – adatok körét, azok közhitelességét, közzétételének és továbbításának módját,
 - 47. a korai iskolaelhagyás megelőzését támogató rendszer működtetésének szabályait és az abba történő adatszolgáltatás rendjét,
 - 48. a külföldi szakképző intézmény Magyarországon történő és a magyar szakképző intézmény külföldön történő működésének és nyilvántartásának részletes szabályait.
 - 49. az akkreditált szakképzési vizsgaközpont tevékenységének folytatásához szükséges engedélyezési eljárás és követelményrendszer részletes szabályait, ellenőrzésének részletes szabályait, a nyilvántartásból való törlés eseteit,

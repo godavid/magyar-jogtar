@@ -69,10 +69,10 @@ a közpénzek szabályozásával összefüggő egyes törvények, valamint a sz�
 19. § Az államháztartásról szóló 2011. évi CXCV. törvény
 
 - 1.
-- 2.
+- 2. 33. § (3c) bekezdésében az „A (3a) és a (3b) bekezdés szerinti előirányzat-átcsoportosítás esetén az ugyanazon” szövegrész helyébe az „Az ugyanazon” szöveg
 - 3.
 - 4.
-- 5.
+- 5. 33. § (4b) bekezdés c) és d) pontjában az „a (3b) bekezdésben meghatározott fejezetek kivételével a (3a) bekezdés” szövegrész helyébe az „a (3a) bekezdés” szöveg,
 - 6.
 - 7.
 - 8.
@@ -81,10 +81,10 @@ lép.
 
 20. § Hatályát veszti az államháztartásról szóló 2011. évi CXCV. törvény
 
-- 1.
-- 2.
-- 3.
-- 4.
+- 1. 33. § (3b) bekezdése,
+- 2. 33. § (4) bekezdésében a „(3)–(3c) bekezdés” szövegrész,
+- 3. 33. § (4a) bekezdésében a „(3a)–(3c) bekezdés” szövegrész,
+- 4. 33. § (4c) bekezdése, és
 - 5.
 
 #### 5. A nemzeti vagyonról szóló 2011. évi CXCVI. törvény módosítása
@@ -111,7 +111,7 @@ lép.
 
 #### 29. §
 
-#### 30. §
+30. § Nem lép hatályba a Magyarország 2025. évi központi költségvetésének megalapozásáról szóló 2024. évi LXXIV. törvény 151. §-a.
 
 #### 8. Hatályba léptető rendelkezések
 

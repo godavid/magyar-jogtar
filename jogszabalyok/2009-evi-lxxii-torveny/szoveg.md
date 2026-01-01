@@ -148,7 +148,7 @@ alapján rendelheti el.
 
 (2a) A rendőrség a bántalmazottal a védelmi tanúsítványt, a bántalmazóval a védelmi tanúsítványról szóló, a 606/2013/EU rendelet 8. cikkének (1) bekezdése szerinti értesítést az (1) és (2) bekezdésben foglaltak szerint közli.
 
-(3) A rendőrség a bántalmazott kérésére, illetve beleegyezésével a határozatot megküldi az illetékes családsegítő szolgálatnak, a gyermekjóléti szolgálatnak abban az esetben, ha a bántalmazott háztartásában kiskorú él. Ha a bántalmazott gyámság vagy gondnokság alá tartozó személy, a rendőrség a határozatot a gyámolt vagy a gondnokolt állandó lakóhelye szerinti gyámhatóságnak is megküldi.
+(3) A rendőrség a bántalmazott kérésére, illetve beleegyezésével a határozatot megküldi az illetékes családsegítő szolgálatnak, a gyermekjóléti szolgálatnak abban az esetben, ha a bántalmazott háztartásában kiskorú él. Ha a bántalmazott gyámság vagy gondnokság alá tartozó személy, a rendőrség a határozatot a gyámolt vagy a gondnokolt lakóhelye szerinti gyámhatóságnak is megküldi.
 
 (3a) A rendőrség a távoltartó határozatot megküldi az érdekérvényesítés elősegítése szolgáltatás igénybevételének lehetőségét biztosító áldozatsegítő központnak.
 
@@ -203,7 +203,7 @@ a 606/2013/EU rendelet 14. cikke szerinti tanúsítványt állít ki.
 
 14. § (1) A megelőző távoltartás elrendelésére irányuló bírósági nemperes eljárást a rendőrség hivatalból kezdeményezi, ha ideiglenes megelőző távoltartást rendelt el. Megelőző távoltartás elrendelésére irányuló bírósági nemperes eljárás megindítását a bántalmazott, illetve a bántalmazottnak a Ptk.-ban meghatározott közeli hozzátartozója és hozzátartozója, valamint bejegyzett élettársa is kérelmezheti. Az ideiglenes megelőző távoltartást elrendelő rendőrség a kezdeményezésben hivatalból, más esetben a kérelem benyújtására jogosult személy kérésére azonnal, írásban nyilatkozik arról, hogy a bántalmazó mozgását nyomon követő technikai eszköz alkalmazásának feltételei rendelkezésre állnak-e.
 
-(1a) A megelőző távoltartás elrendelésére irányuló bírósági nemperes eljárást a Gyvt. 51. § (5) és (10) bekezdése szerinti befogadás esetén a krízisközpont vagy a titkos menedékház képviselője is kezdeményezheti. Ebben az esetben a kezdeményező a bíróság rendelkezésére bocsátja a befogadást alátámasztó tényeket tartalmazó dokumentumot.
+(1a) A megelőző távoltartás elrendelésére irányuló bírósági nemperes eljárást a Gyvt. 51. § (5) és (10) bekezdése szerinti befogadás esetén a krízisközpont vagy a titkos menedékház képviselője is kezdeményezheti. Ebben az esetben a kezdeményező a bántalmazott mellett kérelmezőnek minősül és a bíróság rendelkezésére bocsátja a befogadást alátámasztó tényeket tartalmazó dokumentumot.
 
 (1b) Az (1a) bekezdés alapján kezdeményezett eljárás esetén a bántalmazott tényleges tartózkodási helyének adatait zártan kell kezelni, azokat a bántalmazó nem ismerheti meg.
 
@@ -239,6 +239,8 @@ a 606/2013/EU rendelet 14. cikke szerinti tanúsítványt állít ki.
 
 (7) A személyes meghallgatáson a bíróság – a rendőrségi iratokban vagy a kérelemben foglaltakra, így különösen a hozzátartozók közötti erőszak módjára, rendszerességére, a bántalmazott kiszolgáltatott helyzetére figyelemmel – a bántalmazott és a bántalmazó egymás jelenlétében való meghallgatását részben vagy teljes egészében mellőzheti. Indokolt esetben a bíróság gondoskodik annak megakadályozásáról is, hogy a bántalmazott és a bántalmazó a bíróság épületében személyesen találkozzon. A határozat közlésére ez esetben is a 16. § (3) bekezdését kell megfelelően alkalmazni.
 
+(8) A bíróság a megelőző távoltartás elrendelésére irányuló eljárásban a kérelmező indítványára, amennyiben a bántalmazott krízisközpontban vagy titkos menedékházban kerül elhelyezésre, elrendeli a bántalmazott meghallgatásának elektronikus hírközlő hálózaton keresztül történő lefolytatását.
+
 16. § (1) A megelőző távoltartást a bíróság akkor rendeli el, ha az eset összes körülményéből, így különösen a bántalmazó és a bántalmazott által előadott tényekből, a hozzátartozók közötti erőszakra utaló jelekből, a bántalmazó és a bántalmazott magatartásából és viszonyából, továbbá a krízisközpont vagy a titkos menedékház befogadást alátámasztó tényeket tartalmazó dokumentum adatai alapján a hozzátartozók közötti erőszak elkövetésére megalapozottan lehet következtetni.
 
 (2) A megelőző távoltartást a bíróság legfeljebb hatvan napra rendelheti el.
@@ -256,6 +258,8 @@ a 606/2013/EU rendelet 14. cikke szerinti tanúsítványt állít ki.
 (3) A bíróság a határozatát a meghallgatás alkalmával közli a felekkel, azt nekik átadja. Ha a meghallgatáson a bántalmazó nem jelent meg, a bíróság – szükség esetén elektronikus úton – a rendőrség útján intézkedik a kézbesítésről. A rendőrség köteles a határozat kézbesítéséről gondoskodni és a kézbesítés megtörténtéről a bíróságot haladéktalanul tájékoztatni.
 
 (3a) A bíróság a bántalmazottal a védelmi tanúsítványt, a bántalmazóval a védelmi tanúsítványról szóló, a 606/2013/EU rendelet 8. cikkének (1) bekezdése szerinti értesítést a (3) bekezdésben foglaltak szerint közli.
+
+(3b) Ha a 14. § (1a) bekezdése alapján indított eljárásban a bíróság által elrendelt megelőző távoltartás gyermek jogát is érinti, a bíróság a határozatot az illetékes gyámhatóságnak is megküldi.
 
 (4) A rendőrség által elrendelt ideiglenes megelőző távoltartás hatálya a bíróság által elrendelt megelőző távoltartás hatályának beálltával megszűnik.
 
@@ -461,3 +465,5 @@ dönt.
 ### Átmeneti rendelkezések
 
 24/A. § E törvénynek az igazságügyi tárgyú törvények módosításáról szóló 2025. évi XLIX. törvénnyel (a továbbiakban: Módtv.) megállapított 17/E. § (1) bekezdés c) pontja szerinti kérelmet a Módtv. hatálybalépését követő egy éven belül az a sértett is benyújthatja, akinek az esetében a sérelmére elkövetett személy elleni erőszakos bűncselekmény miatt elítélt személy a szabadságvesztés büntetését a Módtv. hatálybalépéséig már kitöltötte.
+
+25. § E törvénynek a rendészeti feladatellátás hatékonyságát támogató törvények módosításáról szóló 2025. évi LXXI. törvénnyel megállapított 16. § (3b) bekezdését az annak hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.

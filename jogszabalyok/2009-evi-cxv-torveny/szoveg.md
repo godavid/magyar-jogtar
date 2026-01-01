@@ -134,19 +134,21 @@ kell megtenni.
 
 - a) az egyéni vállalkozó természetes személyazonosító adatait, lakcímét, állampolgárságát,
 - b) az egyéni vállalkozók nyilvántartásába történő felvétel napját,
-- c) az egyéni vállalkozó főtevékenységét és tevékenységi köreit a 6. § (1) bekezdésének c) pontjának megfelelően,
-- d) a székhely, a telephely (telephelyek) és a fióktelep (fióktelepek) címét,
+- c) az egyéni vállalkozó főtevékenységét és tevékenységi köreit a 6. § (1) bekezdés c) pontjának megfelelően,
+- d) a székhely, valamennyi telephely és valamennyi fióktelep címét,
 - e) szükség szerint az egyéni vállalkozói tevékenység szünetelésének tényét, kezdő- és zárónapját,
-- f) az egyéni vállalkozó adószámát, annak hatályos állapotát, az adószám törlését, valamint e határozat megsemmisítését, hatályon kívül helyezését, módosítását, kiegészítését vagy visszavonását, továbbá a határozat véglegessé válásának napját,
-- g) az egyéni vállalkozó statisztikai számjelét és nyilvántartási számát,
-- h)
-- i) a törlés időpontját és okát,
-- j) ha az egyéni vállalkozó halála esetén a 17. § (1) bekezdése szerint a tevékenység folytatására kerül sor, az egyéni vállalkozói tevékenység özvegy, illetve örökös általi folytatásának tényét,
-- k) ha az egyéni vállalkozó gondnokság alá helyezése esetén az egyéni vállalkozói tevékenységet a 17. § (2) bekezdése szerint a törvényes képviselő folytatja, a tevékenység folytatásának tényét, a törvényes képviselő természetes személyazonosító adatait, lakcímét, valamint
-- l) elektronikus dokumentumtárként a megtett bejelentéseket és az azokkal összefüggésben kiállított értesítéseket,
-- m) az egyéni vállalkozónak a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény szerinti hivatalos elérhetőségét.
+- f) az egyéni vállalkozó adószámát,
+- g) az egyéni vállalkozó adószámának hatályos állapotát, az adószám törlését, valamint e határozat megsemmisítését, hatályon kívül helyezését, módosítását, kiegészítését vagy visszavonását, továbbá a határozat véglegessé válásának napját,
+- h) az egyéni vállalkozó statisztikai számjelét,
+- i) az egyéni vállalkozó nyilvántartási számát,
+- j) a törlés időpontját és okát,
+- k) ha az egyéni vállalkozó halála esetén a 17. § (1) bekezdése szerint a tevékenység folytatására kerül sor, az egyéni vállalkozói tevékenység özvegy, illetve örökös általi folytatásának tényét,
+- l) ha az egyéni vállalkozó gondnokság alá helyezése esetén az egyéni vállalkozói tevékenységet a 17. § (2) bekezdése szerint a törvényes képviselő folytatja, a tevékenység folytatásának tényét,
+- m) a gondnokság alá helyezett egyéni vállalkozó törvényes képviselője természetes személyazonosító adatait, lakcímét,
+- n) elektronikus dokumentumtárként a megtett bejelentéseket és az azokkal összefüggésben kiállított értesítéseket,
+- o) az egyéni vállalkozónak a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény szerinti hivatalos elérhetőségét.
 
-(1a) Az egyéni vállalkozók nyilvántartása az (1) bekezdés b)–k) pontjában meghatározott adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
+(1a) Az egyéni vállalkozók nyilvántartása az (1) bekezdés b)–e) és i)–l) pontjában meghatározott adatok tekintetében közhiteles nyilvántartásnak minősül.
 
 (2) A nyilvántartást vezető szerv az egyéni vállalkozók nyilvántartásába kizárólag az e törvényben meghatározott esetben jogosult adatokat bejegyezni, valamint a nyilvántartásból adatot törölni. A nyilvántartást vezető szerv a nyilvántartással kapcsolatos adatfeldolgozási feladatok ellátásával csak államigazgatási szervet vagy kizárólagos állami tulajdonú gazdálkodó szervezetet bízhat meg.
 

@@ -27,7 +27,9 @@ meghatározottak közül kiválasztott egy-egy kedvezményezett javára.
 
 (6) Az adózó a rendelkező nyilatkozaton rendelkezhet úgy, hogy nevét és postai, illetve elektronikus levelezési címét a 4. § (1) bekezdése szerinti kedvezményezettel közöljék.
 
-(7) Az adóhatóság a 4/A. § (1) bekezdése szerinti kedvezményezett részére a rendelkező nyilatkozatot az újabb kedvezményezett megjelöléséig vagy a rendelkező nyilatkozat visszavonására irányuló nyilatkozat benyújtásáig veszi figyelembe. Az újabb kedvezményezett megjelölésére vagy a nyilatkozat visszavonására a nyilatkozattétel évét követően évente egy alkalommal, az 5. § (1) bekezdésben meghatározott határidőig kerülhet sor. Nem vehető figyelembe a nyilatkozat, ha a magánszemély az adóévet követő év május 20-áig nem nyújtott be személyijövedelemadó-bevallást vagy a benyújtott bevallása alapján adóköteles, összevonás alá eső jövedelme nem keletkezett.
+(7) Az adóhatóság a 4/A. § (1) bekezdése szerinti kedvezményezett részére a rendelkező nyilatkozatot az újabb kedvezményezett megjelöléséig vagy a rendelkező nyilatkozat visszavonására irányuló nyilatkozat benyújtásáig veszi figyelembe. Az újabb kedvezményezett megjelölésére vagy a nyilatkozat visszavonására a nyilatkozattétel évét követően évente egy alkalommal, az 5. § (1) bekezdésben meghatározott határidőig kerülhet sor. A rendelkező nyilatkozat érvényes felajánlásként vehető figyelembe akkor is, ha a magánszemély az adóévet követő év május 20-áig nem nyújtott be személyijövedelemadó-bevallást vagy a benyújtott bevallása alapján adóköteles, összevonás alá eső jövedelme nem keletkezett.
+
+(8) A (7) bekezdés alkalmazása esetén, amennyiben felajánlható összeg nincs, arról az adóhatóság a magánszemély értesítését mellőzi.
 
 2. § (1) Ha a magánszemély a befizetett adójának legalább egyik egy százalékáról rendelkezett, és rendelkezésének teljesítése megtörtént, a teljesítés szerinti összeg kizárólag abban az esetben módosítható, ha a módosítás vagy módosítások által a teljesítés szerinti összeg kedvezményezettenként legalább ötezer forinttal növekszik, és a rendelkező nyilatkozat évét követő év július 31. napjáig
 
@@ -96,7 +98,7 @@ ha belföldi székhelyű és nyilatkozata szerint közhasznú tevékenységet v�
 
 (4) Az adóhatóság vezetője a rendelkező nyilatkozat évét megelőző év utolsó napjáig az (1) bekezdés szerinti kedvezményezett technikai számát a Magyar Közlönyben közzéteszi.
 
-(5) A (4) bekezdésben meghatározott adatok tekintetében az adóhatóság vezetője – azon adat kivételével, amelyet jogszabály más nyilvántartás részeként közhitelesnek minősít – közhiteles hatósági nyilvántartást vezet.
+(5) A (4) bekezdésben meghatározott adatokról az állami adó- és vámhatóság vezetője által vezetett nyilvántartás a kedvezményezett technikai száma és a technikai szám megnyitásának időpontja tekintetében közhiteles nyilvántartásnak minősül.
 
 #### 3. A rendelkező nyilatkozat megtételének szabályai és érvényességi kellékei
 
@@ -177,11 +179,31 @@ ha belföldi székhelyű és nyilatkozata szerint közhasznú tevékenységet v�
 
 (2) Az adóhatóság az (1) bekezdés a) és b) pontja szerinti adatokat kedvezményezettenként, a kedvezményezett nevének, székhelyének, adószámának vagy technikai számának, a kedvezményezett részére érvényesen felajánlott összegnek és a kedvezményezett javára érvényesen rendelkezők számának megjelölésével a rendelkező nyilatkozat évének szeptember 15. napjáig, illetve a c) pontja szerinti adatokat a rendelkező nyilatkozat évének első napjától honlapján – a kedvezményezett nevének, adószámának, illetve technikai számának és székhelyének megjelölésével – közzéteszi. Az adóhatóság nem teszi közzé azon kedvezményezett adatait, amelynek – külön jogszabályban meghatározott esetben – az érvényesen felajánlott összeg nem utalható ki.
 
-(2a) Az adóhatóság az (1) bekezdésben meghatározott adatok tekintetében – azon adat kivételével, amelyet jogszabály más nyilvántartás részeként közhitelesnek minősít – közhiteles hatósági nyilvántartást vezet.
+(2a) Az állami adó- és vámhatóság által vezetett nyilvántartás a 4. § (1) bekezdése szerinti kedvezményezettek esetében
+
+- a) az adott kedvezményezett részére a rendelkező évben felajánlott összeg és az érvényes felajánlást tett adózók száma,
+- b) a kedvezményezetti jogosultság állapota,
+- c) a regisztráció törlésének napja,
+- d) az adott kedvezményezett vonatkozásában a kizárással érintett rendelkező év
+
+tekintetében közhiteles nyilvántartásnak minősül.
+
+(2b) Az állami adó- és vámhatóság által vezetett nyilvántartás a 4/A. § (1) bekezdése szerinti kedvezményezettek esetében
+
+- a) az adott kedvezményezettet megillető összeg,
+- b) az egyes kedvezményezettek javára érvényesen rendelkező adózók száma
+
+tekintetében közhiteles nyilvántartásnak minősül.
 
 (3) A jogszabályi feltételeknek megfelelő azon kedvezményezettekről, akik számára az átutalás, vagy a köztartozásra levonás megtörtént, a (2) bekezdés szerinti közzétételre a rendelkező nyilatkozat évének utolsó napját követően kerül sor.
 
-(3a) Az adóhatóság a (3) bekezdésben meghatározott adatok tekintetében – azon adat kivételével, amelyet jogszabály más nyilvántartás részeként közhitelesnek minősít – közhiteles hatósági nyilvántartást vezet.
+(3a) Az állami adó- és vámhatóság a (3) bekezdésben meghatározott adatokról nyilvántartást vezet, amely az adott kedvezményezett vonatkozásában
+
+- a) a kiutalás ténye és a ténylegesen kiutalt összeg,
+- b) a köztartozás-visszatartással való érintettség ténye és a visszatartott összeg,
+- c) az érvényesen rendelkezők száma
+
+tekintetében közhiteles nyilvántartásnak minősül.
 
 (4) Az adóhatóság biztosítja a (3) bekezdésben meghatározott adatokat tartalmazó adatbázis elérhetőségét a társadalmi és civil kapcsolatok fejlesztéséért felelős miniszter részére az általa működtetett információs portálon történő közzététel, adatfeldolgozás és rendszerezés céljából.
 

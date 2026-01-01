@@ -80,7 +80,7 @@ ideértve a tulajdonjog más termék tartozékaként vagy alkotórészeként val
 - 15. harmadik ország: az Európai Közösségen kívüli állam;
 - 16.
 - 17.
-- 18. ipari termékdíj raktár: az e törvény alapján, az állami adóhatóság engedélyével üzemeltett belföldi ingatlan, ahol az e törvényben és a végrehajtására kiadott kormányrendeletben meghatározott feltételek szerint a termékdíjköteles termék – ideértve a termékdíj raktárban tárolt egyéb terméket is – előállítható feldolgozható, alkotórészként, tartozékként más termékbe beépíthető, újbóli felhasználásra előkészíthető és készletezhető;
+- 18. ipari termékdíj raktár: az e törvény alapján, az állami adóhatóság engedélyével üzemeltett belföldi ingatlan, ahol az e törvényben és a végrehajtására kiadott kormányrendeletben meghatározott feltételek szerint a termékdíjköteles termék – ideértve a termékdíj raktárban tárolt egyéb terméket is – előállítható feldolgozható, alkotórészként, tartozékként más termékbe beépíthető és készletezhető;
 - 18a.
 - 19–20.
 - 20a. kereskedelmi termékdíj raktár: az e törvény alapján, az állami adóhatóság engedélyével üzemeltett belföldi ingatlan, ahol az e törvényben és a végrehajtására kiadott kormányrendeletben meghatározott feltételek szerint a termékdíjköteles termék – ideértve a termékdíj raktárban tárolt egyéb terméket is – tárolható;
@@ -120,8 +120,8 @@ számára meghatározott díjfizetési kötelezettség;
 - 30b. termékdíj-különbözet: a bevallott (bejelentett), bevallani (bejelenteni) elmulasztott és az állami adóhatóság által utólag megállapított termékdíj különbözete vagy a büntetőeljárás során a bíróság által jogerősen vagy az ügyészség határozata alapján megállapított és az állami adóhatóság által határozattal megfizetni rendelt termékdíjbevétel-csökkenés, vagyoni hátrány, ide nem értve a következő időszakra átvihető követelés különbözetét;
 - 30c. termékdíj-tartozás: az esedékességkor meg nem fizetett termékdíj;
 - 31.
-- 32. újbóli felhasználásra előkészítés: a hulladékká nem vált termékdíjköteles termék, illetve alkotórészének vagy tartozékának ellenőrzése, tisztítása, valamint javítása az eredeti felhasználási célra való alkalmassá tétel érdekében;
-- 32a. vámtarifaszám: a vám- és statisztikai nómenklatúráról, valamint a Közös Vámtarifáról szóló, a Tanács 1987. július 23-i 2658/87/EGK tanácsi rendelet tárgyévet megelőző év január 1-jén hatályos áruosztályozási szabályai alapján megállapított, a tanácsi rendelet I. melléklete szerinti áruazonosító szám;
+- 32.
+- 32a. vámtarifaszám: a vám- és statisztikai nómenklatúráról, valamint a Közös Vámtarifáról szóló, a Tanács 1987. július 23-i 2658/87/EGK tanácsi rendelet 2024. január 1-jén hatályos áruosztályozási szabályai alapján megállapított, a tanácsi rendelet I. melléklete szerinti áruazonosító szám;
 - 33. Végfelhasználó: a terméket tovább már nem értékesítő, a szükséglete kielégítésére felhasználó természetes, vagy jogi személy.
 
 2/A. § Az e törvényben nem meghatározott fogalmakat a hulladékról szóló 2012. évi CLXXXV. törvényben (a továbbiakban: Ht.) meghatározottak szerint kell értelmezni.
@@ -139,7 +139,7 @@ számára meghatározott díjfizetési kötelezettség;
 
 terheli.
 
-(2a) A (2) bekezdésben foglaltaktól eltérően a termékdíj megfizetése nélkül vagy a termékdíj visszatérítését követően a termékdíj raktárban tárolt, feldolgozott, előállított, újbóli felhasználásra előkészített termékdíjköteles termék, termékdíj raktárból belföldre – a tulajdonjog átruházásával – történő kitárolása, első belföldi forgalomba hozatalnak minősül.
+(2a) A (2) bekezdésben foglaltaktól eltérően a termékdíj megfizetése nélkül vagy a termékdíj visszatérítését követően a termékdíj raktárban tárolt, feldolgozott, előállított termékdíjköteles termék, termékdíj raktárból belföldre – a tulajdonjog átruházásával – történő kitárolása, első belföldi forgalomba hozatalnak minősül.
 
 (3) Saját célú felhasználásnak minősül a termékdíjköteles termék, ideértve más termék tartozékaként vagy alkotórészeként,:
 
@@ -190,7 +190,7 @@ olyan termékdíjköteles terméket tart tulajdonában, amelyre a termékdíj ne
 
 - a) az egyéb kőolajterméket alapanyagként használja fel;
 - b) a Magyarországon hulladékká vált egyéb kőolajtermékből újrafinomítás vagy más célra történő újrahasználat eljárással előállított termékdíjköteles terméket belföldön forgalomba hozza, saját célra felhasználja vagy készletre veszi;
-- c) a belföldön hulladékká vált termék az újrafelhasználásra előkészítését vagy a használt termék újbóli felhasználásra történő előkészítését követően létrejött terméket belföldön forgalomba hozza, saját célra felhasználja vagy készletre veszi, a termékbe beépített új termékdíjköteles alkotórészek, tartozékok kivételével;
+- c) a belföldön hulladékká vált termékből az újrafelhasználásra előkészítését követően létrejött terméket belföldön forgalomba hozza, saját célra felhasználja vagy készletre veszi, a termékbe beépített új termékdíjköteles alkotórészek, tartozékok kivételével;
 - d)
 - e)
 - f)
@@ -289,7 +289,7 @@ keletkezik.
 9/A. § (1) Termékdíj raktár üzemeltetése kérelemre annak a gazdálkodó szervezetnek engedélyezhető
 
 - a) amely a termékdíj raktár működésére szolgáló ingatlan jogszerű használója,
-- b) amely olyan nyilvántartási, bizonylati rendszert alkalmaz, amelynek alapján a felhasznált, előállított, feldolgozott, alkotórészként, tartozékként más termékbe beépített, újbóli felhasználásra előkészített, raktározott termékdíjköteles termék mennyiségi számbavétele ellenőrizhető,
+- b) amely olyan nyilvántartási, bizonylati rendszert alkalmaz, amelynek alapján a felhasznált, előállított, feldolgozott, alkotórészként, tartozékként más termékbe beépített, raktározott termékdíjköteles termék mennyiségi számbavétele ellenőrizhető,
 - c) amely az állami adóhatóságnál nyilvántartott vám- vagy adótartozással nem rendelkezik kivéve, ha arra részletfizetést vagy fizetési halasztást engedélyeztek,
 - d) amely nem áll csőd-, felszámolási vagy végelszámolási, valamint kényszertörlési eljárás alatt,
 - e) amely – ipari termékdíj raktár esetében – a termékdíj raktári engedély kiadásának évét követő évtől vállalja, hogy független könyvvizsgáló által hitelesített (auditált) mérleggel rendelkezik,
@@ -351,7 +351,7 @@ teljesíti.
 
 (5) A (3a) és (4) bekezdésben előírt határidő elmulasztása esetén igazolásnak nincs helye és a (3a) vagy (4) bekezdésben meghatározottak nem alkalmazhatók.
 
-(6) Az állami adóhatóság által az (1) bekezdés alapján a környezetvédelmi termékdíj fizetésére kötelezettekről vezetett nyilvántartás – azon adat kivételével, amelyet jogszabály más nyilvántartás részeként közhitelesnek minősít – közhiteles hatósági nyilvántartásnak minősül.
+(6)
 
 (7) A kötelezett a termékdíj-kötelezettségre kiható bármely változást, annak bekövetkeztét követő 15 napon belül köteles az állami adóhatóságnak bejelenteni.
 

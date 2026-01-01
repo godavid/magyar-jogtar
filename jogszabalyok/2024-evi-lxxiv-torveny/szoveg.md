@@ -4,7 +4,9 @@ Magyarország 2025. évi központi költségvetésének megalapozásáról
 
 #### 1. A közúti közlekedésről szóló 1988. évi I. törvény módosítása
 
-#### 1. §
+1. § A közúti közlekedésről szóló 1988. évi I. törvény 32/A. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) Az (1) bekezdés szerinti közúti hírközlő hálózatok alapfunkciójának teljes körű ellátását a hálózatkezelő gazdasági társaság biztosítani köteles. Ennek keretében teljes önköltség alapú hozzáférést köteles biztosítani a 33. § (1) bekezdés b) pont ba) alpontja szerinti közút kezelője, az útdíjszolgáltatási gazdasági társaság és a közútkezelő gazdasági társaság részére.”
 
 #### 2. §
 
@@ -136,11 +138,23 @@ Magyarország 2025. évi központi költségvetésének megalapozásáról
 
 #### 50. §
 
-#### 51. §
+51. § Az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló 1997. évi LXVIII. törvény a következő 134/N. §-sal egészül ki:
+
+„134/N. § (1) Az igazságügyi alkalmazott számára – a 134/L. §-ban foglaltak kivételével – a Módtv3. 53. §-ával megállapított rendelkezései alapján az illetményt akként kell megállapítani, hogy az magasabb legyen, mint a Módtv3. 53. §-ának hatálybalépését megelőzően őt megillető illetményelemek együttes összege.
+
+(2) Az igazságügyi alkalmazottat – a 134/L. §-ban foglaltak kivételével – 2026. február 28-ig kell 2026. január 1-jétől kezdődően e törvénynek a Módtv3. 53. §-ával megállapított rendelkezései szerint besorolni és – az (1) bekezdésben foglaltakat is figyelembe véve – illetményét megállapítani. A besorolásnál megállapítandó szolgálati idő a 2026. január 1-je előtti besorolásnál megállapított szolgálati időnél kevesebb nem lehet. A 2026. január 1. előtt soron kívüli előresorolással megszerzett szolgálati időt a besorolásnál figyelembe kell venni.
+
+(3) Az igazságügyi alkalmazottat – a 134/L. §-ban foglaltak kivételével – az e törvénynek a Módtv3. 53. §-ával megállapított rendelkezései alapján kiszámított illetmény 2026. január 1-jétől illeti meg. Az illetmény már folyósított és megemelt összege közötti különbözet kifizetésére 2026. január 1-jére visszamenőleg, legkésőbb 2026. március 31-ig kerül sor.”
 
 #### 52. §
 
-#### 53. §
+53. § Az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló 1997. évi LXVIII. törvény
+
+- 1. 3. melléklete helyébe a 9. melléklet lép,
+- 2. 4. melléklete helyébe a 10. melléklet lép,
+- 3. 5. melléklete helyébe a 11. melléklet lép,
+- 4. 6. melléklete helyébe a 12. melléklet lép,
+- 5. 7. melléklete helyébe a 13. melléklet lép.
 
 #### 54. §
 
@@ -240,7 +254,10 @@ Magyarország 2025. évi központi költségvetésének megalapozásáról
 
 #### 88. §
 
-#### 89. §
+89. § Hatályát veszti az egyszerűsített foglalkoztatásról szóló 2010. évi LXXV. törvény
+
+- 1. 2. § 1. pontjában a „– feltéve, hogy azonos felek között a határozott időre szóló munkaviszony időtartama nem haladja meg egy naptári éven belül a százhúsz napot” szövegrész;
+- 2. 2. § 2. pontjában a „feltéve, hogy azonos felek között a határozott időre szóló munkaviszony időtartama nem haladja meg egy naptári éven belül a százhúsz napot” szövegrész.
 
 #### 32. A Bethlen Gábor Alapról szóló 2010. évi CLXXXII. törvény módosítása
 
@@ -314,7 +331,13 @@ Magyarország 2025. évi központi költségvetésének megalapozásáról
 
 #### 119. §
 
-#### 120. §
+120. § A legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény a következő 165/X. §-a a következő (8)–(10) bekezdéssel egészül ki:
+
+„(8) Az alügyész és az ügyészségi fogalmazó számára az e törvénynek a Módtv3. 124. §-ával megállapított rendelkezései alapján az illetményt akként kell megállapítani, hogy az magasabb legyen, mint a Módtv3. 124. §-ának hatálybalépését megelőzően őt megillető illetményelemek együttes összege.
+
+(9) Az alügyészt és az ügyészségi fogalmazót 2026. február 28-ig kell 2026. január 1-jétől kezdődően e törvénynek a Módtv3. 124. §-ával megállapított rendelkezései szerint besorolni és – a (7) bekezdésben foglaltakat is figyelembe véve – illetményét megállapítani. A besorolásnál megállapítandó szolgálati idő a 2026. január 1-je előtti besorolásnál megállapított szolgálati időnél kevesebb nem lehet. A 2026. január 1. előtt soron kívüli előresorolással megszerzett szolgálati időt a besorolásnál figyelembe kell venni.
+
+(10) Az alügyészt és az ügyészségi fogalmazót az e törvénynek a Módtv3. 124. §-ával megállapított rendelkezései alapján kiszámított illetmény 2026. január 1-jétől illeti meg. Az illetmény már folyósított és megemelt összege közötti különbözet kifizetésére 2026. január 1-jére visszamenőleg, legkésőbb 2026. március 31-ig kerül sor.”
 
 #### 121. §
 
@@ -322,7 +345,10 @@ Magyarország 2025. évi központi költségvetésének megalapozásáról
 
 #### 123. §
 
-#### 124. §
+124. § A legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény
+
+- 1. 4. melléklete helyébe a 22. melléklet lép,
+- 2. 5. melléklete helyébe a 23. melléklet lép.
 
 #### 125. §
 
@@ -568,7 +594,9 @@ Magyarország 2025. évi központi költségvetésének megalapozásáról
 
 #### 222. §
 
-#### 223. §
+223. § A fenntartható finanszírozás és az egységes vállalati felelősségvállalás ösztönzését szolgáló környezettudatos, társadalmi és szociális szempontokat is figyelembe vevő, vállalati társadalmi felelősségvállalás szabályairól és azzal összefüggő egyéb törvények módosításáról szóló 2023. évi CVIII. törvény 26. § (2) bekezdése a következő szöveggel lép hatályba:
+
+„(2) A vállalkozás fenntarthatósági célú átvilágítási kötelezettsége szerinti ESG adatszolgáltatási kötelezettség elmulasztása esetén, vagy ha az ESG beszámoló az e törvényben, illetve az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott követelményeknek nem felel meg, a Hatóság közigazgatási bírságot szab ki a vállalkozásra. A bírság mértékére, megállapításának szempontrendszerére és a bírság megfizetésének módjára vonatkozó szabályokat a Kormány rendeletben állapítja meg.”
 
 #### 224. §
 
@@ -592,7 +620,7 @@ Magyarország 2025. évi központi költségvetésének megalapozásáról
 
 #### 62. Az egyes gazdasági és vagyongazdálkodási tárgyú törvények módosításáról szóló 2024. évi IX. törvény egyes rendelkezéseinek hatályba nem lépése
 
-#### 234. §
+234. § Nem lép hatályba az egyes gazdasági és vagyongazdálkodási tárgyú törvények módosításáról szóló 2024. évi IX. törvény 88. §-a.
 
 #### 63. A honvédelmi tárgyú törvények módosításával összefüggésben egyes törvények módosításáról szóló 2024. évi XLI. törvény módosítása
 
@@ -842,13 +870,117 @@ alapján sarkalatosnak minősül.
 
 ### 9. melléklet a 2024. évi LXXIV. törvényhez
 
+„3. melléklet az 1997. évi LXVIII. törvényhez
+
+Az I. fizetési osztály (bírósági titkár, igazságügyi szakértő) fizetési fokozatai és az azokhoz tartozó alapilletmények alsó és felső határai
+
+- 1. Bírósági titkár
+
+|  | A | B | C | D | E |
+| --- | --- | --- | --- | --- | --- |
+| 1 | Fizetési fokozat | Szolgálati idő (év) |  | Alsó határ szorzószáma | Felső határ szorzószáma |
+| 2 | 1. | 0 | 3 | 1,17 | 1,25 |
+| 3 | 2. | 4 | 7 | 1,23 | 1,41 |
+| 4 | 3. | 8 | 11 | 1,31 | 1,52 |
+| 5 | 4. | 12 | 18 | 1,37 | 1,58 |
+| 6 | 5. | 19 | 25 | 1,42 | 1,64 |
+| 7 | 6. | 26 | 35 | 1,47 | 1,7 |
+| 8 | 7. | 36 |  | 1,59 | 1,73 |
+
+- 2. Igazságügyi szakértő
+
+|  | A | B | C | D | E |
+| --- | --- | --- | --- | --- | --- |
+| 1. | Fizetési fokozat | Szolgálati idő (év) |  | Alsó határ szorzószáma | Felső határ szorzószáma |
+| 2. | 1. | 0 | 3 | 1,17 | 1,25 |
+| 3. | 2. | 4 | 7 | 1,23 | 1,41 |
+| 4. | 3. | 8 | 11 | 1,31 | 1,52 |
+| 5. | 4. | 12 | 18 | 1,37 | 1,58 |
+| 6. | 5. | 19 | 25 | 1,42 | 1,64 |
+| 7. | 6. | 26 | 35 | 1,47 | 1,7 |
+| 8. | 7. | 36 |  | 1,59 | 1,73 |
+
 ### 10. melléklet a 2024. évi LXXIV. törvényhez
+
+„4. melléklet az 1997. évi LXVIII. törvényhez
+
+A II. fizetési osztály (bírósági fogalmazó, szakértőjelölt) fizetési fokozatai és az azokhoz tartozó alapilletmények alsó és felső határai
+
+- 1. Bírósági fogalmazó
+
+|  | A | B | C | D | E |
+| --- | --- | --- | --- | --- | --- |
+| 1 | Fizetési fokozat | Szolgálati idő (év) |  | Alsó határ szorzószáma | Felső határ szorzószáma |
+| 2 | 1. | 0 | 1 | 0,86 | 1,07 |
+| 3 | 2. | 2 | 3 | 0,9 | 1,12 |
+| 4 | 3. | 4 |  | 0,93 | 1,16 |
+
+- 2. Szakértőjelölt
+
+|  | A | B | C | D | E |
+| --- | --- | --- | --- | --- | --- |
+| 1. | Fizetési fokozat | Szolgálati idő (év) |  | Alsó határ szorzószáma | Felső határ szorzószáma |
+| 2. | 1. | 0 | 1 | 0,86 | 1,07 |
+| 3. | 2. | 2 | 3 | 0,9 | 1,12 |
+| 4. | 3. | 4 |  | 0,93 | 1,16 |
 
 ### 11. melléklet a 2024. évi LXXIV. törvényhez
 
+„5. melléklet az 1997. évi LXVIII. törvényhez
+
+A III. fizetési osztály (szakirányú felsőfokú iskolai végzettségű tisztviselő, technikus) fizetési fokozatai és az azokhoz tartozó alapilletmények alsó és felső határai
+
+|  | A | B | C | D | E |
+| --- | --- | --- | --- | --- | --- |
+| 1. | Fizetési fokozat | Szolgálati idő (év) |  | Alsó határ szorzószáma | Felső határ szorzószáma |
+| 2: | 1. | 0 | 3 | 0,75 | 1,03 |
+| 3. | 2. | 4 | 7 | 0,87 | 1,09 |
+| 4. | 3. | 8 | 11 | 0,92 | 1,21 |
+| 5. | 4. | 12 | 18 | 0,98 | 1,25 |
+| 6. | 5. | 19 | 25 | 1,06 | 1,38 |
+| 7. | 6. | 26 | 30 | 1,14 | 1,42 |
+| 8. | 7. | 31 | 35 | 1,18 | 1,46 |
+| 9. | 8. | 36 |  | 1,23 | 1,49 |
+
+”
+
 ### 12. melléklet a 2024. évi LXXIV. törvényhez
 
+„6. melléklet az 1997. évi LXVIII. törvényhez
+
+A IV. fizetési osztály (nem szakirányú felsőfokú iskolai végzettségű, valamint középfokú iskolai végzettségű tisztviselő, írnok és technikus) fizetési fokozatai és az azokhoz tartozó alapilletmények alsó és felső határai
+
+|  | A | B | C | D | E |
+| --- | --- | --- | --- | --- | --- |
+| 1. | Fizetési fokozat | Szolgálati idő (év) |  | Alsó határ szorzószáma | Felső határ szorzószáma |
+| 2. | 1. | 0 | 3 | 0,71 | 0,8 |
+| 3. | 2. | 4 | 7 | 0,75 | 0,87 |
+| 4. | 3. | 8 | 11 | 0,79 | 0,99 |
+| 5. | 4. | 12 | 18 | 0,86 | 1,06 |
+| 6. | 5. | 19 | 25 | 0,89 | 1,1 |
+| 7. | 6. | 26 | 30 | 0,92 | 1,13 |
+| 8. | 7. | 31 | 35 | 0,98 | 1,18 |
+| 9. | 8. | 36 |  | 1,05 | 1,26 |
+
+”
+
 ### 13. melléklet a 2024. évi LXXIV. törvényhez
+
+„7. melléklet az 1997. évi LXVIII. törvényhez
+
+A V. fizetési osztály (vezető) fizetési fokozatai és az azokhoz tartozó alapilletmények alsó és felső határai
+
+|  | A | B | C |
+| --- | --- | --- | --- |
+| 1. | Fizetési fokozat | Alsó határ szorzószáma | Felső határ szorzószáma |
+| 2. | Főosztályvezető, az egyéb igazságügyi szerv vezetője és helyettese | 1,56 | 2,18 |
+| 3. | Főosztályvezető-helyettes, igazgató | 1,42 | 2,07 |
+| 4. | Osztályvezető, igazgatóhelyettes | 1,3 | 1,95 |
+| 5. | Osztályvezető-helyettes | 1,01 | 1,84 |
+| 6. | Csoportvezető | 0,97 | 1,78 |
+| 7. | Csoportvezető-helyettes, bírósági irodavezető | 0,86 | 1,72 |
+
+”
 
 ### 14. melléklet a 2024. évi LXXIV. törvényhez
 
@@ -868,7 +1000,37 @@ alapján sarkalatosnak minősül.
 
 ### 22. melléklet a 2024. évi LXXIV. törvényhez
 
+„4. melléklet a 2011. évi CLXIV. törvényhez
+
+Az I. fizetési osztály (alügyész) fizetési fokozatai és az azokhoz tartozó alapilletmények alsó és felső határai
+
+|  | A | B | C | D | E |
+| --- | --- | --- | --- | --- | --- |
+| 1. | Fizetési fokozat | Szolgálati idő (év) |  | Alsó határ szorzószáma | Felső határ szorzószáma |
+| 2. | 1. | 0 | 3 | 1,17 | 1,25 |
+| 3. | 2. | 4 | 7 | 1,23 | 1,41 |
+| 4. | 3. | 8 | 11 | 1,31 | 1,52 |
+| 5. | 4. | 12 | 18 | 1,37 | 1,58 |
+| 6. | 5. | 19 | 25 | 1,42 | 1,64 |
+| 7. | 6. | 26 | 35 | 1,47 | 1,7 |
+| 8. | 7. | 36 |  | 1,59 | 1,73 |
+
+”
+
 ### 23. melléklet a 2024. évi LXXIV. törvényhez
+
+„5. melléklet az 2011. évi CLXIV. törvényhez
+
+A II. fizetési osztály (ügyészségi fogalmazó) fizetési fokozatai és az azokhoz tartozó alapilletmények alsó és felső határai
+
+|  | A | B | C | D | E |
+| --- | --- | --- | --- | --- | --- |
+| 1. | Fizetési fokozat | Szolgálati idő (év) |  | Alsó határ szorzószáma | Felső határ szorzószáma |
+| 2. | 1. | 0 | 1 | 0,86 | 1,07 |
+| 3. | 2. | 2 | 3 | 0,9 | 1,12 |
+| 4. | 3. | 4 |  | 0,93 | 1,16 |
+
+”
 
 ### 24. melléklet a 2024. évi LXXIV. törvényhez
 

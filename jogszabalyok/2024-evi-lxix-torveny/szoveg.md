@@ -630,9 +630,11 @@ a 13. §-ban foglaltak helyett e § rendelkezései az irányadóak.
 (4) A (3) bekezdés szerinti nyilvántartás tartalmazza:
 
 - a) az auditor adatait és annak kijelölt kapcsolattartója azonosításához szükséges természetes személyazonosító adatait, telefonszámát, valamint elektronikus levelezési címét,
-- b) az auditor – nyilvántartásba vételekor kapott – azonosító számát,
+- b) az auditor nyilvántartásba vételének időpontját, valamint – nyilvántartásba vételekor kapott – azonosító számát,
 - c) az auditor által igénybe vett közreműködő adatait, valamint kijelölt kapcsolattartója azonosításához szükséges természetes személyazonosító adatait, telefonszámát, elektronikus levelezési címét, és
 - d) az audit eredményét tartalmazó dokumentumot.
+
+(4a) A (3) bekezdés szerinti nyilvántartás a (4) bekezdés b) pontjában meghatározott adatok tekintetében közhiteles hatósági nyilvántartás.
 
 (5) A szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvénytől eltérően, ha a (3) bekezdés szerinti nyilvántartásba történő felvételről az SZTFH a rá irányadó ügyintézési határidőn belül nem döntött, a kérelmezőt nem illeti meg a kérelmében megjelölt tevékenység megkezdésének, illetve folytatásának joga, és az általános közigazgatási rendtartásról szóló törvénynek a hatóság mulasztására vonatkozó általános szabályait kell alkalmazni.
 
@@ -780,22 +782,23 @@ adatot igényelni.
 28. § (1) A nemzeti kiberbiztonsági hatóság az e törvényben meghatározott feladatainak végrehajtása céljából nyilvántartja és kezeli
 
 - 1. a szervezet vonatkozásában:
-  - a) a szervezet azonosításához szükséges adatokat,
+  - a) a szervezet azonosításához szükséges adatokat, nyilvántartásba vételének dátumát, a nyilvántartás módosításának dátumát,
   - b) a szervezet elérhetőségeit, ideértve elektronikus elérhetőségeket, valamint a szervezet által használt nyilvános IP-címeket vagy IP-tartományokat, valamint az 1. melléklet szerinti szervezetek kivételével a szervezet székhelyét, telephelyét, fióktelepét,
   - c) a szervezet alapvető vagy fontos szervezetnek minősülését,
   - d) a 2. és 3. melléklet szerinti ágazatba, alágazatba, szervezettípusba tartozását,
   - e) ha releváns, azon európai uniós tagállamok listáját, amelyben a szervezet szolgáltatásokat nyújt,
-  - f) a szervezet elektronikus információs rendszereinek megnevezését, rövid leírását, biztonsági osztályának besorolását, a nyilvántartásba vétel, valamint a felülvizsgálat időpontjában elért biztonsági osztály meghatározását,
+  - f) a szervezet elektronikus információs rendszereinek megnevezését, rövid leírását, biztonsági osztályának besorolását, a nyilvántartásba vétel, valamint a felülvizsgálat időpontjában elért biztonsági osztály meghatározását, nyilvántartásba vétele dátumát, a nyilvántartás módosításának dátumát,
   - g) az elektronikus információs rendszerben kezelt adatok osztályozásához kapcsolódó adatokat, azok adatkezelésének helyszínét, ideértve az ország megnevezését vagy a felhő típusát,
   - h) az elektronikus információs rendszerhez kapcsolódóan igénybe vett felhőszolgáltatásokra vonatkozó adatokat,
-  - i) az elektronikus információs rendszerhez kapcsolódó védelmi intézkedéseket és azok státuszát,
+  - i) az elektronikus információs rendszerhez kapcsolódó védelmi intézkedéseket és azok státuszát, valamint ezen adatok nyilvántartásba vételének dátumát, a nyilvántartás módosításának dátumát,
   - j) nem Magyarországon bejegyzett szervezet Magyarország területén működő képviselőjének nevét vagy cégnevét, levelezési címét, telefonszámát és elektronikus levelezési címét,
-  - k) az elektronikus információs rendszer biztonságáért felelős személy feladatait ellátó személy, szervezet azonosítására alkalmas adatokat, valamint a feladatot ténylegesen ellátó természetes személy személyazonosító adatait, közvetlen elérhetőséget biztosító telefonszámát, elektronikus elérhetőségét, végzettségét, szakképzettségét, szakmai tapasztalatát,
-  - l) a szervezet információbiztonsági szabályzatát,
+  - k) az elektronikus információs rendszer biztonságáért felelős személy feladatait ellátó személy, szervezet azonosítására alkalmas adatokat, valamint a feladatot ténylegesen ellátó természetes személy személyazonosító adatait, közvetlen elérhetőséget biztosító telefonszámát, elektronikus elérhetőségét, végzettségét, szakképzettségét, szakmai tapasztalatát, továbbá ezen adatok nyilvántartásba vételének dátumát, a nyilvántartás módosításának dátumát,
+  - l) a szervezet információbiztonsági szabályzatát, annak nyilvántartásba vételének dátumát, a nyilvántartás módosításának dátumát,
   - m) a szervezet vezetője és az elektronikus információs rendszer biztonságáért felelős személy továbbképzésére vonatkozó adatokat,
   - n) a honvédelmi célú elektronikus információs rendszerek kivételével az audit eredményét,
   - o) a hatósági ellenőrzésekkel kapcsolatos információkat,
   - p) a sérülékenységvizsgálat eredményét, valamint a sérülékenységek megszüntetésére vonatkozó sérülékenységkezelési tervet;
+  - q) a szervezet kritikus szervezeti vagy az ország védelme és biztonsága szempontjából jelentős szervezeti státuszát;
 - 2. központi rendszerhez csatlakozott szervezet esetében:
   - a) a felhasználó szervezet által használt központi rendszer megnevezését, egyedi azonosító számát,
   - b) a központi rendszer felett rendelkezési jogot gyakorló szervezet nevét;
@@ -807,10 +810,18 @@ adatot igényelni.
   - b) a központi szolgáltató által biztosított támogató rendszer azonosítására alkalmas adatokat,
   - c) a felhasználó szervezetek megnevezését;
 - 5. a kiberbiztonsági incidensekkel kapcsolatos, a kiberbiztonsági incidenskezelő központtól kapott értesítéseket, az ezekben szereplő személyekre vonatkozó adatokat;
-- 6. az elektronikus információs rendszer biztonságáért felelős személy feladatainak ellátására alkalmas természetes személyek személyazonosító adatait, elérhetőségeit, ideértve az elektronikus elérhetőségeket, valamint a szakértelmére vonatkozó adatokat;
+- 6. az elektronikus információs rendszer biztonságáért felelős személy feladatainak ellátására alkalmas természetes személyek személyazonosító adatait, elérhetőségeit, ideértve az elektronikus elérhetőségeket, valamint a szakértelmére vonatkozó adatokat, továbbá ezen adatok nyilvántartásba vételének dátumát, a nyilvántartás módosításának dátumát;
 - 7. a kormányrendeletben előírt további, személyes adatnak nem minősülő adatokat.
 
-(2) A honvédelmi kiberbiztonsági hatóság az e törvényben meghatározott feladatainak végrehajtása céljából nyilvántartja az (1) bekezdés 1. pont a)–m), o) és p) alpontja szerinti, továbbá a 2.–5. és 7. pontja szerinti adatokat.
+(1a) A nemzeti kiberbiztonsági hatóság által vezetett (1) bekezdés szerinti nyilvántartás – a személyiadat- és lakcímnyilvántartásban, valamint a cégnyilvántartásban szereplő közhiteles adatok, továbbá az (1) bekezdés 1. pont b), e), g), h), j), m)–q) alpontja, az (1) bekezdés 2. pontja, az (1) bekezdés 3. pont b) alpontja, valamint az (1) bekezdés 4., 5. és 7. pontja kivételével – nem nyilvános közhiteles hatósági nyilvántartásnak minősül.
+
+(2) A honvédelmi kiberbiztonsági hatóság az e törvényben meghatározott feladatainak végrehajtása céljából nyilvántartja az (1) bekezdés 1. pont a)–m), o) és p) alpontja, a hatáskörébe tartozó szervezetek esetében az (1) bekezdés 1. pont q) alpontja szerinti, továbbá az (1) bekezdés 2–5. és 7. pontja szerinti adatokat.
+
+(2a) A honvédelmi kiberbiztonsági hatóság által vezetett (1) és (2) bekezdés szerinti nyilvántartás – a személyiadat- és lakcímnyilvántartásban, valamint a cégnyilvántartásban szereplő közhiteles adat, továbbá az (1) bekezdés 1. pont b), e), g), h), j), m), o)–q) alpontjában, az (1) bekezdés 2. pontjában, az (1) bekezdés 3. pont b) alpontjában, valamint az (1) bekezdés 4., 5. és 7. pontjában szereplő adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+
+(2b) A honvédelmi kiberbiztonsági hatóság által vezetett (2a) bekezdés szerinti nyilvántartásban szereplő közhiteles adat honvédelmi és nemzetbiztonsági érdekből a keletkezésétől számított harminc évig nem nyilvános.
+
+(2c) A (2a) bekezdésben szereplő közhiteles adatok megismerését a fenti érdek mérlegelésével a honvédelmi kiberbiztonsági hatóság vezetője engedélyezheti.
 
 (3) A nemzeti kiberbiztonsági hatóság, valamint a nemzeti kiberbiztonsági incidenskezelő központ a honvédelmi kiberbiztonsági hatóság nyilvántartásából az (1) bekezdés 1. pont a)–c), j)–k) és p) alpontjai szerinti adatokat megismerheti.
 
@@ -842,12 +853,22 @@ részére végezhető.
   - aa) a szervezet azonosításához szükséges adatokat,
   - ab) a szervezet székhelyét, telephelyét, fióktelepét,
   - ac) ha a szervezet nem az Európai Unióban letelepedett szervezet, de Magyarországon belül kínál szolgáltatásokat és magyarországi letelepedett képviselőt jelöl ki, a képviselő nevét vagy cégnevét, levelezési címét, telefonszámát és elektronikus levelezési címét,
-  - ad) az elektronikus információs rendszer biztonságáért felelős személy természetes személyazonosító adatait, telefonszámát és elektronikus levelezési címét,
-  - ae) azon európai uniós tagállamok listáját, amelyben a szervezet szolgáltatásokat nyújt,
-  - af) az SZTFH elnökének rendeletében előírt további, személyes adatnak nem minősülő adatokat;
-- b) a sérülékenységvizsgálat végzésére jogosult szervezet azonosításához szükséges adatokat, a szervezet elérhetőségeit, ideértve az elektronikus elérhetőségeket;
-- c) a sérülékenységvizsgálat végzésére jogosult természetes személy azonosításához szükséges természetes személyazonosító adatait, elérhetőségeit, ideértve az elektronikus elérhetőségeket, valamint a sérülékenységvizsgálat végzésére jogosult természetes személy szakértelmére vonatkozó adatokat; valamint
-- d) a kiberbiztonsági incidensek kezelésére jogosult gazdálkodó szervezetek azonosításához szükséges adatokat, a szervezet elérhetőségeit, ideértve az elektronikus elérhetőségeket.
+  - ad) a szervezet nyilvántartásba vételének és az abból történő törlésének időpontját,
+  - ae) az elektronikus információs rendszer biztonságáért felelős személy természetes személyazonosító adatait, telefonszámát és elektronikus levelezési címét,
+  - af) azon európai uniós tagállamok listáját, amelyben a szervezet szolgáltatásokat nyújt,
+  - ag) az SZTFH elnökének rendeletében előírt további, személyes adatnak nem minősülő adatokat;
+- b) a sérülékenységvizsgálat végzésére jogosult szervezet
+  - ba) azonosításához szükséges adatokat,
+  - bb) elérhetőségeit, ideértve az elektronikus elérhetőségeket és
+  - bc) nyilvántartásba vételének időpontját, valamint – nyilvántartásba vételekor kapott – azonosító számát;
+- c) a sérülékenységvizsgálat végzésére jogosult természetes személy
+  - ca) azonosításához szükséges természetes személyazonosító adatait,
+  - cb) elérhetőségeit, ideértve az elektronikus elérhetőségeket,
+  - cc) szakértelmére vonatkozó adatokat és
+  - cd) nyilvántartásba vételének időpontját, valamint – nyilvántartásba vételekor kapott – azonosító számát;
+- d) a kiberbiztonsági incidensek kezelésére jogosult gazdálkodó szervezetek 70. § (5) bekezdése szerinti adatait.
+
+(1a) Az (1) bekezdés a) pontja szerinti nyilvántartás az (1) bekezdés a) pont ad) alpontjában, az (1) bekezdés b) pontja szerinti nyilvántartás az (1) bekezdés b) pont bc) alpontjában, az (1) bekezdés c) pontja szerinti nyilvántartás az (1) bekezdés c) pont cd) alpontjában meghatározott adatok tekintetében közhiteles hatósági nyilvántartás.
 
 (2) Az SZTFH összeállítja az 1. § (1) bekezdés d) és e) pontja hatálya alá tartozó alapvető és fontos szervezetek, valamint a doménnév-nyilvántartási szolgáltatásokat nyújtó szervezetek jegyzékét, és azt kétévente felülvizsgálja. A jegyzék összeállítását és felülvizsgálatát követően az SZTFH tájékoztatja a nemzeti kiberbiztonsági hatóságot a kormányrendeletben meghatározott adatokról.
 
@@ -1131,23 +1152,24 @@ látja el.
 
 48. § (1) A tanúsító hatóság nyilvántartja és kezeli:
 
-- a) az IKT-termékek, az IKT-szolgáltatások vagy az IKT-folyamatok gyártója által rendelkezésre bocsátott megfelelőségi nyilatkozat adatait,
-- b) a megfelelőségi nyilatkozathoz benyújtott műszaki dokumentációt és az IKT-termékek, IKT-szolgáltatások vagy IKT-folyamatok tanúsítási rendszernek való megfelelésével kapcsolatos információkat,
-- c) a megfelelőségértékelő szervezet és annak kijelölt kapcsolattartója azonosításához szükséges adatokat, ha a megfelelőségértékelő szervezet egyben az (EU) 2019/881 európai parlamenti és tanácsi rendelet 56. cikk (5) bekezdése szerinti közjogi szerv, ennek tényét, valamint az SZTFH elnökének rendeletében meghatározott követelmények teljesülését alátámasztó dokumentumokat,
-- d) a nemzeti akkreditáló szerv által akkreditált megfelelőségértékelő szervezet akkreditált státuszára vonatkozó határozatban foglalt, valamint az akkreditált státusz változására vonatkozó információkat,
-- e) ha a 47. § (4) bekezdése szerinti engedélyezési eljárás lefolytatása szükséges, akkor az azzal kapcsolatos kérelmet, adatokat és dokumentumokat,
-- f) az engedélyezési eljárás során kiadott engedélyre, annak felfüggesztésére, részben vagy egészben történő visszavonására vonatkozó adatokat, valamint annak tényét, hogy az engedély hatályát vesztette,
-- g) ha a tanúsító hatóság a „magas” megbízhatósági szintű kiberbiztonsági tanúsítvány kiállításának jogát megfelelőségértékelő szervezetre átruházta, a delegált jogkör azonosításához szükséges adatokat,
-- h) az Európai Bizottság által a megfelelőségértékelő szervezet nyilvántartásba vételekor adott azonosító számot,
-- i) a megfelelőségértékelő szervezet által igénybe vett közreműködő, valamint kijelölt kapcsolattartója azonosításához szükséges adatokat,
-- j) a megfelelőségértékelő szervezet által kiadott tanúsítvány adatait,
-- k) a gyártó, valamint kijelölt kapcsolattartója azonosításához szükséges adatokat,
-- l) a tanúsítványok kiállításának megtagadásával, hatályának korlátozásával, felfüggesztésével és a visszavonásával kapcsolatos információkat,
-- m) a 41. § (3) bekezdése szerinti sebezhetőséggel vagy rendellenességgel kapcsolatos információt,
-- n) a felügyeleti tevékenység ellátása során tudomására jutott adatokat, dokumentumokat, valamint
-- o) a benyújtott panaszokkal kapcsolatos adatokat, dokumentumokat.
+- 1. az IKT-termékek, az IKT-szolgáltatások vagy az IKT-folyamatok gyártója által rendelkezésre bocsátott megfelelőségi nyilatkozat adatait,
+- 2. a megfelelőségi nyilatkozathoz benyújtott műszaki dokumentációt és az IKT-termékek, IKT-szolgáltatások vagy IKT-folyamatok tanúsítási rendszernek való megfelelésével kapcsolatos információkat,
+- 3. a megfelelőségértékelő szervezet és annak kijelölt kapcsolattartója azonosításához szükséges adatokat, ha a megfelelőségértékelő szervezet egyben az (EU) 2019/881 európai parlamenti és tanácsi rendelet 56. cikk (5) bekezdése szerinti közjogi szerv, ennek tényét, valamint az SZTFH elnökének rendeletében meghatározott követelmények teljesülését alátámasztó dokumentumokat,
+- 4. a nemzeti akkreditáló szerv által akkreditált megfelelőségértékelő szervezet akkreditált státuszára vonatkozó határozatban foglalt, valamint az akkreditált státusz változására vonatkozó információkat,
+- 5. ha a 47. § (4) bekezdése szerinti engedélyezési eljárás lefolytatása szükséges, akkor az azzal kapcsolatos kérelmet, adatokat és dokumentumokat,
+- 6. az engedélyezési eljárás során kiadott engedélyre, annak felfüggesztésére, részben vagy egészben történő visszavonására vonatkozó adatokat, valamint annak tényét, hogy az engedély hatályát vesztette,
+- 7. ha a tanúsító hatóság a „magas” megbízhatósági szintű kiberbiztonsági tanúsítvány kiállításának jogát megfelelőségértékelő szervezetre átruházta, a delegált jogkör azonosításához szükséges adatokat,
+- 8. az Európai Bizottság által a megfelelőségértékelő szervezet nyilvántartásba vételekor adott azonosító számot,
+- 9. a megfelelőségértékelő szervezet által igénybe vett közreműködő, valamint kijelölt kapcsolattartója azonosításához szükséges adatokat,
+- 10. a megfelelőségértékelő szervezet nyilvántartásba vételének időpontját,
+- 11. a megfelelőségértékelő szervezet által kiadott tanúsítvány adatait,
+- 12. a gyártó, valamint kijelölt kapcsolattartója azonosításához szükséges adatokat,
+- 13. a tanúsítványok kiállításának megtagadásával, hatályának korlátozásával, felfüggesztésével és a visszavonásával kapcsolatos információkat,
+- 14. a 41. § (3) bekezdése szerinti sebezhetőséggel vagy rendellenességgel kapcsolatos információt,
+- 15. a felügyeleti tevékenység ellátása során tudomására jutott adatokat, dokumentumokat, valamint
+- 16. a benyújtott panaszokkal kapcsolatos adatokat, dokumentumokat.
 
-(2) Az (1) bekezdés szerinti nyilvántartás az (1) bekezdés f) és g) pontja szerinti adatok tekintetében közhiteles nyilvántartásnak minősül.
+(2) Az (1) bekezdés szerinti nyilvántartás az (1) bekezdés 6., 7. és 10. pontja szerinti adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
 (3) Az (1) bekezdés szerinti adatok kezelésének célja az IKT-termék, IKT-szolgáltatás vagy IKT-folyamat biztonságával összefüggő információk naprakészen tartása, valamint az azokat érintő sebezhetőséggel vagy rendellenességgel kapcsolatos feladatok, továbbá a tanúsító hatóság ellenőrzési és felügyeleti hatósági tevékenységének ellátása.
 
@@ -1239,8 +1261,10 @@ zárt, teljes körű, folytonos és a kockázatokkal arányos védelmét.
 (4) A (3) bekezdés szerinti nyilvántartás tartalmazza:
 
 - a) a szervezet megnevezését és székhelyét, valamint annak kijelölt kapcsolattartója természetes személyazonosító adatait, telefonszámát, és elektronikus levelezési címét,
-- b) a szervezet – nyilvántartásba vételekor kapott – azonosító számát,
+- b) a szervezet nyilvántartásba vételének időpontját, valamint – nyilvántartásba vételekor kapott – azonosító számát,
 - c) az SZTFH elnökének rendeletében előírt további, személyes adatnak nem minősülő adatokat.
+
+(4a) A (3) bekezdés szerinti nyilvántartás a (4) bekezdés b) pontja szerinti adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
 (5) Ha a (3) bekezdés szerinti nyilvántartásban szereplő szervezet poszt-kvantumtitkosítás alkalmazás nyújtására vonatkozó tevékenységet vagy tanúsító tevékenységet már nem végez, akkor a (3) bekezdés szerinti adatokat az SZTFH a tevékenység befejezésének bejelentését követő öt év elteltével köteles a nyilvántartásból törölni.
 
@@ -1428,8 +1452,10 @@ végzi.
 (5) A (4) bekezdés szerinti nyilvántartás tartalmazza:
 
 - a) a gazdálkodó szervezet megnevezését és székhelyét, valamint annak kijelölt kapcsolattartója természetes személyazonosító adatait, telefonszámát, és elektronikus levelezési címét,
-- b) a gazdálkodó szervezet – nyilvántartásba vételekor kapott – azonosító számát,
+- b) a gazdálkodó szervezet nyilvántartásba vételének időpontját, valamint – nyilvántartásba vételekor kapott – azonosító számát,
 - c) az SZTFH elnökének rendeletében előírt további, személyes adatnak nem minősülő adatokat.
+
+(5a) A (4) bekezdés szerinti nyilvántartás az (5) bekezdés b) pontja szerinti adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
 (6) A (4) bekezdés szerinti nyilvántartásba történő felvételi eljárás során az SZTFH a feladat ellátásához szükséges – az SZTFH elnökének rendeletében meghatározott – szakértelem és infrastrukturális feltételek teljesülésének megállapítása érdekében bevonja a nemzeti kiberbiztonsági incidenskezelő központot.
 

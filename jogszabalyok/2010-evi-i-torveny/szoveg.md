@@ -31,7 +31,7 @@ a következő törvényt alkotja:
 - k) az anyakönyvi nyilvántartások rendszerének vezetése.
 - l) az utónév módosítására irányuló eljárás.
 
-(2) Az anyakönyv és az apai elismerő nyilatkozatok nyilvántartása az ellenkező bizonyításáig közhitelesen tanúsítja a bejegyzett adatokat, illetve az anyakönyvbe bejegyzett adatok változását.
+(2) Az anyakönyv és az apai elismerő nyilatkozatok nyilvántartása – az e törvényben meghatározott adatok kivételével – az ellenkező bizonyításáig közhitelesen tanúsítja a bejegyzett adatokat, illetve az anyakönyvbe bejegyzett adatok változását.
 
 (3) Az anyakönyv
 
@@ -69,7 +69,7 @@ kapcsolatos, e törvényben felsorolt adatokat, valamint az azokban bekövetkeze
 - o) személyazonosság igazolására alkalmas hatósági igazolvány: a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény alapján személyazonosság igazolására alkalmas igazolványok,
 - p) családi név korrekciója: az 1953. január 1-jén hatályba lépett, a kötőjel kötelező használatával és megkülönböztető betűjel eltörlésével, valamint az anyakönyvbe korábban bejegyzett ragadványnévvel kapcsolatos rendelkezések következtében, továbbá az anyakönyvbe korábban bejegyzett ä betű és az annak mellőzése miatt kialakult névviselés rendezése,
 - q) adatbejegyzés: adat rögzítése az elektronikus nyilvántartásba,
-- r) adatmódosítás: adatváltozás bejegyzése vagy hibás adat javításának elvégzése,
+- r) adatmódosítás: adatváltozás bejegyzése vagy az adat helyesbítésének elvégzése,
 - s) adattörlés: az anyakönyvben és apai elismerő nyilatkozatok nyilvántartásában szereplő adat vagy adatcsoport felismerhetetlenné tétele olyan módon, hogy a helyreállításuk többé nem lehetséges,
 - t) eseményazonosító: az adott anyakönyvi eseményt azonosító alfanumerikus azonosító,
 - u) ügyazonosító: az adatbejegyzéskor, adatmódosítás anyakönyvbe történő bejegyzésekor, az adattörléskor, valamint az egyéb elektronikus ügyindításkor képzett alfanumerikus azonosító,
@@ -195,7 +195,7 @@ kiállítására.
 
 rögzíti az apai elismerő nyilatkozatok nyilvántartásában.
 
-(3) Az apai elismerő nyilatkozatok nyilvántartásába bejegyzett hibás adat javítására a rögzítő anyakönyvvezető vagy a születést nyilvántartó anyakönyvvezető illetékes.
+(3) Az apai elismerő nyilatkozatok nyilvántartásába bejegyzett hibás adat helyesbítésére a rögzítő anyakönyvvezető vagy a születést nyilvántartó anyakönyvvezető illetékes.
 
 (4) Az apai elismerő nyilatkozatok nyilvántartásából történő törlésre a születés helye szerint illetékes anyakönyvi szerv vagy külföldön történt születés esetén a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv illetékes.
 
@@ -239,7 +239,7 @@ rögzíti az apai elismerő nyilatkozatok nyilvántartásában.
 
 (3e) Az anyakönyvi eljárásban a hivatásos konzuli tisztviselő előtt benyújtott okirat hiteles magyar fordítása helyett a külföldi okirat anyakönyvezés szempontjából lényeges tartalmáról készített hivatalos, kivonatolt fordítás is elfogadható.
 
-(4) Ha a bemutatott okirat adatainak helyessége iránt alapos kétség merül fel, az ügyfél adatait az anyakönyvben ellenőrizni kell. Ha a bemutatott okiratokban valamely adat eltér, az anyakönyvi bejegyzés kijavításáig az anyakönyvi eljárásban az anyakönyvben szereplő adat az irányadó.
+(4) Ha a bemutatott okirat adatainak helyessége iránt alapos kétség merül fel, az ügyfél adatait az anyakönyvben ellenőrizni kell. Ha a bemutatott okiratokban valamely adat eltér, az anyakönyvi bejegyzés helyesbítéséig az anyakönyvi eljárásban az anyakönyvben szereplő adat az irányadó.
 
 14/A. § (1) Az anyakönyvvezető, az anyakönyvi szerv és a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv, amennyiben az anyakönyvi eseménnyel összefüggésben külföldi jog alkalmazása merül fel, továbbá ha a bejegyzés alapja külföldi bíróság vagy más külföldi hatóság döntése, az igazságügyért felelős miniszter véleményét kérheti.
 
@@ -291,6 +291,8 @@ az irányadó.
 17. § (1) A házasságkötési szándék bármely anyakönyvvezetőnél bejelenthető.
 
 (2) A házasulók a házasságkötési szándékukat – a (3) bekezdésben foglaltak kivételével – együttesen, személyesen jelentik be, amelyről az anyakönyvvezető a kormányrendeletben meghatározott adattartalmú jegyzőkönyvet vesz fel, amelyet a házasulók, az anyakönyvvezető és – ha közreműködött – a tolmács aláírnak. A tolmácsról az anyakönyvvezető gondoskodik. Kérelmükre tolmácsról a házasulók is gondoskodhatnak.
+
+(2b) Az elektronikus úton történő szándékbejelentéssel egyidejűleg a házasulóknak közölniük kell a hivatalos statisztikáról szóló törvény végrehajtásáról szóló rendeletben meghatározott adatokat is.
 
 (3) A magyarországi lakcímmel nem rendelkező házasuló vagy – ha a házasulók egyike sem rendelkezik magyarországi lakcímmel – az egyikük a házassági szándékát személyesen hivatásos konzuli tisztviselőnél is bejelentheti, amelyről a konzuli tisztviselő jegyzőkönyvet vesz fel, és azt a házasságkötés tervezett helye szerinti anyakönyvvezetőnek továbbítja.
 
@@ -761,7 +763,7 @@ az irányadó.
 
 ### Az elektronikus és a papír alapú anyakönyv
 
-56. § Az elektronikus anyakönyvi bejegyzés hiányában a papír alapú anyakönyvi bejegyzést kell hitelesnek tekinteni.
+56. § Elektronikus anyakönyvi bejegyzés hiányában, valamint az elektronikus anyakönyvben nem nyilvántartott, a papíralapú anyakönyvben szereplő adat tekintetében a papíralapú anyakönyvi bejegyzést kell hitelesnek tekinteni.
 
 57. § (1) Az e törvény hatálybalépését követően bekövetkezett vagy az e törvény hatálybalépésekor az anyakönyvbe még be nem jegyzett anyakönyvi eseményekre vonatkozó bejegyzéseket az elektronikus anyakönyvbe kell teljesíteni.
 
@@ -965,7 +967,7 @@ megismerni.
 
 (3) Elhalt magyar állampolgár külföldön történt születésének vagy házasságkötésének a hazai anyakönyvezése során a születési nevet, valamint a házassági nevet – nyilatkozat hiányában – a személyiadat- és lakcímnyilvántartásban nyilvántartott adattal kell bejegyezni az anyakönyvbe.
 
-(3a) Az elhalt magyar állampolgár házastársa vagy leszármazója kérelmezheti, hogy az elektronikus anyakönyvbe bejegyzett adatokat az anyakönyvi szerv a (3) bekezdés rendelkezései alapján vizsgálja felül. Az anyakönyvi szerv az adatjavítás anyakönyvbe történő bejegyzésével egyidejűleg az adatjavításról haladéktalanul értesíti az elhalt személy házasságát, továbbá a halálesetét nyilvántartó anyakönyvvezetőt.
+(3a) Az elhalt magyar állampolgár házastársa vagy leszármazója kérelmezheti, hogy az elektronikus anyakönyvbe bejegyzett adatokat az anyakönyvi szerv a (3) bekezdés rendelkezései alapján vizsgálja felül. Az anyakönyvi szerv az adat helyesbítésének az anyakönyvbe történő bejegyzésével egyidejűleg a helyesbítésről haladéktalanul értesíti az elhalt személy házasságát, továbbá a halálesetét nyilvántartó anyakönyvvezetőt.
 
 (4) A hazai anyakönyvezés során a magyar állampolgár kérelmezheti utónevének a 44/A. § (1) bekezdése szerinti módosítását.
 
@@ -995,12 +997,21 @@ megismerni.
 
 ### Elektronikus anyakönyv
 
-69/A. § Az elektronikus anyakönyv a személyazonosság, az anyakönyvi események bekövetkezésének, az azok alapján létrejövő családi kapcsolatoknak, valamint a házasság és a bejegyzett élettársi kapcsolat megszűnésének igazolása céljából személyi alapnyilvántartásként határidő nélkül nyilvántartja
+69/A. § (1) Az elektronikus anyakönyv a személyazonosság, az anyakönyvi események bekövetkezésének, az azok alapján létrejövő családi kapcsolatoknak, valamint a házasság és a bejegyzett élettársi kapcsolat megszűnésének igazolása céljából személyi alapnyilvántartásként határidő nélkül nyilvántartja
 
-- a) az érintett személyazonosító adatait és
-- b) az anyakönyvi eseményekhez kapcsolódó, a 69/C–69/H. §-ban meghatározott adatokat.
+- a) az érintett személyazonosító adatait,
+- b) az anyakönyvi eseményekhez kapcsolódó, a 69/C–69/H. §-ban meghatározott adatokat,
+- c) az adatot bejegyző személy nevét és felhasználói azonosítóját,
+- d) a bejegyzés idejét, az e törvény hatályba lépését megelőzően teljesített papír alapú anyakönyvi bejegyzés idejét és folyószámát, továbbá
+- e) a keletkezett anyakönyvi alapiratok típusát és azonosítószámát,
+- f) ha az anyakönyvbe bejegyzett adatmódosítás alapja bíróság vagy más hatóság döntése
+  - fa) a bíróság vagy más hatóság megnevezését,
+  - fb) a döntés számát és
+  - fc) a döntés jogerőre emelkedésének vagy a véglegessé válásának az időpontját.
 
-69/B. § (1) A személyazonosító adatok nyilvántartása tartalmazza
+(2) Az (1) bekezdés e) és f) pontja szerinti adat nem minősül közhitelesnek.
+
+69/B. § (1) Az elektronikus anyakönyv személyi alapnyilvántartásként tartalmazza
 
 - a) az egyedi elektronikus anyakönyvi azonosítót,
 - b) az érintett
@@ -1015,9 +1026,9 @@ megismerni.
   - bi) házassági nevét,
   - bj) családi állapotát,
 - c) annak a házassági névviselési formának a megjelölését, amelynek viselésére az érintett törvény vagy bírósági határozat alapján nem jogosult,
-- d) a b) pont ba), bd), bf), bg), bh), bi) és bj) alpontjában foglalt adatok változását,
-- e) az adatot bejegyző személy nevét és felhasználói azonosítóját,
-- f) a bejegyzés idejét,
+- d) a b) pont ba), bd), bf), bg), bh), bi) és bj) alpontjában foglalt adatok változását és annak időpontját,
+- e)
+- f)
 - g) a b) pont ba), bf), bg) és bi) alpontjában foglalt adatok esetén – ha azok a magyar ábécében nem szereplő betűt tartalmaznak – azoknak a magyar ábécé betűivel való átírását és
 - h) a b) pont ba), bf), bg) és bi) alpontjában foglalt adatok esetén a családi és utónevet az adott nemzetiségi nyelven is, ha ezt a 46. § (1) bekezdés d) pontja alapján kérték.
 
@@ -1031,16 +1042,23 @@ megismerni.
 
 (5) Amennyiben az érintett születési anyakönyvi bejegyzése vagy a személyiadat- és lakcímnyilvántartás az érintett anyjának születési családi és utónevét az elhalt anyja születési anyakönyvi bejegyzésétől eltérő adatokkal tartalmazza, az érintett kérelmezheti, hogy az anyja nevét a személyiadat- és lakcímnyilvántartás vagy a személyazonosító igazolványa által igazolt adattal jegyezzék be.
 
+(6) Az (1) bekezdés b) pont bd) és bh) alpontja szerinti adat nem minősül közhitelesnek.
+
+(7) Az elektronikus anyakönyvet – a nyilvántartott adatok közhitelességének biztosítása érdekében – a következő alapelvek figyelembevételével kell vezetni:
+
+- a) az adat hitelessége abban az anyakönyvi bejegyzésben a legerősebb, amelyben keletkezett vagy amelyben az adat közvetlenül módosítható, valamint
+- b) az anyakönyvi bejegyzésben az adatok hitelessége az esemény alanya vonatkozásában a legerősebb.
+
 69/C. § (1) Az elektronikus anyakönyv a születéssel kapcsolatban nyilvántartja
 
-- a) a szülők 69/B. § (1) bekezdés b) pont bb) és bd), annak hiányában bc), valamint bh) alpontjában foglalt adatait és az anyának a 69/B. § (1) bekezdés b) pont bi) alpontjában foglalt adatát, ha a gyermek születését az apa adatai nélkül anyakönyvezik és az anya házassági nevét a Ptk. 4:27. § (1) bekezdés d) pontja vagy (3) bekezdése szerinti formában viseli,
+- a) a szülők 69/B. § (1) bekezdés a) pontja, 69/B. § (1) bekezdés b) pont bb)–bd), bh) és bi) alpontja és az anyának a 69/B. § (1) bekezdés b) pont bj) alpontja szerinti adatait,
 - b) a származási helyet,
 - c) a többes születést,
 - d) a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény szerinti nyilatkozat esetén annak tényét és a vér szerinti szülő vagy szülők 69/B. § (1) bekezdés b) pont ba) alpontjában foglalt adatát, vagy – ha a papír alapú anyakönyvbe az örökbefogadás tényét jegyezték be – az örökbefogadás tényét, valamint az örökbefogadó szülő vagy szülők 69/B. § (1) bekezdés b) pont ba) és bi) alpontjában foglalt adatait,
 - e) ha valamelyik vagy mindkét szülő képzelt, ennek tényét,
-- f) az a), d) és e) pontban foglalt adatok változását a szülők házassági neve változásának kivételével,
-- g) az adatot bejegyző személy nevét és felhasználói azonosítóját,
-- h) a bejegyzés idejét, az e törvény hatálybalépését megelőzően teljesített papír alapú anyakönyvi bejegyzés folyószámát, továbbá
+- f) az a), d) és e) pontban foglalt adatok változását és annak időpontját a szülők házassági neve változásának kivételével,
+- g)
+- h)
 - i) a keletkezett anyakönyvi alapiratok típusát és azonosítószámát.
 
 (2) A Magyarországon született és a külföldön történt halálesete időpontjában nem magyar állampolgár halálesetét a születési eseménynél adatmódosításként kell anyakönyvezni.
@@ -1054,12 +1072,12 @@ megismerni.
 - e) a megállapodást a születendő gyermek születési családi nevére,
 - f) az érvényes házasság magyar jog szerinti kezdő időpontját,
 - g) a házasság megszűnésének, felbontásának vagy érvénytelenné nyilvánításának tényét, időpontját,
-- h) a házasság fennállása alatt a b) pontban meghatározott adatokban bekövetkezett változást,
+- h) a házasság fennállása alatt a b) pontban meghatározott adatokban bekövetkezett változást és annak időpontját,
 - i) a házasság megszűnését követően a 69/B. § (1) bekezdés b) pont bi) alpontja szerinti adat anyakönyvi eljárásban történő változását és annak időpontját,
 - j) az e)–g) pontban szereplő adatok változását,
-- k) az adatot bejegyző személy nevét és felhasználói azonosítóját,
-- l) a bejegyzés idejét, az e törvény hatálybalépését megelőzően teljesített papír alapú anyakönyvi bejegyzés folyószámát és
-- m) a keletkezett anyakönyvi alapiratok típusát és azonosító számát.
+- k)
+- l)
+- m)
 
 (2) Ha a házasságkötést nyilvántartó anyakönyvvezető vagy a bíróság a házasság nem létezését állapítja meg, a házasságkötést nyilvántartó anyakönyvvezető a határozat véglegessé válását vagy a bíróság értesítését követően az (1) bekezdésben foglalt adatokat törli, egyúttal intézkedik a házassági anyakönyvi kivonat érvénytelenítéséről és gondoskodik az okirat bevonásáról.
 
@@ -1071,11 +1089,11 @@ megismerni.
 - d) a tanúk és a tolmács családi és utónevét,
 - e) az érvényes bejegyzett élettársi kapcsolatnak a magyar jog szerinti kezdő időpontját,
 - f) a bejegyzett élettársi kapcsolat megszűnésének, megszüntetésének, felbontásának vagy érvénytelenné nyilvánításának tényét, időpontját,
-- g) a b) pontban szereplő adatoknak a bejegyzett élettársi kapcsolat fennállása alatt bekövetkezett változását,
+- g) a b) pontban szereplő adatoknak a bejegyzett élettársi kapcsolat fennállása alatt bekövetkezett változását és annak időpontját,
 - h) az e) és f) pontban szereplő adatok változását,
-- i) az adatot bejegyző személy nevét és felhasználói azonosítóját,
-- j) a bejegyzés idejét, az e törvény hatálybalépését megelőzően teljesített papír alapú anyakönyvi bejegyzés folyószámát és
-- k) a keletkezett anyakönyvi alapiratok típusát és azonosító számát.
+- i)
+- j)
+- k)
 
 (2) Ha a bejegyzett élettársi kapcsolatot nyilvántartó anyakönyvvezető vagy a bíróság a bejegyzett élettársi kapcsolat nem létezését állapítja meg, a bejegyzett élettársi kapcsolatot nyilvántartó anyakönyvvezető a határozat véglegessé válását vagy a bíróság értesítését követően az (1) bekezdésben foglalt adatokat törli, egyúttal intézkedik a bejegyzett élettársi kapcsolatról kiállított kivonat érvénytelenítéséről és gondoskodik az okirat bevonásáról.
 
@@ -1084,9 +1102,9 @@ megismerni.
 - a) a haláleset helyét és idejét,
 - b) a holtnak nyilvánítás tényét vagy a halál tényének bírósági megállapítását,
 - c) az a) és b) pontban foglalt adatok megváltozását,
-- d) az adatot bejegyző személy nevét és felhasználói azonosítóját,
-- e) a bejegyzés idejét, az e törvény hatálybalépését megelőzően teljesített papír alapú anyakönyvi bejegyzés folyószámát, a papír alapú anyakönyv azonosítóját és
-- f) a keletkezett anyakönyvi alapiratok típusát és azonosító számát.
+- d) a túlélő házastárs vagy bejegyzett élettárs 69/B. § (1) bekezdés a) pontjában és b) pont ba)–bd), bi) és bh) alpontjában foglalt adatait,
+- e) a házasságkötés helyét, idejét, vagy a bejegyzett élettársi kapcsolat létesítésének helyét, idejét.
+- f)
 
 (2) Ha a házasság vagy a bejegyzett élettársi kapcsolat az egyik házastárs vagy bejegyzett élettárs halála miatt szűnt meg, a halálesetet az anyakönyvbe bejegyző személy gondoskodik a túlélő házastárs vagy bejegyzett élettárs 69/B. § (1) bekezdés b) pont bj) alpontjában foglalt adata megváltozásának bejegyzéséről.
 
@@ -1096,18 +1114,14 @@ megismerni.
 - b) az ismeretlen holttestnek a rendőrség feladat- és hatáskörrel rendelkező szerve által megállapított adatait,
 - c) az értesítést küldő rendőri szerv megnevezését,
 - d) az ügyirat számát,
-- e) az adatot bejegyző személy nevét és felhasználói azonosítóját,
-- f) a bejegyzés idejét,
-- g) a keletkezett anyakönyvi alapiratok típusát és azonosító számát és
+- e)
+- f)
+- g)
 - h) ismertté válás esetén annak tényét és időpontját.
 
 (2) Ha az elhalt személyazonossága ismertté válik és az elhalt személy az elektronikus anyakönyvben már szerepel, az (1) bekezdés a) pontjában foglalt adatot módosítani kell.
 
-69/H. § Ha az anyakönyvbe bejegyzett adatváltozás alapja bíróság vagy más hatóság határozata, az anyakönyv nyilvántartja
-
-- a) a bíróság vagy más hatóság megnevezését,
-- b) a határozat számát és
-- c) a határozat jogerőre emelkedésének vagy a véglegessé válásának időpontját.
+#### 69/H. §
 
 69/I. § Az anyakönyvi alapiratok nem selejtezhetők, őrzésükről és nyilvántartásukról az anyakönyvvezető és a Magyar Nemzeti Levéltár az adatvédelmi szabályok megtartásával, továbbá – a 69/J. §-ban meghatározottak szerint – a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv, valamint az elektronikus anyakönyvi alapiratok tekintetében a nyilvántartó szerv gondoskodik.
 
@@ -1137,7 +1151,7 @@ megismerni.
   - bd) születési idejét,
   - be) személyi azonosítóját,
   - bf) lakcímét,
-  - bg) családi állapotát,
+  - bg) nyilatkozattétel vagy – ha a gyermek már megszületett – a gyermek születése időpontjában fennálló családi állapotát,
   - bh) elvált családi állapota esetén a házasságot felbontó határozatot meghozó bíróság vagy más hatóság megnevezését, a határozat jogerőre emelkedésének időpontját és a határozat számát,
   - bi) az anya özvegy családi állapota esetén a haláleset időpontját, a haláleset anyakönyvezésének helyét és anyakönyvi folyószámát vagy egyedi elektronikus anyakönyvi azonosítóját,
   - bj) nyilatkozatát arról, hogy a nyilatkozatnak az apaként megjelölt személy általi megtételéhez hozzájárul,
@@ -1152,7 +1166,7 @@ megismerni.
   - cd) a terhességet igazoló szakorvos nevét,
   - ce) a terhességet igazoló igazolás kiállításának időpontját,
 - d) – ha a gyermek már megszületett – a gyermek
-  - da) utónevét,
+  - da) születési családi és utónevét,
   - db) születési idejét,
   - dc) születési helyét,
   - dd) személyi azonosítóját,
@@ -1204,6 +1218,8 @@ megismerni.
 (8) Ha a megszületett gyermekre tett apai elismerő nyilatkozat teljes hatálya megállapítható, a rögzítő anyakönyvvezető, az adatok apai elismerő nyilatkozatok nyilvántartásában történő rögzítésével egyidejűleg a nyilatkozó férfi adatait az elektronikus anyakönyvbe apaként bejegyzi.
 
 (9) Ha az anyakönyv és az apai elismerő nyilatkozatok nyilvántartásának adattartalma eltér, az ellenkező bizonyításáig az anyakönyvet kell hitelesnek tekinteni.
+
+(10) Az apai elismerő nyilatkozatok nyilvántartásában nyilvántartott, a (2) bekezdés a) pont ae)–ai) alpontja, a (2) bekezdés b) pont be), bf), bk)–bm) alpontja, a (2) bekezdés d) pont dd) alpontja, a (2) bekezdés h) pontja, valamint a (2) bekezdés k) pont kc) és kd) alpontja szerinti adat nem minősül közhitelesnek.
 
 ### Az okirat-nyilvántartás
 
@@ -1366,7 +1382,7 @@ foglalt adatait tartja nyilván.
   - ad) származási helyét,
 - b) az apa és az anya születési családi és utónevét,
 - c) a bejegyzett személy halálának tényét, helyét és idejét
-- d) a gyermek és a szülők igazolt nem magyar állampolgárságát, hontalanságát vagy ismeretlen állampolgárságát, magyar állampolgárságának megszűnését,
+- d)
 - e) a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény szerinti nyilatkozat esetén annak tényét és a vér szerinti szülő vagy szülők 69/B. § (1) bekezdés b) pont ba) alpontjában foglalt adatát, vagy – ha a papír alapú anyakönyvbe az örökbefogadás tényét jegyezték be – az örökbefogadás tényét, valamint az örökbefogadó szülő vagy szülők 69/B. § (1) bekezdés b) pont ba) és bi) alpontjában foglalt adatait,
 - f) az örökbefogadott gyermek magyar állampolgárságát, ha nem magyar állampolgár szülők fogadták örökbe,
 - g) a hontalan szülők Magyarországon született gyermeke magyar állampolgárságának tényét.
@@ -1378,7 +1394,7 @@ foglalt adatait tartja nyilván.
   - ba) születési családi és utónevét,
   - bb) házassági nevét,
   - bc) születési helyét és idejét,
-  - bd) igazolt nem magyar állampolgárságát, hontalanságát vagy ismeretlen állampolgárságát, magyar állampolgárságának megszűnését,
+  - bd)
 - c) a születendő gyermek családi nevére vonatkozó megállapodást,
 - d) a házasság
   - da) megszűnésének tényét, idejét,
@@ -1396,7 +1412,7 @@ foglalt adatait tartja nyilván.
   - ba) születési családi és utónevét,
   - bb) születési helyét és idejét,
   - bc) nemét,
-  - bd) igazolt nem magyar állampolgárságát, hontalanságát vagy ismeretlen állampolgárságát, magyar állampolgárságának megszűnését,
+  - bd)
 - c) a bejegyzett élettársi kapcsolat
   - ca) megszűnésének tényét,
   - cb) érvénytelensége megállapításának tényét,
@@ -1410,7 +1426,7 @@ foglalt adatait tartja nyilván.
   - ac) nemét,
   - ad) családi állapotát,
   - ae) születési helyét és idejét vagy életkorát,
-  - af) igazolt nem magyar állampolgárságát, hontalanságát vagy ismeretlen állampolgárságát, magyar állampolgárságának megszűnését,
+  - af)
 - b) a haláleset helyét és idejét,
 - c) az elhalt apjának és anyjának születési családi és utónevét,
 - d) az elhalt házastársának vagy bejegyzett élettársának születési családi és utónevét,
@@ -1469,7 +1485,9 @@ foglalt adatait tartja nyilván.
 
 ### VIII. Fejezet — ADATTOVÁBBÍTÁS, AZ ANYAKÖNYVI ADATOK VÉDELME
 
-#### 76. §
+76. § (1) Az elektronikus anyakönyvből az e törvényben meghatározott módon az anyakönyvi események bekövetkezésének, az azok alapján létrejövő családi kapcsolatoknak, valamint a házasság és a bejegyzett élettársi kapcsolat megszűnésének igazolása és ellenőrzése céljából ismerhető meg és továbbítható adat.
+
+(2) A magyar állampolgárok természetes személyazonosító adatainak megállapítása céljából – a személyiadat- és lakcímnyilvántartás szervei kivételével – az adatigénylő számára kizárólag abban az esetben továbbítható adat, amennyiben az adatigénylés alanyának adatait a személyiadat- és lakcímnyilvántartás nem tartalmazza.
 
 ### Az adattovábbítás módja és tartalma
 

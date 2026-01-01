@@ -224,7 +224,13 @@ központi nyilvántartást (a továbbiakban: NEK központi nyilvántartás) veze
 
 (6) A működtető a személyes adatok védelme céljából a NEK központi nyilvántartás vonatkozásában köteles olyan technikai, szervezési intézkedéseket tenni, ellenőrzési rendszert kialakítani és adatvédelmi szabályzatot kiadni, melyek biztosítják az adatvédelmi követelmények teljesítését. Az adatvédelmi szabályzatot a jogi környezet megváltozásával haladéktalanul felül kell vizsgálni és szükség esetén módosítani kell.
 
-(7) A NEK központi nyilvántartás – azon adat kivételével, amelyet jogszabály más nyilvántartás részeként közhitelesnek minősít – közhiteles hatósági nyilvántartásnak minősül.
+(7) A NEK központi nyilvántartás a kártyafelhasználói regisztráció időpontja és
+
+- a) a (2) bekezdés b) pont bc)–be) alpontjában és a (2) bekezdés c) pont cc)–cf) alpontjában foglalt adatok,
+- b) a (3) bekezdés b) pont bb)–bd) alpontjában és a (3) bekezdés c) pont cb)–ce) alpontjában foglalt adatok, valamint
+- c) a (4) bekezdés a)–c) pontjában foglalt adatok
+
+tekintetében – amennyiben más, az igazolvány adatairól vezetett nyilvántartás a felsorolt adatkört nem közhiteles adatként tartalmazza – közhiteles hatósági nyilvántartásnak minősül.
 
 (8) A működtető hivatalból köteles a NEK központi nyilvántartásában a jogszabálysértő bejegyzést törölni, a hibás bejegyzést javítani vagy az elmulasztott bejegyzést pótolni.
 

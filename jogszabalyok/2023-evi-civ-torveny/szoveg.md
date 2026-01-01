@@ -143,7 +143,7 @@ szükséges.
 
 (12) Az Elnök a Rendelet 10. cikkében meghatározott tartalommal és formában kibocsátott végzésben információszolgáltatásra kötelezheti a közvetítő szolgáltatót.
 
-13. § (1) Az Elnök közhiteles hatósági nyilvántartást vezet a Rendelet 21. cikke szerinti peren kívüli vitarendezési testületekről (a továbbiakban: vitarendezési testület).
+13. § (1) Az Elnök nyilvántartást vezet a Rendelet 21. cikke szerinti peren kívüli vitarendezési testületekről (a továbbiakban: vitarendezési testület).
 
 (2) A Rendeletben és az Elnök rendeletében foglalt feltételeknek megfelelő szervezet kérelme alapján az Elnök hatósági határozatban dönt a szervezet vitarendezési testületként történő tanúsításáról és nyilvántartásba vételéről. Az Elnök hatósági határozatban dönt a vitarendező testület tanúsítványának visszavonásáról, valamint a nyilvántartásból való törléséről.
 
@@ -153,13 +153,13 @@ szükséges.
 - b) a vitarendezési testület tanúsítványának érvényességi idejét, továbbá
 - c) ha a tanúsítás tárgyában hozott hatósági határozat meghatározza, az arra vonatkozó adatokat, hogy a vitarendezési testület milyen témakörökben és milyen nyelveken jogosult a vitarendezési eljárás lefolytatására.
 
-(4) Az (1) bekezdés szerinti nyilvántartás adatai nyilvánosak és a Hatóság internetes honlapjáról elérhetők.
+(4) Az (1) bekezdés szerinti nyilvántartás adatai a vitarendezési testület neve, valamint a (3) bekezdés b) és c) pontja tekintetében közhitelesek, nyilvánosak és a Hatóság internetes honlapjáról elérhetők.
 
 (5) A vitarendezési testületnek tizenöt napon belül be kell jelentenie az Elnöknek, ha a nyilvántartásban szereplő adataiban vagy a tanúsításhoz szükséges feltételekben változás következett be.
 
 (6) A vitarendezési testület tanúsítására és nyilvántartására vonatkozó részletes szabályokat az Elnök rendeletben állapítja meg.
 
-14. § (1) Az Elnök közhiteles hatósági nyilvántartást vezet a Rendelet 22. cikke szerinti megbízható bejelentőkről.
+14. § (1) Az Elnök nyilvántartást vezet a Rendelet 22. cikke szerinti megbízható bejelentőkről.
 
 (2) A Rendeletben és az Elnök rendeletében foglalt feltételeknek megfelelő, Magyarországon letelepedett szervezet kérelme alapján az Elnök határozatával a kérelmet benyújtó szervezetet megbízható bejelentőnek minősíti és nyilvántartásba veszi. Az Elnök hatósági határozatban dönt a megbízható bejelentői minősítés hatályának felfüggesztéséről vagy visszavonásáról, valamint visszavonás esetén a nyilvántartásból való törlésről.
 
@@ -169,7 +169,7 @@ szükséges.
 - b) a megbízható bejelentő – Elnök határozatával kijelölt – szakterületét vagy szakterületeit, továbbá
 - c) a megbízható bejelentői minőség felfüggesztése esetében a felfüggesztésre vonatkozó adatokat.
 
-(4) Az (1) bekezdés szerinti nyilvántartás adatai nyilvánosak és a Hatóság internetes honlapjáról elérhetők.
+(4) Az (1) bekezdés szerinti nyilvántartás adatai a megbízható bejelentő neve, valamint a (3) bekezdés b) és c) pontja tekintetében közhitelesek, nyilvánosak és a Hatóság internetes honlapjáról elérhetők.
 
 (5) A megbízható bejelentőnek tizenöt napon belül be kell jelentenie az Elnöknek, ha a nyilvántartásban szereplő adataiban vagy a megbízható bejelentői minősítéshez szükséges feltételeiben változás következett be.
 
@@ -188,7 +188,7 @@ szükséges.
 
 (4) Az ellenőrzött kutatónak tizenöt napon belül be kell jelentenie az Elnöknek, ha a nyilvántartásban szereplő adataiban vagy az ellenőrzött kutatói minősítéshez szükséges feltételeiben változás következett be.
 
-(5) Az (1) bekezdés szerinti nyilvántartás – a kutató (3) bekezdés b) pontja szerinti személyes adatai kivételével – a Hatóság internetes honlapjáról nyilvánosan elérhető, és a nyilvántartás e körben közhiteles hatósági nyilvántartásnak minősül.
+(5) Az (1) bekezdés szerinti nyilvántartás – a kutató személye, kutatóhelye, valamint kutatási célja tekintetében közhiteles nyilvántartás – a Hatóság internetes honlapjáról nyilvánosan elérhető.
 
 (6) Az Elnök a természetes személy kutató (3) bekezdés a) és b) pontjában meghatározott személyes adatait a hatósági feladatainak ellátása, valamint a Rendelet 40. cikk (8) bekezdés szerinti adatszolgáltatás nyújtása érdekében a nyilvántartásból való törlésig kezeli.
 

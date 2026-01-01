@@ -334,9 +334,11 @@ a digitális állam megvalósítása érdekében egyes törvények módosítás�
 
 #### 105. §
 
-#### 62.
+#### 62. Az anyakönyvi eljárásról szóló 2010. évi I. törvény módosítása
 
-#### 106. §
+106. § Az anyakönyvi eljárásról szóló 2010. évi I. törvény 17. §-a a következő (2b) bekezdéssel egészül ki:
+
+„(2b) Az elektronikus úton történő szándékbejelentéssel egyidejűleg a házasulóknak közölniük kell a hivatalos statisztikáról szóló törvény végrehajtásáról szóló rendeletben meghatározott adatokat is.”
 
 #### 63. A hagyatéki eljárásról szóló 2010. évi XXXVIII. törvény módosítása
 
@@ -656,7 +658,12 @@ a digitális állam megvalósítása érdekében egyes törvények módosítás�
 
 #### 116. A nemzeti adatvagyon hasznosításának rendszeréről és az egyes szolgáltatásokról szóló 2023. évi CI. törvény módosítása
 
-#### 211. §
+211. § A nemzeti adatvagyon hasznosításának rendszeréről és az egyes szolgáltatásokról szóló 2023. évi CI. törvény
+
+- a) 61. § (4) bekezdése az „az E-ügyintézési tv. 11. §-a szerinti” szövegrész helyett az „a Dáptv. 21. §-a szerinti” szöveggel,
+- b) 61. § (6) bekezdés a) pontja az „az E-ügyintézési tv.-ben” szövegrész helyett az „a Dáptv.-ben” szöveggel
+
+lép hatályba.
 
 #### 212. §
 

@@ -47,7 +47,7 @@ Magyarországon adóztatható része után.
 
 (9) Adóalapot képez az a jövedelem is, amelynek kifizetése (juttatása) olyan időszakra tekintettel történik, amely időszakban a Tbj. alapján biztosítási jogviszony állt fenn, függetlenül a kifizetés (juttatás) időpontjától.
 
-(10) A Tbj. 6. § (1) bekezdés a) pontja szerinti biztosítási jogviszony esetében az adó alapja az (1)–(3) bekezdés szerinti jövedelem esetében megegyezik a társadalombiztosítási járulék alapjával (ide nem értve a felszolgálási díjat).
+(10) A Tbj. 6. § (1) bekezdés a) és l) pontja szerinti biztosítási jogviszony esetében az adó alapja az (1)–(3) bekezdés szerinti jövedelem esetében megegyezik a társadalombiztosítási járulék alapjával (ide nem értve a felszolgálási díjat).
 
 #### 2. Az adó mértéke és fizetendő összege
 
@@ -85,6 +85,13 @@ szerinti esetben.
 
 (8) Több munkáltatóval létesített munkaviszony [a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) 195. §] esetén az adókötelezettséget az adózás rendjéről szóló törvény szerint meghatározott munkáltató teljesíti.
 
+(9) Adófizetésre kötelezett személynek az 5. § (1a) bekezdés
+
+- a) a) pontja szerinti adókötelezettség esetén a kifizető,
+- b) b) pontja szerinti adókötelezettség esetén az anyák kedvezményét érvényesítő Tbj. szerinti saját jogú nyugdíjas magánszemély
+
+minősül.
+
 #### 4. Az adóra vonatkozó közös szabályok
 
 4. § (1) A szociális biztonsághoz, valamint a testi és lelki egészséghez való jog érvényesítését szolgáló egyes szociális ellátások fedezetéhez, továbbá az egységes állami nyugdíjrendszer fenntartásához szükséges államháztartási források biztosítása céljából az adóból származó államháztartási bevétel a központi költségvetésről szóló törvényben meghatározott arányok szerint megoszlik a társadalombiztosítás egyes pénzügyi alapjai és a törvényben meghatározott elkülönített állami pénzalap költségvetése között.
@@ -112,7 +119,14 @@ alapján létrejött jogviszonyra tekintettel;
 - h) a Tbj. szerint külföldinek minősülő személynek az általa megszerzett, járulékalapot képező olyan jövedelemre tekintettel, amely után járulékfizetési kötelezettség nem merül fel, ide nem értve az olyan jövedelmet, ami az 1. § (9) bekezdésének figyelembevételével adóalapot képez;
 - i) az egyházi jogi személynek az egyházi szolgálati viszonyban álló egyházi személyre tekintettel, ha az egyházi szolgálati viszonyban álló egyházi személy saját jogú nyugdíjas természetes személy, vagy özvegyi nyugdíjban részesülő olyan természetes személy, aki a rá irányadó öregséginyugdíj-korhatárt már betöltötte.
 - j) a Tbj. szerint saját jogú nyugdíjasnak minősülő adófizetésre kötelezett személynek az Szja tv. szerinti egyéb jövedelem kivételével.
-- k) a kisgyermekkel otthon lévők szövetkezetének a nem nagyszülőként gyermekgondozási díjban vagy gyermekgondozást segítő ellátásban részesülő tagjával fennálló jogviszonyára tekintettel.
+- k) a kisgyermekkel otthon lévők szövetkezetének a csecsemőgondozási díjban, gyermekek otthongondozási díjában, gyermeknevelési támogatásban, örökbefogadói díjban, nem nagyszülőként gyermekgondozási díjban vagy gyermekgondozást segítő ellátásban részesülő tagjával fennálló jogviszonyára tekintettel.
+
+(1a) Az (1) bekezdéstől eltérően adókötelezettség keletkezik az anyák kedvezményét érvényesítő Tbj. szerinti saját jogú nyugdíjas magánszemély
+
+- a) részére a tárgyévben ugyanazon kifizető által juttatott az anyák kedvezménye alapját képező olyan jövedelmei együttes összegének az éves átlagkereset négyszeresét meghaladó része után, amely jövedelmekből a kifizető az Szja tv. szabályai szerint egyébként adóelőleget lenne köteles levonni;
+- b) által megszerzett az anyák kedvezménye alapját képező olyan jövedelmei együttes összegének az éves átlagkereset négyszeresét meghaladó része után, amely jövedelmek nem kifizetőtől származnak vagy a jövedelmekből a kifizető az Szja tv. szabályai szerint egyébként adóelőleget nem lenne köteles levonni.
+
+(1b) Az (1a) bekezdés a) pontjának alkalmazása során egyazon kifizetőnek kell tekinteni a kifizetővel a társasági adóról és az osztalékadóról szóló törvény szerint kapcsolt vállalkozásnak minősülő más kifizetőt is.
 
 (2) Nem esik az 1. § (1)–(3) bekezdés szerinti adófizetési kötelezettség alá – e tevékenysége, jogállása alapján szerzett jövedelme tekintetében –
 
@@ -199,13 +213,13 @@ harmincad része azokra a napokra, amelyekre az adófizetési kötelezettség fe
 
 #### 8. Az adóalap megállapításának különös szabályai
 
-8. § (1) A közkereseti társaságot, a betéti társaságot, a korlátolt felelősségű társaságot, a közös vállalatot, az egyesülést, az európai gazdasági egyesülést, a szabadalmi ügyvivői irodát, a szabadalmi ügyvivői társaságot, az ügyvédi irodát, a közjegyzői irodát, a végrehajtói irodát, az egyéni céget a tagjára tekintettel havonta terhelő adó alapja legalább a minimálbér 112,5 százaléka. Az adó alapja legalább az adófizetési kötelezettséget eredményező jogviszony fennállása minden napjára számítva a minimálbér 112,5 százalékának harmincad része, ha a jogviszony nem áll fenn a hónap minden napján.
+8. § (1) A közkereseti társaságot, a betéti társaságot, a korlátolt felelősségű társaságot, a közös vállalatot, az egyesülést, az európai gazdasági egyesülést, a szabadalmi ügyvivői irodát, a szabadalmi ügyvivői társaságot, az ügyvédi irodát, a közjegyzői irodát, a végrehajtói irodát, az egyéni céget a tagjára tekintettel havonta terhelő adó alapja legalább a minimálbér. Az adó alapja legalább az adófizetési kötelezettséget eredményező jogviszony fennállása minden napjára számítva a minimálbér harmincad része, ha a jogviszony nem áll fenn a hónap minden napján.
 
 (2) Az egyházi jogi személyt az egyházi szolgálati viszonyban álló egyházi személyre tekintettel havonta terhelő adó alapja a minimálbér. Az adó alapja az adófizetési kötelezettséget eredményező jogviszony fennállása minden napjára számítva a minimálbér harmincad része, ha a jogviszony nem áll fenn a hónap minden napján.
 
-(3) Az egyéni vállalkozót saját maga után havonta terhelő adó alapja legalább a minimálbér 112,5 százaléka. Az adó alapja az egyéni vállalkozói jogállás fennállása minden napjára számítva legalább a minimálbér 112,5 százalékának harmincad része, ha a természetes személy e jogállással nem rendelkezik a hónap minden napján.
+(3) Az egyéni vállalkozót saját maga után havonta terhelő adó alapja legalább a minimálbér. Az adó alapja az egyéni vállalkozói jogállás fennállása minden napjára számítva legalább a minimálbér harmincad része, ha a természetes személy e jogállással nem rendelkezik a hónap minden napján.
 
-(4) Az (1)–(3) bekezdés alkalmazásakor az egy hónapra fizetendő adó alapjának megállapításkor a kifizető, valamint az egyéni vállalkozó nem veszi számításba a hónapnak azt a napját, amelyre a kifizető a tagjával fennálló jogviszonya, egyéni vállalkozói jogállására tekintettel e fejezet külön rendelkezése alapján mentesül az adófizetés különös szabályainak alkalmazása alól. Ilyen esetben az adó alapja a hónap többi napjára számítva egyházi jogi személy esetében a minimálbér harmincad része, más kifizető és egyéni vállalkozó esetében legalább minimálbér 112,5 százalékának harmincad része.
+(4) Az (1)–(3) bekezdés alkalmazásakor az egy hónapra fizetendő adó alapjának megállapításkor a kifizető, valamint az egyéni vállalkozó nem veszi számításba a hónapnak azt a napját, amelyre a kifizető a tagjával fennálló jogviszonya, egyéni vállalkozói jogállására tekintettel e fejezet külön rendelkezése alapján mentesül az adófizetés különös szabályainak alkalmazása alól. Ilyen esetben az adó alapja a hónap többi napjára számítva egyházi jogi személy esetében a minimálbér harmincad része, más kifizető és egyéni vállalkozó esetében legalább a minimálbér harmincad része.
 
 #### 9. Mentesülés a különös szabályok alkalmazása alól
 
@@ -213,7 +227,7 @@ harmincad része azokra a napokra, amelyekre az adófizetési kötelezettség fe
 
 - a) táppénzben, baleseti táppénzben, csecsemőgondozási díjban, örökbefogadói díjban, gyermekgondozási díjban részesül;
 - b) gyermekgondozást segítő ellátásban, gyermeknevelési támogatásban, gyermekek otthongondozási díjában, ápolási díjban részesül, kivéve, ha a gyermekgondozást segítő ellátás, gyermekek otthongondozási díja, ápolási díj folyósítása alatt a tag személyes közreműködését, az egyházi szolgálati viszonyban álló egyházi személy egyházi szolgálatát, az egyéni vállalkozó e tevékenységét személyesen folytatja;
-- c) csecsemőgondozási díjban, örökbefogadói díjban, gyermekgondozási díjban és gyermekgondozást segítő ellátásban egyidejűleg részesül.
+- c) csecsemőgondozási díjban, örökbefogadói díjban, gyermekgondozási díjban részesül és egyidejűleg gyermekgondozást segítő ellátást, gyermeknevelési támogatást, gyermekek otthongondozási díját vagy ápolási díjat is kap.
 
 (2) A kifizető a tagjával (ideértve az egyházi szolgálati viszonyban álló egyházi személyt is) fennálló jogviszonya alapján őt terhelő adó alapjának, az egyéni vállalkozó az őt saját maga után terhelő adó alapjának megállapításkor az adóalap megállapításának különös szabályai hatálya alá tartozó esetben nem veszi számításba a hónapnak azt a napját, amelyre a tagja, maga az egyéni vállalkozó
 
@@ -422,11 +436,13 @@ esetén,
 
 (5) A természetes személyt terhelő adókötelezettség megállapításánál, megfizetésénél az Art. kerekítési szabályai nem alkalmazhatóak.
 
-19. § (1) Az Szja tv. rendelkezései szerint a vállalkozói jövedelem szerinti adózást alkalmazó egyéni vállalkozó az adót az Art. rendelkezései szerint havonta állapítja meg, és a tárgyhónapot követő hónap 12-éig vallja be és fizeti meg. Az egyéni vállalkozó és a kiegészítő tevékenységet folytató egyéni vállalkozó a vállalkozói osztalékalap után fizetendő adót a tárgyévre vonatkozó személyi jövedelemadó bevallásában vallja be és a bevallás benyújtására előírt határidő lejártáig fizeti meg.
+19. § (1) Az Szja tv. rendelkezései szerint a vállalkozói jövedelem szerinti adózást alkalmazó egyéni vállalkozó az adót az Art. rendelkezései szerint negyedévente állapítja meg, és a tárgynegyedévet követő hónap 12-éig havonkénti bontásban vallja be és a tárgynegyedév adóját az említett időpontig fizeti meg. Az egyéni vállalkozó és a kiegészítő tevékenységet folytató egyéni vállalkozó a vállalkozói osztalékalap után fizetendő adót a tárgyévre vonatkozó személyi jövedelemadó bevallásában vallja be és a bevallás benyújtására előírt határidő lejártáig fizeti meg.
 
 (2) Az Szja tv. rendelkezései szerint átalányadózást alkalmazó egyéni vállalkozó a tárgynegyedév hónapjainak adóját – figyelemmel a 6. § (2) bekezdésének rendelkezésére – havonkénti bontásban a tárgynegyedévet követő hónap 12-éig vallja be és a tárgynegyedév adóját az említett időpontig fizeti meg.
 
-#### 20. §
+20. § (1) Az 5. § (1a) bekezdés a) pontja szerinti adót a kifizető a tárgyévet követő év január havi kötelezettségként vallja be és fizeti meg. Az 5. § (1b) bekezdése szerinti egyazon kifizetők esetén az adókötelezettséget a választásuk szerinti kifizető teljesíti. A kötelezettség teljesítéséért az egyazon kifizetőnek minősülő kifizetők egyetemlegesen felelnek.
+
+(2) Az 5. § (1a) bekezdés b) pontja szerinti adót az anyák kedvezményét érvényesítő Tbj. szerinti saját jogú nyugdíjas magánszemély a személyi jövedelemadó bevallásában vagy az állami adó- és vámhatóság által összeállított adóbevallási tervezet felhasználásával elkészített személyi jövedelemadó bevallásban a bevallásra előírt határidőig állapítja meg, vallja be, és a bevallás benyújtásának határidejéig fizeti meg. Az említett magánszemély nem köteles az anyák kedvezménye alapját képező jövedelmeit megállapítani és bevallani, ha az azok alapjául szolgáló tárgyévi bevételeinek együttes összege az éves átlagkereset négyszeresét nem haladja meg.
 
 21. § (1) A külföldi kifizető az adóval összefüggő adókötelezettséget az adóigazgatási rendtartásról szóló törvény (a továbbiakban: Air.) szerinti pénzügyi képviselő, valamint adózási ügyvivő útján, ennek hiányában közvetlenül teljesíti. A külföldi kifizető az adókötelezettségeit közvetlenül csak akkor teljesítheti, ha bejelentkezése alapján az állami adó- és vámhatóság Tbj. szerinti foglalkoztatóként nyilvántartásba vette.
 
@@ -507,7 +523,7 @@ tanúsítja, az a) és b) pont szerinti esetben az igazolás vagy a diákigazolv
 - 5. kiegészítő tevékenységet folytató egyéni, társas vállalkozó: aki vállalkozói tevékenységet saját jogú nyugdíjasként folytat és a Tbj. szerint kiegészítő tevékenységet folytató személynek minősül.
 - 6. kifizető: az Art. szerinti kifizető
 - 7. külföldi kifizető: a belföldön állandó lakóhellyel, szokásos tartózkodási hellyel, székhellyel nem rendelkező személy;
-- 8.
+- 8. éves átlagkereset: az Szja tv. szerinti éves átlagkereset.
 - 9. mezőgazdasági őstermelő: az Szja tv. szerint mezőgazdasági őstermelőnek minősülő természetes személy;
 - 10.
 - 11. minimálbér: az év első napján érvényes kötelező legkisebb munkabér havi összege, kivéve az e törvény egyéni és társas vállalkozókra vonatkozó rendelkezéseiben említett minimálbért, amely a tárgyhónap első napján, a teljes munkaidőre érvényes garantált bérminimum havi összege, ha az egyéni vállalkozó személyesen végzett főtevékenysége vagy a társas vállalkozó főtevékenysége legalább középfokú iskolai végzettséget vagy középfokú szakképzettséget igényel, ennek hiányában a tárgyhónap első napján érvényes kötelező legkisebb munkabér havi összege;
@@ -531,6 +547,8 @@ tanúsítja, az a) és b) pont szerinti esetben az igazolás vagy a diákigazolv
 - 13. nevelőszülői foglalkoztatási jogviszony: a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény szerinti nevelőszülői foglalkoztatási jogviszony, amely teljes munkaidős foglalkoztatási jogviszonynak minősül;
 - 14. saját jogú nyugdíjas: a Tbj. szerint saját jogú nyugdíjasnak minősülő természetes személy;
 - 15. társas vállalkozás: a közkereseti társaság, a betéti társaság, a korlátolt felelősségű társaság, a közös vállalat, az egyesülés, az európai gazdasági egyesülés, a szabadalmi ügyvivői iroda, a szabadalmi ügyvivői társaság, az ügyvédi iroda, a közjegyzői iroda, a végrehajtói iroda, az egyéni cég.
+- 16. anyák kedvezménye: az Szja tv. 29/D. § -a szerinti kedvezmény, a három gyermeket nevelő anyák kedvezményéről szóló 2025. évi XV. törvény szerinti kedvezmény, a két gyermeket nevelő anyák kedvezményéről szóló 2025. évi XIV. törvény szerinti kedvezmény;
+- 17. anyák kedvezménye alapját képező jövedelem: az Szja tv. 29/D. § (2) bekezdése szerinti jövedelem, a három gyermeket nevelő anyák kedvezményéről szóló 2025. évi XV. törvény 1. § (2) bekezdése szerinti jövedelem és a két gyermeket nevelő anyák kedvezményéről szóló 2025. évi XIV. törvény 1. § (2) bekezdése szerinti jövedelem együttes összege.
 
 ### V. Fejezet — ZÁRÓ RENDELKEZÉSEK
 

@@ -18,76 +18,63 @@ az államháztartási tárgyú törvényeknek a tagállamok költségvetési ker
 
 #### 1. §
 
-2. § A Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény 15. §-a a következő (1a) bekezdéssel egészül ki:
+#### 2. §
 
-„(1a) A Tanács testületként eljárva értékeli az államháztartásra vonatkozó éves és többéves költségvetési tervezéshez szükséges makrogazdasági és költségvetési előrejelzéseket.”
+#### 3. §
 
-3. § A Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény 23. §-a a következő (3)–(7) bekezdéssel egészül ki:
-
-„(3) A Tanács rendszeresen elvégzi az éves és többéves költségvetési tervezésre vonatkozó makrogazdasági és költségvetési előrejelzések utólagos értékelését, amelynek keretében
-
-- a) értékeli, illetve véleményezi a központi költségvetés megalapozásához használt makrogazdasági és költségvetési előrejelzéseket,
-- b) nyomon követi az államadósság-szabály és a hazai és uniós országspecifikus számszerű költségvetési szabályok teljesülését,
-- c) értékeli a középtávú költségvetési tervezés összhangját a fenntarthatósági követelményekkel.
-
-(4) A Tanács a (3) bekezdés szerinti értékelés eredményét nyilvánosan közzéteszi.
-
-(5) A Kormány a (4) bekezdés szerint közzétett eredményt
-
-- a) elfogadja, és alkalmazza az előrejelzések készítése során, vagy
-- b) az abban foglaltaktól eltérő álláspontját indokolással ellátva megküldi a Tanács részére.
-
-(6) A Tanács a (3) bekezdés szerinti feladatainak eredményes elvégzéséhez – ideértve a feladataikon belül bármilyen típusú elemzést is – megfelelő és stabil erőforrásokkal rendelkezik.
-
-(7) A Tanács a (3) bekezdés szerinti feladatainak ellátása során utasítást nem fogadhat el.”
-
-4. § A Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény 24. §-a a következő (6) bekezdéssel egészül ki:
-
-„(6) A Kormány a 23. § (3) bekezdése szerinti feladat elvégzéséhez szükséges információkat a Tanács rendelkezésére bocsátja, az erre irányuló kérelme kézhezvételét követően haladéktalanul.”
+#### 4. §
 
 #### 5. §
 
-6. § A Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény 16. alcíme a következő 55. §-sal egészül ki:
-
-„55. § A 15. § (1a) bekezdése, a 23. § (3)–(5) bekezdése, valamint a 24. § (6) bekezdése a tagállamok költségvetési keretrendszerére vonatkozó követelményekről szóló 2011/85/EU irányelv módosításáról szóló, 2024. április 29-i (EU) 2024/1265 tanácsi irányelvnek való megfelelést szolgálja.”
+#### 6. §
 
 #### 7. §
 
 #### 2. Az államháztartásról szóló 2011. évi CXCV. törvény módosítása
 
-8. § (1) Az államháztartásról szóló 2011. évi CXCV. törvény 22. § (3) bekezdés c) pontja helyébe a következő rendelkezés lép:
+#### 8. §
 
-(A Kormány a központi költségvetésről szóló törvényjavaslat indokolásában)
+9. § (1) Az államháztartásról szóló 2011. évi CXCV. törvény 60/A. § (2) bekezdése helyébe a következő rendelkezés lép:
 
-„c) ismerteti a középtávú költségvetési tervezés részeként az állami kezességek, az állami garanciák és az állami viszontgaranciák – ideértve a természeti jelenségből vagy az emberi tevékenységből eredő természeti katasztrófákkal, valamint az éghajlatváltozás káros hatásainak elkerülésével kapcsolatban vállalt állami kezességek, állami garanciák és állami viszontgaranciák – állományát, valamint a fő kormányzati politikák hosszú távú fenntarthatóságának felmérését, a közvetlen hosszú távú hatással rendelkező szakpolitikák bemutatásával, így különösen bemutatja az állami nyugdíj, egészségügyi, oktatási és egyéb korfüggő kiadások hosszú távú alakulását,”
+„(2) Jogosulatlan igénybevétel esetén és a visszafizetési kötelezettség késedelmes teljesítése esetén a helyi önkormányzat jogszabályban meghatározott mértékű ügyleti kamatot, illetve azon felül késedelmi kamatot fizet. Ha a helyi önkormányzat visszafizetési kötelezettségnek nem tesz eleget, a kincstár – az engedélyezett és az előírtaknak megfelelő ütemben teljesített részletfizetés kivételével – hatósági átutalási megbízást nyújt be a kötelezett fizetési számlájára. A fizetési számlát vezető pénzforgalmi szolgáltató a kincstár e bekezdés alapján benyújtott hatósági átutalási megbízását okirat csatolása nélkül köteles teljesíteni.”
 
-(2) Az államháztartásról szóló 2011. évi CXCV. törvény 22. § (4) bekezdés c) pontja helyébe a következő rendelkezés lép:
+(2) Az államháztartásról szóló 2011. évi CXCV. törvény 60/A. § (4) bekezdése helyébe a következő rendelkezés lép:
 
-(Az Országgyűlés részére a központi költségvetésről szóló törvényjavaslat benyújtásakor tájékoztatásul be kell mutatni)
+„(4) Ha a helyi önkormányzat a részletfizetést engedélyező határozatban foglalt fizetési kötelezettségének a határozatban foglaltak szerint nem tesz eleget, a visszafizetési és kamatfizetési kötelezettség egy összegben, azonnal esedékessé válik. Ha az így keletkezett egyösszegű fizetési kötelezettséget a kötelezett az esedékessé válást követő tizenöt napon belül nem teljesíti, a kincstár hatósági átutalási megbízást nyújt be a kötelezett fizetési számlájára. A fizetési számlát vezető pénzforgalmi szolgáltató a kincstár e bekezdés alapján benyújtott hatósági átutalási megbízását okirat csatolása nélkül köteles teljesíteni.”
 
-„c) a központi költségvetésről szóló törvényjavaslat adóbevételeiben érvényesülő közvetett támogatásokat, így különösen az adóelengedéseket, adókedvezményeket tartalmazó, azok bevételekre gyakorolt hatását is részletező kimutatást adónemenként, kitérve ezeknek az éghajlattal és környezetvédelemmel összefüggő kötelezettségek teljesítésére gyakorolt hatására.”
+10. § Az államháztartásról szóló 2011. évi CXCV. törvény 60/B. §-a helyébe a következő rendelkezés lép:
 
-#### 9. §
+„60/B. § A helyi önkormányzat kérelme alapján a kincstár által e törvény alapján benyújtott beszedési megbízás vagy hatósági átutalási megbízás benyújtását a kincstár legfeljebb egy alkalommal, legfeljebb két hónapra elhalasztja, vagy a már benyújtott hatósági átutalási megbízást visszavonja és legfeljebb két hónappal később nyújtja csak be ismételten, ha a kérelmező igazolja, hogy az általa fizetendő munkabérek, illetmények és ellátások kifizetését a beszedési megbízás vagy a hatósági átutalási megbízás érvényesítése veszélyeztetné.”
 
-#### 10. §
+11. § (1) Az államháztartásról szóló 2011. évi CXCV. törvény 83. § (4) bekezdése helyébe a következő rendelkezés lép:
 
-#### 11. §
+„(4) Ha az e törvényben foglaltak alapján a kincstár által a helyi önkormányzat fizetési számlájára benyújtott beszedési megbízás vagy hatósági átutalási megbízás kilencven napon belül nem teljesül, akkor e követelés és annak kamata köztartozásnak minősül és azt az állami adóhatóság adók módjára hajtja be.”
 
-12. § Az államháztartásról szóló 2011. évi CXCV. törvény 90. § (3) bekezdés f) pontja helyébe a következő rendelkezés lép:
+(2) Az államháztartásról szóló 2011. évi CXCV. törvény 83. § (6b) bekezdése helyébe a következő rendelkezés lép:
 
-(Az Országgyűlés részére zárszámadáskor tájékoztatásul a következő mérlegeket és kimutatásokat kell bemutatni:)
+„(6b) Ha a helyi önkormányzatnak a kincstárral szemben a nettó finanszírozásból vagy az önkormányzati szolidaritási hozzájárulásból adódóan tartozása áll fenn, a tartozásnak megfelelő összeget ebben a sorrendben a kincstár beszámítja a 14. § (3) bekezdésébe tartozó fejezetből a helyi önkormányzatnak kifizetendő támogatásokból a központi költségvetés „Önkormányzatok rendkívüli támogatása”, a „Vis maior támogatás” jogcím, valamint a Kormány rendeletében meghatározott jogcímek kivételével.”
 
-„f) a középtávú tervezés során figyelembe vett, valamint a Költségvetési Tanács által utólagosan értékelt makrogazdasági és költségvetési előrejelzés értékelését,”
+(3) Az államháztartásról szóló 2011. évi CXCV. törvény 83. §-a a következő (7)–(11) bekezdéssel egészül ki:
 
-#### 13. §
+„(7) Az önkormányzati szolidaritási hozzájárulás tárgyhóban megállapított és beszedett összege kapcsán az önkormányzat elszámolásra irányuló kérelmet nyújthat be a beszedést követő 15 napon belül, ha a hatósági átutalási megbízás keretében a kincstár nem a jogszabályok által előírt összeget vonta el.
 
-14. § Az államháztartásról szóló 2011. évi CXCV. törvény 111. §-a a következő (50) bekezdéssel egészül ki:
+(8) A (7) bekezdés szerinti kérelmet a kincstár az Ákr. szabályai szerint bírálja el. A kérelemnek tartalmaznia kell az önkormányzat álláspontja szerint a jogszabályok által előírtakon felül elvont összeget.
 
-„(50) E törvénynek az államháztartási tárgyú törvényeknek a tagállamok költségvetési keretrendszerére vonatkozó követelményekről szóló 2011/85/EU irányelv módosításáról szóló, 2024. április 29-i (EU) 2024/1265 tanácsi irányelv átültetésével összefüggő módosításáról szóló 2025. évi XCI. törvénnyel megállapított 22. § (3) bekezdés c) pontját, valamint 22. § (4) bekezdés c) pontját első alkalommal a 2027. évi központi költségvetés tervezése során kell alkalmazni.”
+(9) Ha a kincstár a (7) bekezdés szerinti kérelemnek helyt ad, a határozat véglegessé válását követő 15 napon belül gondoskodik a jogszabályok által előírtakon felül elvont összegnek az előző évi átlagos jegybanki alapkamat kétszeresének megfelelő mértékű kamattal növelt visszatérítéséről.
 
-15. § Az államháztartásról szóló 2011. évi CXCV. törvény 112. §-a a következő (3) bekezdéssel egészül ki:
+(10) A központi költségvetésről szóló törvény alapján az önkormányzati szolidaritási hozzájárulás havi összegének késedelmes teljesítése esetén az önkormányzatot az előző évi átlagos jegybanki alapkamat kétszeresének megfelelő mértékű kamat terheli a fizetési kötelezettség időpontját követő hónap első napjától a fizetési kötelezettség teljesítéséig. A kincstár a kamatfizetési kötelezettséget a fizetési kötelezettség maradéktalan teljesítését követően határozatban állapítja meg, amivel szemben fellebbezésnek nincs helye.
 
-„(3) A 22. § (3) bekezdés c) pontja, a 22. § (4) bekezdés c) pontja, a 90. § (3) bekezdés f) pontja, valamint a 111. § (50) bekezdése a tagállamok költségvetési keretrendszerére vonatkozó követelményekről szóló 2011/85/EU irányelv módosításáról szóló, 2024. április 29-i (EU) 2024/1265 tanácsi irányelvnek való megfelelést szolgálja.”
+(11) A kincstár a (10) bekezdés szerinti késedelmi kamat összegére hatósági átutalási megbízást nyújt be a kötelezett fizetési számlájára. A fizetési számlát vezető pénzforgalmi szolgáltató a kincstár e bekezdés alapján benyújtott hatósági átutalási megbízását okirat csatolása nélkül köteles teljesíteni.”
+
+#### 12. §
+
+13. § Az államháztartásról szóló 2011. évi CXCV. törvény 103. § (7) bekezdése helyébe a következő rendelkezés lép:
+
+„(7) Az államháztartás központi alrendszerébe tartozó költségvetési szerv – a polgári nemzetbiztonsági szolgálatokra és a Katonai Nemzetbiztonsági Szolgálatra vonatkozó adatok kivételével –, a fejezeti kezelésű előirányzatok fejezetet irányító szerve, valamint a központi kezelésű előirányzatok kezelő szerve – a kincstár által könyvelt központi kezelésű előirányzatok kivételével – a Kormány rendeletében meghatározottak szerint a KKVTR rendszerbe adatot szolgáltat a követelések, kötelezettségvállalások és más fizetési kötelezettségek adatairól.”
+
+#### 14. §
+
+#### 15. §
 
 #### 16. §
 
@@ -99,11 +86,11 @@ az államháztartási tárgyú törvényeknek a tagállamok költségvetési ker
 
 19. § (1)
 
-(2)
+(2) A Magyarország 2026. évi központi költségvetéséről szóló 2025. évi LXIX. törvény 8. melléklete a 2. melléklet szerint módosul.
 
-(3)
+(3) A Magyarország 2026. évi központi költségvetéséről szóló 2025. évi LXIX. törvény 10. melléklete a 3. melléklet szerint módosul.
 
-#### 20. §
+20. § A Magyarország 2026. évi központi költségvetéséről szóló 2025. évi LXIX. törvény 43. § (6) bekezdésében az „a (4) és (5) bekezdés” szövegrészek helyett az „az (5) bekezdés” szöveggel lép hatályba.
 
 #### 4. Veszélyhelyzeti kormányrendeletek hatályon kívül helyezése
 
@@ -125,4 +112,9 @@ az államháztartási tárgyú törvényeknek a tagállamok költségvetési ker
 
 ### 2. melléklet a 2025. évi XCI. törvényhez
 
+- 1. A Magyarország 2026. évi központi költségvetéséről szóló 2025. évi LXIX. törvény 8. melléklet II. Támogatások megállapításának, felhasználásának és elszámolásának szabályai rész 2. 1.1. Szakmai dolgozók átlagbére alapján számított béralapú támogatás jogcím pont, 2.5. alpontjában foglalt táblázat D:53 mezőjében a „0,94” szöveg az „1,32” szöveggel lép hatályba.
+
 ### 3. melléklet a 2025. évi XCI. törvényhez
+
+- 1. A Magyarország 2026. évi központi költségvetéséről szóló 2025. évi LXIX. törvény 10. melléklet 3. pontjában a „SZHtárgyév/i = tárgyévi szolidaritási hozzájárulás tárgyhónapig teljesítendő összege,” szöveg a „SZHtárgyév/i = 3. hónapban a tárgyévi szolidaritási hozzájárulás összegének 30%-a, 9. hónapban a tárgyévi hozzájárulás összegének 90%-a, 12. hónapban a tárgyévi szolidaritási hozzájárulás összegének 100%-a,” szöveggel lép hatályba.
+- 2. A Magyarország 2026. évi központi költségvetéséről szóló 2025. évi LXIX. törvény 10. melléklet 3. pontjában a „SZHelőző év/i = tárgyévet megelőző évi szolidaritási hozzájárulás tárgyévet megelőző év tárgyhónappal azonos hónapjáig teljesített összege,” szöveg a „SZHelőző év/i = 3. hónapban a tárgyévet megelőző évi szolidaritási hozzájárulás összegének 30%-a, 9. hónapban a tárgyévet megelőző évi hozzájárulás összegének 90%-a, 12. hónapban a tárgyévet megelőző évi szolidaritási hozzájárulás összegének 100%-a,” szöveggel lép hatályba.

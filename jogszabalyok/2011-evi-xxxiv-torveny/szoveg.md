@@ -123,7 +123,7 @@ ha vele magyarországi közös háztartásban él.
 - b) az (1) bekezdésben meghatározott külföldi fegyveres erők, nemzetközi katonai parancsnokságok és azok állománya tagjai és hozzátartozóik nemzetközi jogi normákban és a magyar jogszabályokban biztosított kiváltságai és mentességei fennálltának igazolása, valamint azok érvényesítésének és végrehajtásának biztosítása,
 - c) Magyarországnak a külföldi fegyveres erők Magyarország területén történő tartózkodásával összefüggő honvédelmi és nemzetbiztonsági védelmének hatékony ellátása.
 
-5. § (1) A Magyar Honvédség központi nyilvántartó szerve a NATO- és PfP-állomány, a Magyarország területén felállított nemzetközi katonai parancsnoksághoz tartozó és Magyarország területén szolgálatot teljesítő állomány tagja részére e jogállásának igazolására, valamint egyes, a nemzetközi jog és a magyar jogszabályok által biztosított jogosultságainak és mentességeinek érvényesítéséhez az állomány tagjának erre vonatkozó írásbeli kérelmére, a 4. §-ban foglalt nyilvántartás adatai alapján igazolványt állít ki. Az igazolvány az abban foglalt adatokat közhitelűen igazolja.
+5. § (1) A Magyar Honvédség központi nyilvántartó szerve a NATO- és PfP-állomány, a Magyarország területén felállított nemzetközi katonai parancsnoksághoz tartozó és Magyarország területén szolgálatot teljesítő állomány tagja részére e jogállásának igazolására, valamint egyes, a nemzetközi jog és a magyar jogszabályok által biztosított jogosultságainak és mentességeinek érvényesítéséhez az állomány tagjának erre vonatkozó írásbeli kérelmére, a 4. §-ban foglalt nyilvántartás adatai alapján igazolványt állít ki.
 
 (2) Az (1) bekezdés szerinti igazolvány tartalmazza az igazolvány jogosultjának:
 
@@ -135,9 +135,11 @@ ha vele magyarországi közös háztartásban él.
 - f) a szolgálati célú tartózkodás kezdetének és tervezett befejezésének időpontját,
 - g) a szolgálati célú tartózkodás ideje alatti magyarországi elhelyezési helyének címét.
 
-(3) A Magyar Honvédség központi nyilvántartó szerve a 4. § (1) bekezdés c) pontja szerinti nyilvántartás alapján – a külföldi fegyveres erő vezetőjének kérelmére – a 4. § (3) bekezdés a), b), f), g), h) és i) pontjában foglalt adatokról igazolást állít ki. Az igazolás az abban foglalt adatokat közhitelűen igazolja.
+(3) A Magyar Honvédség központi nyilvántartó szerve a 4. § (1) bekezdés c) pontja szerinti nyilvántartás alapján – a külföldi fegyveres erő vezetőjének kérelmére – a 4. § (3) bekezdés a), b), f), g), h) és i) pontjában foglalt adatokról igazolást állít ki.
 
-(4) A Magyar Honvédség központi nyilvántartó szerve a 4. § (1) bekezdés d) pontjában meghatározott, a Magyarország területén felállított nemzetközi katonai parancsnokságokra vonatkozó nyilvántartás alapján – a nemzetközi katonai parancsnokság vezetőjének kérelmére – a 4. § (4) bekezdés a), d), e), f) és g) pontjában foglalt adatokról igazolást állít ki. Az igazolás az abban foglalt adatokat közhitelűen igazolja.
+(4) A Magyar Honvédség központi nyilvántartó szerve a 4. § (1) bekezdés d) pontjában meghatározott, a Magyarország területén felállított nemzetközi katonai parancsnokságokra vonatkozó nyilvántartás alapján – a nemzetközi katonai parancsnokság vezetőjének kérelmére – a 4. § (4) bekezdés a), d), e), f) és g) pontjában foglalt adatokról igazolást állít ki.
+
+(4a) A 4. § (1) bekezdése szerinti nyilvántartás az 5. § (2)–(4) bekezdése szerinti igazolvánnyal és igazolással összefüggő, a Magyar Honvédség központi nyilvántartó szerve által rögzített adatai tekintetében közhiteles nyilvántartásnak minősül.
 
 (5) Az (1) bekezdés szerinti igazolvány hatályossági ideje azonos a (2) bekezdés f) pontjában foglalt, a szolgálati célú tartózkodás tervezett befejezésének időpontjával.
 

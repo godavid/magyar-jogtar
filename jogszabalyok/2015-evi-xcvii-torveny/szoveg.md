@@ -432,6 +432,8 @@ elismeréséről.
 
 (4) A névjegyzék adatai közül bárki számára megismerhető a szaktanácsadó neve, szaktanácsadói névjegyzékszáma, szakterülete és telefonszáma, elektronikus levelezési címe.
 
+(4a) A névjegyzék a szaktanácsadó névjegyzékszáma és szakterülete tekintetében közhiteles nyilvántartásnak minősül.
+
 (5) A szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény alapján folytatott ellenőrzés során feltárt szabálytalanság esetén az Agrárkamara nem szab ki bírságot.
 
 ### IV. Fejezet — ZÁRÓ RENDELKEZÉSEK

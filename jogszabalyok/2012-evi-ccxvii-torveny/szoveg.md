@@ -17,7 +17,9 @@ Az Országgyűlésnek e törvény megalkotásával az a célja, hogy megteremtse
 
 (2) Nem terjed ki e törvény hatálya a kizárólag kutatásra, fejlesztésre és új termékek és folyamatok tesztelésére használt létesítményekre vagy létesítményrészekre.
 
-(2a) Nem terjed ki e törvény hatálya a kizárólag biomasszát használó létesítményekre.
+(2a)
+
+(2b) Nem terjed ki e törvény hatálya azon létesítményekre, amelyeknek a biomassza égetéséből származó kibocsátása a Nemzeti Végrehajtási Intézkedés benyújtását megelőző 5 éves időszakban átlagosan meghaladta a létesítmény teljes üvegházhatású gáz kibocsátásának 95%-át.
 
 (3) Nem terjed ki e törvény hatálya az 1. mellékletben foglalt táblázat 38. sora szerinti tevékenység esetében olyan légi jármű üzembentartóra, amely tekintetében nem Magyarország az adminisztrációért felelős tagállam. Nem terjed ki a törvény hatálya továbbá az 1. mellékletben foglalt táblázat 38. sorában meghatározott kivételnek számító tevékenységekre.
 
@@ -80,7 +82,7 @@ Az Országgyűlésnek e törvény megalkotásával az a célja, hogy megteremtse
   - b) a negyedik kereskedési időszakban a 2003/87/EK európai parlamenti és tanácsi irányelv 3. cikk h) pontjában meghatározott létesítmény, vagy a 2003/87/EK irányelv 24. cikk (1) bekezdése értelmében az e törvény hatálya alá került létesítmény.
 - 30. üvegházhatású gáz: a szén-dioxid (CO2), a metán (CH4), a dinitrogén-oxid (N2O), a fluorozott szénhidrogének (HFC-k), a perfluorkarbonok (PFC-k), a kén-hexafluorid (SF6) és a nitrogén-trifluorid (NF3), valamint a légkör azon természetes és emberi tevékenységből származó gáznemű alkotóelemei, amelyek elnyelik, majd újra kibocsátják az infravörös sugárzást,
 - 31. üzemeltető: a környezethasználat feltételeit megállapító engedély jogosultja,
-- 32. villamosenergia-termelő: olyan létesítmény, amely 2005. január 1-jén vagy azt követően harmadik fél számára történő értékesítésre szánt villamos energiát termelt, és amelyben az 1. mellékletben felsorolt tevékenységek közül kizárólag tüzelőanyagok égetését végzik,
+- 32.
 - 33. visszaadás: kibocsátási egység elszámolása az üzemeltető vagy légi jármű üzembentartó által saját létesítménye vagy légi járműve hitelesített kibocsátási adatainak terhére a jegyzékkezelő felé,
 - 34.
 - 35.
@@ -370,7 +372,7 @@ vonatkozó adatok környezeti információnak minősülnek.
   - dd) a számlavezetési és felügyeleti díj összege és megfizetésének ténye, behajtás állapota; továbbá
 - e) minden egyéb olyan adatot, amelynek szolgáltatására az ÜHG azonosítóval vagy THÉ-azonosítóval rendelkező üzemeltető a vonatkozó hazai és európai uniós jogszabályban foglalt rendelkezés szerint köteles.
 
-(3) Az (1) és (2) bekezdésben meghatározott elektronikus rendszer hatósági nyilvántartás, amely a létesítmények üvegházhatású gázokkal kapcsolatos kibocsátásaira vonatkozó adatokat közhitelesen tartalmazza.
+(3) Az (1) és (2) bekezdésben meghatározott nyilvántartás a (2) bekezdés c) pont cg) és ch) alpontja, továbbá a (2) bekezdés d) pont dd) alpontja, valamint az üvegházhatású gázokkal kapcsolatos kibocsátásra vonatkozó adatok tekintetében közhiteles.
 
 (4) A nyilvántartásban szereplő adatokban bekövetkezett változást – jogszabály eltérő rendelkezése hiányában – az érintettek kötelesek a hatóságnak a változást követő 15 napon belül bejelenteni. A változásbejelentési kötelezettségeket a hatóság által az erre a célra rendszeresített elektronikus űrlapon kell teljesíteni.
 

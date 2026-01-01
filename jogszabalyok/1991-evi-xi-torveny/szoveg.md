@@ -239,7 +239,11 @@ a táboroztatás szervezője a táboroztatás szervezésében, illetve lebonyol�
 
 (2) Az egészségügyi államigazgatási szerv az (1) bekezdés h)–i), o) és q) pontjában foglalt feladatokat külön jogszabályban foglaltak szerint látja el.
 
-(3) Az (1) bekezdés e) pontja szerinti nyilvántartás a (4) bekezdés a) pont aa) és af) alpontja, b) és e) pontja, a 6/A. § (2) bekezdés a) pontja szerinti, a nyilvántartó rendszer által az egészségügyi szolgáltató részére meghatározott egyedi azonosító száma, a 6/A. § (2) bekezdés b), d) és e) pontja, valamint a 6/B. § (1) bekezdés 12–14. pontja szerinti adatok tekintetében minősül közhiteles hatósági nyilvántartásnak.
+(3) Az (1) bekezdés e) pont ea) alpontja szerinti nyilvántartás közhitelesen tartalmazza
+
+- a) a (4) bekezdés a) pont af) alpontja, a (4) bekezdés b) pont bb) alpontja és a (4) bekezdés e) pont ea) alpontja szerinti adatokat, a (4) bekezdés e) pont eb) alpontja szerinti adatok közül a közszolgáltatásban való részvétel tényét, a (4) bekezdés e) pont ec)–ee), eg) és eh) alpontja szerint adatokat, a (4) bekezdés e) pont ei) alpontja tekintetében a helyettesítés kezdetét és helyét, valamint az ügyeletben való részvételre vonatkozó adatokat, a (4) bekezdés e) pont ek)–eo) alpontja szerinti adatokat, ide nem értve a közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény szerinti járműnyilvántartásban szereplő adatokat, valamint a (4) bekezdés h) pontja szerinti adatok közül a közreműködés igénybevételének tényét szakmánként,
+- b) a (4a) bekezdés szerinti közreműködő egészségügyi szolgáltatók vonatkozásában a (4) bekezdés a) pont af) alpontja szerinti adatot, a (4) bekezdés h) pontja szerinti adatok közül a közreműködés igénybevételének tényét szakmánként, valamint a (4a) bekezdés d) pont dg)–di) alpontja szerinti adatokat,
+- c) a 6/A. § szerinti egészségügyi szolgáltatók vonatkozásában a (4) bekezdés a) pont af) alpontja és a (4) bekezdés e) pont eg) és eh) alpontja szerinti adatokat.
 
 (4) Az (1) bekezdés e) pont ea) és eb) alpontja szerinti nyilvántartás az egészségügyi szolgáltató tekintetében tartalmazza:
 
@@ -248,12 +252,17 @@ a táboroztatás szervezője a táboroztatás szervezésében, illetve lebonyol�
   - ab) cégjegyzékszámát vagy bírósági nyilvántartásba vétele számát, egyéni vállalkozó esetén nyilvántartásba vétele számát,
   - ac) költségvetési szerv fenntartójának megnevezését,
   - ad) képviselője nevét,
-  - ae) adószámát,
+  - ae) statisztikai számjelének első nyolc számjegyét,
   - af) nyilvántartó rendszer által meghatározott egyedi azonosító számát,
   - ag) által kötött egészségügyi felelősségbiztosítási kötvény számát és a biztosító megnevezését,
   - ah) finanszírozási szerződésének egészségbiztosítási szerv által adott kódját, ha az egészségbiztosítási szervvel szerződést kötött,
   - ai) internetes honlapja címét, ha ilyennel rendelkezik;
-- b) az a) pont szerinti egészségügyi szolgáltató székhelyére és az egészségügyi szolgáltatás telephelyére vonatkozó címadatokat;
+- b) az a) pont szerinti egészségügyi szolgáltató
+  - ba) székhelyére és
+  - bb) a működési engedélye szerinti telephelyére
+
+vonatkozó címadatokat;
+
 - c) az a) pont szerinti egészségügyi szolgáltató elérhetőségére vonatkozó adatokat telefonszám és elektronikus levelezési cím megjelölésével;
 - d) az egészségügyi szolgáltató tevékenysége végzésének helyszínéül szolgáló ingatlan használatának jogcímére vonatkozó adatokat;
 - e) az egészségügyi szolgáltató valamennyi szervezeti egységére vonatkozóan külön-külön:
@@ -261,24 +270,25 @@ a táboroztatás szervezője a táboroztatás szervezésében, illetve lebonyol�
   - eb) a közszolgáltatásban való részvételének tényét, az egészségbiztosítási szerv által meghatározott azonosító kódot,
   - ec) szakellátás esetén az egészségügyi szolgáltató által végezhető egészségügyi szakma miniszteri rendeletben megállapított progresszivitási szintjét,
   - ed) a szakmához tartozó szolgáltatási típus megnevezését,
-  - ee) az egészségügyi szolgáltató által végezhető tevékenységek körét, amennyiben a működési engedély a szakmán belül csak egyes tevékenységek nyújtására került kiadásra, a működési engedély számát, kiállításának időpontját, státuszát, a működés megkezdésének időpontját, az engedélyezett szakmák szünetelését, a szünetelés kezdő és befejező időpontja szerint,
+  - ee) az egészségügyi szolgáltató által végezhető tevékenységek körét, amennyiben a működési engedély a szakmán belül csak egyes tevékenységek nyújtására került kiadásra, a működési engedély számát, véglegessé válásának időpontját, státuszát, a működés megkezdésének időpontját, az engedélyezett szakmák szünetelését, a szünetelés kezdő és befejező időpontja szerint,
   - ef) az engedélyező hatóság megnevezését,
   - eg) a járóbeteg-szakellátásban és az alapellátásban a heti rendelési időt szervezeti egységenként szakmánkénti bontásban,
   - eh) az alapellátásban a tanácsadási időt, rendelkezésre állási időt napi bontásban,
-  - ei) egészségbiztosítási szervvel szerződést kötött alapellátás esetén a helyettesítésre vonatkozó adatokat, ezen belül a helyettesítő nevét, helyettesítés kezdetét, helyettesítés helyét, egészségbiztosítási szervvel szerződést kötött alapellátás esetén az ügyeletben való részvételre vonatkozó adatokat,
+  - ei) egészségbiztosítási szervvel szerződést kötött alapellátás esetén a helyettesítésre vonatkozó adatokat, ezen belül a helyettesítő nevét és működési nyilvántartási számát, helyettesítés kezdetét, helyettesítés helyét, egészségbiztosítási szervvel szerződést kötött alapellátás esetén az ügyeletben való részvételre vonatkozó adatokat,
   - ej) alapellátás esetén a praxiskezelő által kijelölt alapellátási körzetre, valamint a praxisengedélyre vonatkozó adatokat,
   - ek) járóbeteg-szakellátásban a heti szakorvosi és nem szakorvosi óraszámot szakmánkénti bontásban, járóbeteg-szakellátáson belül a diagnosztika ellátási forma esetén a folyamatos ellátásban részvétel tényét és formáját,
   - el) fekvőbeteg-ellátásban az osztály típusát, ágyszámát, az osztályon belül engedélyezett szakmánkénti bontásban,
   - em) fekvőbeteg-szakellátásban a folyamatos ellátás formáját,
-  - en) a mentési tevékenységet, valamint a betegszállítást végző egészségügyi szolgáltató e feladatának ellátását biztosító mentőjárműveinek, betegszállító járműveinek azonosítására szolgáló érvényes rendszámra, forgalmi engedély számára, a gépjármű gyártmányára és típusára, a gépjármű gyártásának időpontjára, betegszállító jármű esetén az egyszerre szállítható beteg személyek számára és a rögzített ülések számára vonatkozó adatokat, valamint annak megjelölését, hogy a jármű aktív vagy tartalékállományban szerepel, a mentési tevékenységet végző egészségügyi szolgáltató vonatkozásában annak megjelölését, hogy a mentés a sürgősség igénye, az alkalmazott mentőegység típusa, valamint a végzett tevékenység típusa szerint milyen jellegű,
+  - en) a mentési tevékenységet, valamint a betegszállítást végző egészségügyi szolgáltató e feladatának ellátását biztosító mentőjárműveinek, betegszállító járműveinek azonosítására szolgáló érvényes rendszámra, forgalmi engedély számára, a gépjármű gyártmányára és típusára, a gépjármű gyártásának időpontjára, betegszállító jármű esetén az embléma sorszámára, az egyszerre szállítható beteg személyek számára és a rögzített ülések számára vonatkozó adatokat, valamint annak megjelölését, hogy a jármű aktív vagy tartalékállományban szerepel, a mentési tevékenységet végző egészségügyi szolgáltató vonatkozásában annak megjelölését, hogy a mentés a sürgősség igénye, az alkalmazott mentőegység típusa, valamint a végzett tevékenység típusa szerint milyen jellegű,
   - eo) a betegszállítást végző egészségügyi szolgáltató vonatkozásában annak megjelölését, hogy az a sürgősség igénye, a kíséret igénye, az alkalmazott betegszállító gépjármű típusa, valamint a végrehajtás módja szerint milyen jellegű; dialízis esetén a kezelőhelyek számát, a kezelések számát; nappali kórház esetén a beteglétszámot, nappali ellátás esetén heti óraszámot;
-- f) a gyógyászati segédeszközök forgalmazásával, javításával, illetve kölcsönzésével foglalkozó szolgáltatók vonatkozásában a szolgáltató heti nyitvatartási rendjét, valamint annak megjelölését, hogy a szolgáltató – jogszabályban meghatározottak szerint – sorozatgyártású, egyedi méretvétel alapján készült, vagy méretre igazított gyógyászati segédeszközt forgalmaz, javít, illetve kölcsönöz;
-- g) az egészségügyi szolgáltatás végzéséhez biztosított gépműszereket típus, gyártmány, gyártási év és gyártási szám szerint és
+  - ep) az egészségügyi szolgáltatás személyi feltételei körében az egészségügyről szóló 1997. évi CLIV. törvény (a továbbiakban: Eütv.) szerinti alap- és működési nyilvántartásban szereplő dolgozók nevét, működési nyilvántartási számát szakmánkénti bontásban, valamint a szakmai minimumfeltételekről szóló miniszteri rendeletben meghatározott szakmákban feltételként előírt, az Eütv. szerinti alap- és működési nyilvántartásban nem szereplő egészségügyi dolgozók nevét, születési helyét és idejét, szakmánkénti bontásban;
+- f) a gyógyászati segédeszközök forgalmazásával, javításával, illetve kölcsönzésével foglalkozó szolgáltatók vonatkozásában az e tevékenységekre vonatkozó heti nyitvatartási rendet, valamint annak megjelölését, hogy – jogszabályban meghatározottak szerint – sorozatgyártású, egyedi méretvétel alapján készült, vagy méretre igazított gyógyászati segédeszközt forgalmaz, javít, illetve kölcsönöz szakmánkénti bontásban;
+- g) az egészségügyi szolgáltatás végzéséhez biztosított közepes- és nagy értékű gépműszereket típus, gyártmány, gyártási év és gyártási szám szerint és
 - h) a közreműködés, személyes közreműködés igénybevételére vonatkozóan ennek tényét, tartalmát szakmánként.
 
 (4a) Az (1) bekezdés e) pont ea) és eb) alpontja szerinti nyilvántartás a közreműködő egészségügyi szolgáltató tekintetében a következő adatokat tartalmazza:
 
-- a) a közreműködő szolgáltató (4) bekezdés a) pont aa)–ag) alpontja szerinti adatokat,
+- a) a közreműködő szolgáltató (4) bekezdés a) pont aa)–ag) alpontja, (4) bekezdés e) pont ea) és ep) alpontja, valamint (4) bekezdés h) pontja szerinti adatokat,
 - b) a közreműködő szolgáltató székhelyére vonatkozó címadatokat,
 - c) közreműködő szolgáltató elérhetőségére vonatkozó adatokat (telefonszám, elektronikus levelezési cím) és
 - d) a közreműködőt igénybe vevő egészségügyi szolgáltatóval kötött közreműködői szerződésben a közreműködés helyére meghatározott szervezeti egységéhez kapcsolódóan:
@@ -291,9 +301,10 @@ a táboroztatás szervezője a táboroztatás szervezésében, illetve lebonyol�
   - dg) járóbeteg-szakellátásban a heti szakorvosi és nem szakorvosi óraszámot szakmánkénti bontásban,
   - dh) járóbeteg-szakellátáson belül a diagnosztika ellátási forma esetén a folyamatos ellátásban részvétel tényét és formáját,
   - di) fekvőbeteg-ellátásban a folyamatos ellátás formáját,
-  - dj) a mentési tevékenységet, valamint a betegszállítást végző egészségügyi szolgáltató e feladatának ellátását biztosító mentőjárműveinek, illetve betegszállító járműveinek azonosítására szolgáló érvényes rendszámra, forgalmi engedély számára, a gépjármű típusára, a gépjármű gyártásának évére, betegszállító jármű esetén az egyszerre szállítható beteg személyek számára és a rögzített ülések számára vonatkozó adatokat, valamint annak megjelölését, hogy a jármű aktív vagy tartalékállományban van,
+  - dj) a mentési tevékenységet, valamint a betegszállítást végző egészségügyi szolgáltató e feladatának ellátását biztosító mentőjárműveinek, illetve betegszállító járműveinek azonosítására szolgáló érvényes rendszámra, forgalmi engedély számára, a gépjármű típusára, a gépjármű gyártásának évére, betegszállító jármű esetén az embléma sorszámára, az egyszerre szállítható beteg személyek számára és a rögzített ülések számára vonatkozó adatokat, valamint annak megjelölését, hogy a jármű aktív vagy tartalékállományban van,
   - dk) a mentési tevékenységet végző egészségügyi szolgáltató vonatkozásában annak megjelölését, hogy a mentés a sürgősség igénye, az alkalmazott mentőegység típusa, valamint a végzett tevékenység típusa szerint milyen jellegű,
   - dl) a betegszállítást végző egészségügyi szolgáltató vonatkozásában annak megjelölését, hogy az a sürgősség igénye, a kíséret igénye, az alkalmazott betegszállító gépjármű típusa, valamint a végrehajtás módja szerint milyen jellegű.
+  - dm) közreműködőként az egészségügyi szolgáltatás végzéséhez nyújtott közepes- és nagy értékű gép-műszerek típusát, gyártmányát, gyártási évét, üzembehelyezési évét, gyártási számát; amennyiben a gép sugáregészségügyi engedéllyel rendelkezik, annak számát, keltét szakmánként.
 
 (5) A (4) bekezdésben meghatározott adatok a szolgáltató azonosítójához rendelten szerepelnek a nyilvántartásban.
 
@@ -303,15 +314,15 @@ a táboroztatás szervezője a táboroztatás szervezésében, illetve lebonyol�
 
 (8)
 
-6/A. § (1) Az egészségügyi államigazgatási szerv az egészségügyről szóló 1997. évi CLIV. törvény (a továbbiakban: Eütv.) 108/A. § (2) bekezdésében foglalt feltételeknek megfelelő személyt vagy szervezetet – annak bejelentése alapján – hatósági nyilvántartásba veszi. A nyilvántartásba vételt az egészségügyi államigazgatási szerv közli a bejelentő személlyel vagy szervezettel.
+6/A. § (1) Az egészségügyi államigazgatási szerv az Eütv. 108/A. § (2) bekezdésében foglalt feltételeknek megfelelő személyt vagy szervezetet – annak bejelentése alapján – hatósági nyilvántartásba veszi. A nyilvántartásba vételt az egészségügyi államigazgatási szerv közli a bejelentő személlyel vagy szervezettel.
 
 (2) Az (1) bekezdés szerinti hatósági nyilvántartás tartalmazza:
 
 - a) a nyilvántartásba vétel alapján működő egészségügyi szolgáltató 6. § (4) bekezdés a) pont aa)–ag) alpontjában és c) pontjában meghatározott adatait,
 - b) a nyilvántartásba vétel alapján működő egészségügyi szolgáltató székhelyére vonatkozó címadatokat,
-- c) a nyilvántartásba vétel alapján működő egészségügyi szolgáltatóra vonatkozóan a 6. § (4) bekezdés e) pont ea), ed), eh) és el) alpontjában meghatározott adatokat,
+- c) a nyilvántartásba vétel alapján működő egészségügyi szolgáltatóra vonatkozóan a 6. § (4) bekezdés e) pont ea), ed), eg), eh) és el) alpontjában meghatározott adatokat,
 - d) a nyilvántartásba vétel alapján működő egészségügyi szolgáltatót foglalkoztató, illetve igénybe vevő egészségügyi szolgáltatóra vonatkozóan azon szervezeti egység engedélyező hatóság által kiadott egyedi azonosítóját, valamint megnevezését, amelynek működtetésében a nyilvántartásba vétel alapján működő egészségügyi szolgáltató részt vesz,
-- e) a nyilvántartásba vétel alapján működő egészségügyi szolgáltató nevében személyesen szolgáltatást nyújtó, az egészségügyi szolgáltatásban részt vevő egészségügyi és nem egészségügyi dolgozók 6/B. §-ban meghatározott adatait szervezeti egységenként és azon belül szakmánként.
+- e) a nyilvántartásba vétel alapján működő egészségügyi szolgáltató nevében személyesen szolgáltatást nyújtó, az egészségügyi szolgáltatásban részt vevő, az Eütv. szerinti alap- és működési nyilvántartásban szereplő dolgozók nevét, működési nyilvántartási számát szakmánkénti bontásban, valamint a szakmai minimumfeltételekről szóló miniszteri rendeletben meghatározott szakmákban feltételként előírt, az Eütv. szerinti alap- és működési nyilvántartásban nem szereplő egészségügyi dolgozók nevét, születési helyét és idejét szakmánkénti bontásban.
 
 (3) A (2) bekezdésben meghatározott adatok a szolgáltató azonosítójához rendelten szerepelnek a nyilvántartásban.
 
@@ -371,7 +382,7 @@ a táboroztatás szervezője a táboroztatás szervezésében, illetve lebonyol�
 - b) a forgalmazó és a gyártó nevét, valamint
 - c) az engedélyezett termék, technológia rendeltetését.
 
-(4) Az (1) bekezdés szerinti nyilvántartás a (2) bekezdés a), c) és d) pontja, valamint a (3) bekezdés a) és c) pontja szerinti adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
+(4)
 
 (5) Az (1) bekezdés szerinti nyilvántartást az egészségügyi államigazgatási szerv a honlapján közzéteszi.
 
@@ -523,6 +534,15 @@ vonatkozó jogszabályi rendelkezésekben foglaltakat megsértették, egészség
 - c) azt az egészségügyi államigazgatási szerv határozatával szemben kezdeményezett közigazgatási perben eljáró bíróság által biztosított azonnali jogvédelem indokolja.
 
 (8) Az egészségügyi államigazgatási szerv a (3) bekezdése szerinti határozatot megküldi az országos tisztifőorvosnak, aki e § szerinti intézkedés végrehajtásának időtartama alatt honlapján közzéteszi annak a honlapnak az elérhetőségét, amelynek tekintetében az egészségügyi államigazgatási szerv véglegessé vált döntésével ideiglenes hozzáférhetetlenné tételt rendelt el.
+
+13/D. § (1) Ha az egészségügyi államigazgatási szerv feladatai ellátása során tudomására jut, hogy az egészségügyi dolgozó több egészségügyi szolgáltatónál van foglalkoztatva, és foglalkoztatási jogviszonyai közül van olyan jogviszony, amely mellett egyéb jogviszony mint további munkavégzésre irányuló jogviszony – ideértve más keresőfoglalkoztatást, valamint díjazás ellenében folytatott tevékenységet is – létesítéséhez jogszabályban meghatározott szerv vagy személy engedélye szükséges (a továbbiakban: engedélyezést előíró jogviszony), erről az engedélyezést előíró jogviszonnyal érintett foglalkoztatót értesíti.
+
+(2) Az egészségügyi államigazgatási szerv
+
+- a) az engedélyezést előíró jogviszonnyal összefüggő összeférhetetlenség vizsgálata, valamint
+- b) az egészségügyi tevékenység végzésének egyes kérdéseiről szóló törvényben előírt munkaidőre és pihenőidőre vonatkozó szabályok betartása
+
+érdekében elektronikus felületen az egészségügyi szolgáltató számára térítésmentesen biztosítja, hogy az általa foglalkoztatott vagy foglalkoztatni kívánt egészségügyi dolgozót foglalkoztató egészségügyi szolgáltató megnevezését, valamint a 6/B. § (1) bekezdés 10. és 12–16. pontja szerinti adatot megismerhesse.
 
 14. § Az egészségügyi államigazgatási szervnek
 

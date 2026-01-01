@@ -288,6 +288,8 @@ díj-, költség- és térítésmentesen hozzáférhet.
 
 (38) A Magyar Nemzeti Vagyonkezelő Zrt. – a jogszabályban meghatározott állami vagyon nyilvántartása teljeskörű és naprakész rendelkezésre állásának biztosítása érdekében – önköltséggel megegyező összegű díj megfizetése ellenében hozzáférhet a 3. § (1) bekezdés d)–f) pontjában foglalt adatbázisokhoz.
 
+(39) Az általános rendőrségi feladatok ellátására létrehozott szerv az Alaptörvényben és a Rendőrségről szóló 1994. évi XXXIV. évi törvényben (a továbbiakban: Rtv.) meghatározott bűnmegelőzési, bűnüldözési, államigazgatási, rendészeti és határrendészeti feladatainak végrehajtásához díjmentesen igényelheti a 3. § (1) bekezdés a) és d) pontjában meghatározott adatbázisok adatait a földmérési és térinformatikai államigazgatási szervtől. Az átadott állami alapadatokat, vagy azok alapján készült termékeket az általános rendőrségi feladatok ellátására létrehozott szerv az Rtv.-ben meghatározottak szerint adhatja tovább.
+
 #### 5/A. Földmérési és térképészeti adatok felhasználása
 
 6/A. § (1) az állami alapadatok publikálásához vagy bármilyen formában történő nyilvános megjelenítéséhez, átadásához a 32. § (3) bekezdés szerinti továbbfelhasználási engedély szükséges.
@@ -484,17 +486,27 @@ amelyek az alapponthálózati pontok adatbázisait alkotják.
 
 #### 13. Közhitelesség és kötelező felhasználás
 
-16. § (1) Az állami alapadatok adatbázisai az ellenkező bizonyításáig – a (2) és (2a) bekezdésben foglalt eltéréssel – hitelesen tanúsítják a rögzített adattartalom fennállását.
+16. § (1) A 3. § (1) bekezdés a) pontja szerinti adatbázis a 9. § (1) bekezdés d) pontjában meghatározott adatok tekintetében közhiteles hatósági nyilvántartás.
 
-(2) A 3. § (1) bekezdés c) és i) pontja szerinti adatbázisokban tárolt adatok hiteles alapul szolgálnak a térképi adatbázisok felújítására, kijavítására, új térképi adatbázisok készítésére.
+(2) A 3. § (1) bekezdés b) pontja szerinti adatbázis az alapponthálózati pontok adatai tekintetében közhiteles hatósági nyilvántartás.
 
-(2a) Az állami ingatlan-nyilvántartási térképi adatbázis az ellenkező bizonyításáig közhitelesen tanúsítja a 11. § (1) bekezdés b), c) és f) pontjaiban rögzített adattartalom fennállását.
+(3) A 3. § (1) bekezdés c) pontja szerinti adatbázis a 11. § (1) bekezdésében meghatározott adattartalom fennállása, az adatrögzítés időpontja szerinti állapot tekintetében közhiteles hatósági nyilvántartás.
 
-(3) Az állami alapadatokat és adatbázisokat az állami alapmunkák és alapfeladatok végzése és ellátása, az ingatlan-nyilvántartási célú munkák végrehajtása, valamint az egyéb célú földmérési és térképészeti tevékenység során kötelezően kell használni.
+(4) A 3. § (1) bekezdés e) pontja szerinti adatbázisok a 18. § (1) bekezdésében meghatározott adattartalom fennállása, az adatrögzítés időpontja szerinti állapot tekintetében közhiteles hatósági nyilvántartások.
 
-(4) Hatósági eljárásban csak az adatbázisokat kezelő szervek által szolgáltatott hitelesített állami alapadatok használhatók fel.
+(5) A 3. § (1) bekezdés f) pontja szerinti adatbázis állami alapadat-tartalma, az adatrögzítés időpontja szerinti állapot tekintetében közhiteles hatósági nyilvántartás.
 
-(5) A hitelesített állami alapadatok csak egy ingatlanügyi hatósági eljárásban használhatóak fel.
+(6) A 3. § (1) bekezdés h) pontja szerinti adatbázis adattartalma a 21. § (3) bekezdése szerinti földrajzi nevek fennállása, az adatrögzítés időpontja szerinti állapot tekintetében közhiteles hatósági nyilvántartás.
+
+(7) A 3. § (1) bekezdés i) pontja szerinti adatbázisok adatai fennállása, az adatrögzítés időpontja szerinti állapot tekintetében közhiteles hatósági nyilvántartás.
+
+(8) A 3. § (1) bekezdés c) és i) pontja szerinti adatbázisokban tárolt adatok hiteles alapul szolgálnak a térképi adatbázisok felújítására, kijavítására, új térképi adatbázisok készítésére.
+
+(9) Az állami alapadatokat és adatbázisokat az állami alapmunkák és alapfeladatok végzése és ellátása, az ingatlan-nyilvántartási célú munkák végrehajtása, valamint az egyéb célú földmérési és térképészeti tevékenység során kötelezően kell használni.
+
+(10) Hatósági eljárásban csak az adatbázisokat kezelő szervek által szolgáltatott hitelesített állami alapadatok használhatók fel.
+
+(11) A hitelesített állami alapadatok csak egy hatósági eljárásban használhatóak fel.
 
 #### 14. Felmérési, térképezési vagy területszámítási hiba kijavítása
 
@@ -710,7 +722,7 @@ amelyek az alapponthálózati pontok adatbázisait alkotják.
 
 (4) A nyilvántartásban szereplő személy a (3) bekezdés d)–f) pontjában meghatározott adatainak a nyilvánosságra hozatalát az adatnyilvántartónál írásban megtilthatja.
 
-(5) A (2) bekezdésben meghatározott nyilvántartás a (3) bekezdés a) és b) pontjában meghatározott adatok tekintetében közhitelesnek minősül.
+(5) A (2) bekezdésben meghatározott nyilvántartás a (3) bekezdés b) pontjában meghatározott adatok tekintetében közhitelesnek minősül.
 
 #### 21. A földmérési jelek tulajdonjoga és kezelése
 

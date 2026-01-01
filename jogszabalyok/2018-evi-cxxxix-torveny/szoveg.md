@@ -491,7 +491,7 @@ Az Országgyűlés – figyelemmel az ország általános és egyes térségeine
 
 (4) A kertes mezőgazdasági térség területét – az (1) és (2) bekezdés szerinti beépítésre szánt terület növekményének kivételével – a településrendezési tervben beépítésre nem szánt övezetbe kell sorolni.
 
-(5) A beépítésre szánt terület növekményének mértékéről – a jóváhagyott településrendezési terv alapján – az illetékes állami főépítészi hatáskörében eljáró fővárosi és vármegyei kormányhivatalnak közhiteles és szabadon hozzáférhető nyilvántartást kell vezetni.
+(5) A beépítésre szánt terület növekményének mértékéről – a jóváhagyott településrendezési terv alapján – az illetékes állami főépítészi hatáskörében eljáró fővárosi és vármegyei kormányhivatalnak közhiteles nyilvántartást kell vezetni.
 
 (6) A beépítésre szánt terület növekményét az illetékes állami főépítészi hatáskörében eljáró fővárosi és vármegyei kormányhivatal a településrendezési terv egyeztetése során ellenőrzi, és amennyiben jogszabályi ütközést észlel, véleményében jelzi. A beépítésre szánt terület növekményét az illetékes állami főépítészi hatáskörben eljáró fővárosi és vármegyei kormányhivatal a végső szakmai véleményezése során is ellenőrzi, és amennyiben jogszabályi ütközést észlel, akkor annak megszüntetésére szólítja fel az önkormányzatot, és végső szakmai véleményét csak abban az esetben adja ki, ha a jogszabályi ütközés megszűnt.
 
@@ -1173,6 +1173,7 @@ mederkezelői hozzájárulással és természetvédelmi kezelői hozzájárulás
 - e) a csónakkikötőt érintő természetvédelmi hatósági hozzájárulás során mérlegelendő természet- és tájvédelmi követelményeket,
 - f) a hegybírók e törvény által meghatározott feladatainak részletes szabályait,
 - g) a Balatoni főépítész feladatait.
+- h) a beépítésre szánt terület növekményének mértékét érintő közhiteles nyilvántartás adatkörét.
 
 (2) Felhatalmazást kap a területrendezésért felelős miniszter, hogy
 

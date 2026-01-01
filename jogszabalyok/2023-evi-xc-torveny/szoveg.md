@@ -2884,7 +2884,7 @@ is eljárhat.
 
 (2) Az idegenrendészeti hatóság törvény szerint vezetett nyilvántartásaiba történt bejegyzés határozat.
 
-(3) Az ellenkező bizonyításáig az idegenrendészeti hatóság törvény szerint vezetett nyilvántartásába bejegyzett adatról vélelmezni kell, hogy fennáll, és az idegenrendészeti hatóság törvény szerint vezetett nyilvántartásából törölt adatról vélelmezni kell, hogy nem áll fenn.
+(3)
 
 ### XXVI. Fejezet — AZ IDEGENRENDÉSZETI HATÓSÁG HATÓSÁGI ELLENŐRZÉSE
 
@@ -3744,7 +3744,16 @@ szerinti állam vonatkozásában.
 
 (5) Az ujjnyomat-adatot a vízumkérelem elbírálásáért felelős idegenrendészeti hatóság kizárólag az ujjnyomat-adatnak a Vízuminformációs Rendszerbe történő beviteléig kezeli. Az ujjnyomat-adatot ezt követően haladéktalanul törli.
 
-(6) Az idegenrendészeti nyilvántartás az (1) bekezdés szerinti adatok vonatkozásában közhiteles nyilvántartásnak minősül.
+(6) Az idegenrendészeti nyilvántartás az (1) bekezdésben meghatározott adatok közül a harmadik országbeli állampolgár
+
+- a) családi és utóneve (nevei),
+- b) születési ideje,
+- c) anyja születési családi és utóneve (utónevei),
+- d) állampolgársága,
+- e) beutazásának célja,
+- f) részére kiadott (meghosszabbított) vízum érvényességi ideje és területi érvényessége
+
+vonatkozásában közhiteles nyilvántartásnak minősül.
 
 255. § (1) Az idegenrendészeti hatóság a Vízuminformációs Rendszerben tárolt adatokkal történő összevetés céljából a VIS rendelet 19., illetve 20. cikke alapján történő ellenőrzés céljából a harmadik országbeli állampolgár ujjnyomatát rögzítheti.
 
@@ -3784,7 +3793,17 @@ szerinti állam vonatkozásában.
 
 (4) Az (1) bekezdés n) pontjában meghatározott adatokat az idegenrendészeti hatóság a tartózkodási engedély iránti kérelem tárgyában hozott véglegessé vált és végrehajtható döntésig, illetve a 70. § (1) bekezdés a) és b) pontjában, valamint d)–f) pontjában meghatározott humanitárius tartózkodási engedély kiadásáig kezeli, azt követően haladéktalanul törli.
 
-(5) Az idegenrendészeti nyilvántartás az (1) bekezdés a)–j) pontja és a (2) bekezdés szerinti adatok vonatkozásában közhiteles nyilvántartás.
+(5) Az idegenrendészeti nyilvántartás az (1) bekezdésben meghatározott adatok közül a harmadik országbeli állampolgár
+
+- a) családi és utóneve (nevei),
+- b) születési ideje,
+- c) anyja születési családi és utóneve (utónevei),
+- d) állampolgársága,
+- e) tartózkodásának célja,
+- f) részére kiadott (meghosszabbított) tartózkodási engedély, valamint mobilitási engedély száma és érvényességi ideje,
+- g) szálláshelyének címe
+
+vonatkozásában közhiteles nyilvántartásnak minősül.
 
 257. § A kishatárforgalmi engedély kiadásához rögzített, a 1030/2002/EK tanácsi rendelet, valamint a 380/2008/EK tanácsi rendelet szerinti arcképmás- és ujjnyomatadatot az idegenrendészeti hatóság a kishatárforgalmi engedély iránti kérelem tárgyában hozott véglegessé vált és végrehajtható döntésig kezeli, azt követően haladéktalanul törli.
 
@@ -3801,7 +3820,16 @@ szerinti állam vonatkozásában.
 
 (2) Az (1) bekezdésben meghatározott adatokat az idegenrendészeti hatóság a kiadott (meghosszabbított) ideiglenes tartózkodásra jogosító igazolás érvényességi idejének lejártát, illetve visszavonását követő ötödik naptári év évig kezeli.
 
-(3) Az idegenrendészeti nyilvántartás az (1) bekezdés a)–d) pontja szerinti adatok vonatkozásában közhiteles nyilvántartás.
+(3) Az idegenrendészeti nyilvántartás az (1) bekezdésben meghatározott adatok közül a harmadik országbeli állampolgár
+
+- a) családi és utóneve (nevei),
+- b) születési ideje,
+- c) anyja születési családi és utóneve (utónevei),
+- d) állampolgársága,
+- e) részére kiadott (meghosszabbított) ideiglenes tartózkodásra jogosító igazolás száma és érvényességi ideje,
+- f) részére kiállított ideiglenes tartózkodásra jogosító igazolás kiállításának indoka
+
+vonatkozásában közhiteles nyilvántartásnak minősül.
 
 259. § (1) Az idegenrendészeti hatóság a kiadott bevándorlási engedély és letelepedési engedély, valamint ideiglenes tartózkodási kártya, nemzeti tartózkodási kártya vagy EU tartózkodási kártya iránti kérelem és kiadott ideiglenes letelepedési engedély, nemzeti letelepedési engedély, EK letelepedési engedély vagy ideiglenes tartózkodási kártya, nemzeti tartózkodási kártya, vagy EU tartózkodási kártya vonatkozásában a harmadik országbeli állampolgár következő adatait kezeli:
 
@@ -3821,6 +3849,16 @@ szerinti állam vonatkozásában.
 
 (3) Az (1) bekezdés i) pontjában meghatározott adatokat az idegenrendészeti hatóság az engedély iránti kérelem tárgyában hozott véglegessé vált és végrehajtható döntésig kezeli, azt követően haladéktalanul törli.
 
+(4) Az idegenrendészeti nyilvántartás az (1) bekezdésben meghatározott adatok közül a harmadik országbeli állampolgár
+
+- a) családi és utóneve (nevei),
+- b) születési ideje,
+- c) anyja születési családi és utóneve (utónevei),
+- d) állampolgársága,
+- e) részére kiadott (meghosszabbított) engedély száma és érvényességi ideje
+
+vonatkozásában közhiteles nyilvántartásnak minősül.
+
 260. § (1) Magyarország külképviselete és az idegenrendészeti hatóság az úti okmányt vagy egyszeri utazásra jogosító úti okmányt kérelmező harmadik országbeli állampolgár következő adatait kezeli:
 
 - a) a természetes személyazonosító adatokat,
@@ -3838,7 +3876,7 @@ szerinti állam vonatkozásában.
 
 (2) Az (1) bekezdésben meghatározott adatokat az idegenrendészeti hatóság az úti okmány iránti kérelem elutasítása esetén annak időpontjától, a kiadott úti okmány esetén annak érvényességi ideje lejártát, illetve visszavonását követő 10 évig kezeli.
 
-(3) Az idegenrendészeti nyilvántartás az (1) bekezdés a)–f) pontja szerinti adatok vonatkozásában közhiteles nyilvántartás.
+(3)
 
 261. § (1) Az idegenrendészeti hatóság az úti okmány és a tartózkodásra jogosító okmány elvesztését, eltulajdonítását bejelentő harmadik országbeli állampolgár következő adatait kezeli:
 
@@ -3851,7 +3889,7 @@ szerinti állam vonatkozásában.
 
 (2) Az idegenrendészeti hatóság az (1) bekezdésben meghatározott adatokat az okmány megtalálásáig, ennek hiányában az adatbeviteltől számított legfeljebb 10 évig kezeli.
 
-(3) Az idegenrendészeti nyilvántartás az (1) bekezdés a)–e) pontja szerinti adatok vonatkozásában közhiteles nyilvántartás.
+(3)
 
 262. § (1) Az idegenrendészeti hatóság a Magyarország vagy az Európai Unió tagállamai és a más schengeni államok területének elhagyására kötelezett, a kijelölt helyen tartózkodásra kötelezett, az idegenrendészeti kiutasítás, a menekültügyi hatóság által elrendelt kiutasítás, a bírói kiutasítás, a beutazási és tartózkodási tilalom, a kiutasítást előkészítő őrizet, valamint az idegenrendészeti őrizet hatálya alatt álló harmadik országbeli állampolgár következő adatait kezeli:
 
@@ -3887,7 +3925,17 @@ szerinti állam vonatkozásában.
 
 (4) A (2) bekezdésben meghatározott adatokat az idegenrendészeti hatóság az átszállítás kezdeményezését követő öt évig kezeli.
 
-(5) Az idegenrendészeti nyilvántartás az (1) bekezdés szerinti adatok vonatkozásában közhiteles nyilvántartás.
+(5) Az idegenrendészeti nyilvántartás a harmadik országbeli állampolgár (1) bekezdésben meghatározott adatok közül
+
+- a) a családi és utóneve (nevei),
+- b) a születési ideje,
+- c) az anyja születési családi és utóneve (utónevei),
+- d) az állampolgársága,
+- e) az intézkedés, kötelezés elrendelő határozat szerinti jogalapja, határideje vagy időtartama,
+- f) a kiutasítás célországa,
+- g) a kiutasításhoz kapcsolódóan a kilépés ideje
+
+vonatkozásában közhiteles nyilvántartásnak minősül.
 
 263. § (1) Az idegenrendészeti hatóság a külföldre utazási korlátozás hatálya alatt álló harmadik országbeli állampolgárral kapcsolatos következő adatokat kezeli:
 
@@ -3897,7 +3945,16 @@ szerinti állam vonatkozásában.
 
 (2) Az (1) bekezdésben meghatározott adatokat az idegenrendészeti hatóság a korlátozás megszűnését követő három évig kezeli.
 
-(3) Az idegenrendészeti nyilvántartás az (1) bekezdés szerinti adatok vonatkozásában közhiteles nyilvántartás.
+(3) Az idegenrendészeti nyilvántartás a harmadik országbeli állampolgár (1) bekezdésben meghatározott adatai közül
+
+- a) a családi és utóneve (nevei),
+- b) a születési ideje,
+- c) az anyja születési családi és utóneve (utónevei),
+- d) az állampolgársága,
+- e) a külföldre utazási korlátozást kezdeményező szerv megnevezése,
+- f) úti okmányának típusa, száma és érvényességi ideje
+
+vonatkozásában közhiteles nyilvántartásnak minősül.
 
 264. § (1) Az idegenrendészeti hatóság az e törvény szerinti eljárásai során, az (EU) 2017/2226 európai parlamenti és tanácsi rendelettel összhangban, közvetlen hozzáférés útján jogosult az Európai Határregisztrációs Rendszerben adatot rögzíteni és abból adatot lekérdezni.
 
@@ -4102,7 +4159,7 @@ részére adatot szolgáltat.
 
 (3) Az (1) bekezdés szerinti valamennyi adatszolgáltatásról a külkapcsolatokért felelős miniszter nyilvántartást vezet.
 
-282. § A külpolitikáért felelős miniszter jogosult a 279. §-ban meghatározott szervezetek és személyek magyarországi jogállását, adatait és jogosultságait tanúsító igazolványt, okiratot kibocsátani, a kötelező adattartalomra vonatkozó jogszabályok figyelembevétele mellett annak formátumát és kibocsátásának eljárásrendjét megállapítani. Az igazolvány az abban foglalt adatokat közhitelesen igazolja.
+282. § A külpolitikáért felelős miniszter jogosult a 279. §-ban meghatározott szervezetek és személyek magyarországi jogállását, adatait és jogosultságait tanúsító igazolványt, okiratot kibocsátani, a kötelező adattartalomra vonatkozó jogszabályok figyelembevétele mellett annak formátumát és kibocsátásának eljárásrendjét megállapítani.
 
 ## TIZENEGYEDIK RÉSZ — ZÁRÓ RENDELKEZÉSEK
 

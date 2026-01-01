@@ -44,7 +44,7 @@ teljesíti.
 
 (2a) A foglalkoztató a (2) bekezdés b) pontja alapján a társadalombiztosítási azonosító jel közlésére akkor köteles, ha azzal a háztartási alkalmazott rendelkezik, vagy jogszabály alapján rendelkeznie kellene.
 
-(3) Az állami adóhatóság a (2) bekezdésben meghatározott adattartalmú bejelentésekről nyilvántartást vezet, amely a (2) bekezdés c) pontja szerinti adat tekintetében közhiteles hatósági nyilvántartásnak minősül.
+(3) Az állami adóhatóság a (2) bekezdésben meghatározott adattartalmú bejelentésekről hatósági nyilvántartást vezet.
 
 (4) A háztartási alkalmazott (1) bekezdés b) pontja szerint történő bejelentése az országos telefonos ügyfélszolgálat útján történik, a foglalkoztató adóazonosító jelének megadásával. Az országos telefonos ügyfélszolgálat a bejelentést az elektronikus közszolgáltatásokról szóló törvény szabályai szerint rögzíti, és a foglalkoztatót a bejelentés eredményéről egyidejűleg tájékoztatja. Az országos telefonos ügyfélszolgálat a bejelentett adatokat haladéktalanul továbbítja az állami adóhatósághoz, és a bejelentett adatokat a bejelentést követő ötödik év december 31-éig őrzi meg, azt követően törli azokat. Az országos telefonos ügyfélszolgálat az e fejezetben meghatározott személyes adatokat, továbbá az adótitkot feladata teljesítéséhez szükséges mértékben megismerheti és kezelheti.
 

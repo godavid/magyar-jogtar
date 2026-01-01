@@ -26,6 +26,8 @@ a Budapest Diákváros megvalósításáról
 
 5. § (1) Az építtető a Beruházás tekintetében a korábbi előkészítő építtető BFK Budapest Fejlesztési Központ Nonprofit Zártkörűen Működő Részvénytársaságnak és az ÉMI Építésügyi Minőségellenőrző Innovációs Nonprofit Korlátolt Felelősségű Társaságnak (a továbbiakban együtt: korábbi építtető) az előkészítő építtetői feladatkörében jogutódja.
 
+(1a) Az ÉMI Építésügyi Minőségellenőrző Innovációs Nonprofit Korlátolt Felelősség Társaság jogutódja az előkészítői építtetői feladatkörben a Közlekedéstudományi és Építésügyi Minőségellenőrző Intézet.
+
 (2) Az építtető a Beruházás előkészítése keretében megkötött szerződésekben – ideértve különösen a tanácsadói, lebonyolítói, tervezési, műszaki ellenőri és a beruházáshoz kapcsolódóan már megkötött szakértői és egyéb szerződéseket – szerződésátruházás útján a korábbi építtető helyébe lép. A szerződésátruházáshoz a szerződésben részes harmadik fél hozzájárulása nem szükséges, őt a szerződésátruházásról az építtető értesíti.
 
 (3) A Beruházáshoz kapcsolódó hatósági engedélyek tekintetében a korábbi építtető helyébe az építtető lép. A hatósági engedélyek átruházására, illetve a jogutódlás tudomásulvételére az építtető bejelentése alapján kerül sor.

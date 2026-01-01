@@ -227,7 +227,7 @@ kezeli.
 
 (6) A rendőrség a hatósági szolgálati igazolvány visszavonásának vagy bevonásának tényéről a kötelezettet vagy a fegyveres biztonsági őrséget működtető szervezetet haladéktalanul tájékoztatja.
 
-7/A. § (1) A rendőrség a fegyveres biztonsági őrökről – a hatósági szolgálati igazolványok hitelességének és a fegyveres biztonsági őrök tevékenységének az ellenőrzése céljából – közhiteles hatósági nyilvántartást vezet.
+7/A. § (1) A rendőrség a fegyveres biztonsági őrökről – a fegyveres biztonsági őrök tevékenységének az ellenőrzése céljából – hatósági nyilvántartást vezet.
 
 (2) Az (1) bekezdés szerinti nyilvántartás tartalmazza
 
@@ -509,6 +509,8 @@ az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valami
 - e) a mezőőri járulék szedéséről és annak mértékéről, valamint
 - f) a mezei őrszolgálat megszűnésének időpontjáról.
 
+(3) A (2) bekezdés szerinti nyilvántartás a (2) bekezdés b), e) és f) pontja tekintetében közhitelesnek minősül.
+
 18. § (1) A mezei őrszolgálat a nyilvántartásba vett területen (a továbbiakban: működési terület) látja el tevékenységét.
 
 (2) Az őrszolgálat létszámát a működési területhez és a körzetben tevékenykedő egyéb közfeladatot ellátó őrszolgálatok működéséhez mérten úgy kell megállapítani, hogy annak napi, rendszeres ellenőrzése biztosítható legyen.
@@ -548,6 +550,8 @@ az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valami
 - g) szolgálati igazolványa és szolgálati jelvénye sorszámáról.
 
 (4) A (3) bekezdés szerinti nyilvántartásban szereplő személyes adatok a foglalkoztatás megszűnésének évét követő év végéig kezelhetők.
+
+(5) A (3) bekezdés szerinti nyilvántartás a (3) bekezdés c) és f) pontja tekintetében közhitelesnek minősül.
 
 22. § (1) A mezőőr e törvényből, a működési és szolgálati szabályzatból, mezőgazdasági alapismeretből, lőfegyverismeretből, valamint az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvényben meghatározott ismeretekből – a mezőgazdasági igazgatási szerv által szervezett képzés elvégzését követően – a mezőgazdasági szerv előtt vizsgát tesz. A mezőőr minden évben köteles továbbképzésen részt venni.
 

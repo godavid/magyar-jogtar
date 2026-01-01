@@ -500,9 +500,9 @@ tartalmazó listát.
 
 39. § A vizsgáló a Gazdasági Versenyhivatal feladat- és hatáskörében eljáró, ágazati vizsgálatban, gyorsított ágazati vizsgálatban, bejelentéssel (az összefonódás-bejelentést is ideértve), illetve panasszal összefüggő eljárásban, továbbá versenyfelügyeleti eljárásban vizsgálatot végző, illetve az eljárás eredményessége érdekében abban közreműködő köztisztviselő. A vizsgálói álláshelyeket a Gazdasági Versenyhivatal szervezeti és működési szabályzata, az álláshelyen ellátandó feladatokat a szabályzata határozza meg.
 
-40. § (1) A Gazdasági Versenyhivatal elnöke, elnökhelyettese, a Versenytanács tagja, a főtitkár és a vizsgáló további jogviszonyt – a tudományos, oktatói, művészeti, lektori, szerkesztői, jogi oltalom alá eső szellemi tevékenységre irányuló jogviszony, a közérdekű önkéntes tevékenység, a nevelőszülői foglalkoztatási jogviszony, a tartós külszolgálati kirendelés idejére létesített kormányzati szolgálati jogviszony és a (2) bekezdés szerinti jogviszony kivételével – nem létesíthet (összeférhetetlenség).
+40. § (1) A Gazdasági Versenyhivatal elnöke, elnökhelyettese, a Versenytanács tagja, a főtitkár és a vizsgáló további jogviszonyt – a tudományos, oktatói, művészeti, lektori, szerkesztői, jogi oltalom alá eső szellemi tevékenységre irányuló jogviszony, a közérdekű önkéntes tevékenység, a nevelőszülői foglalkoztatási jogviszony, a tartós külszolgálati kirendelés idejére létesített kormányzati szolgálati jogviszony kivételével – nem létesíthet (összeférhetetlenség).
 
-(2) A Gazdasági Versenyhivatal elnöke, elnökhelyettese, a Versenytanács tagja, a főtitkár és a vizsgáló az Európai Unió Tanácsa 2024. második félévi magyar elnökségével kapcsolatos feladatok ellátására irányuló jogviszonyt a munkáltatói jogkör gyakorlójának engedélyével létesíthet.
+(2)
 
 (3)
 

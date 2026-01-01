@@ -101,53 +101,117 @@ egyes adókötelezettségekről és egyes adótörvények módosításáról
 
 (2)
 
-(3)
+(3) Az Szja tv. 3. §-a a következő 58. és 59. ponttal egészül ki:
+
+(E törvény alkalmazásában az egyes fogalmak jelentése a következő:)
+
+„58. A két gyermeket nevelő anyák kedvezménye: a két gyermeket nevelő anyák kedvezményéről szóló 2025. évi XIV. törvény szerinti kedvezmény.
+
+59. A 30 év alatti anyák kedvezménye: a 30 év alatti anyák kedvezményéről szóló 2025. évi XIII. törvény szerinti kedvezmény.”
 
 (4)
 
-(5)
+(5) Az Szja tv. 3. §-a a következő 71. ponttal egészül ki:
 
-#### 4. §
+(E törvény alkalmazásában az egyes fogalmak jelentése a következő:)
+
+„71. Éves átlagkereset: a tárgyévet megelőző év július hónapjára közzétett nemzetgazdasági szintű bruttó átlagkereset tizenkétszerese.”
+
+4. § Az Szja tv. 11. §-a a következő (5) bekezdéssel egészül ki:
+
+„(5) A két gyermeket nevelő anyák kedvezményét, a három gyermeket nevelő anyák kedvezményét vagy a négy vagy több gyermeket nevelő anyák kedvezményét érvényesítő egyébként a Tbj. szerint saját jogú nyugdíjasnak minősülő magánszemély a kedvezmény alapba tartozó jövedelmeiről bevallást kizárólag akkor ad be, ha a kedvezményre jogosító jogcímen megszerzett jövedelme nem kifizetőtől származik vagy abból a 46. § (4) bekezdése alapján a kifizető egyébként nem lenne köteles adóelőleget levonni és az e jövedelme alapjául szolgáló tárgyévi bevételeinek összege meghaladja az éves átlagkereset négyszeresét.”
 
 5. § (1)
 
 (2)
 
-(3)
+(3) Az Szja tv. 29/H. §-a helyébe a következő rendelkezés lép:
+
+„29/H. § (1) Az adóalap-csökkentő kedvezmények érvényesítésének sorrendje:
+
+- a) a 30 év alatti anyák kedvezménye,
+- b) a négy vagy több gyermeket nevelő anyák kedvezménye, a három gyermeket nevelő anyák kedvezménye vagy a két gyermeket nevelő anyák kedvezménye,
+- c) a csecsemőgondozási díj, a gyermekgondozási díj és az örökbefogadói díj kedvezménye,
+- d) a 25 év alatti fiatalok kedvezménye,
+- e) személyi kedvezmény,
+- f) az első házasok kedvezménye,
+- g) családi kedvezmény.
+
+(2) Amennyiben a gyermeket nevelő anya jogosultsága a négy vagy több gyermeket nevelő anyák kedvezményére, a három gyermeket nevelő anyák kedvezményére, a két gyermeket nevelő anyák kedvezményére vagy a 30 év alatti anyák kedvezményére több egymást követően érvényesíthető jogcímen az év egészében fennáll, a kedvezményt az év egészére az év első napján érvényesíthető kedvezmény – ha ilyenből több is van, az anya döntése szerinti – jogcím alapján lehet igénybe venni. Ilyen esetben új adóelőleg-nyilatkozat megtételére és a kedvezmény alapjául szolgáló jövedelmek jogcímek közötti megosztására nincs szükség.”
 
 6. § (1)
 
 (2)
 
-(3)
+(3) Az Szja tv. 46. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) Az adóelőleg-megállapításra kötelezett kifizető a levont adóelőlegről igazolást ad a magánszemélynek, amelyen feltünteti az adóelőleg alapját és az abban figyelembe vett
+
+- a) 30 év alatti anyák kedvezményét,
+- b) négy vagy több gyermeket nevelő anyák kedvezményét, a három gyermeket nevelő anyák kedvezményét vagy a két gyermeket nevelő anyák kedvezményét,
+- c) csecsemőgondozási díj, gyermekgondozási díj és örökbefogadói díj kedvezményét,
+- d) 25 év alatti fiatalok kedvezményét,
+- e) személyi kedvezményt,
+- f) első házasok kedvezményét,
+- g) családi kedvezményt.”
 
 7. § (1)
 
-(2)
+(2) Az Szja tv. 48. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Az adóelőleg-nyilatkozatban a magánszemély az adott esettől függően nyilatkozik
+
+- a) a bevétel adóelőleg-alapjának megállapításához levonandó költségről, költséghányadról,
+- b) az első házasok kedvezményének érvényesítéséről,
+- c) a családi kedvezmény érvényesítéséről, közös érvényesítéséről,
+- d) a súlyosan fogyatékos magánszemélynél az erről szóló igazolás alapján a fogyatékos állapot kezdő napjának hónapjától ezen állapot fennállásának időtartamáról azzal, hogy a végleges fogyatékos állapotról ugyanazon kifizetőnek elegendő egyszer nyilatkozni,
+- e) a négy vagy több gyermeket nevelő anyák kedvezményének érvényesítéséről,
+- f) a három gyermeket nevelő anyák kedvezményének érvényesítéséről,
+- g) a két gyermeket nevelő anyák kedvezményének érvényesítéséről,
+- h) a 30 év alatti anyák kedvezményének érvényesítéséről.”
 
 (3)
 
-(4)
+(4) Az Szja tv. 48. § (3b) bekezdése helyébe a következő rendelkezés lép:
+
+„(3b) A magánszemély a négy vagy több gyermeket nevelő anyák kedvezményének, a három gyermeket nevelő anyák kedvezményének és a két gyermeket nevelő anyák kedvezményének érvényesítése érdekében az összevont adóalapba tartozó bevételt juttató kifizető, munkáltató részére nyilatkozatot adhat. Az adóelőleg-nyilatkozat tartalmazza a nyilatkozó magánszemély nevét és adóazonosító jelét, a nyilatkozó magánszemély részére bevételt juttató kifizető, munkáltató nevét (elnevezését) és adószámát, valamint a 29/D. § (3) és (3a) bekezdése, a három gyermeket nevelő anyák kedvezményéről szóló 2025. évi XV. törvény 1. § (3) és (4) bekezdése, valamint a két gyermeket nevelő anyák kedvezményéről szóló 2025. évi XIV. törvény 1. § (3) és (4) bekezdése szerinti gyermekek nevét és adóazonosító jelét, vagy – ha az adóhatóság adóazonosító jelet nem állapított meg – természetes személyazonosító adatait.”
 
 (5)
 
-(6)
+(6) Az Szja tv. 48. § (3c) bekezdése helyébe a következő rendelkezés lép:
 
-(7)
+„(3c) A négy vagy több gyermeket nevelő anyák kedvezményét érvényesítő magánszemély 29/D. § (2) bekezdése szerinti, a három gyermeket nevelő anyák kedvezményét érvényesítő magánszemély a három gyermeket nevelő anyák kedvezményéről szóló 2025. évi XV. törvény 1. § (2) bekezdése szerinti, a két gyermeket nevelő anyák kedvezményét érvényesítő magánszemély a két gyermeket nevelő anyák kedvezményéről szóló 2025. évi XIV. törvény 1. § (2) bekezdése szerinti, a 30 év alatti anyák kedvezményét érvényesítő magánszemély a 30 év alatti anyák kedvezményéről szóló 2025. évi XIII. törvény 1. § (3) bekezdése szerinti – kedvezményre jogosító – jövedelmének adóelőleg-alapját más kedvezménnyel a kifizető, a munkáltató nem csökkenti, azonban a magánszemély a családi kedvezményről adóelőleg-nyilatkozatot tehet a munkáltató, az összevont adóalapba tartozó rendszeres bevételt juttató kifizető részére. A családi kedvezményről tett adóelőleg-nyilatkozat szerinti családi kedvezmény adóelőleg-alap terhére nem érvényesíthető értékének az e törvény 8. §-a szerinti adómértékkel meghatározott összege a Tbj. szerinti szabályok alkalmazásával családi járulékkedvezményként vehető igénybe.”
+
+(7) Az Szja tv. 48. § (3g) bekezdése helyébe a következő rendelkezés lép:
+
+„(3g) A 30 év alatti anyák kedvezményéről szóló 2025. évi XIII. törvény szerinti 30 év alatti anya a 30 év alatti anyák kedvezményének érvényesítése érdekében az összevont adóalapba tartozó bevételt juttató kifizető, munkáltató részére adóelőleg-nyilatkozatot tehet. Az adóelőleg-nyilatkozat tartalmazza a nyilatkozó magánszemély nevét és adóazonosító jelét, a nyilatkozó magánszemély részére bevételt juttató kifizető, munkáltató nevét (elnevezését) és adószámát, a gyermek nevét és adóazonosító jelét, vagy – ha az adóhatóság adóazonosító jelet nem állapított meg – természetes személyazonosító adatait, magzat (ikermagzat) esetében a várandósság tényére vonatkozó kijelentést.”
 
 (8)
 
-(9)
+(9) Az Szja tv. 48. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) Ha a magánszemély az adóévben megszerzett bármely bevételét terhelő adóelőleg megállapításához tett nyilatkozatában
+
+- a) tételes igazolással elszámolható költség levonását kérte, és a nyilatkozat alapján levont költség meghaladja az összevont adóalap megállapításánál e törvény rendelkezései szerint az adóbevallásban elszámolt igazolt költséget, a költségkülönbözet 12 százalékát,
+- b) a nyilatkozattételkor fennálló körülmények ellenére a négy vagy több gyermeket nevelő anyák kedvezménye, a három gyermeket nevelő anyák kedvezménye, a két gyermeket nevelő anyák kedvezménye, a 30 év alatti anyák kedvezménye, a családi kedvezmény, az első házasok kedvezménye vagy a személyi kedvezmény érvényesítését jogalap nélkül kérte, aminek következtében utóbb befizetési különbözet mutatkozik, a befizetési különbözet 12 százalékát
+
+különbözeti bírságként az adóévre vonatkozó bevallásban külön kötelezettségként kell feltüntetnie, és a személyi jövedelemadó-fizetési kötelezettségre vonatkozó szabályok szerint kell megfizetnie. Nem kell e rendelkezést alkalmazni, ha a költségkülönbözet vagy a befizetési különbözet a 10 ezer forintot nem haladja meg.”
 
 8. § (1)
 
 (2)
 
-(3)
+(3) Az Szja tv. 49. § (1) és (1a) bekezdése helyébe a következő rendelkezések lépnek:
+
+„(1) Az adóelőleg a 47. § szerint megállapított adóelőleg-alap – a négy vagy több gyermeket nevelő anyák kedvezményét, a három gyermeket nevelő anyák kedvezményét, a két gyermeket nevelő anyák kedvezményét, a 30 év alatti anyák kedvezményét, a csecsemőgondozási díj, a gyermekgondozási díj és az örökbefogadói díj kedvezményét, a 25 év alatti fiatalok kedvezményét, a személyi kedvezményt, az első házasok kedvezményét, a családi kedvezményt érvényesítő magánszemély esetében az adóévben az adóelőleg megállapításánál általa vagy más jogosult által korábban még nem érvényesített kedvezménnyel csökkentett adóelőleg-alap – összege után az e törvény 8. §-a szerinti adómértékkel számított összeg, figyelemmel a (3) és (4) bekezdésben foglalt rendelkezésekre is.
+
+(1a) A négy vagy több gyermeket nevelő anyák kedvezményét érvényesítő magánszemély a 29/D. § (2) bekezdése szerinti, a csecsemőgondozási díj, a gyermekgondozási díj és az örökbefogadói díj kedvezményét érvényesítő magánszemély a csecsemőgondozási díj, a gyermekgondozási díj és az örökbefogadói díj kedvezményéről szóló 2025. évi XVI. törvény szerinti, a három gyermeket nevelő anyák kedvezményét érvényesítő magánszemély a három gyermeket nevelő anyák kedvezményéről szóló 2025. évi XV. törvény 1. § (2) bekezdése szerinti, a két gyermeket nevelő anyák kedvezményét érvényesítő magánszemély a két gyermeket nevelő anyák kedvezményéről szóló 2025. évi XIV. törvény 1. § (2) bekezdése szerinti, a 30 év alatti anyák kedvezményét érvényesítő magánszemély a 30 év alatti anyák kedvezményéről szóló 2025. évi XIII. törvény 1. § (3) bekezdése szerinti – kedvezményre jogosító – jövedelmének adóelőleg-alapja más kedvezménnyel nem csökkenthető. A családi kedvezmény adóelőleg-alap terhére nem érvényesíthető értékének az e törvény 8. §-a szerinti adómértékkel meghatározott összege a Tbj. szerinti szabályok alkalmazásával családi járulékkedvezményként vehető igénybe.”
 
 (4)
 
-(5)
+(5) Az Szja tv. 49. § (7) bekezdése helyébe a következő rendelkezés lép:
+
+„(7) Amennyiben a négy vagy több gyermeket nevelő anyának minősülő magánszemély, a három gyermeket nevelő anyák kedvezményére, a két gyermeket nevelő anyák kedvezményére, valamint a 30 év alatti anyák kedvezményére jogosult magánszemély kedvezményre való jogosultsága az adott negyedév egészében nem áll fenn, és az adott negyedévi, jogosultsági időszakban megszerzett, összevont adóalapba tartozó önálló tevékenységből származó jövedelmének adóelőleg-alapja másként nem állapítható meg, azt az adott negyedévi önálló tevékenységből származó jövedelem adóelőleg-alapjának a jogosultsági időszak hónapjával (hónapjaival) arányos részeként kell figyelembe venni.”
 
 #### 9. §
 
@@ -166,24 +230,24 @@ egyes adókötelezettségekről és egyes adótörvények módosításáról
 - g)
 - h)
 - i)
-- j)
+- j) 1. számú melléklet 8. pont 8.44. alpontjában a „300 W teljesítményű” szövegrész helyébe a „750 W teljesítményű” szöveg
 
 lép.
 
 13. § Hatályát veszti az Szja tv.
 
-- a)
+- a) 3. § 55. pontja,
 - b)
-- c)
+- c) 28. § (19) bekezdése,
 - d)
 - e)
 - f)
 - g)
 - h)
-- i)
+- i) „A 30 év alatti anyák kedvezménye” alcíme,
 - j)
-- k)
-- l)
+- k) 48. § (3h) bekezdése,
+- l) 104. § (1) bekezdése.
 
 #### 4. A társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény módosítása
 
@@ -212,7 +276,7 @@ lép.
 - a)
 - b)
 - c)
-- d)
+- d) 18/D. § (4) bekezdése.
 
 #### 5. A kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló 2012. évi CXLVII. törvény módosítása
 
@@ -242,7 +306,13 @@ lép.
 
 #### 33. §
 
-#### 34. §
+34. § Az Áfa tv. „Adó alapja” alcíme a következő 210/A. §-sal egészül ki:
+
+„210/A. § (1) Utazásszervezési szolgáltatás nyújtása esetén a 169. § i) és k) pontjától eltérően az adó alapját és az áthárított adó összegét nem kell feltüntetni a számlán, kivéve a (2) bekezdés szerinti esetet.
+
+(2) A 169. § i) és k) pontja szerinti adatokat is fel kell tüntetni a számlán, ha az utazásszervezési szolgáltatást igénybe vevő adóalany legkésőbb az utazásszervezési szolgáltatásról szóló számla kiállításáig nyilatkozik arról, hogy a szolgáltatást nem a XV. fejezet, vagy a Héa-irányelv 306–310. cikk szerinti utazásszervezőként veszi igénybe.
+
+(3) A 10. számú melléklet szerinti adatszolgáltatásnak az (1) bekezdés szerinti esetben is tartalmaznia kell az adó forintban meghatározott alapját és az áthárított adó forintban meghatározott összegét.”
 
 #### 35. §
 
@@ -254,7 +324,7 @@ lép.
 
 #### 39. §
 
-#### 40. §
+40. § Az Áfa tv. 10. számú melléklete a 2. melléklet szerint módosul.
 
 #### 41. §
 
@@ -298,9 +368,11 @@ lép.
 
 #### 56. §
 
-#### 57. §
+57. § A Távhő törvény 7. § (1) bekezdése helyébe a következő rendelkezés lép:
 
-#### 58. §
+„(1) A jövedelemadó a pozitív adóalap 31 százaléka.”
+
+58. § Hatályát veszti a Távhő törvény 10. § 11. pont 11.1. és 11.2. alpontja.
 
 #### 12. A biztosítási adóról szóló 2012. évi CII. törvény módosítása
 
@@ -332,16 +404,24 @@ lép.
 
 69. § (1)
 
-(2)
+(2) A Htv. 52. § 35. pontja helyébe a következő rendelkezés lép:
+
+(E törvény alkalmazásában:)
+
+„35. közszolgáltató szervezet: a Magyar Posta Zrt., a Duna Médiaszolgáltató Nonprofit Zrt., a Diákhitel Központ Zrt., a Tartalékgazdálkodási Kht., a MÁV Magyar Államvasutak Zrt., illetve annak tevékenységét folytató nonprofit gazdasági társaság. Közszolgáltató szervezet a vasúti pályahálózatot üzemeltető, feltéve, ha nettó árbevétele legalább 55%-ban a vasúti pályahálózat működtetéséből származik, valamint a helyi- és helyközi menetrendszerinti tömegközlekedési szolgáltatást nyújtó, feltéve, ha nettó árbevétele legalább 55%-ban a tömegközlekedési szolgáltatás nyújtásából származik. Közszolgáltató szervezet az integrált vasútvállalat, feltéve, ha a vasúti pályahálózat üzemeltetéséből, valamint a helyi- és helyközi menetrendszerinti tömegközlekedési szolgáltatásból származó nettó árbevétele együttesen eléri az összes nettó árbevételének 55%-át. Közszolgáltató szervezet továbbá a személyszállítási szolgáltatásokról szóló törvény szerinti közlekedésszervező;”
 
 (3)
 
-(4)
+(4) A Htv. 52. §-a a következő 71. ponttal egészül ki:
+
+(E törvény alkalmazásában:)
+
+„71. integrált vasútvállalat: a vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény 2. § 5.2. pont d) alpontja szerinti szervezet.”
 
 70. § A Htv.
 
-- a)
-- b)
+- a) 3. § (3) bekezdésében a „használ.” szövegrész helyébe a „vagy közszolgáltató szervezet közszolgáltatói feladat ellátása érdekében használ, továbbá akkor is, ha az ingatlanon közszolgáltató szervezet részére közszolgáltatói feladat ellátása érdekében biztosít használatot.” szöveg,
+- b) 3. § (5) bekezdésében a „szervezetre” szövegrész helyébe a „szervezetre, az integrált vasútvállalatra” szöveg,
 - c)
 - d)
 - e)
@@ -380,15 +460,49 @@ lép.
 
 #### 18. A szociális hozzájárulási adóról szóló 2018. évi LII. törvény módosítása
 
-#### 80. §
+80. § A szociális hozzájárulási adóról szóló 2018. évi LII. törvény (a továbbiakban: Szocho tv.) 3. §-a a következő (9) bekezdéssel egészül ki:
 
-#### 81. §
+„(9) Adófizetésre kötelezett személynek az 5. § (1a) bekezdés
 
-#### 82. §
+- a) a) pontja szerinti adókötelezettség esetén a kifizető,
+- b) b) pontja szerinti adókötelezettség esetén az anyák kedvezményét érvényesítő Tbj. szerinti saját jogú nyugdíjas magánszemély
 
-#### 83. §
+minősül.”
 
-#### 84. §
+81. § A Szocho tv. 5. §-a a következő (1a) és (1b) bekezdéssel egészül ki:
+
+„(1a) Az (1) bekezdéstől eltérően adókötelezettség keletkezik az anyák kedvezményét érvényesítő Tbj. szerinti saját jogú nyugdíjas magánszemély
+
+- a) részére a tárgyévben ugyanazon kifizető által juttatott az anyák kedvezménye alapját képező olyan jövedelmei együttes összegének az éves átlagkereset négyszeresét meghaladó része után, amely jövedelmekből a kifizető az Szja tv. szabályai szerint egyébként adóelőleget lenne köteles levonni;
+- b) által megszerzett az anyák kedvezménye alapját képező olyan jövedelmei együttes összegének az éves átlagkereset négyszeresét meghaladó része után, amely jövedelmek nem kifizetőtől származnak vagy a jövedelmekből a kifizető az Szja tv. szabályai szerint egyébként adóelőleget nem lenne köteles levonni.
+
+(1b) Az (1a) bekezdés a) pontjának alkalmazása során egyazon kifizetőnek kell tekinteni a kifizetővel a társasági adóról és az osztalékadóról szóló törvény szerint kapcsolt vállalkozásnak minősülő más kifizetőt is.”
+
+82. § A Szocho tv. 9. § (1) bekezdés c) pontja helyébe a következő rendelkezés lép:
+
+[A kifizető a tagjával (ideértve az egyházi szolgálati viszonyban álló egyházi személyt is) fennálló jogviszonya alapján őt terhelő adó alapjának, az egyéni vállalkozó az őt saját maga után terhelő adó alapjának megállapításkor az adóalap megállapításának különös szabályai hatálya alá tartozó esetben nem veszi számításba a hónapnak azt a napját, amelyre a tagja, maga az egyéni vállalkozó]
+
+„c) csecsemőgondozási díjban, örökbefogadói díjban, gyermekgondozási díjban részesül és egyidejűleg gyermekgondozást segítő ellátást, gyermeknevelési támogatást, gyermekek otthongondozási díját vagy ápolási díjat is kap.”
+
+83. § A Szocho tv. a következő 20. §-sal egészül ki:
+
+„20. § (1) Az 5. § (1a) bekezdés a) pontja szerinti adót a kifizető a tárgyévet követő év január havi kötelezettségként vallja be és fizeti meg. Az 5. § (1b) bekezdése szerinti egyazon kifizetők esetén az adókötelezettséget a választásuk szerinti kifizető teljesíti. A kötelezettség teljesítéséért az egyazon kifizetőnek minősülő kifizetők egyetemlegesen felelnek.
+
+(2) Az 5. § (1a) bekezdés b) pontja szerinti adót az anyák kedvezményét érvényesítő Tbj. szerinti saját jogú nyugdíjas magánszemély a személyi jövedelemadó bevallásában vagy az állami adó- és vámhatóság által összeállított adóbevallási tervezet felhasználásával elkészített személyi jövedelemadó bevallásban a bevallásra előírt határidőig állapítja meg, vallja be, és a bevallás benyújtásának határidejéig fizeti meg. Az említett magánszemély nem köteles az anyák kedvezménye alapját képező jövedelmeit megállapítani és bevallani, ha az azok alapjául szolgáló tárgyévi bevételeinek együttes összege az éves átlagkereset négyszeresét nem haladja meg.”
+
+84. § (1) A Szocho tv. 34. §-a a következő 8. ponttal egészül ki:
+
+[E törvény alkalmazásában:]
+
+„8. éves átlagkereset: az Szja tv. szerinti éves átlagkereset.”
+
+(2) A Szocho tv. 34. §-a a következő 16. és 17. ponttal egészül ki:
+
+[E törvény alkalmazásában:]
+
+„16. anyák kedvezménye: az Szja tv. 29/D. § -a szerinti kedvezmény, a három gyermeket nevelő anyák kedvezményéről szóló 2025. évi XV. törvény szerinti kedvezmény, a két gyermeket nevelő anyák kedvezményéről szóló 2025. évi XIV. törvény szerinti kedvezmény;
+
+17. anyák kedvezménye alapját képező jövedelem: az Szja tv. 29/D. § (2) bekezdése szerinti jövedelem, a három gyermeket nevelő anyák kedvezményéről szóló 2025. évi XV. törvény 1. § (2) bekezdése szerinti jövedelem és a két gyermeket nevelő anyák kedvezményéről szóló 2025. évi XIV. törvény 1. § (2) bekezdése szerinti jövedelem együttes összege.”
 
 #### 85. §
 
@@ -396,9 +510,17 @@ lép.
 
 #### 86. §
 
-#### 87. §
+87. § A Tbj. 39. § (3) bekezdés c) pontja helyébe a következő rendelkezés lép:
 
-#### 88. §
+[Az (1) bekezdésben meghatározott járulékalap alsó határát arányosan csökkenteni kell azon időszak figyelembevételével, amely alatt a társas vállalkozó]
+
+„c) csecsemőgondozási díjban, örökbefogadói díjban, gyermekgondozási díjban részesül és egyidejűleg gyermekgondozást segítő ellátást, gyermeknevelési támogatást, gyermekek otthongondozási díját vagy ápolási díjat is kap,”
+
+88. § A Tbj. 40. § (4) bekezdés c) pontja helyébe a következő rendelkezés lép:
+
+(Az egyéni vállalkozó a járulékfizetési alsó határ után nem köteles a társadalombiztosítási járulékot fizetni arra az időtartamra, amely alatt)
+
+„c) csecsemőgondozási díjban, örökbefogadói díjban, gyermekgondozási díjban részesül és egyidejűleg gyermekgondozást segítő ellátást, gyermeknevelési támogatást, gyermekek otthongondozási díját vagy ápolási díjat is kap,”
 
 #### 89. §
 
@@ -458,8 +580,8 @@ lép.
 
 - 1.
 - 2.
-- 3.
-- 4.
+- 3. 50. § (2) bekezdés 7c. pont nyitó szövegrészében az „az Szja tv. 29/G. §” szövegrész helyébe az „a 30 év alatti anyák kedvezményéről szóló 2025. évi XIII. törvény” szöveg,
+- 4. 50. § (2) bekezdés 7c. pont e) alpontjában az „az Szja tv. 29/G. § (3) bekezdése” szövegrész helyébe az „a 30 év alatti anyák kedvezményéről szóló 2025. évi XIII. törvény 1. § (3) bekezdése” szöveg,
 - 5.
 - 6.
 - 7.
@@ -508,23 +630,35 @@ lép.
 
 #### 129. §
 
-#### 130. §
+130. § Az Szt. 44. §-a a következő (9) bekezdéssel egészül ki:
+
+„(9) Passzív időbeli elhatárolásként kell kimutatni a 87. § (2) bekezdése szerinti adófizetési kötelezettséggel szemben a globális minimum-adószintet biztosító kiegészítő adó adott üzleti évet terhelő várható összegét. Az így kimutatott passzív időbeli elhatárolást a globális minimum-adószintet biztosító kiegészítő adó összegének végleges megállapításakor (bevallásakor) kell megszüntetni az adófizetési kötelezettséggel szemben.”
 
 #### 131. §
 
-#### 132. §
+132. § Az Szt. 117. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) Az (1) bekezdés nem alkalmazható, ha az anyavállalat közérdeklődésre számot tartó gazdálkodó, vagy ha az anyavállalat leányvállalata vagy közös vezetésű vállalkozása közérdeklődésre számot tartó gazdálkodó.”
 
 #### 133. §
 
-#### 134. §
+134. § Az Szt. 155. § (5) bekezdés c) pontja helyébe a következő rendelkezés lép:
+
+[A (3) bekezdésben foglaltakat nem alkalmazhatja:]
+
+„c) az összevont (konszolidált) éves beszámolót készítő anyavállalat, a konszolidálásba bevont leányvállalat és a konszolidálásba bevont közös vezetésű vállalkozás,”
 
 #### 135. §
 
-#### 136. §
+136. § Az Szt. 177. §-a a következő (112) és (113) bekezdéssel egészül ki:
+
+„(112) E törvénynek az egyes adókötelezettségekről és egyes adótörvények módosításáról szóló 2025. évi LIV. törvénnyel megállapított 44. § (9) bekezdését, 87. § (2) bekezdését, 117. § (4) bekezdését és 155. § (5) bekezdés c) pontját először a 2026. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+
+(113) E törvénynek az egyes adókötelezettségekről és egyes adótörvények módosításáról szóló 2025. évi LIV. törvénnyel megállapított 44. § (9) bekezdését és 87. § (2) bekezdését a 2025. évben induló üzleti évről készített beszámolóra is lehet alkalmazni.”
 
 137. § Az Szt.
 
-- 1.
+- 1. 87. § (2) bekezdésében a „kivetett” szövegrész helyébe a „kivetett, várható” szöveg,
 - 2.
 - 3.
 - 4.
@@ -624,11 +758,36 @@ lép.
 
 ### 1. melléklet a 2025. évi LIV. törvényhez
 
-- 1.
-- 2.
+- 1. Az Szja tv. 1. számú melléklet 1. pont 1.7. alpontja helyébe a következő rendelkezés lép:
+
+(A szociális és más ellátások közül adómentes:)
+
+- „1.7. a családi pótlék, a családok támogatásáról szóló törvényben meghatározott gyermekgondozást segítő ellátás, anyasági támogatás és gyermeknevelési támogatás;”
+- 2. Az Szja tv. 1. számú melléklet 7. pont 7.21. alpontja helyébe a következő rendelkezés lép:
+
+(Egyéb indokkal adómentes:)
+
+- „7.21. a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény szerinti pénzkölcsön nyújtásából, pénzügyi lízingszerződésből származó követelés elengedése (akkor is, ha az elengedés egyezség keretében történik) feltéve, hogy a követelés elengedésére
+  - a) belső szabályzatban foglaltak alapján, az azonos helyzetben lévőket egyenlő elbánásban részesítő elv betartásával, független felek között,
+  - b) a Magyar Nemzeti Bank mellett működő Pénzügyi Békéltető Testület előtti eljárás keretében megkötött egyezség alapján,
+  - c) a Magyar Nemzeti Banknak a pénzügyi intézmények számára a fizetési késedelemmel érintett lakossági hitel-, kölcsön- és pénzügyi lízingszerződések kezelés során elvárt fogyasztóvédelmi elvekről szóló 5/2022. (IV. 22.) MNB ajánlása alapján, az adós fizetőképességének helyreállítása érdekében, vagy
+  - d) a pénzügyi intézmény által haláleset vagy rokkantság esetén biztosított egyedi méltányosság alapján
+
+kerül sor;”
+
 - 3.
 
 ### 2. melléklet a 2025. évi LIV. törvényhez
+
+- 1. Az Áfa tv. 10. számú melléklete a következő 5/B. és 5/C. ponttal egészül ki:
+
+„5/B. Amennyiben az adóalany a jogelődje által teljesített termékértékesítésről, szolgáltatásnyújtásról állít ki számlát, számlával egy tekintet alá eső okiratot, a jogelőd adószámáról is szolgáltat adatot.
+
+5/C. Csoportos adóalany által teljesített termékértékesítésről, szolgáltatásnyújtásról a csoportos adóalany által kiállított számla, számlával egy tekintet alá eső okirat esetén az ügyletben résztvevő tag adószámáról is adatot kell szolgáltatni.”
+
+- 2. Az Áfa tv. 10. számú melléklet 6. és 7. pontja helyébe a következő rendelkezések lépnek:
+- „6. Az 1–5/C. pont szerinti adatszolgáltatást az állami adó- és vámhatóság által erre a célra biztosított elektronikus felületen kell teljesíteni. Az elektronikus felület az adóalany egyedi azonosítására szolgáló adatok igénylését követően használható. Az azonosító adatokat az adóalany vagy annak Air. szerinti állandó meghatalmazottja igényli.
+- 7. Az 1–5/C. pont szerinti adatszolgáltatást az adóalany nevében az a személy is teljesítheti, akit az adóalany vagy annak Air. szerinti állandó meghatalmazottja a 6. pont szerinti elektronikus felületen megjelöl. Az adóalany vagy annak Air. szerinti állandó meghatalmazottja által megjelölt személy által teljesített valamennyi adatszolgáltatás az adóalany nevében tett jognyilatkozatnak minősül.”
 
 ### 3. melléklet a 2025. évi LIV. törvényhez
 

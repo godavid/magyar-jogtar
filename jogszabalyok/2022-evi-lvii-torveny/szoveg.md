@@ -11,7 +11,7 @@ Magyarország Alaptörvényének XX. cikkében foglaltak végrehajtása, valamin
 1. § (1) E törvény alkalmazásában sportingatlan
 
 - a) az 1. mellékletben meghatározott ingatlan vagy ingatlan tulajdoni hányad,
-- b) a sportról szóló 2004. évi I. törvény (a továbbiakban: Sporttv.) 1. mellékletében szereplő ingatlanok, vagy ingatlan tulajdoni hányadok, valamint
+- b) a sportról szóló 2004. évi I. törvény (a továbbiakban: Sporttv.) 1. és 2. mellékletében szereplő ingatlanok vagy ingatlan tulajdoni hányadok, valamint
 - c) a Kormány egyedi, nyilvános határozatával a 2. § szerinti közfeladat ellátás céljából ekként minősített, a magyar állam tulajdonában álló ingatlan, vagy ingatlan tulajdoni hányad.
 
 (2) E törvény alkalmazásában sportcélú ingatlan a Kormány egyedi határozatával kizárólag a 2. § (1) bekezdés a)–c) pontja szerinti közfeladatok ellátása céljából ekként minősített, nem a magyar állam tulajdonában álló ingatlan, vagy ingatlan tulajdoni hányad.
@@ -189,7 +189,7 @@ Magyarország Alaptörvényének XX. cikkében foglaltak végrehajtása, valamin
 
 ### 1. melléklet a 2022. évi LVII. törvényhez
 
-- 1. 2022. december 31-én állami tulajdonban álló sportingatlanok
+- 1. Állami tulajdonban álló sportingatlanok
 
 |  | A | B |  | C | D |
 | --- | --- | --- | --- | --- | --- |
@@ -201,7 +201,7 @@ Magyarország Alaptörvényének XX. cikkében foglaltak végrehajtása, valamin
 | 6 | Tata | 3308/1 | belterület | 1/1 | Tatai Edzőtábor |
 | 7 | Dunavarsány | 050/4 |  | 1/1 | Dunavarsányi Edzőtábor |
 | 8 | Budapest II. kerület | 12722/2 | belterület | 4127/18284 | Ormai László Asztalitenisz Csarnok |
-| 9 | Ráckeve | 54 | belterület | 1/1 | Ráckevei Vízisporttelep |
+| 9 |  |  |  |  |  |
 | 10 | Mátraszentimre- Galyatető | 1119/2 | belterület | 1/1 | Galyatetői Síház I. |
 | 11 | Mátraszentimre- Galyatető | 1113/9 | belterület | 1/1 | Galyatetői Síház II. |
 | 12 | Gyöngyös-Mátraháza | 7112 | belterület | 1/1 | Mátraházi Edzőtábor |
@@ -211,16 +211,16 @@ Magyarország Alaptörvényének XX. cikkében foglaltak végrehajtása, valamin
 | 16 | Budapest Margitsziget | 23800/5 | belterület | 1465/104323 | Európa-ház |
 | 17 | Budapest Margitsziget | 23800/6 | belterület | 6956/100786 | HM Vendégház |
 | 18 | Budapest Margitsziget | 23800/7 | belterület | 16644/79235 | PM Klubház |
-| 19 | Békés | 1152 | belterület | 1/1 | Békési Kajak-kenu ház |
+| 19 |  |  |  |  |  |
 | 20 | Siófok | 7459/1 | belterület | 1/1 | Siófoki Kajak-kenu ház I. |
 | 21 | Siófok | 7459/2 | belterület | 1/1 | Siófoki Kajak-kenu ház II. |
-| 22 | Vác | 2432 | belterület | 1/1 | Váci Kajak-kenu ház I. |
-| 23 | Vác | 2433 | belterület | 1/1 | Váci Kajak-kenu ház II. |
+| 22 |  |  |  |  |  |
+| 23 |  |  |  |  |  |
 | 24 | Balatonlelle | 3149/1 | belterület | 1/1 | Balatonlellei sportüdülő I. |
 | 25 | Balatonlelle | 3149/2 | belterület | 1/1 | Balatonlellei sportüdülő II. |
 | 26 | Balatonboglár | 1262/17 | belterület | 158193126/268033662 | Nemzeti Kézilabda Akadémia Kézilabda Csarnok |
 | 27 | Balatonboglár | 1549/3 | belterület | 1042/2265 | Nemzeti Kézilabda Akadémia Szállásépületek |
-| 28 | Budapest XIX. kerület | 168207/1 | belterület | 1/1 | Bozsik Stadion |
+| 28 |  |  |  |  |  |
 | 29 | Cegléd | 1332/6 | belterület | 1/1 | Ungvári Miklós Ceglédi Judo Központ |
 | 30 | Pécs | 19192/22 | belterület | 1/1 | Pécsi Tornacsarnok |
 | 31 | Pécs | 23998/5 | belterület | 2189/3189 | Rátgéber Nemzeti Kosárlabda Akadémia |
@@ -229,7 +229,7 @@ Magyarország Alaptörvényének XX. cikkében foglaltak végrehajtása, valamin
 | 34 | Budapest XVI. kerület | 100120/2 | belterület | 1/1 | RAFC labdarúgó stadion |
 | 35 | Kisvárda | 1173/2/A | belterület | 1/1 | Kisvárda Labdarúgó és Kézilabda Akadémia Szállásépület |
 | 36 | Gyöngyös-Mátraháza | 7110/1 | belterület | 1/1 | Mátraháza Pagoda ingatlan |
-| 37 | Budapest XIX. kerület | 169171/1 | belterület | 1/1 | Dél-pesti Utánpótlás-nevelési Centrum (Honvéd Akadémia) |
+| 37 |  |  |  |  |  |
 | 38 | Szombathely | 1006/3 | belterület | 1/1 | Szombathely Tornacsarnok |
 | 39 | Miskolc | 20036/24/A | belterület | 1/1 | Miskolc Judo Club |
 | 40 | Szombathely | 16947 | belterület | 1/1 | Nyugat-magyarországi Utánpótlás-nevelési Centrum (Illés Akadémia) |
@@ -295,7 +295,7 @@ Magyarország Alaptörvényének XX. cikkében foglaltak végrehajtása, valamin
 | 100 | Velence | 4516 | belterület | 1/1 | Sukorói Kajak-kenu Vízitelep VI. |
 | 101 | Tatabánya | 2075/4/A | belterület | 1/1 | Tatabánya Multifunkciós Csarnok |
 | 102 | Szeged | 10005/4 | belterület | 1/1 | Szegedi Multifunkciós Csarnok |
-| 103 | Békés | 2290/1 | belterület | 1/1 | Békés Kézilabda Munkacsarnok |
+| 103 |  |  |  |  |  |
 | 104 | Lenti | 526/3 | belterület | 1/1 | Lenti Kézilabda Munkacsarnok |
 | 105 | Sümeg | 544/1 | belterület | 1/1 | Sümeg Kézilabda Munkacsarnok |
 | 106 | Balassagyarmat | 376/4 | belterület | 1/1 | Balassagyarmat Kézilabda Munkacsarnok |
@@ -332,7 +332,7 @@ Magyarország Alaptörvényének XX. cikkében foglaltak végrehajtása, valamin
 | 137 | Budapest, Margitsziget | 23800/6 | belterület | 3289/100786 | Sirály csónakház, Margitsziget |
 | 138 | Budapest XIII. kerület | 25992/1 | belterület | 93330/1683450 | MTK Központi kajak-kenu telep, Népsziget |
 | 139 | Szuha | 087/3 | külterület | 1/1 | Galyatetői Sícentrum és Biatlon pálya |
-| 140 | Orfű | 777/1 | belterület | 1/1 | Orfűi Sporttábor |
+| 140 |  |  |  |  |  |
 | 141 | Budapest X. kerület | 38303/68/A | belterület | 1/1 | Kőér utcai Sportuszoda II. |
 | 142 | Szeged | 02065/4 | külterület | 1/1 | Maty-éri Evezőspálya XX. |
 | 143 | Domaszék | 064/63 | külterület | 1/1 | Maty-éri Evezőspálya XXI. |

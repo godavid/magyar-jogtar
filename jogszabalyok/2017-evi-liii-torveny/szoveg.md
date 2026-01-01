@@ -1456,12 +1456,14 @@ elkövetése miatt elítéltek, a büntetett előélethez fűződő hátrányos 
 - b) az (1) bekezdés a) pontja, vagy a (2) bekezdés a) pontja tekintetében az érintett személyek 30 napnál nem régebbi hatósági erkölcsi bizonyítványát, valamint
 - c) azokat az okiratokat, amelyek a székhelyszolgáltatásról szóló rendelet szerinti feltételeknek való megfelelést igazolják.
 
-76/D. § A nyilvántartás tartalmazza:
+76/D. § (1) A nyilvántartás tartalmazza:
 
 - a) a 76/C. § (3) bekezdésében foglalt adatokat,
 - b) a bejelentés napját és a nyilvántartásba vétel napját,
 - c) a nyilvántartásból való törlés tényét, okát és napját,
 - d) a nyilvántartásba vétel feltételeinek vizsgálatával összefüggő körülményeket.
+
+(2) A székhelyszolgáltatók nyilvántartása a nyilvántartásba vétel napja és a nyilvántartásból való törlés napja tekintetében közhiteles nyilvántartásnak minősül.
 
 76/E. § (1) Ha a bejelentés alapján megállapítható, hogy a székhelyszolgáltató megfelel a feltételeknek, és a bejelentés tartalmazza a 76/C. § (3) és (4) bekezdése szerinti adatokat és igazolásokat, a felügyeleti szerv a székhelyszolgáltatót nyilvántartásba veszi. A felügyeleti szerv a tevékenység végzésére irányuló kérelem előterjesztéséről, a székhelyszolgáltató nyilvántartásba vételéről vagy a nyilvántartásba vétel elutasításáról 15 napon belül értesíti az állami adó- és vámhatóságot. A felügyeleti szerv a nyilvántartásba vett szolgáltatókat honlapján közzéteszi.
 

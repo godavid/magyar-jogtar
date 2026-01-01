@@ -49,7 +49,9 @@ a közhitelességről és a közhiteles nyilvántartások egységes vezetésér�
 
 (2) Ha törvény eltérően nem rendelkezik, az (1) bekezdés b) pontja szerinti esetben harmadik személyekkel szemben a nyilvános közhiteles adat csak a közhiteles nyilvántartás vezetésével fejt ki joghatást.
 
-(3) A közhiteles nyilvántartás kizárólag a közhiteles adatok tekintetében minősül közhitelesnek, a közhitelesség joghatása az abban nyilvántartott nem közhiteles adatok tekintetében nem érvényesül.
+(3) A közhiteles nyilvántartás kizárólag a közhiteles adatok tekintetében minősül közhitelesnek, a közhitelesség joghatása az abban nyilvántartott nem közhiteles adatok tekintetében – (4) bekezdésben foglaltakon túl – nem érvényesül.
+
+(4) Nem közhitelesen nyilvántartott adattal azonosított közhitelesen vezetett adat esetén, a közhitelesség joghatása kiterjed a nem közhitelesen nyilvántartott adat igazolására, a közhitelesen vezetett adat és az ahhoz kapcsolódó joghatás beazonosításához kapcsolódóan.
 
 #### 4. § [A közhitelesség időbeli hatálya]
 
@@ -163,6 +165,8 @@ vonatkozó részletes szabályokat.
 (3) A 15. § (2) bekezdés a) pontja szerinti auditálást legkésőbb e törvény alkalmazását 9 hónappal megelőzően kell kezdeményezni, és a tanúsítvány közzététele és hatálybalépése között legalább hat hónapnak kell eltelnie, ha az auditálást kezdeményező ezt kéri.
 
 (4) Az e törvény hatálybalépése előtt közhitelesen nyilvántartott adatok és közhiteles nyilvántartások, amelyek nem felelnek meg e törvény rendelkezéseinek, és nem rendelkeznek a 15. § (2) bekezdés a) pontja szerinti tanúsítvánnyal vagy jogszabály nem rendelkezik külön a közhitelességükről, 2027. január 1-jén elveszítik közhiteles jellegüket, és jogszabály alapján nyilvántartott adatokká, valamint ezen adatok nyilvántartásával összefüggésben a nyilvántartást vezető szerv által vezetett nem közhiteles nyilvántartássá minősülnek át.
+
+(5) A (2) bekezdéstől eltérően e törvény rendelkezéseit kell alkalmazni a közhitelesség tanúsító erejére és megdöntésére, ha jogszabály eltérően nem rendelkezik.
 
 #### 19. §
 

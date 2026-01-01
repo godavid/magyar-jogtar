@@ -389,7 +389,7 @@ szabályai
 - m) a hasznosítási engedélyeket,
 - n) azt, ha a mintaoltalmi igény vagy a mintaoltalomból eredő jogok bizalmi vagyonkezelés alapján fennálló kezelt vagyonba tartoznak.
 
-(3) A mintaoltalmi lajstrom a bejegyzett jogok és tények fennállását hitelesen tanúsítja. Az ellenkező bizonyításáig a mintaoltalmi lajstromba bejegyzett jogokról és tényekről vélelmezni kell, hogy azok fennállnak. A mintaoltalmi lajstromban feltüntetett adatokkal szemben a bizonyítás azt terheli, aki vitatja a helyességüket vagy a valósággal való egyezőségüket.
+(3) A mintaoltalmi lajstrom – a (2) bekezdés e), f) és g) pontjában meghatározott adatok kivételével – közhiteles nyilvántartás, amely a bejegyzett jogok és tények fennállását hitelesen tanúsítja. Az ellenkező bizonyításáig a mintaoltalmi lajstromba bejegyzett jogokról és tényekről vélelmezni kell, hogy azok fennállnak. A mintaoltalmi lajstromban feltüntetett adatokkal szemben a bizonyítás azt terheli, aki vitatja a helyességüket vagy a valósággal való egyezőségüket.
 
 (4) Jóhiszemű és ellenérték fejében jogot szerző harmadik személlyel szemben a mintaoltalommal kapcsolatos bármely jogra csak akkor lehet hivatkozni, ha azt a mintaoltalmi lajstromba bejegyezték.
 
