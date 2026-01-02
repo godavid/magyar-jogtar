@@ -66,6 +66,8 @@ kell érteni.
 - e) a terhelt olyan magyar állampolgár vagy olyan, az Európai Unió más tagállamának állampolgára, aki Magyarország területén lakcímmel rendelkezik, és a kibocsátó tagállami igazságügyi hatóság nem nyújt megfelelő jogi garanciát arra, hogy szabadságvesztés büntetés vagy szabadságelvonással járó intézkedés jogerős kiszabása esetén a terhelt kérelmére a büntetés vagy az intézkedés végrehajtására visszaszállítják Magyarország területére, vagy
 - f) az európai elfogatóparancs végrehajtása súlyosan sértené a terheltet megillető, nemzetközi szerződésben vagy európai uniós jogi aktusban rögzített alapvető jogokat.
 
+(1a) Az (1) bekezdés f) pontját kell alkalmazni abban az esetben is, ha az európai elfogató parancs végrehajtását Magyarország vagy az Európai Unió más tagállama által menekültként elismert személlyel szemben bocsátotta ki olyan állam, ahonnan elmenekült. Ezt a rendelkezést kell alkalmazni abban az esetben is, ha az eljárási cselekménnyel érintett személy menekült jogállása azért szűnt meg, mert Magyarországon vagy az Európai Unió más tagállamában állampolgárságot kapott, azonban a menekültkénti elismerés feltételei – ideértve a menedékjogról szóló 2007. évi LXXX. törvény 7. § (4) bekezdésében meghatározott esetet is – továbbra is fennállnak. A menekültkénti elismerés feltételeinek fennállása tekintetében az idegenrendészetért és menekültügyért felelős miniszter állásfoglalása irányadó. Ha a menekültkénti elismerésre a menedékjogról szóló 2007. évi LXXX. törvény 7. § (4) bekezdésében meghatározott esetben került sor, akkor ennek feltételeit – e § vonatkozásában fennállónak kell tekinteni.
+
 (2) A bíróság az európai elfogatóparancs végrehajtását megtagadhatja, ha
 
 - a) az európai elfogatóparancs kibocsátásának alapjául szolgáló cselekmény miatt a terhelt ellen Magyarország területén büntetőeljárás van folyamatban,
@@ -646,6 +648,8 @@ a bíróság vagy az ügyészség az európai nyomozási határozat végrehajtá
 - g) az eljárási cselekménnyel érintett személy Magyarországon mentelmi jogon vagy nemzetközi jogon alapuló mentességet élvez, és mentelmi jogát, illetve mentességét az arra jogosult nem függesztette fel,
 - h) az európai nyomozási határozatot nem szabályszerűen vagy nem magyar, angol, német vagy francia nyelven terjesztették elő,
 - i) az európai nyomozási határozat oly mértékben hiányos, pontatlan, hogy erre figyelemmel nem hajtható végre, és a kiegészítésre, illetve kijavításra tűzött határidő eredménytelenül telt el, vagy az európai nyomozási határozat a kiegészítést, illetve a kijavítást követően sem hajtható végre.
+
+(1a) Az (1) bekezdés a) pontját kell alkalmazni abban az esetben is, ha az európai nyomozási határozatot Magyarország vagy az Európai Unió más tagállama által menekültként elismert személlyel szemben bocsátotta ki olyan állam, ahonnan elmenekült. Ezt a rendelkezést kell alkalmazni abban az esetben is, ha az eljárási cselekménnyel érintett személy menekült jogállása azért szűnt meg, mert Magyarországon vagy az Európai Unió más tagállamában állampolgárságot kapott, azonban a menekültkénti elismerés feltételei – ideértve a menedékjogról szóló 2007. évi LXXX. törvény 7. § (4) bekezdésében meghatározott esetet is – továbbra is fennállnak. A menekültkénti elismerés feltételeinek fennállása tekintetében az idegenrendészetért és menekültügyért felelős miniszter állásfoglalása irányadó. Ha a menekültkénti elismerésre a menedékjogról szóló 2007. évi LXXX. törvény 7. § (4) bekezdésében meghatározott esetben került sor, akkor ennek feltételeit – e § vonatkozásában – fennállónak kell tekinteni.
 
 (2) A bíróság vagy az ügyészség az európai nyomozási határozat végrehajtásának megtagadásáról a tagállami hatóságot a megtagadás indokainak megjelölésével, haladéktalanul tájékoztatja.
 
@@ -3644,6 +3648,8 @@ rendelkezik hatáskörrel és illetékességgel.
 - 27. a 2014/41/EU irányelvnek a személyes adatok védelmére vonatkozó uniós szabályokhoz való hozzáigazítása tekintetében történő módosításáról szóló, 2022. február 16-i (EU) 2022/228 európai parlamenti és tanácsi irányelvnek
 - 28. az uniós korlátozó intézkedések megsértése bűncselekményi tényállásainak és szankcióinak meghatározásáról és az (EU) 2018/1673 irányelv módosításáról szóló, 2024. április 24-i (EU) 2024/1226 európai parlamenti és tanácsi irányelvnek
 - 29. a 2005/671/IB tanácsi határozatnak a személyes adatok védelmére vonatkozó uniós szabályokhoz való hozzáigazítása tekintetében történő módosításáról szóló, 2023. október 4-i (EU) 2023/2123 európai parlamenti és tanácsi irányelvnek
+- 30. a büntetőeljárás során gyanúsított vagy vádlott gyermekek részére nyújtandó eljárási biztosítékokról szóló, 2016. május 11-i (EU) 2016/800 európai parlamenti és tanácsi irányelvnek,
+- 31. a büntetőeljárások során a gyanúsítottak és a vádlottak, valamint az európai elfogatóparancshoz kapcsolódó eljárásokban a keresett személyek költségmentességéről szóló 2016. október 26-i (EU) 2016/1919 európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.
 

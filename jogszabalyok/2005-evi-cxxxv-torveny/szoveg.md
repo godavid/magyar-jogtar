@@ -606,6 +606,10 @@ lehetőség szerint azonnal, de legfeljebb két munkanapon belül a digitális �
 
 (8) E törvény 20. § (3) bekezdése a gyermekek szexuális bántalmazása, szexuális kizsákmányolása és a gyermekpornográfia elleni küzdelemről szóló, 2011. december 13-i 2011/93/EU európai parlamenti és tanácsi irányelv 18. cikk (3) bekezdésének való megfelelést szolgálja.
 
+(9) Ez a törvény a büntetőeljárás során gyanúsított vagy vádlott gyermekek részére nyújtandó eljárási biztosítékokról szóló, 2016. május 11-i (EU) 2016/800 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+
+(10) Ez a törvény az emberkereskedelem megelőzéséről és az ellene folytatott küzdelemről, valamint az áldozatok védelméről szóló 2011/36/EU irányelv módosításáról szóló, 2024. június 13-i (EU) 2024/1712 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+
 48. § (1)–(6)
 
 (7)–(8)

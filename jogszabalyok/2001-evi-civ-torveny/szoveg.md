@@ -51,7 +51,7 @@ a jogi személlyel szemben alkalmazható büntetőjogi intézkedésekről
 
 (2) Az (1) bekezdés szerinti intézkedések alkalmazásának nem akadálya, ha az elkövető halála, kegyelem, kóros elmeállapot vagy tevékeny megbánás miatt nem büntethető, vagy vele szemben törvényben meghatározott egyéb büntethetőséget megszüntető ok állapítható meg, vagy az elkövetőt megrovásban részesítették.
 
-(3) Az eljárás alá vont jogi személlyel szemben az intézkedés alkalmazásának célja a társadalom védelme érdekében annak megelőzése, hogy a jogi személy érintettségével újabb, a 2. §-ban meghatározott bűncselekményt kövessenek el.
+(3) Az eljárás alá vont jogi személlyel szemben az intézkedés alkalmazásának célja a társadalom védelme érdekében annak megelőzése, hogy az eljárás alá vont jogi személy vagy más jogi személy érintettségével újabb, a 2. §-ban meghatározott bűncselekményt kövessenek el.
 
 (4) Az eljárás alá vont jogi személlyel szemben alkalmazható intézkedést úgy kell megállapítani, hogy az igazodjon
 
@@ -122,7 +122,7 @@ a jogi személlyel szemben alkalmazható büntetőjogi intézkedésekről
 
 (2) Az eljárás alá vont jogi személlyel szemben kiszabható pénzbírság legalacsonyabb mértéke egymillió forint, legnagyobb mértéke
 
-- a) három évet meghaladó tartamú szabadságvesztéssel büntetendő bűncselekmény esetén az eljárás alá vont jogi személynek a bűncselekmény elkövetését megelőző évben elért forgalmának 5%-a,
+- a) három évet meghaladó tartamú szabadságvesztéssel büntetendő bűncselekmény, valamint a nemzetközi gazdasági tilalom megszegése [Btk. 327. § (1)–(4) bekezdés, 327/A. § (1) bekezdés, 327/B. § (1) bekezdés] esetén az eljárás alá vont jogi személynek a bűncselekmény elkövetését megelőző évben elért forgalmának 5%-a,
 - b) három évig terjedő szabadságvesztéssel büntetendő bűncselekmény esetén az eljárás alá vont jogi személynek a bűncselekmény elkövetését megelőző évben elért forgalmának 3%-a.
 
 (3) Ha az eljárás alá vont jogi személynek a bűncselekmény elkövetését megelőző évben elért forgalma nem állapítható meg, a pénzbírság (2) bekezdés szerinti legnagyobb összegét az alábbiak szerint megállapítható legnagyobb forgalom alapul vételével kell meghatározni:
@@ -278,11 +278,11 @@ a jogi személlyel szemben alkalmazható büntetőjogi intézkedésekről
 - c) a bűncselekmény káros következményeit más módon helyreállítja, illetve
 - d) megfelelő intézkedéseket vezet be annak érdekében, hogy a jogi személy vezetője, tagja vagy alkalmazottja ne kövessen el újabb, a 2. § (1) bekezdés a) és b) pontjában meghatározott bűncselekményt, vagy a 2. § (1) bekezdés c) pontjában meghatározott esetekre vonatkozóan a jogi személy vezetője fellépjen a más személy által elkövetett bűncselekménnyel szemben.
 
-(4) A nyomozó hatóság vagy az ügyészség (1), illetve (2) bekezdés szerinti intézkedéséről értesíteni kell az eljárás alá vont jogi személy törvényes képviselőjét és az eljárás alá vont jogi személy védőjét, akik az értesítéstől számított nyolc napon belül panaszt terjeszthetnek elő az intézkedést elrendelő nyomozó hatóságnál vagy ügyészségnél.
+(4) A nyomozó hatóság vagy az ügyészség (1) bekezdés szerinti intézkedéséről értesíteni kell az eljárás alá vont jogi személy törvényes képviselőjét és az eljárás alá vont jogi személy védőjét, akik az értesítéstől számított nyolc napon belül panaszt terjeszthetnek elő az intézkedést elrendelő nyomozó hatóságnál vagy ügyészségnél.
 
-(5) A nyomozó hatóság vagy az ügyészség az (1) vagy (2) bekezdés alapján értesített bíróságot vagy szervet értesti arról, hogy az (1), illetve a (2) bekezdés szerinti értesítés alapján tett intézkedést meg kell szüntetni, ha
+(5) A nyomozó hatóság vagy az ügyészség az (1) bekezdés alapján értesített bíróságot vagy szervet értesti arról, hogy az (1) bekezdés szerinti értesítés alapján tett intézkedést meg kell szüntetni, ha
 
-- a) az (1), illetve a (2) bekezdés szerinti értesítés feltételei már nem állnak fenn,
+- a) az (1) bekezdés szerinti értesítés feltételei már nem állnak fenn,
 - b) az eljárás alá vont jogi személlyel szemben az eljárást megszüntették.
 
 (6) A nyomozó hatóság vagy az ügyészség (3) bekezdés szerinti intézkedése ellen panasznak nincs helye.
@@ -679,7 +679,7 @@ rendelhető el.
 
 (6) Ha a rendelkezésre álló adatok, illetve bizonyítási eszközök alapján megalapozottan feltehető, hogy az eljárás tárgyát képező bűncselekmény vonatkozásában a jogi személlyel szemben alkalmazható intézkedésnek van helye, és arra az igazságügyi tárgyú törvények módosításáról szóló 2025. évi XLIX. törvény hatálybalépését megelőzően nem került sor, akkor a nyomozó hatóság, illetve az ügyészség – írásban vagy szóban – közli az eljárás alá vont jogi személy törvényes képviselőjével a jogi személlyel szemben alkalmazható intézkedést megalapozó bűncselekmény tényállását és annak Btk. szerinti minősítését, a jogi személy 2. §-ban meghatározott érintettségére vonatkozó tényállást, valamint azt, hogy a jogi személy a 2. § mely rendelkezése vagy rendelkezései szerint érintett a bűncselekmény elkövetésével.
 
-(7) Ha az igazságügyi tárgyú törvények módosításáról szóló 2025. évi XLIX. törvény hatálybalépését megelőzően az eljárás alá vont jogi személyt nyilvántartó bíróság, illetve az eljárás alá vont jogi személy felett törvényességi, illetve szakmai felügyeletet gyakorló szerv értesítésére már sor került, a nyomozó hatóság vagy az ügyészség az igazságügyi tárgyú törvények módosításáról szóló 2025. évi XLIX. törvény hatálybalépését követő három hónapon belül felülvizsgálja, hogy az értesítés az igazságügyi tárgyú törvények módosításáról szóló 2025. évi XLIX. törvény rendelkezései alapján szükséges-e, és ha az értesítés feltételei nem állnak fenn, haladéktalanul intézkedik az értesítés alapján tett intézkedés megszüntetése iránt.
+(7) Ha az igazságügyi tárgyú törvények módosításáról szóló 2025. évi XLIX. törvény hatálybalépését megelőzően az eljárás alá vont jogi személyt nyilvántartó bíróság, illetve az eljárás alá vont jogi személy felett törvényességi, illetve szakmai felügyeletet gyakorló szerv értesítésére már sor került, a vádemelés előtt a nyomozó hatóság vagy az ügyészség, a vádemelés után a bíróság az igazságügyi tárgyú törvények módosításáról szóló 2025. évi XLIX. törvény hatálybalépését követő három hónapon belül felülvizsgálja, hogy az értesítés az igazságügyi tárgyú törvények módosításáról szóló 2025. évi XLIX. törvény rendelkezései alapján szükséges-e, és ha az értesítés feltételei nem állnak fenn, haladéktalanul intézkedik az értesítés alapján tett intézkedés megszüntetése iránt.
 
 28. § Ez a törvény a Magyar Köztársaságnak az Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépése napján lép hatályba.
 

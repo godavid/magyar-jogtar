@@ -66,21 +66,23 @@ a büntető ügyekben alkalmazható közvetítői tevékenységről
 
 7. § (1) A közvetítői eljárás csak a sértett és a terhelt önkéntes hozzájárulásával folytatható le. Az eljárásban a sértett és a terhelt egyenrangú felek, az eljárás során bármikor visszavonhatják a részvételre vonatkozó hozzájárulásukat, és minden egyezségre önként kell jutniuk.
 
-(2) A sértett és a terhelt Be. 59. § (1) bekezdés a), c), e)–h) és m) pontjában meghatározott segítője, valamint a védő a közvetítői eljárásban részt vehet.
+(2) A sértett és a terhelt Be. 59. § (1) bekezdés a)–c), e)–h) és m) pontjában meghatározott segítője, valamint a védő a közvetítői eljárásban részt vehet.
 
-(3) A sértett meghatalmazott képviselője, valamint a terhelt védője a közvetítői eljárásban jogi képviselőként vesz részt. A büntetőügyben a képviseletre adott meghatalmazás – ha a meghatalmazásból más nem tűnik ki – és a kirendelés hatálya kiterjed a közvetítői eljárásra is.
+(3) A sértett és a terhelt indítványozhatja, hogy a (2) bekezdésben írt személyek közül az általa megnevezett legfeljebb két-két személy a közvetítői megbeszélésen jelen lehessen, és érdekében a közvetítő által meghatározott rendben felszólalhasson. A közvetítő az indítvány – ide nem értve a sértett meghatalmazott képviselője és a védő jelenléti jogát – teljesítését csak akkor tagadhatja meg, ha a megnevezett személy jelenléte a közvetítői eljárás céljával ellentétes. A közvetítő döntése ellen nincs helye jogorvoslatnak.
 
 (4) A közvetítői eljárásban a sértett és a terhelt törvényes képviselőjének részvétele kötelező. A terhelt törvényes képviselője jogait a polgári jog szabályai szerint gyakorolja. A cselekvőképtelen sértett a közvetítői eljárásban nem vehet részt, helyette törvényes képviselője jár el. A korlátozottan cselekvőképes kiskorú vagy a cselekvőképességében részlegesen korlátozott nagykorú sértett a közvetítői eljárásban részt vehet, de jognyilatkozat tételére, valamint a sértett és a törvényes képviselő közötti érdekellentétre a polgári jog szabályai irányadóak.
 
 (5) Ha a sértett nem természetes személy, helyette törvényes vagy meghatalmazott képviselője jár el abban az esetben is, ha e törvény szerint a közvetítői megbeszélés vagy a megállapodás megkötése a sértett személyes jelenlétében folytatható le.
 
-(6) A törvényes képviselő, és a jogi képviselő – ha törvény eltérően nem rendelkezik – a sértett, illetve a terhelt e törvény szerinti jogait gyakorolja.
+(6) A sértett helyett eljáró törvényes vagy meghatalmazott képviselő a sértett e törvény szerinti jogait gyakorolja.
 
-(7) A sértett és a terhelt indítványozhatja, hogy a (2)–(4) bekezdésben írt személyek közül az általa megnevezett legfeljebb két-két személy a közvetítői megbeszélésen jelen lehessen, és érdekében a közvetítő által meghatározott rendben felszólalhasson. A közvetítő az indítvány teljesítését csak akkor tagadhatja meg, ha a megnevezett személy jelenléte a közvetítői eljárás céljával ellentétes. A közvetítő döntése ellen nincs helye jogorvoslatnak.
+(7) A (2) bekezdésben meghatározott segítők, illetve a védő a közvetítői megbeszélésen tanácsadó és támogató szerepet töltenek be. A sértett meghatalmazott képviselője és a védő a közvetítői eljárásban képviselőként jár el, továbbá a jelenlét, az ügyirat-megismerés és felvilágosítás-kérési jogát gyakorolhatja és felszólalhat. A büntetőügyben a képviseletre adott meghatalmazás – ha a meghatalmazásból más nem tűnik ki – és a kirendelés hatálya kiterjed a közvetítői eljárásra is.
 
 (8) Ha a büntetőeljárás vagy a közvetítői eljárás adatai indokolják, a közvetítő bevonhat a közvetítői eljárásba olyan személyt, aki a megállapodás létrejöttét elősegítheti.
 
-8. § (1)–(2)
+8. § (1) A közvetítő a büntetőeljárás ügyiratai és az előkészítés során megismert adatok alapján dönt arról, hogy mely helyreállító technikát alkalmazza közvetítői eljárása során.
+
+(2) A közvetítő a közvetítői eljárás lefolytatása során alkalmazott módszernek megfelelően határozza meg a megbeszélés kereteit, valamint a felek és a közvetítői eljárás egyéb résztvevőinek a felszólalási rendjét. A sértett és a terhelt a közvetítői megbeszélés alatt a közvetítő engedélyével tanácskozhat a meghatalmazott képviselőjével, illetve a védőjével.
 
 (3) A közvetítői eljárás nyelve a magyar. Az anyanyelv használatára és a tolmács igénybevételére a Be. rendelkezései az irányadók azzal, hogy a közvetítő rendbírság kiszabására nem jogosult.
 
@@ -103,7 +105,7 @@ a büntető ügyekben alkalmazható közvetítői tevékenységről
 
 (2) A közvetítői megbeszélést rendszerint a pártfogó felügyelői szolgálat hivatali helyiségében kell megtartani. Ha a közvetítő indokoltnak tartja, ettől eltérően dönthet.
 
-(3) Az első közvetítői megbeszélésre történő értesítésben a sértettet és a terheltet röviden tájékoztatni kell a közvetítői eljárás lényegéről, jogkövetkezményeiről, valamint jogaikról és kötelezettségeikről. A közvetítői megbeszélésről a törvényes képviselőt, illetve a jogi képviselőt is értesíteni kell.
+(3) Az első közvetítői megbeszélésre történő értesítésben a sértettet és a terheltet röviden tájékoztatni kell a közvetítői eljárás lényegéről, jogkövetkezményeiről, valamint jogaikról és kötelezettségeikről. A közvetítői megbeszélésről a törvényes képviselőt, illetve a meghatalmazott képviselőt és a védőt is értesíteni kell.
 
 (4) A közvetítői eljárást úgy kell megszervezni, hogy azt az első közvetítői megbeszéléstől számított három hónapon belül be lehessen fejezni, és ha a büntetőeljárás felfüggesztésre került, akkor a jelentés, továbbá a megállapodásról szóló okirat a felfüggesztés határidejének letelte előtt megérkezzen az ügyészséghez.
 
