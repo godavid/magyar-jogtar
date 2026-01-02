@@ -1538,6 +1538,8 @@ c) a képzési díj mértékét és annak költségviselőjének megjelölését
 
 d) a képzés elvégzésének időpontját és az arról kiállított tanúsítvány számát, a tanúsítvány kiállításának helyszínét, időpontját, valamint kiállítójának nevét és beosztását.
 
+e) a szakmai vizsga, képesítő vizsga időpontját, helyszínét, eredményét, megnevezését.
+
 3. Az Fktv. 2/A. § (2) bekezdés a) pontja szerinti képzések, oktatások esetén a 2. pont d) alpontja szerinti adatokról vezetett nyilvántartás közhiteles hatósági nyilvántartásnak minősül.
 
 III. Felnőttképzési szakértői törzs
@@ -1546,7 +1548,7 @@ III. Felnőttképzési szakértői törzs
 
 IV. Mikrotanúsítványi törzs
 
-1. A mikrotanúsítványok nyilvántartása tartalmazza a felnőttképzésben használt mikrotanúsítvány tartalmáról és kiállításának feltételeiről szóló rendeletben meghatározott adatokat, amely adatokról vezetett nyilvántartás közhiteles nyilvántartásnak minősül.
+1. A mikrotanúsítványok nyilvántartása a felnőttképzésben használt mikrotanúsítvány tartalmáról és kiállításának feltételeiről szóló rendeletben meghatározott adatok tekintetében közhiteles nyilvántartás.
 
 ### 4. melléklet a 2018. évi LXXXIX. törvényhez
 

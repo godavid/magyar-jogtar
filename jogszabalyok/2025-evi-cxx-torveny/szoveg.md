@@ -30,20 +30,7 @@ közlekedési tárgyú törvények módosításáról
 
 #### 1. A közúti közlekedésről szóló 1988. évi I. törvény módosítása
 
-1. § A közúti közlekedésről szóló 1988. évi I. törvény a következő 3/A. §-sal egészül ki:
-
-„3/A. § (1) A Magyarország államhatárát közúton átlépő, 20 tonna megengedett össztömeg feletti nehéz tehergépkocsi Magyarország államhatárának közúton történő újbóli átlépéséig autópályán, autóúton vagy tranzitútként kijelölt útvonalon (a továbbiakban együtt: tranzitút-hálózat) közlekedhet.
-
-(2) A tranzitút-hálózaton kívüli utakat a 20 tonna megengedett össztömeg feletti nehéz tehergépkocsi elengedhetetlenül szükséges távolságban, abban az esetben használhatja, amennyiben a közlekedésére
-
-- a) Magyarországon telephelyére, vagy
-- b) az adott fuvarral összefüggésben a fuvarokmányában rögzített magyarországi le- és felrakóhelyére
-
-kerül sor.
-
-(3) Az (1) bekezdés szerinti 20 tonna megengedett össztömeg feletti nehéz tehergépkocsi a tranzitút-hálózatot a pihenőidő eltöltése céljából csak olyan parkolóhelyig hagyhatja el, amelynek megközelítése érdekében lakott területen vezető közutat nem kell igénybe venni.
-
-(4) A közlekedésért felelős miniszter egyedi – az (1) bekezdésben meghatározott tranzitút-hálózattól eltérő úthálózati elemeket is tartalmazó – tranzitútvonalat is megállapíthat a jármű műszaki kialakítására vagy a jármű által szállított rakományra tekintettel.”
+#### 1. §
 
 #### 2. §
 
@@ -61,13 +48,7 @@ kerül sor.
 
 #### 9. §
 
-10. § A közúti közlekedésről szóló 1988. évi I. törvény 48. § (3) bekezdés b) pont 2. alpontja helyébe a következő rendelkezés lép:
-
-(Felhatalmazást kap a miniszter, hogy)
-
-„2. az útügyi igazgatás eljárási szabályait, a közútkezelői hozzájárulás kiadásának feltételeit, a közút nem közlekedési célú igénybevételéért fizetendő díj feltételeiről szóló szabályokat, a tranzitút-hálózat magyarországi szakaszait,”
-
-(rendeletben állapítsa meg.)
+#### 10. §
 
 #### 11. §
 
@@ -147,89 +128,37 @@ kerül sor.
 
 #### 42. §
 
-43. § Hatályát veszti a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 2. melléklet IV. címében foglalt táblázat 13. sora.
+#### 43. §
 
 #### 9. A személyszállítási szolgáltatásokról szóló 2012. évi XLI. törvény módosítása
 
 #### 44. §
 
-45. § A személyszállítási szolgáltatásokról szóló 2012. évi XLI. törvény
-
-- a) 5. § (5) bekezdésében a „Közlekedéstudományi Intézet” szövegrész helyébe a „Közlekedéstudományi és Építésügyi Minőségellenőrző Intézet” szöveg,
-- b)
-- c)
-
-lép.
+#### 45. §
 
 #### 10. Az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló 2013. évi LXVII. törvény módosítása
 
-46. § (1) Az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló 2013. évi LXVII. törvény 2. § 35. pontja helyébe a következő rendelkezés lép:
+#### 46. §
 
-(E törvény alkalmazásában)
+#### 47. §
 
-„35. EETS-terület: az útdíjköteles elemi útszakaszok összessége, valamint az olyan közúti infrastruktúra-elem, amelynek használatáért UD rendszer igénybevételével útdíjat kell fizetni;”
+#### 48. §
 
-(2) Az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló 2013. évi LXVII. törvény 2. § 40. pontja helyébe a következő rendelkezés lép:
+#### 49. §
 
-(E törvény alkalmazásában)
+#### 50. §
 
-„40. útdíj megállapításával összefüggő adatok: az útdíjszedő által meghatározott olyan információk, amelyek egy adott gépjárműre vonatkozó útdíj megállapításához, kivetéséhez, a kivetett útdíj ellenőrzéséhez és beszedéséhez szükségesek;”
+#### 51. §
 
-47. § Az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló 2013. évi LXVII. törvény I. Fejezete a következő 2/A. alcímmel egészül ki:
-
-#### „2/A. Műszaki követelmények
-
-2/A. § A fedélzeti eszköz használatával igénybe vehető elektronikus útdíjszedési rendszer az elektronikus útdíjszedési műveletek végrehajtása céljából a következő technológiákat alkalmazhatja:
-
-- a) műholdas helymeghatározás;
-- b) mobilkommunikáció;
-- c) 5,8 GHz-es mikrohullámú technológia.”
-
-48. § Az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló 2013. évi LXVII. törvény 19. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) Amennyiben a felügyeleti szerv megállapítja, hogy az útdíjszedő gyakorlata, vagy más körülmény miatt az UD rendszer nem felel meg a meghatározott átjárhatósági műszaki és eljárási feltételeknek, egyeztetést kezdeményez az útdíjszedővel, valamint más érintettekkel, és felhívja az útdíjszedőt, hogy legfeljebb hat hónapon belül tegye alkalmassá a rendszert az (EU) 2019/520 európai parlamenti és tanácsi irányelvben meghatározott átjárhatósági műszaki és eljárási követelmények teljesítésére. Amennyiben az útdíjszedő a határidőt elmulasztja, a 20. § (2) bekezdés b) pontja szerinti bírság kiszabása mellett a felügyeleti szerv kötelezi az irányelv szerinti kötelezettségei teljesítésére.”
-
-49. § Az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló 2013. évi LXVII. törvény 26. §-a a következő (8a) bekezdéssel egészül ki:
-
-„(8a) Az EETS-szolgáltató az útdíjszedő felhívásának kézhezvételétől számított 2 napon belül az útdíjszedőnek a Nemzeti Adó- és Vámhivatal felé fennálló kötelezettsége teljesítése céljából átadja az EETS-szolgáltatási szerződés hatálya alá tartozó valamennyi olyan járműre és annak tulajdonosára vagy üzembentartójára vonatkozó, az útdíjszedéshez és útdíjellenőrzéshez szükséges adatot, amelyek egy adott időszakban áthaladtak azon az EETS-területen, ahol az UD rendszert az útdíjszedő működteti. Az útdíjszedő az átadott adatokat kizárólag a Nemzeti Adó- és Vámhivatal felé fennálló kötelezettsége teljesítése céljából kezelheti.”
-
-50. § (1) Az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló 2013. évi LXVII. törvény 28. § (1) bekezdés b) pontja helyébe a következő rendelkezés lép:
-
-(Felhatalmazást kap a Kormány, hogy rendeletben)
-
-„b) jelölje ki a magyar állam nevében az útdíjszedői, egyetemes útdíjszolgáltatói és az útdíjellenőrzés-támogatói feladatok ellátására irányuló szerződést megkötő költségvetési szervet, az útdíjszedőt, az egyetemes útdíjszolgáltatót, valamint az útdíjellenőrzés-támogatói feladatokat ellátó szervezetet;”
-
-(2) Az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló 2013. évi LXVII. törvény 28. § (2) bekezdése a következő g) ponttal egészül ki:
-
-(Felhatalmazást kap a miniszter, hogy)
-
-„g) rendeletben állapítsa meg a bevallási közreműködői tevékenység végzésének részletes feltételeit, valamint az útdíjszolgáltató által a bevallási közreműködőkkel megkötendő szerződés kötelező tartalmi elemeit.”
-
-51. § Az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló 2013. évi LXVII. törvény
-
-- a) 6. § (8a) bekezdésében a „kormányrendeletben” szövegrész helyébe a „miniszteri rendeletben” szöveg,
-- b) 6. § (8b) bekezdésében a „rendeletben” szövegrész helyébe a „miniszteri rendeletben” szöveg,
-- c) 6. § (8c) bekezdésében a „rendeletben” szövegrész helyébe a „miniszteri rendeletben” szöveg,
-- d) 6. § (9) bekezdésében a „kormányrendeletben” szövegrész helyébe a „miniszteri rendeletben” szöveg
-
-lép.
-
-52. § Hatályát veszti az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló 2013. évi LXVII. törvény
-
-- a) 2. § 21. pontjában az „és a lakóautó” szövegrész,
-- b) 6. § (9a) bekezdése,
-- c) 28. § (1) bekezdés p) pontja, valamint
-- d) 28. § (3) bekezdésében az „ , a végső menedékes bevallási közreműködő” szövegrész.
+#### 52. §
 
 #### 11. Az energiahatékonyságról szóló 2015. évi LVII. törvény módosítása
 
-53. § Az energiahatékonyságról szóló 2015. évi LVII. törvény 15. § (2c) bekezdésében az „az ÉMI Nonprofit Kft.” szövegrész helyébe az „a Közlekedéstudományi és Építésügyi Minőségellenőrző Intézet” szöveg lép.
+#### 53. §
 
 #### 12. A Budapest Diákváros megvalósításáról szóló 2021. évi LXXX. törvény módosítása
 
-54. § A Budapest Diákváros megvalósításáról szóló 2021. évi LXXX. törvény 5. §-a a következő (1a) bekezdéssel egészül ki:
-
-„(1a) Az ÉMI Építésügyi Minőségellenőrző Innovációs Nonprofit Korlátolt Felelősség Társaság jogutódja az előkészítői építtetői feladatkörben a Közlekedéstudományi és Építésügyi Minőségellenőrző Intézet.”
+#### 54. §
 
 #### 13. A veszélyhelyzettel összefüggő átmeneti szabályokról szóló 2021. évi XCIX. törvény módosítása
 
@@ -237,7 +166,7 @@ lép.
 
 #### 14. Az egyes állami sportcélú közfeladatok ellátásának rendjéről és szervezeti kereteiről szóló 2022. évi LVII. törvény módosítása
 
-56. § Hatályát veszti az egyes állami sportcélú közfeladatok ellátásának rendjéről és szervezeti kereteiről szóló 2022. évi LVII. törvény 1. melléklet 1. pontjában foglalt táblázat 9. sora.
+#### 56. §
 
 #### 15. Az egyes közlekedési tárgyú törvények módosításáról szóló 2024. évi LXXXI. törvény módosítása
 
@@ -249,7 +178,7 @@ lép.
 
 #### 17. Az egyes sportcélú állami tulajdonú vagyonelemek ingyenes tulajdonba adásáról, valamint egyes kapcsolódó törvények módosításáról szóló 2025. évi XLVI. törvény módosítása
 
-59. § Az egyes sportcélú állami tulajdonú vagyonelemek ingyenes tulajdonba adásáról, valamint egyes kapcsolódó törvények módosításáról szóló 2025. évi XLVI. törvény 1. melléklete a 3. melléklet szerint módosul.
+#### 59. §
 
 #### 18. Az Ukrajna területén fennálló fegyveres konfliktusra tekintettel kihirdetett veszélyhelyzeti rendeletek törvényi szintre emeléséről szóló 2025. évi L. törvény módosítása
 
@@ -257,12 +186,7 @@ lép.
 
 #### 19. A használatidíj-rendszerben és az útdíjrendszerben ellátott közfeladatok biztosításáról és egyes kapcsolódó törvények módosításáról szóló 2025. évi LVI. törvény módosítása
 
-61. § Nem lép hatályba a használatidíj-rendszerben és az útdíjrendszerben ellátott közfeladatok biztosításáról és egyes kapcsolódó törvények módosításáról szóló 2025. évi LVI. törvény
-
-- a) 12. § (12) bekezdése,
-- b) 12. § (14) bekezdése,
-- c) 12. § (17) bekezdése,
-- d) 12. § (18) bekezdés b) pontja.
+#### 61. §
 
 #### 20. Hatályon kívül helyező rendelkezések
 
@@ -302,16 +226,3 @@ végrehajtásához szükséges rendelkezéseket állapítja meg.
 ### 2. melléklet a 2025. évi CXX. törvényhez
 
 ### 3. melléklet a 2025. évi CXX. törvényhez
-
-- 1. Az egyes sportcélú állami tulajdonú vagyonelemek ingyenes tulajdonba adásáról, valamint egyes kapcsolódó törvények módosításáról szóló 2025. évi XLVI. törvény 1. mellékletében foglalt táblázat a következő 43. sorral egészül ki:
-
-|  | (A | B |
-| --- | --- | --- |
-|  | Az ingatlan helyrajzi száma | Tulajdonjogot szerző szervezet) |
-
-„
-
-| 43. | Ráckeve, belterület 54 | Újpesti Torna Egylet |
-| --- | --- | --- |
-
-”

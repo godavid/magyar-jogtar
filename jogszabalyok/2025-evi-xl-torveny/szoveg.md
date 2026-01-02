@@ -46,17 +46,11 @@ energetikai tárgyú törvények módosításáról
 
 #### 12. §
 
-13. § A Vet. 47/B. § (10) bekezdése helyébe a következő rendelkezés lép:
-
-„(10) Az érintett villamosenergia-kereskedők a Vhr.-ben meghatározottak szerint egyeztetnek a hálózati engedélyessel a felhasználó által kezdeményezett kereskedőváltás feltételeiről úgy, hogy a kereskedőváltás az igénybejelentéstől számított legkésőbb 21 napon belül megtörténjen. Az egyeztetéseket az engedélyesek úgy folytatják le, hogy a kereskedőváltás technikai folyamata legfeljebb 24 órán belül megtörténjen és bármely munkanapon végrehajtható legyen.”
+#### 13. §
 
 #### 14. §
 
-15. § A Vet. 56/A. §-a a következő (8) és (9) bekezdéssel egészül ki:
-
-„(8) Az átviteli rendszerirányító és az elosztó a működési területén szolgáltatott villamos energiáról az (EU) 2019/943 európai parlamenti és tanácsi rendelet 2. cikk 65. pontja szerinti ajánlattételi övezetek szerinti bontásban és a piaci elszámolás gyakoriságával azonos, de legfeljebb egyórás időközönként, az e törvény végrehajtására kiadott kormányrendeletben meghatározott elektronikus formában és módon elérhetővé teszi a megújuló villamos energia részarányra és az üvegházhatásúgáz-kibocsátás tartalomra vonatkozó adatokat.
-
-(9) A háztartási és ipari villamosenergia-tároló, valamint az elektromos meghajtású gépjármű villamosenergia-tárolójának tulajdonosa, üzemeltetője és az általuk felhatalmazott harmadik személy jogosult megkülönböztetésmentes feltételek mellett és költségmentesen, közel valós időben hozzáférni a villamosenergia-tároló töltöttségi és üzemi állapotára vonatkozó alapvető adatokhoz. A hozzáférés módjára és az alapvető adatok körére vonatkozó részletes szabályokat az e törvény végrehajtására kiadott kormányrendelet állapítja meg.”
+#### 15. §
 
 #### 16. §
 
@@ -108,10 +102,7 @@ energetikai tárgyú törvények módosításáról
 
 #### 3. A villamos energiáról szóló 2007. évi LXXXVI. törvény módosításáról szóló 2020. évi CLXXVI. törvény módosítása
 
-39. § Nem lép hatályba a villamos energiáról szóló 2007. évi LXXXVI. törvény módosításáról szóló 2020. évi CLXXVI. törvény
-
-- a) 1. § (10) bekezdése,
-- b) 17. § (2) bekezdése.
+#### 39. §
 
 #### 4. Záró rendelkezések
 

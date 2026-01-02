@@ -152,36 +152,11 @@ az online csalások elleni további hatékony fellépés érdekében szükséges
 
 #### 54. §
 
-55. § A Kbt. 73. §-a helyébe a következő rendelkezés lép:
-
-„73. § (1) Az ajánlat vagy a részvételi jelentkezés érvénytelen, ha
-
-- a) azt az ajánlattételi, illetve részvételi határidő lejárta után nyújtották be;
-- b) az ajánlattevőt, részvételre jelentkezőt az eljárásból kizárták;
-- c) az ajánlattevő vagy részvételre jelentkező alvállalkozója, vagy az alkalmasság igazolásában részt vevő szervezet a 62. § (1) bekezdés i), j) vagy o) pontja szerinti kizáró ok miatt kizárásra került és az ajánlattevő vagy részvételre jelentkező nem bizonyította, hogy a kizáró ok fennállásáról nem tudott, vagy arról az adott helyzetben általában elvárható gondosság mellett nem kellett tudomást szereznie, valamint a 62. § (1) bekezdés o) pontja szerinti esetben az előbbieken túl nem bizonyította, hogy a kizáró ok fennállása a részvételre jelentkezést, illetve az ajánlattételt nem befolyásolta;
-- d) az ajánlattevő vagy részvételre jelentkező nem felel meg a szerződés teljesítéséhez szükséges alkalmassági követelményeknek, vagy nem igazolta megfelelően a követelményeknek való megfelelést;
-- e) aránytalanul alacsony ellenszolgáltatást, vagy más teljesíthetetlen feltételt tartalmaz, vagy az erre vonatkozó gyanú megalapozatlanságát az ajánlattevő nem indokolta megfelelően;
-- f) a részvételre jelentkező ajánlatot tesz;
-- g) nem felel meg azoknak a környezetvédelmi, szociális és munkajogi követelményeknek, amelyeket a jogszabályok vagy kötelezően alkalmazandó kollektív szerződés, vagy a 4. mellékletben felsorolt környezetvédelmi, szociális és munkajogi rendelkezések írnak elő;
-- h) azt az ajánlati kötöttség megsértésével az ajánlattevő visszavonta;
-- i) az ajánlattevő az ajánlati biztosítékot határidőre nem vagy az előírt mértéknél kisebb összegben bocsátotta rendelkezésre;
-- j) az ajánlatkérő az eljárást megindító felhívásban előre meghatározott egy olyan értéket (egységárat, ajánlati árat vagy költséget), amelyet meghaladó árat vagy költséget tartalmazó ajánlatot a bírálat során érvénytelenné fog nyilvánítani, és az ajánlat ezen értéket (egységárat, ajánlati árat vagy költséget) meghaladja;
-- k) annak tartalma nem felel meg a műszaki leírásban vagy a szerződéses feltételekben foglalt ajánlatkérői előírásoknak, vagy az ajánlattevő nem igazolta megfelelően az ezeknek való megfelelést;
-- l) az ajánlattevő vagy részvételre jelentkező valamely adatot a 44. § (2) és (3) bekezdésébe ütköző módon minősít üzleti titoknak;
-- m) a 44. § (1) bekezdése szerinti indokolás hiányzik vagy nem megfelelő;
-- n) egyéb módon nem felel meg az ajánlati, ajánlattételi vagy részvételi felhívásban és a közbeszerzési dokumentumokban, valamint a jogszabályokban meghatározott feltételeknek, ide nem értve a részvételi jelentkezés és az ajánlat ajánlatkérő által előírt formai követelményeit.
-
-(2) A Közbeszerzési Hatóság – a foglalkoztatáspolitikáért felelős miniszter által minden évben rendelkezésére bocsátott adatszolgáltatás alapján – tájékoztatást tesz közzé honlapján a Magyarországon egyes ágazatokban alkalmazandó kötelező legkisebb munkabérről.
-
-(3) Az ajánlatkérő a közbeszerzési dokumentumokban tájékoztatásként közli azoknak a szervezeteknek a nevét, amelyektől az ajánlattevő tájékoztatást kaphat az (1) bekezdés g) pontja szerinti azon követelményekről, amelyeknek a teljesítés során meg kell felelni. Az ajánlatkérő az (1) bekezdés g) pontjában foglaltakra tekintettel nem köteles a közbeszerzési eljárásban külön információk feltüntetését előírni az ajánlatban, csak azt ellenőrzi, hogy az ajánlatban feltüntetett információk nem mondanak-e ellent az (1) bekezdés g) pontja szerinti követelményeknek.
-
-(4) Az ajánlatkérő az (1) bekezdés c) pontja szerinti esetben – felvilágosításkérés útján – köteles biztosítani annak lehetőségét, hogy az érintett ajánlattevő vagy részvételre jelentkező bizonyítsa, hogy nem tudott vagy az adott helyzetben általában elvárható gondosság mellett nem kellett tudomást szereznie az alvállalkozója, vagy az alkalmasság igazolásában részt vevő szervezet tekintetében a 62. § (1) bekezdés i), j) vagy o) pontja szerinti kizáró ok megvalósulásáról, valamint, hogy a 62. § (1) bekezdés o) pontja szerinti esetben a kizáró ok fennállása a részvételre jelentkezést, vagy az ajánlattételt nem befolyásolta.”
+#### 55. §
 
 #### 56. §
 
-57. § A Kbt. 117. § (9) bekezdése helyébe a következő rendelkezés lép:
-
-„(9) A (2) bekezdés szerinti önálló eljárási szabályok kialakításakor az ajánlatkérő a 73. § (1) bekezdés a)–d), g)–h) és k)–n) pontja szerinti érvénytelenségi okokat köteles, a 73. § (1) bekezdés e)–f) és i)–j) pontja szerinti okokat jogosult előírni azzal, hogy a 73. § (1) bekezdés c) pontja szerinti érvénytelenségi ok csak az ott felsorolt kizáró ok előírása esetén, a 73. § (1) bekezdés d) pontja szerinti érvénytelenségi ok csak alkalmassági követelmény előírása esetén alkalmazandó. A 75. § (6) bekezdésében foglaltakat a (2) bekezdés szerinti önálló eljárási szabályok kialakításakor alkalmazni kell.”
+#### 57. §
 
 #### 58. §
 
@@ -193,27 +168,7 @@ az online csalások elleni további hatékony fellépés érdekében szükséges
 
 #### 62. §
 
-63. § A Kbt.
-
-- 1.
-- 2. 46. § (2) bekezdésében az „a közbeszerzési eljárás lezárulásától” szövegrész helyébe az „az eljárás eredményéről szóló tájékoztató közzétételétől” szöveg,
-- 3.
-- 4. 62. § (1) bekezdés h) pont ha) alpontjában és 62. § (1) bekezdés j) pont ja) alpontjában a „lezárulásától” szövegrész helyébe az „eredményéről szóló tájékoztató közzétételétől” szöveg,
-- 5. 62. § (1) bekezdés k) pont kb) alpontjában az „a)–b) vagy d) alpontja” szövegrész helyébe az „a)–b), d), e) vagy g) alpontja” szöveg,
-- 6. 63. § (1) bekezdés a) pontjában a „73. § (4) bekezdésében” szövegrész helyébe a „73. § (1) bekezdés g) pontjában” szöveg,
-- 7.
-- 8. 72. § (2) bekezdés e) pontjában és (4) bekezdésében a „73. § (4) bekezdése” szövegrész helyébe a „73. § (1) bekezdés g) pontja” szöveg,
-- 9.
-- 10. 105. § (5) bekezdésében a „73. § (6) bekezdés c) pontja” szövegrész helyébe a „73. § (1) bekezdés j) pontja” szöveg,
-- 11.
-- 12.
-- 13.
-- 14. 126. § (4) bekezdésében a „73. § (1) és (4)–(6) bekezdését” szövegrész helyébe a „73. § (1) bekezdés a)–d) és g)–n) pontját” szöveg és a „73. § (2) és (3) bekezdésében” szövegrész helyébe a „73. § (1) bekezdés e)–f) pontjában” szöveg,
-- 15.
-- 16.
-- 17. 4. melléklet címében a „73. § (4) bekezdésében” szövegrész helyébe a „73. § (1) bekezdés g) pontjában” szöveg
-
-lép.
+#### 63. §
 
 64. § Hatályát veszti a Kbt.
 

@@ -18,7 +18,7 @@ a Szabályozott Tevékenységek Felügyeleti Hatóságáról
 - 8. nemzeti kiberbiztonsági tanúsítással, valamint a kiberbiztonsági felügyelettel,
 - 9. a fenntartható finanszírozás és az egységes vállalati felelősségvállalás ösztönzését szolgáló környezettudatos, társadalmi és szociális szempontokat is figyelembe vevő, vállalati társadalmi felelősségvállalás szabályairól és azzal összefüggő egyéb törvények módosításáról szóló 2023. évi CVIII. törvény (a továbbiakban: ESG törvény) szerinti ESG adatszolgáltatásra kötelezettek hatósági ellenőrzésével, az ESG törvény szerinti felügyelettel, nyilvántartással akkreditálással és szabályozással, az ESG törvény szerinti elektronikus felületek működtetésével, továbbá az ESG törvényben meghatározott egyéb tevékenységeivel,
 - 10. a kriptoeszközök piacáról szóló 2024. évi VII. törvény (a továbbiakban: Kriptotv.) szerinti kriptoeszköz átváltást validáló szolgáltatók (a továbbiakban: kriptoeszköz átváltást validáló szolgáltatók) felügyeletével,
-- 11. a kereskedelemről szóló 2005. évi CXLIV. törvény (a továbbiakban: Kertv.) szerinti befektetési arannyal folytatott tevékenységet – ideértve a bizományosi, a közvetítői, az őrzési, tárolási, szállítási és egyéb kapcsolódó tevékenységet – végző személyek és szervezetek engedélyezésével és ellenőrzésével
+- 11. a kereskedelemről szóló 2005. évi CLXIV. törvény (a továbbiakban: Kertv.) szerinti befektetési arannyal folytatott tevékenységet végző személyek és szervezetek engedélyezésével és ellenőrzésével
 
 kapcsolatos feladatokat ellátó, önálló szabályozó szerv, amely csak jogszabálynak van alárendelve.
 

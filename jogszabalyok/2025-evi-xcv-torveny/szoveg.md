@@ -16,9 +16,7 @@ felsőoktatási, kulturális és kapcsolódó törvények módosításáról
 
 #### 1. A Nemzeti Kulturális Alapról szóló 1993. évi XXIII. törvény módosítása
 
-1. § A Nemzeti Kulturális Alapról szóló 1993. évi XXIII. törvény 4. §-a a következő (5a) bekezdéssel egészül ki:
-
-„(5a) A kincstár az államháztartásért felelős miniszter engedélyével a kincstári egységes számla terhére díj és kamat felszámítása nélkül megelőlegezi az Alap a bevételek és kiadások pénzügyi teljesítése időbeni ütemének eltérése miatt felmerülő finanszírozási igény fedezetét.”
+#### 1. §
 
 #### 2. §
 
@@ -44,20 +42,11 @@ felsőoktatási, kulturális és kapcsolódó törvények módosításáról
 
 #### 6. A mozgóképről szóló 2004. évi II. törvény módosítása
 
-9. § A mozgóképről szóló 2004. évi II. törvény (a továbbiakban: Mktv.) 31/B. §-a a következő (13b) bekezdéssel egészül ki:
+#### 9. §
 
-„(13b) A forgatást a támogatásra való jogosultságot megállapító határozat közlésétől számított 6 hónapon belül meg kell kezdeni, amennyiben ez nem történik meg, a Hatóság ellenőrzési eljárás keretében a támogatásra való jogosultságot megállapító határozatát módosíthatja vagy visszavonhatja. Amennyiben a támogatásra való jogosultságot megállapító határozat közlésétől számított egy naptári éven belül nem történik meg a forgatás megkezdése, abban az esetben a Hatóság ellenőrzési eljárása keretében a határozatát visszavonja.”
+#### 10. §
 
-10. § Az Mktv. V. Fejezet 1. Címe a következő 36/T. §-sal egészül ki:
-
-„36/T. § A felsőoktatási, kulturális és kapcsolódó törvények módosításáról szóló 2025. évi XCV. törvénnyel (a továbbiakban: Módtv6.) módosított 31/B. § (2a) és (13) bekezdését, valamint a Módtv6.-tal megállapított 31/B. § (13b) bekezdését a 2026. január 1-jén folyamatban lévő, támogatásra való jogosultság megállapítására irányuló eljárásokban is alkalmazni kell azzal, hogy a Hatóság a kérelmezőt felhívja a forgatás megkezdésének napjával összefüggésben a Módtv6.-tal megállapított 31/B. § (13b) bekezdésében foglaltak teljesítésére vonatkozó nyilatkozattételre.”
-
-11. § Az Mktv.
-
-- a) 31/B. § (2a) bekezdés nyitó szövegrészében a „kezdetének napját” szövegrész helyébe a „kezdetének napját – a (13b) bekezdésben foglaltakra figyelemmel –” szöveg,
-- b) 31/B. § (13) bekezdésében a „mellett” szövegrész helyébe a „mellett, különösen a (13b) bekezdésben foglaltakra figyelemmel” szöveg
-
-lép.
+#### 11. §
 
 #### 7. A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény módosítása
 
@@ -145,7 +134,7 @@ lép.
 
 #### 37. §
 
-#### 38. §
+38. § Az oktatási nyilvántartásról szóló 2018. évi LXXXIX. törvény 3/A. melléklete az 1. melléklet szerint módosul.
 
 #### 12. A szakképzésről szóló 2019. évi LXXX. törvény módosítása
 
@@ -208,6 +197,18 @@ lép.
 55. § A 14. alcím, az 50. §, a 2. melléklet és a 3. melléklet az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
 
 ### 1. melléklet a 2025. évi XCV. törvényhez
+
+- 1. Az oktatási nyilvántartásról szóló 2018. évi LXXXIX. törvény 3/A. melléklet II. rész 2. pontja a következő e) alponttal egészül ki:
+
+(A képzési és személyi törzs a képzésben részt vevő személy oktatásával, képzésével összefüggésben személyes adatként tartalmazza)
+
+„e) a szakmai vizsga, képesítő vizsga időpontját, helyszínét, eredményét, megnevezését.”
+
+- 2. Az oktatási nyilvántartásról szóló 2018. évi LXXXIX. törvény 3/A. melléklet IV. része helyébe a következő rendelkezés lép:
+
+„IV. Mikrotanúsítványi törzs
+
+1. A mikrotanúsítványok nyilvántartása a felnőttképzésben használt mikrotanúsítvány tartalmáról és kiállításának feltételeiről szóló rendeletben meghatározott adatok tekintetében közhiteles nyilvántartás.”
 
 ### 2. melléklet a 2025. évi XCV. törvényhez
 

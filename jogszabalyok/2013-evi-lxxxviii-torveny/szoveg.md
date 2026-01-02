@@ -1041,6 +1041,8 @@ sarkalatosnak minősül.
 
 (3) Ez a törvény a rendőrségi együttműködés és a büntetőügyekben folytatott igazságügyi együttműködés terén a Schengeni Információs Rendszer (SIS) létrehozásáról, működéséről és használatáról, a 2007/533/IB tanácsi határozat módosításáról és hatályon kívül helyezéséről, valamint az 1986/2006/EK európai parlamenti és tanácsi rendelet és a 2010/261/EU bizottsági határozat hatályon kívül helyezéséről szóló, 2018. november 28-i (EU) 2018/1862 európai parlamenti és tanácsi rendelet 6., 26–47. és 53–55. cikkének végrehajtásához szükséges rendelkezéseket állapít meg.
 
+(4) Ez a törvény a büntetőeljárás során gyanúsított vagy vádlott gyermekek részére nyújtandó eljárási biztosítékokról szóló, 2016. május 11-i (EU) 2016/800 európai parlamenti és tanácsi irányelv végrehajtásához szükséges rendelkezéseket állapít meg.
+
 #### 27. Módosuló jogszabályok
 
 34. § (1)

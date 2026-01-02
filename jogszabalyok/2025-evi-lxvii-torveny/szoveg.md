@@ -42,11 +42,7 @@ Magyarország versenyképességének javítása érdekében egyes törvények m�
 
 #### 2. A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény módosítása
 
-2. § A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 21. §-a a következő y) ponttal egészül ki:
-
-[E törvény felhatalmazása alapján a 17. § (2) bekezdésének b) pontja szerinti adatokat jogosultak igényelni:]
-
-„y) a családi állapotra, a házasságkötés vagy bejegyzett élettársi kapcsolat létesítésének helyére, valamint a nyilvántartásból való – az elhalálozáson kívüli – kikerülés okára és idejére vonatkozó adatok kivételével az egészségügyi szolgáltató az Elektronikus Egészségügyi Szolgáltatási Tér útján az egészségügyi szolgáltatást igénybe vevő polgár azonosításához és törvényben meghatározott feladatai ellátásához;”
+#### 2. §
 
 #### 3. Az Önkéntes Kölcsönös Biztosító Pénztárakról szóló 1993. évi XCVI. törvény módosítása
 
@@ -80,9 +76,7 @@ Magyarország versenyképességének javítása érdekében egyes törvények m�
 
 #### 7. A személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény módosítása
 
-14. § A személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény 10/C. §-a a következő (6) bekezdéssel egészül ki:
-
-„(6) Az Elektronikus Egészségügyi Szolgáltatási Térhez csatlakozott egészségügyi szolgáltató az (1)–(5) bekezdés szerinti szolgáltatást az Elektronikus Egészségügyi Szolgáltatási Tér útján éri el.”
+#### 14. §
 
 #### 8. A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény módosítása
 
@@ -98,121 +92,17 @@ Magyarország versenyképességének javítása érdekében egyes törvények m�
 
 #### 19. §
 
-20. § Az Eüak. 20. §-a a következő (7)–(10) bekezdéssel egészül ki:
-
-„(7) Az egészségügyi ellátóhálózat szereplője, az EESZT működtetője a Központi Statisztikai Hivatal részére hivatalos statisztikai tevékenysége ellátásához, az ahhoz szükséges mértékben a Központi Statisztikai Hivatal által meghatározott, az ellátóhálózat, az EESZT működtetője által kezelt egészségügyi adatokat a Központi Statisztikai Hivatal által meghatározott paraméterek szerint álnevesíti és átadja.
-
-(8) Ha a (7) bekezdésben meghatározott paraméterek okán vagy más okból az adatok egyéb adatkezelő, vagy a Központi Statisztikai Hivatal saját kezelésében lévő adatbázisokkal való összekapcsolása indokolt, az adatátadást a nemzeti adatvagyon hasznosításának rendszeréről és az egyes szolgáltatásokról szóló 2023. évi CI. törvény (a továbbiakban: Nahtv.) szerinti adat-összekapcsolási szolgáltatás szabályai szerint kell végrehajtani.
-
-(9) A (7) és (8) bekezdés szerinti adatátadás, adatok álnevesítése, adat-összekapcsolás – ideértve a kulcsszolgáltató tevékenységét – térítésmentes.
-
-(10) A (7) és (8) bekezdés szerinti adatátadás feltételeiről a Központi Statisztikai Hivatal és az egészségügyi ellátóhálózat szereplője, illetve az EESZT működtetője a hivatalos statisztikáról szóló 2016. évi CLV. törvény szerint megállapodást köt.”
+#### 20. §
 
 #### 21. §
 
-22. § Az Eüak. 35/O. §-a a következő (7)–(10) bekezdéssel egészül ki:
+#### 22. §
 
-„(7) Az EESZT működtetője – az EESZT üzemeltetője honlapján közzétett szolgáltatási körben – közfinanszírozott egészségügyi ellátásokhoz informatikai megoldásra épülő orvosi és gyógyszerészi döntéstámogatási rendszert biztosíthat.
+#### 23. §
 
-(8) A (7) bekezdés szerinti döntéstámogatást az EESZT működtetője a megkereső egészségügyi szolgáltató által a döntéstámogatási rendszerbe beküldött, a beteg egészségügyi adatai alapján biztosítja. A döntéstámogatás során – az egészségügyi diagnózist támogató javaslat teljes körű felállítása érdekében – az EESZT működtetője a betegnek egyéb, az EESZT-ben tárolt és a döntéstámogatáshoz szükséges adatait is felhasználhatja azzal, hogy a felhasználás kizárólag automatikusan, emberi közbeavatkozás nélkül valósulhat meg.
+#### 24. §
 
-(9) Az EESZT működtetője a beteg (8) bekezdés szerinti adatait és a döntéstámogatási javaslatban foglalt adatokat a döntéstámogatási javaslatnak a megkereső egészségügyi szolgáltató részére történő továbbításáig kezeli.
-
-(10) Az EESZT működtetője kizárólag olyan döntéstámogatási rendszert biztosít, amely
-
-- a) garantálja a kezelt adatok, információk és a rendszer által nyújtott vagy azon keresztül elérhető szolgáltatások bizalmasságát, sértetlenségét és rendelkezésre állását, valamint a rendszer elemeinek sértetlenségét és rendelkezésre állását, és
-- b) összhangban áll a kiberbiztonsági követelményekkel.”
-
-23. § Az Eüak. a következő III/D. Fejezettel egészül ki:
-
-### „III/D. Fejezet — AZ EGÉSZSÉGÜGYI ADATVAGYON-HASZNOSÍTÁS
-
-35/W. § (1) A nemzeti adatvagyonnak az egészségügyi ellátóhálózat, az EESZT és az egészségbiztosítási szerv által kezelt adatainak a Nahtv. szerinti további felhasználása (a továbbiakban: egészségügyi adatvagyon-hasznosítás) során a Nahtv.-ben és végrehajtási rendeletében, valamint az e fejezetben és e törvény végrehajtására kiadott rendeletben foglaltak szerint kell eljárni.
-
-(2) Az egészségügyi adatvagyon-hasznosítás során az Egészségügyi Adathasznosítást Támogató Testület feladata a különféle ágazati és piaci érdekek felmérése, az egészségügyi adatvagyon-hasznosítással kapcsolatos javaslatok megfogalmazása, és szakmai tanácsadás az ágazati illetékes szerv felé. Az Egészségügyi Adathasznosítást Támogató Testület tagjait és feladatainak részletszabályait a Kormány rendeletben határozza meg.
-
-(3) Az egészségügyi adatvagyon-hasznosítás iránti igényt a Nahtv. szerinti ágazati illetékes szerv (a továbbiakban: ágazati illetékes szerv) bírálja el. Az ágazati illetékes szerv feladatait, az igény benyújtásának és elbírálásának részletszabályait a Kormány rendelete határozza meg.
-
-(4) A (3) bekezdésben foglaltakon túl az ágazati illetékes szerv ellátja az európai egészségügyi adattérről, valamint a 2011/24/EU irányelv és az (EU) 2034/2847 rendelet módosításáról szóló, 2025. február 11-i, 2025/327 (EU) európai parlamenti és tanácsi rendelet szerinti digitális egészségügyi hatóság, az egészségügyi adatokhoz való hozzáférés tekintetében illetékes szerv és az egészségügyi adatok másodlagos felhasználását szolgáló nemzeti kapcsolattartó pont szerinti feladatokat. Az ágazati illetékes szerv ezen feladataihoz kapcsolódó részletszabályokat a Kormány rendelete határozza meg.
-
-(5) Az EESZT működtetője közreműködik az egészségügyi adatvagyon-hasznosítás során az EESZT-ben tárolt adatoknak a további felhasználás jogosultja számára – az ágazati illetékes szerv által megadott paraméterek szerint – történő összegyűjtésében, anonimizálásában, álnevesítésében.
-
-(6) Az EESZT működtetője a 35/X. § (2) bekezdése szerinti biztonságos feldolgozási környezetre és kapcsolt szolgáltatásokra vonatkozóan a Kormány rendeletében meghatározott egyes
-
-- a) feltételek kialakítását,
-- b) informatikai feladatokat
-
-– ideértve az a) és b) pontokhoz kapcsolódó beruházási feladatokat is – hirdetménnyel induló, a közbeszerzésekről szóló 2015. évi CXLIII. törvény (a továbbiakban: Kbt.) szerint lefolytatott eljárás alapján az eljárás nyertesével (a továbbiakban: működtetésben közreműködő) a Kbt. szerint megkötött szerződés útján is biztosíthatja.
-
-(7) Az állam nevében a Kbt. szerinti eljárás lefolytatására, az eljárás nyertesével a Kbt. szerinti szerződés megkötésére, valamint e szerződés módosítására és megszüntetésére az egyes beszerzési eljárások tekintetében a Kormány rendeletében kijelölt miniszter jogosult.
-
-(8) A (6) bekezdés szerinti szerződésben előírható, hogy ha a Kbt. szerinti szerződés megkötését követően e törvény rendelkezéseinek, valamint az ágazati szabályozás megváltozása következtében a Kbt. szerinti szerződés változatlan feltételek melletti teljesítése a működtetésben közreműködő számára gazdasági hátrányt vagy jogi érdeksérelmet okoz vagy okozna, és e törvény rendelkezéseinek, valamint az ágazati szabályozás megváltozásának lehetősége a Kbt. szerinti szerződés megkötésének időpontjában a Kbt. szerinti eljárás nyertese számára nem volt előrelátható, a működtetésben közreműködő választása szerint
-
-- a) a Kbt. szerinti szerződést legalább három hónapos felmondási idő mellett felmondhatja,
-- b) a Kbt. szerinti szerződés bírósági módosítása útján a (6) bekezdés szerinti szolgáltatás nyújtásáért fizetendő díj arányos csökkentését kérheti, vagy
-- c) az elszenvedett gazdasági hátránnyal vagy jogi érdeksérelemmel arányos egyösszegű vagy részletekben teljesítendő pénzbeli kompenzációra tarthat igényt.
-
-(9) A (8) bekezdés alkalmazásában ágazati szabályozásnak minősül az állam és az Európai Unió által alkotott, az egészségügyi adatvagyon-hasznosításra vonatkozó olyan jogszabály és jogi tartalmú szabályozás, amely a 35/X. § (2) bekezdése szerinti biztonságos feldolgozási környezet működtetése feltételeit meghatározza.
-
-(10) A működtetésben közreműködő feladatainak részletes szabályait a Kormány rendeletben határozza meg.
-
-35/X. § (1) Az ágazati illetékes szerv az egészségügyi adatvagyon-hasznosítás céljából kérelemre – ha a (2) bekezdés szerinti biztonságos feldolgozási környezet rendelkezésre áll – hozzáférést engedélyezhet az EESZT-ben tárolt adatokhoz a (2)–(4) bekezdésben foglaltak szerint.
-
-(2) Az egészségügyi adatvagyon-hasznosítás esetén a szükséges adatelemzés kizárólag biztonságos feldolgozási környezetben valósítható meg. A biztonságos feldolgozási környezet
-
-- a) a hozzáférést a vonatkozó engedélyben felsorolt, felhatalmazott természetes személyekre korlátozza,
-- b) a legkorszerűbb technikai és szervezési intézkedésekkel minimalizálja a biztonságos feldolgozási környezetben tárolt elektronikus egészségügyi adatok jogosulatlan olvasásának, másolásának, módosításának vagy eltávolításának kockázatát,
-- c) a biztonságos feldolgozási környezetben tárolt elektronikus egészségügyi adatok bevitelét és az elektronikus egészségügyi adatok megtekintését, módosítását vagy törlését korlátozott számú, arra jogosult azonosítható személyre korlátozza,
-- d) biztosítja, hogy az egészségügyi adatok felhasználói csak az engedélyben szereplő egészségügyi adatokhoz férjenek hozzá, kizárólag egyéni és egyedi felhasználói azonosítók és bizalmas hozzáférési módok segítségével,
-- e) naplózza a biztonságos feldolgozási környezethez való hozzáférést és a biztonságos feldolgozási környezetben végzett tevékenységeket, amely bejegyzéseket egy évig őriz meg.
-
-(3) A biztonságos feldolgozási környezetben az EESZT-ben tárolt adatokhoz történő hozzáférés kizárólag anonimizált adatokhoz és annak engedélyezhető, aki
-
-- a) biztosítja, hogy az egészségügyi adatvagyon-hasznosítás során megismert adatok kizárólag a kérelemben megjelölt adatvagyon-hasznosítási célra kerülnek felhasználásra,
-- b) garantálja, hogy az egészségügyi adatvagyon-hasznosítás kizárólag anonimizált adatokkal történik,
-- c) megfelelő biztosítékokat nyújt az adatoknak az engedélyben meghatározottól eltérő célra és körben történő felhasználásának megakadályozására, valamint a természetes személyek jogai és érdekei védelme érdekében,
-- d) az egészségügyi adatvagyon-hasznosítás előtt adatvédelmi hatásvizsgálatot folytat le.
-
-(4) A (3) bekezdés b) pontjában foglaltaktól eltérően az egészségügyi adatvagyon-hasznosítás álnevesített adatokkal is történhet, ha
-
-- a) az adatvagyon-hasznosítás célja más módon nem vagy csak aránytalan időveszteséggel és költséggel érhető el,
-- b) az adatvagyon-hasznosító garantálja, hogy úgy jár el, hogy az álnevesített adatok a személy azonosítására alkalmatlanok legyenek és biztosítja, hogy az álnevesített adatot a biztonságos feldolgozási környezeten kívül nem kezeli.
-
-(5) Egészségügyi adatvagyon-hasznosítás során az ágazati illetékes szerv az egészségügyi adatvagyon-hasznosítás iránti igényt elutasítja, ha alaposan vélelmezhető, hogy
-
-- a) az engedélykérő olyan technológiát használ, amely alapján – akár a korábban kapott, hozzáférést engedélyezett adatokkal – a személytelenített adatokból személyes adatokra tud következtetést levonni,
-- b) az engedélykérő a részére hozzáférhetővé tett adatokból olyan következtetést tud levonni, amely miatt a teljesítés Magyarország nemzetbiztonsági, honvédelmi, rendvédelmi érdekeit sérti vagy veszélyezteti.
-
-(6) Az (5) bekezdés szerinti körülmények fennállása vizsgálata érdekében az ágazati illetékes szerv a Kormány rendeletében meghatározott szerv véleményét kikéri.”
-
-24. § Az Eüak. a következő 37/A. §-sal egészül ki:
-
-„37/A. § A Magyarország versenyképességének javítása érdekében egyes törvények módosításáról szóló 2025. évi LXVII. törvénnyel megállapított 20. § (7)–(10) bekezdésében és III/D. Fejezetében foglaltakat a Kormány rendeletében meghatározott időponttól kell alkalmazni.”
-
-25. § (1)
-
-(2) Az Eüak. 38. §-a a következő (3d)–(3f) bekezdéssel egészül ki:
-
-„(3d) Felhatalmazást kap a Kormány, hogy
-
-- a) az egészségügyi adatvagyon-hasznosítás során eljáró, az adatkormányzási rendelet szerinti ágazati illetékes szerv feladatait,
-- b) az egészségügyi adatvagyon-hasznosításra irányuló kérelem benyújtásának és elbírálásának részletszabályait,
-- c) a működtetésben közreműködő részére átadható feladatokat és a feladatai részletes szabályait,
-- d) a 35/W. § (7) bekezdése szerinti miniszter kijelölését,
-- e) az Egészségügyi Adathasznosítást Támogató Testület tagjait és feladatainak részletszabályait
-
-rendeletben határozza meg.
-
-(3e) Felhatalmazást kap a Kormány, hogy az európai egészségügyi adattérről szóló rendelet szerinti
-
-- a) digitális egészségügyi hatóságot,
-- b) digitális egészségügyért felelős nemzeti kapcsolattartó pontot,
-- c) egészségügyi adatokhoz való hozzáférés tekintetében illetékes szervet,
-- d) elektronikus egészségügyi adatok másodlagos felhasználását szolgáló nemzeti kapcsolattartó pontot
-
-rendeletben jelölje ki.
-
-(3f) Felhatalmazást kap a Kormány, hogy a 37/A. § szerinti rendelkezések alkalmazásának kezdő időpontját rendeletben határozza meg.”
+#### 25. §
 
 #### 26. §
 
@@ -578,11 +468,7 @@ rendeletben jelölje ki.
 
 #### 173. §
 
-174. § A Turizmus törvény 9/M. §-a a következő (5) és (6) bekezdéssel egészül ki:
-
-„(5) A KTH Zrt. (1) bekezdés szerinti bevont forrásai együttes állományának felső határát a Magyarország központi költségvetéséről szóló törvényben meg kell határozni. Devizában történő forrásbevonás esetén az állomány értékét a szerződéskötés napján a Magyar Nemzeti Bank által közzétett hivatalos devizaárfolyamon forintra átszámított értékén kell meghatározni.
-
-(6) Az (5) bekezdésben meghatározott állomány együttes összege az év egyetlen napján sem haladhatja meg a Magyarország központi költségvetéséről szóló törvényben felső határként meghatározott összeget.”
+#### 174. §
 
 175. § (1)
 
@@ -592,20 +478,7 @@ rendeletben jelölje ki.
 
 (4)
 
-176. § A Turizmus törvény
-
-- a) 9/A. §-ában a „könnyítése és adatelemzés,” szövegrész helyébe a „könnyítése, adóbevallás-tervezet összeállításának előkészítése és adatelemzés,” szöveg,
-- b)
-- c)
-- d)
-- e)
-- f)
-- g)
-- h)
-- i)
-- j)
-
-lép.
+#### 176. §
 
 #### 43. Az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló 2017. évi LII. törvény módosítása
 
@@ -675,7 +548,7 @@ lép.
 
 #### 49. A Polgári Törvénykönyvről szóló 2013. évi V. törvény módosításáról szóló 2021. évi XCV. törvény módosítása
 
-204. § Nem lép hatályba a Polgári Törvénykönyvről szóló 2013. évi V. törvény módosításáról szóló 2021. évi XCV. törvény 1. §-a, 4–6. §-a, 10. §-a, 28. §-a, 29. §-a, 47. § 2. és 3. pontja.
+#### 204. §
 
 #### 50. Az ingatlan-nyilvántartásról szóló 2021. évi C. törvény módosítása
 
@@ -721,7 +594,7 @@ lép.
 
 #### 52. Igazságügyi tárgyú törvények módosításáról szóló 2023. évi XXXI. törvény módosítása
 
-224. § Hatályát veszti az igazságügyi tárgyú törvények módosításáról szóló 2023. évi XXXI. törvény 171. §-a.
+#### 224. §
 
 #### 53. A nemzeti adatvagyon hasznosításának rendszeréről és az egyes szolgáltatásokról szóló 2023. CI. törvény módosítása
 
@@ -741,9 +614,7 @@ lép.
 
 #### 232. §
 
-233. § A Nahtv. 29. § (3) bekezdése a következő szöveggel lép hatályba:
-
-„(3) A Nemzeti Adatplatform szolgáltatást kizárólag a NAVÜ nyújtja.”
+#### 233. §
 
 234. § A Nahtv. 30. § (2) bekezdés c) pontja helyébe a következő rendelkezés lép:
 
@@ -825,7 +696,7 @@ lép.
 
 #### 58. Hatályba nem lépésről szóló rendelkezések
 
-262. § Nem lép hatályba a jogi személyek nyilvántartásáról és a nyilvántartási eljárásról szóló 2021. évi XCII. törvény.
+#### 262. §
 
 #### 59. Záró rendelkezések
 

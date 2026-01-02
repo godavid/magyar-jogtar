@@ -16,11 +16,7 @@ egyes törvényeknek a szőlő- és bortermelők adminisztrációs terheinek cs�
 
 #### 1. A termőföld védelméről szóló 2007. évi CXXIX. törvény módosítása
 
-1. § A termőföld védelméről szóló 2007. évi CXXIX. törvény 50. § (2) bekezdés c) pontja helyébe a következő rendelkezés lép:
-
-(A talajvédelmi hatóság eljárásához az alábbi esetekben a külön jogszabály szerinti talajvédelmi terv szükséges:)
-
-„c) az 1500 m2-t meg nem haladó szőlőültetvény telepítése kivételével az ültetvénytelepítéshez, beleértve az 59. § (1) bekezdésében meghatározott ültetvények esetében a termőföldnek nem minősülő ingatlanon való telepítést is,”
+#### 1. §
 
 #### 2.
 
@@ -28,41 +24,15 @@ egyes törvényeknek a szőlő- és bortermelők adminisztrációs terheinek cs�
 
 #### 3. A szőlészetről és borászatról szóló 2020. évi CLXIII. törvény módosítása
 
-3. § (1) A szőlészetről és borászatról szóló 2020. évi CLXIII. törvény (a továbbiakban: Btv.) 9. § (2) bekezdés a) pontja helyébe a következő rendelkezés lép:
-
-[Nem kell alkalmazni az (1) bekezdés]
-
-„a) b)–d) pontját a Magyarország területéről
-
-aa) kiszállított szőlőmust, sűrített szőlőmust és finomított szőlőmustsűrítmény, valamint
-
-ab) további feldolgozás, illetve kiszerelés céljából kiszállított, majd annak elvégzését követően visszaszállított borászati termék;”
-
-[tekintetében.]
-
-(2) A Btv. 9. §-a a következő (2b) bekezdéssel egészül ki:
-
-„(2b) A Magyarország területéről a (2) bekezdés a) pont ab) alpontja szerint további feldolgozás, illetve kiszerelés céljából kiszállított borászati terméket a művelet elvégzésétől számított 7 napon belül vissza kell szállítani abba a borászati üzembe, ahonnan eredetileg elszállították.”
+#### 3. §
 
 #### 4. §
 
-5. § A Btv. 18. §-a a következő (7a) bekezdéssel egészül ki:
+#### 5. §
 
-„(7a) A HNT az általa a Hktv. alapján működtetett informatikai rendszer adataiból automatikus információátadással rendszeresen biztosítja az ePincekönyv rendszer és a FELIR számára a hatósági eljárásokhoz és az ePincekönyv rendszer működéséhez szükséges, a hegyközségi névjegyzékben szereplő természetes személy hegyközségi tagok és nyilvántartott adatszolgáltatók következő adatait:
+#### 6. §
 
-- a) a természetes személy természetes személyazonosító adatait, lakcímét, telephelyét, adóazonosító jelét, valamint
-- b) az egyéni vállalkozó természetes személy nevét, székhelyét és adószámát.”
-
-6. § A Btv.
-
-- a) 2. § (4) bekezdés nyitó szövegrészében a „hegyközség hozzájárulása” szövegrész helyébe a „hegyközség illetékességi területén belül a hegyközség, a hegyközség illetékességi területen kívül a Hegyközségek Nemzeti Tanácsának (a továbbiakban: HNT) hozzájárulása” szöveg,
-- b) 4. § (4) bekezdésében a „Hegyközségek Nemzeti Tanácsa (a továbbiakban: HNT)” szövegrész helyébe a „HNT” szöveg,
-- c) 13. § (1) bekezdés nyitó szövegrészében az „a miniszter” szövegrész helyébe az „az agrárpolitikáért felelős miniszter (a továbbiakban: miniszter)” szöveg,
-- d) 18. § (5) bekezdésében az „a hegybíró” szövegrész helyébe az „a tevékenység végzése szerint illetékes hegyközségi szervezet, a hegybíró” szöveg
-
-lép.
-
-7. § Hatályát veszti a Btv. 5. § (4) bekezdésében a „használója vagy” szövegrész.
+#### 7. §
 
 #### 4. Záró rendelkezések
 

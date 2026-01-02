@@ -2374,7 +2374,7 @@ részben vagy egészben elengedheti, ha a kötelezett igazolja, hogy a tanulmán
 
 #### 127. §
 
-128. § Hatályát veszti az 54. § (2) bekezdés c) pontja.
+#### 128. §
 
 ### 1. melléklet a 2022. évi XXI. törvényhez
 

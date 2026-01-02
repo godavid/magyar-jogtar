@@ -110,34 +110,9 @@ Magyarország 2026. évi központi költségvetésének megalapozásáról
 
 #### 30. §
 
-31. § (1) A sportról szóló 2004. évi I. törvény 59. §-a a következő (6e) bekezdéssel egészül ki:
+#### 31. §
 
-„(6e) Élete végéig járadékra jogosult az edző halálának időpontját követő hónaptól kezdődően annak özvegye, ha magyar állampolgár és az edzővel annak házastársaként
-
-- a) az edző halála időpontjában és legalább az azt megelőző tizenöt évben, vagy
-- b) az edző járadékát megalapozó érmesi helyezés megszerzését megelőző legalább 5 évben és azt követően az edző halálának időpontjáig
-
-megszakítás nélkül közös háztartásban élt.”
-
-(2) A sportról szóló 2004. évi I. törvény 59. § (7) bekezdése helyébe a következő rendelkezés lép:
-
-„(7) Megszűnik az érmes, az edző és az özvegy járadékra való jogosultsága, ha az érmes a járadékra jogosító helyezését elveszíti. A helyezés elveszítését az érmes vagy az illetékes sportszövetség a tudomásszerzéstől számított nyolc napon belül bejelenti a sportpolitikáért felelős miniszternek. A járadékra való jogosultság megszűnését a sportpolitikáért felelős miniszter közigazgatási hatósági eljárás keretében állapítja meg.”
-
-(3) A sportról szóló 2004. évi I. törvény 60. § (4a) bekezdése helyébe a következő rendelkezés lép:
-
-„(4a) Az edző özvegye az edző járadéka harminc százalékának megfelelő összegű özvegyi járadékra jogosult. Az edző özvegye az edző járadéka hatvan százalékának megfelelő összegű járadékra jogosult közös, kiskorú gyermekük nagykorúvá válásáig.”
-
-(4) A sportról szóló 2004. évi I. törvény 60. §-a a következő (4b) bekezdéssel egészül ki:
-
-„(4b) A sportpolitikáért felelős miniszter a járadékra való jogosultságot és a járadék folyósítását a jövőre nézve hivatalból megszünteti, ha megállapítja, hogy a járadékra való jogosultság nem jogszabályszerűen került megállapításra, vagy a jogosultsági feltételeknek való megfelelés a járadékra való jogosultság megállapítását követően megszűnt.”
-
-(5) A sportról szóló 2004. évi I. törvény 60. §-a a következő (6a) bekezdéssel egészül ki:
-
-„(6a) Azt a személyt, aki érmes és edző özvegyeként egyaránt özvegyi járadékra jogosult, a járadék halmozottan is megilleti.”
-
-32. § A sportról szóló 2004. évi I. törvény „Hatályba léptető és átmeneti rendelkezések” alcíme a következő 78/X. §-sal egészül ki:
-
-„78/X. § E törvénynek a Magyarország 2026. évi központi költségvetésének megalapozásáról szóló 2025. évi LI. törvénnyel megállapított 59. § (6e) és (7) bekezdését, 60. § (4a) és (6a) bekezdését e rendelkezések hatálybalépését megelőzően elért helyezés után megállapított edzői jogosultság tekintetében is alkalmazni kell azzal, hogy az edzői özvegyi járadék e § szerinti megállapítására a jogosult kérelme alapján kerül sor.”
+#### 32. §
 
 #### 33. §
 
@@ -241,7 +216,7 @@ megszakítás nélkül közös háztartásban élt.”
 
 #### 18. A megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény módosítása
 
-71. § A megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény 22/A. § (1) bekezdésében a „23. életévének” szövegrész helyébe a „26. életévének” szöveg lép.
+#### 71. §
 
 #### 19. Az államháztartásról szóló 2011. évi CXCV. törvény módosítása
 
@@ -267,11 +242,7 @@ megszakítás nélkül közös háztartásban élt.”
 
 #### 82. §
 
-83. § Hatályát veszti az államháztartásról szóló 2011. évi CXCV. törvény
-
-- 1. 21. § (6) és (7) bekezdése,
-- 2. 36. § (4e)–(4i) bekezdése, és
-- 3. 37. § (1a) bekezdése.
+#### 83. §
 
 #### 20. A nemzeti vagyonról szóló 2011. évi CXCVI. törvény módosítása
 

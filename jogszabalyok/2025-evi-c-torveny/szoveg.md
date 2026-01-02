@@ -68,25 +68,7 @@ a pénzügyi közvetítőrendszert érintő törvények módosításáról
 
 #### 6. A jelzálog-hitelintézetről és a jelzáloglevélről szóló 1997. évi XXX. törvény módosítása
 
-18. § (1) A jelzálog-hitelintézetről és a jelzáloglevélről szóló 1997. évi XXX. törvény (a továbbiakban Jht.) 3. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Jelzálog-hitelintézet kizárólag az alábbi pénzügyi szolgáltatási, befektetési szolgáltatási, illetve kiegészítő befektetési szolgáltatási tevékenységeket végezheti:
-
-- a) visszafizetendő pénzeszköz nyilvánosságtól történő elfogadása, ide nem értve a betét gyűjtését;
-- b) pénzkölcsön nyújtása Magyarország vagy másik EGT-állam területén lévő ingatlanon alapított jelzálogjog fedezete mellett (a továbbiakban: jelzáloghitel);
-- c) jelzálogjog kikötése nélküli kölcsönök nyújtása állami készfizető kezességvállalás esetén;
-- d) pénzkölcsön nyújtása Magyarország területén lévő ingatlanon alapított társasházi építményi jogon alapított zálogjog fedezete mellett (a továbbiakban: építményi hitel);
-- e) kezesség és garancia vállalása, valamint egyéb bankári kötelezettség vállalása (a továbbiakban együtt: bankári kötelezettség);
-- f) letéti szolgáltatás;
-- g) saját kibocsátású értékpapírhoz kapcsolódóan értékpapír-letétkezelés és az ehhez kapcsolódó szolgáltatás;
-- h) saját kibocsátású értékpapírhoz kapcsolódóan értékpapír letéti őrzés;
-- i) saját kibocsátású értékpapírhoz kapcsolódóan értékpapír-számla vezetés;
-- j) saját kibocsátású értékpapírhoz kapcsolódóan ügyfélszámla vezetés;
-- k) saját kibocsátású jelzáloglevél, kötvény, továbbá letéti jegy forgalomba hozatalának szervezése és az ehhez kapcsolódó szolgáltatás nyújtása.”
-
-(2) A Jht. 3. §-a a következő (4) bekezdéssel egészül ki:
-
-„(4) Az építményi hitel nyújtása során a jelzálog-hitelintézet jogosult kiegészítő fedezetként óvadék kikötésére. Amennyiben az építményi hitel fedezetéül szolgáló, a társasházi építményi jogot terhelő zálogjog helyébe ingatlanon alapított jelzálogjog lép, a jelzálogjog bejegyzésével egyidejűleg az építményi hitel jelzáloghitelnek minősül.”
+#### 18. §
 
 #### 19. §
 
@@ -96,25 +78,11 @@ a pénzügyi közvetítőrendszert érintő törvények módosításáról
 
 #### 7. A számvitelről szóló 2000. évi C. törvény módosítása
 
-22. § A számvitelről szóló 2000. évi C. törvény (a továbbiakban: Szt.) IX. Fejezete a következő 154/C. §-sal egészül ki:
+#### 22. §
 
-„154/C. § (1) A 95/E. § (1) bekezdésének vagy a 134/I. § (1) bekezdésének hatálya alá tartozó vállalkozó az éves beszámolónak, az összevont (konszolidált) éves beszámolónak, az IFRS-ek szerinti éves beszámolónak, az IFRS-ek szerinti összevont (konszolidált) éves beszámolónak, a könyvvizsgálói jelentésnek, a fenntarthatósági jelentésnek, az összevont (konszolidált) fenntarthatósági jelentésnek, a bizonyossági véleménynek (a bizonyossági jelentésnek) és adott esetben a nyilatkozatnak, a kormányok részére fizetett összegekről szóló jelentésnek, valamint a kormányok részére fizetett összegekről szóló összevont jelentésnek a közzétételével egyidejűleg teljesíti az (EU) 2023/2859 európai parlamenti és tanácsi rendelet (a továbbiakban: ESAP rendelet) 2. cikk 2. pontjában meghatározott gyűjtőszervezetnek történő benyújtási kötelezettségét, az információknak az egységes európai hozzáférési ponton való hozzáférhetővé tétele céljából.
+#### 23. §
 
-(2) Az (1) bekezdésben említett információknak az egységes európai hozzáférési ponton való hozzáférhetővé tétele céljából gyűjtőszervezetként a céginformációs szolgálat jár el az ESAP rendelet előírásainak alkalmazásával.”
-
-23. § (1) Az Szt. 175. § (2) bekezdése a következő k) ponttal egészül ki:
-
-(E törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:)
-
-„k) az egyes irányelveknek az egységes európai hozzáférési pont létrehozása és működése tekintetében történő módosításáról szóló, 2023. december 13-ai (EU) 2023/2864 európai parlamenti és tanácsi irányelv.”
-
-(2) Az Szt. 175. §-a a következő (4) bekezdéssel egészül ki:
-
-„(4) E törvény a pénzügyi szolgáltatások, a tőkepiacok és a fenntarthatóság szempontjából lényeges, nyilvánosan elérhető információkhoz központosított hozzáférést biztosító egységes európai hozzáférési pont létrehozásáról szóló, 2023. december 13-ai (EU) 2023/2859 európai parlamenti és tanácsi rendeletének végrehajtásához szükséges rendelkezéseket állapít meg.”
-
-24. § Az Szt. 177. §-a a következő (116) bekezdéssel egészül ki:
-
-„(116) A pénzügyi közvetítőrendszert érintő törvények módosításáról szóló 2025. évi C. törvénnyel megállapított 154/C. § (1) bekezdése szerinti információknak az egységes európai hozzáférési ponton való hozzáférhetőségét 2028. január 10-étől kell biztosítani.”
+#### 24. §
 
 #### 8. A tőkepiacról szóló 2001. évi CXX. törvény módosítása
 
@@ -173,29 +141,13 @@ lép.
 
 #### 11. A Magyar Könyvvizsgálói Kamaráról, a könyvvizsgálói tevékenységről, valamint a könyvvizsgálói közfelügyeletről szóló 2007. évi LXXV. törvény módosítása
 
-40. § A Magyar Könyvvizsgálói Kamaráról, a könyvvizsgálói tevékenységről, valamint a könyvvizsgálói közfelügyeletről szóló 2007. évi LXXV. törvény (a továbbiakban: Kkt.) 4. §-a a következő (9) bekezdéssel egészül ki:
+#### 40. §
 
-„(9) A 33. § (4) bekezdése, a 44. § (3) bekezdése, a 70. § (2) bekezdése és a 72. § (2) bekezdése szerinti adatoknak, valamint a 158. § (1) bekezdése szerinti információknak az egységes európai hozzáférési ponton való hozzáférhetővé tétele céljából az (EU) 2023/2859 európai parlamenti és tanácsi rendelet (a továbbiakban: ESAP rendelet) szerinti gyűjtőszervezetként a kamara jár el az ESAP rendelet előírásainak alkalmazásával.”
+#### 41. §
 
-41. § A Kkt. 9/E. §-a a következő (4) bekezdéssel egészül ki:
+#### 42. §
 
-„(4) A 193. § (6) bekezdése és a Rendelet 13a. cikke szerinti információknak az egységes európai hozzáférési ponton való hozzáférhetővé tétele céljából az ESAP rendelet szerinti gyűjtőszervezetként a közfelügyeleti hatóság jár el az ESAP rendelet előírásainak alkalmazásával.”
-
-42. § A Kkt. „Átmeneti rendelkezések” alcíme a következő 208/X. §-sal egészül ki:
-
-„208/X. § A pénzügyi közvetítőrendszert érintő törvények módosításáról szóló 2025. évi C. törvénnyel megállapított 4. § (9) bekezdése és 9/E. § (4) bekezdése szerinti információknak az egységes európai hozzáférési ponton való hozzáférhetőségét 2030. január 10-étől kell biztosítani.”
-
-43. § (1) A Kkt. 209. § (1) bekezdése a következő d) ponttal egészül ki:
-
-(E törvény)
-
-„d) az Európai Parlament és a Tanács 2023. december 13-i, az egyes irányelveknek az egységes európai hozzáférési pont létrehozása és működése tekintetében történő módosításáról szóló (EU) 2023/2864 irányelvének”
-
-(való megfelelést szolgálja.)
-
-(2) A Kkt. 209. §-a a következő (3) bekezdéssel egészül ki:
-
-„(3) E törvény megállapítja az Európai Parlament és a Tanács 2023. december 13-i, a pénzügyi szolgáltatások, a tőkepiacok és a fenntarthatóság szempontjából lényeges, nyilvánosan elérhető információkhoz központosított hozzáférést biztosító egységes európai hozzáférési pont létrehozásáról szóló (EU) 2023/2859 rendeletének végrehajtásához szükséges rendelkezéseket.”
+#### 43. §
 
 #### 12. A foglalkoztatói nyugdíjról és intézményeiről szóló 2007. évi CXVII. törvény módosítása
 
@@ -274,17 +226,9 @@ lép.
 
 #### 70. §
 
-71. § (1) Az Fhtv. 3. §-a a következő 1a. ponttal egészül ki:
+71. § (1)
 
-(E törvény alkalmazásában:)
-
-„1a. építményi hitel: a fogyasztó részére ingatlanon alapított társasházi építményi jogon alapított zálogjog fedezete mellett nyújtott hitel vagy kölcsön,”
-
-(2) Az Fhtv. 3. § 13. pontja helyébe a következő rendelkezés lép:
-
-(E törvény alkalmazásában:)
-
-„13. jelzáloghitel: a fogyasztó részére ingatlanon alapított jelzálogjog – ideértve az önálló zálogjogként alapított zálogjogot is – fedezete mellett nyújtott hitel vagy kölcsön, ideértve a halasztott fizetés vagy más ezekhez hasonló pénzügyi megoldás formájában nyújtott kölcsönt is, továbbá az építményi hitel,”
+(2)
 
 (3)
 
@@ -360,7 +304,7 @@ lép.
 - 8.
 - 9.
 - 10.
-- 11. 4. § (3) bekezdés b) pontjában az „ingatlanra bejegyzett jelzálogjog” szövegrész helyébe az „ingatlanra bejegyzett jelzálogjog, vagy társasházi építményi jogra bejegyzett zálogjog” szöveg,
+- 11.
 - 12.
 - 13.
 - 14.
@@ -444,9 +388,7 @@ lép.
 
 #### 123. §
 
-124. § Az Mnbtv. 168. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A díjfizetésre kötelezett – a Hpt. szerinti független közvetítő és a Bit. szerinti többes ügynök és alkusz kivételével – a 167. § (2) bekezdésében meghatározott módon kiszámított változó díj összegét félévente, a tárgyfélévet követő 45. napig utalja át az MNB számlájára. A Hpt. szerinti független közvetítő és a Bit. szerinti többes ügynök és alkusz a változó díj összegét félévente, a tárgyfélévet követő 60. napig utalja át az MNB számlájára.”
+#### 124. §
 
 #### 125. §
 
@@ -469,17 +411,9 @@ lép.
 
 lép.
 
-(2) Az Mnbtv.
+(2)
 
-- a) 167. § (2) bekezdésében az „az (1) bekezdésben meghatározott nyomtatványt a megfizetésre” szövegrész helyébe az „a felügyeletidíj-számítást a jogszabály szerinti tartalommal és formában – felügyleti díjbevallásként – a felügyeleti díj megfizetésére” szöveg,
-- b) 168. § (3) bekezdésében a „negyedévente” szövegrész helyébe a „félévente” szöveg, a „negyedévére” szövegrész helyébe a „félévére” szöveg,
-- c) 168. § (4) bekezdésében a „negyedéves” szövegrész helyébe a „féléves” szöveg, a „negyedévében” szövegrész helyébe a „fél évében” szöveg
-
-lép.
-
-129. § (1)
-
-(2) Hatályát veszti az Mnbtv. 167. § (1) bekezdése.
+#### 129. §
 
 #### 20. Az egyes fizetési szolgáltatókról szóló 2013. évi CCXXXV. törvény módosítása
 
@@ -501,11 +435,7 @@ lép.
 
 (4)
 
-(5) A Hpt. 6. § (1) bekezdése a következő 21a. ponttal egészül ki:
-
-(E törvényben, valamint az e törvény felhatalmazása alapján kiadott jogszabályok vonatkozásában)
-
-„21a. építményi hitel: fogyasztó részére ingatlanon alapított társasházi építményi jogon alapított zálogjog fedezete mellet nyújtott hitel vagy kölcsön;”
+(5)
 
 (6)
 
@@ -517,11 +447,7 @@ lép.
 
 (10)
 
-(11) A Hpt. 6. § (1) bekezdés 50. pontja helyébe a következő rendelkezés lép:
-
-(E törvényben, valamint az e törvény felhatalmazása alapján kiadott jogszabályok vonatkozásában)
-
-„50. jelzáloghitel: a fogyasztó részére ingatlanon alapított jelzálogjog – ideértve az önálló zálogjogként alapított zálogjogot is – fedezete mellett nyújtott hitel vagy kölcsön, ideértve a halasztott fizetés vagy más ezekhez hasonló pénzügyi megoldás formájában nyújtott kölcsönt is, továbbá az építményi hitel;”
+(11)
 
 (12)
 
@@ -679,9 +605,9 @@ lép.
 
 201. § A Hpt.
 
-- 1. 6. § (1) bekezdés 76. pontjában az „ingatlanra alapított jelzálog” szövegrész helyébe az „építményi hitel, valamint az ingatlanra alapított jelzálog” szöveg,
-- 2. 6. § (1) bekezdés 120. pont a) alpontjában a „hitel és pénzkölcsön” szövegrész helyébe a „hitel és pénzkölcsön, továbbá az építményi hitel” szöveg,
-- 3. 6. § (1) bekezdés 120. pont b) alpontjában a „hitel és pénzkölcsön” szövegrész helyébe a „hitel és pénzkölcsön, illetve építményi hitel” szöveg,
+- 1.
+- 2.
+- 3.
 - 4.
 - 5.
 - 6.
@@ -717,11 +643,7 @@ lép.
 
 #### 22. A kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvény módosítása
 
-203. § A kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvény (a továbbiakban: Kbftv.) 1. § a) pontja helyébe a következő rendelkezés lép:
-
-(Ha nemzetközi szerződés eltérően nem rendelkezik, e törvény hatálya kiterjed)
-
-„a) a Magyarország területén székhellyel rendelkező, e törvény szerinti kollektív befektetési forma és befektetési alapkezelő létrehozatalára, működésére és felügyeletére, kivéve a 2. § (2) bekezdése szerinti kockázati tőkealap-kezelő (és az általa kezelt kockázati tőkealap és magántőkealap) felügyeletét – ide nem értve az alapkezelőben történő minősített befolyás megszerzésére vagy növelésére, valamint a kezelési szabályzatra vonatkozó engedélyt –, valamint az olyan egy vagy több, de kizárólag zártkörű ABA-t kezelő ABAK-ok (és az általuk kezelt zártkörű ABA-k) felügyeletét – ide nem értve az ABAK-ban történő tulajdonosváltásra vonatkozó engedélyt –, amelyeknek ugyanezen ABAK-ok vagy azok anyavállalatai vagy leányvállalatai, vagy ezen anyavállalatok egyéb leányvállalatai az egyedüli befektetői, feltéve, hogy e befektetők maguk nem ABA-k,”
+#### 203. §
 
 #### 204. §
 
@@ -733,11 +655,7 @@ lép.
 
 208. § (1)
 
-(2) A Kbftv. 11. § (3a) bekezdése helyébe a következő rendelkezés lép és a § a következő (3b) bekezdéssel egészül ki:
-
-„(3a) A Felügyelet jóváhagyása szükséges a zártkörű befektetési alap alapkezelője minősített befolyással rendelkező tulajdonosának megváltozására vonatkozó rendelkezéseihez, ahol legalább a 21. § feltételeit figyelembe veszi.
-
-(3b) A Felügyelet jóváhagyása szükséges a zártkörű alap kezelési szabályzat jóváhagyásához.”
+(2)
 
 (3)
 
@@ -763,33 +681,13 @@ lép.
 
 #### 219. §
 
-220. § (1) A Kbftv. 73. § (1) bekezdése helyébe a következő rendelkezés lép:
+#### 220. §
 
-„(1) Zártkörű alap – ideértve a kockázati és magántőkealapot is – kezelési szabályzatában részletesen meg kell határozni a kezelési szabályzat módosítására vonatkozó eljárást, ezen belül azokat a feltételeket, amelyek módosításához a befektetési alap befektetői által birtokolt befektetési jegyek arányában meghatározott többségi vagy egyhangú jóváhagyás szükséges. A befektetési alapkezelő a kezelési szabályzatot minden egyéb esetben egyoldalúan módosíthatja.”
+#### 221. §
 
-(2) A Kbftv. 73. §-a a következő (1a) bekezdéssel egészül ki:
+#### 222. §
 
-„(1a) Zártkörű befektetési alap kezelési szabályzata esetében a 72. § (1) és (4) bekezdése szerint kell eljárni az e §-ban foglalt eltérésekkel. A zártkörű befektetési alap kezelési szabályzatának jóváhagyásakor a 163. § (1) bekezdése szerint kell eljárni.”
-
-(3) A Kbftv. 73. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A kezelési szabályzat módosítása esetén a Felügyelet jóváhagyása szükséges, figyelemmel az (1a) bekezdésre.”
-
-(4) A Kbftv. 73. §-a a következő (3a) bekezdéssel egészül ki:
-
-„(3a) A kezelési szabályzathoz és annak módosításához beadott felelősségvállaló nyilatkozatnak tartalmaznia kell azt, hogy a kezelési szabályzat a valóságnak megfelelő adatokat és állításokat tartalmazza, illetve nem hallgat el olyan tényeket és információkat, amelyek a befektetési jegy, valamint a zártkörű befektetési alap megítélése szempontjából jelentőséggel bírnak, továbbá nem mellőzi azon körülmények bemutatását, amelyek befolyásolhatnák az információkból levonható fontos következtetéseket.”
-
-221. § A Kbftv. 74. §-a a következő (4a) bekezdéssel egészül ki:
-
-„(4a) Zártkörű befektetési alap kezelésének átadása esetén a (4) bekezdés szerinti tájékoztatási kötelezettségének az átadó befektetési alapkezelő a kezelési szabályzat ez irányú módosításának a 73. § (3) bekezdése szerinti benyújtása napjával tesz eleget, az átruházásról rendelkező szerződés a módosított kezelési szabályzattal egyidejűleg lép hatályba.”
-
-222. § A Kbftv. 82. §-a a következő (6) bekezdéssel egészül ki:
-
-„(6) Zártkörű alapok egyesülésére a kockázati és magántőkealapok egyesülésére vonatkozó szabályok megfelelően irányadók.”
-
-223. § A Kbftv. 83. §-a a következő (3a) bekezdéssel egészül ki:
-
-„(3a) Az egyesülés napja a kezelési szabályzat ezirányú – a 73. § (3) bekezdése szerinti – módosítása hatálybalépésének napja.”
+#### 223. §
 
 #### 224. §
 
@@ -813,13 +711,7 @@ lép.
 
 #### 234. §
 
-235. § (1) A Kbftv. 163. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Ha a befektetési alap első alkalommal hoz befektetési jegyet nyilvánosan forgalomba, a Felügyelet eljárásának időtartama 20 munkanap. Nyilvános befektetési alap részalapjának, illetve újabb sorozatú értékpapírjának forgalomba hozatala esetén a kezelési szabályzat módosítására irányuló felügyeleti engedélyezési eljárás időtartama 20 munkanap. Nyilvános befektetési alap kezelési szabályzatának egyéb módosítására, valamint az átalakulással kapcsolatos tájékoztató jóváhagyására irányuló eljárás esetén a Felügyelet eljárásának időtartama 20 munkanap. Zártkörű befektetési alap esetén a kezelési szabályzat jóváhagyásának időtartama 5 munkanap azzal, hogy ha a Felügyelet 30 napon belül nem nyilatkozik, akkor az egyetértést megadottnak kell tekinteni.”
-
-(2) A Kbftv. 163. §-a a következő (4) bekezdéssel egészül ki:
-
-„(4) Zártkörű befektetési alap alapkezelőjének minősített befolyásszerzése esetén az engedélykérelem benyújtását követően a Felügyelet eljárásának időtartama 10 munkanap.”
+#### 235. §
 
 #### 236. §
 
@@ -845,7 +737,7 @@ lép.
 
 (3)
 
-246. § (1) A Kbftv. 3. és 5. melléklete a 3. melléklet szerint módosul.
+246. § (1)
 
 (2)
 
@@ -854,13 +746,13 @@ lép.
 - a)
 - b)
 - c)
-- d) 20. §-ában az „Az ÁÉKBV-alapkezelőben” szövegrész helyébe az „A befektetési alapkezelőben” szöveg, az „azon ÁÉKBV-alapkezelőt” szövegrész helyébe az „azon befektetési alapkezelőt” szöveg,
+- d)
 - e)
 - f)
-- g) 68. § (7) bekezdésében a „legkésőbb az alapítást követő hat éven belül” szövegrész helyébe a „legkésőbb ötszáz nappal a futamidő vége előtt” szöveg,
-- h) 69. § (2) bekezdésében a „hogy” szövegrész helyébe a „hogy az engedélyezett kezelési szabályzattal együtt” szöveg,
-- i) 74. § (2) bekezdésében a „nélkül” szövegrész helyébe az „alapján és” szöveg,
-- j) 81. § (1) bekezdésében a „Tpt. 14. § (1) bekezdés a)–e) pontban meghatározott korlátok között” szövegrész helyébe a „Tpt. 14. § (1) bekezdése figyelembevételével” szöveg,
+- g)
+- h)
+- i)
+- j)
 - k)
 - l)
 
@@ -871,11 +763,11 @@ lép.
 - a)
 - b)
 - c)
-- d) 11. § (3) bekezdés c) pontja,
-- e) 69. § (2) bekezdés b) pontja,
-- f) 69. § (4) bekezdésében a „b) és” szövegrész,
+- d)
+- e)
+- f)
 - g)
-- h) 203/B. § (2) bekezdése.
+- h)
 
 #### 23. A pénzügyi közvetítőrendszer egyes szereplőinek biztonságát erősítő intézményrendszer továbbfejlesztéséről szóló 2014. évi XXXVII. törvény módosítása
 
@@ -980,24 +872,5 @@ való megfelelést szolgálja.
 ### 2. melléklet a 2025. évi C. törvényhez
 
 ### 3. melléklet a 2025. évi C. törvényhez
-
-- 1. A Kbftv. 3. melléklet I. Fejezet III. alcím 25. pontja a következő 25.10. alponttal egészül ki:
-
-(Ingatlanalapra, vegyes alapra vonatkozó speciális rendelkezések)
-
-- „25.10. Annak megjelölése, hogy a nyilvános nyílt végű ingatlanalap alkalmazza-e a külön jogszabály szerinti, zártkörű ingatlanalap befektetési jegyeire vonatkozó beszámítás lehetőségét”
-- 2. A Kbftv. 3. melléklet III. Fejezet 2. pont a) alpontja helyébe a következő rendelkezés lép:
-
-(A befektetési alapkezelőre vonatkozó információk
-
-A befektetési alapkezelő)
-
-  - „a) cégneve, székhelye és a minősített befolyással rendelkező tulajdonosai,”
-- 3. A Kbftv. 5. melléklet I. alcím 3. pont 3.10. alpontja helyébe a következő rendelkezés lép és a pont a 3.11. alponttal egészül ki:
-
-(A befektetési alap kockázati profilja)
-
-- „3.10. Amennyiben a nyilvános nyílt végű ingatlanalap alkalmazza a külön jogszabály szerinti, zártkörű ingatlanalap befektetési jegyei beszámításának lehetőségét, az erre vonatkozó figyelemfelhívás
-- 3.11. Az adott tárgykörre vonatkozó egyéb információ”
 
 ### 4. melléklet a 2025. évi C. törvényhez

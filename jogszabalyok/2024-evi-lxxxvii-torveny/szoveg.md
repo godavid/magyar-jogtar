@@ -361,19 +361,7 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 
 #### 8. Az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló 2012. évi CCXVII. törvény módosítása
 
-23. § (1)
-
-(2)
-
-(3)
-
-(4)
-
-(5) Az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló 2012. évi CCXVII. törvény 1. §-a a következő (2b) bekezdéssel egészül ki:
-
-„(2b) Nem terjed ki e törvény hatálya azon létesítményekre, amelyeknek a biomassza égetéséből származó kibocsátása a Nemzeti Végrehajtási Intézkedés benyújtását megelőző 5 éves időszakban átlagosan meghaladta a létesítmény teljes üvegházhatású gáz kibocsátásának 95%-át.”
-
-(6)
+#### 23. §
 
 #### 24. §
 
@@ -421,71 +409,17 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 
 #### 46. §
 
-47. § Hatályát veszti az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló 2012. évi CCXVII. törvény
-
-- 1. 1. § (2a) bekezdése,
-- 2.
-- 3.
-- 4.
-- 5.
-- 6.
-- 7. 2. § 32. pontja,
-- 8.
-- 9.
-- 10.
-- 11.
-- 12.
-- 13.
-- 14.
-- 15.
-- 16.
-- 17.
-- 18.
-- 19.
-- 20.
-- 21.
-- 22.
-- 23.
+#### 47. §
 
 #### 9. Az energiahatékonyságról szóló 2015. évi LVII. törvény módosítása
 
-48. § (1)
-
-(2)
-
-(3) Az energiahatékonyságról szóló 2015. évi LVII. törvény 1. §-a a következő 2c. ponttal egészül ki:
-
-(E törvény alkalmazásában:)
-
-„2c. energetikai auditálásra kötelezett gazdálkodó szervezet: az a gazdálkodó szervezet, amelynek a tárgyévet megelőző három évben az éves energiafogyasztásának átlaga az összes energiahordozót együttvéve meghaladja a 10 TJ-t, azzal, hogy a mérés nélkül továbbadott energia a továbbadó fogyasztásának számít;”
-
-(4)
-
-(5)
-
-(6)
-
-(7)
-
-(8)
-
-(9)
-
-(10)
-
-(11)
+#### 48. §
 
 #### 49. §
 
 #### 50. §
 
-51. § (1) Az energiahatékonyságról szóló 2015. évi LVII. törvény 11/A. § h) pontja helyébe a következő rendelkezés lép:
-
-(A közintézményi tulajdonban és használatban álló, közfeladat ellátását szolgáló épület vagy épületrész üzemeltetéséért és fenntartásáért felelős szervezet vezetője:)
-
-„h) mentesül az a), b) és d) pont szerinti feladatok alól, ha a közintézmény energetikai auditálásra kötelezett gazdálkodó szervezetnek vagy energetikai szakreferens igénybevételére köteles gazdálkodó szervezetnek minősül;”
-
-(2)
+#### 51. §
 
 #### 52. §
 
@@ -499,21 +433,9 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 
 #### 57. §
 
-58. § (1) Az energiahatékonyságról szóló 2015. évi LVII. törvény 22. § (1b)–(2a) bekezdése helyébe a következő rendelkezések lépnek:
+#### 58. §
 
-„(1b) Energetikai auditálásra kötelezett gazdálkodó szervezet esetében a kötelező energetikai auditálás első elvégeztetésének határideje azon év október 10. napja, amelyet megelőző három évben az összes energiahordozót együttvéve az átlagos éves energiafogyasztása meghaladta a 10 TJ mennyiséget, függetlenül a 22/B. § (1) bekezdése szerinti regisztráció megtörténtétől.
-
-(2) Mentesül a kötelező energetikai auditálás alól az energetikai auditálásra kötelezett gazdálkodó szervezet, amely az EN ISO 50001 szabványnak megfelelő, akkreditált tanúsító szervezet által tanúsított energiagazdálkodási rendszert működtet. Ebben az esetben az energetikai auditálásra kötelezett gazdálkodó szervezet köteles négyévente megküldeni a Hivatal részére az érvényes tanúsítványt.
-
-(2a) Nem kell külön tanúsítványt szereznie annak az energetikai auditálásra kötelezett gazdálkodó szervezetnek, amely vállalkozáscsoport tagja és a vállalkozáscsoport egészére vagy egy részére vonatkozó tanúsítvány ezen energetikai auditálásra kötelezett gazdálkodó szervezetre is kiterjed. Ha a vállalkozáscsoport egészére vagy egy részére vonatkozó tanúsítványt a vállalkozáscsoport valamely tagja a Hivatal részére megküldte, a tanúsítványon szereplő további gazdálkodó szervezetnek ugyanazt a tanúsítványt már nem kell megküldenie a Hivatal részére.”
-
-(2) Az energiahatékonyságról szóló 2015. évi LVII. törvény 22. § (8) bekezdése helyébe a következő rendelkezés lép:
-
-„(8) Az energetikai auditálásra kötelezett gazdálkodó szervezet köteles az energetikai audit elkészítéséhez szükséges naprakész energiafogyasztási adatokat és kapcsolódó információkat az energetikai auditor részére a szükséges határidőben és megfelelő formában átadni.”
-
-59. § Az energiahatékonyságról szóló 2015. évi LVII. törvény 22/B. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A gazdálkodó szervezetnek első alkalommal azon év június 30-áig kell regisztrálnia a Hivatalnál, amely évet megelőző három évben az összes energiahordozót együttvéve a gazdálkodó szervezet átlagos éves energiafogyasztása meghaladta a 10 TJ-t. Ezt követően a gazdálkodó szervezetnek minden év június 30-áig kell regisztrálnia. A regisztráció alkalmával a gazdálkodó szervezet nyilatkozik arról, hogy az energetikai auditálásra vonatkozó kötelezettség feltételei fennállnak-e.”
+#### 59. §
 
 #### 60. §
 
@@ -523,47 +445,13 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 
 #### 63. §
 
-64. § (1) Az energiahatékonyságról szóló 2015. évi LVII. törvény 48. §-a a következő (1a) bekezdéssel egészül ki:
-
-„(1a) Annak a nagyvállalatnak, amely 2025. december 31-én energetikai auditálásra volt kötelezett és 2026. január 1. napját követően energetikai auditálásra kötelezett gazdálkodó szervezetként is energetikai auditálásra kötelezett marad, a következő alkalommal a korábbi energetikai audit elkészítésének időpontját követő 4 éven belül kell elkészíttetnie az energetikai auditot.”
-
-(2)
-
-(3)
-
-(4)
+#### 64. §
 
 #### 65. §
 
-66. § Az energiahatékonyságról szóló 2015. évi LVII. törvény
+#### 66. §
 
-- 1.
-- 2.
-- 3. 22. § (1) bekezdésében az „A nagyvállalat” szövegrész helyébe az „Az energetikai auditálásra kötelezett gazdálkodó szervezet” szöveg,
-- 4. 22. § (5) bekezdésében az „a nagyvállalatnak” szövegrész helyébe az „az energetikai auditálásra kötelezett gazdálkodó szervezetnek” szöveg és a „nagyvállalatra” szövegrész helyébe az „energetikai auditálásra kötelezett gazdálkodó szervezetre” szöveg,
-- 5. 22/A. § (1) bekezdésében az „A nagyvállalatnak” szövegrész helyébe az „Az energetikai auditálásra kötelezett gazdálkodó szervezetnek” szöveg,
-- 6. 22/A. § (2) bekezdésében az „A nagyvállalatnak” szövegrész helyébe az „Az energetikai auditálásra kötelezett gazdálkodó szervezetnek” szöveg,
-- 7. 22/A. § (3) bekezdésében az „a nagyvállalatnak” szövegrész helyébe az „az energetikai auditálásra kötelezett gazdálkodó szervezetnek” szöveg és a „nagyvállalatnak” szövegrész helyébe az „az energetikai auditálásra kötelezett gazdálkodó szervezetnek” szöveg,
-- 8. 22/B. § (2) bekezdés a) pontjában az „a nagyvállalatot” szövegrész helyébe az „az energetikai auditálásra kötelezett gazdálkodó szervezetet” szöveg,
-- 9. 22/B. § (4) bekezdésében a „nagyvállalat” szövegrész helyébe az „energetikai auditálásra kötelezett gazdálkodó szervezet” szöveg,
-- 10. 22/B. § (5) bekezdésében a „nagyvállalatokról” szövegrész helyébe az „energetikai auditálásra kötelezett gazdálkodó szervezetekről” szöveg és az „a nagyvállalat” szövegrész helyébe az „az energetikai auditálásra kötelezett gazdálkodó szervezet” szöveg,
-- 11. 22/C. § (1) bekezdésében az „A nagyvállalat” szövegrész helyébe az „Az energetikai auditálásra kötelezett gazdálkodó szervezet” szöveg és a „nagyvállalatnak” szövegrész helyébe az „energetikai auditálásra kötelezett gazdálkodó szervezetnek” szöveg,
-- 12. 22/C. § (3) bekezdés a) pontjában az „a nagyvállalatot” szövegrész helyébe az „az energetikai auditálásra kötelezett gazdálkodó szervezetet” szöveg,
-- 13. 24. § (6) bekezdésében az „a nagyvállalattól” szövegrész helyébe az „az energetikai auditálásra kötelezett gazdálkodó szervezettől” szöveg,
-- 14. 25. § (1) bekezdés a) pontjában az „a nagyvállalatot” szövegrész helyébe az „az energetikai auditálásra kötelezett gazdálkodó szervezetet” szöveg,
-- 15. 26. § (5) bekezdésében az „a nagyvállalatot értesíti. A nagyvállalatnak” szövegrész helyébe az „az energetikai auditálásra kötelezett gazdálkodó szervezetet értesíti. Az energetikai auditálásra kötelezett gazdálkodó szervezetnek” szöveg,
-- 16. 26. § (7) bekezdésében az „a nagyvállalat” szövegrész helyébe az „az energetikai auditálásra kötelezett gazdálkodó szervezet” szöveg,
-- 17.
-- 18.
-- 19.
-
-lép.
-
-67. § Hatályát veszti az energiahatékonyságról szóló 2015. évi LVII. törvény
-
-- a)
-- b) 22. § (4) és (4a) bekezdése,
-- c) 22. § (6) bekezdése,
+#### 67. §
 
 ### 1. melléklet a 2024. évi LXXXVII. törvényhez
 

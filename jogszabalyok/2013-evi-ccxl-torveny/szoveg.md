@@ -585,7 +585,7 @@ szabadságvesztés végrehajthatósága.
 
 (5) Az elévülés határidejébe nem számít be
 
-- a) a halasztás ideje, valamint a büntetés-félbeszakítás és a 14. § szerinti végrehajtási sorrendre tekintettel történő megszakítás tartama,
+- a) a halasztás, a büntetés-félbeszakítás és a 14. § szerinti végrehajtási sorrendre tekintettel történő megszakítás, valamint a szabadságvesztés, az elzárás és a közérdekű munka esetén a megelőzően megkezdett azonos nemű büntetés végrehajtásának időtartama,
 - b) az a tartam, amely alatt a szabadságvesztés büntetés vagy szabadságelvonással járó intézkedés azért nem hajtható végre, mert a külföldi igazságügyi hatóság az elítélt kiadatásának vagy átadásának végrehajtását a külföldön folyamatban lévő büntetőeljárás lefolytatására vagy a külföldön kiszabott szabadságvesztés, illetve szabadságelvonással járó intézkedés végrehajtására tekintettel elhalasztotta,
 - c) kiutasítás esetén az a) és b) pontban meghatározottakon kívül az a tartam, amely alatt az elítélt más büntetőügyben kiszabott szabadságvesztést tölt.
 
@@ -1343,6 +1343,14 @@ az elítélt meghallgatása után határoz.
 (6) Az ügyészség indítványának elutasítása esetén a bűnügyi költséget az állam viseli.
 
 (7) A büntetés-végrehajtási bíró a közérdekű munka helyébe lépő szabadságvesztés megkezdésére fontos okból halasztást engedélyezhet, határozathozatal előtt pártfogó felügyelői vélemény beszerzését rendelheti el. E végzés ellen nincs helye fellebbezésnek.
+
+### A közérdekű munka átváltoztatása pénzbüntetésre
+
+64/A. § (1) A büntetés-végrehajtási bíró az ügyészség indítványára, a 291/A. §-ban meghatározott ok fennállása esetén az iratok alapján a közérdekű munkát pénzbüntetésre változtatja át.
+
+(2) Az eljárást az eljáró pártfogó felügyelői szolgálat szerint illetékes büntetés-végrehajtási bíró folytatja le.
+
+(3) A bűnügyi költséget az állam viseli.
 
 65. § (1) A büntetés-végrehajtási bíró hivatalból vagy az ügyészség indítványára a Btk. 49. §-ában meghatározott feltételek fennállása esetén – az iratok alapján – a közérdekű munkát vagy annak hátralévő részét szabadságvesztésre változtatja át.
 
@@ -3092,6 +3100,12 @@ bírálja el, amely döntés ellen további jogorvoslatnak nincs helye.
 - c) az intézkedésre jogosultat a jogszerű intézkedés megtételére utasítja,
 - d) mulasztás esetén felhívja a jogosultat a döntés meghozatalára, illetve az intézkedés megtételére.
 
+(5) Az elítélt a jogszabályban előírt élettér hiányából eredő alapvető jogokat sértő elhelyezési körülmények miatt – írásban – közvetlenül panasszal élhet a bv. intézet parancsnokához. A panaszt a benyújtástól számított tizenöt napon belül kell elbírálni azzal, hogy a (2) bekezdés a) pontja alkalmazásának nincs helye. A panaszt és az elbírálásának eredményét a jogszabályhely megjelölésével kell nyilvántartani.
+
+(6) Ha a panasz alapos, a bv. intézet parancsnoka a 75/I. §-ban foglaltak szerint jár el azzal, hogy ha e körülmény megszüntetése sem az adott bv. intézeten belül, sem átszállítással nem oldható meg, a bv. intézet parancsnoka a sérelem ellensúlyozása érdekében – az e körülmények között töltött napok számával arányosan – kedvezményt biztosíthat az elítéltnek, így különösen a szabad levegőn tartózkodás időtartamának, illetve az egyes kapcsolattartási formák gyakoriságának vagy időtartamának megnövelése, a személyes szükségletekre fordítható összeg, illetve a vásárlások gyakoriságának megnövelése, a jogszabályban meghatározott többletszolgáltatás ingyenes biztosítása, a kondicionáló terem használatának, illetve közös sport- vagy kulturális eseményen való részvétel engedélyezése által.
+
+(7) A panasz benyújtása nem tekinthető kártalanítási kérelemnek. Ha a panasz tartalmából ez egyértelműen nem állapítható meg, az elítéltet nyilatkoztatni kell, és szükség szerint tájékoztatást kell adni részére a kártalanítási kérelem benyújtásának feltételeiről.
+
 143. § (1) Az elítélt kárigényét – kivéve, ha szabadult – annál a bv. szervnél terjesztheti elő, ahol a kár bekövetkezett, más gazdálkodó szervezetnél végzett munkáltatás során annál a bv. szervnél, amely a szerződést a gazdálkodó szervezettel megkötötte. Ha az elítélt társadalomba való beilleszkedését elősegítő programban vesz részt, kárigényét annál a bv. szervnél terjesztheti elő, amely a szerződést az ilyen szervezettel megkötötte.
 
 (2) Az (1) bekezdés szerinti kártérítés iránti igényt határozattal kell elbírálni, amely ellen az elítélt a közléstől számított harmincnapos jogvesztő határidőn belül, a határozatot hozó bv. szerv székhelye szerint illetékes bíróság előtt, illetve a munkáltatással összefüggésben keletkezett kár megtérítése iránti igény esetén a munkaügyi perben eljáró bíróság előtt keresetet indíthat.
@@ -3406,7 +3420,7 @@ miatt kiszabott fegyelmi fenyítés.
 
 ### A fenyítések és a fegyelmi eljárás
 
-168. § (1) A büntetés-végrehajtás rendjét vétkesen megsértő elítélttel szemben, valamint a büntetés-végrehajtás rendjének és biztonságának biztosítása érdekében a következő fenyítések alkalmazhatók:
+168. § (1) A büntetés-végrehajtás rendjét szándékosan megsértő elítélttel szemben, valamint a büntetés-végrehajtás rendjének és biztonságának biztosítása érdekében a következő fenyítések alkalmazhatók:
 
 - a) feddés,
 - b) a magánál tartható tárgyak körének – a 98. § (2) bekezdés f) pontjában meghatározottakra figyelemmel – korlátozása, amely legalább egy, legfeljebb hat hónapig tarthat,
@@ -3999,7 +4013,7 @@ napjával,
 (1a) Az (1) bekezdés b) pontjában meghatározott feltétel szempontjából a büntetés-végrehajtási bíró különösen
 
 - a) az elítélt által elkövetett bűncselekményt, a kiszabott büntetés tartamát és a büntetésből még végrehajtásra váró részt,
-- b) az elítélt büntetés végrehajtása alatt tanúsított magatartását,
+- b) az elítélt büntetés végrehajtása alatt tanúsított magatartását, kiemelten – a kezdeti kategória besoroláshoz és a szabadságvesztés letöltendő tartamához képest – a kategória-rendszerben való előmenetelét, valamint a visszaesési kockázatot csökkentő reintegrációs tevékenységben való részvételét,
 - c) az elítéltnek az általa elkövetett bűncselekményhez való viszonyulását és a bűncselekménnyel okozott hátrány jóvátételét eredményező vagy azt célzó magatartását,
 - d) ha az elítélt által elkövetett bűncselekménynek nem volt sértettje, az elítélt által az igazságügyért felelős miniszter által vezetett minisztérium „bűncselekmények áldozatainak kárenyhítése” megnevezésű célelőirányzata javára teljesített befizetés tényét,
 - e) az elítélt törvénytisztelő életmód folytatására vonatkozó készségét
@@ -5184,6 +5198,16 @@ más munkahelyen célszerű,
 
 (2) A közérdekű munka szabadságvesztésre a munkahely kijelölését megelőzően is átváltoztatható, ha annak elmaradása az elítélt felróható magatartására vezethető vissza.
 
+### A közérdekű munka átváltoztatása pénzbüntetésre
+
+291/A. § (1) Ha az elítélt tényleges tartózkodási helye – igazoltan – külföldön van, és a büntetés átadására azért nem kerülhet sor, mert az adott állam részéről a közérdekű munkára vonatkozó határozat nem feleltethető meg, a közérdekű munka vagy annak hátralévő része pénzbüntetésre változtatható át, feltéve, hogy annak megfizetését az elítélt vállalja, és a végrehajtás során együttműködő volt.
+
+(2) A pénzbüntetést úgy kell megállapítani, hogy négy óra közérdekű munkának a helyébe egynapi tétel pénzbüntetés lép, az egynapi tétel összege nyolcezer forint. Az átváltoztatás után fennmaradó közérdekű munkának egynapi tétel felel meg.
+
+(3) Ha a közérdekű munka pénzbüntetésre történő átváltoztatásának törvényi feltételei fennállnak, a pártfogó felügyelő – az elítélt pénzbüntetés megfizetését vállaló írásbeli nyilatkozatának a beszerzését követően – jelentést készít, és az iratokkal együtt az ügyészségnek küldi meg. A közérdekű munka pénzbüntetésre történő átváltoztatása iránt az ügyészség indítványt tesz a büntetés-végrehajtási bírónak.
+
+(4) A pénzbüntetést a IX. Fejezet rendelkezései szerint kell végrehajtani azzal, hogy a pénzbüntetés meg nem fizetése esetén nem változtatható át közérdekű munkára.
+
 ### IX. Fejezet — A PÉNZBÜNTETÉS VÉGREHAJTÁSA
 
 ### A pénzbüntetés végrehajtásának rendje
@@ -5608,11 +5632,11 @@ hajtja végre.
 
 (4) Ha az elkobzott dolog – külön jogszabály alapján – közérdekű felhasználásra alkalmas, az ezzel kapcsolatos döntés meghozatala érdekében a közérdekű felhasználás kezdeményezésére jogosult Karitatív Tanácsot kell megkeresni. Az elkobzás végrehajtását a Karitatív Tanács döntésének beérkezéséig nem lehet megkezdeni.
 
-(4a) Ha az elkobzás tárgya működőképes, rendeltetésszerű használatra alkalmas gépjármű, az (1) bekezdés a) és b) pontjában meghatározott szerv a határozat beérkezésétől számított öt napon belül felhívja azt a büntetőügyben eljáró nyomozó hatóságot, amely az elkobzást megelőzően a nyomozást utoljára folytatta, hogy a felhívás kézbesítésétől számított tizenöt napon belül nyilatkozzon arról, hogy a rendvédelmi feladatok ellátásához szükség van-e a gépjárműre. Ha a nyomozó hatóság nyilatkozata alapján rendvédelmi feladatok ellátásához az elkobzott gépjárműre szükség van, a gépjármű tekintetében a tulajdonosi jogok és kötelezettségek – a nyilatkozatnak az eljáró szerv részére történő kézbesítésének napjától – a nyomozó hatóság nyilatkozatában megjelölt rendvédelmi feladatot ellátó költségvetési szervet illetik meg, illetve terhelik. Ha a nyomozó hatóság a felhívás kézbesítésétől számított tizenöt napon belül nem tesz nyilatkozatot, vagy úgy nyilatkozik, hogy rendvédelmi feladatok ellátása céljából a gépjárműre nincs szükség, ebben az esetben a (4) bekezdés vagy – ha az ott meghatározott feltételek fennállnak – a 321. § szerint kell eljárni.
+(4a) Ha az elkobzás tárgya működőképes, rendeltetésszerű használatra alkalmas gépjármű, az (1) bekezdés a) és b) pontjában meghatározott szerv a határozat beérkezésétől számított öt napon belül felhívja azt a büntetőügyben eljáró nyomozó hatóságot, amely az elkobzást megelőzően a nyomozást utoljára folytatta, hogy a felhívás kézbesítésétől számított tizenöt napon belül nyilatkozzon arról, hogy a rendvédelmi feladatok ellátásához szükség van-e a gépjárműre. Ha a nyomozó hatóság nyilatkozata alapján rendvédelmi feladatok ellátásához az elkobzott gépjárműre szükség van, a gépjármű – a nyilatkozatnak az eljáró szerv részére történő kézbesítésének napjától – a nyomozó hatóság nyilatkozatában megjelölt rendvédelmi feladatot ellátó költségvetési szerv vagyonkezelésébe kerül. Ha a nyomozó hatóság a felhívás kézbesítésétől számított tizenöt napon belül nem tesz nyilatkozatot, vagy úgy nyilatkozik, hogy rendvédelmi feladatok ellátása céljából a gépjárműre nincs szükség, ebben az esetben a (4) bekezdés vagy – ha az ott meghatározott feltételek fennállnak – a 321. § szerint kell eljárni.
 
-(4b) A nyomozó hatóság a gépjármű elkobzása esetére a (4a) bekezdésben meghatározott nyilatkozatát a felhívást megelőzően is megteheti, amely esetben arról nyilatkozik, hogy elkobzása esetén a gépjárműre rendvédelmi feladatok ellátása céljából szükség lenne. Ez esetben a nyomozó hatóság nyilatkozatában megjelölt rendvédelmi feladatot ellátó költségvetési szervet a gépjármű tekintetében a tulajdonosi jogok és kötelezettségek az elkobzás elrendelésének a jogerőre emelkedését vagy véglegessé válását követő naptól illetik meg, illetve terhelik.
+(4b) A nyomozó hatóság a gépjármű elkobzása esetére a (4a) bekezdésben meghatározott nyilatkozatát a felhívást megelőzően is megteheti, amely esetben arról nyilatkozik, hogy elkobzása esetén a gépjárműre rendvédelmi feladatok ellátása céljából szükség lenne. Ez esetben a gépjármű az elkobzás elrendelésének jogerőre emelkedését vagy véglegessé válását követő naptól kerül a nyomozó hatóság nyilatkozatában megjelölt rendvédelmi feladatot ellátó költségvetési szerv vagyonkezelésébe.
 
-(4c) A (4a) vagy a (4b) bekezdésben meghatározott esetben a tulajdonosi joggyakorlóvá válás időpontjától kezdve a rendvédelmi feladatot ellátó költségvetési szerv viseli a gépjárművel kapcsolatos költségeket, ideértve a gépjármű elszállításának költségeit is.
+(4c) A (4a) vagy a (4b) bekezdésben meghatározott esetben a vagyonkezelői jog létrejöttének időpontjától kezdve a rendvédelmi feladatot ellátó költségvetési szerv viseli a gépjárművel kapcsolatos költségeket, ideértve a gépjármű elszállításának költségeit is.
 
 (5) Az elkobzás végrehajtásának részletes és az egyedi jellegű elkobzott dolgok végrehajtásának különleges szabályairól külön jogszabály rendelkezik.
 
@@ -7293,6 +7317,10 @@ kitöltésére változik.
 a reintegrációs őrizet megszűnésének vagy megszüntetésének időpontjáig kezeli. Ha a büntetés-végrehajtás országos parancsnoka a reintegrációs őrizetet megszünteti, erről tájékoztatja a rendőrség általános rendőrségi feladatok ellátására létrehozott szervének központi szervét az adatok törlése érdekében.
 
 (4) A (2) bekezdés szerinti reintegrációs őrizettel kapcsolatosan a rendőrség idegenrendészeti szervének központi szerve az elítéltnek a (3) bekezdésben meghatározott adatait, valamint az elítélt ujjnyomat adatát a kiutasítás tartamának leteltét követő öt évig kezeli. Ha a büntetés-végrehajtás országos parancsnoka a reintegrációs őrizetet megszünteti, erről tájékoztatja a rendőrség idegenrendészeti szervének központi szervét annak egyidejű közlésével, hogy az elítélt mikor tölti ki a szabadságvesztést, amely időpontig a kiutasítás végrehajtása nyugszik.
+
+(5) A büntetés-végrehajtás országos parancsnoka a külföldi elítélt szabadságvesztésének félbeszakítását határozattal megszünteti, ha az igazságügyért felelős miniszter tájékoztatása szerint a szabadságvesztés végrehajtását a másik állam nem vette át vagy az meghiúsult. A határozattal szemben felülvizsgálati kérelem nyújtható be. Az eljárás lefolytatására a szabadságvesztés átadása során eljáró büntetés-végrehajtási bíró illetékes.
+
+(6) A félbeszakítás megszüntetéséről az elítéltet írásban haladéktalanul tájékoztatni kell, és fel kell hívni, hogy a megadott időpontban a szabadságvesztést végrehajtó intézetben jelentkezzen. Ha a határozat azért nem volt kézbesíthető, mert az elítélt ismeretlen helyre távozott, a 19. § szerint intézkedni kell a felkutatása érdekében.
 
 436/F. § E törvénynek az igazságügyi tárgyú törvények módosításáról szóló 2025. évi XLIX. törvénnyel (a továbbiakban: Mód. tv. 3.) módosított 99. § (4) bekezdését a Mód. tv. 3. e rendelkezésének hatályba lépését követően foganatba vett újabb szabadságvesztés esetén kell alkalmazni.
 
