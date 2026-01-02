@@ -10411,7 +10411,7 @@ miatt.
 
 (2) Ha az ügyészség a bírósági eljárás távollévő terhelttel szembeni lefolytatását indítványozza, és annak feltételei fennállnak, akkor a bíróság tájékoztatja a terheltet arról, hogy
 
-- a) a bíróság ez eljárást a terhelt távollétében folytatja,
+- a) a bíróság az eljárást a terhelt távollétében folytatja,
 - b) a védő kirendeléséről és a védő elérhetőségéről, ha az (1) bekezdés alapján védő kirendelésére került sor,
 - c) az elfogatóparancs kibocsátására került sor,
 - d) az eljárásról a továbbiakban a bíróságon kaphat tájékoztatást, megjelölve az érintett bíróság elérhetőségét.
@@ -12391,6 +12391,7 @@ miatt került sor.
 - 21. a bírósági eljárásban az eljárási cselekményről hangfelvétel vagy kép- és hangfelvétel készítésének szabályait,
 - 22. a feltételes ügyészi felfüggesztés keretében elrendelhető helyreállító szemléletű konfliktuskezelő eljárásra vonatkozó szabályokat,
 - 23. a büntetőeljárás során a pártfogó felügyelő tevékenységének a szabályait
+- 24. az online csalások megelőzése érdekében a végfelhasználóknak internethozzáférést nyújtó elektronikus hírközlési szolgáltatók által alkalmazandó védelmi intézkedések részletes szabályait, az általuk e célból üzemeltetendő technikai eszközök körét és a velük szemben támasztott műszaki követelményeket
 
 rendeletben megállapítsa.
 
