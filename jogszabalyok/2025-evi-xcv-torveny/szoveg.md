@@ -134,7 +134,7 @@ lép.
 
 #### 37. §
 
-38. § Az oktatási nyilvántartásról szóló 2018. évi LXXXIX. törvény 3/A. melléklete az 1. melléklet szerint módosul.
+#### 38. §
 
 #### 12. A szakképzésről szóló 2019. évi LXXX. törvény módosítása
 
@@ -197,18 +197,6 @@ lép.
 55. § A 14. alcím, az 50. §, a 2. melléklet és a 3. melléklet az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
 
 ### 1. melléklet a 2025. évi XCV. törvényhez
-
-- 1. Az oktatási nyilvántartásról szóló 2018. évi LXXXIX. törvény 3/A. melléklet II. rész 2. pontja a következő e) alponttal egészül ki:
-
-(A képzési és személyi törzs a képzésben részt vevő személy oktatásával, képzésével összefüggésben személyes adatként tartalmazza)
-
-„e) a szakmai vizsga, képesítő vizsga időpontját, helyszínét, eredményét, megnevezését.”
-
-- 2. Az oktatási nyilvántartásról szóló 2018. évi LXXXIX. törvény 3/A. melléklet IV. része helyébe a következő rendelkezés lép:
-
-„IV. Mikrotanúsítványi törzs
-
-1. A mikrotanúsítványok nyilvántartása a felnőttképzésben használt mikrotanúsítvány tartalmáról és kiállításának feltételeiről szóló rendeletben meghatározott adatok tekintetében közhiteles nyilvántartás.”
 
 ### 2. melléklet a 2025. évi XCV. törvényhez
 

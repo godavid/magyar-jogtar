@@ -126,13 +126,7 @@ a vállalkozói adminisztratív terhek csökkentésére irányuló egyes törvé
 
 (9)
 
-(10) A Kertv. 9/C. § (1) bekezdés d) pontja helyébe a következő rendelkezés lép, és az (1) bekezdés a következő e) ponttal egészül ki:
-
-(Az SZTFH az engedélyesekről nyilvántartást vezet az SZTFH elnökének rendeletében foglalt részletes szabályok szerint, amely a következőket tartalmazza:)
-
-„d) az SZTFH elnökének a befektetési arannyal folytatott kereskedelmi tevékenység folytatásának részletes feltételeiről szóló rendeletében meghatározott feltételek teljesülését alátámasztó dokumentumok,
-
-e) az SZTFH elnökének rendeletében előírt további, személyes adatnak nem minősülő adatok.”
+(10)
 
 (11)
 
@@ -146,21 +140,7 @@ e) az SZTFH elnökének rendeletében előírt további, személyes adatnak nem 
 
 (16)
 
-17. § A Kertv.
-
-- a)
-- b)
-- c)
-- d)
-- e)
-- f)
-- g) 9/C. § (1) bekezdés a) pont aa) alpontjában az „adószáma,” szövegrész helyébe az „adószáma, elektronikus levelezési címe és telefonszáma,” szöveg,
-- h) 9/C. § (2a) bekezdésében a „d) pontja” szövegrész helyébe a „d) és e) pontja” szöveg,
-- i) 9/C. § (4) bekezdésében a „d) pontja” szövegrész helyébe a „d) és e) pontja” szöveg,
-- j)
-- k)
-
-lép.
+#### 17. §
 
 #### 13. A cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény módosítása
 
@@ -232,16 +212,7 @@ lép.
 
 #### 38. §
 
-39. § Az Sztfh.tv.
-
-- a) 1. § (1) bekezdés 11. pontjában a „2005. évi CXLIV. törvény (a továbbiakban: Kertv.) szerinti befektetési arannyal folytatott tevékenységet – ideértve a bizományosi, a közvetítői, az őrzési, tárolási, szállítási és egyéb kapcsolódó tevékenységet – végző” szövegrész helyébe a „2005. évi CLXIV. törvény (a továbbiakban: Kertv.) szerinti befektetési arannyal folytatott tevékenységet végző” szöveg,
-- b)
-- c)
-- d)
-- e)
-- f)
-
-lép.
+#### 39. §
 
 #### 27. A védelmi és biztonsági tevékenységek összehangolásáról szóló 2021. évi XCIII. törvény módosítása
 
