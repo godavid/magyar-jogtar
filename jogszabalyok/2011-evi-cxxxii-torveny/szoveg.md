@@ -180,7 +180,7 @@ tölthet be.
 
 (2)
 
-13/A. § Nemzetbiztonsági ellenőrzéshez nem kötött munkakörben a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény (a továbbiakban: Kjt.) 20. § (2) bekezdés c) pontjától eltérően a közalkalmazotti jogviszony létesítésének nem feltétele a magyar állampolgárság vagy a jogszabály szerint a szabad mozgás és tartózkodás jogával rendelkezés, illetve a huzamos tartózkodási jogosultsággal rendelkezés.
+13/A. § Nemzetbiztonsági ellenőrzéshez vagy egyszerűsített nemzetbiztonsági ellenőrzéshez nem kötött munkakörben a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény (a továbbiakban: Kjt.) 20. § (2) bekezdés c) pontjától eltérően a közalkalmazotti jogviszony létesítésének nem feltétele a magyar állampolgárság vagy a jogszabály szerint a szabad mozgás és tartózkodás jogával rendelkezés, illetve a huzamos tartózkodási jogosultsággal rendelkezés.
 
 14. § A közalkalmazott oktató, tudományos kutató és tanár a munkahelyén pártpolitikától mentes magatartást köteles tanúsítani.
 
@@ -394,7 +394,7 @@ kezeli.
 
 - a) meghatározott nyelv meghatározott típusú és szintű tudása,
 - b) a magyarországi lakóhely,
-- c) jogszabályban meghatározott esetben nyilatkozat, amelyben a jelentkező hozzájárul ahhoz, hogy a tanulmányok megkezdéséhez szükséges nemzetbiztonsági ellenőrzést, illetve kifogástalan életvitelre vonatkozó ellenőrzést az illetékes szervek elvégezzék,
+- c) jogszabályban meghatározott esetben nyilatkozat, amelyben a jelentkező hozzájárul ahhoz, hogy a tanulmányok megkezdéséhez szükséges nemzetbiztonsági ellenőrzést vagy egyszerűsített nemzetbiztonsági ellenőrzést, illetve kifogástalan életvitelre vonatkozó ellenőrzést az illetékes szervek elvégezzék,
 - d) jogszabályban meghatározott esetben érvényes, kockázati tényezőt nem tartalmazó nemzetbiztonsági ellenőrzöttség,
 - e) fennálló foglalkoztatásra irányuló jogviszony vagy ilyen jogviszony létesítésének vállalása meghatározott szervnél, tanulmányi szerződés megkötésének vállalása,
 - f) a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló törvény hatálya alá tartozó fegyveres szerv utánpótlási és vezetői adatbankjába történő felvétel vállalása,

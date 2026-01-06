@@ -3066,7 +3066,7 @@ A bejelentésre kötelezett személy
 - 11.1. közeli hozzátartozóval engedélyezett alá-fölérendeltségi, elszámolási, ellenőrzési kapcsolat,
 - 11.2. engedélyezett, más kereső foglalkozás,
 - 11.3. a bejelentéshez kötött egyéb, szolgálati viszonyon kívüli tevékenységre vonatkozó adatok,
-- 12. a nemzetbiztonsági ellenőrzésre vonatkozó adatok,
+- 12. a nemzetbiztonsági ellenőrzésre vagy egyszerűsített nemzetbiztonsági ellenőrzésre vonatkozó adatok,
 - 13. a vagyonnyilatkozat-tételi kötelezettséggel kapcsolatos adatok,
 - 14. szomatometriai adatok,
 - 15. a kártérítéssel kapcsolatos adatok:

@@ -1158,7 +1158,7 @@ vagy légiközlekedéssel összefüggő tevékenység
 
 45/A. § (1) A 45. § (6) bekezdésében meghatározott esetben az ott szereplő gazdasági társaságokra nem kell alkalmazni a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 8. § (14) és (15) bekezdését.
 
-(2) A 45. § (6) bekezdésében meghatározott esetben az ott szereplő gazdasági társaságok vezető tisztségviselője, vezető állású munkavállalója és felügyelő bizottságának tagja nem minősül a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 74. § i) pont ij) alpontja szerinti nemzetbiztonsági ellenőrzés alá eső személynek.
+(2)
 
 ## ÖTÖDIK RÉSZ — A LÉGI KÖZLEKEDÉSBIZTONSÁG
 
@@ -2285,7 +2285,7 @@ rendeletben állapítsa meg.
 
 74/B. § (1) A 45/A. § (1) bekezdése az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
 
-(2) A 45/A. § (2) bekezdése az Alaptörvény 46. cikk (6) bekezdése alapján sarkalatosnak minősül.
+(2)
 
 75. § (1) Ez a törvény 1996. július 1. napján lép hatályba.
 

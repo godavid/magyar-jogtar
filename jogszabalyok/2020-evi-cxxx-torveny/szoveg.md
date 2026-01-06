@@ -471,9 +471,9 @@ magyar állampolgárral létesíthető és tartható fenn.
 
 (8) Az e törvényben meghatározott alkalmazási feltételek alól felmentés nem adható. A foglalkoztatottnak a szolgálati jogviszony teljes időtartama alatt meg kell felelnie az e törvényben meghatározott alkalmazási feltételeknek. Ha a foglalkoztatott a (2) bekezdés szerinti büntetőeljárás hatálya alá kerül, a munkáltatói jogkör gyakorlója köteles méltatlansági eljárást indítani. Ha a foglalkoztatottal szemben távoltartás, bűnügyi felügyelet vagy letartóztatás kényszerintézkedést is elrendeltek, a munkáltatói jogkör gyakorlója a méltatlanságot külön eljárás nélkül hozott határozatban is megállapíthatja.
 
-#### 32. § [Eljárás nemzetbiztonsági ellenőrzés alá eső munkakör esetén]
+#### 32. § [Eljárás nemzetbiztonsági ellenőrzés és egyszerűsített nemzetbiztonsági ellenőrzés alá eső munkakör esetén]
 
-(1) A jogszabály alapján nemzetbiztonsági ellenőrzés alá eső munkakör betöltésére szolgálati jogviszony nem létesíthető azzal, akinek nemzetbiztonsági ellenőrzése során nemzetbiztonsági kockázatot állapítottak meg, kivéve, ha törvény szerint arra feljogosított személy a szolgálati jogviszony létesítését jóváhagyta.
+(1) A jogszabály alapján nemzetbiztonsági ellenőrzés alá eső munkakör betöltésére szolgálati jogviszony nem létesíthető azzal, akinek nemzetbiztonsági ellenőrzése során nemzetbiztonsági kockázatot állapítottak meg, kivéve, ha törvény szerint arra feljogosított személy a szolgálati jogviszony létesítését – a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 74. § i) pont ia) alpontja szerinti munkakör kivételével – jóváhagyta.
 
 (2) Ha a nemzetbiztonsági ellenőrzés alá eső szolgálati jogviszonyba jelölt személy
 
@@ -491,11 +491,18 @@ a munkáltatói jogkör gyakorlója – mérlegelése alapján – a szolgálati
 
 a munkáltatói jogkör gyakorlója – mérlegelése alapján – a foglalkoztatott részére más, nemzetbiztonsági ellenőrzés alá nem eső szolgálati jogviszonynak minősülő munkakört ajánlhat fel. Ha a munkáltatói jogkör gyakorlója nem ajánl fel más munkakört, vagy ha a foglalkoztatott a felajánlott munkakört nem fogadja el, a szolgálati jogviszonyt azonnali hatállyal meg kell szüntetni.
 
+(4a) Ha a foglalkoztatott a szolgálati jogviszonya fennállása alatt válik egyszerűsített nemzetbiztonsági ellenőrzés alá eső személlyé, és
+
+- a) az egyszerűsített nemzetbiztonsági ellenőrzéséhez nem járul hozzá, vagy
+- b) az egyszerűsített nemzetbiztonsági ellenőrzése során a foglalkoztatást nemzetbiztonsági szempontból befolyásoló információ merült fel,
+
+a munkáltatói jogkör gyakorlója – mérlegelése alapján – a foglalkoztatott részére más, egyszerűsített nemzetbiztonsági ellenőrzés alá nem eső munkakört ajánlhat fel, a szolgálati jogviszonyt azonnali hatállyal megszüntetheti, vagy az egyszerűsített nemzetbiztonsági ellenőrzés alá eső munkakörben tovább foglalkoztathatja a foglalkoztatottat. Ha a foglalkoztatott a felajánlott munkakört nem fogadja el, a szolgálati jogviszonyt azonnali hatállyal meg kell szüntetni.
+
 (5) A felajánlott munkakör elfogadásáról vagy elutasításáról a foglalkoztatott a felajánlástól számított öt munkanapon belül írásban nyilatkozik. Ha a foglalkoztatott a munkakör elfogadásáról öt munkanapon belül nem nyilatkozik, azt úgy kell tekinteni, mintha a felajánlott munkakört elutasította volna.
 
-(6) Ha a pénzügyőr a (4) bekezdés alapján felajánlott pénzügyőri munkakört elfogadja, intézkedni kell a kifogástalan életvitel soron kívüli ellenőrzéséről. A pénzügyőr az elfogadott munkakörbe abban az esetben helyezhető, ha a kifogástalan életvitel ellenőrzése során a 34. § (5) bekezdése szerinti körülményt a munkáltatói jogkör gyakorlója nem állapított meg. A kifogástalan életvitel ellenőrzése idejére a pénzügyőrt a munkáltatói jogkör gyakorlója a munkavégzés alól mentesíti. A mentesítés időtartamára a pénzügyőr a távolléti díjának 50%-ára jogosult.
+(6) Ha a pénzügyőr a (4) vagy (4a) bekezdés alapján felajánlott pénzügyőri munkakört elfogadja, intézkedni kell a kifogástalan életvitel soron kívüli ellenőrzéséről. A pénzügyőr az elfogadott munkakörbe abban az esetben helyezhető, ha a kifogástalan életvitel ellenőrzése során a 34. § (5) bekezdése szerinti körülményt a munkáltatói jogkör gyakorlója nem állapított meg. A kifogástalan életvitel ellenőrzése idejére a pénzügyőrt a munkáltatói jogkör gyakorlója a munkavégzés alól mentesíti. A mentesítés időtartamára a pénzügyőr a távolléti díjának 50%-ára jogosult.
 
-(7) A szolgálati jogviszonynak a (4) bekezdés szerinti megszüntetése esetén a foglalkoztatottat felmentési idő és végkielégítés nem illeti meg. A megszüntetés okát és jogkövetkezményeit közölni kell a foglalkoztatottal, azzal, hogy a nemzetbiztonsági ellenőrzés megállapításaiból csak az közölhető a foglalkoztatottal, amihez az ellenőrzést végző szerv hozzájárult.
+(7) A szolgálati jogviszonynak a (4) vagy (4a) bekezdés szerinti megszüntetése esetén a foglalkoztatottat felmentési idő és végkielégítés nem illeti meg. A megszüntetés okát és jogkövetkezményeit közölni kell a foglalkoztatottal, azzal, hogy a nemzetbiztonsági ellenőrzés vagy az egyszerűsített nemzetbiztonsági ellenőrzés megállapításaiból csak az közölhető a foglalkoztatottal, amihez az ellenőrzést végző szerv hozzájárult.
 
 #### 33. § [A pénzügyőri kinevezés további feltételei]
 
@@ -511,7 +518,7 @@ a munkáltatói jogkör gyakorlója – mérlegelése alapján – a foglalkozta
 
 (1) A NAV pénzügyőri állományába jelentkező (a továbbiakban: jelentkező) életvitelét a jogviszony létesítését megelőzően, továbbá a pénzügyőr, valamint a tisztjelölt életvitelét a miniszter által meghatározott gyakorisággal, de legfeljebb évente egy alkalommal a jogviszony fennállása alatt ellenőrizni kell. A szolgálati jogviszony fennállása alatt a kifogástalan életvitel soron kívüli ellenőrzésére akkor kell intézkedni, ha a kifogástalan életvitel ellenőrzésének kezdeményezésére jogosult tudomására jutott adatokból a kifogásolható életvitelre alapos okkal lehet következtetni.
 
-(2) A jelentkező, valamint a pénzügyőr életvitelének ellenőrzésére nem kerül sor, ha a jelentkező tervezett munkaköre vagy a pénzügyőr munkaköre nemzetbiztonsági ellenőrzés alá eső munkakörnek minősül.
+(2) A jelentkező, valamint a pénzügyőr életvitelének ellenőrzésére nem kerül sor, ha a jelentkező tervezett munkaköre vagy a pénzügyőr munkaköre nemzetbiztonsági ellenőrzés vagy egyszerűsített nemzetbiztonsági ellenőrzés alá eső munkakörnek minősül.
 
 (3) A pénzügyőr személyügyi alapnyilvántartásban szereplő személyes adatait, valamint a vele közös háztartásban élő közeli hozzátartozójának a bűnügyi nyilvántartásban kezelt adatait a kifogástalan életvitel ellenőrzését végző szerv a kifogástalan életvitel-ellenőrzés céljából megismerheti, ennek tényét előbbi esetben a pénzügyőr, utóbbi esetben a közeli hozzátartozó írásban tudomásul veszi.
 
@@ -1136,6 +1143,7 @@ igénylése vagy igénybevétele miatt került sor.
 - b) megszűnt a NAV-nak az a tevékenysége, amelynek körében a foglalkoztatottat foglalkoztatták;
 - c) átszervezés következtében a foglalkoztatott munkaköre megszűnik, vagy pénzügyőri munkaköre tisztviselői munkakörré módosul, és a foglalkoztatott a számára felajánlott, a végzettségének és képzettségének megfelelő más munkakört nem fogadta el;
 - d) a foglalkoztatott nyugdíjasnak minősül [kivéve, ha a jogviszony a 66. § (1) bekezdés e) pontja alapján megszűnt].
+- e) a 32. § (4a) bekezdése szerint a munkáltatói jogkör gyakorlója a szolgálati jogviszony megszüntetéséről döntött.
 
 (2) A szolgálati jogviszonyt felmentéssel meg kell szüntetni, ha
 
@@ -1147,7 +1155,7 @@ igénylése vagy igénybevétele miatt került sor.
   - cc) a pénzügyőr pszichológiai vagy fizikai állapota alapján;
 - d) a 47. § (9) bekezdésében meghatározott kinevezésmódosítás esetén, illetve a 142. § (2) bekezdésében meghatározott esetben a foglalkoztatott azt kérelmezi;
 - e) a Tny. 18. § (2a) bekezdésében foglalt feltételt a felmentési idő leteltekor teljesítő foglalkoztatott kérelmezi;
-- f) a 32. § (4) bekezdése, valamint a 35. § (5) bekezdése szerinti esetben;
+- f) a 32. § (4) és (4a) bekezdése, valamint a 35. § (5) bekezdése szerinti esetben;
 - g) a foglalkoztatást kizáró ok jut a munkáltatói jogkör gyakorlója tudomására;
 - h) az 54. §, 57. §–60. § szerinti kirendelés, vezénylés megszűnése után a foglalkoztatott részére az 56. § (2) bekezdése szerinti végzettségének, képzettségének megfelelő munkakör nem biztosítható, vagy a részére az 56. § (3) bekezdése alapján felajánlott alacsonyabb munkakört nem fogadja el.
 
@@ -1226,7 +1234,7 @@ meghosszabbodik, ha azt a foglalkoztatott a felmentés közlésétől számítot
 
 (8) A kifizetett távolléti díjat visszakövetelni nem lehet, ha a foglalkoztatottat a munkavégzés alól végleg mentesítették és a távolléti díj fizetését kizáró körülmény a foglalkoztatottnak a munkavégzés alóli mentesítése után következett be.
 
-(9) A foglalkoztatottat felmentési idő nem illeti meg, ha felmentésére a 36. § (3) bekezdésében, 37. § (4) bekezdésében, a 70. § (2) bekezdés a) vagy f) pontjában, illetve (4) bekezdésében meghatározott okból kerül sor.
+(9) A foglalkoztatottat felmentési idő nem illeti meg, ha felmentésére a 36. § (3) bekezdésében, 37. § (4) bekezdésében, a 70. § (1) bekezdés e) pontjában, (2) bekezdés a) vagy f) pontjában, illetve (4) bekezdésében meghatározott okból kerül sor.
 
 #### 74. § [Végkielégítés]
 
@@ -1265,7 +1273,7 @@ azzal, hogy a foglalkoztatott nem jogosult végkielégítésre azon időtartam v
 (7) Végkielégítésre nem jogosult a foglalkoztatott, ha
 
 - a) legkésőbb a szolgálati jogviszony megszűnésének időpontjában nyugdíjasnak minősül vagy szolgálati járandóságra jogosult;
-- b) felmentésére a 36. § (3) bekezdésében, 37. § (4) bekezdésében, a 70. § (2) bekezdés a), b) vagy f) pontjában, illetve (4) bekezdésében meghatározott okból került sor.
+- b) felmentésére a 36. § (3) bekezdésében, 37. § (4) bekezdésében, a 70. § (1) bekezdés e) pontjában, (2) bekezdés a), b) vagy f) pontjában, illetve (4) bekezdésében meghatározott okból került sor.
 
 (8) Ha a foglalkoztatott a munkavégzési kötelezettség alóli mentesítés ideje alatt bármely költségvetési szervvel vagy költségvetési szerv legalább többségi befolyása alatt álló bármely gazdálkodó szervezettel teljes vagy részmunkaidős jogviszonyt létesít,
 
@@ -1309,7 +1317,7 @@ időtartama alatt.
 
 (7) Az (1) bekezdésben, valamint az (5) bekezdésben meghatározott védelem nem vonatkozik a foglalkoztatott jogviszonyának felmentéssel történő megszüntetésére, ha
 
-- a) a felmentésére a 70. § (2) bekezdés a), f) pontjában, (4) bekezdésében vagy a 142. § (7) bekezdésében meghatározott okból kerül sor,
+- a) a felmentésére a 70. § (1) bekezdés e) pontjában, (2) bekezdés a), f) pontjában, (4) bekezdésében vagy a 142. § (7) bekezdésében meghatározott okból kerül sor,
 - b) a felmentést a 70. § (2) bekezdés d), e) pontjában, a 142. § (2) bekezdésében, vagy a 176. § (4) bekezdésében foglaltak szerint a foglalkoztatott kérelmezi.
 
 #### 76. § [Kormányzati szolgálati, hivatásos szolgálati, rendvédelmi igazgatási szolgálati, nemzetbiztonsági alkalmazotti, közszolgálati, közalkalmazotti, igazságügyi alkalmazotti szolgálati jogviszonyba, illetve a Magyar Honvédséghez történő áthelyezés]

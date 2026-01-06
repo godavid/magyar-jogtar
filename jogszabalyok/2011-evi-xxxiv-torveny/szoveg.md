@@ -180,7 +180,7 @@ kell megőrizni.
   - dc) az eljáró nyomozó hatóság,
   - dd) az eljáró szabálysértési hatóság,
   - de) a nemperes eljárást lefolytató közjegyző,
-- e) a 4. § (2)–(5) bekezdésben foglalt adatokról az érintett külföldi fegyveres erő, nemzetközi katonai parancsnokság vagy azok állománya tagjának nemzetbiztonsági ellenőrzése vagy védelme biztosítása céljából az eljáró nemzetbiztonsági szolgálat,
+- e) a 4. § (2)–(5) bekezdésben foglalt adatokról az érintett külföldi fegyveres erő, nemzetközi katonai parancsnokság vagy azok állománya tagjának nemzetbiztonsági ellenőrzése, egyszerűsített nemzetbiztonsági ellenőrzése vagy védelme biztosítása céljából az eljáró nemzetbiztonsági szolgálat,
 - f) a 4. § (3) bekezdés a), b), c) és f) pontjában és a 4. § (4) bekezdés a)–d) pontjában foglalt adatokról a katasztrófák elleni védekezés tervezésének és végrehajtásának elősegítése érdekében a katasztrófavédelemmel kapcsolatos ügyekben eljáró központi hatóság,
 - g) a 4. § (2) bekezdés a), c), e), f), g) és h) pontjában és a 4. § (5) bekezdés a), c), d), e), f) és g) pontjában foglalt adatokról az érintett állomány és hozzátartozóik idegenrendészeti jogállásának igazolása és ellenőrzése céljából az illetékes idegenrendészeti hatóság,
 - h) a 4. § (2) bekezdés a), b), c), e), g) és h) pontjában, a 4. § (3) bekezdés a), e), g), h) és i) pontjában, a 4. § (4) bekezdés a), d), e), f) és g) pontjában és a 4. § (5) bekezdésében foglalt adatokról az adó- és vámmentesség fennálltának igazolása és ellenőrzése, valamint a vám- vagy adójogszabályok megsértése gyanújának felmerülése esetén az eljárás lefolytatása céljából

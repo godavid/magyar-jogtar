@@ -951,9 +951,9 @@ a veszélyhelyzet ideje alatt alkalmazandó egyes belügyi és közigazgatási t
 
 (3) A képesítő bizonyítvány kiállítására a „B” kategóriás gépjárművezetői engedélynek a sikeresen teljesített képesítő vizsgától számított 1 éven belül történő bemutatása esetén van lehetőség. Ezen határidő elmulasztása esetén a képesítő vizsgát ismételten le kell tenni.
 
-#### 42. A biztonsági tanúsítványok és szakvélemények érvényességére vonatkozó rendelkezések eltérő alkalmazása
+#### 42.
 
-113. § Ha a személyi biztonsági tanúsítvány, a telephely biztonsági tanúsítvány vagy biztonsági szakvélemény érvényessége a veszélyhelyzet ideje alatt járt le vagy a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnésétől számított 45 napon belül jár le, érvényessége a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnését követő 90. napig meghosszabbodik.
+#### 113. §
 
 #### 43. A Magyarország biztonsági érdekét sértő külföldi befektetések ellenőrzésével összefüggő átmeneti szabályok
 

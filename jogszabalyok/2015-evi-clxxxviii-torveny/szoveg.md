@@ -50,7 +50,7 @@ az arcképelemzési nyilvántartásról és az arcképelemző rendszerről
 - c) a körözési nyilvántartási rendszerről és a személyek, dolgok felkutatásáról és azonosításáról szóló 2013. évi LXXXVIII. törvény (a továbbiakban: Körtv.) 8. § (1) bekezdésében meghatározott személyek azonosítása és az eltűnt személyek felkutatása,
 - d) a személyazonosság igazolására alkalmas hatósági igazolvány kiadására irányuló közigazgatási hatósági eljárásokban a kérelmező azonosítása,
 - e) a nemzetbiztonsági szolgálatok, illetve a titkos információgyűjtés folytatására, valamint a leplezett eszközök alkalmazására feljogosított szervek ezen tevékenységének támogatása,
-- f) a nemzetbiztonsági szolgálatok által végzett nemzetbiztonsági ellenőrzés, valamint törvényben meghatározott felderítési, nemzetbiztonsági védelmi és elhárítási, információszerzési, nemzetbiztonsági, iparbiztonsági, belső biztonsági és bűnmegelőzési ellenőrzési feladataik támogatása és az objektumok műveleti védelme,
+- f) a nemzetbiztonsági szolgálatok által végzett nemzetbiztonsági ellenőrzés, egyszerűsített nemzetbiztonsági ellenőrzés, valamint törvényben meghatározott felderítési, nemzetbiztonsági védelmi és elhárítási, információszerzési, nemzetbiztonsági, iparbiztonsági, belső biztonsági és bűnmegelőzési ellenőrzési feladataik támogatása és az objektumok műveleti védelme,
 - g) törvényben meghatározott személyvédelmi feladatok ellátása,
 - h) jogszabályban meghatározott központi államhatalmi és kormányzati tevékenység szempontjából fontos szervek (intézmények) és létesítmények biztonsági védelme,
 - i) a bűncselekmények megelőzése, felderítése és a büntetőeljárás lefolytatása érdekében segítségnyújtás a külföldi hatóságok részére azon személy azonosításában, akivel szemben az eljárást folytatják,
@@ -201,7 +201,7 @@ az általa kezelt arcképmás felhasználásával az arcképelemző tevékenysé
 
 támogatása során a rendelkezésére álló arcképmás felhasználásával az arcképelemző tevékenységet végző szerv arcképelemző tevékenységét igénybe venni személyazonosság ellenőrzése és ismeretlen személy azonosítása érdekében.
 
-(7) A 3. § (3) bekezdés f) pontjában meghatározott célból a nemzetbiztonsági szolgálatok jogosultak a nemzetbiztonsági ellenőrzés, valamint törvényben meghatározott felderítési, nemzetbiztonsági védelmi és elhárítási, információszerzési, továbbá nemzetbiztonsági, iparbiztonsági, belső biztonsági, bűnmegelőzési ellenőrzési és az objektumok műveleti védelme céljából a rendelkezésére álló arcképmás felhasználásával az arcképelemző tevékenységet végző szerv arcképelemző tevékenységét igénybe venni személyazonosság ellenőrzése és ismeretlen személy azonosítása érdekében.
+(7) A 3. § (3) bekezdés f) pontjában meghatározott célból a nemzetbiztonsági szolgálatok jogosultak a nemzetbiztonsági ellenőrzés, az egyszerűsített nemzetbiztonsági ellenőrzés, valamint törvényben meghatározott felderítési, nemzetbiztonsági védelmi és elhárítási, információszerzési, továbbá nemzetbiztonsági, iparbiztonsági, belső biztonsági, bűnmegelőzési ellenőrzési és az objektumok műveleti védelme céljából a rendelkezésére álló arcképmás felhasználásával az arcképelemző tevékenységet végző szerv arcképelemző tevékenységét igénybe venni személyazonosság ellenőrzése és ismeretlen személy azonosítása érdekében.
 
 (8) A 3. § (3) bekezdés g) pontjában meghatározott célból jogosult
 

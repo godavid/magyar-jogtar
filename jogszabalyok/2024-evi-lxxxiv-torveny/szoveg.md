@@ -732,11 +732,11 @@ részére, amely szervek a jelentést megküldik a védelmi és biztonsági tev�
 
 #### 23. Adatvédelmi rendelkezések
 
-37. § (1) A komplex ellenőrzésben, valamint a kijelölésre, a kijelölés fenntartására és a kijelölés visszavonására irányuló közigazgatási hatósági eljárásban a kijelölő hatóság és az ágazati szakhatóság részéről csak olyan személy vehet részt, akinek a nemzetbiztonsági szolgálatokról szóló törvényben meghatározott nemzetbiztonsági ellenőrzését elvégezték, és akivel szemben kockázati tényező nem merült fel.
+37. § (1)
 
 (2) Az e törvényben meghatározott feladatellátása során, így különösen a kijelölési eljárásban, a rendkívüli esemény kezelésében, valamint a hatósági ellenőrzés keretében, az eljárással összefüggő és ahhoz szükséges ideig, a minősített adatot, személyes adatot vagy különleges adatot, üzleti titkot, banktitkot, fizetési titkot, biztosítási titkot, értékpapírtitkot, pénztártitkot a kijelölő hatóság és az ágazati szakhatóság, illetve az e törvény végrehajtásában részt vevő egyéb szervek – a minősített adatokra, valamint a nemzetbiztonsági és a honvédelmi érdekű információbiztonságra vonatkozó korlátozások figyelembevételével – megismerhetik.
 
-(3) Az (1) és a (2) bekezdés alapján megismert adatokat
+(3) A (2) bekezdés alapján megismert adatokat
 
 - a) a kijelölő hatóság, az ágazati szakhatóság a hatósági eljárás és az ellenőrzés időtartamára,
 - b) a nyilvántartó hatóság a nyilvántartás idejéig

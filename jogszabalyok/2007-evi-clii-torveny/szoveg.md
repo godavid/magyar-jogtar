@@ -40,11 +40,11 @@ egyes vagyonnyilatkozat-tételi kötelezettségekről
 - b) a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szervnél vagy polgári nemzetbiztonsági szolgálatnál osztályvezetői, illetve azzal azonos vagy magasabb beosztású vezetői beosztást, valamint a honvédek jogállásáról szóló kormányrendelet hatálya alá tartozó tábornoki vagy ezredesi rendfokozattal rendszeresített beosztást tölt be,
 - c) politikai tanácsadó és főtanácsadó, kormány- vagy miniszteri tanácsadó vagy főtanácsadó,
 - d) vezetői munkakört betöltő köztisztviselő vagy kormánytisztviselő,
-- e) jogszabály alapján nemzetbiztonsági ellenőrzés alá eső köztisztviselői vagy kormánytisztviselői munkakört tölt be,
+- e) jogszabály alapján nemzetbiztonsági ellenőrzés vagy egyszerűsített nemzetbiztonsági ellenőrzés alá eső köztisztviselői vagy kormánytisztviselői munkakört tölt be,
 - f) ügyész vagy
 - g) közjegyző,
 - h) bírósági végrehajtó,
-- i) a Nemzeti Adó- és Vámhivatal vezetői, illetve jogszabály alapján nemzetbiztonsági ellenőrzés alá eső munkakört betöltő foglalkoztatottja.
+- i) a Nemzeti Adó- és Vámhivatal vezetői, illetve jogszabály alapján nemzetbiztonsági ellenőrzés vagy egyszerűsített nemzetbiztonsági ellenőrzés alá eső munkakört betöltő foglalkoztatottja.
 
 (3) Az (1) bekezdésben foglaltaktól függetlenül vagyonnyilatkozat tételére kötelezett
 

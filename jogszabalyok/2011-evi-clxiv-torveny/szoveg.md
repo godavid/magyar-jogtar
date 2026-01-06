@@ -1568,7 +1568,7 @@ ha a feladatkör ellátásához szükséges mértékű magyar nyelvismerettel, t
 
 ha a feladatkör ellátásához szükséges mértékű magyar nyelvismerettel és legalább alapfokú végzettséggel rendelkezik.
 
-(4) Nemzetbiztonsági ellenőrzés alá eső ügyészségi munkakört csak magyar állampolgár tölthet be.
+(4) Nemzetbiztonsági ellenőrzés vagy egyszerűsített nemzetbiztonsági ellenőrzés alá eső ügyészségi munkakört csak magyar állampolgár tölthet be.
 
 (5) Nem nevezhető ki tisztviselőnek, írnoknak, fizikai alkalmazottnak az a személy, aki
 
@@ -2331,8 +2331,8 @@ A vezetői pótlék az illetményalap százalékábanA vezetői munkakörök %
 - 8.2. az állami kezességvállalással biztosított hitel nagysága,
 - 8.3. a hitel lejáratának időpontja;
 - 9. Az ügyészségi alkalmazott
-- 9.1. nemzetbiztonsági ellenőrzési kötelezettsége, esedékessége,
-- 9.2. utolsó nemzetbiztonsági ellenőrzésének időpontja;
+- 9.1. nemzetbiztonsági ellenőrzési vagy egyszerűsített nemzetbiztonsági ellenőrzési kötelezettsége, esedékessége,
+- 9.2. utolsó nemzetbiztonsági ellenőrzésének vagy utolsó egyszerűsített nemzetbiztonsági ellenőrzésének időpontja;
 - 10. Az ügyészségi alkalmazott
 - 10.1. vagyonnyilatkozat-tételi kötelezettsége, esedékessége,
 - 10.2. utolsó vagyonnyilatkozat tételének időpontja;

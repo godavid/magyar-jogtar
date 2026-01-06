@@ -48,7 +48,7 @@ részes felek által képviselt államokkal Magyarországnak van-e a ba) alpontb
 - 15. telephely biztonsági tanúsítvány: a minősített adat védelmének fizikai, adminisztratív és elektronikus biztonsági feltételeinek megfelelő gazdálkodó szervezet részére kiadott olyan tanúsítvány, amely meghatározza, hogy a gazdálkodó szervezet milyen legmagasabb minősítési szintű minősített adat kezelésére alkalmas.
 - 16. ügyészség vezetője: a fellebbviteli főügyész, a főügyész, a fellebbviteli vezető ügyész, a vezető ügyész.
 - 17. egyszerűsített telephely biztonsági tanúsítvány: a minősített adat védelmének fizikai, adminisztratív és elektronikus biztonsági feltételeinek nem megfelelő gazdálkodó szervezet részére kiadott olyan tanúsítvány, amely meghatározza, hogy a gazdálkodó szervezet milyen legmagasabb minősítési szintű minősített adat kezelésére alkalmas.
-- 18. iparbiztonsági ellenőrzés: a gazdálkodó szervezet cégellenőrzése, az iparbiztonsági ellenőrzés és a telephely biztonsági tanúsítvány kiadásának részletes szabályairól szóló kormányrendelet alapján nemzetbiztonsági ellenőrzésre kötelezett személyek, valamint a minősített adatot felhasználó személyek nemzetbiztonsági ellenőrzése.
+- 18. iparbiztonsági ellenőrzés: a gazdálkodó szervezet cégellenőrzése, a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény (a továbbiakban: Nbtv.) 74. § i) pont ip) vagy iq) alpontja alapján nemzetbiztonsági ellenőrzés alá eső személyek nemzetbiztonsági ellenőrzése.
 - 19. minősített szerződés: minősített adat keletkeztetését, felhasználását, valamint átadását igénylő vagy minősített adatokat tartalmazó szerződés.
 
 ### II. Fejezet — A MINŐSÍTŐK ÉS A MINŐSÍTÉSI ELJÁRÁS SZABÁLYAI
@@ -244,7 +244,7 @@ biztonsági feltételeket.
 
 (2) A megismerési engedély kiadásáról az érintett kérelmére a minősítő 15 napon belül határoz. A megismerési engedély kiadását a minősítő megtagadja, ha az adat megismerése a minősítés alapjául szolgáló közérdek sérelméhez vezet. A megismerési engedély megtagadását a minősítőnek indokolnia kell.
 
-(3) A megismerési engedély megtagadása esetén az érintett a határozatot közigazgatási perben megtámadhatja. Ha a bíróság a kérelemnek helyt ad, a minősítőt a megismerési engedély kiadására kötelezi. A bíróság az ügyben zárt tárgyaláson jár el. A perben csak olyan bíró járhat el, akinek a nemzetbiztonsági szolgálatokról szóló törvény szerinti nemzetbiztonsági ellenőrzését elvégezték. A felperes, a felperes oldalán érdekeltként részt vevő személy és ezek képviselője a minősített adatot az eljárás során nem ismerheti meg. A perben részt vevő egyéb személyek, valamint azok képviselői a minősített adatot csak akkor ismerhetik meg, ha a nemzetbiztonsági szolgálatokról szóló törvény szerinti nemzetbiztonsági ellenőrzésüket elvégezték.
+(3) A megismerési engedély megtagadása esetén az érintett a határozatot közigazgatási perben megtámadhatja. Ha a bíróság a kérelemnek helyt ad, a minősítőt a megismerési engedély kiadására kötelezi. A bíróság az ügyben zárt tárgyaláson jár el. A perben csak olyan bíró járhat el, akinek az Nbtv. szerinti nemzetbiztonsági ellenőrzését elvégezték. A felperes, a felperes oldalán érdekeltként részt vevő személy és ezek képviselője a minősített adatot az eljárás során nem ismerheti meg. A perben részt vevő egyéb személyek, valamint azok képviselői a minősített adatot csak akkor ismerhetik meg, ha az Nbtv. szerinti nemzetbiztonsági ellenőrzésüket elvégezték.
 
 #### 12. §
 
@@ -270,7 +270,7 @@ biztonsági feltételeket.
 - h) a Nemzeti Adatvédelmi és Információszabadság Hatóság elnöke,
 - i) az Állami Számvevőszék elnöke
 
-– a nemzetbiztonsági szolgálatokról szóló törvényben meghatározott – nemzetbiztonsági ellenőrzés (a továbbiakban: nemzetbiztonsági ellenőrzés), személyi biztonsági tanúsítvány, valamint titoktartási nyilatkozat nélkül jogosult a feladat- és hatáskörébe tartozó minősített adatra vonatkozó állami vagy közfeladat végrehajtása érdekében történő ügyintézésre, feldolgozásra, valamint a minősített adat nyilvántartásával kapcsolatos valamennyi tevékenységre.
+– az Nbtv.-ben meghatározott – nemzetbiztonsági ellenőrzés (a továbbiakban: nemzetbiztonsági ellenőrzés), személyi biztonsági tanúsítvány, valamint titoktartási nyilatkozat nélkül jogosult a feladat- és hatáskörébe tartozó minősített adatra vonatkozó állami vagy közfeladat végrehajtása érdekében történő ügyintézésre, feldolgozásra, valamint a minősített adat nyilvántartásával kapcsolatos valamennyi tevékenységre.
 
 (3a) Törvényben meghatározott feladatai ellátásához a Szuverenitásvédelmi Hivatal elnöke és elnökhelyettese személyi biztonsági tanúsítvány, valamint titoktartási nyilatkozat nélkül jogosultak a feladat- és hatáskörükbe tartozó minősített adat felhasználására.
 
@@ -343,7 +343,7 @@ ad ki.
 
 ### Személyi biztonsági tanúsítvány kiadása
 
-17. § (1) A Nemzeti Biztonsági Felügyelet adja ki a 9. § (1) bekezdésében meghatározott külföldi minősített adat felhasználói, továbbá a minősített adatot kezelő gazdálkodó szervezetek felhasználói részére a személyi biztonsági tanúsítványt. A Nemzeti Biztonsági Felügyelet a szükséges biztonsági feltételek hiánya vagy megszűnése esetén a személyi biztonsági tanúsítvány kiállítását megtagadja, illetve a már kiadott tanúsítványt visszavonja.
+17. § (1) A Nemzeti Biztonsági Felügyelet adja ki a 9. § (1) bekezdésében meghatározott külföldi minősített adat felhasználói, továbbá a minősített adatot kezelő gazdálkodó szervezetek felhasználói részére a személyi biztonsági tanúsítványt. A Nemzeti Biztonsági Felügyelet a szükséges biztonsági feltételek hiánya vagy megszűnése esetén, továbbá, ha a foglalkoztató a nemzetbiztonsági ellenőrzést végző nemzetbiztonsági szolgálatnál az Nbtv. 69. § (5) bekezdése szerinti keretszám terhére történő nyilvántartásba vételt nem igazolja, a személyi biztonsági tanúsítvány kiállítását megtagadja, illetve a már kiadott tanúsítványt visszavonja.
 
 (2) A biztonsági vezető
 
@@ -353,7 +353,9 @@ ad ki.
 
 (3) A személyi biztonsági tanúsítvány kiadásához az érintett nemzetbiztonsági ellenőrzésének lefolytatása szükséges. A minősített adat felhasználásához szükséges személyi biztonsági tanúsítvány nem adható ki, illetve a már kiadott tanúsítványt vissza kell vonni, ha a nemzetbiztonsági ellenőrzés kockázati tényezőt tár fel.
 
-(4) A személyi biztonsági tanúsítvány a nemzetbiztonsági ellenőrzésről készült kockázatmentes biztonsági szakvélemény kiállításától számított 5 évig érvényes.
+(3a) A személyi biztonsági tanúsítvány érvényes biztonsági szakvélemény birtokában, a (3) bekezdésben meghatározottakon túl is csak akkor adható ki az Nbtv. 74. § i) pont ia) alpontja alapján nemzetbiztonsági ellenőrzés alá eső személy részére, ha a foglalkoztató szerv vagy szervezet (a továbbiakban együtt: foglalkoztató) tájékoztatja a nemzetbiztonsági ellenőrzés lefolytatására jogosult nemzetbiztonsági szolgálatot, hogy az Nbtv. 74. § i) pont ia) alpontja alapján nemzetbiztonsági ellenőrzés alá eső személyt – az Nbtv. 69. § (5) bekezdése szerinti keretszám terhére – az Nbtv. 69. § (7) bekezdése szerinti nyilvántartásba vegye fel, és a nyilvántartásba vételről a nemzetbiztonsági szolgálat tájékoztatja a foglalkoztatót.
+
+(4) A személyi biztonsági tanúsítvány a nemzetbiztonsági ellenőrzésről készült biztonsági szakvélemény kiállításától számított 5 évig érvényes.
 
 (5) A gazdálkodó szervezetnél a minősített adatot felhasználó külföldi állampolgárságú személy részére a személyi biztonsági tanúsítvány – törvényben kihirdetett nemzetközi szerződés alapján – abban az esetben is kiadható, ha rendelkezik az állampolgársága szerinti ország feladat- és hatáskörrel rendelkező hatósága által kiállított érvényes személyi biztonsági tanúsítvánnyal.
 
@@ -412,7 +414,7 @@ ad ki.
   - ab) állampolgársága,
   - ac) úti okmányának okmányazonosítója,
   - ad) minősített adat felhasználásához kötődő munkahelye, beosztása és feladatköre,
-  - ae) nemzetbiztonsági ellenőrzése során kitöltött biztonsági kérdőívben és a biztonsági szakvéleményben foglalt adatai,
+  - ae) nemzetbiztonsági ellenőrzése során kitöltött biztonsági kérdőívben és a biztonsági szakvéleményben vagy az Nbtv. 71/C. § (2) bekezdése szerinti tájékoztatóban foglalt adatai,
 - b) a kiadott személyi biztonsági tanúsítvány száma, kelte, érvényességi ideje és szintje.
 
 (2) Az (1) bekezdésben meghatározott adatokat a Nemzeti Biztonsági Felügyelet az érintett személy részére kiadott utolsó személyi biztonsági tanúsítvány érvényességi idejének lejártát vagy visszavonását követően a minősített adattal visszaélés bűncselekményére a büntető törvénykönyvben meghatározott büntetési tétel felső határának megfelelő ideig kezeli.

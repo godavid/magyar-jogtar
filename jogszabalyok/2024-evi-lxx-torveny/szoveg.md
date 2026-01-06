@@ -386,7 +386,7 @@ besorolási kategóriába tartoznak.
 - b) aki büntetlen előéletű,
 - c) aki rendelkezik a tervezett szolgálati beosztás besorolási osztálya szerint meghatározott végzettséggel,
 - d) aki a nemzetbiztonsági szolgálatra és a tervezett szolgálati beosztására egészségi és pszichológiai szempontból alkalmas,
-- e) aki a nemzetbiztonsági ellenőrzés során kiállított biztonsági szakvélemény szerint a biztonsági feltételeknek megfelel, vagy, ha a biztonsági feltételeknek nem felel meg, de az Nbtv. szerint arra feljogosított személy a nemzetbiztonsági ellenőrzés alá eső jogviszony létesítését jóváhagyta,
+- e) aki a nemzetbiztonsági ellenőrzés során kiállított biztonsági szakvélemény szerint a biztonsági feltételeknek megfelel, vagy, ha a biztonsági feltételeknek nem felel meg, de az Nbtv. szerint arra feljogosított személy – az Nbtv. 74. § i) pont ia) alpontja szerinti munkakör kivételével – a nemzetbiztonsági ellenőrzés alá eső munkakör létesítését jóváhagyta,
 - f) aki a poligráfos vizsgálaton való részvételt vállalta,
 - g) aki elfogadja egyes alapvető jogainak e törvény szerinti korlátozását,
 - h) aki tudomásul veszi és elfogadja a nemzetbiztonsági szolgálattal járó, szolgálati viszonyra vonatkozó szabályokban meghatározott kötelezettségeket és elvárásokat.
@@ -975,7 +975,7 @@ megfelelő összegnek a részére megállapított baleseti ellátás, rehabilit�
 
 (2) A szolgálati viszonyt felmentéssel meg kell szüntetni, ha
 
-- a) a nemzetbiztonsági állomány tagja nemzetbiztonsági szempontból alkalmatlanná vált, mert a nemzetbiztonsági ellenőrzése során kiállított biztonsági szakvélemény szerint a biztonsági feltételeknek nem felel meg – kivéve, ha az Nbtv. szerint arra feljogosított személy a nemzetbiztonsági ellenőrzés alá eső jogviszony fenntartását jóváhagyta –,
+- a) a nemzetbiztonsági állomány tagja nemzetbiztonsági szempontból alkalmatlanná vált, mert a nemzetbiztonsági ellenőrzése nemzetbiztonsági kockázatot állapított meg – kivéve, ha az Nbtv. szerint arra feljogosított személy, az Nbtv. 74. § i) pont ia) alpontja szerinti munkakör kivételével a nemzetbiztonsági ellenőrzés alá eső munkakör fenntartását jóváhagyta –,
 - b) a nemzetbiztonsági állomány tagja a hivatása gyakorlására érdemtelen,
 - c) a nemzetbiztonsági állomány tagja teljesítményértékelése alapján
   - ca) a nemzetbiztonsági szolgálatra alkalmatlanná vált vagy
@@ -2959,7 +2959,7 @@ meghatározott szabályozási tárgykört.
 
 - a) aki a munkakörhöz megállapított képesítési követelményeknek megfelel,
 - b) aki a poligráfos vizsgálaton való részvételt vállalja,
-- c) aki a nemzetbiztonsági ellenőrzés során kiállított biztonsági szakvélemény szerint a biztonsági feltételeknek megfelel, vagy, ha a biztonsági feltételeknek nem felel meg, de az Nbtv. szerint arra feljogosított személy a nemzetbiztonsági ellenőrzés alá eső jogviszony létesítését jóváhagyta, valamint
+- c) aki a nemzetbiztonsági ellenőrzés során kiállított biztonsági szakvéleménnyel rendelkezik, vagy akivel szemben ugyan nemzetbiztonsági kockázat került megállapításra, de az Nbtv. szerint arra feljogosított személy – az Nbtv. 74. § i) pont ia) alpontja szerinti munkakör kivételével – a nemzetbiztonsági ellenőrzés alá eső munkakör betöltését jóváhagyta, valamint
 - d) aki elfogadja egyes alapvető jogainak e törvény szerinti korlátozását.
 
 (2) A nemzetbiztonsági alkalmazotti jogviszony létesítéséhez szükséges, az (1) bekezdés a) pontjában meghatározott adatokat és tényeket a jelentkezőnek kell igazolnia eredeti okirattal vagy annak hiteles másolatával.

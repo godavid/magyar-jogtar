@@ -69,7 +69,7 @@ egyetértésével nevezi ki.
 
 (4) A Teljesítésigazolási Szakértői Szerv tagjaira, szervezetére, működésére, eljárására, díjazására, tagjainak képesítésére és jogosultságára, a feladatellátás feltételeire, a szakértői vélemény és kivonatának tartalmára, valamint elkészítésére vonatkozó megbízás elfogadása iránti kérelemre vonatkozó részletes szabályokat a Kormány rendeletben állapítja meg.
 
-(5) A közbeszerzésekről szóló 2015. évi CLXIII. törvény 9. § (1) bekezdés a) és b) pontja szerinti eljárás eredményeként megkötött szerződés teljesítésével kapcsolatos ügyekben a Teljesítésigazolási Szakértői Szerv szakértői tanács azon tagjai járhatnak el, akik tekintetében a nemzetbiztonsági szolgálatokról szóló törvény szerinti nemzetbiztonsági ellenőrzést lefolytatták, és az ellenőrzés nemzetbiztonsági kockázatot nem állapított meg.
+(5)
 
 #### 4. A szakértői tanács
 

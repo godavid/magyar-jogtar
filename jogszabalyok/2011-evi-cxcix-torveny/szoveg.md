@@ -499,7 +499,7 @@ magyar állampolgárral létesíthető és tartható fenn. Nem létesíthető ko
 (3) A jogszabály alapján nemzetbiztonsági ellenőrzés alá eső kormányzati szolgálati jogviszony nem létesíthető azzal,
 
 - a) aki nemzetbiztonsági ellenőrzéséhez nem járul hozzá,
-- b) akinek nemzetbiztonsági ellenőrzése során nemzetbiztonsági kockázatot állapítottak meg, kivéve, ha a külön törvény szerint arra feljogosított személy, szerv vagy testület a kormányzati szolgálati jogviszony létesítését jóváhagyta.
+- b) akinek nemzetbiztonsági ellenőrzése során nemzetbiztonsági kockázatot állapítottak meg, kivéve, ha a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény (a továbbiakban: Nbtv.) szerint arra feljogosított személy, szerv vagy testület a kormányzati szolgálati jogviszony létesítését – az Nbtv. 74. § i) pont ia) alpontja szerinti munkakör kivételével – jóváhagyta.
 
 (4) Ha a nemzetbiztonsági ellenőrzés alá eső kormányzati szolgálati jogviszonyba jelölt személy
 
@@ -515,7 +515,15 @@ az államigazgatási szerv – mérlegelése alapján – a kormányzati szolgá
 
 a munkáltató – mérlegelése alapján – a kormánytisztviselő részére más, nemzetbiztonsági ellenőrzés alá nem eső kormányzati szolgálati jogviszonynak minősülő munkakört ajánlhat fel. Felajánlható munkakör hiányában, vagy ha a kormánytisztviselő a felajánlott munkakört nem fogadja el a kormányzati szolgálati jogviszonyt azonnali hatállyal meg kell szüntetni.
 
-(4b) A kormányzati szolgálati jogviszonynak a (4a) bekezdés szerinti megszüntetése esetén a kormánytisztviselőt felmentési idő és végkielégítés nem illeti meg. A megszüntetés okát és jogkövetkezményeit közölni kell a kormánytisztviselővel.
+(4b) Ha a kormánytisztviselő a kormányzati szolgálati jogviszonya fennállása alatt válik egyszerűsített nemzetbiztonsági ellenőrzés alá eső személlyé, és
+
+- a) az egyszerűsített nemzetbiztonsági ellenőrzéséhez nem járul hozzá,
+- b) az egyszerűsített nemzetbiztonsági ellenőrzése során a foglalkoztatást nemzetbiztonsági szempontból befolyásoló információ merült fel, vagy
+- c) az egyszerűsített nemzetbiztonsági ellenőrzés felülvizsgálati eljárása során a foglalkoztatást nemzetbiztonsági szempontból befolyásoló információ merült fel,
+
+a munkáltató – mérlegelése alapján – a kormánytisztviselő részére más, egyszerűsített nemzetbiztonsági ellenőrzés alá nem eső kormányzati szolgálati jogviszonynak minősülő munkakört ajánlhat fel vagy az egyszerűsített nemzetbiztonsági ellenőrzés alá eső kormányzati szolgálati jogviszonynak minősülő munkakörben tovább foglalkoztathatja a kormánytisztviselőt. Felajánlható munkakör hiányában, vagy ha a kormánytisztviselő a felajánlott munkakört nem fogadja el, a kormányzati szolgálati jogviszonyt azonnali hatállyal meg kell szüntetni.
+
+(4c) A kormányzati szolgálati jogviszonynak a (4a) vagy (4b) bekezdés szerinti megszüntetése esetén a kormánytisztviselőt felmentési idő és végkielégítés nem illeti meg. A megszüntetés okát és jogkövetkezményeit közölni kell a kormánytisztviselővel.
 
 (5) Ha törvény az e törvényben meghatározott munkavégzési szabályra külön ellenőrzési lehetőséget teremt az államigazgatási szerv kormánytisztviselői tekintetében, kormányzati szolgálati jogviszony azzal létesíthető, aki tudomásul veszi, hogy kormányzati szolgálati jogviszonyának fennállása alatt feladatai törvényes ellátását az arra törvényben kijelölt szerv megbízhatósági vizsgálattal ellenőrizheti.
 
@@ -552,7 +560,7 @@ a munkáltató – mérlegelése alapján – a kormánytisztviselő részére m
 
 (3) Amennyiben a rendelkezési állományú katona végzettsége nem felel meg a munkakör betöltéséhez előírt képesítési feltételeknek, a 41. § (1) bekezdés a) pontjában meghatározott tanulmányait a Magyar Honvédség költségére végzi.
 
-(4) A (3) bekezdés szerinti képzés költségeit a kormányzati szolgálati jogviszonyt létesített rendelkezési állományú katona köteles megtéríteni a Magyar Honvédség részére, ha neki felróható okból a képzést elmulasztja, illetve az előírt követelményeket nem teljesíti, vagy ha hivatalvesztés fegyelmi büntetéssel, méltatlanság jogcímén alapuló felmentéssel szűnt meg a kormányzati szolgálati jogviszonya, valamint a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 71/A. § (1) bekezdésére tekintettel kell megszüntetni a jogviszonyát.
+(4) A (3) bekezdés szerinti képzés költségeit a kormányzati szolgálati jogviszonyt létesített rendelkezési állományú katona köteles megtéríteni a Magyar Honvédség részére, ha neki felróható okból a képzést elmulasztja, illetve az előírt követelményeket nem teljesíti, vagy ha hivatalvesztés fegyelmi büntetéssel, méltatlanság jogcímén alapuló felmentéssel szűnt meg a kormányzati szolgálati jogviszonya, valamint az Nbtv. 71/A. § (1) bekezdésére tekintettel kell megszüntetni a jogviszonyát.
 
 (5) A kormányzati szolgálati jogviszonyt létesített rendelkezési állományú katona kötelezi magát, hogy a képesítés megszerzése után legalább a képzés időtartamával azonos időtartamon keresztül kormányzati szolgálati jogviszonyát lemondással nem szünteti meg. Amennyiben a rendelkezési állományú katona ezt a kötelezettségét megszegi, a (3) bekezdés szerinti képzés időarányos költségeit köteles megtéríteni a Magyar Honvédség részére.
 
@@ -1005,6 +1013,7 @@ jogviszonyt létesít, kormányzati szolgálati jogviszonya az a) vagy b) pont s
 - g) a foglalkoztatást kizáró ok jut a munkáltató tudomására;
 - h) azt a kormánytisztviselő a 64/A. § (2) bekezdése vagy a 155/A. § (2) bekezdése alapján kéri;
 - i) a 72/A. § (3), (4), (8) vagy (9) bekezdése szerinti ok áll fenn.
+- j) a 39. § (4a) vagy (4b) bekezdése szerinti ok áll fenn.
 
 (2a) A (2) bekezdés g) pontja alapján az államigazgatási szerv a kormányzati szolgálati jogviszonyt – a (2b) bekezdésben foglalt kivétellel – azonnali hatállyal megszünteti.
 
@@ -1143,6 +1152,7 @@ Az a) pont alkalmazása szempontjából akkor is a kormánytisztviselő besorol�
 - c) felmentésére a 63. § (2) bekezdés b) pontjában meghatározott okból került sor;
 - d) kormányzati szolgálati jogviszonya a 72. vagy 72/A. § szerint alakult át;
 - e) méltatlanság vagy bizalomvesztés címén mentették fel.
+- f) az a)–e) pontban foglaltakon túl e törvény így rendelkezik.
 
 (10) Ha a kormánytisztviselő a munkavégzési kötelezettség alóli mentesítés ideje alatt bármely költségvetési szervvel vagy költségvetési szerv legalább többségi befolyása alatt álló bármely gazdálkodó szervezettel teljes vagy részmunkaidős jogviszonyt létesít,
 
@@ -1189,6 +1199,8 @@ időtartama alatt.
 (2) Az (1) bekezdésben meghatározott védelem nem vonatkozik a kormánytisztviselő jogviszonyának felmentéssel történő megszüntetésére, ha a kormánytisztviselő nyugdíjasnak minősül.
 
 (3) A 70. § (1) bekezdésében, valamint az (1) bekezdésben meghatározott védelem nem vonatkozik a kormánytisztviselő jogviszonyának felmentéssel történő megszüntetésére, ha a felmentést a 63. § (2) bekezdés d) vagy f) pontjában foglaltak szerint a kormánytisztviselő kérelmezi.
+
+(4) Felmentési védelem nem illeti meg a kormánytisztviselőt a 63. § (2) bekezdés j) pontja alapján történt felmentése esetén.
 
 ### A jogviszonyváltás
 
@@ -1373,7 +1385,7 @@ alakul át.
 
 (3) A kormánytisztviselőnek előírt továbbképzés és az ezzel összefüggő beszámolási vagy vizsgakötelezettség teljesítése miatt kieső munkaidőre járó illetményét az államigazgatási szerv köteles megtéríteni.
 
-(4) A továbbképzés költségeit a kormánytisztviselő köteles megtéríteni az államigazgatási szervnek, ha neki felróható okból a továbbképzést elmulasztja, illetve az előírt követelményeket nem teljesíti, vagy ha hivatalvesztés fegyelmi büntetéssel, méltatlanság jogcímén alapuló felmentéssel szűnt meg a kormányzati szolgálati jogviszonya, valamint arra figyelemmel szüntették meg kormányzati szolgálati jogviszonyát közös megegyezéssel, hogy a nemzetbiztonsági ellenőrzés alá eső munkakörbe történő áthelyezéséhez nem járult hozzá. Ha a kormánytisztviselő a továbbképzést a munkáltatónak felróható okból mulasztja el, illetve nem teljesíti, akkor a továbbképzés költségeit a munkáltató köteles megtéríteni. Nincs megtérítési kötelezettsége a kormánytisztviselőnek az iskolarendszeren kívüli kötelező továbbképzés költségei esetében, kivéve az idegen nyelvi képzést, valamint a külföldi képzést, továbbképzést.
+(4) A továbbképzés költségeit a kormánytisztviselő köteles megtéríteni az államigazgatási szervnek, ha neki felróható okból a továbbképzést elmulasztja, illetve az előírt követelményeket nem teljesíti, vagy ha hivatalvesztés fegyelmi büntetéssel, méltatlanság jogcímén alapuló felmentéssel szűnt meg a kormányzati szolgálati jogviszonya, valamint arra figyelemmel szüntették meg kormányzati szolgálati jogviszonyát közös megegyezéssel, hogy a nemzetbiztonsági ellenőrzés vagy egyszerűsített nemzetbiztonsági ellenőrzés alá eső munkakörbe történő áthelyezéséhez nem járult hozzá. Ha a kormánytisztviselő a továbbképzést a munkáltatónak felróható okból mulasztja el, illetve nem teljesíti, akkor a továbbképzés költségeit a munkáltató köteles megtéríteni. Nincs megtérítési kötelezettsége a kormánytisztviselőnek az iskolarendszeren kívüli kötelező továbbképzés költségei esetében, kivéve az idegen nyelvi képzést, valamint a külföldi képzést, továbbképzést.
 
 (5) Ha az (1) és (2) bekezdésben meghatározott képzés távoktatási módszertanra épül, a munkáltató munkaidőn túl tanulás céljából köteles biztosítani – a munkáltató által meghatározott helyen és módon – a kormánytisztviselő felkészülését támogató technikai feltételeket.
 
@@ -3015,7 +3027,7 @@ magyar állampolgárral létesíthető és tartható fenn. Nem létesíthető ko
 
 (1a) Kormányzati szolgálati jogviszony kormányzati ügykezelői munkakörre tizennyolcadik életévét be nem töltött személy nevelését, felügyeletét, gondozását, gyógykezelését végző államigazgatási szervhez az (1) bekezdésben és a 39. § (1b) és (1c) bekezdésében meghatározott feltételek teljesítése esetén létesíthető és tartható fenn.
 
-(2) Az (1) bekezdéstől eltérően kormányzati ügykezelői munkakörre kormányzati szolgálati jogviszony – a jogszabály által meghatározott nemzetbiztonsági ellenőrzés alá eső ügykezelői munkaköröket, valamint az ügykezelői osztályvezetői kinevezés esetét kivéve –
+(2) Az (1) bekezdéstől eltérően kormányzati ügykezelői munkakörre kormányzati szolgálati jogviszony – a nemzetbiztonsági ellenőrzés vagy egyszerűsített nemzetbiztonsági ellenőrzés alá eső ügykezelői munkaköröket, valamint az ügykezelői osztályvezetői kinevezés esetét kivéve –
 
 - a) a külön törvény szerint a szabad mozgás és tartózkodás jogával rendelkező személlyel, valamint
 - b) az Európai Szociális Kartáról szóló megállapodásban résztvevő államok állampolgárával
@@ -3435,7 +3447,7 @@ magyar állampolgárral létesíthető és tartható fenn. Nem létesíthető k�
 
 (1a) Közszolgálati jogviszony közszolgálati ügykezelői munkakörre tizennyolcadik életévét be nem töltött személy nevelését, felügyeletét, gondozását, gyógykezelését végző közigazgatási szervnél az (1) bekezdésben és a 39. § (1b) és (1c) bekezdésében meghatározott feltételek teljesítése esetén létesíthető és tartható fenn.
 
-(2) Az (1) bekezdéstől eltérően közszolgálati ügykezelői munkakörre közszolgálati jogviszony – a jogszabály által meghatározott nemzetbiztonsági ellenőrzés alá eső ügykezelői munkaköröket, valamint az ügykezelői osztályvezető esetét kivéve –
+(2) Az (1) bekezdéstől eltérően közszolgálati ügykezelői munkakörre közszolgálati jogviszony – a nemzetbiztonsági ellenőrzés vagy egyszerűsített nemzetbiztonsági ellenőrzés alá eső ügykezelői munkaköröket, valamint az ügykezelői osztályvezető esetét kivéve –
 
 - a) a külön törvény szerint a szabad mozgás és tartózkodás jogával rendelkező személlyel, valamint
 - b) az Európai Szociális Kartáról szóló megállapodásban részt vevő államok állampolgárával

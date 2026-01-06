@@ -459,15 +459,15 @@ tevékenységét.
 
 (2) Az elkülönített visszaélés-bejelentési rendszerben bejelentést tevő az általa vélelmezett visszásság orvoslása érdekében beadvánnyal fordulhat az alapvető jogok biztosához az (1) bekezdésben meghatározott esetekben, illetve ha a panaszokról, a közérdekű bejelentésekről, valamint a visszaélések bejelentésével összefüggő szabályokról szóló törvény szerinti, az elkülönített visszaélés-bejelentési rendszerre vonatkozó szabályokat nem tartották meg.
 
-38/D. § A Hivatal a közérdekű bejelentések közvetlen vizsgálatával kapcsolatos feladatokat ellátó munkatársai nemzetbiztonsági ellenőrzés hatálya alá tartozó álláshelyen és személyi biztonsági tanúsítvánnyal rendelkezve látják el e feladataikat.
+38/D. § A Hivatal a közérdekű bejelentések közvetlen vizsgálatával kapcsolatos feladatokat ellátó munkatársai – ha az minősített adat kezelésével jár együtt – nemzetbiztonsági ellenőrzés hatálya alá tartozó álláshelyen és személyi biztonsági tanúsítvánnyal rendelkezve látják el e feladataikat.
 
-#### 11/B. Nemzetbiztonsági ellenőrzés felülvizsgálati eljárásának vizsgálata
+#### 11/B. A nemzetbiztonsági ellenőrzés és az egyszerűsített nemzetbiztonsági ellenőrzés felülvizsgálati eljárásának vizsgálata
 
-38/E. § (1) Az alapvető jogok biztosa a nemzetbiztonsági szolgálatokról szóló törvényben meghatározottak szerint vizsgálja a nemzetbiztonsági ellenőrzés felülvizsgálati eljárása elrendelését és lefolytatását az alapvető jogokkal összefüggő visszásság megállapítása érdekében.
+38/E. § (1) Az alapvető jogok biztosa a nemzetbiztonsági szolgálatokról szóló törvényben meghatározottak szerint vizsgálja a nemzetbiztonsági ellenőrzés és az egyszerűsített nemzetbiztonsági ellenőrzés felülvizsgálati eljárása elrendelését és lefolytatását az alapvető jogokkal összefüggő visszásság megállapítása érdekében.
 
 (2) Az alapvető jogok biztosának e címben rögzített eljárására a 23. § (2) bekezdésében rögzített korlátozások nem terjednek ki, ha az irat megismerése az eljárás eredményes lefolytatása érdekében elengedhetetlenül szükséges.
 
-(3) A Hivatal nemzetbiztonsági ellenőrzés felülvizsgálati eljárásával összefüggő feladatokat ellátó munkatársai nemzetbiztonsági ellenőrzés hatálya alá tartozó álláshelyen és személyi biztonsági tanúsítvánnyal rendelkezve látják el e feladataikat.
+(3) A Hivatal nemzetbiztonsági ellenőrzés vagy egyszerűsített nemzetbiztonsági ellenőrzés felülvizsgálati eljárásával összefüggő feladatokat ellátó munkatársai nemzetbiztonsági ellenőrzés hatálya alá tartozó álláshelyen és személyi biztonsági tanúsítvánnyal rendelkezve látják el e feladataikat.
 
 #### 12. Kivételes vizsgálat
 

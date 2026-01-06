@@ -1726,17 +1726,25 @@ magyar állampolgárral létesíthető és tartható fenn.
 - d) aki büntetőeljárás – ide nem értve a magánvádas vagy a pótmagánvádas eljárást – hatálya alatt áll;
 - e) aki a kormányzati szolgálati jogviszony alapján végzett tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt áll.
 
-(6) Jogszabály alapján nemzetbiztonsági ellenőrzés alá eső kormányzati szolgálati jogviszony nem létesíthető, illetve tartható fenn azzal, akinek a nemzetbiztonsági ellenőrzése során nemzetbiztonsági kockázatot állapítottak meg, kivéve, ha az arra feljogosított személy, szerv a kormányzati szolgálati jogviszony létesítését, illetve fenntartását jóváhagyta.
+(6) Jogszabály alapján nemzetbiztonsági ellenőrzés alá eső kormányzati szolgálati jogviszony nem létesíthető, illetve tartható fenn azzal, akinek a nemzetbiztonsági ellenőrzése során nemzetbiztonsági kockázatot állapítottak meg, kivéve, ha az arra feljogosított személy, szerv a kormányzati szolgálati jogviszony létesítését, illetve fenntartását – a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 74. § i) pont ia) alpontja szerinti munkakör kivételével – jóváhagyta.
 
 (7) Ha a kormánytisztviselő nemzetbiztonsági ellenőrzés alá eső személy vagy a kormányzati szolgálati jogviszonya fennállása alatt válik nemzetbiztonsági ellenőrzés alá eső személlyé, illetőleg ha a jogviszony létrehozására (6) bekezdés szerint előzetes engedéllyel került sor és
 
 - a) a nemzetbiztonsági ellenőrzéséhez nem járul hozzá, vagy
-- b) a nemzetbiztonsági ellenőrzése során nemzetbiztonsági kockázatot állapítottak meg, és a kormányzati szolgálati jogviszony fenntartását a jogszabály szerint arra feljogosított személy, szerv nem hagyta jóvá, illetve a munkáltatói jogkör gyakorlója, amennyiben ennek jogszabályi lehetősége fennáll – mérlegelési jogkörében eljárva – más, nemzetbiztonsági ellenőrzés alá nem eső álláshelyre, beosztásba nem helyezte át, vagy
-- c) felülvizsgálati eljárás során kockázatot állapítottak meg és a kormányzati szolgálati jogviszony fenntartását a jogszabály szerint arra feljogosított személy, szerv nem hagyta jóvá, illetve a munkáltatói jogkör gyakorlója, amennyiben ennek jogszabályi lehetősége fennáll – mérlegelési jogkörében eljárva – más, nemzetbiztonsági ellenőrzés alá nem eső álláshelyre, beosztásba nem helyezte át,
+- b) a nemzetbiztonsági ellenőrzése során nemzetbiztonsági kockázatot állapítottak meg, és a kormányzati szolgálati jogviszony fenntartását a jogszabály szerint arra feljogosított személy, szerv nem hagyta jóvá, illetve a munkáltatói jogkör gyakorlója, amennyiben ennek jogszabályi lehetősége fennáll – mérlegelési jogkörében eljárva – más, nemzetbiztonsági ellenőrzés alá nem eső álláshelyre nem helyezte át, vagy
+- c) felülvizsgálati eljárás során kockázatot állapítottak meg és a kormányzati szolgálati jogviszony fenntartását a jogszabály szerint arra feljogosított személy, szerv nem hagyta jóvá, illetve a munkáltatói jogkör gyakorlója, amennyiben ennek jogszabályi lehetősége fennáll – mérlegelési jogkörében eljárva – más, nemzetbiztonsági ellenőrzés alá nem eső álláshelyre nem helyezte át,
 
 a kormányzati szolgálati jogviszonyt azonnali hatállyal meg kell szüntetni.
 
-(8) A kormányzati szolgálati jogviszonynak a (7) bekezdés szerinti megszüntetése esetén a kormánytisztviselőt felmentési idő és végkielégítés nem illeti meg. A megszüntetés okát és jogkövetkezményeit közölni kell a kormánytisztviselővel.
+(7a) Ha a kormánytisztviselő egyszerűsített nemzetbiztonsági ellenőrzés alá eső személy vagy a kormányzati szolgálati jogviszonya fennállása alatt válik egyszerűsített nemzetbiztonsági ellenőrzés alá eső személlyé és
+
+- a) az egyszerűsített nemzetbiztonsági ellenőrzéséhez nem járul hozzá,
+- b) az egyszerűsített nemzetbiztonsági ellenőrzése során a foglalkoztatást nemzetbiztonsági szempontból befolyásoló információ merült fel, vagy
+- c) az egyszerűsített nemzetbiztonsági ellenőrzés felülvizsgálati eljárása során a foglalkoztatást nemzetbiztonsági szempontból befolyásoló információ merült fel,
+
+a munkáltatói jogkör gyakorlója a kormánytisztviselőt más, egyszerűsített nemzetbiztonsági ellenőrzés alá nem eső álláshelyre helyezheti, vagy az egyszerűsített nemzetbiztonsági ellenőrzés alá eső álláshelyen foglalkoztathatja tovább, vagy a kormányzati szolgálati jogviszonyt azonnali hatállyal megszüntetheti.
+
+(8) A kormányzati szolgálati jogviszonynak a (7) és (7a) bekezdés szerinti megszüntetése esetén a kormánytisztviselőt felmentési idő és végkielégítés nem illeti meg. A megszüntetés okát és jogkövetkezményeit közölni kell a kormánytisztviselővel.
 
 (9) Olyan szerv esetében, ahol törvény lehetővé teszi, hogy az ott foglalkoztatott kormánytisztviselő szolgálati feladatainak törvényes ellátását megbízhatósági vizsgálattal ellenőrizzék, kormányzati szolgálati jogviszony azzal létesíthető, aki tudomásul veszi, hogy kormányzati szolgálati jogviszonyának fennállása alatt feladatainak törvényes ellátását tudta és beleegyezése nélkül – a törvényben meghatározott esetekben és módon – az arra törvényben kijelölt szerv törvényben meghatározott megbízhatósági vizsgálattal ellenőrizheti.
 
@@ -2324,7 +2332,7 @@ jogviszonyt létesít, kormányzati szolgálati jogviszonya az a) vagy b) pont s
 - e) a kormánytisztviselő nyugdíjasnak minősül;
 - f) a kormánytisztviselő az összeférhetetlenségi nyilatkozatában, illetve az érdekeltségi nyilatkozatában, valamint a személyes kapcsolataira vonatkozó nyilatkozatában lényeges adatot, tényt szándékosan valótlanul közölt vagy mellőzött,
 - g) a kormánytisztviselő a 95. § (5) és (7) bekezdése szerinti előzetes engedély kérését vagy a 95. § (6) bekezdése szerinti bejelentés megtételét elmulasztja,
-- h)
+- h) a 82. § (7a) bekezdése szerint a munkáltatói jogkör gyakorlója a kormányzati szolgálati jogviszony megszüntetéséről döntött.
 
 (1a) Az (1) bekezdés f) pontja szerinti esetben
 
@@ -2441,7 +2449,7 @@ gyakorolhatja.
 - a) ezt a tényt foglalkoztatójának haladéktalanul köteles írásban bejelenteni,
 - b) a felmentési időből hátralevő idő tekintetében illetményre nem jogosult.
 
-(8) A kormánytisztviselőt felmentési idő nem illeti meg a 107. § (2) bekezdés a) pontja szerinti érdemtelenség és a 107. § (6) bekezdése szerinti foglalkoztatást kizáró ok jogcímén, valamint a 107. § (1) bekezdés f) pontja alapján történt felmentés esetén.
+(8) A kormánytisztviselőt felmentési idő nem illeti meg a 107. § (2) bekezdés a) pontja szerinti érdemtelenség és a 107. § (6) bekezdése szerinti foglalkoztatást kizáró ok jogcímén, valamint a 107. § (1) bekezdés f) pontja alapján történt felmentés esetén, továbbá abban az esetben, ha e törvény így rendelkezik.
 
 #### 112. § [A végkielégítés]
 
@@ -2494,6 +2502,7 @@ eltöltött idő is. A b) és d) pont azzal az eltéréssel alkalmazandó, hogy 
 - a) legkésőbb a kormányzati szolgálati jogviszony megszűnésének időpontjában nyugdíjasnak minősül;
 - b) a 107. § (2) bekezdés a) pontja szerinti érdemtelenség, a 107. § (2) bekezdés b) pontja szerinti nem megfelelő munkavégzés, a 107. § (6) bekezdése szerinti foglalkoztatást kizáró ok jogcímén vagy a 166. § (5) bekezdése alapján a kormánytisztviselőt kérelmére mentették fel.
 - c) a kormánytisztviselőt a 107. § (1) bekezdés f) pontja alapján mentették fel.
+- d) az a)–c) pontban foglaltakon túl e törvény így rendelkezik.
 
 (11) Ha a kormánytisztviselő a munkavégzési kötelezettség alóli mentesítés ideje alatt bármely költségvetési szervvel vagy költségvetési szerv legalább többségi befolyása alatt álló bármely gazdálkodó szervezettel teljes vagy részmunkaidős jogviszonyt létesít, végkielégítésre nem jogosult, azonban új jogviszonyában a végkielégítés alapjául szolgáló időszak számítása során a felmentéssel megszüntetett jogviszony alapján végkielégítésre jogosító idejét számításba kell venni.
 
@@ -2545,7 +2554,7 @@ időtartama alatt.
 
 (7) Az (1) és (5) bekezdésben meghatározott védelem nem vonatkozik a kormánytisztviselő jogviszonyának felmentéssel történő megszüntetésére, ha a felmentést a 107. § (2) bekezdés e) vagy g) pontjában foglaltak szerint a kormánytisztviselő kérelmezi.
 
-(8) Felmentési védelem nem illeti meg a kormánytisztviselőt a 107. § (2) bekezdés a) pontja szerinti érdemtelenség és a 107. § (6) bekezdése szerinti foglalkoztatást kizáró ok jogcímén, valamint a 107. § (1) bekezdés f) pontja alapján történt felmentése esetén.
+(8) Felmentési védelem nem illeti meg a kormánytisztviselőt a 107. § (2) bekezdés a) pontja szerinti érdemtelenség és a 107. § (6) bekezdése szerinti foglalkoztatást kizáró ok jogcímén, a 107. § (1) bekezdés f) vagy h) pontja, valamint a 107. § (2) bekezdés f) pontja alapján történt felmentése esetén.
 
 #### 114. § [A jogviszonyváltás]
 
@@ -5203,7 +5212,7 @@ illetménynek megfelelő összeg.
 
 (1) A kormányzati igazgatási szervnél foglalkoztatott munkavállalók munkaviszonyára az Mt.-t az e törvényben meghatározott eltérésekkel kell alkalmazni.
 
-(2) A kormányzati igazgatási szervnél foglalkoztatott munkavállaló munkaviszonyára a 71. § (8)–(15) bekezdését, a 72. §-t, 82. § (7)–(9) bekezdését, a 95. § (5)–(7) bekezdését, a 104. § (1) bekezdés k)–m) pontját és a 107. § (2) bekezdés f) pontját, valamint a 168. §-t alkalmazni kell azzal, hogy a munkaviszonynak 104. § (1) bekezdés k)–m) pontja alapján történő megszűnése esetén a munkavállaló végkielégítésre jogosult, a munkaviszonynak 107. § (2) bekezdés f) pontja alapján történő megszüntetése esetén felmondási időre és végkielégítésre nem jogosult.
+(2) A kormányzati igazgatási szervnél foglalkoztatott munkavállaló munkaviszonyára a 71. § (8)–(15) bekezdését, a 72. §-t, 82. § (7)–(9) bekezdését, a 95. § (5)–(7) bekezdését, a 104. § (1) bekezdés k)–m) pontját, a 107. § (1) bekezdés h) pontját és (2) bekezdés f) pontját, valamint a 168. §-t alkalmazni kell azzal, hogy a munkaviszonynak 104. § (1) bekezdés k)–m) pontja alapján történő megszűnése esetén a munkavállaló végkielégítésre jogosult, a munkaviszonynak 107. § (1) bekezdés h) pontja vagy (2) bekezdés f) pontja alapján történő megszüntetése esetén felmondási időre és végkielégítésre nem jogosult.
 
 (3) A munkáltató működésével összefüggő okból történő felmondás esetén a munkavállaló a munkavégzési kötelezettség alóli mentesítés idejére járó távolléti díjra havonta egyenlő részletben jogosult, a végkielégítést pedig a felmondási idő utolsó napján kell kifizetni.
 
@@ -6076,7 +6085,7 @@ IV.
 
 27. vagyonnyilatkozat tételi kötelezettségre vonatkozó adatok
 
-28. nemzetbiztonsági ellenőrzés előírása, eredménye
+28. nemzetbiztonsági ellenőrzés vagy egyszerűsített nemzetbiztonsági ellenőrzés előírása, eredménye
 
 29. tárgyi ellátmány adatai (gépkocsi, számítógép stb.)
 

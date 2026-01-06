@@ -387,7 +387,7 @@ magyar állampolgárral létesíthető és tartható fenn.
 (5) A jogszabály alapján nemzetbiztonsági ellenőrzés alá eső közszolgálati jogviszony nem létesíthető azzal,
 
 - a) aki nemzetbiztonsági ellenőrzéséhez nem járul hozzá,
-- b) akinek nemzetbiztonsági ellenőrzése során nemzetbiztonsági kockázatot állapítottak meg, kivéve, ha törvény szerint arra feljogosított személy, szerv vagy testület a közszolgálati jogviszony létesítését jóváhagyta.
+- b) akinek nemzetbiztonsági ellenőrzése során nemzetbiztonsági kockázatot állapítottak meg, kivéve, ha törvény szerint arra feljogosított személy, szerv vagy testület a közszolgálati jogviszony létesítését – a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 74. § i) pont ia) alpontja szerinti munkakör kivételével – jóváhagyta.
 
 (6) Ha a nemzetbiztonsági ellenőrzés alá eső közszolgálati jogviszonyba jelölt személy
 
@@ -399,11 +399,19 @@ a különleges jogállású szerv – mérlegelése alapján – a közszolgála
 (7) Ha a köztisztviselő a közszolgálati jogviszonya fennállása alatt válik nemzetbiztonsági ellenőrzés alá eső személlyé, és
 
 - a) a nemzetbiztonsági ellenőrzéséhez nem járul hozzá vagy
-- b) nemzetbiztonsági ellenőrzése során nemzetbiztonsági kockázatot állapítottak meg és a közszolgálati jogviszony fenntartását törvény alapján arra feljogosított személy, szerv vagy testület nem hagyta jóvá,
+- b) nemzetbiztonsági ellenőrzése során nemzetbiztonsági kockázatot állapítottak meg és a közszolgálati jogviszony fenntartását törvény alapján arra feljogosított személy, szerv vagy testület – a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 74. § i) pont ia) alpontja szerinti munkakör kivételével – nem hagyta jóvá,
 
-a munkáltató – mérlegelése alapján – a köztisztviselő részére más olyan álláshelyet ajánlhat fel, amelyhez tartozó feladat alapján nem esik nemzetbiztonsági ellenőrzés alá. Felajánlható álláshely hiányában, vagy ha a közszolgálati jogviszonyt létesíteni szándékozó személy a felajánlott álláshelyet nem fogadja el, a közszolgálati jogviszonyt azonnali hatállyal meg kell szüntetni.
+a munkáltató – mérlegelése alapján – a köztisztviselő részére más olyan álláshelyet ajánlhat fel, amelyhez tartozó feladat alapján nem esik nemzetbiztonsági ellenőrzés alá. Felajánlható álláshely hiányában, vagy ha a köztisztviselő a felajánlott álláshelyet nem fogadja el, a közszolgálati jogviszonyt azonnali hatállyal meg kell szüntetni.
 
-(8) A közszolgálati jogviszonynak a (7) bekezdés szerinti megszüntetése esetén a köztisztviselőt felmentési idő és végkielégítés nem illeti meg. A megszüntetés okát és jogkövetkezményeit közölni kell a köztisztviselővel.
+(7a) Ha a köztisztviselő egyszerűsített nemzetbiztonsági ellenőrzés alá eső személy vagy a közszolgálati jogviszonya fennállása alatt válik egyszerűsített nemzetbiztonsági ellenőrzés alá eső személlyé, és
+
+- a) az egyszerűsített nemzetbiztonsági ellenőrzéséhez nem járul hozzá,
+- b) az egyszerűsített nemzetbiztonsági ellenőrzése során a foglalkoztatást nemzetbiztonsági szempontból befolyásoló információ merült fel, vagy
+- c) az egyszerűsített nemzetbiztonsági ellenőrzés felülvizsgálati eljárása során a foglalkoztatást nemzetbiztonsági szempontból befolyásoló információ merült fel,
+
+a munkáltató a köztisztviselő részére más olyan álláshelyet ajánlhat fel, amelyhez tartozó feladat alapján nem esik egyszerűsített nemzetbiztonsági ellenőrzés alá, vagy az egyszerűsített nemzetbiztonsági ellenőrzés alá eső álláshelyen foglalkoztathatja tovább, vagy a közszolgálati jogviszonyt azonnali hatállyal megszüntetheti.
+
+(8) A közszolgálati jogviszonynak a (7) vagy (7a) bekezdés szerinti megszüntetése esetén a köztisztviselőt felmentési idő és végkielégítés nem illeti meg. A megszüntetés okát és jogkövetkezményeit közölni kell a köztisztviselővel.
 
 (9) Ha törvény lehetővé teszi, hogy a köztisztviselő szolgálati feladatainak törvényes ellátását az arra törvényben kijelölt szerv – törvényben meghatározott esetekben és módon – megbízhatósági vizsgálattal ellenőrizze, közszolgálati jogviszony azzal létesíthető, aki tudomásul veszi, hogy közszolgálati jogviszonyának fennállása alatt feladatai törvényes ellátását az arra törvényben kijelölt szerv megbízhatósági vizsgálattal ellenőrizheti.
 
@@ -746,6 +754,7 @@ jogviszonyt létesít, közszolgálati jogviszonya az a) vagy b) pont szerinti j
 - c) átszervezés következtében a köztisztviselő álláshelye megszűnik;
 - d) a köztisztviselő nyugdíjasnak minősül [kivéve, ha a jogviszony a 38. § (1) bekezdés g) pontja alapján megszűnt],
 - e) a különleges jogállású szerv a feladatok hatékonyabb biztosítása érdekében a köztisztviselő álláshelyére másik köztisztviselőt alkalmaz.
+- f) a 24. § (7a) bekezdése szerint a munkáltató a közszolgálati jogviszony megszüntetéséről döntött.
 
 (3) A közszolgálati jogviszonyt felmentéssel meg kell szüntetni, ha
 
@@ -905,6 +914,7 @@ Az a) pont alkalmazása szempontjából a köztisztviselő besorolása szerinti 
 - c) közszolgálati jogviszonya a 43. § szerint alakult át;
 - d) érdemtelenség jogcímén mentették fel,
 - e) a foglalkoztatást kizáró ok miatt mentették fel.
+- f) az a)–e) pontban foglaltakon túl e törvény így rendelkezik.
 
 (10) Ha a köztisztviselő a munkavégzési kötelezettség alóli mentesítés ideje alatt bármely költségvetési szervvel vagy költségvetési szerv legalább többségi befolyása alatt álló bármely gazdálkodó szervezettel teljes vagy részmunkaidős jogviszonyt létesít,
 
@@ -947,7 +957,7 @@ időtartama alatt.
 
 (7) Az (1) bekezdésében meghatározott védelem nem vonatkozik a köztisztviselő jogviszonyának felmentéssel történő megszüntetésére, ha a felmentést a 29. § (7) bekezdésében vagy a 84. § (6) bekezdésében foglaltak szerint a köztisztviselő kérelmezi.
 
-(8) Felmentési védelem nem illeti meg a köztisztviselőt a 39. § (3) bekezdés a) pontja szerinti érdemtelenség és a 39. § (4) bekezdése szerinti foglalkoztatást kizáró ok jogcímén történt felmentés esetén.
+(8) Felmentési védelem nem illeti meg a köztisztviselőt a 39. § (2) bekezdés f) pontja szerinti felmentés, a 39. § (3) bekezdés a) pontja szerinti érdemtelenség, a 39. § (3) bekezdés d) pontja szerinti felmentés és a 39. § (4) bekezdése szerinti foglalkoztatást kizáró ok jogcímén történt felmentés esetén.
 
 #### 43. § [A jogviszonyváltás]
 
@@ -2822,7 +2832,7 @@ IV.
 
 24. vagyonnyilatkozat-tételi kötelezettségre vonatkozó adatok
 
-25. nemzetbiztonsági vizsgálat előírása, eredménye
+25. nemzetbiztonsági ellenőrzés vagy egyszerűsített nemzetbiztonsági ellenőrzés előírása, eredménye
 
 26. tárgyi ellátmány adatai (gépkocsi, számítógép stb.)
 

@@ -158,7 +158,7 @@ azon személyes adatait, amelyeket a bűnügyi nyilvántartó szerv által kiál
 
 (7) A (4)–(6) bekezdésben foglaltak alapján megismert személyes adatokat a honvédelmi szervezet a honvédelmi alkalmazotti jogviszony létesítéséről meghozott döntés időpontjáig vagy – honvédelmi alkalmazotti jogviszony létesítése esetén – a honvédelmi alkalmazotti jogviszony megszűnéséig (megszüntetéséig) kezeli.
 
-(8) Jogszabály alapján nemzetbiztonsági ellenőrzés alá eső honvédelmi alkalmazotti jogviszony nem létesíthető azzal, akinek a nemzetbiztonsági ellenőrzése során nemzetbiztonsági kockázatot állapítottak meg, kivéve, ha az arra feljogosított személy, szerv a jogviszony létesítését jóváhagyta.
+(8) Jogszabály alapján nemzetbiztonsági ellenőrzés alá eső honvédelmi alkalmazotti jogviszony nem létesíthető azzal, akinek a nemzetbiztonsági ellenőrzése során nemzetbiztonsági kockázatot állapítottak meg, kivéve, ha az arra feljogosított személy, szerv a jogviszony létesítését – a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 74. § i) pont ia) alpontja szerinti munkakör kivételével – jóváhagyta.
 
 (9) Ha a honvédelmi alkalmazott a honvédelmi alkalmazotti jogviszonya fennállása alatt válik nemzetbiztonsági ellenőrzés alá eső személlyé, és
 
@@ -166,6 +166,13 @@ azon személyes adatait, amelyeket a bűnügyi nyilvántartó szerv által kiál
 - b) nemzetbiztonsági ellenőrzése során nemzetbiztonsági kockázatot állapítottak meg és a jogviszony fenntartását a jogszabály szerint arra feljogosított személy, szerv nem hagyta jóvá, vagy a munkáltatói jogkör gyakorlója mérlegelése alapján részére más – nemzetbiztonsági ellenőrzés alá nem eső – munkakör nem ajánlható fel,
 
 a honvédelmi alkalmazotti jogviszonyt azonnali hatállyal meg kell szüntetni.
+
+(10) Ha a honvédelmi alkalmazott a honvédelmi alkalmazotti jogviszonya fennállása alatt válik egyszerűsített nemzetbiztonsági ellenőrzés alá eső személlyé, és
+
+- a) az egyszerűsített nemzetbiztonsági ellenőrzéséhez nem járul hozzá vagy
+- b) az egyszerűsített nemzetbiztonsági ellenőrzése során a foglalkoztatást nemzetbiztonsági szempontból befolyásoló információ merült fel,
+
+a munkáltatói jogkör gyakorlója mérlegelése alapján részére más – egyszerűsített nemzetbiztonsági ellenőrzés alá nem eső – munkakör ajánlható fel, vagy a honvédelmi alkalmazotti jogviszony indoklás nélkül, azonnali hatállyal megszüntethető. Ha a honvédelmi alkalmazott a felajánlott munkakört nem fogadja el, a honvédelmi alkalmazotti jogviszonyt azonnali hatállyal meg kell szüntetni.
 
 13. § (1) Ha a munkáltatói jogkört gyakorló döntése alapján a megüresedett vagy a megüresedő munkakör betöltése pályázati eljárással történik, a munkakör csak olyan személlyel tölthető be, aki a pályázaton részt vett, és a pályázati feltételeknek megfelelt. Ha a munkakör betöltése honvédelmi alkalmazotti jogviszony létesítésével jár, a munkáltatói jogkört gyakorló a pályázat nyertesével honvédelmi alkalmazotti jogviszonyt létesít.
 
@@ -385,9 +392,10 @@ hatálya alá tartozó munkáltatók között,
   - fa) a próbaidő alatt,
   - fb) a 27. § (2) bekezdése szerint,
   - fc) az 50. § (4) bekezdése szerint, vagy
-  - fd) a (3) bekezdés szerint, valamint
+  - fd) a (3) bekezdés szerint,
 - g) rendkívüli felmentéssel,
-- h) fegyelmi eljárásban kiszabott hivatalvesztés büntetéssel, azonnali hatállyal.
+- h) fegyelmi eljárásban kiszabott hivatalvesztés büntetéssel, azonnali hatállyal, valamint
+- i) a 12. § (10) bekezdése szerinti esetben.
 
 (3) A honvédelmi szervezet köteles a honvédelmi alkalmazotti jogviszonyt az Mt. 29. § (1) bekezdése alapján azonnali hatállyal megszüntetni, ha
 
@@ -610,7 +618,7 @@ meghosszabbodik.
 
 (3) A honvédelmi szervezet legalább a felmentési idő felére köteles a honvédelmi alkalmazottat mentesíteni a munkavégzés alól. A munkavégzés alól a honvédelmi alkalmazottat – a mentesítési idő legalább felének megfelelő időtartamban – a kérelmének megfelelő időben és részletekben kell felmenteni.
 
-(4) Nem illeti meg felmentési idő a honvédelmi alkalmazottat, ha a felmentésére a 12. § (9) bekezdése alapján került sor.
+(4) Nem illeti meg felmentési idő a honvédelmi alkalmazottat, ha a felmentésére a 12. § (9) vagy (10) bekezdése alapján került sor.
 
 39. § A honvédelmi alkalmazott a munkavégzési kötelezettség alóli mentesítés idejére járó távolléti díjra havonta jogosult.
 
@@ -643,7 +651,7 @@ meghosszabbodik.
 (2) Nem jogosult végkielégítésre a honvédelmi alkalmazott, ha felmentésére – az egészségügyi okot kivéve – tartós alkalmatlansága vagy nem megfelelő munkavégzése miatt került sor. Nem jár továbbá végkielégítés a honvédelmi alkalmazottnak, ha
 
 - a) legkésőbb a honvédelmi alkalmazotti jogviszony megszűnésének időpontjában nyugdíjasnak minősül [Mt. 294. § (1) bekezdés g) pont],
-- b) felmentésére a 12. § (9) bekezdése vagy 30. § (7) bekezdése alapján kerül sor,
+- b) felmentésére a 12. § (9) vagy (10) bekezdése vagy 30. § (7) bekezdése alapján kerül sor,
 - c) honvédelmi alkalmazotti jogviszonya a 22. § (7) bekezdése vagy a 25. § (9) bekezdése szerint alakult át.
 
 (3) Ha a honvédelmi alkalmazottal ugyanazon honvédelmi szervezet legalább két alkalommal határozott időre szóló honvédelmi alkalmazotti jogviszonyt létesít, és a korábbi honvédelmi alkalmazotti jogviszony megszűnése, valamint az újabb honvédelmi alkalmazotti jogviszony létesítésének időpontja között hat hónapnál hosszabb idő nem telt el, a honvédelmi alkalmazott végkielégítésre jogosult, feltéve, hogy honvédelmi alkalmazotti jogviszonya a 27. § (2) bekezdés szerinti eljárásban, a 30. § (1) bekezdés a) pont vagy b) pontjában foglalt okok alapján kerül megszüntetésre, vagy a 21. § (1) bekezdés a) pontja szerint szűnik meg. Kettőnél több határozott idejű honvédelmi alkalmazotti jogviszony esetén a hat hónapnál hosszabb megszakítás előtt fennállt jogviszonyok időtartamát nem lehet figyelembe venni. A végkielégítésre való jogosultság megállapításakor a (6) bekezdést kell alkalmazni azzal, hogy az e bekezdés szerinti jogcímen megszűnt vagy megszüntetett határozott idejű jogviszonyok időtartamát kell összeszámítani. Ha az első mondatban szereplő okokra alapított megszüntetés vagy megszűnés alapján a honvédelmi alkalmazott végkielégítésre vált jogosulttá, az azonos felek közötti újabb határozott idejű kinevezés esetén a végkielégítésre való jogosultság megállapításakor figyelmen kívül kell hagyni azon honvédelmi alkalmazotti jogviszonyok időtartamát, amelyekre tekintettel a korábbi végkielégítés kifizetése megtörtént.
@@ -1749,7 +1757,7 @@ A HONVÉDELMI ALKALMAZOTTI ALAPNYILVÁNTARTÁS ADATKÖREI
 
 5.3. a jubileumi jutalom és a végkielégítés mértéke kiszámításának alapjául szolgáló időtartamok,
 
-5.4. nemzetbiztonsági ellenőrzés elrendelésére, eredményére vonatkozó adatok,
+5.4. nemzetbiztonsági ellenőrzés vagy egyszerűsített nemzetbiztonsági ellenőrzés elrendelésére, eredményére vonatkozó adatok,
 
 5.5. vagyonnyilatkozat-tételi kötelezettségre vonatkozó adatok.
 
