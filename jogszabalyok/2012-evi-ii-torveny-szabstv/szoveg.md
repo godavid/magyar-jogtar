@@ -2789,7 +2789,7 @@ eredményeként a jogerős határozat megváltoztatására, vagy hatályon kív�
 - c) a rendőrség, az e törvényben foglalt feladatai ellátása, valamint a törvényben meghatározott engedélyezési, illetve a fegyver jogszerű használatához előírt feltételek kiskorú számára történő igazolására vagy ellenőrzésére irányuló eljárás során az engedély kiadásához, illetve a fegyver jogszerű használatához előírt feltételek megállapítása és ellenőrzése céljából,
 - d) a szabálysértési hatóság, illetve a helyszíni bírság kiszabására jogosult szerv vagy személy, az állami foglalkoztatási szerv, a büntetés-végrehajtási szerv, valamint a szabálysértési szabályozásért felelős miniszter a szabálysértési méltányossági eljárás során az e törvényben foglalt feladataik ellátása céljából,
 - e) a bíróság, az ügyészség, a nyomozó hatóság és az előkészítő eljárást folytató szerv a büntetőeljárás lefolytatása céljából,
-- f) a nemzetbiztonsági szolgálatok, nemzetbiztonsági ellenőrzés, belső biztonsági és bűnmegelőzési célú ellenőrzés, kifogástalan életvitel ellenőrzés, illetve megbízhatósági vizsgálat lefolytatása céljából,
+- f) a nemzetbiztonsági szolgálatok, nemzetbiztonsági ellenőrzés, egyszerűsített nemzetbiztonsági ellenőrzés, belső biztonsági és bűnmegelőzési célú ellenőrzés, kifogástalan életvitel ellenőrzés, illetve megbízhatósági vizsgálat lefolytatása céljából,
 - g) a legfőbb ügyész, illetve az igazságügyért felelős miniszter a kegyelmi eljárás lefolytatása céljából, valamint
 - h) a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve törvényben meghatározott feladatai ellátása érdekében.
 

@@ -642,7 +642,10 @@ az adatkezelő vagy tevékenysége keretei között az adatfeldolgozó – a (2)
 - e) központi pénzügyi vagy devizapolitikai érdekből;
 - f) külügyi kapcsolatokra, nemzetközi szervezetekkel való kapcsolatokra tekintettel;
 - g) bírósági vagy közigazgatási hatósági eljárásra tekintettel;
-- h) a szellemi tulajdonhoz fűződő jogra tekintettel korlátozhatja.
+- h) a szellemi tulajdonhoz fűződő jogra tekintettel
+- i) kiberbiztonsági érdekből
+
+korlátozhatja.
 
 (3) Közérdekből nyilvános adatként nem minősül üzleti titoknak a központi és a helyi önkormányzati költségvetés, illetve az európai uniós támogatás felhasználásával, költségvetést érintő juttatással, kedvezménnyel, az állami és önkormányzati vagyon kezelésével, birtoklásával, használatával, hasznosításával, az azzal való rendelkezéssel, annak megterhelésével, az ilyen vagyont érintő bármilyen jog megszerzésével kapcsolatos adat, valamint az az adat, amelynek megismerését vagy nyilvánosságra hozatalát külön törvény közérdekből elrendeli. A nyilvánosságra hozatal azonban nem eredményezheti az olyan adatokhoz – így különösen a védett ismerethez – való hozzáférést, amelyek megismerése az üzleti tevékenység végzése szempontjából aránytalan sérelmet okozna, feltéve hogy ez nem akadályozza meg a közérdekből nyilvános adat megismerésének lehetőségét.
 
