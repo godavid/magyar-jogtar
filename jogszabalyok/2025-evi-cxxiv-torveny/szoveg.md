@@ -59,7 +59,9 @@ a környezetvédelemmel, a hulladékgazdálkodással és a víziközmű-szolgál
 
 #### 18. §
 
-#### 19. §
+19. § A Ht. 50. §-a a következő (8) bekezdéssel egészül ki:
+
+„(8) A számviteli szétválasztási kötelezettségre vonatkozó – e törvény, valamint az e törvény végrehajtására kiadott kormányrendelet szerinti – rendelkezések betartását a Hivatal ellenőrizheti. Ha a kötelezett a számviteli szétválasztási kötelezettségét a Hivatal felhívása ellenére nem vagy nem megfelelően teljesíti, a Hivatal bírságot szabhat ki.”
 
 #### 20. §
 
@@ -100,7 +102,7 @@ a környezetvédelemmel, a hulladékgazdálkodással és a víziközmű-szolgál
 - 23.
 - 24.
 - 25.
-- 26.
+- 26. 51. § (3) bekezdésében az „és a 47/D. § (2) bekezdése alapján” szövegrész helyébe az „ , a 47/D. § (2) bekezdése, a 48. § (1) bekezdés c) pontja és a 50. § (8) bekezdése alapján” szöveg,
 - 27.
 - 28.
 - 29.
