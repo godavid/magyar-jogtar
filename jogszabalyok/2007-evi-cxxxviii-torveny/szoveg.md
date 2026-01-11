@@ -131,6 +131,8 @@ befektetési szolgáltatási tevékenységére és kiegészítő szolgáltatás 
 
 (3) A (2) bekezdéstől eltérően, a belső irányításra, átláthatóságra, a kockázatok kezelésére és a javadalmazásra vonatkozó rendelkezések nem alkalmazandóak az összevont alapú felügyelet alá tartozó harmadik országbeli leányvállalatokra, ha a magyarországi székhelyű befektetési vállalkozás anyavállalat bizonyítani tudja a Felügyelet számára, hogy a belső irányításra, átláthatóságra, a kockázatok kezelésére és a javadalmazásra vonatkozó rendelkezések alkalmazása jogellenes lenne azon harmadik ország jogszabályai szerint, amelyben az adott leányvállalat letelepedett.
 
+(4) Az összevont alapú felügyeletre vonatkozó rendelkezések akkor alkalmazandóak a befektetési vállalkozás-csoportra, ha az (EU) 2019/2033 rendelet 1. cikk (2) vagy (5) bekezdése értelmében azon csoporton belül legalább egy befektetési vállalkozás az 575/2013/EU rendelet hatálya alá tartozik.
+
 ### II. Fejezet — ÉRTELMEZŐ RENDELKEZÉSEK
 
 4. § (1) Az e törvényben hivatkozott jogszabályok rövidítését az 1. melléklet tartalmazza.
@@ -434,13 +436,22 @@ folytathat.
 8/A. § (1) Az 575/2013/EU rendelet 4. cikk (1) bekezdés 1. pont b) alpontjában foglaltakat teljesítő befektetési vállalkozás a hitelintézetekre előírt tevékenységi (működési) engedély iránti kérelmet nyújt be azon a napon, amikor a következő események bármelyike bekövetkezik:
 
 - a) az eszközei havi összértékének 12 egymást követő hónapra számított átlaga legalább harmincmilliárd euró, vagy
-- b) eszközei havi összértékének 12 egymást követő hónapra számított átlaga legfeljebb harmincmilliárd euró, de olyan csoport tagja, amelynél a csoporthoz tartozó valamennyi vállalkozás egyedi szinten harmincmilliárd eurónál kisebb összértékű eszközzel rendelkezik és befektetési szolgáltatásként sajátszámlás kereskedést vagy pénzügyi eszköz elhelyezését az eszköz (értékpapír vagy egyéb pénzügyi eszköz) vételére vonatkozó kötelezettségvállalással (jegyzési garanciavállalást) végez, a vállalkozások konszolidált eszközeinek összértéke legalább harmincmilliárd euró, és ezen összegek mindkét esetben a megelőző 12 egymást követő hónap átlagában kerültek kiszámításra.
+- b) eszközei havi összértékének tizenkét egymást követő hónapra számított átlaga legfeljebb harmincmilliárd euró, de olyan csoport tagja, amelynél a csoporthoz tartozó, az EGT-államban letelepedett valamennyi vállalkozás – ideértve azok valamennyi harmadik országban letelepedett fióktelepét és leányvállalatát – egyedi szinten harmincmilliárd eurónál kisebb összértékű eszközzel rendelkezik és befektetési szolgáltatásként sajátszámlás kereskedést vagy pénzügyi eszköz elhelyezését az eszköz (értékpapír vagy egyéb pénzügyi eszköz) vételére vonatkozó kötelezettségvállalással (jegyzési garanciavállalást) végez, a vállalkozások konszolidált eszközeinek összértéke legalább harmincmilliárd euró, és ezen összegek mindkét esetben a megelőző tizenkét egymást követő hónap átlagában kerültek kiszámításra.
 
 (2) Az (1) bekezdés szerinti tevékenységi (működési) engedélyezéskor a Hpt.-ben foglaltak alkalmazandóak azzal, hogy a Felügyelet biztosítja, hogy az eljárás a lehető legegyszerűbb legyen, figyelembe véve a meglévő engedélyekből származó információkat.
 
 (3) Az (1) bekezdés szerinti befektetési vállalkozás prudens működésére, valamint annak felügyelésére a Hpt. VI. és IX. Fejezete alkalmazandó.
 
 (4) A Felügyelet visszavonja a befektetési vállalkozás hitelintézetekre előírt tevékenységi (működési) engedélyét, ha ezen engedélyét kizárólag az 575/2013/EU rendelet 4. cikk (1) bekezdés 1. pont b) alpontja szerinti tevékenységek végzésére használja, és eszközei összértékének öt egymást követő évre számított átlaga az 575/2013/EU rendelet 4. cikk (1) bekezdés 1. pont b) alpontjában meghatározott küszöbértékek alatt van.
+
+(5) Az (1) bekezdéstől eltérően, a befektetési vállalkozás kérelmére a Felügyelet eltekinthet a hitelintézetekre előírt tevékenységi (működési) engedély megszerzésének követelményétől, figyelembe véve az Európai Bankhatóságnak (a továbbiakban: EBH) a kérelemre vonatkozó véleményét.
+
+(6) A Felügyelet a mentességre vonatkozó kérelem elbírásakor az (5) bekezdés szerinti véleményen túl figyelembe veszi legalább:
+
+- a) a csoport szervezeti felépítését, a csoporton belül alkalmazott könyvelési gyakorlatokat, valamint az eszközöknek a csoporton belüli allokációját, ha a befektetési vállalkozás egy csoport része,
+- b) a befektetési vállalkozás által a székhely szerinti tagállamban és az Európai Unió egészében végzett tevékenységek jellegét, volumenét és összetettségét, illetve a tevékenységek jelentőségét és az azokból fakadó rendszerszintű kockázatot.
+
+(7) A Felügyelet a határozatát közli a befektetési vállalkozással és az EBH-val, megjelölve az EBH véleményétől történő esetleges eltérés indokait. A Felügyelet három évente újra értékeli a határozatát.
 
 9. § (1) Árutőzsdei szolgáltató a rendszeres gazdasági tevékenység keretében a (2) bekezdésben meghatározott eszközökre vonatkozóan
 
@@ -805,7 +816,7 @@ tisztségviselőként vagy alkalmazottként befektetési vagy pénzügyi szakter
 
 (5) A befektetési vállalkozás közzéteszi a (3) bekezdés f) pontjában meghatározott nemek arányát, annak eléréséhez meghatározott stratégiáját és a stratégia végrehajtásának módját.
 
-(6) A Felügyelet a (4) és (5) bekezdés szerinti politikát felhasználva elemzéseket és összehasonlításokat végez a befektetési vállalkozások gyakorlatáról, amelyeket megküld az Európai Bankhatóság (a továbbiakban: EBH) számára.
+(6) A Felügyelet a (4) és (5) bekezdés szerinti politikát felhasználva elemzéseket és összehasonlításokat végez a befektetési vállalkozások gyakorlatáról, amelyeket megküld az EBH számára.
 
 (7) A jelölőbizottság számára a befektetési vállalkozás biztosítja a (3) bekezdésben meghatározott feladatai ellátásához szükséges megfelelő erőforrásokat, az adatokhoz és információkhoz való hozzáférést, és indokolt esetben külső tanácsadó igénybevételét.
 
@@ -3621,6 +3632,12 @@ kezelheti.
 
 (7) Ha az összevont alapú felügyeletet nem az anyavállalatnak minősülő pénzügyi intézmény felügyeleti hatósága látja el, az anyavállalat felügyeleti hatósága az összevont alapú felügyelet érdekében szükséges információkat az összevont alapú felügyeletet ellátó felügyeleti hatóság számára megadja.
 
+(8) Ha egy magyarországi székhelyű befektetési vállalkozás és egy más EGT-állam befektetési vállalkozása ugyanazon tagállami pénzügyi holding társaság anyavállalat vagy tagállami vegyes pénzügyi holding társaság anyavállalat, EU-szintű pénzügyi holding társaság vagy EU-szintű vegyes pénzügyi holding társaság anyavállalat leányvállalata, akkor az összevont alapú felügyeletet a Felügyelet látja el, ha nincs a csoportban hitelintézet és a magyarországi székhellyel rendelkező befektetési vállalkozás a legnagyobb mérlegfőösszeggel rendelkező befektetési vállalkozás a csoportban.
+
+(9) Ha egy csoport esetében az 575/2013/EU rendelet 18. cikk (3) vagy (6) bekezdése alapján történik a konszolidáció, akkor az összevont alapú felügyeletet a Felügyelet látja el, ha nincs a csoportban hitelintézet, és a legnagyobb mérlegfőösszegű befektetési vállalkozás magyarországi székhelyű.
+
+(10) Ha a csoportban több azonos tagállamban székhellyel rendelkező befektetési vállalkozás is van, és a csoportban nincs hitelintézet, akkor a Felügyelet abban az esetben látja el az összevont alapú felügyeleti feladatot, ha a magyarországi székhelyű befektetési vállalkozás mérlegfőösszegének az összege a legmagasabb az egy tagállamban lévő befektetési vállalkozások mérlegfőösszegeinek az összegei közül.
+
 161/D. § (1) A Felügyelet az összevont alapú felügyeleti feladatok ellátása érdekében más EGT-állam hatáskörrel rendelkező felügyeleti hatóságával szorosan együttműködik.
 
 (2) A Felügyelet az összevont alapú felügyeleti feladatok ellátásához szükséges jelentéseket, adatokat és információkat más EGT-állam hatáskörrel rendelkező felügyeleti hatóságának és szanálási hatóságának átadhatja.
@@ -4407,6 +4424,7 @@ foglalt követelményeknek.
 - o) a 537/2014/EU rendeletnek, a 2004/109/EK irányelvnek, a 2006/43/EK irányelvnek és 2013/34/EU irányelvnek a fenntarthatósággal kapcsolatos vállalati beszámolás tekintetében történő módosításáról szóló, 2022. december 14-i (EU) 2022/2464 európai parlamenti és tanácsi irányelv,
 - p) a pénzügyi ágazat digitális működési rezilienciája tekintetében a 2009/65/EK, a 2009/138/EK, a 2011/61/EU, a 2013/36/EU, a 2014/59/EU, a 2014/65/EU, az (EU) 2015/2366 és az (EU) 2016/2341 irányelv módosításáról szóló, 2022. december 14-i (EU) 2022/2556 európai parlamenti és tanácsi irányelv.
 - q) pénzügyi eszközök piacairól szóló 2014/65/EU irányelv módosításáról szóló, 2024. február 28-i (EU) 2024/790 európai parlamenti és tanácsi irányelv.
+- r) a 2013/36/EU irányelvnek a felügyeleti hatáskörök, a szankciók, a harmadik országbeli vállalathoz tartozó fióktelepek, valamint a környezeti, társadalmi és irányítási kockázatok tekintetében történő módosításáról szóló, 2024. május 31-i (EU) 2024/1619 európai parlamenti és tanácsi irányelv.
 
 (2) Ez a törvény
 

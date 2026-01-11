@@ -57,9 +57,11 @@ céljából.
 
 (13) Az (1)–(7) bekezdésben meghatározott feladatok az MNB alapvető feladatai.
 
-(14) Az MNB alapvető feladatai közé nem tartozó feladatok az MNB egyéb feladatai, amelyeket – jogszabályban meghatározottak szerint – csak elsődleges célja és alapvető feladatai teljesítésének veszélyeztetése nélkül folytathat.
+(14) Az MNB alapvető feladatai közé nem tartozó feladatok az MNB egyéb feladatai, amelyeket – jogszabályban meghatározottak szerint – csak elsődleges célja és alapvető feladatai teljesítésének veszélyeztetése nélkül folytathat azzal, hogy ez nem akadályozhatja az 1. § (3) bekezdésében és a (9) bekezdésben meghatározott feladatok ellátását.
 
 (15) A (8) bekezdésben meghatározott feladatkör ellátásánál gondoskodni kell a szanálási feladatok ellátásáért felelős szervezeti egységnek az MNB más feladatait ellátó szervezeti egységétől való működési függetlenségről, ideértve azt is, hogy ezen feladatkört kizárólag az MNB elnökének vagy bármelyik alelnökének közvetlen alárendeltségében és irányításában lehet ellátni.
+
+(16) Az MNB a pénzügyi közvetítőrendszer felügyeletének ellátása tekintetében nyilvánosságra hozza a világos, egyértelmű és jól körülhatárolt működési és stratégiai célkitűzéseit, figyelemmel a beszámolási kötelezettségeire is.
 
 ### II. Fejezet — AZ MNB SZERVEZETE
 
@@ -241,7 +243,11 @@ kapcsolatos hatósági eljárásokban a hatáskörgyakorlási jogot átruházza.
 
 (8) A Pénzügyi Stabilitási Tanács ülésén a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter képviselője, valamint az MNB elnöke által felkért külső meghívottak tárgyalási joggal vesznek részt.
 
-(9) A Pénzügyi Stabilitási Tanács határozatképes, ha tagjainak többsége jelen van. A Pénzügyi Stabilitási Tanács döntéseit a jelenlévő tagok egyszerű szótöbbségével hozza, szavazategyenlőség esetén az elnök szavazata dönt. A Pénzügyi Stabilitási Tanács döntését a Pénzügyi Stabilitási Tanács elnöke, az elnök akadályoztatása esetén az (5) bekezdés b) pontja szerinti alelnökök közül a Pénzügyi Stabilitási Tanács ügyrendjében kijelölt alelnök írja alá.
+(9) A Pénzügyi Stabilitási Tanács határozatképes, ha szavazásra jogosult tagjainak többsége jelen van. A Pénzügyi Stabilitási Tanács döntéseit a jelenlévő szavazásra jogosult tagjainak egyszerű szótöbbségével hozza, szavazategyenlőség esetén az elnök szavazata dönt. A Pénzügyi Stabilitási Tanács döntését a Pénzügyi Stabilitási Tanács elnöke, az elnök akadályoztatása esetén az (5) bekezdés b) pontja szerinti alelnökök közül a Pénzügyi Stabilitási Tanács ügyrendjében kijelölt alelnök írja alá.
+
+(9a) A 4. § (9) bekezdésében meghatározott feladatkörökkel kapcsolatos döntéshozatal során a kizárólag a 4. § (9) bekezdésében meghatározott feladatot felügyelő alelnök, az MNB elnöke által kijelölt azon vezető, amely ezen alelnök alá tartozik (a továbbiakban együtt: felügyeleti vezető), valamint az MNB elnöke rendelkezik szavazati joggal.
+
+(9b) A felügyeleti vezető kinevezése nem lehet tizennégy évnél hosszabb, továbbá kinevezésükre objektív és átlátható nyilvános kritériumok alapján kerülhet sor, valamint elbocsáthatók, amennyiben már nem felelnek meg a kinevezés kritériumainak. Az elbocsátás okait nyilvánosságra szükséges hozni, kivéve, ha az érintett felügyeleti vezető kifogást emel a nyilvánosságra hozatallal szemben.
 
 (10) A Pénzügyi Stabilitási Tanács ügyrendjét maga határozza meg.
 
@@ -540,20 +546,20 @@ vonatkozó szabályokat állapít meg.
 
 35. § (1) Az MNB meghatározza, és évente felülvizsgálja a Magyarországon székhellyel rendelkező,
 
-- a) globálisan rendszerszinten jelentős hitelintézetek körét összevont alapon, valamint
-- b) egyéb rendszerszinten jelentős hitelintézetek körét egyedi, szubkonszolidált vagy összevont alapon,
+- a) globálisan rendszerszinten jelentős intézmények körét összevont alapon, valamint
+- b) egyéb rendszerszinten jelentős intézmények körét egyedi, szubkonszolidált vagy összevont alapon,
 
 és folyamatosan figyelemmel kíséri azok működését.
 
-(2) Ha az MNB a Hpt. 90. §-a alapján tőkepuffert határoz meg vagy mértékét módosítja az egyéb rendszerszinten jelentős hitelintézetekre vonatkozóan, akkor az arról szóló határozat nyilvánosságra hozatala előtt egy hónappal tájékoztatnia kell az Európai Rendszerkockázati Testületet
+(2) Ha az MNB a Hpt. 90. §-a alapján tőkepuffert határoz meg vagy mértékét módosítja az egyéb rendszerszinten jelentős intézményekre vonatkozóan, akkor az arról szóló határozat nyilvánosságra hozatala előtt egy hónappal tájékoztatja az Európai Rendszerkockázati Testületet
 
-- a) arról, hogy várhatóan miért fogja a tőkepuffer hatékonyan és arányosan csökkenteni az egyéb rendszerszinten jelentős hitelintézetek rendszerszintű kockázatát,
+- a) arról, hogy várhatóan miért fogja a tőkepuffer hatékonyan és arányosan csökkenteni az egyéb rendszerszinten jelentős intézmények rendszerszintű kockázatát,
 - b) a tőkepuffer belső piacra gyakorolt várható hatásáról, és
-- c) az egyéb rendszerszinten jelentős hitelintézetekre vonatkozó tőkepufferráta mértékéről.
+- c) az egyéb rendszerszinten jelentős intézményekre vonatkozó tőkepufferráta mértékéről.
 
 #### 23/A. Rendszerszintű vagy makroprudenciális kockázatot csökkentő intézkedések
 
-35/A. § (1) Ha a rendszerszintű vagy makroprudenciális kockázatok kialakulásának megelőzése és csökkentése, és a pénzügyi közvetítőrendszer ellenálló képességének növelése indokolja, akkor a globálisan rendszerszinten jelentős intézményekre és egyéb rendszerszinten jelentős intézményekre vonatkozó tőkepufferkövetelmény és az anticiklikus tőkepufferkövetelmény által nem kezelt kockázatokra a Pénzügyi Stabilitási Tanács a Monetáris Tanács által meghatározott stratégiai keretek között rendszerkockázati tőkepufferrátát határozhat meg.
+35/A. § (1) Ha a rendszerszintű vagy makroprudenciális kockázatok, többek között az éghajlatváltozásból származó makroprudenciális és rendszerkockázatok kialakulásának megelőzése és csökkentése, és a pénzügyi közvetítőrendszer ellenálló képességének növelése, a pénzügyi rendszerek zavarának kockázatából fakadó, a pénzügyi rendszerre és a reálgazdaságra ható súlyos és kedvezőtlen befolyás indokolja, akkor az 575/2013/EU rendeletben nem kezelt, valamint a globálisan rendszerszinten jelentős intézményekre és egyéb rendszerszinten jelentős intézményekre vonatkozó tőkepufferkövetelmény és az anticiklikus tőkepufferkövetelmény által nem kezelt kockázatokra, a pénzügyi szektor egy vagy több intézményére a Pénzügyi Stabilitási Tanács a Monetáris Tanács által meghatározott stratégiai keretek között rendszerkockázati tőkepufferrátát határozhat meg kitettségekre, intézményekre, intézmények csoportjára.
 
 (2) A 141/A. §-ban meghatározott tájékoztatás magában foglalja:
 
@@ -565,7 +571,7 @@ vonatkozó szabályokat állapít meg.
 
 (3) Amennyiben a rendszerkockázati tőkepufferráta megállapításáról szóló döntés a korábban megállapított tőkepufferrátához képest csökkenést jelent vagy nem jelent változást, az MNB-nek csak a 141/A. § szerinti tájékoztatást kell megtennie.
 
-(4) Ha az MNB 3 százalék vagy az alatti mértékben kíván rendszerkockázati tőkepufferrátát előírni, akkor a 141/A. § a) pontjában meghatározott tájékoztatást követően – legkorábban 30 nappal – alkalmazhatja azt a Hpt. 92. § (2) bekezdésében meghatározott valamennyi kitettségre vonatkozóan azzal, hogy minden EGT-államban lévő kitettségekre azonos rendszerkockázati tőkepufferrátát ír elő.
+(4) Ha az MNB három százalék vagy az alatti mértékben kíván rendszerkockázati tőkepufferrátát előírni, akkor a 141/A. § a) pontjában meghatározott tájékoztatást követően – legkorábban harminc nappal – alkalmazhatja azt a Hpt. 92. § (1) bekezdésében meghatározott valamennyi kitettségre vonatkozóan azzal, hogy minden EGT-államban lévő kitettségekre azonos rendszerkockázati tőkepufferrátát ír elő kivéve, ha azt egy másik EGT-tagállam által előírt rendszerkockázati tőkepufferrátának a (9) bekezdés szerinti elismerésével került megállapításra.
 
 (5) Ha az MNB a Hpt. 92. § (2) bekezdés szerinti kitettségre 5 százalék feletti mértékben kíván rendszerkockázati tőkepufferrátát előírni, akkor ezt csak az Európai Bizottság előzetes jóváhagyása esetén vezetheti be. Ebben az esetben az MNB tervezetét véleménnyel ellátva megküldi az Európai Bizottságnak.
 
@@ -577,7 +583,10 @@ vonatkozó szabályokat állapít meg.
 
 (9) A (6) bekezdésben meghatározott esetben, amennyiben másik EGT-államban székhellyel rendelkező anyavállalat hitelintézet leányvállalata érintett, a MNB az Európai Bizottsággal egyidejűleg az ügyben érintett többi illetékes felügyeleti hatóságot is értesíti, egyeztet velük. Ha a többi érintett illetékes felügyeleti hatóság és az MNB nem ért egyet az Európai Bizottságnak megküldött javaslat tekintetében, vagy a javaslatnak az Európai Bizottság felé megküldését követő egy hónapon belül az Európai Rendszerkockázati Testület a rendszerkockázati tőkepuffer alkalmazását illetően ellenvéleményt fejez ki, akkor az MNB az Európai Bankhatósággal egyeztetést kezdeményez, amely egyeztetés során az Európai Bankhatóság részéről rögzítésre kerülő vélemény az MNB-re nézve nem kötelező.
 
-(10) Az MNB elismerheti a másik EGT-államban megállapított rendszerkockázati tőkepufferrátát mérlegelve a kapott információkat, és előírhatja a Magyarországon székhellyel rendelkező hitelintézetek számára annak alkalmazását az adott EGT-államban lévő kitettségeik tekintetében.
+(10) Az MNB elismerheti a másik EGT-államban megállapított rendszerkockázati tőkepufferrátát mérlegelve a 141/A. § a) pontja alapján kapott információkat, és előírhatja a Magyarországon székhellyel rendelkező hitelintézetek és befektetési vállalkozások számára annak alkalmazását az adott EGT-államban lévő kitettségeik tekintetében azzal, hogy
+
+- a) ez a rendszerkockázati tőkepufferráta hozzáadódhat az e § szerint alkalmazott rátához, ha eltérő kockázatokra vonatkozik,
+- b) a magasabb rendszerkockázati tőkepufferráta alkalmazandó, ha azonos kockázatokra vonatkozik.
 
 (11) Az MNB kérheti az Európai Rendszerkockázati Testületet, hogy adjon ki ajánlást egy vagy több EGT-állam vonatkozásában az MNB által meghatározott rendszerkockázati tőkepuffer elismerésének érdekében.
 
@@ -1484,7 +1493,7 @@ rendelhet ki.
 
 75. § (1) Ha az MNB a 62. § (2) bekezdése szerinti ellenőrzés végén vagy az általa hivatalosan ismert tények alapján megállapítja a 62. § (1) bekezdésében meghatározott jogszabályok vagy az MNB hatósági határozatában, illetve a 49/D. § (1) bekezdése szerinti végzésében meghatározott kötelezettség megszegését, elkerülését, elmulasztását, késedelmes vagy hiányos teljesítését, – ha törvény eltérően nem rendelkezik –
 
-- a) a 39. §-ban meghatározott törvények hatálya alá tartozó személy, szervezet esetén a 39. §-ban meghatározott, az adott tevékenységre vonatkozó jogszabály szerinti intézkedést, kivételes intézkedést alkalmazza, illetve bírságot szab ki, vagy
+- a) a 39. §-ban meghatározott törvények hatálya alá tartozó személy, szervezet esetén a 39. §-ban meghatározott, az adott tevékenységre vonatkozó jogszabály szerinti intézkedést, kivételes intézkedést alkalmazza, illetve bírságot, kényszerítő bírságot szab ki, vagy
 - b) az a) pont hatálya alá nem tartozó személlyel, szervezettel szemben a következő intézkedéseket alkalmazza:
   - ba) felhívja az előírások pontos, határidőben történő betartására,
   - bb) határidő tűzésével kötelezi a szükséges intézkedések megtételére, a feltárt jogszabálysértés és a hiányosságok megszüntetésére,
@@ -1531,16 +1540,31 @@ rendelhet ki.
 
 (4) A (3) bekezdés alkalmazása során – a 39. §-ban meghatározott törvények ekként meghatározott személyeken túl – vezető állású személynek minősül az önkéntes kölcsönös biztosító pénztár, valamint a magánnyugdíjpénztár vezető tisztségviselője, ügyvezetője és ügyvezető-helyettese is, továbbá a független biztosításközvetítői tevékenység irányítását végző személy.
 
-(5) A kiszabható bírság mértéke a Hpt. 184. §-ában és a Bszt. 164. §-ában meghatározott szabálysértés esetén, továbbá az engedély nélkül befolyásoló részesedést szerző jogi személy, valamint betétgyűjtést vagy más visszafizetendő pénzeszközt hitelintézeti engedély hiányában végző vállalkozás tekintetében
+(5) A kiszabható bírság mértéke a Hpt. 184. §-ában és a Bszt. 164. §-ában meghatározott szabálysértés esetén, továbbá az engedély nélkül befolyásoló részesedést szerző jogi személy, valamint betétgyűjtést vagy más visszafizetendő pénzeszközt hitelintézeti engedély hiányában történő végzése tekintetében
 
-- a) 1 555 850 000 forintig, vagy
-- b) a jogsértést megállapító határozat meghozatalát megelőző üzleti év 89. § (3) bekezdés b) és d) pontja szerinti nettó árbevételének 10 százalékáig
+- a) természetes személy esetében 1 555 850 000 forintig, vagy
+- b) jogi személy esetében a jogsértést megállapító határozat meghozatalát megelőző teljes éves nettó árbevételének 10 százalékáig
 
 terjedhet.
 
 (5a) Ha a jogsértésből származó haszon vagy elkerült veszteség összege meghatározható, a kiszabható maximális bírság mértéke annak kétszerese, azzal, hogy a bírság mértékét minden esetben az (5) és e bekezdés alapján meghatározott magasabb összegű bírsághatárra figyelemmel kell megállapítani.
 
-(5b) Ha a jogi személy olyan anyavállalat vagy egy anyavállalat olyan leányvállalata, amelynek a számvitelről szóló 2000. évi C. törvény értelmében összevont pénzügyi beszámolót kell készítenie, akkor az (5) bekezdés szerinti nettó árbevétel az anyavállalat konszolidált beszámolója alapján számított, tárgyévet megelőző üzleti évi nettó árbevétele.
+(5b) Az (5) bekezdés b) pontjának alkalmazásában teljes éves nettó árbevétel a következő, az intézmények felügyeleti adatszolgáltatása tekintetében történő alkalmazására vonatkozó végrehajtás-technikai standarddal összhangban meghatározandó tételek összege:
+
+- a) kamatbevételek;
+- b) kamatráfordítások;
+- c) kérésre visszafizetendő jegyzett tőke ráfordításai;
+- d) osztalékbevétel;
+- e) díj- és jutalékbevétel;
+- f) díj- és jutalékráfordítások;
+- g) kereskedési céllal tartott pénzügyi eszközökből és kötelezettségekből származó nyereség vagy veszteség, nettó;
+- h) az eredménnyel szemben valós értéken értékeltnek megjelölt pénzügyi eszközök és kötelezettségek nyeresége vagy vesztesége, nettó;
+- i) fedezeti elszámolásokból eredő nyereségek vagy veszteségek, nettó;
+- j) árfolyam-különbözet (nyereség vagy veszteség), nettó;
+- k) egyéb működési bevétel;
+- l) egyéb működési költségek.
+
+(5c) Az (5b) bekezdés alkalmazása során a számítás alapjaként a legutolsó olyan éves pénzügyi felügyeleti információt kell figyelembe venni, amely nulla feletti mutatót eredményez. Ha a jogi személy nem tartozik az intézmények felügyeleti adatszolgáltatása tekintetében történő alkalmazására vonatkozó végrehajtás-technikai standard hatálya alá, a figyelembe veendő teljes éves nettó árbevétel a rá vonatkozó számviteli szabályok szerinti teljes éves nettó árbevétel vagy annak megfelelő típusú bevétel. Ha a jogi személy olyan anyavállalat vagy egy anyavállalat olyan leányvállalata, amelynek a számvitelről szóló 2000. évi C. törvény értelmében összevont pénzügyi beszámolót kell készítenie, akkor az (5) bekezdés szerinti nettó árbevétel az anyavállalat konszolidált beszámolója alapján számított, tárgyévet megelőző üzleti évi nettó árbevétele.
 
 (6) A kiszabható bírság mértéke a Hpt. 184. §-ában és a Bszt. 164. §-ában meghatározott szabálysértés esetén, továbbá az engedély nélkül befolyásoló részesedést szerző természetes személy, valamint betétgyűjtést vagy más visszafizetendő pénzeszköz gyűjtését végző természetes személy esetében 1 555 850 000 forint vagy – amennyiben meghatározható – a jogsértésből származó haszon vagy az azzal elkerült veszteség kétszerese, azzal hogy a bírság mértékét minden esetben a magasabb összegű bírsághatárra figyelemmel kell megállapítani.
 
@@ -1660,6 +1684,24 @@ a kiszabható bírság mértéke természetes személy esetében legfeljebb 1 67
   - be) a 111. cikk (1) bekezdés e) pontjában felsorolt rendelkezések megsértése esetén, legfeljebb 927 300 000 forint a bennfentes információk nyilvánosságra hozatalára vonatkozó rendelkezéseinek megsértése esetén, illetve 5 563 800 000 forint a bennfentes kereskedelem tilalmára, a bennfentes információk jogosulatlan közzétételének tilalmára, valamint a piaci manipuláció tilalmára, illetve a piaci visszaélés felderítésére és megelőzésére vonatkozó rendelkezéseinek megsértése esetén vagy a döntéshozó szerv által legutoljára jóváhagyott éves beszámoló szerinti éves árbevétel legfeljebb 2%-a a bennfentes információk nyilvánosságra hozatalára vonatkozó rendelkezéseinek megsértése esetén, illetve 15%-a a bennfentes kereskedelem tilalmára, a bennfentes információk jogosulatlan közzétételének tilalmára, valamint a piaci manipuláció tilalmára, illetve a piaci visszaélés felderítésére és megelőzésére vonatkozó rendelkezéseinek megsértése esetén.
 
 (27) Ha a (26) bekezdés b) pontja szerinti jogi személy olyan anyavállalat vagy egy anyavállalat olyan leányvállalata, amelynek a számvitelről szóló 2000. évi C. törvény szerint összevont pénzügyi beszámolót kell készítenie, akkor a (26) bekezdés b) pontja szerinti nettó árbevétel az anyavállalat konszolidált beszámolója alapján számított, tárgyévet megelőző üzleti évi nettó árbevétele.
+
+(27a) A Hpt.-ben, az 575/2013/EU rendeletben vagy az MNB által hozott határozatban foglaltak megsértésének megszüntetése, valamint a természetes vagy jogi személyek arra való kötelezése, hogy újra megfeleljenek a megsértett rendelkezéseknek vagy határozatoknak miatt kiszabható kényszerítő bírság
+
+- a) jogi személy esetében az átlagos napi nettó árbevétel legfeljebb 5%-a, amelyet folyamatos jogsértés esetén a jogi személy,
+- b) természetes személy esetén legfeljebb 19 810 000 forint, amelyet folyamatos jogsértés esetén a természetes személy
+
+a jogsértés minden napjára köteles megfizetni mindaddig, amíg a kötelezettség teljesítése nem áll helyre azzal, hogy a kényszerítő bírság az MNB-nek a jogsértés megszüntetését elrendelő és a kényszerítő bírságot kiszabó határozatában meghatározott időponttól számított legfeljebb hat hónapos időtartamra szabható ki.
+
+(27b) A kényszerítő bírság heti vagy havi alapon is kiszabható. Ebben az esetben a jogsértés elkövetése szerinti heti vagy havi időszakban kiszabható kényszerítő bírság összege nem haladhatja meg a kényszerítő bírságnak az adott időszakra eső napokra számítható legmagasabb mértékének az összegét. A kényszerítő bírság egy adott időpontban úgy is kiszabható, hogy alkalmazása csak egy későbbi időpontban kezdődik meg.
+
+(27c) A kényszerítő bírságnál az átlagos napi nettó árbevétel az (5b) és (5c) bekezdés szerint meghatározott teljes éves nettó árbevétel 365-öd része.
+
+(28) A 260/2012/EK európai parlamenti és tanácsi rendelet 5d. cikkében foglaltak megsértése esetén a bírság mértéke:
+
+- a) jogi személy esetében a jogi személy előző üzleti évi teljes éves nettó árbevételének legalább 10 %-a,
+- b) természetes személy esetében legalább 1 950 750 000 forint.
+
+(29) A (28) bekezdés a) pontjának alkalmazása során, amennyiben a jogi személy a 2013/34/EU európai parlamenti és tanácsi irányelv 2. cikkének 9. pontjában meghatározott anyavállalat vagy bármely olyan vállalkozás leányvállalata, amely ténylegesen meghatározó befolyást gyakorol az adott jogi személyre árbevételnek a legfelső szintű anyavállalat előző üzleti évi összevont beszámolója szerinti árbevétel tekintendő.
 
 77. § (1) A bírságot a kiszabásáról hozott döntés véglegessé válásától számított harminc napon belül kell a döntésben megjelölt számlára befizetni.
 
@@ -1890,7 +1932,7 @@ tarthat.
 - a) hat hónap a hatósági ellenőrzési eljárás lefolytatására, továbbá
 - b) jogszabálysértés megállapítása esetén további három hónap a hatósági eljárás lefolytatására.
 
-(3) Az MNB – az ok és a cél megjelölésével megküldött – felhívására a 39. § (1)–(2a) bekezdésében meghatározott jogszabályok hatálya alá tartozó személy vagy szervezet köteles az általa kezelt, a piacfelügyeleti eljárás ügyfelére vonatkozó és az üggyel kapcsolatos
+(3) Az MNB – az ok és a cél megjelölésével megküldött – felhívására a 39. § (1) és (2) bekezdésében meghatározott jogszabályok hatálya alá tartozó személy vagy szervezet köteles az általa kezelt, a piacfelügyeleti eljárás ügyfelére vonatkozó és az üggyel kapcsolatos
 
 - a) iratot, elektronikus módon rögzített adatot, jelet, rögzített telefonbeszélgetést bemutatni,
 - b) egyéb tájékoztatást adni, valamint
@@ -2014,7 +2056,7 @@ számított 5 évig kezelheti.
 
 (2) Az érvénytelen szerződésnek vagy más jogügyletnek a piacfelügyeleti eljárás szempontjából annyiban van jelentősége, amennyiben annak gazdasági eredménye kimutatható.
 
-93. § (1) Engedély nélkül vagy bejelentés hiányában végzett tevékenység megállapítása esetén az MNB
+93. § (1) Engedély nélkül vagy bejelentés hiányában végzett tevékenység megállapítása, illetve a 90. § (1) bekezdés f) pontjában foglaltak esetén az MNB
 
 - a) megtiltja a tevékenység végzését,
 - b) büntetőeljárást kezdeményez, ha megítélése szerint a tevékenység a Büntető Törvénykönyvről szóló törvény alapján bűncselekménynek minősül,
@@ -2033,7 +2075,7 @@ számított 5 évig kezelheti.
 
 (5) Piacfelügyeleti eljárás során
 
-- a) az engedély nélkül vagy bejelentés hiányában végzett tevékenység esetén a piacfelügyeleti bírság összege százezer forinttól kettőmilliárd forintig,
+- a) az engedély nélkül vagy bejelentés hiányában végzett, illetve a 90. § (1) bekezdés f) pontjában meghatározott tevékenység esetén a piacfelügyeleti bírság összege százezer forinttól kettőmilliárd forintig,
 - b) a vállalatfelvásárlásra vonatkozó szabályok megsértése esetén a piacfelügyeleti bírság összege százezer forinttól kettőmilliárd forintig,
 - c) a Tpt. 405. § (3) és (4) bekezdésében meghatározottak megsértése esetén a piacfelügyeleti bírság összege a Tpt. 405. § (3) és (4) bekezdésében rögzített összegig,
 - d) a 236/2012/EU európai parlamenti és tanácsi rendelet 5–8. cikkében előírt bejelentési és közzétételi kötelezettség, valamint a 12–14. cikkében előírt fedezetlen ügyletkötési korlátozások megsértése esetén a piacfelügyeleti bírság összege százezer forinttól kettőmilliárd forintig
@@ -2668,6 +2710,7 @@ azzal, hogy az elutasítás tényéről és indokáról a Felügyelet részletes
 
 - a) a 35/A. § (1) bekezdésben rögzített határozatának közlése előtt legalább 1 hónappal az Európai Rendszerkockázati Testületet, az érintett EGT-államnak az illetékes vagy a kijelölt hatóságát, ha rendszerkockázati tőkepufferrátát kíván meghatározni vagy módosítani,
 - b) az Európai Rendszerkockázati Testületet és az érintett EGT-állam illetékes vagy kijelölt hatóságát, ha a 35. § alapján elismeri a másik EGT-államban meghatározott rendszerkockázati tőkepufferrátát.
+- c) az Európai Rendszerkockázati Testületet, ha a 35. § alapján egyetlen kitettségcsoport vagy alcsoport esetében sem haladja meg a 3%-ot a tőkepufferráta mértéke, amelybe nem számítandó bele a más EGT-tagállam által megállapított és elismert rendszerkockázati tőkepufferráta.
 
 #### 38. Felügyeleti kollégium
 
@@ -2868,6 +2911,36 @@ pénzügyi intézményben, kiegészítő pénzügyi szolgáltatást végző jogi
 (9) Ha az összeférhetetlenség kimondását megelőzően az összeférhetetlenséget megalapozó körülmény megszűnik, az összeférhetetlenség kimondását mellőzni kell.
 
 (10) A felügyelőbizottság tagjaira nézve a 154. és 155. § rendelkezéseit alkalmazni kell.
+
+156/A. § (1) Ezen alcím alapján az MNB mindent megtesz, hogy a 4. § (9) bekezdésében meghatározott feladatokat ellátó munkavállalók és a vezető tisztségviselők tekintetében összeférhetetlenség ne alakuljon ki, ne álljon fenn. Ehhez az MNB szabályzatot és eljárást dolgoz ki a felelősségi körök alapján legalább a következőkre figyelemmel:
+
+- a) felügyelt intézmények – ideértve azok anyavállalatát, leányvállalatát és ahhoz részesedési viszonnyal kapcsolódó vállalkozását függetlenül attól, hogy közvetlen vagy közvetett a részesedés – által kibocsátott instrumentummal való kereskedés, kivéve a harmadik felek által kezelt instrumentumokat, ha azok tulajdonosai ki vannak zárva a portfoliókezelésbe való beavatkozásból és a kollektív befektetési formába történő befektetést, amennyiben a harmadik felek, illetve a kollektív befektetési vállalkozások túlnyomórészt nem az e pontban meghatározott intézmények által kibocsátott vagy azokra hivatkozó instrumentumokba fektetnek be,
+- b) várakozási időszak meghatározása, amely alatt munkaviszony nem létesíthető és szakmai szolgáltatás nyújtására vonatkozó szerződés nem köthető:
+  - ba) felügyelt intézményekkel, ideértve azok anyavállalatát, leányvállalatát és ahhoz részesedési viszonnyal kapcsolódó vállalkozását függetlenül attól, hogy közvetlen vagy közvetett a részesedés,
+  - bb) a ba) alpontbeli vállalkozásoknak szolgáltatást nyújtó vállalkozással
+  - bc) érdekérvényesítési vagy lobbiszervezetekkel, amelyekkel az MNB-vel való munkaviszony alatt felelősségi körébe tartozó feladata állt fenn.
+
+(2) A várakozási időszak az (1) bekezdés b) pont ba) alpontja szerinti szervezetek felügyeletében való közvetlen részvétel megszűnésének napjától kezdődik. Az MNB biztosítja, hogy a 4. § (9) bekezdésében meghatározott feladatokat ellátó munkavállalója és vezető tisztségviselője a várakozási időszak alatt nem rendelkezik hozzáféréssel az adott szervezetre vonatkozó bizalmas vagy érzékeny információkhoz.
+
+(3) A várakozási időszak hossza
+
+- a) az (1) bekezdés b) pont ba) és bb) alpontja szerinti szervezetekkel létesített munkaviszony esetén
+  - aa) az (1) bekezdés b) pont ba) alpontja szerinti szervezet felügyeletében közvetlenül részt vevő munkavállalóra vonatkozóan legalább 6 hónap,
+  - ab) vezető tisztségviselőre vonatkozóan legalább 12 hónap,
+- b) az (1) bekezdés b) pont bc) alpontja szerinti szervezetek esetében mind a munkavállalók, mind a vezető tisztségviselők esetében legalább három hónap.
+
+(4) Az MNB az (1) bekezdés b) pont ba) alpontja szerinti szervezetek felügyeletében részt vevő munkavállalóval és vezető tisztségviselővel szemben várakozási időszakot írhat elő, ha e személy az (1) bekezdés b) pont ba) alpontja hatálya alá tartozó valamely szervezet közvetlen versenytársával létesít munkaviszonyt. Az így meghatározott várakozási időszak hossza munkavállaló esetében legalább három hónap, vezető tisztségviselő esetében legalább hat hónap.
+
+(5) A (2)–(4) bekezdéstől eltérően az MNB rövidebb, legalább három hónapos várakozási időszakot alkalmazhat a szervezetek felügyeletében közvetlenül részt vevő munkavállaló esetében, de csak akkor, ha a hosszabb várakozási időszak:
+
+- a) különösen a nemzeti munkaerőpiac kis méretére figyelemmel indokolatlanul korlátozná a Felügyelet azon képességét, hogy a felügyeleti feladatainak ellátásához megfelelő vagy szükséges készségekkel rendelkező új munkavállalókat alkalmazzon, vagy
+- b) az Mt. bármely releváns rendelkezésének a megsértését jelentené.
+
+(6) A Felügyelet az (1) bekezdés b) pontjának hatálya alá tartozó munkavállalója és vezető tisztségviselője megfelelő kompenzációra jogosult.
+
+(7) Az MNB 4. § (9) bekezdés szerinti feladatokat ellátó munkavállalója és vezetőségi tisztségviselője érdekeltségi nyilatkozattétel hatálya alá tartozik. E nyilatkozat tartalmazza a részvények, tulajdonviszonyt megtestesítő értékpapírok, kötvények vagy kollektív befektetési formák formájában fennálló olyan részesedésekre vonatkozó információkat, amelyek összeférhetetlenségi aggályokat vethetnek fel. Az érintett személy kinevezése előtt, azt követően pedig évente benyújtja érdekeltségi nyilatkozatát. Az érdekeltségi nyilatkozat nem érinti a vagyonnyilatkozat benyújtására vonatkozó követelményeket.
+
+(8) Ha az MNB 4. § (9) bekezdése szerinti feladatokat ellátó bármely munkavállalója vagy vezető tisztségviselője a munkaviszony létesítésének vagy kinevezésének időpontjában vagy azt követően bármikor olyan instrumentumokkal rendelkezik, amelyek összeférhetetlenséghez vezethetnek, az MNB eseti alapon előírhatja vagy engedélyezheti ezen instrumentumok észszerű időn belüli értékesítését vagy elidegenítését.
 
 #### 45. Vagyonnyilatkozat
 
@@ -3348,7 +3421,7 @@ azzal, hogy 2019. január 1-jétől az anticiklikus tőkepufferrátát a 33. §-
 
 (2) Az e törvény – a pénzügyi közvetítőrendszert érintő egyes törvények módosításáról szóló 2016. évi LIII. törvénnyel megállapított – 58. § (2) bekezdésében meghatározott szervezetek az (1) bekezdésben meghatározott rendelet követelményeinek való megfelelést és az ehhez szükséges regisztrációt követően, de legkésőbb 2017. január 1-jétől kötelesek elektronikus kapcsolattartásra.
 
-#### 183/I. §
+183/I. § A pénzügyi közvetítőrendszert érintő törvények módosításáról szóló 2025. évi C. törvénnyel megállapított 13. § (9b) bekezdését a 2026. január 11-et követően kinevezett felügyeleti vezetőre kell alkalmazni.
 
 183/J. § A pénzügyi közvetítőrendszert érintő egyes törvények jogharmonizációs célú módosításáról szóló 2018. évi CXXVI. törvény (a továbbiakban: Módtv.3.) 85. § (1) bekezdésével megállapított 14. § (8) bekezdést a hatálybalépésekor megbízatásukat töltő felügyelőbizottsági tagok megbízatásának időtartama tekintetében is alkalmazni kell.
 
