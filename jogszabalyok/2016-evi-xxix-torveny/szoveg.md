@@ -290,6 +290,8 @@ tartja nyilván, illetve kezeli.
 
 16/A. § Az igazságügyi szakértőnek, valamint az igazságügyi szakértői névjegyzékbe való felvétel iránti kérelmet benyújtónak a miniszter által szervezett képzés, oktatás és vizsga tekintetében történő kapcsolattartására a 44. § (2) bekezdésben foglalt rendelkezéseket kell alkalmazni.
 
+16/C. § A képzés, továbbképzés, oktatás és vizsga díját a miniszter rendeletben állapítja meg.
+
 #### 9. Az igazságügyi szakértő munkájának értékelése
 
 17. § (1) Az igazságügyi szakértők munkáját – ha jogszabály eltérően nem rendelkezik – e törvény rendelkezései és a miniszter rendeletében meghatározott részletes szabályok szerint értékelni kell.
@@ -1819,12 +1821,12 @@ rendeletben határozza meg.
 (2) Felhatalmazást kap a miniszter, hogy
 
 - a) az igazságügyi szakértői szakterületeket, az igazságügyi szakértők szakterületének besorolását és a szakterületekhez kapcsolódó képesítési és egyéb szakmai feltételeket, a képesítés egyenértékűségére vonatkozó feltételeket, az egyes szakterületek esetében a névjegyzékbe vételi eljárás során figyelembe vehető kötelező szakmai gyakorlat időtartamára, tudományos fokozatra, képesítésre és ágazati szakértői jogosultságra, ezek igazolására, valamint a névjegyzékbe bejegyzett igazságügyi szakértő esetében a feltételek alóli mentesülésre vonatkozó feltételeket,
-- b) az igazságügyi szakértők szakértői munkával összefüggő rendszeres szakmai továbbképzés szervezésére, a szakmai továbbképzés lebonyolítására, és az előírt képzési kötelezettség teljesítésének kreditpontokkal történő igazolására vonatkozó szabályokat,
+- b) az igazságügyi szakértők szakértői munkával összefüggő rendszeres szakmai továbbképzés szervezésére, a szakmai továbbképzés lebonyolítására, díjára, a továbbképzési program tartalma kialakításának módjára, és az előírt képzési kötelezettség teljesítésének kreditpontokkal történő igazolására vonatkozó szabályokat,
 - c) az igazságügyi szakértő által vezetett adattovábbítási nyilvántartás adattartalmára vonatkozó szabályokat,
 - d) az államháztartásért felelős miniszterrel egyetértésben az igazságügyi szakértői tevékenységet végzők díjazására, munkadíjára és költségeire, ezen belül különösen az egy órára felszámítható munkadíj, tételes munkadíj összegét; tételes költségelszámolás hiányában a felszámítható költségátalány mértékét, valamint a szakkonzultáns és a segédszemélyzet munkadíjára vonatkozó szabályokat,
 - e) a képzési hozzájárulás mértékét, bevallásának és megfizetésének részletes szabályait,
 - f) az igazságügyi szakértők jogi oktatására és vizsgájára, az oktatás és a vizsga lebonyolítására és díjára, az oktatáson való részvétel szabályaira, a vizsga alóli mentesség eseteire és igazolásának szabályaira, valamint az oktatáson való részvétel és a vizsga letételének igazolására vonatkozó szabályokat,
-- g) az igazságügyi szakértő részére kötelező továbbképzés rendszerére, a továbbképzés teljesítésének mérési rendszerére és igazolására, a továbbképzés formáira, lebonyolításának módjára, a továbbképzési kötelezettség alóli mentesség eseteire és igazolásának szabályaira, valamint a továbbképzési program tartalma kialakításának módjára vonatkozó részletes szabályokat,
+- g) az igazságügyi szakértő részére kötelező továbbképzés rendszerére, a továbbképzés teljesítésének mérési rendszerére és igazolására, a továbbképzés formáira, lebonyolításának módjára, díjára, a továbbképzési kötelezettség alóli mentesség eseteire és igazolásának szabályaira, valamint a továbbképzési program tartalma kialakításának módjára vonatkozó részletes szabályokat,
 - h) az érintett szakterület ágazati irányításáért felelős miniszterrel egyetértésben az igazságügyi szakértői testületeket, valamint azok működésére, szervezetére és eljárására vonatkozó szabályokat,
 - i) a szakértő eljárására, a szakvéleményre, a szakértői vizsgálatra és az egyes vizsgálattípusokra, a szakértői vizsgálathoz szükséges mintavételre és a vizsgálati tárgyak rendelkezésre bocsátására, a szakértői ügyvitelre vonatkozó szabályokat, a vizsgálati tárgy megváltozásával és megsemmisülésével járó vizsgálat elvégzéséhez szükséges előzetes hozzájárulásra vonatkozó szabályokat,
 - j) az igazságügyi szakértők értékelésére vonatkozó részletes szabályokat, valamint az igazságügyi szakértő által kért értékeléssel összefüggésben megfizetendő díjra vonatkozó szabályokat,
