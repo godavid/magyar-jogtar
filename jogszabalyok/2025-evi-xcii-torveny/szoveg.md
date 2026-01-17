@@ -20,7 +20,7 @@ a magánjogi tárgyú törvények módosításáról
 
 #### 1. A külföldön felhasználásra kerülő közokiratok diplomáciai vagy konzuli hitelesítésének (felülhitelesítésének) mellőzéséről Hágában, az 1961. október 5. napján kelt egyezmény kihirdetéséről szóló 1973. évi 11. törvényerejű rendelet módosítása
 
-1. § A külföldön felhasználásra kerülő közokiratok diplomáciai vagy konzuli hitelesítésének (felülhitelesítésének) mellőzéséről Hágában, az 1961. október 5. napján kelt egyezmény kihirdetéséről szóló 1973. évi 11. törvényerejű rendelet 3. § (5) bekezdésében az „ötezer” szövegrész helyébe a „tizenötezer” szöveg lép.
+#### 1. §
 
 #### 2. A közjegyzőkről szóló 1991. évi XLI. törvény módosítása
 
@@ -92,7 +92,7 @@ a magánjogi tárgyú törvények módosításáról
 
 #### 9. A fizetési meghagyásos eljárásról szóló 2009. évi L. törvény módosítása
 
-29. § A fizetési meghagyásos eljárásról szóló 2009. évi L. törvény 42. § (2) bekezdésében a „hatvan” szövegrész helyébe a „hatvankettő” szöveg lép.
+#### 29. §
 
 #### 10. A hagyatéki eljárásról szóló 2010. évi XXXVIII. törvény módosítása
 
@@ -182,9 +182,7 @@ a magánjogi tárgyú törvények módosításáról
 
 #### 65. §
 
-66. § Az igazságügyi szakértőkről szóló 2016. évi XXIX. törvény 8. alcíme a következő 16/C. §-sal egészül ki:
-
-„16/C. § A képzés, továbbképzés, oktatás és vizsga díját a miniszter rendeletben állapítja meg.”
+#### 66. §
 
 #### 67. §
 
@@ -197,8 +195,8 @@ a magánjogi tárgyú törvények módosításáról
 - c)
 - d)
 - e)
-- f) 139. § (2) bekezdés b) pontjában a „lebonyolítására,” szövegrész helyébe a „lebonyolítására, díjára, a továbbképzési program tartalma kialakításának módjára,” szöveg,
-- g) 139. § (2) bekezdés g) pontjában a „lebonyolításának módjára,” szövegrész helyébe a „lebonyolításának módjára, díjára,” szöveg
+- f)
+- g)
 
 lép.
 
