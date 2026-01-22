@@ -1820,6 +1820,8 @@ szerepelnek.
 
 (2) Bármely, a minősített piaci szereplők jegyzékén nem szereplő gazdasági szereplő az e törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározott minta szerint kitöltött adatlapok, nyilatkozatok AH-nak való megküldésével kezdeményezheti az előzetes minősítés lefolytatását és a minősített piaci szereplők jegyzékére való felvételét.
 
+(2a) Az előzetes minősítés elvégzéséért igazgatási szolgáltatási díjat kell fizetni.
+
 (3) Az előzetes minősítés során a (4) bekezdésben meghatározott ellenőrzéseket
 
 - a) ha a gazdasági szereplő – a főtevékenysége vagy a Katonai Nemzetbiztonsági Szolgálat (a továbbiakban: KNBSZ) rendelkezésére álló egyéb információk alapján – előreláthatólag az Nbtv. 6. §-ában meghatározott feladatköröket érintő, valamint a honvédelemért felelős miniszter által vezetett minisztérium vagy a Magyar Honvédség által lefolytatásra kerülő beszerzési eljárásban fog részt venni, a KNBSZ,
@@ -1862,6 +1864,8 @@ folytatja le.
 
 (2) Az ajánlatkérő a külön jogszabályban meghatározott minta szerinti adatlapoknak, nyilatkozatoknak az AH-hoz való megküldésével kezdeményezi a beszerzési eljáráshoz kötődő minősítést a jegyzéken, vagy a minősített piaci szereplők jegyzékén nem szereplő alvállalkozó tekintetében.
 
+(2a) A beszerzési eljáráshoz kötődő minősítés elvégzéséért igazgatási szolgáltatási díjat kell fizetni.
+
 (3) A beszerzési eljáráshoz kötődő minősítés során a (4) bekezdésben meghatározott ellenőrzéseket
 
 - a) az Nbtv. 6. §-ában meghatározott feladatköröket érintő, valamint a honvédelemért felelős miniszter által vezetett minisztérium vagy a Magyar Honvédség által lefolytatott beszerzésekben a KNBSZ, vagy
@@ -1895,6 +1899,8 @@ folytatja le.
 120. § (1) A jegyzékre vett TBT-vel nem rendelkező gazdasági szereplő az utolsó felülvizsgálat során végzett ellenőrzést követő huszonnegyedik hónap utolsó napjáig köteles az e törvény felhatalmazása alapján kiadott miniszteri rendelet meghatározott minta szerinti nyilatkozatokat és adatlapokat ismét kitölteni, és az AH-nak megküldeni.
 
 (2) A minősített piaci szereplők jegyzékére vett gazdasági szereplő az utolsó felülvizsgálat során végzett ellenőrzést követő huszonnegyedik hónap utolsó napjáig köteles az e törvény felhatalmazása alapján kiadott miniszteri rendelet által meghatározott nyilatkozatokat és adatlapokat ismét kitölteni, és az AH-nak megküldeni.
+
+(2a) A jegyzéken és a minősített piaci szereplők jegyzékén tartással összefüggő ellenőrzésért igazgatási szolgáltatási díjat kell fizetni.
 
 (3) Ha a gazdasági szereplő nem tesz eleget az (1), (2) és (5) bekezdésben foglalt adatszolgáltatási kötelezettségének vagy hiányosan nyújtja be az adatlapokat, nyilatkozatokat, és hiánypótlási kötelezettségének a felszólítás kézhezvételétől számított tizenöt napon belül nem tesz eleget, az AH a gazdasági szereplőt – egyidejű értesítése mellett – törli a jegyzékről vagy a minősített piaci szereplők jegyzékéről, és erről értesíti az ajánlatkérőt is.
 
@@ -2523,6 +2529,8 @@ alkalmazni kell azzal az eltéréssel, hogy ahol az Itv. illetéket említ, azon
 (3) Felhatalmazást kap a honvédelemért felelős miniszter, hogy a közbeszerzésekért felelős miniszterrel és a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszterrel egyetértésben rendeletben szabályozza az ajánlattevők, részvételre jelentkezők, alvállalkozók, kiemelt alvállalkozók jegyzékével összefüggő előzetes minősítés, a beszerzési eljáráshoz kötött minősítés, valamint a jegyzéken tartás során alkalmazandó formanyomtatványok mintáit, valamint az AH által vezetett jegyzék tartalmi elemeit.
 
 (4) Felhatalmazást kap a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, hogy rendeletben állapítsa meg a minősített piaci szereplők jegyzékével érintett gazdasági szektorokat, valamint a minősített piaci szereplők jegyzékével összefüggő előzetes minősítés, a beszerzési eljáráshoz kötött minősítés, továbbá a jegyzéken tartás során alkalmazandó formanyomtatványok mintáit és az AH által vezetett minősített piaci szereplők jegyzékének tartalmi elemeit.
+
+(5) Felhatalmazást kap a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, hogy az adópolitikáért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg az előzetes minősítés és a beszerzési eljáráshoz kötődő minősítés elvégzéséért, valamint a jegyzéken és a minősített piaci szereplők jegyzékén tartással összefüggő ellenőrzésért fizetendő igazgatási szolgáltatási díj mértékét, az igazgatási szolgáltatási díj beszedésével, kezelésével, nyilvántartásával, visszatérítésével, felhasználásával kapcsolatos szabályokat.
 
 #### 94. Hatálybalépés
 

@@ -10,13 +10,21 @@ az atomenergiáról szóló 1996. évi CXVI. törvény módosításáról
 
 [4] A korszerűség és a hatékonyság biztosítása érdekében az Országgyűlés a következő törvényt alkotja:
 
-#### 1. §
+1. § Az atomenergiáról szóló 1996. évi CXVI. törvény a következő 6/O. §-sal egészül ki:
 
-#### 2. §
+„6/O. § (1) A Küt. 59. § (3) bekezdésétől eltérően a köztisztviselőt a készenlétért az elnök által rendeletben meghatározott mértékű készenléti pótlék illeti meg, azzal, hogy a heti pihenőnapon teljesített készenlét esetén a köztisztviselő a készenléti pótlék összegének kétszeresére, a munkaszüneti napon teljesített készenlét esetén annak háromszorosára jogosult.
+
+(2) A készenlét időtartama alatt munkavégzéssel töltött időtartamra a köztisztviselő nem jogosult az (1) bekezdés szerinti díjazásra, ezen időtartamra a rendkívüli munkavégzésre vonatkozó rendelkezések szerint jogosult az ellentételezésre.”
+
+2. § Az atomenergiáról szóló 1996. évi CXVI. törvény 8. §-a a következő (1g) bekezdéssel egészül ki:
+
+„(1g) Az atomenergia-felügyeleti szerv alaptevékenységéhez kapcsolódóan nemzetközi szervezet részére bevételi forrásából a kiadási előirányzatai terhére hozzájárulást nyújthat, kifizetést teljesíthet.”
 
 #### 3. §
 
-#### 4. §
+4. § Az atomenergiáról szóló 1996. évi CXVI. törvény 12/B. § (11) bekezdése helyébe a következő rendelkezés lép:
+
+„(11) Az atomenergia-felügyeleti szerv e törvény végrehajtására kiadott elnöki rendeletben meghatározott esetben soron kívül jár el. A soron kívüli eljárásért igazgatási szolgáltatási díjat kell fizetni.”
 
 #### 5. §
 
@@ -26,9 +34,17 @@ az atomenergiáról szóló 1996. évi CXVI. törvény módosításáról
 
 8. § (1)
 
-(2)
+(2) Az atomenergiáról szóló 1996. évi CXVI. törvény 66/M. §-a helyébe a következő rendelkezés lép:
 
-#### 9. §
+„66/M. § (1) E törvénynek az atomenergiáról szóló 1996. évi CXVI. törvény módosításáról szóló 2025. évi CXXIX. törvénnyel (a továbbiakban: Atvmód2.) módosított 2. mellékletében foglalt táblázat D:7, D:36, D:40 és D:41 mezőjét, valamint az Atvmód2.-vel megállapított 2. mellékletében foglalt táblázat 59. sorát az Atvmód2. hatálybalépését követően indult eljárásokban kell alkalmazni.
+
+(2) E törvénynek az Atvmód2.-vel megállapított 6/O. §-át az Atvmód2. hatálybalépését követően elrendelt készenlét esetében kell alkalmazni.”
+
+9. § Az atomenergiáról szóló 1996. évi CXVI. törvény 68. § (12) bekezdése a következő 21. ponttal egészül ki:
+
+(Felhatalmazást kap az elnök, hogy rendeletben állapítsa meg:)
+
+„21. a köztisztviselőt a készenlétért megillető készenléti pótlék mértékére vonatkozó részletes szabályokat.”
 
 #### 10. §
 

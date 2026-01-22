@@ -403,6 +403,10 @@ amelynek jogát vagy jogos érdekét az atomenergia-felügyeleti szerv döntése
 
 (4) A Küt. 49. § (1) bekezdésétől eltérően az atomenergia-felügyeleti szerv mint munkáltató által a köztisztviselővel a nukleáris létesítmény üzembe helyezésével és üzemeltetésével összefüggő tanulmányok folytatására kötött tanulmányi szerződésben a köztisztviselő kötelezheti magát arra, hogy a képzettség megszerzése után a támogatás mértékével arányos időn – de legfeljebb tíz éven – keresztül a közszolgálati jogviszonyát nem szünteti meg.
 
+6/O. § (1) A Küt. 59. § (3) bekezdésétől eltérően a köztisztviselőt a készenlétért az elnök által rendeletben meghatározott mértékű készenléti pótlék illeti meg, azzal, hogy a heti pihenőnapon teljesített készenlét esetén a köztisztviselő a készenléti pótlék összegének kétszeresére, a munkaszüneti napon teljesített készenlét esetén annak háromszorosára jogosult.
+
+(2) A készenlét időtartama alatt munkavégzéssel töltött időtartamra a köztisztviselő nem jogosult az (1) bekezdés szerinti díjazásra, ezen időtartamra a rendkívüli munkavégzésre vonatkozó rendelkezések szerint jogosult az ellentételezésre.
+
 7. § (1) Meglévő nukleáris létesítmény és radioaktívhulladék-tároló tulajdonjogának megszerzéséhez és a használat bármilyen jogcímen való átengedéséhez a Kormány előzetes, elvi hozzájárulása szükséges.
 
 (2) Új nukleáris létesítmény és radioaktívhulladék-tároló létesítését, valamint meglévő atomerőmű további atomreaktort tartalmazó egységgel való bővítését előkészítő tevékenység megkezdéséhez az Országgyűlés előzetes, elvi hozzájárulása szükséges.
@@ -425,6 +429,8 @@ amelynek jogát vagy jogos érdekét az atomenergia-felügyeleti szerv döntése
 (1e) Törvényben, törvény felhatalmazása alapján kiadott jogszabályban vagy törvény alapján az atomenergia-felügyeleti szerv határozatában megállapított, fizetendő díj és annak késedelmi kamata köztartozásnak minősül, és adók módjára kell behajtani.
 
 (1f) A (1a) bekezdés a)–c) pontja szerinti bevételek 30%-a a központi költségvetést illeti meg. A központi költségvetésről szóló törvény ennél alacsonyabb mértéket határozhat meg.
+
+(1g) Az atomenergia-felügyeleti szerv alaptevékenységéhez kapcsolódóan nemzetközi szervezet részére bevételi forrásából a kiadási előirányzatai terhére hozzájárulást nyújthat, kifizetést teljesíthet.
 
 (2) Az atomenergia-felügyeleti szerv bevételét – az (1f) bekezdés kivételével – működésének fedezetére használja fel, az más célra nem vonható el.
 
@@ -729,7 +735,7 @@ ha ezeket a közigazgatási hatósági ügyeket az Ngtv. vagy a magyar építés
 
 (10) A (3) bekezdés a) pontja szerinti, a tervezett üzemidőn túli üzemeltetést követő további üzemeltetéséhez szükséges engedélyezési eljárás ügyintézési határideje indokolt esetben 60 nappal meghosszabbítható.
 
-(11) Az atomenergia-felügyeleti szerv e törvény végrehajtására kiadott elnöki rendeletben meghatározott esetben soron kívül jár el.
+(11) Az atomenergia-felügyeleti szerv e törvény végrehajtására kiadott elnöki rendeletben meghatározott esetben soron kívül jár el. A soron kívüli eljárásért igazgatási szolgáltatási díjat kell fizetni.
 
 12/C. § (1) Az atomenergia-felügyeleti szerv együttes eldöntés céljából hivatalból elrendeli az előtte folyamatban lévő olyan eljárások egyesítését, amelyek tárgya egymással összefügg, és a kérelmet ugyanaz az ügyfél nyújtotta be, ha az ügyek ilyen módon történő elbírálása az eljárást egyszerűsíti vagy gyorsítja, és az összevont eljárásban nyert adatok elősegítik a megalapozott döntéshozatalt. Ilyen esetben az atomenergia-felügyeleti szerv összevont döntést hoz.
 
@@ -1786,7 +1792,9 @@ együtt járó költségeket.
 
 (3) A rendvédelmi szervtől mint tűzvédelmi hatóságtól és a rendvédelmi szervtől mint vízügyi, vízvédelmi hatóságtól Atvmód1.-gyel módosított 2. melléklet szerinti hatósághoz átkerülő hatósági hatáskör esetében az Atvmód1. hatálybalépése napján folyamatban lévő ügyek átadás-átvételére az Atvmód1. hatálybalépését követő 8 napon belül kerül sor.
 
-66/M. § E törvénynek az atomenergiáról szóló 1996. évi CXVI. törvény módosításáról szóló 2025. évi CXXIX. törvénnyel (a továbbiakban: Atvmód2.) módosított 2. mellékletében foglalt táblázat D:7, D:36, D:40 és D:41 mezőjét, valamint az Atvmód2.-vel megállapított 2. mellékletében foglalt táblázat 59. sorát az Atvmód2. hatálybalépését követően indult eljárásokban kell alkalmazni.
+66/M. § (1) E törvénynek az atomenergiáról szóló 1996. évi CXVI. törvény módosításáról szóló 2025. évi CXXIX. törvénnyel (a továbbiakban: Atvmód2.) módosított 2. mellékletében foglalt táblázat D:7, D:36, D:40 és D:41 mezőjét, valamint az Atvmód2.-vel megállapított 2. mellékletében foglalt táblázat 59. sorát az Atvmód2. hatálybalépését követően indult eljárásokban kell alkalmazni.
+
+(2) E törvénynek az Atvmód2.-vel megállapított 6/O. §-át az Atvmód2. hatálybalépését követően elrendelt készenlét esetében kell alkalmazni.
 
 ### Felhatalmazó rendelkezések
 
@@ -1921,6 +1929,7 @@ a miniszterrel egyetértésben, rendeletben állapítsa meg.
 - 18. a radioaktívhulladék-tároló és a felszín alatti vizsgálat céljára szolgáló laboratórium telephelyének műszaki megtervezésénél figyelembe veendő földtani követelményrendszert, a földtani alkalmasság megállapítását célzó kutatás engedélyezésére és a kutatás eredményének jóváhagyására vonatkozó eljárási szabályokat, valamint a létesítéssel és az üzemeltetéssel kapcsolatos bányaműszaki és bányabiztonsági követelményeket.
 - 19. a hatósági feladatot ellátó személy részére biztosítandó szolgálati igazolványra vonatkozó részletes szabályokat, valamint az igazolvány személyes adatot nem tartalmazó adattartalmát.
 - 20. a jogszabály alapján feljogosított független ellenőrző szervezet nyilvántartásba vételének, nyilvántartása felfüggesztésének, nyilvántartásból való törlésének részletes szabályait, valamint az akkreditálás során érvényesítendő követelményeket.
+- 21. a köztisztviselőt a készenlétért megillető készenléti pótlék mértékére vonatkozó részletes szabályokat.
 
 ### Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 
