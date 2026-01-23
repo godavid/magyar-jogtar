@@ -26,7 +26,7 @@ a minősített adat védelméről szóló törvény és ezzel kapcsolatos más t
 
 #### 3. A személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény módosítása
 
-6. § A személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény 37. § (2) bekezdés h) pontjában az „állapotának” szövegrész helyébe az „állapotának, lakóhelyének, tartózkodási helyének” szöveg lép.
+#### 6. §
 
 #### 4. Az atomenergiáról szóló 1996. évi CXVI. törvény módosítása
 
@@ -140,21 +140,13 @@ a minősített adat védelméről szóló törvény és ezzel kapcsolatos más t
 
 #### 21. A védelmi és biztonsági célú beszerzésekről szóló 2016. évi XXX. törvény módosítása
 
-44. § A védelmi és biztonsági célú beszerzésekről szóló 2016. évi XXX. törvény 118. §-a a következő (2a) bekezdéssel egészül ki:
+#### 44. §
 
-„(2a) Az előzetes minősítés elvégzéséért igazgatási szolgáltatási díjat kell fizetni.”
+#### 45. §
 
-45. § A védelmi és biztonsági célú beszerzésekről szóló 2016. évi XXX. törvény 119. §-a a következő (2a) bekezdéssel egészül ki:
+#### 46. §
 
-„(2a) A beszerzési eljáráshoz kötődő minősítés elvégzéséért igazgatási szolgáltatási díjat kell fizetni.”
-
-46. § A védelmi és biztonsági célú beszerzésekről szóló 2016. évi XXX. törvény 120. §-a a következő (2a) bekezdéssel egészül ki:
-
-„(2a) A jegyzéken és a minősített piaci szereplők jegyzékén tartással összefüggő ellenőrzésért igazgatási szolgáltatási díjat kell fizetni.”
-
-47. § A védelmi és biztonsági célú beszerzésekről szóló 2016. évi XXX. törvény 172. §-a a következő (5) bekezdéssel egészül ki:
-
-„(5) Felhatalmazást kap a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, hogy az adópolitikáért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg az előzetes minősítés és a beszerzési eljáráshoz kötődő minősítés elvégzéséért, valamint a jegyzéken és a minősített piaci szereplők jegyzékén tartással összefüggő ellenőrzésért fizetendő igazgatási szolgáltatási díj mértékét, az igazgatási szolgáltatási díj beszedésével, kezelésével, nyilvántartásával, visszatérítésével, felhasználásával kapcsolatos szabályokat.”
+#### 47. §
 
 #### 22. A külképviseletekről és a tartós külszolgálatról szóló 2016. évi LXXIII. törvény módosítása
 
