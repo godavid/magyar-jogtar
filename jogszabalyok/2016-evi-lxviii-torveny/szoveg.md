@@ -1035,7 +1035,11 @@ felhasználásához.
 - f) az a gazdálkodó, aki regisztrációra kötelezettől – kivéve az e pont szerinti regisztrációra kötelezettet – szárított dohányt és fermentált dohányt vásárol, regisztrációra kötelezett részére történő továbbértékesítési céllal,
 - g) az a gazdálkodó, aki szárított dohány vagy fermentált dohány felhasználásával gazdasági tevékenység keretében nem dohánygyártmányt állít elő.
 
-(3) A (2) bekezdés a) pontja alá tartozó termelőként az állami adó- és vámhatóság azt regisztrálja, aki a dohánynövény termesztést hatályos, írásbeli termelési és értékesítési szerződés alapján végzi, továbbá a megtermelt dohányt a végrehajtási rendeletben meghatározott módon tárolja. Az állami adó- és vámhatóság a termelőt a szerződés hatályvesztésekor törli a nyilvántartásából.
+(3) A (2) bekezdés a), b), e) és f) pontja szerinti regisztrációra kötelezett esetében a nyilvántartásba vétel feltétele a megtermelt, belföldre behozott, vásárolt dohány e fejezet végrehajtásáról szóló kormányrendeletben meghatározott módon történő tárolási feltételeinek biztosítása, valamint a (2) bekezdés a) és b) pontja szerinti regisztrációra kötelezett esetében a dohánynövény termesztésének hatályos, írásbeli termelési és értékesítési szerződés alapján történő végzése.
+
+(3a) Az (1) bekezdés szerinti nyilvántartásba vétel iránti kérelem a (2) bekezdés a) és b) pontja szerinti regisztrációra kötelezett esetében tartalmazza a dohánynövény termesztésére használt földterület települését, helyrajzi számát, helyrajzi számonkénti területét és ebből a dohánytermesztésre használt terület nagyságát hektárban.
+
+(3b) Az állami adó- és vámhatóság a (2) bekezdés a) és b) pontja szerinti regisztrációra kötelezettet a szerződés hatályvesztésekor törli a nyilvántartásából.
 
 (4) A (2) bekezdés c) és d) pontja alá tartozónak minősül
 
@@ -1868,6 +1872,8 @@ alapulvételével kell meghatározni.
 (7) A (2), az (5) és a (6) bekezdés szerinti jövedéki bírságra az Art.-nak a megbízható és a kockázatos adózói minősítésnek az adóbírság és a mulasztási bírság felső határát módosító és az ezek kiszabásával kapcsolatos szabályait alkalmazni kell.
 
 (8) A 39. § megsértése esetén a jövedéki bírság mértéke kilogrammonként 100 ezer forint.
+
+(8a) A 39. § szerint be nem jelentett földterületen termesztett, lábon álló dohánynövények után a jövedéki bírság mértéke megkezdett 10 négyzetméterenként 30 ezer forint, a fél hektárt meghaladó területre megkezdett fél hektáronként 15 millió forint.
 
 (9) Cukorcefre adóraktáron kívüli előállítása, birtoklása esetén a jövedéki bírság mértéke kilogrammonként 3 ezer forint, de legalább 100 ezer forint. Ezen alcím alkalmazásában cukorcefre alatt olyan, erjesztéssel jövedéki termék előállítására alkalmas anyagot kell érteni, amelynek szénhidrát tartalma 50%-ot meghaladó mértékben hozzáadott cukor- vagy keményítőtartalmú, mezőgazdasági eredetű termékből származik. Nem minősül cukorcefrének az olyan anyag, amely a terméket birtokló személy által a szakmai szabályok alapján engedéllyel vagy engedély nélkül jogszerűen, alapanyagként vagy gyártásközi termékként felhasználható termékelőállításhoz.
 

@@ -313,6 +313,10 @@ kezeli a gyermekvédelmi intézményben foglalkoztatottnak és a pályázónak a
 
 (2) Az előző munkáltató és a települési önkormányzat polgármestere az (1) bekezdés szerinti tájékoztatást és véleményt az erre irányuló kérés megérkezésétől számított 15 napon belül, írásban adja meg.
 
+### A javítóintézet vezetőjének a kinevezése
+
+10/J. § A javítóintézet vezetőjének a kinevezéséhez, kinevezése visszavonásához a büntetés-végrehajtás országos parancsnokának a véleménye szükséges.
+
 ### Gyermeki jogok védelme
 
 11. § (1) A gyermeki jogok védelme minden olyan természetes és jogi személy kötelessége, aki a gyermek nevelésével, oktatásával, ellátásával, törvényes képviseletének biztosításával, ügyeinek intézésével foglalkozik.
@@ -2392,11 +2396,27 @@ a nevelőszülőnek a végkielégítés megállapítását megelőző három év
 
 (7) A (6) bekezdés b) pontja szerinti esetben a fiatalkorú utazási és étkezési költségét a javítóintézet biztosítja.
 
+(8) A javítóintézetben
+
+- a) a javítóintézet rendjének fenntartásában, valamint a bűncselekmények elkövetésének a megelőzésében – hivatásos állományú rendőr szolgálatellátása útján – az általános rendőrségi feladatok ellátására létrehozott szerv, továbbá
+- b) a javítóintézet rendjének fenntartásában, a javítóintézeti rendész feladatkörében eljárva – a büntetés-végrehajtási szervezet hivatásos állományú tagja szolgálatellátása útján – a büntetés-végrehajtási intézet
+
+közreműködhet.
+
+(9) A (8) bekezdés szerinti esetben
+
+- a) a szolgálatellátás nem irányulhat a javítóintézet rendjének fenntartásával, illetve – a (8) bekezdés a) pontja szerinti esetben – a bűncselekmények elkövetésének a megelőzésével össze nem függő tevékenységre, és
+- b) a szolgálatellátáshoz szükséges, térítés nélkül átadásra kerülő tárgyi eszközök, valamint a biztosított helyiségek használatára és visszavételére vonatkozó rendelkezéseket az általános rendőrségi feladatok ellátására létrehozott szerv, illetve – a (8) bekezdés b) pontja szerinti esetben – a büntetés-végrehajtási intézet és a javítóintézet között létrejött együttműködési megállapodásban kell rögzíteni.
+
+(10) A javítóintézetben a javítóintézet rendjének fenntartása érdekében működő biztonsági rendszert a büntetés-végrehajtás országos parancsokának az egyetértésével kell kialakítani.
+
+(11) A javítóintézet biztonsági rendszerét a büntetés-végrehajtás országos parancsnoka ellenőrizheti.
+
 ### A javítóintézet alapdokumentumai
 
 66/N. § (1) A javítóintézet szervezeti felépítését és működési rendjét a szervezeti és működési szabályzat határozza meg.
 
-(2) A javítóintézet igazgatója a javítóintézetben ellátott fiatalkorúak, valamint a javítóintézet utógondozó részlegén ellátottak jogaira és kötelezettségeire, továbbá a javítóintézet belső életének rendjére vonatkozóan a Bv. tv. 345. § (2) bekezdésben foglaltak figyelembevételével házirendet készít.
+(2) A javítóintézet igazgatója a javítóintézetben ellátott fiatalkorúak, valamint a javítóintézet utógondozó részlegén ellátottak jogaira és kötelezettségeire, továbbá a javítóintézet belső életének rendjére vonatkozóan – a Bv. tv.-ben foglaltak szerint – házirendet készít, amelyet a büntetés-végrehajtás országos parancsnokának jóvá kell hagynia.
 
 (3) Az utógondozó részleg működését a szervezeti és működési szabályzat mellékletét képező utógondozási szabályzat és a részleg házirendje szabályozza.
 

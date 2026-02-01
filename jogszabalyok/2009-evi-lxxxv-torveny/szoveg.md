@@ -235,7 +235,7 @@ kívüli szolgáltatás.
 
 (3) A pénzforgalmi szolgáltatási keretszerződés nem tartalmazza az EGT-államon kívül felmerülő díjat, költséget vagy egyéb fizetési kötelezettséget, ha az adatok nem állnak a pénzforgalmi szolgáltató rendelkezésére.
 
-14/A. § A pénzforgalmi szolgáltatási keretszerződésben a pénzforgalmi szolgáltató nem köthet ki olyan szerződési feltételt, amely alapján a vele szerződő fogyasztó számára a Magyarországon elhelyezett automata bankjegykiadó gépből készpénz-helyettesítő fizetési eszköz útján történő készpénzfelvétel fizetési műveleti értékhatárának felső mértékét napi százötvenezer forintnál alacsonyabb összegben egyoldalúan meghatározza.
+14/A. § A pénzforgalmi szolgáltatási keretszerződésben a pénzforgalmi szolgáltató nem köthet ki olyan szerződési feltételt, amely alapján a vele szerződő fogyasztó számára a Magyarországon elhelyezett automata bankjegykiadó gépből készpénz-helyettesítő fizetési eszköz útján történő készpénzfelvétel fizetési műveleti értékhatárának felső mértékét napi háromszázezer forintnál alacsonyabb összegben egyoldalúan meghatározza.
 
 ### A keretszerződés módosítása és megszüntetése
 
@@ -491,12 +491,12 @@ FIZETÉSI SZÁMLA FELETTI RENDELKEZÉS
 
 36/A. § (1) A fogyasztó jogosult
 
-- a) a fizetési számláról legalább az adott naptári hónapban első két alkalommal forintban teljesített Magyarországon elhelyezett automata bankjegykiadó gépből készpénz-helyettesítő fizetési eszköz útján történő készpénzfelvétel együttes összegének százötvenezer forintot meg nem haladó részét a pénzforgalmi szolgáltatótól díjtól és költségtől mentesen igénybe venni, és
+- a) a fizetési számláról legalább az adott naptári hónapban első két alkalommal forintban teljesített, Magyarországon elhelyezett automata bankjegykiadó gépből készpénz-helyettesítő fizetési eszköz útján történő készpénzfelvétel együttes összegének háromszázezer forintot meg nem haladó részét a pénzforgalmi szolgáltatótól díjtól és költségtől mentesen igénybe venni, és
 - b) a forintban vezetett fizetési számla pozitív egyenlege terhére legalább az adott naptári hónapban első két alkalommal a Hpt. 6. § (4) bekezdés e) pontja szerinti cash-back szolgáltatást, azaz vásárlással összekötött készpénzátadást Magyarországon nyújtó kedvezményezettől a fizetési művelet részeként készpénz átvételére azzal, hogy a készpénzátvétel együttes összegének negyvenezer forintot meg nem haladó részéig a pénzforgalmi szolgáltató díjat, költséget nem számíthat fel.
 
-(2) Ha a fizetési számláról adott naptári hónapban első két alkalommal forintban teljesített, Magyarországon elhelyezett automata bankjegykiadó gépből készpénz-helyettesítő fizetési eszköz útján történő készpénzfelvétel, illetve a cash-back szolgáltatás igénybevételével történő készpénzátvétel összege együttesen a százötvenezer forintot, illetve negyvenezer forintot meghaladja, a pénzforgalmi szolgáltató a készpénzfelvételnek a százötvenezer forintot, illetve a készpénzátvétel negyvenezer forintot meghaladó összege után számíthat fel díjat vagy költséget.
+(2) Ha a fizetési számláról adott naptári hónapban első két alkalommal forintban teljesített, Magyarországon elhelyezett automata bankjegykiadó gépből készpénz-helyettesítő fizetési eszköz útján történő készpénzfelvétel, illetve a cash-back szolgáltatás igénybevételével történő készpénzátvétel összege együttesen a háromszázezer forintot, illetve negyvenezer forintot meghaladja, a pénzforgalmi szolgáltató a készpénzfelvételnek a háromszázezer forintot, illetve a készpénzátvétel negyvenezer forintot meghaladó összege után számíthat fel díjat vagy költséget.
 
-(3) Ha a pénzforgalmi szolgáltató az (1) bekezdés a) pontja szerinti fizetési műveletet egészben vagy részben a fogyasztó részére biztosított hitelkeret terhére teljesíti, a fogyasztó legalább az adott hónapban a fizetési számlára érkező munkavégzésre irányuló jogviszonyból származó jövedelem – különösen a személyi jövedelemadóról szóló törvény szerinti bér –, a szociális ellátás – különösen a szociális igazgatásról és szociális ellátásokról szóló törvény szerinti rendszeres pénzellátás és háztartási munka ellenértéke, a fogyatékossági támogatás, vakok személyi járadéka, anyasági támogatás – és ösztöndíj erejéig – de legfeljebb százötvenezer forintig – jogosult az (1) bekezdés a) pontja szerinti díjtól és költségtől mentes készpénzfelvételt igénybe venni.
+(3) Ha a pénzforgalmi szolgáltató az (1) bekezdés a) pontja szerinti fizetési műveletet egészben vagy részben a fogyasztó részére biztosított hitelkeret terhére teljesíti, a fogyasztó legalább az adott hónapban a fizetési számlára érkező munkavégzésre irányuló jogviszonyból származó jövedelem – különösen a személyi jövedelemadóról szóló törvény szerinti bér –, a szociális ellátás – különösen a szociális igazgatásról és szociális ellátásokról szóló törvény szerinti rendszeres pénzellátás és háztartási munka ellenértéke, a fogyatékossági támogatás, vakok személyi járadéka, anyasági támogatás – és ösztöndíj erejéig – de legfeljebb háromszázezer forintig – jogosult az (1) bekezdés a) pontja szerinti díjtól és költségtől mentes készpénzfelvételt igénybe venni.
 
 (4) A pénzforgalmi szolgáltató az (1) bekezdés szerinti, díjtól és költségtől mentes, Magyarországon elhelyezett automata bankjegykiadó gépből készpénz-helyettesítő fizetési eszköz útján történő készpénzfelvételt, valamint cash-back szolgáltatás díj és költségmentes igénybevételét azon fogyasztó számára köteles biztosítani, aki:
 
@@ -538,9 +538,9 @@ köteles megőrizni, illetve tárolni.
 
 (14) A pénzforgalmi szolgáltató az e §-ban foglaltaktól a fogyasztó számára kedvezőbb feltételt is megállapíthat.
 
-36/B. § (1) A Magyarországon elhelyezett automata bankjegykiadó gépből készpénz-helyettesítő fizetési eszköz útján fizetési számláról történő készpénzfelvétel fizetési műveleti értékhatárának felső mértéke – a (2) bekezdésben meghatározott eltéréssel – műveletenként százötvenezer forintnál alacsonyabb összeg nem lehet.
+36/B. § (1) A Magyarországon elhelyezett automata bankjegykiadó gépből készpénz-helyettesítő fizetési eszköz útján fizetési számláról történő készpénzfelvétel fizetési műveleti értékhatárának felső mértéke – a (2) bekezdésben meghatározott eltéréssel – műveletenként háromszázezer forintnál alacsonyabb összeg nem lehet.
 
-(2) Az (1) bekezdésben foglaltak nem érintik azt a lehetőséget, hogy a készpénzfelvétel napi limitje a keretszerződés alapján százötvenezer forintnál alacsonyabb értékben legyen meghatározva, ha a fogyasztó jogosult a készpénzfelvételi limitet a készpénzfelvétel napjára vonatkozóan legalább százötvenezer forintra megemelni.
+(2) Az (1) bekezdésben foglaltak nem érintik azt a lehetőséget, hogy a készpénzfelvétel napi limitje a keretszerződés alapján háromszázezer forintnál alacsonyabb értékben legyen meghatározva, ha a fogyasztó jogosult a készpénzfelvételi limitet a készpénzfelvétel napjára vonatkozóan legalább háromszázezer forintra megemelni.
 
 36/C. § Fogyasztónak fizetési számlát vezető pénzforgalmi szolgáltató jogszabályban meghatározott feltételek teljesülése esetén a fogyasztó kérésére köteles a fizetési számla váltásához kapcsolódó eljárással összefüggő szolgáltatást nyújtani.
 

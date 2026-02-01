@@ -26,7 +26,7 @@ az Európa Tanács labdarúgó-mérkőzések és egyéb sportrendezvények bizto
 
 5. § Az e törvény végrehajtásához szükséges intézkedésekről a sportpolitikáért felelős miniszter és a rendészetért felelős miniszter gondoskodik.
 
-#### 6. §
+6. § Hatályát veszti az Európa Tanács keretében, Strasbourgban, 1985. augusztus 19-én létrejött, a sporteseményeken, különösen a labdarúgó mérkőzéseken megnyilvánuló nézői erőszakról és nem megfelelő viselkedésről szóló Egyezmény kihirdetéséről szóló 2003. évi LXIII. törvény.
 
 ### 1. melléklet a 2025. évi XXIX. törvényhez
 
