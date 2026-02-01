@@ -49,6 +49,7 @@ Az Országgyűlés annak érdekében, hogy olyan szabályozás jöjjön létre, 
 - 24. kereskedelmi kommunikáció: a fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló törvényben ekként meghatározott fogalom,
 - 25. képviseleti kereset: a fogyasztók kollektív érdekeinek védelmére irányuló kereset, amelyet valamely feljogosított szervezet a fogyasztók nevében felperesként eljárva indít jogsértés megszüntetésére irányuló intézkedés, jogsérelem orvoslása vagy mindkettő meghozatala céljából,
 - 26. közszolgáltatás: törvény alapján termékértékesítési vagy szolgáltatásnyújtási kötelezettség hatálya alá tartozó vállalkozás által e kötelezettség alapján nyújtott víziközmű-szolgáltatás, távhőszolgáltatás, hulladékgazdálkodási közszolgáltatási résztevékenység, a nem közművel összegyűjtött háztartási szennyvíz rendszeres begyűjtésére, gyűjtésére, elszállítására és elhelyezésére irányuló szolgáltatás, elektronikus hírközlési szolgáltatás, egyetemes postai szolgáltatás, villamos energia egyetemes szolgáltatásra jogosult felhasználó részére villamosenergia-vásárlási szerződés vagy hálózathasználati szerződés alapján nyújtandó szolgáltatás, valamint földgáz egyetemes szolgáltatásra jogosult felhasználó részére földgáz-kereskedelmi szerződés vagy elosztóhálózat-használati szerződés alapján nyújtandó szolgáltatás,
+- 26a. külföldi vállalkozás: a külföldi székhelyű vállalkozás vagy annak magyarországi kereskedelmi képviselete;
 - 27. online adásvételi vagy online szolgáltatási szerződés: olyan adásvételi vagy szolgáltatási szerződés, amelynek értelmében a vállalkozás vagy annak közvetítője egy honlapon vagy egyéb elektronikus eszközön keresztül kínál megvételre valamilyen árut vagy kínál igénybevételre valamilyen szolgáltatást, és a fogyasztó az adott honlapon vagy egyéb elektronikus eszközön keresztül rendeli meg az árut vagy szolgáltatást,
 - 28. online felület: a fogyasztóvédelmi jogszabályok végrehajtásáért felelős nemzeti hatóságok közötti együttműködésről és a 2006/2004/EK rendelet hatályon kívül helyezéséről szóló, 2017. december 12-i (EU) 2017/2394 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2017/2394 rendelet] 3. cikk 15. pontjában meghatározott fogalom,
 - 28a. panasz: a fogyasztó vállalkozással szemben előterjesztett, a vállalkozásnak, vagy a vállalkozás érdekében vagy javára eljáró személynek az áru fogyasztók részére történő forgalmazásával, értékesítésével közvetlen kapcsolatban álló magatartására, tevékenységére vagy mulasztására vonatkozó, egyéni jog- vagy érdeksérelem megszüntetésére irányuló kifogása, a kellékszavatossági, termékszavatossági vagy jótállási igény kivételével,
@@ -1180,7 +1181,7 @@ a vissza nem vett terméket a fogyasztóvédelmi hatóság a zár alá vett dolg
 
 47/C. § (1) A bírság összege
 
-- a) az Szt. hatálya alá tartozó, 100 millió forintot meghaladó éves nettó árbevétellel rendelkező, a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló törvény hatálya alá nem tartozó vállalkozás esetében
+- a) az Szt. hatálya alá tartozó vagy külföldi, 100 millió forintot meghaladó éves nettó árbevétellel rendelkező, a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló törvény hatálya alá nem tartozó vállalkozás esetében
   - aa) 1 millió forinttól a vállalkozás éves nettó árbevételének 5%-áig, de legfeljebb 650 millió forintig,
   - ab) a fogyasztók széles körének testi épségét vagy egészségét sértő vagy veszélyeztető, vagy a fogyasztók széles körének jelentős vagyoni hátrányt okozó jogsértés esetén 2 millió forinttól 3 milliárd forintig,
 - b) az a) pont hatálya alá nem tartozó vállalkozás esetében
@@ -1212,6 +1213,8 @@ terjedhet.
 - c) a 6/K. § (4) bekezdése szerinti, a fogyasztóvédelmi hatóság felé fennálló tájékoztatási kötelezettség megsértése esetén, az érintett termékenként 1 000 000 forint
 
 bírságot szabhat ki.
+
+(1d) A külföldi vállalkozás esetén az éves nettó árbevétel a pénzügyi kimutatások készítésének alapját képező pénzügyi beszámolási keret által meghatározott vagy annak értelmében vett, szokásos tevékenység árbevétele vagy az ennek megfelelő bevétel.
 
 (2) A nettó árbevételt a jogsértést megállapító határozat meghozatalát megelőző üzleti évre vonatkozó éves beszámoló vagy az egyszerűsített éves beszámoló (a továbbiakban együtt: beszámoló) szerinti nettó árbevétel alapján kell meghatározni. Ha a vállalkozás működési ideje egy évnél rövidebb, az adatokat éves szintre kell vetíteni. Ha a vállalkozásnak a jogsértést megállapító határozat meghozatalát megelőző üzleti évben elért nettó árbevételéről nem áll rendelkezésre hitelesnek tekinthető információ, a bírság minimális és maximális összegének meghatározásakor az utolsó hitelesen lezárt üzleti év nettó árbevétele az irányadó. Beszámolóval még nem rendelkező, újonnan alapított vállalkozás esetében az eljárás megindításának évére vonatkozó üzleti tervet, ennek hiányában a vállalkozás által a hatóság felhívására közölt, az Szt.-nek a közbenső mérleg készítésére vonatkozó szabályai szerint az eljárás megindításának napjával mint fordulónappal kiszámított nettó árbevételt kell figyelembe venni.
 
@@ -1472,6 +1475,8 @@ vonatkozó részletes szabályokat rendelettel meghatározza.
 56/E. § A 38/B. § (7) bekezdése szerinti elévülési időre vonatkozó rendelkezést a 2023. június 25-én vagy azt követően bekövetkezett jogsértéseken alapuló jogsérelem orvoslására irányuló igényekre kell alkalmazni.
 
 56/F. § E törvénynek az egyes törvényeknek a készpénzhasználattal összefüggő módosításáról szóló2025. évi LXII. törvénnyel megállapított 9. §-át az automatából történő értékesítésre abban az esetben kell alkalmazni, ha az automata üzembe helyezésére 2025. június 30. napját követően került sor.
+
+56/G. § E törvénynek a fogyasztóvédelmi tárgyú törvényeknek a mikro-, kis- és középvállalkozások támogatását és jogharmonizációt célzó módosításáról szóló 2025. évi XCIV. törvénnyel megállapított 2. § 26a. pontját, 47/C. § (1) bekezdés a) pontját és 47/C. § (1d) bekezdését a 2026. február 1-jét követően megvalósult jogsértések esetén kell alkalmazni.
 
 ### Az Európai Unió jogának való megfelelés
 
