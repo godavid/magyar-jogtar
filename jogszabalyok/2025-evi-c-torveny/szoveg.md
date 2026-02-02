@@ -197,33 +197,15 @@ lép.
 
 #### 15. A pénzforgalmi szolgáltatás nyújtásáról 2009. évi LXXXV. törvény módosítása
 
-62. § A pénzforgalmi szolgáltatás nyújtásáról szóló 2009. évi LXXXV. törvény (a továbbiakban: Pft.) 14/A. §-a helyébe a következő rendelkezés lép
-
-„14/A. § A pénzforgalmi szolgáltatási keretszerződésben a pénzforgalmi szolgáltató nem köthet ki olyan szerződési feltételt, amely alapján a vele szerződő fogyasztó számára a Magyarországon elhelyezett automata bankjegykiadó gépből készpénz-helyettesítő fizetési eszköz útján történő készpénzfelvétel fizetési műveleti értékhatárának felső mértékét napi háromszázezer forintnál alacsonyabb összegben egyoldalúan meghatározza.”
+#### 62. §
 
 63. § (1)
 
 (2)
 
-64. § (1) A Pft. 36/A. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
+#### 64. §
 
-(A fogyasztó jogosult)
-
-„a) a fizetési számláról legalább az adott naptári hónapban első két alkalommal forintban teljesített, Magyarországon elhelyezett automata bankjegykiadó gépből készpénz-helyettesítő fizetési eszköz útján történő készpénzfelvétel együttes összegének háromszázezer forintot meg nem haladó részét a pénzforgalmi szolgáltatótól díjtól és költségtől mentesen igénybe venni, és”
-
-(2) A Pft. 36/A. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Ha a fizetési számláról adott naptári hónapban első két alkalommal forintban teljesített, Magyarországon elhelyezett automata bankjegykiadó gépből készpénz-helyettesítő fizetési eszköz útján történő készpénzfelvétel, illetve a cash-back szolgáltatás igénybevételével történő készpénzátvétel összege együttesen a háromszázezer forintot, illetve negyvenezer forintot meghaladja, a pénzforgalmi szolgáltató a készpénzfelvételnek a háromszázezer forintot, illetve a készpénzátvétel negyvenezer forintot meghaladó összege után számíthat fel díjat vagy költséget.”
-
-(3) A Pft. 36/A. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) Ha a pénzforgalmi szolgáltató az (1) bekezdés a) pontja szerinti fizetési műveletet egészben vagy részben a fogyasztó részére biztosított hitelkeret terhére teljesíti, a fogyasztó legalább az adott hónapban a fizetési számlára érkező munkavégzésre irányuló jogviszonyból származó jövedelem – különösen a személyi jövedelemadóról szóló törvény szerinti bér –, a szociális ellátás – különösen a szociális igazgatásról és szociális ellátásokról szóló törvény szerinti rendszeres pénzellátás és háztartási munka ellenértéke, a fogyatékossági támogatás, vakok személyi járadéka, anyasági támogatás – és ösztöndíj erejéig – de legfeljebb háromszázezer forintig – jogosult az (1) bekezdés a) pontja szerinti díjtól és költségtől mentes készpénzfelvételt igénybe venni.”
-
-65. § A Pft. 36/B. §-a helyébe a következő rendelkezés lép:
-
-„36/B. § (1) A Magyarországon elhelyezett automata bankjegykiadó gépből készpénz-helyettesítő fizetési eszköz útján fizetési számláról történő készpénzfelvétel fizetési műveleti értékhatárának felső mértéke – a (2) bekezdésben meghatározott eltéréssel – műveletenként háromszázezer forintnál alacsonyabb összeg nem lehet.
-
-(2) Az (1) bekezdésben foglaltak nem érintik azt a lehetőséget, hogy a készpénzfelvétel napi limitje a keretszerződés alapján háromszázezer forintnál alacsonyabb értékben legyen meghatározva, ha a fogyasztó jogosult a készpénzfelvételi limitet a készpénzfelvétel napjára vonatkozóan legalább háromszázezer forintra megemelni.”
+#### 65. §
 
 #### 66. §
 

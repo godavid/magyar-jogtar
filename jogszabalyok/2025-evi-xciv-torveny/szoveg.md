@@ -12,38 +12,19 @@ fogyasztóvédelmi tárgyú törvényeknek a mikro-, kis- és középvállalkoz�
 
 #### 1. A fogyasztóvédelemről szóló 1997. évi CLV. törvény módosítása
 
-1. § (1)
-
-(2) Az Fgytv. 2. §-a a következő 26a. ponttal egészül ki:
-
-(E törvény alkalmazásában:)
-
-„26a. külföldi vállalkozás: a külföldi székhelyű vállalkozás vagy annak magyarországi kereskedelmi képviselete;”
+#### 1. §
 
 #### 2. §
 
 #### 3. §
 
-4. § Az Fgytv. 47/C. §-a a következő (1d) bekezdéssel egészül ki:
-
-„(1d) A külföldi vállalkozás esetén az éves nettó árbevétel a pénzügyi kimutatások készítésének alapját képező pénzügyi beszámolási keret által meghatározott vagy annak értelmében vett, szokásos tevékenység árbevétele vagy az ennek megfelelő bevétel.”
+#### 4. §
 
 #### 5. §
 
-6. § Az Fgytv. a következő 56/G. §-sal egészül ki:
+#### 6. §
 
-„56/G. § E törvénynek a fogyasztóvédelmi tárgyú törvényeknek a mikro-, kis- és középvállalkozások támogatását és jogharmonizációt célzó módosításáról szóló 2025. évi XCIV. törvénnyel megállapított 2. § 26a. pontját, 47/C. § (1) bekezdés a) pontját és 47/C. § (1d) bekezdését a 2026. február 1-jét követően megvalósult jogsértések esetén kell alkalmazni.”
-
-7. § Az Fgytv.
-
-- 1.
-- 2.
-- 3.
-- 4. 47/C. § (1) bekezdés a) pontjában a „tartozó,” szövegrész helyébe a „tartozó vagy külföldi,” szöveg,
-- 5.
-- 6.
-
-lép.
+#### 7. §
 
 #### 8. §
 
