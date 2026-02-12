@@ -26,7 +26,15 @@ az elektronikus hírközlésről szóló 2003. évi C. törvény módosításár
 
 #### 10. §
 
-#### 11. §
+11. § Az Eht. „Az épületen belüli fizikai infrastruktúra kiépítése” alcíme helyébe a következő rendelkezés lép:
+
+### „Az épületen belüli optikai kábelezés és fizikai infrastruktúra kiépítése
+
+99/A. § (1) A Kormány rendeletében meghatározhatja azokat a különleges funkciót betöltő épülettípusokat, valamint azokat az épületkategóriákat, amelyek esetében a megfelelés aránytalan terhet jelent és amelyekre ezért az (EU) 2024/1309 európai parlamenti és tanácsi rendelet 10. cikk (1)–(3) bekezdésében foglalt rendelkezéseket vagy azoknak a kormányrendeletben meghatározott részeit nem kell alkalmazni.
+
+(2) A Kormány rendeletében az (EU) 2024/1309 európai parlamenti és tanácsi rendelet 10. cikk (4) bekezdése alapján a közszférabeli szervezetek tervezett építési munkáira vonatkozóan az épületen belüli optikai hálózat fogadása, az infrastruktúra kiszolgálására szolgáló külön helyiségek kialakítása, valamint az építtető vagy a hálózatüzemeltető számára egyes végponti hálózati infrastrukturális elemek beszerzése-beépítése tekintetében további műszaki szabályokat és egyéb követelményeket határozhat meg, valamint meghatározhatja azokat a különleges funkciót betöltő épülettípusokat, valamint azokat az épületkategóriákat, amelyek esetén ezeket a szabályokat alkalmazni kell.
+
+(3) Az (EU) 2024/1309 európai parlamenti és tanácsi rendelet 10. cikk (5) bekezdése szerinti előírások ellenőrzése nem tartozik a Hatóság építésfelügyeleti ellenőrzési hatáskörébe.”
 
 #### 12. §
 
@@ -36,7 +44,14 @@ az elektronikus hírközlésről szóló 2003. évi C. törvény módosításár
 
 (2)
 
-(3)
+(3) Az Eht. 182. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Felhatalmazást kap a Kormány arra, hogy
+
+- a) a 93/A. § (2) bekezdése szerint benyújtandó adatok pontos tartalmát, az adatszolgáltatás teljesítésével kapcsolatos részletes követelményeket,
+- b) a 99/A. § (1) és (2) bekezdése szerinti épülettípusokra, épületkategóriákra, műszaki előírásokra vonatkozó szabályokat
+
+rendeletben állapítsa meg.”
 
 (4)
 
@@ -60,10 +75,10 @@ az elektronikus hírközlésről szóló 2003. évi C. törvény módosításár
 - 10.
 - 11.
 - 12.
-- 13.
+- 13. 181/E. §-a,
 - 14.
 - 15.
-- 16.
+- 16. 188. § 94. pontja.
 
 19. § (1) Ez a törvény – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő 16. napon lép hatályba.
 

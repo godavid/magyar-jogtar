@@ -2124,17 +2124,13 @@ közérdekű kötelezettsége
 
 (2) Az (1) bekezdésben foglalt kötelezettség teljesítésére az érintett elektronikus hírközlési szolgáltatónak vagy a kapcsolódó eszközök üzemeltetőjének írásban fel kell szólítania az ingatlan tulajdonosát. Ha az írásbeli felszólítástól számított 15 napon belül a tulajdonos nem intézkedik, a szolgáltató vagy a kapcsolódó eszközök üzemeltetője kérésére a Hatóság határozattal kötelezheti a tulajdonost a munkálatok elvégzésére.
 
-### Az épületen belüli fizikai infrastruktúra kiépítése
+### Az épületen belüli optikai kábelezés és fizikai infrastruktúra kiépítése
 
-99/A. § (1) Az új építésű épületeket, ideértve azok közös tulajdonban lévő elemeit is, nagy sebességű technológia fogadására kész, épületen belüli fizikai infrastruktúrával kell ellátni egészen azon hálózati végpontig, amelyen keresztül az előfizető vagy felhasználó egy elektronikus hírközlő végberendezés fizikai és logikai csatlakoztatása révén szolgáltatásokat vehet igénybe.
+99/A. § (1) A Kormány rendeletében meghatározhatja azokat a különleges funkciót betöltő épülettípusokat, valamint azokat az épületkategóriákat, amelyek esetében a megfelelés aránytalan terhet jelent és amelyekre ezért az (EU) 2024/1309 európai parlamenti és tanácsi rendelet 10. cikk (1)–(3) bekezdésében foglalt rendelkezéseket vagy azoknak a kormányrendeletben meghatározott részeit nem kell alkalmazni.
 
-(2) Az új építésű több önálló rendeltetési egységet tartalmazó épületekben épület-hozzáférési pontot kell kialakítani.
+(2) A Kormány rendeletében az (EU) 2024/1309 európai parlamenti és tanácsi rendelet 10. cikk (4) bekezdése alapján a közszférabeli szervezetek tervezett építési munkáira vonatkozóan az épületen belüli optikai hálózat fogadása, az infrastruktúra kiszolgálására szolgáló külön helyiségek kialakítása, valamint az építtető vagy a hálózatüzemeltető számára egyes végponti hálózati infrastrukturális elemek beszerzése-beépítése tekintetében további műszaki szabályokat és egyéb követelményeket határozhat meg, valamint meghatározhatja azokat a különleges funkciót betöltő épülettípusokat, valamint azokat az épületkategóriákat, amelyek esetén ezeket a szabályokat alkalmazni kell.
 
-(3) Az (1) és (2) bekezdésben foglaltakat kell alkalmazni a meglévő épületen végzett olyan építési munka esetén is, amely magában foglalja az épületen belüli teljes fizikai infrastruktúra vagy annak jelentős részének szerkezeti változtatásait.
-
-(4) A Kormány rendeletében meghatározhatja azokat a feltételeket, amelyek fennállása esetén az e §-ban foglalt rendelkezéseket vagy azok rendeletben meghatározott részét nem kell alkalmazni.
-
-(5) Az e § szerinti előírások ellenőrzése nem tartozik a Hatóság építésfelügyeleti ellenőrzési hatáskörébe.
+(3) Az (EU) 2024/1309 európai parlamenti és tanácsi rendelet 10. cikk (5) bekezdése szerinti előírások ellenőrzése nem tartozik a Hatóság építésfelügyeleti ellenőrzési hatáskörébe.
 
 ### Az épületen belüli fizikai infrastruktúrához való hozzáférés biztosítása
 
@@ -3621,10 +3617,7 @@ esetében.
 
 181/D. § E törvénynek a településfejlesztéssel, a településrendezéssel és az építésüggyel összefüggő egyes törvények módosításáról szóló 2012. évi CLVII. törvénnyel megállapított rendelkezéseit a folyamatban lévő eljárásokban is alkalmazni kell, azzal, hogy e rendelkezések hatálybalépése előtt elkövetett jogsértésekre a jogsértés elkövetésekor hatályos anyagi jogi rendelkezések alkalmazandók.
 
-181/E. § E törvénynek az elektronikus hírközlésről szóló 2003. évi C. törvény módosításáról szóló 2016. évi XLIII. törvénnyel megállapított 99/A. §-át azon új épületekre, valamint meglévő épületek felújítására, helyreállítására és korszerűsítésére kell alkalmazni, amelyek esetében
-
-- a) az engedélyhez kötött építményeknél az építési engedély iránti kérelmet 2016. december 31-ét követően terjesztették elő,
-- b) bejelentéshez kötött építményeknél a bejelentést először 2016. december 31-ét követően teszik meg.
+#### 181/E. §
 
 181/F. § E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel módosított rendelkezéseit a rendelkezések hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
 
@@ -3642,7 +3635,12 @@ esetében.
 - h) a mobil rádiótelefon szolgáltatást nyújtó elektronikus hírközlési szolgáltatók és a hivatásos katasztrófavédelmi szerv központi szerve közötti együttműködés rendjét;
 - i) az alapvető felhasználók elektronikus hírközlési szolgáltatással történő ellátásának sorrendjét összehangolt védelmi tevékenység idején vagy váratlan támadás esetén.
 
-(2) Felhatalmazást kap a Kormány arra, hogy a 93/A. § (2) bekezdése szerint benyújtandó adatok pontos tartalmát, az adatszolgáltatás teljesítésével kapcsolatos részletes követelményeket rendeletben állapítsa meg.
+(2) Felhatalmazást kap a Kormány arra, hogy
+
+- a) a 93/A. § (2) bekezdése szerint benyújtandó adatok pontos tartalmát, az adatszolgáltatás teljesítésével kapcsolatos részletes követelményeket,
+- b) a 99/A. § (1) és (2) bekezdése szerinti épülettípusokra, épületkategóriákra, műszaki előírásokra vonatkozó szabályokat
+
+rendeletben állapítsa meg.
 
 (3) Felhatalmazást kap az Elnök arra, hogy rendelettel állapítsa meg:
 
@@ -3918,7 +3916,7 @@ való megfelelést szolgálja.
 - 91. Nagyfrekvenciás mellékhatás: olyan nagyfrekvenciás jel, amely különféle célú berendezésekben (többek között készülékekben, eszközökben, járművekben) szikrakisülés, gázkisülés vagy félvezetős szabályozás melléktermékeként keletkezik.
 - 92. Nagyfrekvenciás villamos berendezés: az elektromágneses energia kis térben való előállítására és hasznosítására szolgáló ipari, tudományos, orvosi, háztartási vagy hasonló célú, nem elektronikus hírközlő berendezés.
 - 93. Nagy sebességű elektronikus hírközlő hálózat: legalább 30 Mb/s adatátviteli sebességű, szélessávú hozzáférési szolgáltatások nyújtására képes elektronikus hírközlő hálózat.
-- 94. Nagy sebességű technológia fogadására kész, épületen belüli fizikai infrastruktúra: nagy sebességű elektronikus hírközlő hálózatok elemeinek fogadására szánt vagy ilyen hálózat működését lehetővé tevő, épületen belüli fizikai infrastruktúra.
+- 94.
 - 95. Nem azonosítható hívószám: az a hívószám, amely az előfizető számára kiállított tételes számlamellékletben személyes adatok védelme érdekében nem szerepel.
 - 96. Nemföldrajzi szám: a nemzeti számozási tervben meghatározott olyan szám, amely nem földrajzi szám, különösen a mobilszámok, a díjmentes és az emelt díjas szolgáltatás hívószámai, továbbá a gépek közötti szolgáltatás nyújtására használt átviteli szolgáltatások hívószámai.
 - 97. Nettó árbevétel: a szolgáltató számviteli törvény szerinti nettó árbevétele.
