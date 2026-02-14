@@ -634,7 +634,7 @@ köteles megőrizni, illetve tárolni.
 
 39. § (1) Ha a fizetési művelet jóváhagyása készpénz-helyettesítő fizetési eszközzel történik, a felek a keretszerződésben a készpénz-helyettesítő fizetési eszközhöz kapcsolódóan fizetési műveleti értékhatárt határozhatnak meg.
 
-(2) A pénzforgalmi szolgáltató a keretszerződésben fenntarthatja magának a jogot a készpénz-helyettesítő fizetési eszköz letiltására a készpénz-helyettesítő fizetési eszköz jogosulatlan vagy csalárd módon történő használatának gyanúja esetén, vagy a készpénz-helyettesítő fizetési eszköz biztonsága érdekében.
+(2) A pénzforgalmi szolgáltató a keretszerződésben fenntarthatja magának a jogot a készpénz-helyettesítő fizetési eszköz letiltására, továbbá a fizetési megbízás visszautasítására a készpénz-helyettesítő fizetési eszköz jogosulatlan vagy csalárd módon történő használatának gyanúja esetén, vagy a készpénz-helyettesítő fizetési eszköz biztonsága érdekében, illetve, ha a pénzforgalmi szolgáltató műveletkockázat-elemzése alapján csalás gyanúja merül fel. Nem felel a pénzforgalmi szolgáltató az abból eredő károkért, hogy a pénzforgalmi szolgáltató objektív módon igazolható csalásgyanú esetén utasítja vissza a fizetési megbízást vagy tiltja le a készpénz-helyettesítő fizetési eszközt.
 
 (3) Olyan készpénz-helyettesítő fizetési eszköz esetén, amelyhez hitelkeret kapcsolódik, a (2) bekezdésben meghatározott letiltás jogát a pénzforgalmi szolgáltató akkor is fenntarthatja, ha jelentős mértékben megnövekszik annak kockázata, hogy a fizető fél szolgáltató felé fennálló fizetési kötelezettségét nem képes teljesíteni.
 

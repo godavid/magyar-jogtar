@@ -222,6 +222,12 @@ Az Országgyűlés a gazdasági növekedéshez szükséges hosszú lejáratú k�
 - m) a jelzáloglevél kibocsátásának helyét és idejét;
 - n) a vagyonellenőr igazolását az előírás szerinti fedezet meglétéről és annak fedezet-nyilvántartásba történt bejegyzéséről.
 
+(3a) Dematerializált jelzáloglevél esetén a (3) bekezdés rendelkezéseit az alábbi eltérésekkel kell alkalmazni:
+
+- a) a dematerializált jelzáloglevél a (3) bekezdés b) pontjától eltérően nem tartalmazza a kibocsátó és a vagyonellenőr aláírását,
+- b) a (3) bekezdés d) pontja szerinti információt az értékpapír-számlavezető által a tulajdonos javára vezetett értékpapírszámla tartalmazza,
+- c) a dematerializált jelzáloglevélnek a (3) bekezdés e) pontjától eltérően nincs sorszáma.
+
 (4) Amennyiben a jelzáloglevél előállítására a Gazdasági Együttműködési és Fejlesztési Szervezet (a továbbiakban: OECD) más tagállamában kerül sor, a (3) bekezdés d) pontjában, a 12. § (2) bekezdésében és a tőkepiacról szóló 2001. évi CXX. törvény (a továbbiakban: Tpt.) 6. §-ának (3) bekezdésében foglaltakat nem kell alkalmazni. Ebben az esetben a jelzáloglevél névre szólónak minősül, ha a nyilvántartására szolgáló számla tulajdonosa egyértelműen beazonosítható. Az ekként előállított jelzáloglevél nem veszíti el jelzáloglevél-minőségét abban az esetben sem, ha az értékpapír letéti őrzési, vagy értékpapír letétkezelési tevékenység végzésére jogosult szervezetnél letétbe helyezett, összevont címletű jelzáloglevelet az alapcímletnek megfelelő egyedi értékpapírrá alakítják. Az előállítás módjára az előállítás helyének joga az irányadó.
 
 12. § (1) Egy sorozatban csak azonos jogokat megtestesítő, azonos névértékű jelzáloglevelek bocsáthatók ki. Az azonos sorozathoz tartozó jelzálogleveleket – a dematerializált formában kibocsátott jelzáloglevelek kivételével – folyamatos sorszámozással kell ellátni, és azonos formátumban kell kibocsátani. Az azonos sorozatban kibocsátott jelzáloglevelek összevont címletként is kibocsáthatók.
