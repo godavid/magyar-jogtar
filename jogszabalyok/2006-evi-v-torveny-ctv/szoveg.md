@@ -397,7 +397,7 @@ megismerhetők.
 
 - a) a cégbíróság cégre vonatkozó egyéb végzéseinek a rendelkező részét;
 - b) más bíróság cégre vonatkozó határozatának a rendelkező részét;
-- c) azokat a közleményeket, amelyeknek közzétételére törvény közvetlenül a céget kötelezi.
+- c) azokat a közleményeket, amelyeknek közzétételére törvény közvetlenül a céget, illetve a jogi személyt kötelezi.
 
 (5) A (4) bekezdés a)–b) pontja értelmében a Cégközlönyben közzétételre kerül:
 
