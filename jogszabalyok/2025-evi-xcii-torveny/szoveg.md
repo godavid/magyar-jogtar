@@ -30,9 +30,16 @@ a magánjogi tárgyú törvények módosításáról
 
 #### 4. §
 
-#### 3.
+#### 3. A bírósági végrehajtásról szóló 1994. évi LIII. törvény módosítása
 
-#### 5. §
+5. § A bírósági végrehajtásról szóló 1994. évi LIII. törvény 304/E. §-a a következő (3a) és (3b) bekezdéssel egészül ki:
+
+„(3a) A (3) bekezdés szerinti követelésekkel összefüggő, az állami adó- és vámhatóságnak át nem adott és meg nem szüntetett végrehajtási ügyekben a törvényszék kezdeményezi
+
+- a) az egyszerűsített felülvizsgálati eljárás lefolytatását a büntetőügyben eljárt bíróságnál, ha a kötelezett a büntetőeljárásban az alapügyben hozott határozat jogerőre emelkedése vagy véglegessé válása előtt meghalt vagy megszűnt,
+- b) a vagyonelvonásra irányuló eljárás lefolytatását az ügyészségnél, ha a kötelezett a büntetőeljárásban az alapügyben hozott határozat jogerőre emelkedése vagy véglegessé válása után, a végrehajtás befejezése előtt meghalt vagy megszűnt.
+
+(3b) Ha a (3a) bekezdés szerinti eljárásokban a követelés új kötelezettjének személye a büntetőeljárásban hozott végleges határozattal megállapításra kerül, az illetékes törvényszék e határozatra hivatkozással átadja az ügyet az állami adó- és vámhatóság részére, hogy az új kötelezettel szemben foganatosítsa a szükséges végrehajtási cselekményeket és intézkedéseket az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló 2017. évi CLIII. törvény rendelkezései alapján. Ha a (3a) bekezdés szerinti eljárásokban a követelés új kötelezettje nem állapítható meg, az illetékes törvényszék a végrehajtás megszüntetéséről végzéssel rendelkezik.”
 
 #### 4. A találmányok szabadalmi oltalmáról szóló 1995. évi XXXIII. törvény módosítása
 
@@ -100,17 +107,55 @@ a magánjogi tárgyú törvények módosításáról
 
 #### 11. A bíróságok szervezetéről és igazgatásáról szóló 2011. évi CLXI. törvény módosítása
 
-#### 31. §
+31. § A bíróságok szervezetéről és igazgatásáról szóló 2011. évi CLXI. törvény 76. §-a a következő (12a) bekezdéssel egészül ki:
 
-#### 32. §
+„(12a) Az OBH elnöke a (8) bekezdés d) pontja szerinti feladatkörében az OBH kezelésében található összes anonimizált bírósági határozatot, ideértve azok teljes strukturált szövegét és az azokhoz kapcsolódó valamennyi metainformációt, az igazságügyért felelős miniszter részére folyamatosan, elektronikus úton, közvetlen rendszerkapcsolat biztosításával rendelkezésre bocsátja.”
+
+32. § A bíróságok szervezetéről és igazgatásáról szóló 2011. évi CLXI. törvény 163. §-a a következő (2a) bekezdéssel egészül ki:
+
+„(2a) Ha a (2) bekezdés b) és c) pontjában meghatározott esetben a határozatot a Kúria hozta, a Bírósági Határozatok Gyűjteményében közzé kell tenni a határozat számát és a jogértelmezést tartalmazó elvi tartalmat.”
 
 #### 33. §
 
 #### 34. §
 
-#### 35. §
+35. § A bíróságok szervezetéről és igazgatásáról szóló 2011. évi CLXI. törvény
 
-#### 36. §
+- a) 10. § (2) bekezdésében a „jogegységi panasz tanács” szövegrész helyébe a „jogegységi tanács” szöveg,
+- b) 41/C. § (1) bekezdésében a „jogegységi panasz tanács” szövegrész helyébe a „jogegységi tanács” szöveg,
+- c) 41/C. § (5) bekezdésében a „jogegységi panasz tanács” szövegrész helyébe a „jogegységi tanács” szöveg,
+- d) 41/C. § (6) bekezdés nyitó szövegrészében a „jogegységi panasz tanács” szövegrész helyébe a „jogegységi tanács” szöveg,
+- e) 41/C. § (7) bekezdésében a „jogegységi panasz tanács” szövegrész helyébe a „jogegységi tanács” szöveg,
+- f) 41/C. § (8) bekezdésében a „jogegységi panasz tanács” szövegrész helyébe a „jogegységi tanács” szöveg,
+- g) 41/C. § (9) bekezdés nyitó szövegrészében a „jogegységi panasz tanács” szövegrész helyébe a „jogegységi tanács” szöveg,
+- h) 41/C. § (10) bekezdés nyitó szövegrészében a „jogegységi panasz tanács” szövegrész helyébe a „jogegységi tanács” szöveg,
+- i) 41/D. § (1) bekezdés nyitó szövegrészében a „jogegységi panasz tanács” szövegrész helyébe a „jogegységi tanács” szöveg,
+- j) 41/D. § (2) bekezdésében a „jogegységi panasz tanács” szövegrész helyébe a „jogegységi tanács” szöveg,
+- k) 41/D. § (3) bekezdésében a „jogegységi panasz tanács” szövegrész helyébe a „jogegységi tanács” szöveg,
+- l) 41/D. § (4) bekezdésében a „jogegységi panasz tanács” szövegrész helyébe a „jogegységi tanács” szöveg
+
+lép.
+
+36. § A bíróságok szervezetéről és igazgatásáról szóló 2011. évi CLXI. törvény
+
+- a) 24. § (2) bekezdésében a „jogegységi panasz tanács” szövegrész helyébe a „jogegységi tanács” szöveg,
+- b) 34. §-ában a „jogegységi panasz tanács” szövegrész helyébe a „jogegységi tanács” szöveg,
+- c) 35. §-ában a „jogegységi panasz tanács” szövegrészek helyébe a „jogegységi tanács” szöveg,
+- d) 37. § (1) bekezdésében a „jogegységi panasz tanács” szövegrészek helyébe a „jogegységi tanács” szöveg,
+- e) 37. § (2) bekezdésében a „jogegységi panasz tanács” szövegrészek helyébe a „jogegységi tanács” szöveg,
+- f) 37. § (3) bekezdésében a „jogegységi panasz tanács” szövegrész helyébe a „jogegységi tanács” szöveg,
+- g) 37. § (4) bekezdésében a „jogegységi panasz tanács” szövegrész helyébe a „jogegységi tanács” szöveg,
+- h) 38. § (2) bekezdésében a „jogegységi panasz tanács” szövegrész helyébe a „jogegységi tanács” szöveg,
+- i) 41/A. § (1) bekezdésében a „jogegységi panasz tanács” szövegrészek helyébe a „jogegységi tanács” szöveg és a „jogegységi panasz tanácsot” szövegrész helyébe a „jogegységi tanácsot” szöveg,
+- j) 41/A. § (2) bekezdés nyitó szövegrészében a „jogegységi panasz tanács” szövegrész helyébe a „jogegységi tanács” szöveg,
+- k) 41/A. § (3) bekezdésében a „jogegységi panasz tanács” szövegrészek helyébe a „jogegységi tanács” szöveg,
+- l) 41/A. § (4) bekezdésében a „jogegységi panasz tanács” szövegrész helyébe a „jogegységi tanács” szöveg,
+- m) 42. § (3) bekezdésében a „jogegységi panasz tanács” szövegrész helyébe a „jogegységi tanács” szöveg,
+- n) 42. § (4) bekezdésében a „jogegységi panasz tanács” szövegrész helyébe a „jogegységi tanács” szöveg,
+- o) 44. §-ában a „jogegységi panasz tanács” szövegrész helyébe a „jogegységi tanács” szöveg,
+- p) 141. § (3) bekezdésében a „nélkül lehetőleg” szövegrész helyébe a „nélkül, lehetőleg” szöveg
+
+lép.
 
 #### 12. A bírák jogállásáról és javadalmazásáról szóló 2011. évi CLXII. törvény módosítása
 
@@ -118,47 +163,122 @@ a magánjogi tárgyú törvények módosításáról
 
 #### 38. §
 
-#### 39. §
+39. § A bírák jogállásáról és javadalmazásáról szóló 2011. évi CLXII. törvény 232/Y. § (2) bekezdésében a „2025. január 1-jét megelőzően igazságügyi szervnél szolgálati jogviszonyt létesített bírósági titkár, továbbá olyan bírósági titkár, aki 2025. január 1-jét megelőzően igazságügyi szervnél bírósági fogalmazói” szövegrész helyébe az „olyan bírósági titkár, aki a fennálló igazságügyi alkalmazotti jogviszonyát igazságügyi szervnél 2025. január 1-jét megelőzően létesítette, továbbá olyan bírósági titkár, aki 2025. január 1-jét megelőzően igazságügyi szervnél bírósági fogalmazóként igazságügyi alkalmazotti” szöveg lép.
 
 #### 40. §
 
 #### 13. A legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény módosítása
 
-#### 41. §
+41. § A legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény 18. § (2) bekezdése helyébe a következő rendelkezés lép:
 
-#### 42. §
+„(2) Magasabb vezető állású ügyész:
 
-#### 43. §
+- a) a legfőbb ügyész helyettes;
+- b) a főtitkár;
+- c) a főtitkár-helyettes;
+- d) a legfőbb ügyészségi főosztályvezető ügyész;
+- e) a legfőbb ügyészségi főosztályvezető-helyettes ügyész;
+- f) a legfőbb ügyészségi osztályvezető ügyész;
+- g) a fellebbviteli főügyész;
+- h) a fellebbviteli főügyészhelyettes;
+- i) a főügyész;
+- j) a főügyészhelyettes.”
 
-#### 44. §
+42. § A legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény 21. §-a helyébe a következő rendelkezés lép:
 
-#### 45. §
+„21. § (1) A vezetői tisztséget betöltő ügyész távolléte, kirendelése vagy más vezetői munkakörbe történő megbízása esetén, továbbá, ha a vezetői munkakör betöltetlen, a legfőbb ügyész a vezetői feladatok ellátására – pályázat nélkül – megbízást adhat.
 
-#### 46. §
+(2) Ha a megbízás tartama meghaladja az egy évet, a megbízáshoz az ügyész hozzájárulása szükséges.
 
-#### 47. §
+(3) Az (1) bekezdésben említett vezetői megbízás bármikor, indokolás nélkül visszavonható. A megbízás lejártával a megbízott vezetőt – a felek eltérő megállapodása hiányában – eredeti munkakörében kell továbbfoglalkoztatni.”
 
-#### 48. §
+43. § A legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény 9. alcím címe helyébe a következő alcím cím lép:
 
-#### 49. §
+#### „9. A vezetői kinevezés visszavonása, megszűnése”
 
-#### 50. §
+44. § A legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény 9. alcíme a következő 25/A. §-sal egészül ki:
 
-#### 51. §
+„25/A. § (1) A főtitkár és a főtitkár-helyettes vezetői kinevezése az őt kinevező legfőbb ügyész megbízatási idejére szól. Ha a legfőbb ügyész megbízatása a megbízatási időtartam letelte előtt szűnik meg, a főtitkárnak és a főtitkár-helyettesnek a vezetői megbízatása is megszűnik. A legfőbb ügyész újraválasztása esetén a főtitkár és a főtitkár-helyettes vezetői kinevezése az őt kinevező legfőbb ügyész megbízatási idejére meghosszabbodik.
 
-#### 52. §
+(2) A legfőbb ügyész a megválasztott legfőbb ügyésszel egyeztetve a megbízatási ideje lejártát legalább 20, de legfeljebb 30 nappal megelőzően kiírja a főtitkári és főtitkár-helyettesi tisztségre vonatkozó pályázatot. A megválasztott legfőbb ügyész a pályázatokat hivatalba lépését követően haladéktalanul elbírálja. Ha a legfőbb ügyész megbízatása a megbízatási időtartam letelte előtt szűnik meg, a pályázatot a megválasztott legfőbb ügyész hivatalba lépését követően haladéktalanul kiírja. A legfőbb ügyész újraválasztása esetén pályázat kiírására nem kerül sor.
+
+(3) A főtitkár és a főtitkár-helyettes vezetői kinevezésének visszavonása, megszűnése vagy vezetői tisztségéről való lemondása esetében a 25. § rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy a volt főtitkárt áthelyezése esetén – amennyiben legalább egy évig a főtitkári tisztséget betöltötte – legalább főosztályvezető-helyettes ügyészi illetmény, a volt főtitkár-helyettest áthelyezése esetén – amennyiben legalább egy évig a főtitkár-helyettesi tisztséget betöltötte – legalább legfőbb ügyészségi osztályvezető ügyészi illetmény illeti meg.”
+
+45. § A legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény 59. §-a a következő (5a) bekezdéssel egészül ki:
+
+„(5a) A főtitkár a Kúria főtitkárával, a főtitkár-helyettes a Kúria főtitkár-helyettesével azonos havi illetményre és más javadalmazásra jogosult.”
+
+46. § A legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény 68. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A munkáltatói jogkör gyakorlója a legfőbb ügyészségi ügyész kivételével az ügyész részére idegennyelv-ismereti pótlékot állapíthat meg, ha munkakörében az idegen nyelvet a munkáltatói jogkör gyakorlójának rendelkezése szerint használja, és az adott nyelvből állami nyelvvizsga tételét igazoló bizonyítvánnyal vagy azzal egyenértékű igazolással rendelkezik.”
+
+47. § A legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény 71. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Az ügyész cafetéria-juttatásként a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 71. § (1)–(1b) bekezdésében felsorolt juttatásokra jogosult, legfeljebb az ott meghatározott mértékig. A legfőbb ügyész utasításban további választható juttatásokat is meghatározhat, illetve az egyes juttatások választható mértékét magasabban is meghatározhatja.”
+
+48. § (1) A legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény 76. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Az ügyészt megillető javadalmazás és egyéb pénzbeli juttatás kifizetése – az utalvány és a valuta formájában nyújtott juttatások kivételével – az általa meghatározott fizetési számlára történő átutalással vagy pénzforgalmi számláról történő készpénzkifizetés kézbesítése útján történik.”
+
+(2) A legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény 76. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) A munkáltató viseli az illetmény fizetési számlára történő átutalásának vagy a pénzforgalmi számláról történő készpénzkifizetés kézbesítésének a költségét.”
+
+49. § A legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény 86. §-a a következő (5) bekezdéssel egészül ki:
+
+„(5) Az ügyésszel szemben elrendelt fegyelmi eljárások egyesíthetők, az ügyésszel szemben elrendelt fegyelmi eljárás elkülöníthető. Az egyesítéssel és az elkülönítéssel szemben jogorvoslatnak nincs helye.”
+
+50. § A legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény 136. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) A vezetőt a munkáltatói jogkör gyakorlója – a (4) bekezdésben foglaltak kivételével – a 6. mellékletben foglalt Illetménytábla csoportvezető vagy osztályvezető besorolási kategóriába sorolja be.”
+
+51. § A legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény 154. § (3) és (4) bekezdése helyébe a következő rendelkezések lépnek:
+
+„(3) A jubileumi jutalomra jogosító idők számítása során az ügyészségi szolgálati viszonyban töltött idő számításánál – az (1) bekezdésben foglaltakon kívül – az Alkotmánybíróságnál és a bíróságnál szolgálati viszonyban, kormányzati szolgálati jogviszonyban, állami szolgálati jogviszonyban, közszolgálati jogviszonyban, egészségügyi szolgálati jogviszonyban, költségvetési intézménynél köznevelési foglalkoztatotti jogviszonyban, közalkalmazotti jogviszonyban, adó- és vámhatósági szolgálati jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, hivatásos vagy szerződéses katonai szolgálati viszonyban, tényleges szolgálatot teljesítő önkéntes tartalékos szolgálati viszonyban, honvédelmi alkalmazotti jogviszonyban, nemzetbiztonsági alkalmazotti jogviszonyban, nemzetbiztonsági szolgálati jogviszonyban töltött időt is figyelembe kell venni, valamint ügyészségi szolgálati viszonyban töltött időnek tekintendő az ügyvédi tevékenység és a közjegyzői szolgálat tartama, ide nem értve a jogviszony szünetelését.
+
+(4) A fizikai alkalmazott alapszabadságának megállapításakor az ügyészségi szolgálati viszonyban töltött idő számításánál – az (1) bekezdésben foglaltakon kívül – az Alkotmánybíróságnál és a bíróságnál szolgálati viszonyban, kormányzati szolgálati jogviszonyban, állami szolgálati jogviszonyban, közszolgálati jogviszonyban, egészségügyi szolgálati jogviszonyban, költségvetési intézménynél köznevelési foglalkoztatotti jogviszonyban, közalkalmazotti jogviszonyban, adó- és vámhatósági szolgálati jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban, nemzetbiztonsági alkalmazotti jogviszonyban, nemzetbiztonsági szolgálati jogviszonyban, továbbá más foglalkoztatási jogviszonyban (szolgálati viszonyban, munkaviszonyban), valamint 1992. január 20-át követően szövetkezetnél munkaviszony jellegű jogviszonyban töltött időt is figyelembe kell venni.”
+
+52. § A legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény 165. §-a helyébe a következő rendelkezés lép:
+
+„165. § A 154. § (3) bekezdésének a magánjogi tárgyú törvények módosításáról szóló 2025. évi XCII. törvénnyel elfogadott módosításának hatálybalépésekor ügyészségi szolgálati viszonyban lévő ügyészségi alkalmazott esetében a jubileumi jutalomra jogosító idők számítása során – a 154. § (5) bekezdésére is figyelemmel – az ügyészségi szolgálati viszonyban töltött idő számításánál – a 154. § (1) bekezdésében foglaltakon kívül – az Alkotmánybíróságnál és a bíróságnál szolgálati viszonyban, kormányzati szolgálati jogviszonyban, állami szolgálati jogviszonyban, közszolgálati jogviszonyban, egészségügyi szolgálati jogviszonyban, költségvetési intézménynél köznevelési foglalkoztatotti jogviszonyban, közalkalmazotti jogviszonyban, adó- és vámhatósági szolgálati jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban, nemzetbiztonsági alkalmazotti jogviszonyban, nemzetbiztonsági szolgálati jogviszonyban, továbbá más foglalkoztatási jogviszonyban (szolgálati viszonyban, munkaviszonyban), 1992. január 20-át követően szövetkezetnél munkaviszony jellegű jogviszonyban töltött időt is figyelembe kell venni, valamint ügyészségi szolgálati viszonyban töltött időnek tekintendő az ügyvédi tevékenység és a közjegyzői szolgálat tartama, ide nem értve a jogviszony szünetelését.”
 
 #### 53. §
 
-#### 54. §
+54. § (1) A legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény 6. melléklete a 2. melléklet szerint módosul.
 
-#### 55. §
+(2) A legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény 6/A. melléklete a 3. melléklet szerint módosul.
 
-#### 56. §
+55. § A legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény
 
-#### 57. §
+- a) 34. § h) pontjában a „jogerős” szövegrész helyébe a „jogerős vagy azonnal végrehajtható” szöveg,
+- b) 58. § (2) bekezdésében az „elnökhelyettesével,” szövegrész helyébe az „elnökhelyettesével, a főtitkár a Kúria főtitkárával, a főtitkár-helyettes a Kúria főtitkár-helyettesével,” szöveg,
+- c) 65. § (1) bekezdésében a „tisztséget betöltő” szövegrész helyébe a „tisztséget kinevezéssel vagy megbízással betöltő” szöveg,
+- d) 71. § (3) bekezdésében a „január 15-ig” szövegrész helyébe a „január 31-ig” szöveg,
+- e) 95. § (1) bekezdésében a „megszünteti” szövegrész helyébe a „megszünteti vagy az ügyészt a 25. § (3) bekezdése szerinti esetben a legfőbb ügyész felmenti” szöveg,
+- f) 96. § (3) bekezdésében a „minden” szövegrész helyébe az „a személyi” szöveg
 
-#### 58. §
+lép.
+
+56. § A legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény
+
+- a) 130. § (1) bekezdés h) pontjában a „jogerős” szövegrész helyébe a „jogerős vagy azonnal végrehajtható” szöveg,
+- b) 135. § (2) bekezdésében és 136. § (2) bekezdésében az „A Legfőbb Ügyészségen” szövegrész helyébe az „A Legfőbb Ügyészségen és az OKRI-nál” szöveg,
+- c) 136. § (4) bekezdésében az „A Legfőbb Ügyészségen” szövegrészek helyébe az „A Legfőbb Ügyészségen és az OKRI-nál” szöveg,
+- d) 136. § (6) bekezdés a) és b) pontjában az „a Legfőbb Ügyészségen” szövegrész helyébe az „a Legfőbb Ügyészségen és az OKRI-nál” szöveg,
+- e) 153. § (2) bekezdés a) pontjában a „61. § (1), (3) bekezdése” szövegrész helyébe a „61. § (1)–(3) bekezdése” szöveg,
+- f) 159. § (1) bekezdésében a „III–XIII/A. Fejezete” szövegrész helyébe a „III–XIII. Fejezete” szöveg
+
+lép.
+
+57. § Hatályát veszti a legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény
+
+- a) 19. § (5) bekezdése,
+- b) 20. § (5) bekezdése,
+- c) 57. § (1) bekezdésében a „szokásos” szövegrész,
+- d) 73. § (1) bekezdés e), i) és k) pontja,
+- e) XIII/A. Fejezete.
+
+58. § Hatályát veszti a legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény 148. § b) pontja.
 
 #### 14. A Polgári Törvénykönyvről szóló 2013. évi V. törvény módosítása
 
@@ -204,7 +324,11 @@ lép.
 
 #### 17. A polgári perrendtartásról szóló 2016. évi CXXX. törvény módosítása
 
-#### 71. §
+71. § A polgári perrendtartásról szóló 2016. évi CXXX. törvény 31. § (2) bekezdés b) pontja helyébe a következő rendelkezés lép:
+
+[A kijelölés kérdésében – a hatásköri és illetékességi szabályok alkalmazásával, a (3) bekezdésben foglalt kivétellel –]
+
+„b) az a) pont alá nem tartozó esetekben az ítélőtábla határoz, ha az összeütközés a területén lévő járásbíróságok, törvényszékek között merült fel, továbbá, ha a területén lévő járásbíróság, törvényszék kizárása esetén, a területén lévő másik járásbíróság, törvényszék kijelölhető, valamint, ha a hatásköri összeütközés a területén lévő törvényszéken belül a törvényszék és a munkaügyi perben eljáró bíróság tekintetében merül fel,”
 
 #### 72. §
 
@@ -212,25 +336,49 @@ lép.
 
 #### 74. §
 
-#### 75. §
+75. § A polgári perrendtartásról szóló 2016. évi CXXX. törvény 174. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Ha a keresetlevél alapján megállapítható, hogy a per elbírálása valamely más bíróság hatáskörébe vagy illetékességébe tartozik, a bíróság elrendeli a keresetlevélnek ehhez a bírósághoz történő áttételét. Áttételnek van helye akkor is, ha a jogvita elbírálása közigazgatási perben, vagy egyéb közigazgatási bírósági eljárásban eljáró bíróság hatáskörébe tartozik, valamint akkor is, ha a keresetlevelet a törvényszékhez nyújtják be, de a jogvita elbírálása a munkaügyi perben eljáró bíróság hatáskörébe tartozik, illetve ha a keresetlevelet a munkaügyi perben eljáró bírósághoz nyújtják be, de a jogvita elbírálása a törvényszék hatáskörébe tartozik.”
 
 #### 76. §
 
 #### 77. §
 
-#### 78. §
+78. § A polgári perrendtartásról szóló 2016. évi CXXX. törvény 481. § (1) bekezdése helyébe a következő rendelkezés lép:
 
-#### 79. §
+„(1) Azt a személyt, aki a gyermek nála történő elhelyezését kéri, a perben külön bejelentés nélkül is a felperes melletti beavatkozó jogállása illeti meg. A bíróság azonban akkor is köteles őt személyesen meghallgatni, ha beavatkozóként a perben nem kíván részt venni.”
 
-#### 80. §
+79. § (1) A polgári perrendtartásról szóló 2016. évi CXXX. törvény 622. § címe helyébe a következő rendelkezés lép:
+
+#### „622. § [Az elektronikus hírközlő hálózat igénybevételének elrendelése]”
+
+(2) A polgári perrendtartásról szóló 2016. évi CXXX. törvény 622. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A bíróság indítványra vagy hivatalból végzéssel elrendelheti, hogy a tárgyaláson és a személyes meghallgatáson lefolytatásra kerülő eljárási cselekményen a fél és más perbeli személy, azok képviselője, a tanú, valamint a szakértő jelenléte elektronikus hírközlő hálózat útján kerüljön biztosításra, továbbá – ha az ellen a szemletárgy birtokosa nem tiltakozik – a szemle lefolytatására elektronikus hírközlő hálózat útján kerüljön sor (a továbbiakban együtt: elektronikus hírközlő hálózat útján történő meghallgatás), ha
+
+- a) az célszerűnek látszik, különösen, ha az az eljárás lefolytatását meggyorsítja,
+- b) a meghallgatás a tárgyalás, illetve a személyes meghallgatás kitűzött helyszínén jelentős nehézséggel vagy aránytalanul nagy költségtöbblettel járna, vagy
+- c) ezt a tanú személyes védelme indokolja.”
+
+80. § A polgári perrendtartásról szóló 2016. évi CXXX. törvény 623. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Az elektronikus hírközlő hálózat útján történő meghallgatás során a tárgyalás, a személyes meghallgatás vagy a szemle kitűzött helyszíne és az elektronikus hírközlő hálózat útján történő meghallgatás helyszíne között az összeköttetés közvetlenségét a mozgóképet és a hangot egyidejűleg továbbító eszköz biztosítja.”
 
 #### 81. §
 
 #### 82. §
 
-#### 83. §
+83. § A polgári perrendtartásról szóló 2016. évi CXXX. törvény
 
-#### 84. §
+- a) 387. §-ában a „feltünteti” szövegrész helyébe a „feltünteti, a meg nem jelent felek részére pedig három napon belül elrendeli a kézbesítését” szöveg,
+- b) 605. § (2) bekezdésében a „benyújtás” szövegrész helyébe a „benyújtása” szöveg
+
+lép.
+
+84. § Hatályát veszti a polgári perrendtartásról szóló 2016. évi CXXX. törvény
+
+- a) 20. § (2) bekezdésében a „mint munkaügyi bíróság” szövegrész,
+- b) 458. § (4) bekezdése.
 
 #### 18. A nemzetközi magánjogról szóló 2017. évi XXVIII. törvény módosítása
 
@@ -244,21 +392,35 @@ lép.
 
 #### 88. §
 
-#### 20.
+#### 20. A büntetőeljárásról szóló 2017. évi XC. törvény módosítása
 
-#### 89. §
+89. § A büntetőeljárásról szóló 2017. évi XC. törvény
 
-#### 21.
+- a) 636. § (3) bekezdésében a „jogegységi panasz tanács” szövegrész helyébe a „jogegységi tanács” szöveg,
+- b) 670. § (8) bekezdésében a „jogegységi panasz tanács” szövegrész helyébe a „jogegységi tanács” szöveg
 
-#### 90. §
+lép.
+
+#### 21. Az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló 2017. évi CLIII. törvény módosítása
+
+90. § Az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló 2017. évi CLIII. törvény 125/C. §-a a következő (9)–(11) bekezdéssel egészül ki:
+
+„(9) A 29. § (1) bekezdés 6., 10., 11., 16., 17. pontja szerinti követelések végrehajtására irányuló eljárásokban az állami adó- és vámhatóság kezdeményezi a vagyonelvonásra irányuló eljárás lefolytatását az ügyészségnél, ha a kötelezett a büntetőeljárásban az alapügyben hozott határozat jogerőre emelkedése vagy véglegessé válása után, a végrehajtás befejezése előtt meghalt vagy megszűnt. Az állami adó- és vámhatóság a vagyonelvonásra irányuló eljárást kezdeményező iratában tételesen felsorolja a végrehajtás alá vont, még nem értékesített vagyontárgyakat.
+
+(10) A vagyonelvonásra irányuló eljárás eredményéről a megkeresett törvényszék, illetve amennyiben a kezdeményezés alapján nem tartja indokoltnak az eljárás megindítását, az ügyészség értesíti a kezdeményező állami adó- és vámhatóságot.
+
+(11) Az állami adó- és vámhatóság a (9) bekezdés szerinti esetben az eredeti adóssal szemben folytatott végrehajtást megszünteti, ha
+
+- a) a vagyonelvonásra irányuló eljárásban hozott, új kötelezettet megállapító bírósági határozat végrehajtására a törvényszék megkereste, vagy
+- b) a vagyonelvonásra irányuló eljárás új kötelezettet megállapító bírósági határozat meghozatala nélkül fejeződik be.”
 
 #### 22.
 
 #### 91. §
 
-#### 23.
+#### 23. A polgári peres eljárás elhúzódásával kapcsolatos vagyoni elégtétel érvényesítéséről szóló 2021. évi XCIV. törvény módosítása
 
-#### 92. §
+92. § A polgári peres eljárás elhúzódásával kapcsolatos vagyoni elégtétel érvényesítéséről szóló 2021. évi XCIV. törvény 5. § (3) bekezdésében a „jogegységi panasz tanács” szövegrész helyébe a „jogegységi tanács” szöveg lép.
 
 #### 24. Az igazságügyi tárgyú törvények módosításáról szóló 2025. évi XLIX. törvény módosítása
 
@@ -302,4 +464,48 @@ alapján sarkalatosnak minősül.
 
 ### 2. melléklet a 2025. évi XCII. törvényhez
 
+- 1. A legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény 6. mellékletében foglalt táblázat 2. sora helyébe a következő rendelkezés lép:
+
+|  | [A) | B) | C) |
+| --- | --- | --- | --- |
+|  | besorolási kategória megnevezése | illetmény alsó határa | illetmény felső határa] |
+
+„
+
+| 2 | ügyészségi-tanácsos II. | a mindenkori garantált bérminimum | 650 000 Ft |
+| --- | --- | --- | --- |
+
+”
+
+- 2. A legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény 6. mellékletében foglalt táblázat 6. és 7. sora helyébe a következő rendelkezések lépnek:
+
+|  | [A) | B) | C) |
+| --- | --- | --- | --- |
+|  | besorolási kategória megnevezése | illetmény alsó határa | illetmény felső határa] |
+
+„
+
+| 6 | csoportvezető | 400 000 Ft | 1 450 000 Ft |
+| --- | --- | --- | --- |
+| 7 | osztályvezető | 550 000 Ft | 2 000 000 Ft |
+
+”
+
 ### 3. melléklet a 2025. évi XCII. törvényhez
+
+- 1. A legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény 6/A. melléklet címe helyébe a következő rendelkezés lép:
+
+„Illetménytábla a Legfőbb Ügyészségen és az OKRI-nál foglalkoztatott tisztviselők, írnokok, fizikai alkalmazottak és vezetők részére”
+
+- 2. A legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény 6/A. mellékletében foglalt táblázat 2. sora helyébe a következő rendelkezés lép:
+
+|  | [A) | B) | C) |
+| --- | --- | --- | --- |
+|  | besorolási kategória megnevezése | illetmény alsó határa | illetmény felső határa] |
+
+„
+
+| 2 | ügyészségi-tanácsos IV. | a mindenkori garantált bérminimum | 1 000 000 Ft |
+| --- | --- | --- | --- |
+
+”

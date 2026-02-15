@@ -1367,6 +1367,15 @@ az adóhatóság a végrehajtást a 124/A. § d) pontja szerint végzéssel megs
 
 (8) Ha a pénzösszegben kifejezett vagyonelkobzás, vagy a jogi személlyel szemben kiszabott pénzbírság alacsonyabb összegre vonatkozik, mint az ezek biztosítása érdekében elrendelt zár alá vétel, az állami adó- és vámhatóság a különbözetként fennmaradó vagyonra a felszámolás befejezése és az adós jogutód nélküli megszüntetése tárgyában hozott végzés jogerőre emelkedése után a cégbíróságnál vagyonrendezési eljárást kezdeményez.
 
+(9) A 29. § (1) bekezdés 6., 10., 11., 16., 17. pontja szerinti követelések végrehajtására irányuló eljárásokban az állami adó- és vámhatóság kezdeményezi a vagyonelvonásra irányuló eljárás lefolytatását az ügyészségnél, ha a kötelezett a büntetőeljárásban az alapügyben hozott határozat jogerőre emelkedése vagy véglegessé válása után, a végrehajtás befejezése előtt meghalt vagy megszűnt. Az állami adó- és vámhatóság a vagyonelvonásra irányuló eljárást kezdeményező iratában tételesen felsorolja a végrehajtás alá vont, még nem értékesített vagyontárgyakat.
+
+(10) A vagyonelvonásra irányuló eljárás eredményéről a megkeresett törvényszék, illetve amennyiben a kezdeményezés alapján nem tartja indokoltnak az eljárás megindítását, az ügyészség értesíti a kezdeményező állami adó- és vámhatóságot.
+
+(11) Az állami adó- és vámhatóság a (9) bekezdés szerinti esetben az eredeti adóssal szemben folytatott végrehajtást megszünteti, ha
+
+- a) a vagyonelvonásra irányuló eljárásban hozott, új kötelezettet megállapító bírósági határozat végrehajtására a törvényszék megkereste, vagy
+- b) a vagyonelvonásra irányuló eljárás új kötelezettet megállapító bírósági határozat meghozatala nélkül fejeződik be.
+
 125/D. § (1) Ha a másik tagállamban vagy külföldi államban a vagyonelkobzást ingatlanra rendelték el, és azt a magyar bíróság nem pénzösszegben kifejezett vagyonelkobzásként rendelte el, és a másik tagállammal vagy külföldi állammal kötött nemzetközi szerződés nem zárja ki a vagyonelkobzásból származó állami bevétel megosztását, a vagyonelkobzást a (2)–(8) bekezdés szerint kell végrehajtani.
 
 (2) Az állami adó- és vámhatóság a pénzkövetelés behajtására irányadó szabályok szerint intézkedik az ingatlan lefoglalása iránt, egyúttal megállapítja az ingatlan becsértékét. A végrehajtási jog bejegyzése iránti megkeresésben behajtandó követelésként a vagyonelkobzást, végrehajtást kérőként pedig az államot kell megjelölni, amelynek nevében az MNV Zrt. jár el.

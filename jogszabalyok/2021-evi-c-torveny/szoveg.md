@@ -782,7 +782,7 @@ per megindítása tényének bejegyzését az ingatlan-nyilvántartásba.
 
 (4) A nem ingatlan-nyilvántartási döntés felülvizsgálata iránt indult közigazgatási perben eljáró bíróság az ingatlan-nyilvántartásba bejegyzett jogot, tényt vagy adatot érintő perben – az iratoknak a bírósághoz érkezésétől számított tizenöt napon belül – hivatalból, előzetesen végrehajtható végzésével elrendeli az ingatlant érintő közigazgatási per megindítása tényének bejegyzését az ingatlan-nyilvántartásba.
 
-(5) A perbejegyzés alapjául szolgáló végzés ellen külön fellebbezésnek van helye.
+(5) A perbejegyzést elrendelő és a perbejegyzés iránti kérelmet elutasító végzés ellen fellebbezésnek van helye.
 
 (6) A perbejegyzés alapjául szolgáló végzés hatályon kívül helyezéséről vagy megváltoztatásáról és a perbejegyzés mellőzéséről szóló jogerős végzést a bíróság haladéktalanul, de legfeljebb nyolc napon belül megküldi az ingatlanügyi hatóságnak a bejegyzés törlése céljából.
 
@@ -807,9 +807,11 @@ per megindítása tényének bejegyzését az ingatlan-nyilvántartásba.
 
 (5) Az (1)–(4) bekezdés szerinti ingatlan-nyilvántartási eljárások felfüggesztésének tényét az ingatlanügyi hatóság bejegyzi a tulajdoni lapra.
 
-(6) A bíróság (1)–(4) bekezdés szerinti határozata ellen külön fellebbezésnek van helye. A fellebbezésről a másodfokon eljáró bíróság haladéktalanul, de legfeljebb nyolc napon belül dönt.
+(6) A bíróság eljárásfelfüggesztés tárgyában hozott határozata ellen külön fellebbezésnek van helye. A fellebbezésről a másodfokon eljáró bíróság haladéktalanul, de legfeljebb nyolc napon belül dönt.
 
-(7) A bíróság fellebbezhető végzésben a per vagy a büntetőeljárás jogerős befejezését megelőzően is rendelkezhet a felfüggesztett ingatlan-nyilvántartási eljárások folytatásának elrendeléséről, ha megítélése szerint a felfüggesztés fenntartása már nem indokolt. A felfüggesztés megszüntetését polgári és közigazgatási perben a felek, büntetőeljárásban a (2) bekezdésben meghatározott személyek kezdeményezhetik.
+(7) A bíróság a per vagy a büntetőeljárás jogerős befejezését megelőzően is rendelkezhet a felfüggesztett ingatlan-nyilvántartási eljárások folytatásának elrendeléséről, ha megítélése szerint a felfüggesztés fenntartása már nem indokolt. A felfüggesztés megszüntetését polgári és közigazgatási perben a felek, büntetőeljárásban a (2) bekezdésben meghatározott személyek kezdeményezhetik.
+
+(7a) A (7) bekezdés szerinti végzés ellen fellebbezésnek van helye.
 
 (8) A peres eljárás félbeszakadása esetén a felfüggesztett ingatlan-nyilvántartási eljárások felfüggesztését a bíróság megszünteti.
 

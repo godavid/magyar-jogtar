@@ -38,7 +38,7 @@ Az Országgyűlés a bírósági hatáskörök jogállami szintű, hatékony ell
 
 10. § (1) A törvényes bíróhoz való jog érvényesítése érdekében az ügyelosztási rendet úgy kell összeállítani, hogy abból előzetesen megállapítható legyen, hogy az adott ügyben mely tanács jár el, ideértve azt is, hogy a tanács, illetve a tanács tagjának akadályoztatása esetén ki jár el helyette. Az ügyelosztási rend tartalmazza, hogy az adott bíróságon milyen összetételű és számú tanácsok működnek, a bírák, a tanácsok – ideértve a kirendeléssel foglalkoztatott bírákat is – és a törvényben meghatározott ügyben az egyesbíró hatáskörében eljáró bírósági titkárok melyik ügycsoportba tartozó ügyeket intézik, akadályoztatásuk esetén ki jár el helyettük, az ügyek elosztására melyik bírósági vezető jogosult, továbbá, hogy az ügyek elosztása milyen módon történik. Ha a járásbíróság szervezeti egységeként törvénykezési hely működik, az ügyelosztási rend tartalmazza, hogy a járásbírósági székhely és a törvénykezési hely között az ügyek elosztása milyen módon történik. Az ügyelosztási rend a tárgyalási tevékenységet folytató bírósági vezetők által tárgyalt ügyek körét és az ezekre vonatkozó elosztási módot is magában foglalja.
 
-(2) A Kúria elnöke egy vagy több szakágat érintően, az érintett kollégium véleményét kikérve dönthet úgy, hogy a 24. § (1) bekezdésében megjelölt egyes eljárásokban kizárólag öttagú tanácsok járnak el. Ezt a Kúria ügyelosztási rendjében meg kell jelölni. A Kúria ügyelosztási rendjében meg kell jelölni azt is, hogy az önkormányzati tanács, a jogegységi panasz tanács tagjaként mely bírák járnak el.
+(2) A Kúria elnöke egy vagy több szakágat érintően, az érintett kollégium véleményét kikérve dönthet úgy, hogy a 24. § (1) bekezdésében megjelölt egyes eljárásokban kizárólag öttagú tanácsok járnak el. Ezt a Kúria ügyelosztási rendjében meg kell jelölni. A Kúria ügyelosztási rendjében meg kell jelölni azt is, hogy az önkormányzati tanács, a jogegységi tanács tagjaként mely bírák járnak el.
 
 (3) Az ügyelosztási rend kialakítása és felülvizsgálata során figyelemmel kell lenni különösen
 
@@ -166,7 +166,7 @@ Az Országgyűlés a bírósági hatáskörök jogállami szintű, hatékony ell
 - g) dönt a helyi önkormányzat törvényen alapuló jogalkotási kötelezettsége elmulasztásának megállapításáról, és
 - h) eljár a hatáskörébe tartozó egyéb ügyekben.
 
-(2) A Kúrián ítélkező, önkormányzati, valamint jogegységi panaszt elbíráló tanács (a továbbiakban: jogegységi panasz tanács), büntető, polgári, valamint közigazgatási kollégiumok, továbbá bírósági joggyakorlat-elemző csoportok működnek. A Kúrián szakági részkollégiumok létesíthetők.
+(2) A Kúrián ítélkező, önkormányzati, valamint jogegységi panaszt elbíráló tanács (a továbbiakban: jogegységi tanács), büntető, polgári, valamint közigazgatási kollégiumok, továbbá bírósági joggyakorlat-elemző csoportok működnek. A Kúrián szakági részkollégiumok létesíthetők.
 
 ## MÁSODIK RÉSZ — ELJÁRÁSOK AZ EGYSÉGES ÉS IDŐSZERŰ BÍRÓSÁGI JOGALKALMAZÁS ELŐSEGÍTÉSE ÉS AZ ÖNKORMÁNYZATI RENDELETALKOTÁS FELÜLVIZSGÁLATA ÉRDEKÉBEN
 
@@ -243,27 +243,27 @@ indítványozza.
 
 #### 11. Az előzetes döntéshozatali indítvány elbírálása során eljáró testület
 
-34. § Az előzetes döntéshozatali indítványt a jogegységi panasz tanács bírálja el.
+34. § Az előzetes döntéshozatali indítványt a jogegységi tanács bírálja el.
 
-35. § A jogegységi panasz tanács dönthet úgy, hogy az ügyet az érintett kollégium kúriai bíró tagjaival kiegészülve tárgyalja vagy a Kúria teljes ülése elé utalja. A kiegészített jogegységi panasz tanács, illetve a teljes ülés akkor határozatképes, ha ülésén tagjainak több mint a kétharmada jelen van; a jogegységi határozat meghozatalához a jelen lévő tagok kétharmadának szavazata szükséges.
+35. § A jogegységi tanács dönthet úgy, hogy az ügyet az érintett kollégium kúriai bíró tagjaival kiegészülve tárgyalja vagy a Kúria teljes ülése elé utalja. A kiegészített jogegységi tanács, illetve a teljes ülés akkor határozatképes, ha ülésén tagjainak több mint a kétharmada jelen van; a jogegységi határozat meghozatalához a jelen lévő tagok kétharmadának szavazata szükséges.
 
 #### 12. Az előzetes döntéshozatali indítvány elbírálása
 
 36. § A jogegységi eljárásban az előzetes döntéshozatali indítvány elbírálása során a jogegységi panasz elbírálásának szabályait a 37–41. §-ban írt eltérésekkel kell alkalmazni.
 
-37. § (1) Ha az előzetes döntéshozatalt a törvényszék vagy az ítélőtábla elnöke kezdeményezte, az arra vonatkozó indítványt a Kúria érintett kollégiumvezetője terjeszti a jogegységi panasz tanács elé. A kollégiumvezető indokolt indítványt tesz a kezdeményezés befogadására vagy visszautasítására. Ha a jogegységi panasz tanács az eljárás lefolytatását nem tartja szükségesnek, az indítványt végzéssel visszautasítja. Az indítvány befogadása esetén a jogegységi panasz tanács az eljárást a kollégiumvezető indítványára folytatja le.
+37. § (1) Ha az előzetes döntéshozatalt a törvényszék vagy az ítélőtábla elnöke kezdeményezte, az arra vonatkozó indítványt a Kúria érintett kollégiumvezetője terjeszti a jogegységi tanács elé. A kollégiumvezető indokolt indítványt tesz a kezdeményezés befogadására vagy visszautasítására. Ha a jogegységi tanács az eljárás lefolytatását nem tartja szükségesnek, az indítványt végzéssel visszautasítja. Az indítvány befogadása esetén a jogegységi tanács az eljárást a kollégiumvezető indítványára folytatja le.
 
-(2) Az indítványt – ha azt nem a legfőbb ügyész nyújtotta be, és a jogegységi panasz tanács vagy a tanács elnöke nem utasította vissza – a jogegységi panasz tanács elnöke az indítvánnyal érintett bírósági határozat kiadmányával együtt megküldi a legfőbb ügyésznek. A legfőbb ügyész az indítvány kézbesítésétől számított harminc napon belül megküldi nyilatkozatát a Kúriának.
+(2) Az indítványt – ha azt nem a legfőbb ügyész nyújtotta be, és a jogegységi tanács vagy a tanács elnöke nem utasította vissza – a jogegységi tanács elnöke az indítvánnyal érintett bírósági határozat kiadmányával együtt megküldi a legfőbb ügyésznek. A legfőbb ügyész az indítvány kézbesítésétől számított harminc napon belül megküldi nyilatkozatát a Kúriának.
 
-(3) A jogegységi panasz tanács elnöke a 32. § (1) bekezdés b) pontja alapján indult jogegységi eljárás esetén az annak alapjául szolgáló eljárásban részt vevő feleknek, illetve terhelteknek és védőknek az indítványt megküldi, akik arra az indítvány kézbesítésétől számított 15 napon belül nyilatkozatot tehetnek.
+(3) A jogegységi tanács elnöke a 32. § (1) bekezdés b) pontja alapján indult jogegységi eljárás esetén az annak alapjául szolgáló eljárásban részt vevő feleknek, illetve terhelteknek és védőknek az indítványt megküldi, akik arra az indítvány kézbesítésétől számított 15 napon belül nyilatkozatot tehetnek.
 
-(4) Az előzetes döntéshozatali indítvány alapján a jogegységi panasz tanács elnöke kitűzi az ülés határnapját, amelyről a tanács tagjait és a törvény alapján részvételre jogosultakat értesíti. A tanács ülésén meg kell hallgatni az indítványozót, a legfőbb ügyészt és eseti meghívottat. Az eseti meghívott személyére az indítványozó vagy a tanács tagja tehet javaslatot, a meghívásról a tanács elnöke dönt.
+(4) Az előzetes döntéshozatali indítvány alapján a jogegységi tanács elnöke kitűzi az ülés határnapját, amelyről a tanács tagjait és a törvény alapján részvételre jogosultakat értesíti. A tanács ülésén meg kell hallgatni az indítványozót, a legfőbb ügyészt és eseti meghívottat. Az eseti meghívott személyére az indítványozó vagy a tanács tagja tehet javaslatot, a meghívásról a tanács elnöke dönt.
 
 (5) A tanács ülésén akadályoztatása esetén a legfőbb ügyészt az általa kijelölt ügyész helyettesíti.
 
 38. § (1) Az indítványozó a jogegységi határozat meghozataláig az indítványt módosíthatja vagy visszavonhatja.
 
-(2) A felszólalások után a jogegységi panasz tanács elnöke az ülést berekeszti. Ezt követően a tanácskozáson a tanács tagjain kívül csak jegyzőkönyvvezető lehet jelen.
+(2) A felszólalások után a jogegységi tanács elnöke az ülést berekeszti. Ezt követően a tanácskozáson a tanács tagjain kívül csak jegyzőkönyvvezető lehet jelen.
 
 39. § (1) A tanács elnöke érdemi elbírálás nélkül végzéssel visszautasítja a nem jogosulttól származó indítványt.
 
@@ -277,18 +277,18 @@ indítványozza.
 
 #### 12/A. A jogegységi panasz elbírálása
 
-41/A. § (1) A jogegységi panaszt a jogegységi panasz tanács bírálja el. A jogegységi panasz tanácsot a Kúria elnöke vagy elnökhelyettese vezeti. A jogegységi panasz tanács tagjai az elnök és további 40 bíró: az elnökhelyettesek, a főtitkár, a kollégiumvezetők, a kollégiumvezető-helyettesek és a tanácselnökök. A Kúria kollégiumai az ügyelosztási rendben dönthetnek úgy, hogy a jogegységi panasz tanács két, az elnökön kívül 20-20 bíró tagból álló résztanácsban jár el. Ebben az esetben a jogegységi panasz tanács azonos ítélkező tanácsba tartozó tagjait a vezetéknevük ítélkező tanácson belüli ABC rendjében kell az I-es és a II-es résztanácsba beosztani, hogy azokban minden ítélkező tanács egyenlő arányban legyen képviselve. Az ügyeket automatikusan felváltva kell kiosztani, a páratlan számú ügyek az I., a páros számú ügyek a II. résztanácsba kerülnek. A jogegységi panasz tanács (résztanács) akkor határozatképes, ha tagjainak kétharmada jelen van. Az eljárás jegyzőkönyvének vezetéséről a főtitkár gondoskodik.
+41/A. § (1) A jogegységi panaszt a jogegységi tanács bírálja el. A jogegységi tanácsot a Kúria elnöke vagy elnökhelyettese vezeti. A jogegységi tanács tagjai az elnök és további 40 bíró: az elnökhelyettesek, a főtitkár, a kollégiumvezetők, a kollégiumvezető-helyettesek és a tanácselnökök. A Kúria kollégiumai az ügyelosztási rendben dönthetnek úgy, hogy a jogegységi tanács két, az elnökön kívül 20-20 bíró tagból álló résztanácsban jár el. Ebben az esetben a jogegységi tanács azonos ítélkező tanácsba tartozó tagjait a vezetéknevük ítélkező tanácson belüli ABC rendjében kell az I-es és a II-es résztanácsba beosztani, hogy azokban minden ítélkező tanács egyenlő arányban legyen képviselve. Az ügyeket automatikusan felváltva kell kiosztani, a páratlan számú ügyek az I., a páros számú ügyek a II. résztanácsba kerülnek. A jogegységi tanács (résztanács) akkor határozatképes, ha tagjainak kétharmada jelen van. Az eljárás jegyzőkönyvének vezetéséről a főtitkár gondoskodik.
 
-(2) A jogegységi panasz tanács
+(2) A jogegységi tanács
 
 - a) a jogegységi panasz érdemében határozattal,
 - b) a jogegységi panasz eljárás során felmerült minden más kérdésben végzéssel
 
 határoz.
 
-(3) A jogegységi panasz tanács a határozatát zárt tanácskozás után szavazással, tartózkodó szavazat nélkül, egyszerű szótöbbséggel hozza meg. A jogegységi panasz tanács tagja a többségi határozattól eltérő álláspontját a határozat indokolásához csatolhatja.
+(3) A jogegységi tanács a határozatát zárt tanácskozás után szavazással, tartózkodó szavazat nélkül, egyszerű szótöbbséggel hozza meg. A jogegységi tanács tagja a többségi határozattól eltérő álláspontját a határozat indokolásához csatolhatja.
 
-(4) A jogegységi panasz tanács elnöke vezeti a tanácsot és szervezi annak munkáját. Ennek keretében minden olyan intézkedést megtehet és minden olyan végzést meghozhat, amit a jogegységi panasz alapjául szolgáló eljárás szabályai nem utalnak kifejezetten a tanács hatáskörébe.
+(4) A jogegységi tanács elnöke vezeti a tanácsot és szervezi annak munkáját. Ennek keretében minden olyan intézkedést megtehet és minden olyan végzést meghozhat, amit a jogegységi panasz alapjául szolgáló eljárás szabályai nem utalnak kifejezetten a tanács hatáskörébe.
 
 41/B. § (1) Jogegységi panasznak van helye – a pervezetésre vonatkozó végzés kivételével – a Kúriának az eljárási törvény alapján további fellebbezéssel, felülvizsgálati kérelemmel vagy felülvizsgálati indítvánnyal (a továbbiakban ebben az alcímben együtt: felülvizsgálati kérelem) nem támadható határozata ellen, ha a felülvizsgálati kérelemben a Kúria 2012. január 1. után hozott és a Bírósági Határozatok Gyűjteményében közzétett határozatától (a továbbiakban ezen alcímben: a Kúria közzétett határozata) jogkérdésben való eltérésre már hivatkoztak, és a Kúria az eltéréssel okozott jogsértést – lehetőség ellenére – határozatában nem orvosolta.
 
@@ -296,7 +296,7 @@ határoz.
 
 (3) A jogegységi panasz elbírálásából ki van zárva az alapjául szolgáló eljárás szabályai szerint kizárt bíró, valamint az a bíró, aki a jogegységi panasszal támadott határozat meghozatalát megelőző eljárásban részt vett.
 
-41/C. § (1) A jogegységi panaszt a 41/B. § (1) és (2) bekezdése szerinti határozat közlésétől számított 30 napon belül a Kúriánál terjesztheti elő az, aki az eljárási törvények alapján felülvizsgálati kérelem előterjesztésére jogosult. A jogegységi panasz iránti eljárásban végrehajtás felfüggesztése vagy azonnali jogvédelem iránti kérelemnek van helye, az annak alapjául szolgáló eljárás szabályai szerint. A végrehajtás felfüggesztése vagy azonnali jogvédelem iránti kérelmet a jogegységi panaszban kell előterjeszteni. A Kúriának a jogegységi panasz alapjául szolgáló eljárás során eljáró tanácsa a panaszt az iratokkal együtt haladéktalanul a jogegységi panasz tanács elé terjeszti.
+41/C. § (1) A jogegységi panaszt a 41/B. § (1) és (2) bekezdése szerinti határozat közlésétől számított 30 napon belül a Kúriánál terjesztheti elő az, aki az eljárási törvények alapján felülvizsgálati kérelem előterjesztésére jogosult. A jogegységi panasz iránti eljárásban végrehajtás felfüggesztése vagy azonnali jogvédelem iránti kérelemnek van helye, az annak alapjául szolgáló eljárás szabályai szerint. A végrehajtás felfüggesztése vagy azonnali jogvédelem iránti kérelmet a jogegységi panaszban kell előterjeszteni. A Kúriának a jogegységi panasz alapjául szolgáló eljárás során eljáró tanácsa a panaszt az iratokkal együtt haladéktalanul a jogegységi tanács elé terjeszti.
 
 (2) A jogegységi panasz eljárás lefolytatása során – az ezen alcímben foglalt eltérésekkel – megfelelően alkalmazni kell a polgári perrendtartásról szóló törvénynek
 
@@ -321,9 +321,9 @@ vonatkozó szabályait.
 
 (4) A jogegységi panasz eljárásban a polgári perrendtartásról szóló törvény szerinti jogi képviselet kötelező.
 
-(5) A jogegységi panasz tanács a jogegységi panasz befogadhatósága körében a Kúriához érkezésétől számított 30 napon belül megvizsgálja, hogy az megfelel-e a törvényi feltételeknek. Ha a jogegységi panasz a végrehajtás felfüggesztése vagy azonnali jogvédelem iránti kérelmet tartalmaz, azt 30 napon belül a jogegységi panasz alapjául szolgáló eljárás szabályai szerint kell elbírálni.
+(5) A jogegységi tanács a jogegységi panasz befogadhatósága körében a Kúriához érkezésétől számított 30 napon belül megvizsgálja, hogy az megfelel-e a törvényi feltételeknek. Ha a jogegységi panasz a végrehajtás felfüggesztése vagy azonnali jogvédelem iránti kérelmet tartalmaz, azt 30 napon belül a jogegységi panasz alapjául szolgáló eljárás szabályai szerint kell elbírálni.
 
-(6) A jogegységi panasz tanács – hiánypótlási felhívás kiadását mellőzve – a jogegységi panaszt visszautasítja, ha
+(6) A jogegységi tanács – hiánypótlási felhívás kiadását mellőzve – a jogegységi panaszt visszautasítja, ha
 
 - a) azt nem az arra jogosult nyújtotta be,
 - b) azt jogi képviselő közreműködése nélkül nyújtották be,
@@ -334,11 +334,11 @@ vonatkozó szabályait.
 - g) azt 2020. július 1-jét megelőzően hozott kúrai határozattal szemben nyújtották be, vagy
 - h) az nem tartalmazza a (3) bekezdésben foglaltakat, és a megfelelő kiegészítés az (1) bekezdésben meghatározott határidőn belül nem történt meg.
 
-(7) A jogegységi panasz tanács a befogadott jogegységi panaszt az előterjesztő kivételével közli az annak alapjául szolgáló eljárásban az eljárási törvények alapján felülvizsgálati kérelem előterjesztésére jogosultakkal, akik a közléstől számított 30 napon belül nyilatkozatot tehetnek.
+(7) A jogegységi tanács a befogadott jogegységi panaszt az előterjesztő kivételével közli az annak alapjául szolgáló eljárásban az eljárási törvények alapján felülvizsgálati kérelem előterjesztésére jogosultakkal, akik a közléstől számított 30 napon belül nyilatkozatot tehetnek.
 
-(8) Ha a jogegységi panasz tanács indokoltnak tartja tárgyalás tartását, arra a panasz előterjesztőjét és a (7) bekezdésben meghatározott személyeket a polgári perrendtartásról szóló törvény szabályai szerint idézi.
+(8) Ha a jogegységi tanács indokoltnak tartja tárgyalás tartását, arra a panasz előterjesztőjét és a (7) bekezdésben meghatározott személyeket a polgári perrendtartásról szóló törvény szabályai szerint idézi.
 
-(9) A jogegységi panasz tanács a jogegységi panasz eljárást felfüggeszti, ha
+(9) A jogegységi tanács a jogegységi panasz eljárást felfüggeszti, ha
 
 - a) az Európai Unió Bírósága előzetes döntéshozatali eljárásának,
 - b) az Alkotmánybíróságnak a jogszabály, jogszabályi rendelkezés, közjogi szervezetszabályozó eszköz vagy jogegységi határozat alaptörvény-ellenességének megállapítására, továbbá nemzetközi szerződésbe ütközésének megállapítására irányuló eljárásának,
@@ -346,7 +346,7 @@ vonatkozó szabályait.
 
 kezdeményezéséről határoz.
 
-(10) A jogegységi panasz tanács az eljárást – annak bármely szakaszában – hivatalból megszünteti, ha
+(10) A jogegységi tanács az eljárást – annak bármely szakaszában – hivatalból megszünteti, ha
 
 - a) a (6) bekezdés alapján a jogegységi panasz visszautasításának lett volna helye,
 - b) a panasz előterjesztője meghal vagy megszűnik, feltéve, hogy a jogviszony természete a jogutódlást kizárja,
@@ -354,7 +354,7 @@ kezdeményezéséről határoz.
 - d) a panasz előterjesztője a megszűnt jogi képviseletének pótlásáról felhívás ellenére a tanács elnöke által megállapított határidő alatt nem gondoskodik, vagy
 - e) a panasszal támadott határozatot, illetve azt a határozatot, amelytől jogkérdésben való eltérésre hivatkozik a panasz előterjesztője, az Alkotmánybíróság megsemmisíti vagy a panasz előterjesztése egyébként okafogyottá vált.
 
-41/D. § (1) Ha a jogegységi panasz tanács megállapítja a Kúria közzétett határozatától jogkérdésben való eltérést, dönt a bíróságokra kötelező értelmezésről és határozatában
+41/D. § (1) Ha a jogegységi tanács megállapítja a Kúria közzétett határozatától jogkérdésben való eltérést, dönt a bíróságokra kötelező értelmezésről és határozatában
 
 - a) a panasszal támadott határozatot hatályában fenntartja, ha az eltérés indokolt volt;
 - b) megállapítja az eltéréssel okozott jogsértést, de a panasszal támadott határozatot hatályában fenntartja, ha
@@ -362,11 +362,11 @@ kezdeményezéséről határoz.
   - bb) más törvény így rendelkezik;
 - c) a panasszal támadott határozatot egészben vagy részben hatályon kívül helyezi, és a Kúriát új eljárásra és új határozat hozatalára utasítja, ha az eltérés nem volt indokolt.
 
-(2) Ha jogegységi panasz tárgya felülvizsgálatot vagy felülvizsgálati kérelem befogadását megtagadó határozat és a jogegységi panasz tanács a jogkérdésben való nem indokolt eltérést megállapítja, a panasszal támadott határozatot hatályon kívül helyezi és a bíróságot a felülvizsgálati eljárás lefolytatására utasítja.
+(2) Ha jogegységi panasz tárgya felülvizsgálatot vagy felülvizsgálati kérelem befogadását megtagadó határozat és a jogegységi tanács a jogkérdésben való nem indokolt eltérést megállapítja, a panasszal támadott határozatot hatályon kívül helyezi és a bíróságot a felülvizsgálati eljárás lefolytatására utasítja.
 
-(3) Ha a jogegységi panasz tanács megállapítja, hogy a Kúria közzétett határozatától jogkérdésben nem történt eltérés, a jogegységi panaszt elutasítja. A határozat indokolásának elegendő csak erre a körülményre utalnia, az alkalmazott jogszabályok feltüntetése mellett, azzal, hogy az indokolásból ki kell derülnie, hogy az adott jogkérdés vonatkozásában a korábban közzétett és a megtámadott határozat között miért nem volt eltérés.
+(3) Ha a jogegységi tanács megállapítja, hogy a Kúria közzétett határozatától jogkérdésben nem történt eltérés, a jogegységi panaszt elutasítja. A határozat indokolásának elegendő csak erre a körülményre utalnia, az alkalmazott jogszabályok feltüntetése mellett, azzal, hogy az indokolásból ki kell derülnie, hogy az adott jogkérdés vonatkozásában a korábban közzétett és a megtámadott határozat között miért nem volt eltérés.
 
-(4) Ha a jogegységi panasz tanács megállapítja a Kúria közzétett határozatától jogkérdésben való eltérést, a panasz elbírálásával összefüggésben felmerült költséget az állam viseli.
+(4) Ha a jogegységi tanács megállapítja a Kúria közzétett határozatától jogkérdésben való eltérést, a panasz elbírálásával összefüggésben felmerült költséget az állam viseli.
 
 (5) Az (1) bekezdés alapján hozott határozat jogegységi határozat hatályú, azt a jogegységi határozatok közzétételére vonatkozó szabályok szerint a Magyar Közlönyben közzé kell tenni.
 
@@ -378,13 +378,13 @@ kezdeményezéséről határoz.
 
 (2) Ha a Kúria indokoltnak tartja, a jogegységi határozat egyéb módon történő közzétételéről is intézkedhet.
 
-(3) Ha a jogegységi panasz tanács a jogegységi határozatot hatályon kívül helyezi, a hatályon kívül helyező határozatot a Magyar Közlönyben közzé kell tenni. A jogegységi határozat a hatályon kívül helyező határozat közzététele időpontjától nem alkalmazható.
+(3) Ha a jogegységi tanács a jogegységi határozatot hatályon kívül helyezi, a hatályon kívül helyező határozatot a Magyar Közlönyben közzé kell tenni. A jogegységi határozat a hatályon kívül helyező határozat közzététele időpontjától nem alkalmazható.
 
-(4) Ha a jogegységi panasz tanács a jogegységi határozatot hatályon kívül helyezi, a Bírósági Határozatok Gyűjteményében, a központi honlapon és a Kúria honlapján ezt jelezni kell.
+(4) Ha a jogegységi tanács a jogegységi határozatot hatályon kívül helyezi, a Bírósági Határozatok Gyűjteményében, a központi honlapon és a Kúria honlapján ezt jelezni kell.
 
 43. § Törvény – az e fejezetben nem szabályozott kérdésekben – az előzetes döntéshozatali indítvány elbírálására vonatkozóan további szabályokat állapíthat meg.
 
-44. § A jogegységi panasz tanács eljárására vonatkozó ügyviteli rendelkezéseket a Kúria ügyviteli szabályzata állapítja meg; a rendelkezéseket a Kúria honlapján közzé kell tenni.
+44. § A jogegységi tanács eljárására vonatkozó ügyviteli rendelkezéseket a Kúria ügyviteli szabályzata állapítja meg; a rendelkezéseket a Kúria honlapján közzé kell tenni.
 
 ### IV. Fejezet — A KÚRIA ÖNKORMÁNYZATI TANÁCSA
 
@@ -629,6 +629,8 @@ kapcsolatos feladatai ellátásához szükséges mértékben megilleti a fejezet
 (11) Az OBH elnöke az OBT-nek az OBT által a (3) bekezdés a) pontja szerint meghatározott költségvetésére vonatkozó javaslatát és az annak végrehajtására vonatkozó beszámolóját, változtatás nélkül rögzíti a bíróságok költségvetésére vonatkozó javaslatában és az annak végrehajtására vonatkozó beszámolójában.
 
 (12) Az OBH elnöke a statisztikai adatgyűjtéssel kapcsolatos, a (4) bekezdés d) pontja szerinti feladatkörében eljárva, az igazságügyért felelős miniszter megkeresésére a jogalkotás előkészítése, továbbá a jogszabályok hatályosulásának vizsgálata céljából egyedi, meghatározott célú statisztikai adatgyűjtés keretében tájékoztatja az igazságügyért felelős minisztert azokról az adatokról, amelyekből megállapítható a bíróságon folyamatban lévő és befejezett eljárás teljes időtartama az eljárás megindításától annak jogerős befejeződéséig, ideértve a bírósági eljárást megelőző, más szerv által lefolytatott hatósági vagy egyéb közhatalmi eljárás (a továbbiakban: megelőző eljárás), a rendes és a rendkívüli jogorvoslati eljárás, valamint a jogorvoslati eljárás alapján megismételt eljárás időtartamát is. Ezen adatgyűjtés alapján az eljárás teljes időtartama mellett annak is megállapíthatónak kell lennie, hogy annak kezdetétől a jogerős vagy végleges befejeződéséig meddig tartott a megelőző eljárás, illetve a bírósági eljárás.
+
+(12a) Az OBH elnöke a (8) bekezdés d) pontja szerinti feladatkörében az OBH kezelésében található összes anonimizált bírósági határozatot, ideértve azok teljes strukturált szövegét és az azokhoz kapcsolódó valamennyi metainformációt, az igazságügyért felelős miniszter részére folyamatosan, elektronikus úton, közvetlen rendszerkapcsolat biztosításával rendelkezésre bocsátja.
 
 (13) A (8) bekezdés g) pontja szerinti esetben, ha a megkeresésben kért határozatot a Bírósági Határozatok Gyűjteményében már közzétették, az így közzétett határozatot kell rendelkezésre bocsátani. Más esetben a személyazonosításra alkalmatlanná tételre alkalmazni kell a 166. § (1) bekezdésében, (2) bekezdés a), c), d) és e) pontjában, valamint (5) bekezdésében meghatározott rendelkezéseket. Az OBH elnöke a megkeresés teljesítése során egyeztetést kezdeményezhet az igazságügyért felelős miniszterrel annak érdekében, hogy a megkeresés teljesítése ne eredményezzen a bíróságok számára aránytalan ügyterhet.
 
@@ -1407,7 +1409,7 @@ elrendeli a bírósági vezető vezetői tevékenységének vizsgálatát.
 
 (2) Az (1) bekezdésben nem említett bírósági vezetőt a határozott idő letelte után a korábbi bírósági bírói állásának megfelelő beosztásba kell helyezni.
 
-(3) Ha a bírósági vezető tisztsége a határozott idő letelte előtt szűnik meg, őt pályázat kiírása nélkül lehetőleg a korábbi szolgálati helyére és legalább a korábbival azonos bírósági bírói beosztásba kell helyezni.
+(3) Ha a bírósági vezető tisztsége a határozott idő letelte előtt szűnik meg, őt pályázat kiírása nélkül, lehetőleg a korábbi szolgálati helyére és legalább a korábbival azonos bírósági bírói beosztásba kell helyezni.
 
 ### IX. Fejezet — BÍRÓI TESTÜLETEK
 
@@ -1575,6 +1577,8 @@ elrendeli a bírósági vezető vezetői tevékenységének vizsgálatát.
 - a) a fizetési meghagyásos, a végrehajtási, a cégbírósági, a csőd- és felszámolási, valamint a bíróságon vezetett névjegyzékekkel kapcsolatos eljárásban hozott bírósági határozatot nem kell közzétenni,
 - b) a házassági perben, az apaság és származás megállapítása iránti perben, a szülői felügyelet megszüntetésére irányuló perben, a gondnokság alá helyezés iránti perben hozott határozat nem tehető közzé, ha valamely fél a közzététel mellőzését kérte, és
 - c) a nemi élet szabadsága és a nemi erkölcs elleni bűncselekmény alapján indult büntetőeljárásban hozott határozat nem tehető közzé, ha ahhoz a sértett – a bíróság a hozzájárulás megadására irányuló felhívására – nem járult hozzá.
+
+(2a) Ha a (2) bekezdés b) és c) pontjában meghatározott esetben a határozatot a Kúria hozta, a Bírósági Határozatok Gyűjteményében közzé kell tenni a határozat számát és a jogértelmezést tartalmazó elvi tartalmat.
 
 (3) A közzétett bírósági határozathoz kapcsolva, azzal egyidejűleg közzé kell tenni mindazon bírósági és más hatósági vagy egyéb szerv által hozott határozatnak az OBH elnöke által meghatározott eljárásban a bíróság által anonimizált digitális másolatát is, amelyet a közzétett bírósági határozattal felülbíráltak vagy felülvizsgáltak.
 
