@@ -244,7 +244,7 @@ A fizetési meghagyásos eljárással összefüggésben indult per elintézésé
 
 (1) A törvényszék hatáskörébe tartoznak mindazok a perek, amelyek elbírálását törvény nem utalja a járásbíróság hatáskörébe.
 
-(2) A törvényszék mint munkaügyi bíróság jár el a munkaügyi perekben.
+(2) A törvényszék jár el a munkaügyi perekben.
 
 (3) A járásbíróság hatáskörébe tartoznak:
 
@@ -400,7 +400,7 @@ szerint illetékes bíróság előtt is megindíthatja.
 (2) A kijelölés kérdésében – a hatásköri és illetékességi szabályok alkalmazásával, a (3) bekezdésben foglalt kivétellel –
 
 - a) a törvényszék határoz, ha az összeütközés a területén lévő járásbíróságok között merült fel, valamint, ha a területén lévő járásbíróság kizárása esetén a területén lévő másik járásbíróság kijelölhető,
-- b) az a) pont alá nem tartozó esetekben az ítélőtábla határoz, ha az összeütközés a területén lévő járásbíróságok, törvényszékek között merült fel, továbbá, ha a területén lévő járásbíróság, törvényszék kizárása esetén, a területén lévő másik járásbíróság, törvényszék kijelölhető,
+- b) az a) pont alá nem tartozó esetekben az ítélőtábla határoz, ha az összeütközés a területén lévő járásbíróságok, törvényszékek között merült fel, továbbá, ha a területén lévő járásbíróság, törvényszék kizárása esetén, a területén lévő másik járásbíróság, törvényszék kijelölhető, valamint, ha a hatásköri összeütközés a területén lévő törvényszéken belül a törvényszék és a munkaügyi perben eljáró bíróság tekintetében merül fel,
 - c) az a) és b) pont alá nem tartozó esetekben a Kúria határoz.
 
 (3) Az e törvény hatálya alá tartozó ügyben eljáró bíróság és a közigazgatási ügyben eljáró bíróság között felmerült hatásköri összeütközés esetén az eljáró bíróság kijelölésére a közigazgatási perrendtartás vonatkozó rendelkezéseit kell alkalmazni.
@@ -2091,7 +2091,7 @@ az írásbeli jegyzőkönyv kijavítását, kiegészítését kérhetik.
 
 #### 174. § [Áttétel]
 
-(1) Ha a keresetlevél alapján megállapítható, hogy a per elbírálása valamely más bíróság hatáskörébe vagy illetékességébe tartozik, a bíróság elrendeli a keresetlevélnek ehhez a bírósághoz történő áttételét. Áttételnek van helye akkor is, ha a jogvita elbírálása közigazgatási perben vagy egyéb közigazgatási bírósági eljárásban eljáró bíróság hatáskörébe tartozik.
+(1) Ha a keresetlevél alapján megállapítható, hogy a per elbírálása valamely más bíróság hatáskörébe vagy illetékességébe tartozik, a bíróság elrendeli a keresetlevélnek ehhez a bírósághoz történő áttételét. Áttételnek van helye akkor is, ha a jogvita elbírálása közigazgatási perben, vagy egyéb közigazgatási bírósági eljárásban eljáró bíróság hatáskörébe tartozik, valamint akkor is, ha a keresetlevelet a törvényszékhez nyújtják be, de a jogvita elbírálása a munkaügyi perben eljáró bíróság hatáskörébe tartozik, illetve ha a keresetlevelet a munkaügyi perben eljáró bírósághoz nyújtják be, de a jogvita elbírálása a törvényszék hatáskörébe tartozik.
 
 (2) A bíróság az alperesnek megküldött áttételt elrendelő végzéshez csatolja a keresetlevelet, kivéve, ha az a részére korábban megküldésre került. Ha az alperesnek nincs perbeli jogképessége, az áttételt elrendelő végzést számára nem kell kézbesíteni.
 
@@ -4601,7 +4601,7 @@ Ha a fél az ítélet megváltoztatására irányuló kérelem nélkül kizáró
 
 #### 387. § [Intézkedések a másodfokú határozat meghozatala után]
 
-A másodfokú határozat írásba foglalása után az iratokat a bíróság nyolc napon belül megküldi az elsőfokú bíróságnak, amely az iratok hozzá érkezését követő tizenöt napon belül közli a felekkel a másodfokú eljárást befejező határozatot. Ha a másodfokú bíróság az ítélet kihirdetését elhalasztotta, a már írásba foglalt ítéletét a jelen lévő feleknek nyomban kézbesíti és ezt a jegyzőkönyvben is feltünteti.
+A másodfokú határozat írásba foglalása után az iratokat a bíróság nyolc napon belül megküldi az elsőfokú bíróságnak, amely az iratok hozzá érkezését követő tizenöt napon belül közli a felekkel a másodfokú eljárást befejező határozatot. Ha a másodfokú bíróság az ítélet kihirdetését elhalasztotta, a már írásba foglalt ítéletét a jelen lévő feleknek nyomban kézbesíti és ezt a jegyzőkönyvben is feltünteti, a meg nem jelent felek részére pedig három napon belül elrendeli a kézbesítését.
 
 #### 108. A másodfokú eljárásban jogi képviselő nélkül eljáró félre vonatkozó külön szabályok
 
@@ -5273,7 +5273,7 @@ kérdésében.
 
 (3) Nincs helye az eljárás szünetelésének a 121. § (1) bekezdés b) pontja szerinti esetben.
 
-(4) A házassági bontóperben az eljárás felek megegyezése alapján történő szünetelésére háromnál több alkalommal is sor kerülhet.
+(4)
 
 #### 459. § [Ítélet]
 
@@ -5476,7 +5476,7 @@ kérdésében.
 
 #### 481. § [Tárgyalás és ítélet]
 
-(1) Azt a személyt, aki a gyermek nála történő elhelyezését kéri, a perben tanúként kell meghallgatni.
+(1) Azt a személyt, aki a gyermek nála történő elhelyezését kéri, a perben külön bejelentés nélkül is a felperes melletti beavatkozó jogállása illeti meg. A bíróság azonban akkor is köteles őt személyesen meghallgatni, ha beavatkozóként a perben nem kíván részt venni.
 
 (2) A perben hozott jogerős ítéletet a bíróság a szükséges intézkedések megtétele végett közli a gyámhatósággal.
 
@@ -6631,7 +6631,7 @@ E törvény rendelkezéseit az elektronikus kapcsolattartás során az e fejezet
 
 (1) A perben az elektronikus kapcsolattartásra nem köteles fél vagy a jogi képviselőnek nem minősülő képviselője – az (5) bekezdésben foglalt kivétellel – a keresetlevelet, továbbá minden egyéb beadványt és ezek mellékletét, valamint okiratot (e fejezetben a továbbiakban együtt: beadvány) választása szerint elektronikus úton is benyújthatja, a Dáptv.-ben és végrehajtási rendeleteiben meghatározott módon.
 
-(2) Az elektronikus úton történő kapcsolattartásra vonatkozó bejelentést a fél vagy a képviselő az eljárás bármely szakaszában megteheti az eljáró bíróságnál. A beadvány elektronikus úton történő benyújtás az (1) bekezdés szerinti elektronikus út vállalásának minősül.
+(2) Az elektronikus úton történő kapcsolattartásra vonatkozó bejelentést a fél vagy a képviselő az eljárás bármely szakaszában megteheti az eljáró bíróságnál. A beadvány elektronikus úton történő benyújtása az (1) bekezdés szerinti elektronikus út vállalásának minősül.
 
 (3) Az (1) bekezdés szerinti elektronikus út választása esetén az eljárás folyamán – ideértve az eljárás minden szakaszát és a rendkívüli perorvoslatot is – a fél, illetve képviselője köteles a bírósággal a kapcsolatot elektronikus úton tartani és a bíróság is valamennyi bírósági iratot elektronikusan kézbesít a részére, kivéve a tárgyaláson csatolt vagy kézbesíthető iratot, illetve határozatot.
 
@@ -6764,9 +6764,9 @@ Kizárólag hangkapcsolatot biztosító elektronikus úton nyilatkozat nem tehet
 
 #### 159. Az elektronikus hírközlő hálózat igénybevételének elrendelése és az elektronikus hírközlő hálózat útján történő meghallgatás helye
 
-#### 622. § [Az elektronikus hírközlő hálózat útján történő meghallgatás elrendelése]
+#### 622. § [Az elektronikus hírközlő hálózat igénybevételének elrendelése]
 
-(1) A bíróság a fél indítványára vagy hivatalból végzéssel elrendelheti, hogy a fél és más perbeli személy, a tanú, valamint a szakértő meghallgatására, továbbá – ha az ellen a szemletárgy birtokosa nem tiltakozik – a szemle lefolytatására elektronikus hírközlő hálózat útján kerüljön sor, ha
+(1) A bíróság indítványra vagy hivatalból végzéssel elrendelheti, hogy a tárgyaláson és a személyes meghallgatáson lefolytatásra kerülő eljárási cselekményen a fél és más perbeli személy, azok képviselője, a tanú, valamint a szakértő jelenléte elektronikus hírközlő hálózat útján kerüljön biztosításra, továbbá – ha az ellen a szemletárgy birtokosa nem tiltakozik – a szemle lefolytatására elektronikus hírközlő hálózat útján kerüljön sor (a továbbiakban együtt: elektronikus hírközlő hálózat útján történő meghallgatás), ha
 
 - a) az célszerűnek látszik, különösen, ha az az eljárás lefolytatását meggyorsítja,
 - b) a meghallgatás a tárgyalás, illetve a személyes meghallgatás kitűzött helyszínén jelentős nehézséggel vagy aránytalanul nagy költségtöbblettel járna, vagy
@@ -6776,7 +6776,7 @@ Kizárólag hangkapcsolatot biztosító elektronikus úton nyilatkozat nem tehet
 
 #### 623. § [Az elektronikus hírközlő hálózat útján történő meghallgatás helye]
 
-(1) Az elektronikus hírközlő hálózat útján történő meghallgatás során a tárgyalás, a személyes meghallgatás vagy a szemle kitűzött helyszíne és az elektronikus hírközlő hálózat útján történő meghallgatás vagy szemle (a továbbiakban együtt: elektronikus hírközlő hálózat útján történő meghallgatás) helyszíne között az összeköttetés közvetlenségét a mozgóképet és a hangot egyidejűleg továbbító eszköz biztosítja.
+(1) Az elektronikus hírközlő hálózat útján történő meghallgatás során a tárgyalás, a személyes meghallgatás vagy a szemle kitűzött helyszíne és az elektronikus hírközlő hálózat útján történő meghallgatás helyszíne között az összeköttetés közvetlenségét a mozgóképet és a hangot egyidejűleg továbbító eszköz biztosítja.
 
 (2) Az elektronikus hírközlő hálózat útján történő meghallgatásra sor kerülhet a tárgyalás, a személyes meghallgatás vagy a szemle kitűzött helyszíne és több egyéb elektronikus hírközlő hálózat útján történő meghallgatási helyszín igénybevételével is, ha azok közvetlen összeköttetése biztosítható.
 

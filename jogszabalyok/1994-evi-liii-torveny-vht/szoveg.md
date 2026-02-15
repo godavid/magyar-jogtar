@@ -4624,6 +4624,13 @@ a lakóingatlan kiürítését – a (3) bekezdésben foglalt kivétellel – a 
 
 (3) A bűnügyi követelés esetén, a büntetőeljárásban elrendelt zár alá vétellel, valamint az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedéssel érintett ügyek esetén az állam nem mond le a követeléséről.
 
+(3a) A (3) bekezdés szerinti követelésekkel összefüggő, az állami adó- és vámhatóságnak át nem adott és meg nem szüntetett végrehajtási ügyekben a törvényszék kezdeményezi
+
+- a) az egyszerűsített felülvizsgálati eljárás lefolytatását a büntetőügyben eljárt bíróságnál, ha a kötelezett a büntetőeljárásban az alapügyben hozott határozat jogerőre emelkedése vagy véglegessé válása előtt meghalt vagy megszűnt,
+- b) a vagyonelvonásra irányuló eljárás lefolytatását az ügyészségnél, ha a kötelezett a büntetőeljárásban az alapügyben hozott határozat jogerőre emelkedése vagy véglegessé válása után, a végrehajtás befejezése előtt meghalt vagy megszűnt.
+
+(3b) Ha a (3a) bekezdés szerinti eljárásokban a követelés új kötelezettjének személye a büntetőeljárásban hozott végleges határozattal megállapításra kerül, az illetékes törvényszék e határozatra hivatkozással átadja az ügyet az állami adó- és vámhatóság részére, hogy az új kötelezettel szemben foganatosítsa a szükséges végrehajtási cselekményeket és intézkedéseket az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló 2017. évi CLIII. törvény rendelkezései alapján. Ha a (3a) bekezdés szerinti eljárásokban a követelés új kötelezettje nem állapítható meg, az illetékes törvényszék a végrehajtás megszüntetéséről végzéssel rendelkezik.
+
 (4) E törvény alapján a bírósági titkár elvégzi a 2019. december 31. napját követően a korábban a törvényszéki végrehajtó hatáskörébe tartozó, de törvény alapján még az állami adó- és vámhatóságnak át nem adott végrehajtási ügyekben felmerülő valamennyi szükséges intézkedést.
 
 304/F. § E törvénynek az egyes igazságügyi tárgyú törvények módosításáról szóló 2019. évi CXVII. törvénnyel (a továbbiakban: Módtv.10.) megállapított 31/E. § (5a) bekezdése szerinti, végrehajtási lap visszavonása vagy végrehajtási záradék törlése iránti kérelem előterjesztéséért fizetett díjat a 2020. február 1-je után előterjesztett kérelmek után kell megfizetni.

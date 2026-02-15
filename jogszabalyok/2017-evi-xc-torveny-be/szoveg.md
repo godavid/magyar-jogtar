@@ -8953,7 +8953,7 @@ tanácsülésen bírálja el.
 
 (2) Ha az Alkotmánybíróság a Kúriának a törvényesség érdekében bejelentett jogorvoslat alapján hozott határozatát megsemmisíti, a Kúria eljárására a XCII. Fejezet rendelkezéseit kell alkalmazni.
 
-(3) Ha a jogegységi panasz tanács a Kúria felülvizsgálati eljárás során hozott határozatát hatályon kívül helyezi, a Kúria eljárására a XC. Fejezet rendelkezéseit kell alkalmazni, azzal, hogy az eljáró tanács jogegységi eljárást kezdeményez. A megismételt felülvizsgálati eljárásban a felülvizsgálati indítvánnyal megtámadott határozat a terhelt terhére nem változtatható meg és csak akkor helyezhető hatályon kívül, ha a terhelt felmentésének vagy az eljárás megszüntetésének van helye.
+(3) Ha a jogegységi tanács a Kúria felülvizsgálati eljárás során hozott határozatát hatályon kívül helyezi, a Kúria eljárására a XC. Fejezet rendelkezéseit kell alkalmazni, azzal, hogy az eljáró tanács jogegységi eljárást kezdeményez. A megismételt felülvizsgálati eljárásban a felülvizsgálati indítvánnyal megtámadott határozat a terhelt terhére nem változtatható meg és csak akkor helyezhető hatályon kívül, ha a terhelt felmentésének vagy az eljárás megszüntetésének van helye.
 
 ## TIZENKILENCEDIK RÉSZ — RENDKÍVÜLI JOGORVOSLATOK
 
@@ -9439,7 +9439,7 @@ terjeszthet elő felülvizsgálati indítványt.
 
 (7) Jogegységi panasz eljárásban a jogerős ügydöntő határozatban kiszabott büntetés vagy alkalmazott intézkedés végrehajtása, illetve a jogerős ügydöntő határozatba foglaltak teljesítése felfüggesztésének vagy félbeszakításának nincs helye.
 
-(8) A Kúria jogegységi panasszal támadott határozata hatályon kívül helyezésének nincs helye, ha a jogegységi panasz tanács megállapítja, hogy a felülvizsgálati eljárásban támadott határozat indokolatlanul tért el a Kúria Bírósági Határozatok Gyűjteményében közzétett határozatától, azonban a 649. § (1) és (2) bekezdésében meghatározott szabálysértés hiányában a felülvizsgálati eljárásban a megtámadott határozat megváltoztatásának, hatályon kívül helyezésének nincs helye.
+(8) A Kúria jogegységi panasszal támadott határozata hatályon kívül helyezésének nincs helye, ha a jogegységi tanács megállapítja, hogy a felülvizsgálati eljárásban támadott határozat indokolatlanul tért el a Kúria Bírósági Határozatok Gyűjteményében közzétett határozatától, azonban a 649. § (1) és (2) bekezdésében meghatározott szabálysértés hiányában a felülvizsgálati eljárásban a megtámadott határozat megváltoztatásának, hatályon kívül helyezésének nincs helye.
 
 ### XCIV. Fejezet — EGYSZERŰSÍTETT FELÜLVIZSGÁLAT
 
