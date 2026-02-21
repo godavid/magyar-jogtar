@@ -85,7 +85,7 @@ az Alaptörvény 25. cikk (2) bekezdés b)–d) pontja végrehajtására a köve
 - 3. közszolgálati jogviszony: az állam vagy az állam nevében eljáró szerv és az állam nevében foglalkoztatott személy között munkavégzés, illetve szolgálatteljesítés céljából létesített, a köz szolgálatára irányuló, törvényben meghatározott speciális kötelezettségeket és jogokat tartalmazó jogviszony; ide nem értve a bírák, az igazságügyi alkalmazottak, továbbá az ügyészségi alkalmazottak szolgálati viszonyát, valamint a munkaviszonyban állók jogviszonyát;
 - 4. megelőző eljárás: a jogvita tárgyává tett közigazgatási cselekmény megvalósítására folytatott közigazgatási hatósági vagy jogorvoslati eljárás.
 
-(8)
+(8) A kormányzati igazgatási szervnél foglalkoztatott munkavállaló munkaviszonyával kapcsolatos jogvita közszolgálati jogvitának minősül.
 
 #### 5. § [Közigazgatási bírói út]
 

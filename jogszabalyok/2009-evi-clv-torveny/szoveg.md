@@ -169,7 +169,22 @@ minősítési szintű.
 
 ### A nemzeti minősített adat felülvizsgálata, felülbírálata
 
-8. § (1) A minősítő – ha törvény rövidebb határidőt nem állapít meg – köteles legkésőbb 5 évenként felülvizsgálni az általa, a jogelődje vagy más minősítő által készített és a felülvizsgálat időpontjában feladat- és hatáskörébe tartozó nemzeti minősített adatot. A minősítő a felülvizsgálatba szakértőt vonhat be.
+8. § (1) Ha törvény nem határozza meg a felülvizsgálat lefolytatásának határidejét
+
+- a) a minősítés feltételeiben bekövetkező változás esetén,
+- b) – az (1a) bekezdésben meghatározott kivétellel – az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény 17. §-a szerinti hozzáféréshez való jog érvényesítésére irányuló igény benyújtása esetén, vagy
+- c) – az (1a) bekezdésben meghatározott kivétellel – a minősített adatra vonatkozó közérdekű adat vagy közérdekből nyilvános adat megismerése iránti igény benyújtása esetén
+
+a minősítő felülvizsgálja az általa, a jogelődje vagy más minősítő által készített és a felülvizsgálat időpontjában feladat- és hatáskörébe tartozó nemzeti minősített adatot azzal, hogy a minősítő a felülvizsgálatba szakértőt vonhat be.
+
+(1a) Nem kell a nemzeti minősített adatot ismételten felülvizsgálni az (1) bekezdés b) vagy c) pontja szerinti esetben, ha annak (1) bekezdés b) vagy c) pontja szerinti felülvizsgálatára 1 éven belül már sor került, és nem következett be változás a minősítés feltételeiben.
+
+(1b) A nemzeti minősített adat
+
+- a) (1) bekezdés a) pontja szerinti felülvizsgálatát haladéktalanul,
+- b) (1) bekezdés b) vagy c) pontja szerinti felülvizsgálatát 21 napon belül
+
+kell lefolytatni.
 
 (2) A felülvizsgálat eredményeként a minősítő, illetve jogutódja a feladat- és hatáskörébe tartozó nemzeti minősített adat
 

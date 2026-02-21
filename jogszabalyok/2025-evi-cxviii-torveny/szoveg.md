@@ -153,19 +153,46 @@ lép.
 
 #### 48. §
 
-#### 49. §
+49. § A Be. 351. § (7) bekezdése helyébe a következő rendelkezés lép:
+
+„(7) A nyomozási határidő számítását több gyanúsított esetén minden gyanúsított tekintetében önállóan kell elvégezni. A nyomozás (3) bekezdés szerinti határidejét a gyanúsítottal a gyanúsításban közölt legsúlyosabb bűncselekmény büntetési tételének figyelembe vételével kell kiszámítani.”
 
 #### 50. §
 
-#### 51. §
+51. § A Be. 662. §-a helyébe a következő rendelkezés lép:
 
-#### 52. §
+„662. § (1) A Kúria a felülvizsgálati indítvánnyal megtámadott határozatot nem ügydöntő végzésével hatályában fenntartja, ha a felülvizsgálati indítványnak nem ad helyt.
 
-#### 53. §
+(2) A Kúria a felülvizsgálati indítvánnyal megtámadott határozatot megváltoztatja, és a törvénynek megfelelő határozatot hoz, ha az alapügyben a bíróság
 
-#### 54. §
+- a) a büntető anyagi jog szabályainak megsértése miatt állapította meg a terhelt bűnösségét, vagy rendelte el kényszergyógykezelését,
+- b) a bűncselekmény törvénysértő minősítése, illetve a Btk. más szabályának megsértése miatt szabott ki törvénysértő büntetést, alkalmazott törvénysértő intézkedést,
+- c) a bűncselekmény törvénysértő minősítése miatt szabott ki olyan büntetést, illetve alkalmazott olyan intézkedést, amely a felülvizsgálati indítvánnyal megtámadott határozat szerint irányadó büntetési tételkerettől eltérő, törvényes büntetési tételkeretre figyelemmel aránytalanul súlyos vagy aránytalanul enyhe,
+- d) a Btk. 86. § (1) bekezdésében foglalt kizáró ok ellenére függesztette fel a büntetés végrehajtását, vagy
+- e) a súlyosítási tilalom megsértésével hozta meg a határozatát.”
 
-#### 55. §
+52. § A Be. 687. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) Több terhelt esetén, ha a felnőtt korú terhelt ügyének a fiatalkorú ügyétől való elkülönítése kizárt, akkor az ügyben az (1) és (2) bekezdésben meghatározott határidőt a 351. § (6) bekezdésében meghatározott feltételek valamelyikének fennállása esetén
+
+- a) az ügyészség legfeljebb hat hónappal,
+- b) a felettes ügyészség további hat hónappal
+
+meghosszabbíthatja.”
+
+53. § A Be. 847. § (6) bekezdése helyébe a következő rendelkezés lép:
+
+„(6) Az (1)–(5) bekezdésben meghatározott esetben a már kifizetett kártalanítást az állam visszaköveteli. Az állam képviseletében az igazságügyért felelős miniszter jár el.”
+
+54. § A Be. 850. § (2) bekezdése a következő d) ponttal egészül ki:
+
+(Az igazságügyért felelős miniszter a kártalanítási eljárás során törvényben meghatározott adatkörben adatszolgáltatást a következő nyilvántartásokból kérhet:)
+
+„d) fogvatartottak nyilvántartása.”
+
+55. § A Be. 874. §-a a következő (2c) bekezdéssel egészül ki:
+
+„(2c) Több terhelt esetén, ha a felnőtt korú terhelt ügyének a fiatalkorú ügyétől való elkülönítése kizárt, a 2025. szeptember 1. napját megelőzően indult büntetőeljárásban a 687. § (3) bekezdés alkalmazásának van helye.”
 
 56. § (1)
 
@@ -188,21 +215,26 @@ lép.
 - 11.
 - 12.
 - 13.
-- 14.
+- 14. 351. § (5) és (6) bekezdésében az „ügyész” szövegrész helyébe az „ügyészség” szöveg,
 - 15.
-- 16.
+- 16. 608. § (1) bekezdés d) pontjában a „tárgyalást” szövegrész helyébe a „bíróság eljárási cselekményét” szöveg,
 - 17.
 - 18.
 - 19.
-- 20.
-- 21.
-- 22.
-- 23.
-- 24.
+- 20. 851. § (4) bekezdésében a „kérelem hozzá” szövegrész helyébe a „kérelemnek és az ügy iratainak hozzá” szöveg,
+- 21. 852. § (1) bekezdésében a „kérelem elfogadhatatlanságáról” szövegrész helyébe a „kérelem megalapozatlanságáról” szöveg,
+- 22. 874. § (2a) bekezdésében a „szeptember 1. napján folyamatban levő” szövegrész helyébe a „szeptember 1. napját megelőzően indult” szöveg,
+- 23. 874. § (2b) bekezdés a) pontjában a „(4) és (6)” szövegrész helyébe az „(5)” szöveg,
+- 24. 874. § (2b) bekezdés b) pontjában az „(5) és (7)” szövegrész helyébe a „(6) és (8)” szöveg
 
 lép.
 
-#### 59. §
+59. § A Be.
+
+- a) 234. § (3) bekezdésében a „leplezett eszközök” szövegrész helyébe a „leplezett eszközök a Btk. 178. § (6) bekezdése szerinti kábítószer birtoklása a Btk. 180. § (1) bekezdés c) pontja szerinti feltétel teljesülésének a hiányában, a tudatmódosító anyaggal visszaélés, valamint” szöveg,
+- b) 253. § (1) bekezdés b) pontjában és 259. § (1) bekezdés b) pontjában a „nyolc” szövegrész helyébe a „harminc” szöveg
+
+lép.
 
 60. § Hatályát veszti a Be.
 
@@ -217,10 +249,10 @@ lép.
 - 9.
 - 10.
 - 11.
-- 12.
-- 13.
+- 12. 335. § (2) bekezdésében a „közvádra üldözendő” szövegrész,
+- 13. 845/A. § (2) bekezdésében a „szükség esetén” szövegrész.
 
-#### 61. §
+61. § Hatályát veszti a Be. 234. § (2) bekezdés b) pontjában az „a Btk. 178. § (6) bekezdése szerinti kábítószer birtoklása a Btk. 180. § (1) bekezdés c) pontja szerinti feltétel teljesülésének a hiányában, a tudatmódosító anyaggal visszaélés,” szövegrész.
 
 #### 14. Az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló 2017. évi CLIII. törvény módosítása
 
