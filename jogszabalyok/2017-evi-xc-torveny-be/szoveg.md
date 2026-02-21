@@ -3365,7 +3365,7 @@ is alkalmazható.
 (2) A bírói engedélyhez kötött leplezett eszközök a három évig terjedő szabadságvesztéssel büntetendő, szándékosan elkövetett következő bűncselekmények esetén is alkalmazhatók:
 
 - a) az üzletszerűen vagy bűnszövetségben elkövetett bűncselekmény,
-- b) a Btk. 178. § (6) bekezdése szerinti kábítószer birtoklása a Btk. 180. § (1) bekezdés c) pontja szerinti feltétel teljesülésének a hiányában, a tudatmódosító anyaggal visszaélés, a kábítószer-prekurzorral visszaélés, a gyógyszerhamisítás, a teljesítményfokozó szerrel visszaélés, az egészségügyi termék hamisítása,
+- b) a kábítószer-prekurzorral visszaélés, a gyógyszerhamisítás, a teljesítményfokozó szerrel visszaélés, az egészségügyi termék hamisítása,
 - c) a szexuális visszaélés, a kerítés, a prostitúció elősegítése, a kitartottság, a gyermekprostitúció kihasználása, a gyermekpornográfia,
 - d) a környezetkárosítás, a természetkárosítás, az orvvadászat, a tiltott állatviadal szervezése, a hulladékgazdálkodás rendjének megsértése,
 - e) a zártörés kivételével az igazságszolgáltatás elleni bűncselekmények,
@@ -3373,7 +3373,7 @@ is alkalmazható.
 - g) a választás, népszavazás és európai polgári kezdeményezés rendje elleni bűncselekmény, a harmadik országbeli állampolgár jogellenes foglalkoztatása, a tiltott szerencsejáték szervezése,
 - h) a bennfentes kereskedelem és a tiltott piacbefolyásolás.
 
-(3) Bírói engedélyhez kötött leplezett eszközök a szándékosan elkövetett minősített adattal visszaélés, a vesztegetés, a hivatali visszaélés, a közfeladati helyzettel visszaélés, a hivatalos személy elleni erőszak, a közfeladatot ellátó személy elleni erőszak, a nemzetközileg védett személy elleni erőszak, a nemzetközi gazdasági tilalom megszegése, a készpénz-helyettesítő fizetési eszköz hamisítása, a jogosulatlan pénzügyi tevékenység és a piramisjáték szervezése esetén is alkalmazhatók.
+(3) Bírói engedélyhez kötött leplezett eszközök a Btk. 178. § (6) bekezdése szerinti kábítószer birtoklása a Btk. 180. § (1) bekezdés c) pontja szerinti feltétel teljesülésének a hiányában, a tudatmódosító anyaggal visszaélés, valamint a szándékosan elkövetett minősített adattal visszaélés, a vesztegetés, a hivatali visszaélés, a közfeladati helyzettel visszaélés, a hivatalos személy elleni erőszak, a közfeladatot ellátó személy elleni erőszak, a nemzetközileg védett személy elleni erőszak, a nemzetközi gazdasági tilalom megszegése, a készpénz-helyettesítő fizetési eszköz hamisítása, a jogosulatlan pénzügyi tevékenység és a piramisjáték szervezése esetén is alkalmazhatók.
 
 (4) Ha a Btk. a bűncselekmény előkészületét büntetni rendeli, a bírói engedélyhez kötött leplezett eszközök az (1)–(3) bekezdésben meghatározott bűncselekmények előkészülete miatt indult büntetőeljárásban is alkalmazhatók.
 
@@ -3604,7 +3604,7 @@ is megismerheti.
 253. § (1) A bírói engedélyhez kötött leplezett eszköz alkalmazásának eredménye az engedélyben meg nem jelölt személynek az engedélyben meg nem jelölt bűncselekménye vonatkozásában kizárólag a más életének szándékos kioltásával járó bűncselekmények; az emberrablás; az öt évig terjedő vagy ennél súlyosabb szabadságvesztéssel büntetendő, a Btk. XXIV. Fejezete szerinti állam elleni bűncselekmény; a terrorcselekmény; a terrorizmus finanszírozása; vagy a szándékosan elkövetett közveszély okozása bizonyítására használható fel, ha
 
 - a) az eszköz alkalmazásának e törvényben meghatározott egyéb feltételei fennállnak,
-- b) a leplezett eszközök alkalmazására feljogosított szerv a büntetőeljárásban felhasználni kívánt adat megszerzését követően nyolc napon belül az engedélyben meg nem jelölt személynek az engedélyben meg nem jelölt bűncselekménye vonatkozásában az előkészítő eljárás vagy a nyomozás megindításáról, illetve a már folyamatban lévő büntetőeljárásban való felhasználásáról rendelkezik, illetve azt kezdeményezi, és
+- b) a leplezett eszközök alkalmazására feljogosított szerv a büntetőeljárásban felhasználni kívánt adat megszerzését követően harminc napon belül az engedélyben meg nem jelölt személynek az engedélyben meg nem jelölt bűncselekménye vonatkozásában az előkészítő eljárás vagy a nyomozás megindításáról, illetve a már folyamatban lévő büntetőeljárásban való felhasználásáról rendelkezik, illetve azt kezdeményezi, és
 - c) a bíróság a (4) bekezdés alapján engedélyezi az engedélyben meg nem jelölt személynek az engedélyben meg nem jelölt bűncselekménye vonatkozásában a leplezett eszköz alkalmazása eredményének a felhasználását.
 
 (2) A leplezett eszközök alkalmazására feljogosított szerv az (1) bekezdés b) pontja szerinti előkészítő eljárás vagy nyomozás megindítását vagy a már folyamatban lévő büntetőeljárásban való felhasználását követő három munkanapon belül kezdeményezi az ügyészségnél a leplezett eszköz alkalmazása eredménye felhasználásának az engedélyezését. Az ügyészség a kezdeményezéstől számított hetvenkét órán belül indítványozza a bíróságnál a leplezett eszköz alkalmazása eredménye felhasználásának az engedélyezését.
@@ -3688,7 +3688,7 @@ biztosítsák.
 259. § (1) Az ügyészségről szóló törvény, a rendőrségről szóló törvény vagy a Nemzeti Adó- és Vámhivatalról szóló törvény alapján végzett, bírói engedélyhez kötött titkos információgyűjtés eredménye a büntetőeljárásban bizonyítékként akkor használható fel, ha
 
 - a) olyan bűncselekmény bizonyítására kívánják felhasználni, amely miatt e törvény szerint bírói engedélyhez kötött leplezett eszközök alkalmazásának helye lehet,
-- b) a titkos információgyűjtést folytató szerv a büntetőeljárásban felhasználni kívánt adat megszerzését követően nyolc napon belül kezdeményezte a büntetőeljárás megindítását.
+- b) a titkos információgyűjtést folytató szerv a büntetőeljárásban felhasználni kívánt adat megszerzését követően harminc napon belül kezdeményezte a büntetőeljárás megindítását.
 
 (2) Ha a titkos információgyűjtést nem maga a titkos információgyűjtést végző szerv hajtotta végre, az (1) bekezdésben meghatározott határidőt attól a naptól kell számítani, amikor a titkos információgyűjtésnek az (1) bekezdés szerint felhasználni kívánt eredményét tartalmazó adathordozó, irat vagy annak kivonata a titkos információgyűjtést folytató szervhez megérkezett.
 
@@ -4927,7 +4927,7 @@ a (6) bekezdésnek megfelelően határoz a zár alá vételről rendelkező hat�
 
 335. § (1) Az elektronikus adat ideiglenes hozzáférhetetlenné tétele az elektronikus hírközlő hálózat útján közzétett adat feletti rendelkezési jog ideiglenes korlátozása és az adathoz való hozzáférés ideiglenes megakadályozása.
 
-(2) Az elektronikus adat ideiglenes hozzáférhetetlenné tételét akkor lehet elrendelni, ha az eljárás olyan közvádra üldözendő bűncselekmény miatt folyik, amellyel kapcsolatban elektronikus adat végleges hozzáférhetetlenné tételének van helye, és az a bűncselekmény megszakítása érdekében szükséges.
+(2) Az elektronikus adat ideiglenes hozzáférhetetlenné tételét akkor lehet elrendelni, ha az eljárás olyan bűncselekmény miatt folyik, amellyel kapcsolatban elektronikus adat végleges hozzáférhetetlenné tételének van helye, és az a bűncselekmény megszakítása érdekében szükséges.
 
 (3) Az elektronikus adat ideiglenes hozzáférhetetlenné tételét a bíróság, az ügyészség vagy a nyomozó hatóság rendeli el.
 
@@ -5211,9 +5211,9 @@ fejezi be.
 
 (4) A Btk. 91. § (3) bekezdése estén a nyomozás (3) bekezdés szerinti határidejét a Btk. 91. § (1) bekezdése alapján felemelt büntetési tétel szerint kell megállapítani.
 
-(5) A nyomozás (3) bekezdés szerinti határidejét az ügyész legfeljebb hat hónappal meghosszabbíthatja.
+(5) A nyomozás (3) bekezdés szerinti határidejét az ügyészség legfeljebb hat hónappal meghosszabbíthatja.
 
-(6) A nyomozás (5) bekezdés szerint meghosszabbított határidejét a felettes ügyész legfeljebb egy évvel meghosszabbíthatja, ha az eljárás elhúzódását az eredményezte, hogy
+(6) A nyomozás (5) bekezdés szerint meghosszabbított határidejét a felettes ügyészség legfeljebb egy évvel meghosszabbíthatja, ha az eljárás elhúzódását az eredményezte, hogy
 
 - a) külföldi állam területét érintő eljárási cselekmény elvégzésére került sor,
 - b) a bűncselekményt információs rendszer felhasználásával követték el, és ezzel kapcsolatban különleges szakértelem igénybe vétele volt szükséges,
@@ -5222,7 +5222,7 @@ fejezi be.
 - e) gyanúsított megszökött vagy elrejtőzött,
 - f) a gyanúsított által a nyomozás ügyiratainak teljes körű megismerését követően előterjesztett indítvány végrehajtása érdekében szükséges, és ahhoz a gyanúsított hozzájárul.
 
-(7) Több bűncselekmény miatt vagy több gyanúsított ellen folyamatban lévő eljárásban az (5) bekezdés alkalmazására akkor kerülhet sor, ha a gyanúsított vagy a cselekmény vonatkozásában az eljárás elkülönítésének nincs helye, vagy az az eljárás eredményes lefolytatását veszélyeztetné.
+(7) A nyomozási határidő számítását több gyanúsított esetén minden gyanúsított tekintetében önállóan kell elvégezni. A nyomozás (3) bekezdés szerinti határidejét a gyanúsítottal a gyanúsításban közölt legsúlyosabb bűncselekmény büntetési tételének figyelembe vételével kell kiszámítani.
 
 (8) A (6) bekezdés nem alkalmazható, ha a gyanúsított egy évet meghaladó letartóztatásban van.
 
@@ -8627,7 +8627,7 @@ eredményezi.
 - a) a bíróság nem volt törvényesen megalakítva, vagy a tárgyaláson a tanács tagjai nem voltak mindvégig jelen,
 - b) az ítélet meghozatalában a törvény szerint kizárt bíró vett részt,
 - c) a bíróság a hatáskörét túllépte, katonai büntetőeljárásra vagy más bíróság kizárólagos illetékességébe tartozó ügyet bírált el,
-- d) a tárgyalást olyan személy távollétében tartották meg, akinek a jelenléte a törvény értelmében kötelező,
+- d) a bíróság eljárási cselekményét olyan személy távollétében tartották meg, akinek a jelenléte a törvény értelmében kötelező,
 - e) a bíróság a 492. § (1) bekezdés c)–d) és i) pontjában, valamint a (2) bekezdésében vagy az 567. § (1) bekezdés a)–b) és g) pontjában, valamint (2) bekezdésében meghatározott valamely ok törvénysértő megállapítása miatt az eljárást megszüntette,
 - f) az elsőfokú ítélet indokolása a rendelkező résszel teljes mértékben ellentétes,
 - g) az ítélet szóbeli indokolása során elhangzott és az írásba foglalt ítélet tényállási elemei a bűncselekmény minősítését befolyásoló mértékben térnek el egymástól, és a fellebbezést az 583. § (3) bekezdése alapján jelentették be vagy az eltérés az 584. § (2) bekezdése szerinti fellebbezés esetén a fellebbezéssel nem érintett cselekményre vonatkozik, vagy
@@ -9340,13 +9340,10 @@ terjeszthet elő felülvizsgálati indítványt.
 (2) A Kúria a felülvizsgálati indítvánnyal megtámadott határozatot megváltoztatja, és a törvénynek megfelelő határozatot hoz, ha az alapügyben a bíróság
 
 - a) a büntető anyagi jog szabályainak megsértése miatt állapította meg a terhelt bűnösségét, vagy rendelte el kényszergyógykezelését,
-- b) a bűncselekmény törvénysértő minősítése miatt szabott ki olyan büntetést, illetve alkalmazott olyan intézkedést, amely a felülvizsgálati indítvánnyal megtámadott határozat szerint irányadó büntetési tételkerettől eltérő, törvényes büntetési tételkeretre figyelemmel aránytalanul súlyos vagy aránytalanul enyhe,
-- c) a Btk. 86. § (1) bekezdésében foglalt kizáró ok ellenére függesztette fel a büntetés végrehajtását, vagy
-- d) a súlyosítási tilalom megsértésével hozta meg a határozatát.
-
-(3) A Kúria az (1) és a (2) bekezdés szerint járhat el, ha a felülvizsgálati eljárás lefolytatására az Alkotmánybíróság vagy nemzetközi szerződéssel létrehozott emberi jogi szerv határozata alapján került sor.
-
-(4) A Kúria a terhelt terhére benyújtott felülvizsgálati indítvány esetén a megtámadott határozatot a terhelt javára is megváltoztathatja.
+- b) a bűncselekmény törvénysértő minősítése, illetve a Btk. más szabályának megsértése miatt szabott ki törvénysértő büntetést, alkalmazott törvénysértő intézkedést,
+- c) a bűncselekmény törvénysértő minősítése miatt szabott ki olyan büntetést, illetve alkalmazott olyan intézkedést, amely a felülvizsgálati indítvánnyal megtámadott határozat szerint irányadó büntetési tételkerettől eltérő, törvényes büntetési tételkeretre figyelemmel aránytalanul súlyos vagy aránytalanul enyhe,
+- d) a Btk. 86. § (1) bekezdésében foglalt kizáró ok ellenére függesztette fel a büntetés végrehajtását, vagy
+- e) a súlyosítási tilalom megsértésével hozta meg a határozatát.
 
 663. § (1) A Kúria a felülvizsgálati indítvánnyal megtámadott határozatot hatályon kívül helyezi, és a hatáskörrel és illetékességgel rendelkező bíróságot új eljárásra utasítja, ha
 
@@ -9649,10 +9646,10 @@ vehet részt.
 
 (2) Ha a fiatalkorúval szemben öt évnél súlyosabb szabadságvesztéssel büntetendő bűncselekmény miatt van folyamatban nyomozás, annak határideje a gyanúsítotti kihallgatástól számított két éven túl nem hosszabbítható meg.
 
-(3) Több terhelt esetén, ha a felnőtt korú terhelt ügyének a fiatalkorú ügyétől való elkülönítése kizárt, akkor az ügyben az (1) és (2) bekezdésben meghatározott határidőt a 351. § (5) bekezdésben meghatározott esetben
+(3) Több terhelt esetén, ha a felnőtt korú terhelt ügyének a fiatalkorú ügyétől való elkülönítése kizárt, akkor az ügyben az (1) és (2) bekezdésben meghatározott határidőt a 351. § (6) bekezdésében meghatározott feltételek valamelyikének fennállása esetén
 
-- a) az ügyész legfeljebb hat hónappal,
-- b) a felettes ügyész további hat hónappal
+- a) az ügyészség legfeljebb hat hónappal,
+- b) a felettes ügyészség további hat hónappal
 
 meghosszabbíthatja.
 
@@ -12099,7 +12096,7 @@ rendelhető el.
 - c) egy napi előzetes kényszergyógykezelésben töltött idő felel meg egy napi letartóztatásban töltött időnek,
 - d) a 845. § (4) bekezdése szerinti megállapításánál a végrehajtott büntetéseket és intézkedést a Btk. 92/B. § (2) bekezdésében meghatározottak szerint kell beszámítani.
 
-(2) Több típusú, illetve több szakaszban foganatosított letartóztatás, előzetes kényszergyógykezelés, illetve bűnügyi felügyelet esetén a kártalanítás jogalapjának és mértékének megállapításánál az (1) bekezdés alkalmazásával a bűnügyi felügyelet és az előzetes kényszergyógykezelés idejét letartóztatásra vagy szabadságvesztésre kell átszámítani, majd szükség esetén össze kell számítani az így megállapítható tartamot.
+(2) Több típusú, illetve több szakaszban foganatosított letartóztatás, előzetes kényszergyógykezelés, illetve bűnügyi felügyelet esetén a kártalanítás jogalapjának és mértékének megállapításánál az (1) bekezdés alkalmazásával a bűnügyi felügyelet és az előzetes kényszergyógykezelés idejét letartóztatásra vagy szabadságvesztésre kell átszámítani, majd össze kell számítani az így megállapítható tartamot.
 
 (3) A kártalanítás jogalapját és mértékét a szabadságvesztés végrehajtása felfüggesztésének, illetve a feltételes szabadságra bocsátás lehetőségének a figyelmen kívül hagyásával kell megállapítani.
 
@@ -12123,7 +12120,7 @@ rendelhető el.
 
 (5) Ha a kártalanítást a 845. § (2) bekezdés a), b) vagy d) pontjában, illetve (3) bekezdésében meghatározott ok miatt igénylik, nem jár kártalanítás, ha utóbb rendkívüli jogorvoslat során olyan jogerős ügydöntő határozatot hoznak a terhelttel szemben, amely miatt a kártalanítás a 845. §-ban vagy a 846. §-ban meghatározottak szerint nem jár.
 
-(6) Az (1)–(5) bekezdésben meghatározott esetben a már kifizetett kártalanítást az állam visszaköveteli.
+(6) Az (1)–(5) bekezdésben meghatározott esetben a már kifizetett kártalanítást az állam visszaköveteli. Az állam képviseletében az igazságügyért felelős miniszter jár el.
 
 (7) A (2)–(4) bekezdésben meghatározott esetekben a végrehajtandó szabadságvesztés vagy a kiszabott büntetés tekintetében kártalanításnak a 844. § vagy a 845. § alapján helye lehet. Ilyen esetben, ha kártalanítást kell fizetni, a korábban kifizetett kártalanítási összeget be kell számítani.
 
@@ -12144,6 +12141,7 @@ rendelhető el.
 - a) bűnügyi nyilvántartási rendszer,
 - b) polgárok személyi, lakcím és értesítési cím adatait tartalmazó nyilvántartás,
 - c) központi idegenrendészeti nyilvántartás.
+- d) fogvatartottak nyilvántartása.
 
 (3) A kártalanítási eljárásban a büntetőügyben eljárt bíróság feladatait bírósági titkár is elláthatja.
 
@@ -12155,7 +12153,7 @@ rendelhető el.
 
 (3) A bíróság az egyszerűsített kártalanítási eljárásra irányuló kérelmet annak beérkezését követő egy hónapon belül, érdemi vizsgálat nélkül a büntetőeljárás ügyirataival együtt az igazságügyért felelős miniszternek küldi meg. Amennyiben az ügyiratok megküldése terjedelmi vagy egyéb okból nem teljesíthető, a bíróság az eljárást megszüntető határozatot, az ügydöntő határozatokat, a kényszerintézkedésről szóló határozatokat, a kártalanítást igénylő kihallgatásáról készült jegyzőkönyveket, illetve az egyéb, a kártalanítási igény elbírálása szempontjából lényeges ügyiratokat küldi meg.
 
-(4) Az igazságügyért felelős miniszter a kérelem hozzá való beérkezésétől számított két hónapon belül megvizsgálja, hogy a 845. §-ban meghatározottak alapján a kártalanítási igény megalapozott-e, illetve, hogy nem áll-e fenn kártalanítást kizáró ok. Ha az igazságügyért felelős miniszter álláspontja szerint a kérelem megalapozott, megállapítja a szabadság alaptalan korlátozásáért, illetve elvonásáért járó, kormányrendeletben meghatározottak szerint számított kártalanítási összeget és erről a kártalanítást igénylőt írásban tájékoztatja. A tájékoztatás tartalmazza azt is, hogy a kártalanítási összeg elfogadása esetén az egyszerűsített kártalanítási eljárás írásbeli megállapodással zárul.
+(4) Az igazságügyért felelős miniszter a kérelemnek és az ügy iratainak hozzá való beérkezésétől számított két hónapon belül megvizsgálja, hogy a 845. §-ban meghatározottak alapján a kártalanítási igény megalapozott-e, illetve, hogy nem áll-e fenn kártalanítást kizáró ok. Ha az igazságügyért felelős miniszter álláspontja szerint a kérelem megalapozott, megállapítja a szabadság alaptalan korlátozásáért, illetve elvonásáért járó, kormányrendeletben meghatározottak szerint számított kártalanítási összeget és erről a kártalanítást igénylőt írásban tájékoztatja. A tájékoztatás tartalmazza azt is, hogy a kártalanítási összeg elfogadása esetén az egyszerűsített kártalanítási eljárás írásbeli megállapodással zárul.
 
 (5) Ha az igazságügyért felelős miniszter álláspontja szerint a kérelem nem megalapozott, erről a kártalanítást igénylőt írásban tájékoztatja.
 
@@ -12165,7 +12163,7 @@ rendelhető el.
 
 (8) A kártalanítási összeget a megállapodás írásbeli megkötését követő tizenöt napon belül kell kifizetni.
 
-852. § (1) Ha az egyszerűsített kártalanítási eljárás során a kérelem benyújtását követő öt hónapon belül megállapodás nem jön létre, vagy az igazságügyért felelős miniszter álláspontja szerint a kérelem nem megalapozott, a kártalanítást igénylő a határidő lejártát, illetve a kérelem elfogadhatatlanságáról való tájékoztatást követő két hónapon belül a 853–854. §-a szerinti kártalanítási pert indíthat. Ez a határidő jogvesztő.
+852. § (1) Ha az egyszerűsített kártalanítási eljárás során a kérelem benyújtását követő öt hónapon belül megállapodás nem jön létre, vagy az igazságügyért felelős miniszter álláspontja szerint a kérelem nem megalapozott, a kártalanítást igénylő a határidő lejártát, illetve a kérelem megalapozatlanságáról való tájékoztatást követő két hónapon belül a 853–854. §-a szerinti kártalanítási pert indíthat. Ez a határidő jogvesztő.
 
 (2) A kártalanítási per (1) bekezdés szerinti megindítása esetén a kártalanítást igénylő a keresetlevelet a kártalanítási perre a polgári perrendtartásról szóló törvény szerint hatáskörrel és illetékességgel rendelkező bíróságnál terjeszti elő.
 
@@ -12476,12 +12474,14 @@ az igazságügyért felelős miniszterrel egyetértésben, az Országgyűlési �
 
 (2) Ha a korábbi jogszabály alapján sor került a gyanúsított kihallgatására, a nyomozás korábbi jogszabály szerint meghatározott vagy meghosszabbított határidejének lejártakor kell a nyomozás ügyiratainak ügyészség részére történő bemutatásáról intézkedni.
 
-(2a) A 2025. szeptember 1. napján folyamatban levő büntetőeljárásban a nyomozási határidőket a korábbi jogszabály szerint kell számolni.
+(2a) A 2025. szeptember 1. napját megelőzően indult büntetőeljárásban a nyomozási határidőket a korábbi jogszabály szerint kell számolni.
 
 (2b) A (2a) bekezdésben meghatározott határidő lejártát követően,
 
-- a) ha az ügyészség 2025. szeptember 1. napját megelőzően nem hosszabbította meg a nyomozás határidejét, akkor a 351. § (4) és (6) bekezdésének az alkalmazásának van helye,
-- b) ha az ügyészség 2025. szeptember 1. napját megelőzően már meghosszabbította a nyomozás határidejét akkor a 351. § (5) és (7) bekezdésének az alkalmazásának van helye.
+- a) ha az ügyészség 2025. szeptember 1. napját megelőzően nem hosszabbította meg a nyomozás határidejét, akkor a 351. § (5) bekezdésének az alkalmazásának van helye,
+- b) ha az ügyészség 2025. szeptember 1. napját megelőzően már meghosszabbította a nyomozás határidejét akkor a 351. § (6) és (8) bekezdésének az alkalmazásának van helye.
+
+(2c) Több terhelt esetén, ha a felnőtt korú terhelt ügyének a fiatalkorú ügyétől való elkülönítése kizárt, a 2025. szeptember 1. napját megelőzően indult büntetőeljárásban a 687. § (3) bekezdés alkalmazásának van helye.
 
 (3) E törvénynek a magánindítvány előterjesztésének határidejére vonatkozó szabályát e törvény hatálybalépését követően elkövetett bűncselekmények esetében kell alkalmazni.
 

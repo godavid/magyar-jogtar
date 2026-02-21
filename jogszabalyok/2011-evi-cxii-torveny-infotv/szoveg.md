@@ -309,6 +309,8 @@ biztosításához.
 - g) profilalkotás alkalmazásának esetén annak tényét és
 - h) az érintett személyes adatainak kezelésével összefüggésben felmerült adatvédelmi incidensek bekövetkezésének körülményeit, azok hatásait és az azok kezelésére tett intézkedéseket.
 
+(2a) Ha az érintett személyes adata a minősített adat védelméről szóló törvény szerinti nemzeti minősítésű személyes adatnak minősül, és annak minősítője nem az adatkezelő, illetve a megbízásából vagy rendelkezése alapján eljáró adatfeldolgozó, az adatkezelő megkeresi a minősítőt, hogy folytassa le a minősített adat védelméről szóló törvény szabályai szerint a nemzeti minősített adat felülvizsgálatát, és annak eredményéről tájékoztassa őt. A felülvizsgálatra irányuló megkereséstől a minősítő tájékoztatásának az adatkezelőhöz való beérkezéséig terjedő időtartam a 15. § (1) bekezdés b) pontja szerinti határidőbe nem számít bele.
+
 (3) Az érintett hozzáféréshez való jogának érvényesítését az adatkezelő az elérni kívánt céllal arányosan korlátozhatja vagy megtagadhatja, ha ezen intézkedés elengedhetetlenül szükséges a 16. § (3) bekezdés a)–f) pontjában meghatározott valamely érdek biztosításához.
 
 (4) A (3) bekezdésben foglaltak szerinti intézkedés alkalmazása esetén az adatkezelő írásban, haladéktalanul tájékoztatja az érintettet
@@ -631,7 +633,10 @@ az adatkezelő vagy tevékenysége keretei között az adatfeldolgozó – a (2)
 
 (4) A (3) bekezdésben meghatározott szerv vagy személy a (3) bekezdésben meghatározott adatok megismerésére irányuló igény teljesítése során a 28–31. § szerint jár el.
 
-27. § (1) A közérdekű vagy közérdekből nyilvános adat nem ismerhető meg, ha az a minősített adat védelméről szóló törvény szerinti minősített adat.
+27. § (1) A közérdekű vagy közérdekből nyilvános adat nem ismerhető meg, ha az a minősített adat védelméről szóló törvény szerinti
+
+- a) nemzeti minősített adat és a 29. § (2b) bekezdése szerint kezdeményezett felülvizsgálat eredménye alapján a minősítő a nemzeti minősített adat minősítését fenntartotta, vagy
+- b) külföldi minősített adat.
 
 (2) A közérdekű és közérdekből nyilvános adatok megismeréséhez való jogot – az adatfajták meghatározásával – törvény
 
@@ -680,6 +685,8 @@ korlátozhatja.
 (2) Ha az adatigénylés jelentős terjedelmű, illetve nagyszámú adatra vonatkozik, vagy az adatigénylés teljesítése a közfeladatot ellátó szerv alaptevékenységének ellátásához szükséges munkaerőforrás aránytalan mértékű igénybevételével jár, az (1) bekezdésben meghatározott határidő egy alkalommal 15 nappal meghosszabbítható. Erről az igénylőt az igény beérkezését követő 15 napon belül tájékoztatni kell.
 
 (2a) Ha az igénylés olyan adatra vonatkozik, amelyet az Európai Unió valamely intézménye vagy tagállama állított elő és az az igény teljesíthetőségének vizsgálata érdekében indokolt, az adatkezelő haladéktalanul megkeresi az Európai Unió érintett intézményét vagy tagállamát és erről az igénylőt tájékoztatja. A tájékoztatás megtételétől az Európai Unió érintett intézménye vagy tagállama válaszának az adatkezelőhöz való beérkezéséig terjedő időtartam az adatigénylés teljesítésére rendelkezésre álló határidőbe nem számít bele.
+
+(2b) Ha az igénylés a minősített adat védelméről szóló törvény szerinti nemzeti minősített adatra irányul, és annak minősítője nem az adatkezelő, az adatkezelő megkeresi a minősítőt, hogy folytassa le a minősített adat védelméről szóló törvény szabályai szerint a nemzeti minősített adat felülvizsgálatát, és annak eredményéről tájékoztassa őt. A felülvizsgálatra irányuló megkereséstől a minősítő tájékoztatásának az adatkezelőhöz való beérkezéséig terjedő időtartam az adatigénylés teljesítésére rendelkezésre álló határidőbe nem számít bele.
 
 (3) Az adatokat tartalmazó dokumentumról vagy dokumentumrészről, annak tárolási módjától függetlenül az igénylő másolatot kaphat. Az adatot kezelő közfeladatot ellátó szerv az adatigénylés teljesítéséért – az azzal kapcsolatban felmerült költség mértékéig terjedően – költségtérítést állapíthat meg akkor, ha a felmerült költség mértéke meghaladja a kormányrendeletben meghatározott, költségtérítésként megállapítható legalacsonyabb összeget, azzal, hogy az így meghatározott költségtérítés összege ekkor sem haladhatja meg a kormányrendeletben meghatározott legmagasabb összeget. A költségtérítés összegéről, valamint az adatigénylés teljesítésének a másolatkészítést nem igénylő lehetőségeiről az igénylőt az igény beérkezését követő 15 napon belül tájékoztatni kell.
 
