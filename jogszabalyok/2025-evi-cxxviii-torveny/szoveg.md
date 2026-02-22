@@ -38,14 +38,7 @@ a minősített adat védelméről szóló törvény és ezzel kapcsolatos más t
 
 #### 6. Az elmúlt rendszer titkosszolgálati tevékenységének feltárásáról és az Állambiztonsági Szolgálatok Történeti Levéltára létrehozásáról szóló 2003. évi III. törvény módosítása
 
-9. § Az elmúlt rendszer titkosszolgálati tevékenységének feltárásáról és az Állambiztonsági Szolgálatok Történeti Levéltára létrehozásáról szóló 2003. évi III. törvény 2. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Az 1. § (1) bekezdése szerinti iratokban található minősített adatokat a minősített adat védelméről szóló 2009. évi CLV. törvényben (a továbbiakban: Mavtv.) meghatározottakon túl legalább ötévente felül kell vizsgálni. A felülvizsgálat során annak a minősített adatnak a minősítése tartható fenn, amely
-
-- a) olyan személyre vonatkozik, aki 1990. február 14-e után a nemzetbiztonsági szolgálatok állományába tartozott, vagy azokkal titkosan együttműködött,
-- b) olyan, az 1. §-ban meghatározott szerveknél végzett tevékenységre vonatkozik, amely miatt az érintettet külföldön kiutasítás, beutazási tilalom vagy büntetőeljárás fenyegetné,
-- c) olyan személyre vonatkozik, akinek az 1. §-ban meghatározott szerveknél végzett tevékenysége miatt alaposan feltehető, hogy személyének felfedése esetén e tevékenysége miatt ellene vagy hozzátartozójával szemben az életet, a testi épséget, illetve a személyes szabadságot súlyosan sértő vagy veszélyeztető bűncselekményt követnek el,
-- d) olyan hálózati személy vagy operatív kapcsolat személyazonosságának felfedéséhez vezet, akinek megismerése nyilvánvalóan vagy kimutathatóan sértené Magyarország nemzetbiztonsági érdekeit.”
+#### 9. §
 
 #### 7. Az állami vagyonról szóló 2007. évi CVI. törvény módosítása
 
@@ -59,26 +52,7 @@ a minősített adat védelméről szóló törvény és ezzel kapcsolatos más t
 
 #### 12. §
 
-13. § (1) A minősített adat védelméről szóló 2009. évi CLV. törvény 8. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Ha törvény nem határozza meg a felülvizsgálat lefolytatásának határidejét
-
-- a) a minősítés feltételeiben bekövetkező változás esetén,
-- b) – az (1a) bekezdésben meghatározott kivétellel – az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény 17. §-a szerinti hozzáféréshez való jog érvényesítésére irányuló igény benyújtása esetén, vagy
-- c) – az (1a) bekezdésben meghatározott kivétellel – a minősített adatra vonatkozó közérdekű adat vagy közérdekből nyilvános adat megismerése iránti igény benyújtása esetén
-
-a minősítő felülvizsgálja az általa, a jogelődje vagy más minősítő által készített és a felülvizsgálat időpontjában feladat- és hatáskörébe tartozó nemzeti minősített adatot azzal, hogy a minősítő a felülvizsgálatba szakértőt vonhat be.”
-
-(2) A minősített adat védelméről szóló 2009. évi CLV. törvény 8. §-a a következő (1a) és (1b) bekezdéssel egészül ki:
-
-„(1a) Nem kell a nemzeti minősített adatot ismételten felülvizsgálni az (1) bekezdés b) vagy c) pontja szerinti esetben, ha annak (1) bekezdés b) vagy c) pontja szerinti felülvizsgálatára 1 éven belül már sor került, és nem következett be változás a minősítés feltételeiben.
-
-(1b) A nemzeti minősített adat
-
-- a) (1) bekezdés a) pontja szerinti felülvizsgálatát haladéktalanul,
-- b) (1) bekezdés b) vagy c) pontja szerinti felülvizsgálatát 21 napon belül
-
-kell lefolytatni.”
+#### 13. §
 
 #### 14. §
 
@@ -98,22 +72,11 @@ kell lefolytatni.”
 
 #### 12. Az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény módosítása
 
-20. § Az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény 17. §-a a következő (2a) bekezdéssel egészül ki:
+#### 20. §
 
-„(2a) Ha az érintett személyes adata a minősített adat védelméről szóló törvény szerinti nemzeti minősítésű személyes adatnak minősül, és annak minősítője nem az adatkezelő, illetve a megbízásából vagy rendelkezése alapján eljáró adatfeldolgozó, az adatkezelő megkeresi a minősítőt, hogy folytassa le a minősített adat védelméről szóló törvény szabályai szerint a nemzeti minősített adat felülvizsgálatát, és annak eredményéről tájékoztassa őt. A felülvizsgálatra irányuló megkereséstől a minősítő tájékoztatásának az adatkezelőhöz való beérkezéséig terjedő időtartam a 15. § (1) bekezdés b) pontja szerinti határidőbe nem számít bele.”
+#### 21. §
 
-21. § (1) Az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény 27. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A közérdekű vagy közérdekből nyilvános adat nem ismerhető meg, ha az a minősített adat védelméről szóló törvény szerinti
-
-- a) nemzeti minősített adat és a 29. § (2b) bekezdése szerint kezdeményezett felülvizsgálat eredménye alapján a minősítő a nemzeti minősített adat minősítését fenntartotta, vagy
-- b) külföldi minősített adat.”
-
-(2)
-
-22. § Az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény 29. §-a a következő (2b) bekezdéssel egészül ki:
-
-„(2b) Ha az igénylés a minősített adat védelméről szóló törvény szerinti nemzeti minősített adatra irányul, és annak minősítője nem az adatkezelő, az adatkezelő megkeresi a minősítőt, hogy folytassa le a minősített adat védelméről szóló törvény szabályai szerint a nemzeti minősített adat felülvizsgálatát, és annak eredményéről tájékoztassa őt. A felülvizsgálatra irányuló megkereséstől a minősítő tájékoztatásának az adatkezelőhöz való beérkezéséig terjedő időtartam az adatigénylés teljesítésére rendelkezésre álló határidőbe nem számít bele.”
+#### 22. §
 
 #### 13. A Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészeti és katonai felsőoktatásról szóló 2011. évi CXXXII. törvény módosítása
 
