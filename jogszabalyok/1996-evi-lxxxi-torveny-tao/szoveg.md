@@ -45,7 +45,7 @@ Az állami feladatok ellátásához szükséges bevételek biztosítása, a vál
 (4) Adóalany a külföldi személy, illetve az üzletvezetése helye alapján külföldi illetőségű, ha
 
 - a) belföldi telephelyen végez vállalkozási tevékenységet, feltéve, hogy az üzletvezetésének helyére tekintettel nem tekinthető belföldi illetőségű adózónak (a továbbiakban: külföldi vállalkozó);
-- b)
+- b) belföldön sportfióktelepen keresztül végez tevékenységet;
 - c) ingatlannal rendelkező társaságban meglévő részesedésének elidegenítése vagy kivonása révén szerez jövedelmet (a továbbiakban: ingatlannal rendelkező társaság tagja).
 
 (5) Nem alanya a társasági adónak az 5. számú mellékletben felsorolt szervezet.
@@ -290,6 +290,7 @@ feltéve, hogy az átalakulást valós gazdasági, kereskedelmi okok alapozzák 
 - 58. strukturált jogügylet: az ugyanazon tényállás államok közötti eltérő jogi minősítéséből eredő különbséggel járó megállapodás, amely esetében ez a különbség a megállapodás árazásának részét vagy a megállapodás célját képezte, kivéve, ha ezen tényt a megállapodásban részes fél nem ismerte vagy az elvárható gondosság mellett nem kellett ismernie és nem részesedett az abból származó adómegtakarítás értékéből;
 - 59. hibrid gazdálkodó szervezet: olyan szervezet vagy struktúra, amely egy adott adójogrendszer értelmében adózó gazdálkodó szervezetnek minősül, és amelynek jövedelmét vagy költségeit, ráfordításait egy másik adójogrendszer egy vagy több másik személy jövedelmeként vagy költségeiként, ráfordításaiként kezeli;
 - 60. önálló adóalanyként figyelembe nem vett állandó telephely: olyan tevékenység, amelyet annak az államnak az adójogrendszere szerint, ahol az adózó belföldi illetőségűnek minősül, úgy vesznek figyelembe, mint amely külföldi állandó telephelyet keletkeztet, de az érintett külföldi adójogrendszer szabályai értelmében nem minősül állandó telephelynek.
+- 61. sportfióktelep: a sportról szóló törvényben ekként meghatározott szervezet.
 
 ## MÁSODIK RÉSZ — A TÁRSASÁGI ADÓ
 
@@ -317,9 +318,9 @@ feltéve, hogy az átalakulást valós gazdasági, kereskedelmi okok alapozzák 
 
 (8) A társasági adóbevallást magyar nyelven, forintban kell elkészíteni. A beszámolót, könyvvezetést konvertibilis devizában készítő adózó a társasági adóbevallás adatait a Magyar Nemzeti Bank hivatalos – az adóév utolsó napján érvényes – devizaárfolyamának alapulvételével számítja át forintra. Olyan külföldi pénznem esetében, amelynek nincs a Magyar Nemzeti Bank által jegyzett árfolyama, a Magyar Nemzeti Bank által az adóév utolsó napjára vonatkozóan közzétett, euróban megadott árfolyamot kell a forintra történő átszámításkor figyelembe venni. Ugyanígy kell eljárni minden más esetben, ha az átszámításra a számviteli törvény előírása nem vonatkozik.
 
-(8a) A társasági adóbevallás helyett az adóévet követő év május 31-éig – bevallást helyettesítő nyomtatványon – nyilatkozatot tesz az alapítvány, a közalapítvány, az egyesület, a köztestület, az egyházi jogi személy, a lakásszövetkezet, az önkéntes kölcsönös biztosítópénztár, a közhasznú szervezetként besorolt felsőoktatási intézmény, az európai területi társulás, a foglalkoztatói nyugdíjszolgáltató intézmény, feltéve, hogy az adóévben vállalkozási tevékenységből (az önkéntes kölcsönös biztosítópénztár kiegészítő vállalkozási tevékenységéből) származó bevételt nem ér el, vagy e tevékenységéhez kapcsolódóan költséget, ráfordítást nem számol el, továbbá az adóév utolsó napján egyházi jogi személynek minősülő adózó, ha vállalkozási tevékenységet nem folytat.
+(8a) A társasági adóbevallás helyett az adóévet követő év május 31-éig – bevallást helyettesítő nyomtatványon – nyilatkozatot tesz az alapítvány, a közalapítvány, az egyesület, a sportfióktelep, a köztestület, az egyházi jogi személy, a lakásszövetkezet, az önkéntes kölcsönös biztosítópénztár, a közhasznú szervezetként besorolt felsőoktatási intézmény, az európai területi társulás, a foglalkoztatói nyugdíjszolgáltató intézmény, feltéve, hogy az adóévben vállalkozási tevékenységből (az önkéntes kölcsönös biztosítópénztár kiegészítő vállalkozási tevékenységéből) származó bevételt nem ér el, vagy e tevékenységéhez kapcsolódóan költséget, ráfordítást nem számol el, továbbá az adóév utolsó napján egyházi jogi személynek minősülő adózó, ha vállalkozási tevékenységet nem folytat.
 
-(8b) Ha az alapítvány, a közalapítvány, az egyesület, a köztestület az adóévre vonatkozóan alkalmazza a 9. § (2) bekezdés f) pontját, vagy a 9. § (3) bekezdés c) és d) pontját, akkor a (8a) bekezdésben foglaltaktól eltérően társasági adóbevallást nyújt be.
+(8b) Ha az alapítvány, a közalapítvány, az egyesület, a sportfióktelep, a köztestület az adóévre vonatkozóan alkalmazza a 9. § (2) bekezdés f) pontját, vagy a 9. § (3) bekezdés c) és d) pontját, akkor a (8a) bekezdésben foglaltaktól eltérően társasági adóbevallást nyújt be.
 
 (9) Az ingatlannal rendelkező társaság tagjának adókötelezettsége az ingatlannal rendelkező társaságban lévő részesedés elidegenítésének, a jegyzett tőke tőkekivonás útján történő leszállításának napján keletkezik.
 
@@ -354,7 +355,7 @@ feltéve, hogy az átalakulást valós gazdasági, kereskedelmi okok alapozzák 
 
 (3e) A csoporttag jogutódja a csoportos társasági adóalany tagjaként alakul meg, kivéve, ha már megalakulásakor sem felel meg a tagságra előírt összes feltételnek.
 
-(4) Az alapítvány, a közalapítvány, az egyesület, a köztestület, az egyházi jogi személy, ha az adóév utolsó napján ilyen jogalanynak minősül, a lakásszövetkezet, az önkéntes kölcsönös biztosító pénztár, az MRP, a közhasznú nonprofit gazdasági társaság, a közhasznú szervezetként besorolt felsőoktatási intézmény, a szociális szövetkezet, továbbá a vízitársulat és a külföldi vállalkozó az (1)–(2) bekezdés rendelkezéseit a 9-14. §-ok figyelembevételével alkalmazza, feltéve, hogy az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény megfelelő alkalmazásával elsődlegesen gazdasági-vállalkozási tevékenységet végző szervezetnek nem minősül.
+(4) Az alapítvány, a közalapítvány, az egyesület, a sportfióktelep, a köztestület, az egyházi jogi személy, ha az adóév utolsó napján ilyen jogalanynak minősül, a lakásszövetkezet, az önkéntes kölcsönös biztosító pénztár, az MRP, a közhasznú nonprofit gazdasági társaság, a közhasznú szervezetként besorolt felsőoktatási intézmény, a szociális szövetkezet, továbbá a vízitársulat és a külföldi vállalkozó az (1)–(2) bekezdés rendelkezéseit a 9-14. §-ok figyelembevételével alkalmazza, feltéve, hogy az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény megfelelő alkalmazásával elsődlegesen gazdasági-vállalkozási tevékenységet végző szervezetnek nem minősül.
 
 (4a)
 
@@ -690,6 +691,8 @@ azzal, hogy az e pontban foglaltakat a jótállási időn belül cserére vissza
 (10a) A (8), a (9) és a (10) bekezdés hatálya alá tartozó adózó az adóalap megállapítása során figyelmen kívül hagyja a (2) bekezdés d) és f) pontja, a (3) bekezdés b) pont bb) alpontja, a (3) bekezdés c) és d) pontja szerinti rendelkezéseket.
 
 (11) Abban az adóévben, amelyben az alapítvány, a közalapítvány, az egyesület, a köztestület az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény szerint elsődlegesen gazdasági-vállalkozási tevékenységű szervezetnek minősül, a társasági adó alapja – az (1)–(9) bekezdéstől eltérően – az adózás előtti eredmény, módosítva a 7–8. §-ban, a 16. §-ban, a 18. §-ban és a 28. §-ban, valamint a VII. Fejezetben foglaltakkal.
+
+(12) A sportfióktelep az adóalapot e § egyesületre vonatkozó rendelkezéseinek alkalmazásával állapítja meg.
 
 ### Az iskolaszövetkezet, kisgyermekkel otthon lévők szövetkezete és a közérdekű nyugdíjas szövetkezet adóalapja
 
@@ -1255,7 +1258,7 @@ kapcsolatban az adóévi adózás előtti eredmény terhére elszámolt ráford�
 
 20. § (1) Nem kell az adót megfizetnie
 
-- a) a közhasznú szervezetnek nem minősülő alapítványnak, közalapítványnak, egyesületnek (ide nem értve az országos érdekképviseleti szervezetet), köztestületnek, továbbá a lakásszövetkezetnek, ha – a gazdálkodására vonatkozó külön jogszabályok előírása szerint és a 9. § (1a)–(1b) bekezdésében, továbbá a 6. számú mellékletben foglaltakat figyelembe véve nyilvántartott – vállalkozási tevékenységből származó, a 9. § (3) bekezdés c) pontja szerinti összeggel növelt bevétele legfeljebb 10 millió forint, de nem haladja meg az adóévben elért összes bevételének 10 százalékát,
+- a) a közhasznú szervezetnek nem minősülő alapítványnak, közalapítványnak, egyesületnek (ide nem értve az országos érdekképviseleti szervezetet), sportfióktelepnek, köztestületnek, továbbá a lakásszövetkezetnek, ha – a gazdálkodására vonatkozó külön jogszabályok előírása szerint és a 9. § (1a)–(1b) bekezdésében, továbbá a 6. számú mellékletben foglaltakat figyelembe véve nyilvántartott – vállalkozási tevékenységből származó, a 9. § (3) bekezdés c) pontja szerinti összeggel növelt bevétele legfeljebb 10 millió forint, de nem haladja meg az adóévben elért összes bevételének 10 százalékát,
 - b) a természetes személlyel mint bizalmi vagyonrendelővel kötött bizalmi vagyonkezelési szerződés alapján a bizalmi vagyonkezelő által kizárólag természetes személy mint kedvezményezett javára kezelt vagyonnak, valamint a kizárólag természetes személy mint kedvezményezett javára történő vagyoni juttatás céljából természetes személy által alapított vagyonkezelő alapítványnak, ha az adóévben csak befektetett pénzügyi eszközök, követelések, értékpapírok vagy pénzeszközök átvétele, birtoklása, hasznainak szedése vagy ilyen eszközzel kapcsolatos rendelkezési joga gyakorlása révén szerzett bevételt, azzal, hogy a kezelt vagyonra vonatkozó rendelkezés alkalmazásakor a természetes személy kedvezményezettel esik egy tekintet alá a kizárólag természetes személy mint kedvezményezett javára történő vagyoni juttatás céljából természetes személy által alapított vagyonkezelő alapítvány,
 - c) az önkéntes kölcsönös biztosító pénztárnak, amennyiben a pénztár kiegészítő vállalkozási tevékenységből származó bevétele nem haladja meg a pénztár összes bevételének a 20 százalékát,
 - d) a vízitársulatnak az (5) bekezdésben – 2009. július 1-jétől a (6) bekezdésben – foglaltak szerinti adóalapra számított adónak olyan része után, amelyet a közfeladatként végzett tevékenységből elért bevétele képvisel az összes bevételen belül,
@@ -2118,7 +2121,7 @@ akkor a látvány-csapatsport országos sportági szakszövetsége az adózó é
 
 (10)
 
-(11) Nem kell az (1)–(9) bekezdés rendelkezéseit alkalmaznia az adózónak megszűnésekor, valamint, ha adóbevallást a cégbejegyzési eljárás befejezése miatt ad be, továbbá az MRP-nek, az ingatlannal rendelkező társaság tagjának, a közhasznú nonprofit gazdasági társaságnak, a vízitársulatnak, az alapítványnak, a közalapítványnak, az egyesületnek, a köztestületnek, az egyházi jogi személynek, a lakásszövetkezetnek, a közhasznú szervezetként besorolt felsőoktatási intézménynek, az önkéntes kölcsönös biztosítópénztárnak, a szociális szövetkezetnek, a közérdekű nyugdíjas szövetkezetnek, a kisgyermekkel otthon lévők szövetkezetének és az iskolaszövetkezetnek.
+(11) Nem kell az (1)–(9) bekezdés rendelkezéseit alkalmaznia az adózónak megszűnésekor, valamint, ha adóbevallást a cégbejegyzési eljárás befejezése miatt ad be, továbbá az MRP-nek, az ingatlannal rendelkező társaság tagjának, a közhasznú nonprofit gazdasági társaságnak, a vízitársulatnak, az alapítványnak, a közalapítványnak, az egyesületnek, a sportfióktelepnek, a köztestületnek, az egyházi jogi személynek, a lakásszövetkezetnek, a közhasznú szervezetként besorolt felsőoktatási intézménynek, az önkéntes kölcsönös biztosítópénztárnak, a szociális szövetkezetnek, a közérdekű nyugdíjas szövetkezetnek, a kisgyermekkel otthon lévők szövetkezetének és az iskolaszövetkezetnek.
 
 (12)
 

@@ -246,6 +246,16 @@ szükséges, az eljáró jogi képviselő megkövetelheti a cégalapításhoz ka
 
 (4) Az Európai Unió tagállamának állampolgára vagy az Európai Unió tagállamában bejegyzett jogi személy vagy egyéb szervezet által alapított korlátolt felelősségű társaság, valamint az Európai Unió tagállamában bejegyzett társaság által alapított külföldi vállalkozás magyarországi fióktelepe kérheti az e törvény szerinti, az online alapított cég bejegyzésére vonatkozó rendelkezések alkalmazását akkor is, ha az (1) bekezdés a) és b) pontja szerinti feltétel kizárólag a (3) bekezdés alkalmazása miatt nem teljesült.
 
+### 10. CÍM — SPORTFIÓKTELEP
+
+9/H. § (1) A sportról szóló 2004. évi I. törvény szerinti sportfióktelepre e törvénynek a külföldi vállalkozás magyarországi fióktelepére vonatkozó előírásait kell alkalmazni, ha e törvény másként nem rendelkezik.
+
+(2) Sportfióktelep esetén a külföldi vállalkozás alatt a sportfióktelepet alapító nemzetközi sportszervezetet kell érteni.
+
+(3) A cégbíróság a sportfióktelepet a 27. § (8) bekezdése szerinti cégformák között veszi nyilvántartásba azzal, hogy sportfióktelep esetén a cégjegyzék a 24–26. §-ban meghatározottakon túl a 27. § (8b) bekezdésében meghatározott adatokat is tartalmazza.
+
+(4) A sportfióktelep a 30. § (1a) bekezdése szerinti európai egyedi azonosítót nem kap. A sportfióktelepre a 9/G. § és a 49. § rendelkezései nem alkalmazandók.
+
 ### II. Fejezet — A CÉGNYILVÁNTARTÁS NYILVÁNOSSÁGA
 
 ÉS KÖZHITELESSÉGE
@@ -663,6 +673,13 @@ megismerhetők.
 - d) ha a külföldi vállalkozás az Európai Unió más tagállamában bejegyzett vállalkozás, a cég EUID-ját;
 
 (8a) A cégbíróság a tagállami cégnyilvántartások összekapcsolására szolgáló rendszeren keresztül kapott értesítés alapján hivatalból jegyzi be az EUID-val rendelkező külföldi vállalkozás magyarországi fióktelepe cégjegyzékében a külföldi vállalkozás cégjegyzékben nyilvántartott adatainak változását, továbbá a céginformációs szolgálat informatikai rendszere segítségével gondoskodik a külföldi vállalkozás számviteli beszámolójának közzétételéről.
+
+(8b) Sportfióktelep esetében a (8) bekezdéstől eltérően:
+
+- a) a nemzetközi sportszervezet nevét, szervezeti formáját, nyilvántartási számát és székhelyét,
+- b) a nemzetközi sportszervezet nyilvántartását vezető bíróság, illetve hatóság megnevezését és székhelyét,
+- c) a nemzetközi sportszervezet képviseletére jogosult személy vagy szerv nevét, természetes személy esetén lakóhelyét, anyja születési nevét, jogi személy esetén székhelyét, nyilvántartási számát, a jogviszony keletkezésének és megszűnésének időpontját,
+- d) azt a tényt, hogy a cég a sportról szóló 2004. évi I. törvény szerint alapított sportfióktelep.
 
 (9) Külföldiek magyarországi közvetlen kereskedelmi képviselete esetében
 
@@ -2525,6 +2542,8 @@ c) a fióktelep megszűnéséhez az erről hozott alapítói határozat és anna
 
 d) a külföldi vállalkozás megszűnése közzétételét igazoló lappéldány kivonata;
 
+e) sportfióktelep alapításakor a sportról szóló 2004. évi I. törvény 18/B. § (2) bekezdése szerinti miniszteri támogató nyilatkozat;
+
 7. külföldiek közvetlen kereskedelmi képviselete esetén
 
 a) a képviseletet létesítő, valamint annak képviselőjét kijelölő határozat és annak hiteles magyar nyelvű fordítása,
@@ -2749,11 +2768,11 @@ db)
 
 dc) a vezető tisztségviselő nyilatkozata a várható költségekről, és azon kedvezményekről, amelyeket a társaság a működési forma változására tekintettel biztosít;
 
-3. külföldi vállalkozás magyarországi fióktelepe esetén
+3. külföldi vállalkozás magyarországi fióktelepe (sportfióktelep) esetén
 
-a) a külföldi vállalkozás létesítő okirata, illetve annak a változásokkal egységes szerkezetbe foglalt szövege,
+a) a külföldi vállalkozás – sportfióktelep esetén az alapító nemzetközi sportszervezet – létesítő okirata, illetve annak a változásokkal egységes szerkezetbe foglalt szövege,
 
-b) a külföldi vállalkozás joga szerinti kereskedelmi nyilvántartásba történt felvételét igazoló okirat, valamint ennek hiteles magyar nyelvű fordítása;
+b) a külföldi vállalkozás joga szerinti kereskedelmi nyilvántartásba – sportfióktelep esetén az alapító nemzetközi sportszervezet joga szerinti nyilvántartásba – történt felvételét igazoló okirat, valamint ennek hiteles magyar nyelvű fordítása;
 
 4. külföldiek közvetlen kereskedelmi képviselete esetén
 

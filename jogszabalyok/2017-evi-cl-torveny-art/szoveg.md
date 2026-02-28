@@ -108,7 +108,7 @@ E törvény és – ha törvény másként nem rendelkezik – az adóról és a
 - 17. elszámolás: a fizetési kötelezettség nyilvántartása, megfizetése, kiutalása, visszatérítése, visszaigénylése, átvezetése, ideiglenesen eredménytelen végrehajtása miatti kezelése, illetve a megállapításához vagy végrehajtásához való jog elévülése miatti törlése,
 - 17a. e-nyugta: az Áfa tv. szerinti e-nyugta,
 - 17b. e-pénztárgép: az Áfa tv. szerinti e-pénztárgép,
-- 18. fióktelep: a külföldi székhelyű vállalkozások magyarországi fióktelepeiről és kereskedelmi képviseleteiről szóló törvényben meghatározott fióktelep,
+- 18. fióktelep: a külföldi székhelyű vállalkozások magyarországi fióktelepeiről és kereskedelmi képviseleteiről szóló törvényben meghatározott fióktelep és a sportról szóló törvény szerinti sportfióktelep,
 - 19. föld: a mező- és erdőgazdasági földek forgalmáról szóló törvény szerinti mező-, erdőgazdasági hasznosítású föld,
 - 20. gazdálkodó szervezet: a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény (a továbbiakban: Csőd tv.) 3. § (1) bekezdés a) pontja szerinti gazdálkodó szervezet,
 - 21. gépjármű: az útdíjköteles gépjármű és az annál kisebb össztömegű gépjármű, ideértve a tehergépkocsit, a vontatót – nyerges vontatót is –, valamint az ilyen gépjárműből és az általa vontatott pótkocsiból, félpótkocsiból álló járműszerelvényt,

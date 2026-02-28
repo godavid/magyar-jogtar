@@ -3915,6 +3915,8 @@ c) a nemzetközi sportszövetséggel foglalkoztatásra irányuló jogviszonyban 
 
 7.49. az UEFA Bajnokok Ligája (UEFA Champions League) 2026. évi döntőjével összefüggésben az Európai Labdarúgó Szövetséggel (a továbbiakban: UEFA), az UEFA tulajdonában álló gazdasági társasággal, a rendező vagy részt vevő nemzeti sportszövetséggel, sportszervezettel munkaviszonyban vagy egyéb munkaviszony jellegű szerződéses jogviszonyban álló magánszemély (különösen: UEFA-tisztségviselők, versenybírók, sportolók, önkéntesek, sportszervezetek képviselői) részére adott juttatás (különösen: napidíj, bónusz, felmerült költségek megtérítése, pénzdíjak, átadott formaruhák, természetben biztosított ellátás, valamint a versenyekhez kapcsolódóan adott promóciós jellegű juttatások).
 
+7.50. a sportról szóló törvény szerint Magyarországon nyilvántartásba vett sportfióktelep által foglalkoztatott személy külföldi kiküldetésére tekintettel fizetett napidíj.
+
 8. A nem pénzben kapott juttatások közül adómentes:
 
 8.1. az állam, a helyi önkormányzat vagy az egyházi jogi személy forrásából nyújtott oktatási, egészségügyi és szociális ellátás (ideértve a gyermek, a tanuló, a beteg, illetve a szociális ellátásra jogosult részére ingyenesen vagy kedvezményesen természetben biztosított étkeztetést is) azzal, hogy az üdültetés és a gyógyüdültetés nem minősül egészségügyi, illetőleg szociális ellátásnak;
