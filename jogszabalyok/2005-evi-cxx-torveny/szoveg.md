@@ -67,7 +67,9 @@ b) a hivatásos sportoló, sportmunkatárs, valamint a sportról szóló 2004. �
 
 c) a sportról szóló törvény szerint Magyarországon nyilvántartásba vett nemzetközi sportszövetség által foglalkoztatott magánszemély (a továbbiakban: nemzetközi sportszövetség munkavállalója).
 
-(3d) A (2) bekezdésben előírt szabályoktól függetlenül a nemzetközi sportszövetség munkavállalója a külföldi pénznemben megszerzett bevételére is alkalmazhatja e törvény előírásait, feltéve, hogy tevékenységét nem kizárólag belföldön látja el. A külföldi pénznemben megszerzett bevétel forintra történő átszámítására az Szja tv. 5. és 6. §-ában foglalt szabályokat kell alkalmazni.
+d) a sportról szóló törvény szerint Magyarországon nyilvántartásba vett sportfióktelep (a továbbiakban: sportfióktelep) által foglalkoztatott, továbbá a sportfióktelep által kifizetett jövedelem vonatkozásában a sportfióktelephez a külföldi nemzetközi sportszervezettől kiküldött, kirendelt magánszemély (a továbbiakban együtt: sportfióktelep munkavállalója).
+
+(3d) A (2) bekezdésben előírt szabályoktól függetlenül a nemzetközi sportszövetség, a sportfióktelep munkavállalója a külföldi pénznemben megszerzett bevételére is alkalmazhatja e törvény előírásait, feltéve, hogy tevékenységét nem kizárólag belföldön látja el. A külföldi pénznemben megszerzett bevétel forintra történő átszámítására az Szja tv. 5. és 6. §-ában foglalt szabályokat kell alkalmazni.
 
 (4) A (2) bekezdésben említett összeghatár
 
@@ -81,7 +83,7 @@ d) az a)–b) pontban említett összeghatár helyett
 
 da) évi 500 millió forint, ha a magánszemély az adóévben az országos sportági szakszövetség, országos sportági szövetség első osztályú versenyrendszerében induló sportszervezet hivatásos sportolója,
 
-db) évi 250 millió forint, ha a magánszemély az országos sportági szakszövetség, országos sportági szövetség első osztályú versenyrendszerében induló sportszervezet edzője, vagy az országos sportági szakszövetség, országos sportági szövetség edzője, válogatott vezetőedzője (szövetségi kapitánya), vagy a nemzetközi sportszövetség munkavállalója
+db) évi 250 millió forint, ha a magánszemély az országos sportági szakszövetség, országos sportági szövetség első osztályú versenyrendszerében induló sportszervezet edzője, vagy az országos sportági szakszövetség, országos sportági szövetség edzője, válogatott vezetőedzője (szövetségi kapitánya), vagy a nemzetközi sportszövetség, a sportfióktelep munkavállalója
 
 azzal, hogy ha a magánszemély általános forgalmi adó fizetésére kötelezett, az összeghatáron az általános forgalmi adóval csökkentett bevétel értendő.
 
@@ -227,3 +229,5 @@ minősül.
 (2) A 2017. szeptember 1-jét követően kifizetett jövedelmekre a sportvállalkozásokat érintő egyes adózási tárgyú törvények módosításáról szóló 2017. évi CLXIII. törvény hatálybalépését megelőzően megállapított egyszerűsített közteherviselési hozzájárulási kötelezettség az önellenőrzésre vonatkozó szabályok szerint helyesbíthető.
 
 14/G. § A nemzetközi sportszövetség munkavállalója a sportról szóló törvény 30/B. § (3) bekezdése szerinti kérelem benyújtásától kezdődően megszerzett bevételére választhatja e törvény előírásait azzal, hogy a kérelem benyújtásának időpontjától a nemzetközi sportszövetség adószámának kiadásáig terjedő időszakban a nemzetközi sportszövetség által juttatott bevételek utáni adókötelezettségeket a nemzetközi sportszövetség adószámának megállapítása hónapjának kötelezettségeként kell teljesíteni.
+
+14/H. § A sportfióktelep munkavállalója a sportról szóló 2004. évi I. törvény 18/B. § (2) bekezdése szerinti kérelem benyújtásától kezdődően megszerzett bevételére választhatja az ekhót azzal, hogy a kérelem benyújtásának időpontjától a sportfióktelep adószámának kiadásáig terjedő időszakban a sportfióktelep által juttatott bevételek utáni adókötelezettségeket annak a hónapnak kötelezettségeként kell teljesítenie, amelyik hónapban a sportfióktelep adószámát kiadták.

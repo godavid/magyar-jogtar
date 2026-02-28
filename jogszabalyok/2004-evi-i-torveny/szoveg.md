@@ -358,7 +358,7 @@ szabható ki.
 
 ### A sportszervezetek típusai
 
-15. § (1) Sportszervezetek a sportegyesületek, a sportvállalkozások, a sportiskolák, valamint az utánpótlás-nevelés fejlesztését végző alapítványok.
+15. § (1) Sportszervezetek a sportegyesületek, a sportvállalkozások, sportfióktelep, a sportiskolák, valamint az utánpótlás-nevelés fejlesztését végző alapítványok.
 
 (2) A sportszervezetekre vonatkozó szabályokat megfelelően alkalmazni kell:
 
@@ -404,11 +404,37 @@ szabható ki.
 
 ### A sportvállalkozás
 
-18. § (1) Sportvállalkozásnak minősül az a gazdasági társaság, amelynek a cégnyilvántartásról, a cégnyilvánosságról és a bírósági cégeljárásról szóló törvény alapján a cégjegyzékbe bejegyzett tevékenysége sporttevékenység, továbbá a gazdasági társaság célja sporttevékenység szervezése, valamint a sporttevékenység feltételeinek megteremtése egy vagy több sportágban.
+18. § (1) Sportvállalkozásnak minősül az a gazdasági társaság, amelynek a cégnyilvántartásról, a cégnyilvánosságról és a bírósági cégeljárásról szóló 2006. évi V. törvény (a továbbiakban: Ctv.) alapján a cégjegyzékbe bejegyzett tevékenysége sporttevékenység, továbbá a gazdasági társaság célja sporttevékenység szervezése, valamint a sporttevékenység feltételeinek megteremtése egy vagy több sportágban.
 
 (2) Sportvállalkozás korlátolt felelősségű társasági, illetve részvénytársasági formában alapítható, illetve működhet a gazdasági társaságokról szóló törvény szabályai szerint.
 
 (3)
+
+### A sportfióktelep
+
+18/A. § (1) A sportfióktelep a Nemzetközi Olimpiai Bizottság által nemzetközi sportszervezetként elismert külföldi szervezet (a továbbiakban: sportfióktelepet alapító nemzetközi sportszervezet) jogi személyiséggel nem rendelkező, gazdálkodási önállósággal felruházott szervezeti egysége.
+
+(2) A sportfióktelep elsődleges tevékenységként a sportfióktelepet alapító nemzetközi sportszervezet létesítő okiratában meghatározott tevékenységet, illetve az alapítói tevékenységet támogató háttértevékenységet végez.
+
+(3) A sportfióktelep az elsődleges tevékenységével közvetlenül összefüggő gazdasági tevékenységet is végezhet.
+
+(4) A sportfióktelep közvetlenül részesíthető állami támogatásban.
+
+(5) A sportfióktelepre a külföldi székhelyű vállalkozások magyarországi fióktelepeiről és kereskedelmi képviseleteiről szóló 1997. évi CXXXII. törvény (a továbbiakban: Ftv.) 3. §-ában, 4. § (2) bekezdésében, 6. §-ában, 9. §-ában, 10. §-ában, 11. § (1), (2) és (5) bekezdésében, 12–15. §-ában, valamint 17–23. §-ában foglaltakat kell alkalmazni azzal, hogy ahol az Ftv. külföldi vállalkozást említ, azon a sportfióktelepet alapító nemzetközi sportszervezetet, és ahol fióktelepet említ, azon a sportfióktelepet kell érteni.
+
+(6) Ha jogszabály a sportfióktelepre rendelkezést nem tartalmaz, akkor a sportfióktelepre – e törvényben foglalt eltérésekkel – a külföldi vállalkozás magyarországi fióktelepére vonatkozó jogszabályi előírásokat kell alkalmazni.
+
+18/B. § (1) A sportfióktelep a cégnyilvántartásba való bejegyzéssel jön létre, a tevékenységét a cégbejegyzést követően kezdheti meg.
+
+(2) A sportfióktelep alapítására a kiemelt nemzetközi sport- és sportdiplomáciai események rendezéséért felelős miniszter, valamint a sportpolitikáért felelős miniszter együttes támogató nyilatkozata (a továbbiakban: miniszteri támogató nyilatkozat) alapján kerülhet sor. A miniszteri támogató nyilatkozatot mellékelni kell a sportfióktelep cégbejegyzési kérelméhez.
+
+(3) A miniszteri támogató nyilatkozatot a sportfióktelepet alapító nemzetközi sportszervezet kérelmének kézhezvételétől számított 30 napon belül kell kiállítani vagy ebben a határidőben nyilatkozni kell a kérelem elutasításáról.
+
+(4) A sportfióktelep létesítő okiratában a sportfióktelep tevékenységeit a 18/A. § (2)–(3) bekezdésére figyelemmel kell megállapítani. A 18/A. § (2) bekezdése szerinti tevékenységek a sportfióktelep gazdálkodására vonatkozó szabályok alkalmazásakor az alapcél szerinti tevékenységnek minősülnek.
+
+(5) A cégbíróság a sportfióktelep létesítő okiratának törvényességi szempontú vizsgálata során a 18/A. §-nak és a 18/C. §-nak való megfelelést, valamint azt vizsgálja, hogy az tartalmaz-e olyan rendelkezést, amely a közrendbe ütközik, vagy amelynek alkalmazása nyilvánvalóan és súlyosan sértené a magyar jogrendszer alapvető értékeit és alkotmányos elveit.
+
+18/C. § A sportfióktelep gazdálkodására és könyvvezetésére a Civil tv. V. és VI. Fejezetét kell – az e törvényben foglalt eltérésekkel – alkalmazni azzal, hogy a számvitelről szóló törvény szerinti beszámolót a Ctv. 18. és 19. §-a szerint kell letétbe helyezni és közzétenni.
 
 ### III. Fejezet — AZ ORSZÁGOS SPORTÁGI SZAKSZÖVETSÉGEK
 
@@ -703,7 +729,7 @@ szabható ki.
 
 30/B. § (1) A nemzetközi sportszövetség kérelmeit az erre a célra rendszeresített űrlapon terjeszti elő. A nemzetközi sportszövetséget a Fővárosi Törvényszék veszi nyilvántartásba. A nemzetközi sportszövetség nyilvántartásba vételére irányuló bírósági eljárásra a civil szervezetek nyilvántartásba vételére vonatkozó általános szabályokat az e törvényben meghatározott eltérésekkel kell alkalmazni, azzal, hogy a civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő eljárási szabályokról szóló 2011. évi CLXXXI. törvény 63. §-a szerinti adatokat és okiratokat nem kell bejelenteni, illetve csatolni, és a nemzetközi sportszövetség létesítő okiratát kizárólag a képviselőknek kell aláírnia, a tagok aláírása nem szükséges.
 
-(2) A nemzetközi sportszövetség nyilvántartásba vételére a kiemelt nemzetközi sport- és sportdiplomáciai események rendezéséért felelős miniszter, valamint a sportpolitikáért felelős miniszter együttes támogató nyilatkozata (a továbbiakban: miniszteri támogató nyilatkozat) alapján kerülhet sor. A miniszteri támogató nyilatkozatot mellékelni kell a nemzetközi sportszövetség nyilvántartásba vétele iránti kérelemhez. A bíróság a nyilvántartásba vételi eljárásban a miniszteri támogató nyilatkozat meglétét vizsgálja a (3) bekezdésben foglaltakra figyelemmel.
+(2) A nemzetközi sportszövetség nyilvántartásba vételére miniszteri támogató nyilatkozat alapján kerülhet sor. A miniszteri támogató nyilatkozatot mellékelni kell a nemzetközi sportszövetség nyilvántartásba vétele iránti kérelemhez. A bíróság a nyilvántartásba vételi eljárásban a miniszteri támogató nyilatkozat meglétét vizsgálja a (3) bekezdésben foglaltakra figyelemmel.
 
 (3) A miniszteri támogató nyilatkozatot a nemzetközi sportszövetség kérelmének kézhezvételétől számított 30 napon belül kell kiállítani vagy nyilatkozni a kérelem elutasításáról. A 30 nap eredménytelen eltelte esetén a miniszteri támogató nyilatkozatot megadottnak kell tekinteni. A kérelem formai követelményeit és a benyújtás módját, valamint a miniszteri támogató nyilatkozat kiadására irányuló eljárás részletes szabályait a Kormány rendelete tartalmazza.
 
@@ -2649,7 +2675,7 @@ televíziós, rádiós, valamint egyéb elektronikus-digitális technikákkal (p
   - bl) a biztonságtechnikai fejlesztésre kötelezettek körét, és
   - bm)
   - bn) a sportpolitikáért felelős miniszter által vezetett minisztérium fejezethez tartozó állami sport célú támogatások felhasználásának és elosztásának részletes szabályait,
-  - bo)
+  - bo) a 18/B. § (2) bekezdése szerinti miniszteri támogató nyilatkozat kiadására irányuló eljárás részletes szabályait, a kérelem formai követelményeit és a benyújtás módját,
   - bp) a sportakadémiai minősítés megszerzésének feltételeit és eljárásrendjét, a sportakadémia működésére, valamint az általa biztosítandó feltételekre és szolgáltatásokra vonatkozó szempontrendszert, alapvető követelményeket és az azoknak való megfelelés ellenőrzésének rendjét,
   - bq) a 30/B. § (2) bekezdése szerinti miniszteri támogató nyilatkozat kiadására irányuló eljárás részletes szabályait, a kérelem formai követelményeit és a benyújtás módját,
   - br) a kiemelt nemzetközi sport- és sportdiplomáciai események körét és részletes szabályait,
