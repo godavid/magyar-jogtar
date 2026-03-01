@@ -1060,7 +1060,7 @@ hiánypótlás nélküli visszautasítása
 
 (7) Ha e törvény rendelkezései alapján a cégadat változásának időpontja a bejegyzés napját követő időpont, nem nyújtható be olyan változásbejegyzési kérelem, amely a cégadatot a változás időpontjának bekövetkezte előtti időponttal úgy kéri törölni a cégjegyzékből, hogy az mint törölt adat se legyen megismerhető.
 
-#### 50/A. §
+50/A. § A cégbíróság a végrehajtó által megküldött árverési jegyzőkönyv alapján hivatalból jegyzi be a cégjegyzékbe az árverés időpontjával az üzletrész árverésével kapcsolatos tagváltozást.
 
 ### 11. CÍM — A létesítő okirat módosítása
 
@@ -2366,6 +2366,8 @@ vonatkozó részletes szabályokat rendelettel állapítsa meg.
 
 131/V. § E törvénynek az egyes pénzügyi és vagyongazdálkodási tárgyú törvények módosításáról szóló 2024. évi LVI. törvénnyel módosított 118. § (2) bekezdését és (3) bekezdés a) és b) pontját azokban a kényszertörlési eljárásokban kell alkalmazni, amelyeknek kezdő időpontja e rendelkezések hatálybalépésének napja vagy azt követő időpont.
 
+131/W. § E törvénynek a Polgári Törvénykönyvről szóló 2013. évi V. törvény és egyes kapcsolódó törvények módosításáról szóló 2025. évi CXVII. törvénnyel megállapított 50/A. §-át a 2026. március 1-jén és azt követően befejezett üzletrész árverésekre kell alkalmazni.
+
 132. § (1) E törvény – végrehajtási rendeleteivel, valamint a Ptk.-val és az egyes jogi személyek átalakulásáról, egyesüléséről, szétválásáról szóló törvénnyel együtt – a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
 - a) a Szerződés 54. cikke (3) bekezdésének g) pontja alapján a részvénytársaságok szétválásáról szóló, 1982. december 17-i 82/891/EGK tanácsi irányelv;
@@ -2700,7 +2702,7 @@ a) az üzletrész megszerzéséhez kapcsolódóan
 
 aa)
 
-ab) az üzletrész bírósági határozattal, árveréssel történő megszerzése esetén az erre vonatkozó okirat,
+ab) az üzletrész bírósági határozattal, nem végrehajtási árveréssel történő árverési megszerzése esetén az erre vonatkozó okirat,
 
 ac) a gyámhatóság jóváhagyó nyilatkozata a kiskorú tag üzletrészének átruházásához,
 

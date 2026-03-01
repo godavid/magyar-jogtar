@@ -1567,7 +1567,9 @@ Az állami adó- és vámhatóság vezetője a nemzetgazdaság aktuális állapo
 
 #### 112. § [Adatszolgáltatás az ingatlan forgalmi értékének megállapításához szükséges, a visszterhes vagyonátruházási illeték kiszabása során felvett adatokról]
 
-Az állami adó- és vámhatóság az ingatlan forgalmi értékének megállapításához szükséges, a visszterhes vagyonátruházási illeték kiszabása során felvett adatokat tartalmazó nyilvántartásából kérelemre, igazgatási szolgáltatási díj ellenében adatszolgáltatást teljesít.
+(1) Az állami adó- és vámhatóság az ingatlan forgalmi értékének megállapításához szükséges, a visszterhes vagyonátruházási illeték kiszabása során felvett adatokat tartalmazó nyilvántartásából kérelemre, igazgatási szolgáltatási díj ellenében adatszolgáltatást teljesít.
+
+(2) Az állami adó- és vámhatóság az ingatlan forgalmi értékének megállapítása érdekében az Országos Építésügyi Nyilvántartás e-kezelő felületén keresztül hozzáfér a hiteles energetikai tanúsítványhoz.
 
 #### 112/A. § [Adatszolgáltatás családi pótlékról, házasságról, élettársi kapcsolatról, várandósságról]
 

@@ -249,7 +249,9 @@ vonatkozik.
 - a) az érintett személy leszármazója önálló háztartásának alapításához, fenntartásához vagy más fontos célja eléréséhez, ha a támogatás mértéke a leszármazó – a hozzájárulás időpontjában fennálló állapot és érték szerinti – törvényes örökrészének felét nem haladja meg; vagy
 - b) ingyenes juttatáshoz, jogokról ellenérték nélküli lemondáshoz vagy közcélra történő felajánláshoz, ha a jogügylet az érintett személy megélhetését nem veszélyezteti.
 
-(3) A gyámhatóság kivételesen indokolt esetben hozzájárulhat a cselekvőképtelen nagykorú gondnoka kérelmére az érintett személy leszármazója önálló háztartásának alapításához, fenntartásához vagy más fontos célja eléréséhez az érintett személy vagyona terhére, ha a támogatás mértéke a leszármazó – a hozzájárulás időpontjában fennálló állapot és érték szerinti – törvényes örökrészének felét nem haladja meg.
+(3) A gyámhatóság kivételesen indokolt esetben hozzájárulhat a cselekvőképtelen nagykorú gondnoka kérelmére az érintett személy leszármazója önálló háztartásának alapításához, fenntartásához vagy más fontos célja eléréséhez az érintett személy vagyona terhére ingyenes juttatás nyújtásához, ha a támogatás mértéke a leszármazó – a hozzájárulás időpontjában fennálló állapot és érték szerinti – törvényes örökrészének felét nem haladja meg.
+
+(3a) Semmis a cselekvőképtelen nagykorú gondnokának olyan jognyilatkozata, amellyel a cselekvőképtelen nagykorú vagyona terhére idegen kötelezettségért megfelelő ellenérték nélkül kötelezettséget vállal, amellyel jogokról ellenérték nélkül lemond, vagy – a (3) bekezdésben foglalt kivétellel – ajándékoz. Ezt a rendelkezést – a (2) bekezdésben foglalt kivétellel – alkalmazni kell a gondnoknak a cselekvőképességében a vagyoni ügyeit érintően korlátozott személy jognyilatkozatához való hozzájárulására is.
 
 (4) Nincs szükség a gyámhatóság jóváhagyására, ha a cselekvőképességében részlegesen korlátozott vagy cselekvőképtelen nagykorú ingatlantulajdonának megterhelésére az ingatlan ellenérték nélküli megszerzésével egyidejűleg, az ingyenes juttatást nyújtó személy javára történő haszonélvezet alapításával kerül sor.
 
@@ -1106,7 +1108,7 @@ Az uralmi szerződésben foglaltak lényeges vagy ismételt megszegése esetén 
 
 (1) Ha az uralmi szerződés megkötésének a feltételei legalább három éven keresztül megszakítás nélkül fennállnak, bármely jogilag érdekelt kérelmére a bíróság kötelezheti a tényleges uralkodó tagot, illetve az ellenőrzött tagokat az uralmi szerződés megkötésére és a vállalatcsoport bírósági nyilvántartásba vételének kezdeményezésére.
 
-(2) Legalább hároméves megszakítás nélküli tényleges vállalatcsoportként való működés esetén a bíróság a jogilag érdekelt kérelmére az uralkodó tag és az ellenőrzött tag viszonyában az uralkodó tag és az ellenőrzött tag ügyvezetése közötti viszonyra vonatkozó rendelkezéseket uralmi szerződés és vállalatcsoportként való nyilvántartásba vétel hiányában is alkalmazhatja.
+(2) Legalább hároméves megszakítás nélküli tényleges vállalatcsoportként való működés esetén a bíróság azon jogilag érdekelt kérelmére, akivel szemben az uralkodó tag e törvényben meghatározottak szerint helytállni tartozik, az uralkodó tag és az ellenőrzött tag viszonyában uralmi szerződés és vállalatcsoportként való nyilvántartásba vétel hiányában is alkalmazhatja az uralkodó tag és az ellenőrzött tag ügyvezetése közötti viszonyra vonatkozó rendelkezéseket.
 
 ## MÁSODIK RÉSZ — EGYESÜLET
 
@@ -1359,7 +1361,7 @@ Az egyesület alapszabálya vagy a jogvitában érintett személyek megállapod�
 
 (2) Közkereseti társaság, betéti társaság és egyéni cég nem lehet gazdasági társaság korlátlanul felelős tagja.
 
-(3) Nyilvánosan működő részvénytársaság kivételével nem lehet gazdasági társaság tagja, aki eltiltás hatálya alatt áll.
+(3) Nyilvánosan működő részvénytársaság kivételével nem szerezhet gazdasági társaságban többségi befolyást, nem válhat gazdasági társaság korlátlanul felelős tagjává, aki eltiltás hatálya alatt áll.
 
 (4) A részvénytársaság tagjai a részvényesek.
 
@@ -1439,11 +1441,15 @@ A gazdasági társaság létesítő okirata – a részvénytársaság és az eg
 
 (5) A legfőbb szerv eltérő határozata hiányában a veszteség pótlásához nem szükséges pótbefizetéseket a visszafizetés időpontjában a társasággal tagsági jogviszonyban álló tagok részére vissza kell fizetni. A visszafizetésre a vagyoni hozzájárulások teljes befizetése után kerülhet sor.
 
+(5a) A társaság jogutód nélküli megszűnése esetén a hitelezők kielégítése után fennmaradó vagyonból először a pótbefizetéseket kell visszatéríteni, csak ezt követően kerülhet sor a tagi részesedések arányában a fennmaradt vagyon tagok közötti felosztására.
+
 (6) Korlátolt felelősségű társaság esetén a saját üzletrészre, zártkörűen működő részvénytársaság esetén a saját részvényre jutó pótbefizetést nem kell visszafizetni.
 
 (7) Egyszemélyes korlátolt felelősségű társaság és egyszemélyes részvénytársaság esetén a pótbefizetés előírásához létesítő okiratba foglalt rendelkezésre nincs szükség. A pótbefizetés feltételeit az alapítónak vagy az egyedüli tagnak a határozatában kell megállapítania.
 
 (8) A nyilvánosan működő részvénytársaság alapszabálya pótbefizetésről nem rendelkezhet. Az alapszabály ettől eltérő rendelkezése semmis.
+
+(9) Zártkörűen működő részvénytársaságnál a pótbefizetés (1)–(2) bekezdésben foglalt előírásához és annak feltételei meghatározásához valamennyi részvényes egyhangú szavazatával meghozott határozatra van szükség. E rendelkezéstől való eltérés semmis.
 
 #### 3:100. § [A társaság alapításának bírósági bejelentése]
 
@@ -1735,7 +1741,7 @@ Ha a létesítő okirat vagy annak felhatalmazása alapján a társaság legfőb
 
 (1) Az átalakulás során a társaságtól megváló tag a társaság jogutód nélküli megszűnése esetén irányadó szabályok szerint köteles helytállni az átalakuló gazdasági társaságnak az átalakulással létrejövő jogi személy által nem teljesített kötelezettségeiért.
 
-(2) Ha egy korlátlanul felelős tag az átalakulás következtében korlátozottan felelős taggá válik, a jogutód bejegyzésétől számított ötéves jogvesztő határidőn belül – és az átalakulással létrejövő jogi személy más, korlátlanul felelős tagjaival egyetemlegesen – köteles helytállni a jogelőd gazdasági társaság tartozásaiért.
+(2) Ha egy korlátlanul felelős tag az átalakulás következtében korlátozottan felelős taggá válik, a jogutód bejegyzésétől számított ötéves jogvesztő határidőn belül korlátlanul – és az átalakulással létrejövő jogi személy más, korlátlanul felelős tagjaival egyetemlegesen – köteles helytállni a jogelőd gazdasági társaság tartozásaiért.
 
 #### 3:136. § [A gazdasági társaságok egyesülése]
 
@@ -1961,7 +1967,15 @@ Nem lehet a tagokat nyilvános felhívás útján gyűjteni.
 
 (7) A társasági szerződésben az üzletrész pénzszolgáltatás ellenében, kívülálló személyre történő átruházása érvényesen nem zárható ki.
 
-(8) Az üzletrész végrehajtási eljárás keretében történő értékesítése során az üzletrész másokat megelőző megszerzésére irányuló jog – (2) bekezdés szerinti – jogosultja e jogát jogszabályban meghatározott eljárás szabályai szerint gyakorolhatja.
+(8)
+
+#### 3:167/A. § [Az üzletrész végrehajtási eljárásban történő értékesítése]
+
+(1) Az üzletrész végrehajtási eljárás keretében történő értékesítése során az üzletrész másokat megelőző megszerzésére irányuló jog – 3:167. § (2) bekezdése szerinti – jogosultja e jogát jogszabályban meghatározott eljárás szabályai szerint gyakorolhatja.
+
+(2) Az üzletrész végrehajtási eljárásban történő értékesítésével az árverési vevő a társaság tagjává válik.
+
+(3) A tag személyének megváltozásáról a végrehajtó az árverési jegyzőkönyv megküldésével értesíti az ügyvezetőt, aki a tagváltozást a tagjegyzéken nyolc napon belül átvezeti.
 
 #### 3:168. § [Az üzletrész átruházásának közös szabályai]
 
@@ -2292,7 +2306,7 @@ Az ügyvezető köteles a tagok által hozott határozatokat a határozatok kön
 
 #### 3:207. § [A vagyon felosztása]
 
-(1) A társaság jogutód nélküli megszűnése esetén a hitelezők kielégítése után fennmaradó vagyonból először a pótbefizetéseket kell visszatéríteni, majd a további részt a törzsbetétek arányában kell felosztani a társaság tagjai között.
+(1)
 
 (2) Ha a megszűnő társaság tulajdonában saját üzletrész volt, az arra eső vagyonhányadot a többi tag között kell felosztani törzsbetéteik arányában.
 
@@ -7934,12 +7948,12 @@ Jogosultság gyakorlására és követelés érvényesítésére jogszabályban 
 
 - a) a tartozásnak a kötelezett részéről történő elismerése;
 - b) a kötelem megegyezéssel történő módosítása és az egyezség;
-- c) a követelés kötelezettel szembeni bírósági eljárásban történő érvényesítése, ha a bíróság az eljárást befejező jogerős érdemi határzatot hozott; vagy
+- c) a követelés kötelezettel szembeni bírósági eljárásban történő érvényesítése, ha a bíróság az eljárást befejező jogerős érdemi határozatot hozott; vagy a követelés végrehajtási úton történő érvényesítése, ha ezt bírósági eljárásnak nem kell megelőznie, és a végrehajtás elrendelésére sor került; vagy
 - d) a követelés csődeljárásban történő bejelentése.
 
 (2) Az elévülés megszakításától vagy az elévülést megszakító eljárás jogerős befejezésétől az elévülés újból kezdődik.
 
-(3) Ha az elévülést megszakító eljárás során végrehajtható határozatot hoztak, az elévülést a kötelem megegyezéssel való módosítása és a végrehajtási cselekmények szakítják meg.
+(3) Ha az elévülést megszakító eljárás során végrehajtható határozatot hoztak vagy ilyen eljárás és végrehajtható határozat nélkül is elrendelték a végrehajtást, az elévülést a kötelem megegyezéssel való módosítása és a végrehajtási cselekmények szakítják meg.
 
 ### V. Fejezet — Tartozáselismerés. Egyezség
 
@@ -8942,7 +8956,7 @@ Osztható szolgáltatás egy részére vonatkozó szerződésszegés esetén a s
 
 #### 6:152. § [A szerződésszegés jogkövetkezményeinek korlátozása és kizárása]
 
-A szándékosan okozott, továbbá emberi életet, testi épséget vagy egészséget megkárosító szerződésszegésért való felelősséget korlátozó vagy kizáró szerződési kikötés semmis.
+A szándékos, továbbá emberi életet, testi épséget vagy egészséget megkárosító szerződésszegésért való felelősséget korlátozó vagy kizáró szerződési kikötés semmis.
 
 ### XXIII. Fejezet — Késedelem
 
@@ -9295,6 +9309,8 @@ Kötbér után kamat kikötése semmis. Az esedékessé vált kötbér után a k
 
 (4) Ha az engedményezett követelés esedékessége a jogosult jognyilatkozatától vagy egyéb általa teljesítendő feltételtől függ, az engedményes megteheti e jognyilatkozatot vagy teljesítheti az esedékesség bekövetkezéséhez szükséges feltételt.
 
+(5) Az engedményezett követelés alapjául szolgáló szerződés érvénytelensége esetén az engedményest megilletik azok a jogok, amelyeket az érvénytelenség jogkövetkezményeinek alkalmazása során az engedményezett követelés tekintetében engedményezés hiányában az engedményező érvényesíthetne a kötelezettel szemben.
+
 #### 6:194. § [Az engedményezhető követelések]
 
 (1) A követelés akkor engedményezhető, ha az engedményezéskor már létezik az a jogviszony, amelyből a követelés fakad.
@@ -9347,7 +9363,7 @@ Ha a követelés jogszabály rendelkezése alapján száll át másra, az engedm
 
 #### 6:202. § [Jogátruházás]
 
-(1) A jogosult jogát másra átruházhatja, kivéve, ha jogszabály a jog forgalomképességét kizárja vagy a forgalomképtelenség a jog természetéből egyértelműen következik.
+(1) A jogosult jogát másra átruházhatja, ha ezt jogszabály lehetővé teszi vagy egyébként a jog forgalomképessége annak természetéből következik.
 
 (2) Ha e törvény eltérően nem rendelkezik, a jog átruházással való megszerzéséhez az átruházásra irányuló szerződés vagy más jogcím és a jogátruházás szükséges. A jogátruházás az átruházó és az új jogosult szerződése, amellyel az új jogosult az átruházó helyébe lép.
 
@@ -9613,7 +9629,7 @@ A szerződés teljesítését az ajándékozó megtagadhatja, ha bizonyítja, ho
 
 (3) Az ajándékozó visszakövetelheti az ajándékot, vagy követelheti az ajándék helyébe lépett értéket akkor is, ha a szerződő felek számára a szerződéskötéskor ismert olyan feltevés, amelyre figyelemmel az ajándékozó az ajándékot adta, utóbb véglegesen meghiúsult, és e nélkül az ajándékozásra nem került volna sor.
 
-(4) Visszakövetelésnek nincs helye, ha az ajándék vagy a helyébe lépett érték a jogsértés elkövetése időpontjában már nincs meg, továbbá ha az ajándékozó a sérelmet megbocsátotta; megbocsátásnak, illetve a visszakövetelésről való lemondásnak számít, ha az ajándékozó az ajándékot megfelelő ok nélkül hosszabb idő nélkül nem követeli vissza.
+(4) Visszakövetelésnek nincs helye, ha az ajándék vagy a helyébe lépett érték a jogsértés elkövetése időpontjában már nincs meg, továbbá ha az ajándékozó a sérelmet megbocsátotta; megbocsátásnak, illetve a visszakövetelésről való lemondásnak számít, ha az ajándékozó az ajándékot megfelelő ok nélkül hosszabb időn keresztül nem követeli vissza.
 
 (5) A szokásos mértékű ajándék visszakövetelésének nincs helye.
 
@@ -11076,7 +11092,7 @@ A jogszabály alapján fennálló kezességre a kezességi szerződés szabálya
 
 (2) Ha a jogosult nem tesz eleget az (1) bekezdés szerinti kötelezettségének, a kezes határidő nélkül jogosult a szerződéstől elállni.
 
-(3) Ha a fogyasztó a kötelezettnek a jogosulttal szemben fennálló valamennyi kötelezettségéért vagy meghatározott jogviszony alapján fennálló valamennyi kötelezettségéért vállalt kezességet, a kezesség akkor érvényes, ha a szerződésben meghatározták azt a legmagasabb összeget, amelynek erejéig a kezes felel a jogosult tartozásáért.
+(3) Ha a fogyasztó a kötelezettnek a jogosulttal szemben fennálló valamennyi kötelezettségéért vagy meghatározott jogviszony alapján fennálló valamennyi kötelezettségéért vállalt kezességet, a kezesség akkor érvényes, ha a szerződésben meghatározták azt a legmagasabb összeget, amelynek erejéig a kezes felel a kötelezett tartozásáért.
 
 (4)
 
@@ -12290,6 +12306,7 @@ Az öröklési igény nem évül el.
 - b) akit az örökhagyó az öröklésből kizárt vagy kitagadott;
 - c) aki lemondott az öröklésről;
 - d) aki az örökséget visszautasította.
+- e) aki az örökséget jogszabály rendelkezése folytán nem szerezheti meg.
 
 #### 7:5. § [Kiesés a haszonélvezeti jogból, a kötelesrészből, továbbá a hagyományból és a meghagyásból]
 
@@ -12383,7 +12400,7 @@ Végrendelkezni közvégrendelettel vagy írásbeli magánvégrendelettel lehet;
 
 (2) A több különálló lapból álló sajátkezűleg írt írásbeli magánvégrendelet akkor érvényes, ha minden lapját folyamatos sorszámozással látták el.
 
-(3) A több különálló lapból álló más által írt írásbeli magánvégrendelet akkor érvényes, ha minden lapját folyamatos sorszámozással látták el, továbbá ha minden lapját a végrendelkező és mindkét tanú aláírta.
+(3) A több különálló lapból álló, más által írt írásbeli magánvégrendelet akkor érvényes, ha minden lapját folyamatos sorszámozással látták el, továbbá, ha minden lapját a végrendelkező és – ha a végrendelet érvényességéhez tanúk alkalmazása szükséges – mindkét tanú aláírta.
 
 #### 7:18. § [Írásbeli magánvégrendelet tanúja]
 
@@ -12617,9 +12634,9 @@ Ha a végrendelet több rendelkezése közül valamelyik érvénytelen vagy hat�
 
 (2) A felek eltérő megállapodásának hiányában az örökhagyókkal szerződő fél által örökölt lakáson és a hozzá tartozó berendezési és felszerelési tárgyakon a túlélő házastársat holtig tartó haszonélvezeti jog illeti meg, ha ő azokat az örökhagyóval közösen használta.
 
-#### 7:52. § [Öröklési szerződés módosítása és megszüntetése]
+#### 7:52. § [Öröklési szerződés módosítása, megszüntetése és megszűnése]
 
-(1) Az öröklési szerződés módosítására és megszüntetésére a tartási és az életjáradéki szerződésre vonatkozó szabályokat kell alkalmazni.
+(1) Az öröklési szerződés módosítására, megszüntetésére és megszűnésére a tartási és az életjáradéki szerződésre vonatkozó szabályokat kell alkalmazni.
 
 (2) A módosítás és a megszüntetés alaki követelményeire az öröklési szerződés létrejöttére vonatkozó szabályokat kell alkalmazni. A szerződés megszüntetése a kötelező alaki érvényességi feltételek teljesítése nélkül érvényes, ha az ennek megfelelő tényleges állapot a felek egyező akaratából létrejött.
 
@@ -12738,9 +12755,9 @@ Ha dédszülő és dédszülőtől leszármazó nincs vagy nem örökölhet, tö
 
 #### 7:67. § [Ági vagyon]
 
-(1) Ha nem az örökhagyó leszármazója a törvényes örökös, az örökhagyóra valamelyik felmenőjéről öröklés vagy ajándékozás útján hárult vagyontárgy ági öröklés alá esik.
+(1) Ha a törvényes örökösök között az örökhagyónak nincs leszármazója, az örökhagyóra valamelyik felmenőjéről ajándékozás vagy öröklés útján ingyenesen hárult vagyontárgy ági öröklés alá esik.
 
-(2) Ági öröklésnek van helye testvértől vagy a testvér leszármazójától örökölt vagy ajándékba kapott vagyontárgyra, ha a vagyontárgyat a testvér vagy a testvér leszármazója az örökhagyóval közös felmenőjétől örökölte vagy ajándékba kapta.
+(2) Ági öröklésnek van helye testvértől vagy a testvér leszármazójától ajándékba kapott vagy öröklés útján ingyenesen szerzett vagyontárgyra, ha a vagyontárgyat a testvér vagy a testvér leszármazója az örökhagyóval közös felmenőjétől kapta ajándékba vagy öröklés útján ingyenesen szerezte.
 
 (3) A vagyontárgy ági jellegét annak kell bizonyítania, aki azt ezen a címen örökölné.
 
@@ -13033,7 +13050,7 @@ Az örökösök a hagyatékot - kizárólag a hagyaték tárgyaira vonatkozóan 
 - 2. hozzátartozó: a közeli hozzátartozó, az élettárs, az egyeneságbeli rokon házastársa, a házastárs egyeneságbeli rokona és testvére, és a testvér házastársa;
 - 3. fogyasztó: a szakmája, önálló foglalkozása vagy üzleti tevékenysége körén kívül eljáró természetes személy;
 - 4. vállalkozás: a szakmája, önálló foglalkozása vagy üzleti tevékenysége körében eljáró személy;
-- 5. vagyontárgy: a dolog, a jog, a követelés;
+- 5. vagyontárgy: a dolog, a jog, a követelés, valamint a jogi személyben fennálló vagyoni részesedés;
 - 6. bank: a betétgyűjtésre és fizetési számla vezetésére jogosult személy;
 - 7. szerződő hatóság: a közbeszerzésekről szóló törvény szerinti ajánlatkérő, akkor is, ha közbeszerzési eljárás lefolytatására nem köteles.
 

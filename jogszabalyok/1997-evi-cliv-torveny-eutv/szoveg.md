@@ -858,7 +858,7 @@ kötelező védőoltás elrendelésének van helye.
 - a) a védőoltásban részesítés a beteg egészségi állapota miatt nem lehetséges, vagy a védőoltás a beteg egészségét vagy meglévő betegségét várhatóan károsan befolyásolná, és
 - b) az a) pont szerinti körülmény változása belátható időn belül nem várható.
 
-(3a) A (3) bekezdés szerinti kérelemhez csatolni kell a mentesítés indokoltságát alátámasztó, a kezelőorvos által adott szakvéleményt.
+(3a) A (3) bekezdés szerinti kérelemhez csatolni kell a mentesítés indokoltságát alátámasztó, a kezelőorvos által adott szakvéleményt. A kezelőorvos a szakvélemény kiadása tekintetében az egészségügyi államigazgatási szerv közreműködőjének minősül, a kezelőorvos által adott szakvélemény vagy a szakvélemény kiadásának megtagadása a (3) bekezdés szerinti eljárásban hozott véglegessé vált döntéssel szemben indított közigazgatási perben, kizárólag a támadott döntéssel összefüggésben vitatható. A perre a Fővárosi Törvényszék kizárólagosan illetékes.
 
 (4) A (3) bekezdés szerinti eljárás alatt – annak véglegessé vált döntéssel történő befejezéséig – az adott védőoltás vonatkozásában a (7) bekezdés szerinti írásbeli felszólításnak vagy az adott védőoltás elrendelésének nincs helye. Ha a védőoltást korábban már elrendelték, és ezen védőoltás vonatkozásában eljárás indul a (3) bekezdés alapján, akkor a mentesítési eljárás véglegessé vált döntéssel történő befejezéséig a védőoltást elrendelő határozat nem hajtható végre. A mentesítési eljárásban a kezelőorvos külön vizsgálat nélkül ügyfélnek minősül.
 

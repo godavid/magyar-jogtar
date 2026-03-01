@@ -554,7 +554,7 @@ de legkésőbb a perfelvételt lezáró végzés meghozataláig van helye.
 
 (1) Ha a per alapjául szolgáló jogviszonyban jogszabály alapján valamelyik fél helyébe a keresetlevél beadása után jogutód lép, a jogutód a perbe félként önként beléphet, vagy az alperes jogutódját az ellenfél is perbe vonhatja.
 
-(2) A felperes jogutódját csak akkor lehet perbe vonni, ha a jogutódlás a felperes halála vagy jogutódlással történő megszűnése miatt következett be.
+(2) A felperes jogutódját csak akkor lehet perbe vonni, ha a jogutódlás a felperes halála vagy jogutódlással történő megszűnése miatt következett be. Az alperes jogutódját a félbeszakadás tartama alatt az alperes pertársa is perbe vonhatja, ha az eljárás az alperes halála vagy jogutódlással történő megszűnése miatt szakadt félbe.
 
 (3) A felperesi jogutód önkéntes perbelépéséhez a felperes hozzájárulása, az alperesi jogutód önkéntes perbelépéséhez pedig mindkét fél hozzájárulása szükséges. Hozzájárulásra nincs szükség, ha a perbelépés azért történik, mert a jogelőd meghalt, jogutódlással megszűnt, vagy a perbeli jogutódlás jogszabályi rendelkezésen alapul, a jogutódlást azonban valószínűsíteni kell.
 
@@ -947,7 +947,7 @@ A perköltség a félnél – a perben vagy azt megelőzően – a jog perbeli �
 
 A bíróság által jóváhagyott egyezség megkötése esetén a felek megállapodása szerinti fél téríti meg az ellenfele perköltségét. Megállapodás hiányában az egyezség szerint pernyertes fél perköltségét az egyezség szerint pervesztes fél téríti meg. Az egyezség szerinti részleges pernyertesség esetén a 83. § (2) és (3) bekezdésében foglaltakat kell alkalmazni. Ha a pernyertesség és a pervesztesség aránya nem állapítható meg, egyik fél sem köteles perköltség megtérítésére.
 
-#### 85. § [A perköltség viselése az eljárás megszüntetése esetén]
+#### 85. § [A perköltség viselése az eljárás megszüntetése, megszűnése esetén]
 
 (1) Az eljárás megszüntetése esetén az alperes perköltségét – a (2)–(4) bekezdésben foglalt kivétellel, vagy a felek eltérő megállapodása hiányában – a felperes téríti meg.
 
@@ -956,6 +956,8 @@ A bíróság által jóváhagyott egyezség megkötése esetén a felek megálla
 (3) Az eljárás halál vagy megszűnés miatti megszüntetése esetén egyik fél sem téríti meg az ellenfele perköltségét.
 
 (4) Az eljárásnak a felek közös kérelme miatti megszüntetése esetén a felek megállapodása szerinti fél téríti meg az ellenfele perköltségét. Megállapodás hiányában az alperes perköltségét a felperes téríti meg. Ha azonban a kérelem benyújtására azért került sor, mert az alperes a keresettel érvényesített jogot az eljárás megindítását követően elismerte vagy a keresettel érvényesített követelést teljesítette, a felperes perköltségét az alperes téríti meg.
+
+(5) Az eljárás félbeszakadása miatt bekövetkező megszűnése esetén egyik fél sem téríti meg az ellenfele perköltségét.
 
 #### 86. § [A szükségtelenül okozott perköltség vagy perköltségrész viselése]
 
@@ -1378,6 +1380,14 @@ A különélő házastárs által tartás iránt indított pert, valamint a kül
 (5) A jogerős végzéssel a közreműködő számára meghatározott költség, illetve díj letéttel fedezett részének kiutalásáról a bíróság a félbeszakadás tartama alatt is intézkedik.
 
 (6) Pertársaság esetén, ha a félbeszakadásra okot adó körülmény a perfelvételt lezáró végzés meghozatalát követően kizárólag valamely pertársra nézve áll be, de a többi pertárs vonatkozásában az eljárás folytatható, és tekintetükben részítélet hozható, a bíróság a félbeszakadásra vonatkozó rendelkezéseket csak az érintett pertársra alkalmazza.
+
+(7) A 119. § (1) bekezdés a)–d) pontja szerinti esetekben az eljárás vagy annak érintett része tizennyolc hónap félbeszakadás elteltével – a (8) bekezdésben foglalt kivétellel – megszűnik.
+
+(8) Ha a fél vagy más érdekelt az eljáró bíróságnál a (7) bekezdés szerinti határidőn belül bejelenti és egyidejűleg okirattal igazolja, hogy a jogutód vagy a törvényes képviselő személyének megállapítása iránt eljárás van folyamatban, és e másik eljárás a (7) bekezdés szerinti határidőn belül nem fejeződik be, a félbeszakadt eljárás csak e másik eljárás jogerős vagy végleges befejezését követő három hónap elteltével szűnik meg. A bejelentési határidő elmulasztása miatt igazolásnak nincs helye.
+
+(9) Ha az elsőfokú ítélet meghozatalát követően, annak jogerőre emelkedése előtt az eljárás félbeszakadás folytán megszűnik, az elsőfokú ítélet hatályát veszti. A per során hozott jogerős részítélet és közbenső ítélet hatályát az eljárás félbeszakadás miatt bekövetkező megszűnése nem érinti.
+
+(10) A bíróság az eljárás megszűnésének tényét – a (9) bekezdés szerinti esetben az elsőfokú ítélet hatályvesztését is – végzésben állapítja meg, e végzés ellen külön fellebbezésnek van helye.
 
 #### 35. Az eljárás szünetelése
 
@@ -3157,6 +3167,8 @@ A bíróság a 258. és 259. §-ban említett értesítéseit és határozatait 
 
 (3) Ha a közjegyző a felet a fizetési meghagyásos eljárás során költségkedvezményben részesítette, a díj megfizetéséről és viseléséről a 255. § (1) bekezdésében foglalt esetben a bíróság az eljárást befejező határozatában határoz és kötelezi a felet a költségkedvezmény folytán meg nem fizetett díjnak (e §-ban a továbbiakban: meg nem fizetett díj) a Magyar Országos Közjegyzői Kamara (a továbbiakban: MOKK) részére történő megfizetésére. Ha az eljárás szünetelés folytán megszűnt, a bíróság a meg nem fizetett díjról külön végzésben határoz, és a felperest kötelezi annak a MOKK részére történő megfizetésére; e végzés ellen külön fellebbezésnek van helye.
 
+(3a) Ha az eljárás félbeszakadás folytán megszűnt, a bíróság a meg nem fizetett díjról végzésben határoz és a feleket egyenlő arányban kötelezi annak a MOKK részére történő megfizetésére; e végzés ellen külön fellebbezésnek van helye.
+
 (4) A bíróság a meg nem fizetett díj tárgyában hozott határozatát a MOKK-nak is kézbesíti. A meg nem fizetett díj tárgyában hozott határozat ellen a MOKK fellebbezéssel élhet. Ha a bíróság elmulasztotta a meg nem fizetett díjról történő rendelkezést, a MOKK a határozat jogerőre emelkedésétől számított öt éven belül kérheti a határozat kiegészítését.
 
 (5) A díj tekintetében igénybe vehető kedvezményre az Fmhtv.-t, valamint a felhatalmazása alapján kiadott jogszabályt, a peres eljárás során igénybe vehető további kedvezményekre e törvényt, valamint az e törvény felhatalmazása alapján kiadott jogszabályt kell alkalmazni. Ha a fél a per során költségkedvezményben részesül, ez a díj megfizetése alól őt nem mentesíti.
@@ -4798,7 +4810,7 @@ miatt indokolt.
 
 #### 411. § [Döntés a felülvizsgálat engedélyezéséről]
 
-(1) A Kúria tárgyaláson kívül, harminc napon belül határoz a felülvizsgálat engedélyezéséről vagy annak megtagadásáról. A Kúria a felülvizsgálatot mérlegelési jogkörében csak olyan okból engedélyezheti, amelyre a fél az engedélyezés iránti kérelmében hivatkozik.
+(1) A Kúria tárgyaláson kívül, negyvenöt napon belül határoz a felülvizsgálat engedélyezéséről vagy annak megtagadásáról. A Kúria a felülvizsgálatot mérlegelési jogkörében csak olyan okból engedélyezheti, amelyre a fél az engedélyezés iránti kérelmében hivatkozik.
 
 (2) A felülvizsgálat megtagadásáról szóló végzést röviden, kizárólag annyiban kell megindokolni, hogy a felülvizsgálat engedélyezésére milyen okból nem került sor. A felülvizsgálat engedélyezésének indokait az érdemi határozat indokolásában kell megjelölni.
 
@@ -6938,6 +6950,13 @@ Ez a törvény 2018. január 1. napján lép hatályba.
 (17) Ha e törvénynek a 2024. december 31. napján hatályos szabályai szerint a bíróság a folyamatban levő ügyben papíralapon tartotta a kapcsolatot a szakértővel, és a szakértő az igazságügyi szakértőkről szóló törvény alapján 2025. január 1. napját követően hatályos szabályai szerint köteles elektronikus úton kapcsolatot tartani, akkor a bíróság a szakértővel a folyamatban levő ügyben továbbra is papíralapon tartja a kapcsolatot, kivéve ha a szakértő a folyamatban levő ügyben 2025. január 1. napját követően szakvéleményét vagy egyéb beadványát elektronikus úton teszi meg a bírósághoz.
 
 (18) E törvénynek az igazságügyi tárgyú törvények módosításáról szóló 2025. évi XLIX. törvénnyel (a továbbiakban: Módtv.) megállapított, a határidő-túllépésre vonatkozó rendelkezéseit a Módtv. 142. §-ának hatálybalépését követő – kizárólag peres eljárásban megvalósuló – határidő-túllépés esetén kell alkalmazni.
+
+(19) A magánjogi tárgyú törvények módosításáról szóló 2025. évi XCII. törvénnyel megállapított 47. § (2) bekezdést, 85. § (5) bekezdést, 120. § (7)–(10) bekezdést a 2018. január 1-jén vagy azt követően indult olyan ügyekben, amelyekben a félbeszakadásra 2025. január 1. napját megelőzően került sor azzal az eltéréssel kell alkalmazni, hogy az eljárás félbeszakadás miatt bekövetkező megszűnésének főszabály szerinti időpontja 2026. július 1. napja.
+
+(20) A magánjogi tárgyú törvények módosításáról szóló 2025. évi XCII. törvénnyel megállapított 47. § (2) bekezdést, 85. § (5) bekezdést, 120. § (7)–(10) bekezdést a 2018. január 1. napját megelőzően indult ügyekben is alkalmazni kell azzal, hogy
+
+- a) egyebekben a polgári perrendtartásról szóló 1952. évi III. törvény szabályait kell alkalmazni, és
+- b) ha a félbeszakadásra 2025. január 1. napját megelőzően került sor, az eljárás félbeszakadás miatt bekövetkező megszűnésének főszabály szerinti időpontja 2026. július 1. napja.
 
 #### 631. § [Európai uniós követelményekre utaló rendelkezés]
 
