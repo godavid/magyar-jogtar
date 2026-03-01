@@ -29,7 +29,9 @@ az ügyvédi tevékenységről
 - c) a jogi tanácsadás,
 - d) az okiratszerkesztés,
 - e) az okirat ellenjegyzése,
-- f) az a)–e) pont szerinti ügyvédi tevékenységgel összefüggésben a szerkesztett okiratok és mellékleteik elektronikus másolattá vagy elektronikus okirati formába alakítása (a továbbiakban együtt: elektronikus okirati formába alakítás),
+- f) az a)–e) pont szerinti ügyvédi tevékenységgel összefüggésben szerkesztett
+  - fa) papíralapú okiratok és mellékleteik elektronikus másolattá vagy elektronikus okirati formába alakítása (a továbbiakban együtt: elektronikus okirati formába alakítás),
+  - fb) elektronikus okiratok és mellékleteik papíralapú másolattá alakítása (a továbbiakban: papíralapú okirati formába alakítás),
 - g) az a)–f) pont szerinti ügyvédi tevékenységgel összefüggésben letét kezelése.
 
 (2) Nem minősül ügyvédi tevékenységnek
@@ -61,6 +63,8 @@ számára végzett jogi tanácsadás és okiratszerkesztés, vagy
 - l) nem az ügyvédi tevékenység gyakorlója által készített papíralapú dokumentum elektronikus okirati formába alakítása,
 - m) közvetítői eljárásban és büntetőügyekben folytatott közvetítői tevékenység.
 - n) adatvédelmi tisztviselői tevékenység.
+- o) jogi oktatói tevékenység,
+- p) az ügyvédi tevékenység vagy az ügyvédi tevékenység gyakorlása keretében kiegészítő jelleggel folytatható tevékenység végzését támogató jogi informatikai rendszer fejlesztése, értékesítése vagy szolgáltatásként történő nyújtása.
 
 (2) Az (1) bekezdésben meghatározott tevékenységeket az ügyvédi tevékenység gyakorlója e minőségében, de az adott tevékenységre irányadó jogszabályokban meghatározottak szerint folytathatja.
 
@@ -364,6 +368,7 @@ vonatkozásában áll fenn, akkor a korlátozás az egyéni ügyvédre, a teljes
 - n) az m) pont alá nem eső jogi személy vezető tisztségviselője feladatának ellátása,
 - o) a békéltető testületi tevékenység.
 - p) a hitelgondozási szolgáltatói tevékenység.
+- q) a Magyarország kiberbiztonságáról szóló törvény szerinti, az elektronikus információs rendszer biztonságáért felelős személy feladatának ellátása.
 
 (2) A kamarai jogtanácsosi és a jogi előadói tevékenység gyakorlásával a 23. § (1) bekezdés c) pontja alá eső tevékenységek közül nem összeférhetetlen továbbá a jogi személy vezető tisztségviselője feladatának ellátása.
 
@@ -734,6 +739,37 @@ azzal, hogy ezt a körülményt, valamint a b) pont szerinti esetben az (1) beke
 (6) Az ügyvéd az általa ellenjegyzett, elektronikus formába alakított papíralapú okiratot, – ha a felek ennél hosszabb ideig történő őrzésben nem egyeztek meg – az átalakítástól számított öt évig megőrzi.
 
 (7) Az (5) és (6) bekezdésben foglalt kötelezettségek teljesítésének feltételeit a kamarai jogtanácsos azon ügyfele biztosítja, akinek az ügyében az okirat keletkezett.
+
+#### 26/A. Elektronikus okirat papíralapú okirati formába alakítása
+
+46/A. § (1) Az ügyvéd és a kamarai jogtanácsos (ezen alcím alkalmazásában a továbbiakban együtt: ügyvéd) az általa készített, a Dáptv. szerinti elektronikus magánokiratot – utalvány vagy értékpapír kivételével – papíralapú okirati formába alakíthat.
+
+(2) A papíralapú okirati formába való alakítás során az ügyvéd kizárólag oldalhű formában, az elektronikus okirat képi megjelenésének megfelelő nyomtatott papíralapú okiratot készíthet.
+
+(3) A papíralapú okirati formába alakítás során az ügyvéd az elektronikus okiraton található elektronikus aláírások érvényességét ellenőrzi.
+
+(4) A papíralapú okirati formába alakítás során a kamarai jogtanácsos ügyfelének a kamarai szabályzatban meghatározott követelményeknek megfelelő munkavállalója az elektronikus okiratról az elektronikus okirat képi megjelenésének megfelelő papíralapú másolat készítése körében közreműködhet.
+
+(5) Az ügyvéd a (3) bekezdés szerinti ellenőrzést követően köteles a papíralapú másolatot záradékolni és szárazbélyegzője lenyomatát, valamint aláírását a papíralapú okiraton elhelyezni. A záradék tartalmazza
+
+- a) az átalakítás helyét és időpontját,
+- b) az átalakítást végző ügyvéd nevét és kamarai azonosító számát,
+- c) azt, hogy az ügyvéd tanúsítja, hogy a papíralapú másolat az elektronikus okirat képi megjelenésének megfelel,
+- d) azt, hogy az elektronikus okiraton a papíralapúvá alakításkor mely aláírás érvényes, érvénytelen vagy melynek az érvényessége nem állapítható meg,
+- e) az elektronikus okiraton szereplő időbélyegző szerinti időpontot, valamint
+- f) azt, hogy az elektronikus okiratról hány papíralapú másolatot készített, és ezek közül az adott példány sorszámát.
+
+(6) Az (5) bekezdés szerinti záradékot a papíralapú másolat minden oldalán el kell helyezni, kivéve, ha a papíralapú okirat lapjait az ellenjegyző ügyvéd úgy fűzi össze, hogy az az okirat sérelme nélkül ne legyen megbontható.
+
+(7) Ha az ügyvéd e § szerint jár el, az ellenkező bizonyításáig úgy kell tekinteni, hogy a papíralapúvá alakított okirat az elektronikus okirattal az átalakítás időpontjában mindenben megegyezett.
+
+(8) Ha az ügyvéd az általa ellenjegyzett elektronikus okiratot a (2)–(5) bekezdés szerint alakítja papíralapú okirati formába és ezt a körülményt a papíralapú okirat záradékában rögzíti a papíralapú okirat is ügyvéd által ellenjegyzett magánokiratnak minősül.
+
+(9) Az ügyvéd a papíralapú formába alakított elektronikus okirat egy példányát – ha a felek ennél hosszabb ideig történő őrzésben nem egyeztek meg – a másolatkészítéstől számított tíz évig megőrzi.
+
+(10) Az ügyvéd az általa ellenjegyzett, papíralapú formába alakított elektronikus okiratot, – ha a felek ennél hosszabb ideig történő őrzésben nem egyeztek meg – az átalakítástól számított öt évig megőrzi.
+
+(11) A (9) és a (10) bekezdésben foglalt kötelezettségek teljesítésének feltételeit a kamarai jogtanácsos azon ügyfele biztosítja, akinek az ügyében az okirat keletkezett.
 
 #### 27. Az ügyvédi letét
 
@@ -1473,7 +1509,7 @@ követően folytatható.
 - c) megbízótól átvett vagy megbízót illető iratok átvételére, arról átvételi elismervény adására,
 - d) az ügyfél részére iratok kiadására,
 - e) fegyelmi és etikai eljárás kivételével a munkáltató képviseletében az ügyvédi kamara előtti eljárásra,
-- f) papíralapú okiratról oldalhű elektronikus másolatot készítésére,
+- f) papíralapú okiratról oldalhű elektronikus másolat, elektronikus okiratról az elektronikus okirat képi megjelenésének megfelelő papíralapú másolat készítésére,
 - g) az ügyvédi tevékenység gyakorlója által elektronikusan aláírt dokumentum elektronikus úton történő továbbítására, valamint
 - h) adat kérésére a pénzletétekről vezetett elektronikus nyilvántartásból.
 
@@ -2032,7 +2068,7 @@ való adatigénylés útján ellenőrzi.
 - d) cselekvőképességet érintő gondnokság vagy támogatott döntéshozatal hatálya alatt áll,
 - e) az ügyvédi esküt határidőben nem tette le,
 - f) a kamarai szabályzatban előírt továbbképzési kötelezettségének nem tesz eleget, vagy
-- g) adószámát véglegesen törölték.
+- g) adószámmal nem rendelkezik vagy adószámát véglegesen törölték.
 
 (1a) A területi kamara megszünteti a kamarai tagságot, ha ezt a kamarai tag lemondás útján kéri és igazolja az 54. § (1) bekezdése szerinti feltételek teljesítését.
 
@@ -2068,17 +2104,17 @@ való adatigénylés útján ellenőrzi.
 
 (3) A területi kamara az ügyvédi kamarai nyilvántartásba felvett európai közösségi jogászok részére a közgyűlésen az elnökség választása során szavazati jogot biztosít.
 
-153. § (1) A tisztségviselőket – a Magyar Ügyvédi Kamara elnökének, elnökségének, bizottságainak és tagjainak a kivételével, valamint a (3) bekezdésben foglalt kivétellel – négyévente titkos szavazással, közvetlenül választják (a továbbiakban: általános választás).
+153. § (1) A választási szervek kivételével a területi kamara tisztségviselőit és a küldötteket négyévente titkos szavazással, közvetlenül választják (a továbbiakban: területi általános választás). A területi választási szerveket a területi elnökség választja.
 
-(2) Az általános választást jelölés előzi meg, egy tisztségre több személy, egy személy több tisztségre is jelölhető. Akit több tisztségre választottak meg, egy ügyvédi kamarán belül kizárólag egy, általa kiválasztott tisztséget tölthet be.
+(2) A területi általános választást és az országos általános választást (a továbbiakban együtt: általános választás) jelölés előzi meg, egy tisztségre több személy, egy személy több tisztségre is jelölhető. Akit több tisztségre választottak meg, egy ügyvédi kamarán belül a küldötti tisztség kivételével kizárólag egy, általa kiválasztott tisztséget tölthet be.
 
-(3) A Magyar Ügyvédi Kamara szabályzata az e törvényben meghatározottakon kívül más tisztségviselő e fejezet szerinti megválasztásáról is rendelkezhet.
+(3) A Magyar Ügyvédi Kamara szabályzata és a területi ügyvédi kamara alapszabálya az e törvényben meghatározottakon kívül más tisztségviselő e fejezet szerinti megválasztásáról is rendelkezhet.
 
 (4) A Magyar Ügyvédi Kamara szabályzatában lehetővé teheti a jelölés során elektronikus hírközlő eszközök, a szavazatok összeszámlálása tekintetében elektronikus eszközök alkalmazását, ha a szabályzat az igénybe vehető elektronikus eszközöket, valamint azok alkalmazásának feltételeit és módját úgy határozza meg, hogy a jelölés során a jelölést leadó tagok azonosítása, a szavazatszámlálás során pedig az eredmény utólagos – akár elektronikus eszköz igénybevétele nélküli – ellenőrizhetősége biztosított legyen.
 
 154. § (1) A tisztségviselő megbízatása megszűnik
 
-- a) az új tisztségviselők általános választásának a napján,
+- a) az országos, illetve területi általános választások napján, küldöttek esetén az alakuló küldöttgyűlés napján,
 - b) a halála napján,
 - c) lemondásának az ügyvédi kamara elnökségével való írásbeli közlésének a napján,
 - d) visszahívásának a napján,
@@ -2145,13 +2181,12 @@ az új tisztségviselők megbízatásának a kezdő napjáig, illetve a b) pont 
 157. § (1) A Magyar Ügyvédi Kamara legfőbb döntéshozó szerve a küldöttgyűlés, amely százötven tagból áll. Tagjai
 
 - a) a területi kamarák elnökei,
-- b) a területi kamarák által küldött egy-egy tag,
-- c) a területi kamarák taglétszámának az ügyvédek összlétszámához viszonyított arányában a területi kamarák közgyűlése által a Magyar Ügyvédi Kamara küldöttgyűlésébe választott küldöttek,
-- d) a Magyar Ügyvédi Kamara elnökségébe a 159. § (2) bekezdése alapján delegált kamarai jogtanácsos és alkalmazott ügyvéd tagok.
+- b) a területi kamarák taglétszámának a tagok összlétszámhoz viszonyított arányában a területi kamarák közgyűlése által a Magyar Ügyvédi Kamara küldöttgyűlésébe választott küldöttek, azzal, hogy minden területi kamara legalább egy küldött választására jogosult,
+- c) a Magyar Ügyvédi Kamara elnökségébe a 159. § (2) bekezdése alapján delegált kamarai jogtanácsos és alkalmazott ügyvéd tagok.
 
 (2) A küldöttgyűlés
 
-- a) megválasztja, beszámoltatja és visszahívhatja az elnököt, az elnökséget, a bizottságokat és tagjaikat,
+- a) e törvény eltérő rendelkezése hiányában megválasztja, beszámoltatja és visszahívhatja az elnököt, az elnökséget, a bizottságokat és tagjaikat,
 - b) elfogadja a költségvetést és a költségvetési beszámolót,
 - c) véleményt nyilvánít, és javaslatot tesz az ügyvédi tevékenység gyakorlóit érintő jogalkotási és jogalkalmazási kérdésekben,
 - d) elfogadja az Alapszabályt,
@@ -2222,9 +2257,9 @@ az új tisztségviselők megbízatásának a kezdő napjáig, illetve a b) pont 
 
 #### 70. Az elnökség
 
-159. § (1) Az elnökség az elnökből, az elnökhelyettesekből, a főtitkárból, illetve titkárból, a területi ügyvédi kamarák elnökeiből, továbbá a küldöttgyűlés által választott elnökségi tagokból áll. A választott ügyvéd tagok száma – az Alapszabály eltérő rendelkezése hiányában – tíz fő.
+159. § (1) Az elnökség az elnökből, a főtitkárból, az Alapszabályban meghatározott számú elnökhelyettesekből és titkárokból, a területi ügyvédi kamarák elnökeiből, továbbá a küldöttgyűlés által választott elnökségi tagokból áll. A választott ügyvéd tagok száma – az Alapszabály eltérő rendelkezése hiányában – tíz fő.
 
-(2) A Magyar Ügyvédi Kamara elnökségének az általános választás kiírásának napján fennálló létszámarányuknak megfelelő számú legalább egy legfeljebb három tagja kamarai jogtanácsos, valamint legalább egy legfeljebb három tagja alkalmazott ügyvéd. E tagok közül a kamarai jogtanácsosok országos tagozatának az elnöke a Magyar Ügyvédi Kamara egyik elnökhelyettese.
+(2) A Magyar Ügyvédi Kamara elnökségének az országos általános választás évének első napján fennálló létszámarányuknak megfelelő számú legalább egy, legfeljebb három tagja kamarai jogtanácsos, valamint legalább egy, legfeljebb három tagja alkalmazott ügyvéd. E tagok közé az ezer főnél nagyobb taglétszámú területi kamara kamarai jogtanácsos elnökhelyettesét kell a Magyar Ügyvédi Kamara elnökségébe delegálni. A kamarai jogtanácsosok országos tagozatának elnöke a Magyar Ügyvédi Kamara elnökségének tagja és a Magyar Ügyvédi Kamara egyik elnökhelyettese.
 
 (3) Az elnökség ülésén a Magyar Ügyvédi Kamara fegyelmi bizottságának az elnöke, valamint az országos fegyelmi főbiztos tanácskozási joggal vesz részt.
 
@@ -2234,7 +2269,7 @@ az új tisztségviselők megbízatásának a kezdő napjáig, illetve a b) pont 
 - b) előterjeszti a Magyar Ügyvédi Kamara költségvetését és a költségvetési beszámolót, tevékenységéről beszámol a küldöttgyűlésnek,
 - c) eljár kamarai hatósági ügyekben,
 - d) kezdeményezheti az összeférhetetlenség megállapítását,
-- e)
+- e) megválasztja a Magyar Ügyvédi Kamara választási szerveit,
 - f)
 - g) dönt a tisztségviselők díjazásáról,
 - h) a területi kamara elnökségének nem hatósági ügyben hozott, jogszabályt, alapszabályt vagy szabályzatot sértő határozatát hatályon kívül helyezi,
@@ -2317,7 +2352,7 @@ a területi kamara szerveinek hatáskörébe tartozó nem egyedi döntéseknél.
 (2) A közgyűlés
 
 - a) elfogadja a területi kamara alapszabályát,
-- b) megválasztja, beszámoltatja és visszahívhatja a területi kamara elnökét, a területi elnökséget, a bizottságokat, a bizottság tisztségviselőit és tagjait,
+- b) e törvény eltérő rendelkezése hiányában beszámoltatja és visszahívhatja a területi kamara elnökét, a területi elnökséget, a bizottságokat, a bizottság tisztségviselőit és tagjait,
 - c) megválasztja és visszahívhatja a Magyar Ügyvédi Kamarába küldött tagokat,
 - d) elfogadja a költségvetést és a költségvetési beszámolót,
 - e) javaslatot tesz az ügyvédi tevékenység gyakorlására jogosultakat érintő kérdésekben a Magyar Ügyvédi Kamarának, valamint
@@ -2370,8 +2405,9 @@ kamarai jogtanácsos, illetve alkalmazott ügyvéd.
 - c) eljár kamarai hatósági ügyekben,
 - d) kezdeményezheti az összeférhetetlenség megállapítását,
 - e) elbírálja a területi kamara elnökének a határozata elleni fellebbezést,
-- f) dönt a területi kamara tisztségviselőinek díjazásáról, valamint
-- g) elvégzi a közgyűlés és a területi kamara alapszabálya által meghatározott egyéb feladatokat.
+- f) dönt a területi kamara tisztségviselőinek díjazásáról,
+- g) megválasztja a területi kamara választási szerveit, valamint
+- h) ellátja a közgyűlés és a területi kamara alapszabálya által meghatározott egyéb feladatokat.
 
 (6) A területi elnökség nem hatósági határozata ellen a területi kamara tagja, valamint akinek az jogát vagy jogos érdekét közvetlenül érinti a határozat közlésétől számított tizenöt napon belül – jogszabály, a területi kamara alapszabálya vagy a Magyar Ügyvédi Kamara szabályzatának megsértésére hivatkozással – a Magyar Ügyvédi Kamara elnökségéhez fellebbezhet. Ez a jog nem érinti az egyes ügyekre e törvényben külön meghatározott jogorvoslati lehetőséget.
 

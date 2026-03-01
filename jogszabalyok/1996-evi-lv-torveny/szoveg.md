@@ -700,6 +700,12 @@ engedélyével létesíthető.
 
 (7) Ha a föld használója vagy az engedélyes határidőben nem tesz eleget a (6) bekezdés szerinti felszólításnak, a vadászati hatóság a tartós telepítésű kerítés felszámolása tekintetében az (5d) bekezdésben foglaltak szerint jár el.
 
+(8) Az (5) bekezdésben foglaltakat nem kell alkalmazni az állattartó telephez tartozó, vadászterületen létesítendő, legelő művelési ágú ingatlan (a továbbiakban: állattartó telephez tartozó legelő) tartós telepítésű kerítéssel történő bekerítése esetén. Állattartó telephez tartozó legelőn létesítendő tartós telepítésű kerítés engedélyezéséről a vadászati hatóság dönt.
+
+(9) A (8) bekezdés alkalmazásában állattartó telepnek minősül bármely olyan, a Tenyészet Információs Rendszerben nyilvántartott tartási hely, ahol közvetlenül az állatok elhelyezésére, védelmére szolgáló épületeken kívül az állattartás egyéb létesítményei is megtalálhatók.
+
+(10) Az (5a) és (5c)–(7) bekezdésben foglaltakat állattartó telephez tartozó legelőn létesítendő tartós telepítésű kerítés esetén is alkalmazni kell.
+
 #### 30. §
 
 #### 31. §
@@ -1194,6 +1200,8 @@ a vadászat alkalmával köteles magánál tartani, és azt a vadászatra jogosu
 
 65. § (1) A vadászati hatóság – a vadászlőfegyver tartását engedélyező hatóság egyidejű tájékoztatása mellett – a vadászjegyet vagy a vadászati engedélyt az elkövetett cselekmény súlyától függően három hónaptól öt évig terjedő időtartamra visszavonja attól a vadásztól, akivel szemben vadvédelmi bírságot szabtak ki, illetve akivel szemben a bíróság orvvadászat bűntettében jogerős marasztaló döntést hozott.
 
+(1a) Az (1) bekezdésben meghatározott jogerős marasztaló döntés esetén a döntést hozó bíróság a vadászati hatóságot – a vadászjegy vagy vadászati engedély visszavonása érdekében – tájékoztatja.
+
 (2) A vadászati hatóság – a vadászlőfegyver tartását engedélyező hatóság egyidejű tájékoztatása mellett – a vadászjegyet vagy vadászati engedélyt visszavonja attól a vadásztól, aki a vadászjegy vagy a vadászati engedély kiállításához szükséges feltételeknek az időközben bekövetkezett változás miatt nem felel meg.
 
 (3) A vadászati hatóság a vadászjegy vagy a vadászati engedély visszavonásáról szóló döntésről, annak véglegessé válásától számított nyolc napon belül értesíti a Vadászkamarát, amely az értesítés kézhezvételét követő nyolc napon belül intézkedik a vadászjegy vagy a vadászati engedély érvénytelenítéséről.
@@ -1337,9 +1345,14 @@ az e törvény végrehajtására kiadott rendeletben meghatározott vadfajok ál
 
 ### Trófeabírálat
 
-73. § (1) A vadászatra jogosult az elejtett gímszarvas, dámszarvas, szikaszarvas és az őz agancsát, a muflon csigáját, valamint a vaddisznó tizenhat centiméternél hosszabb agyarát az elejtéstől – elhullott trófeás vad esetén a birtokbavételtől – számított harminc napon belül köteles trófeabírálat céljából a vadászati hatóságnál bemutatni.
+73. § (1) A vadászatra jogosult az elejtett
 
-(2) A vadászatra jogosult a róka, az aranysakál és a borz koponyáját az elejtéstől számított harminc napon belül trófeabírálat céljából a vadászati hatóságnál bemutathatja.
+- a) gímszarvas, dámszarvas és őz agancsát az elejtéstől – elhullott trófeás vad esetén a birtokbavételtől – számított harminc napon belül,
+- b) szikaszarvas agancsát, muflon csigáját, valamint vaddisznó tizenhat centiméternél hosszabb agyarát az elejtéstől – elhullott trófeás vad esetén a birtokbavételtől – számított kilencven napon belül
+
+köteles trófeabírálat céljából a vadászati hatóságnál bemutatni.
+
+(2) A vadászatra jogosult a róka, az aranysakál és a borz koponyáját az elejtéstől számított kilencven napon belül trófeabírálat céljából a vadászati hatóságnál bemutathatja.
 
 (3) A vadászati hatóság csak a bírálatra alkalmas állapotban levő trófea bírálatát végzi el.
 
@@ -1373,7 +1386,7 @@ az e törvény végrehajtására kiadott rendeletben meghatározott vadfajok ál
 
 (8) A trófeabírálat részletes szabályait a miniszter az e törvény felhatalmazása alapján kiadott rendeletben állapítja meg.
 
-74/A. § (1) A vadászati hatóság az elejtés esetleges szakszerűtlenségéről a trófeabírálatot követő 8 napon belül határozatban dönt. „Szakszerűtlen” minősítés esetén érem és oklevél nem adható.
+74/A. § (1) A vadászati hatóság – a trófea trófeabírálaton történt bemutatására vonatkozó igazolás 74. § (4) bekezdése szerinti kiállításának esetét kivéve – az elejtés esetleges szakszerűtlenségéről a trófeabírálatot követő 8 napon belül határozatban dönt.
 
 (2) Ha a vadászati hatóság megállapítja, hogy a vadászatra jogosult az adott trófeás vadfaj hasznosítása során szakszerűtlen vadgazdálkodási tevékenységet folytat, a trófeás nagyvadállomány minőségi védelme érdekében figyelmezteti a vadászatra jogosultat a szakszerűség betartására. Ha a vadászatra jogosult a figyelmeztetésben foglaltakat nem tartja be és a vadászati hatóság ugyanabban a vadászati évben a figyelmeztetéssel érintett trófeás vadfajra vonatkozóan ismételten szakszerűtlen elejtést állapít meg, a vadászatra jogosultat a trófeás vad hasznosításától eltiltja. A vadászati hatóság a tiltásban foglaltak megszegése esetén vadgazdálkodási bírságot szab ki.
 
@@ -1956,3 +1969,5 @@ való megfelelést szolgálja.
 118. § A 16. § (4) bekezdésében foglaltakat a 116. § és a 117. § szerinti haszonbérleti szerződésekre is alkalmazni kell.
 
 119. § Az 58/A. és 58/B. §-ban foglalt rendelkezéseket első alkalommal a 2026. március 1-jén kezdődő vadászati év tekintetében kell alkalmazni.
+
+120. § E törvénynek az agrárminiszter feladatkörét érintő törvények módosításáról szóló 2025. évi XCVII. törvénnyel megállapított 29/A. § (8)–(10) bekezdését a 2026. március 1-jén folyamatban lévő eljárásokban is alkalmazni kell.

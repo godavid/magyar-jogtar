@@ -338,6 +338,8 @@ kerülhet sor.
 
 (6) Alzálogjoggal terhelt jelzálogjog az alzálogjog jogosultjának hozzájárulása nélkül csak akkor törölhető, ha a jelzálogjog jogosultja a törlésre irányuló bejegyzési engedélyben nyilatkozik arról, hogy a jelzálogjoggal biztosított és az alzálogjog tárgyát képező követelés teljes egészében kielégítést nyert.
 
+34/A. § A társasházi építményi jog jogosultjának halála esetén a társasházi építményi jog az adásvételi szerződés megszűnéséből eredő, a társasházi építményi jog kötelezettjével szembeni követelés jogosultja által kiállított törlési engedély alapján törölhető az ingatlan-nyilvántartásból, feltéve, hogy a társasházi építményi jog a társasházakról szóló 2003. évi CXXXIII. törvény 11/A. § (7) bekezdése szerint szűnt meg.
+
 #### 17. Az okiratok kellékei
 
 35. § (1) Ha e törvény vagy az e törvény felhatalmazása alapján kiadott kormányrendelet másként nem rendelkezik, az ingatlan-nyilvántartási bejegyzés vagy törlés alapjául szolgáló okiratnak tartalmaznia kell:
@@ -388,6 +390,8 @@ kerülhet sor.
 
 38. § Ha a társasházakról szóló törvényben szabályozott társasházi közösköltség-tartozás, illetve a lakásszövetkezetekről szóló törvényben szabályozott költséghátralék biztosítékául szolgáló jelzálogjog bejegyzése iránti eljárásban benyújtott okirat nem tartalmazza a kötelezett személyi azonosító jelét, akkor azt az ingatlanügyi hatóság a személyiadat- és lakcímnyilvántartásból történő adatátvétellel, hivatalból pótolja.
 
+38/A. § A 35. § (1) bekezdés g) pontjától eltérően, ha a társasházi építményi jogot azért kell törölni, mert a társasházi építményi jog kötelezettje elállt az adásvételi szerződéstől, akkor a törlésnek olyan közokirat alapján is helye van, amelyben a társasházi építményi jog jogosultja a társasházi építményi jog kötelezettjének adásvételi szerződéstől történő elállása esetére járult hozzá a társasházi építményi jog törléséhez.
+
 #### 18. A külföldön kelt okiratok
 
 39. § (1) Ha a magánokiratot külföldön állították ki, – a (2) és (3) bekezdésben meghatározott kivétellel – a nyilatkozattevő aláírását (kézjegyét) a magyar külképviseleti hatósággal kell hitelesíttetni, illetve az aláírás (kézjegy) hitelesítésére jogosult külföldi szerv által történt hitelesítést kell a magyar külképviseleti hatósággal hitelesíttetni (diplomáciai hitelesítés, illetve felülhitelesítés). Ahol magyar külképviseleti hatóság nem működik, az aláírást (kézjegyet) a magyar állam érdekeit képviselő állam külképviseleti hatóságával kell hitelesíttetni.
@@ -434,9 +438,11 @@ kerülhet sor.
 
 (2) Bejegyzett jog vagy tény törlésének, ha ezt az e törvény felhatalmazása alapján kiadott kormányrendelet nem zárja ki, a jog vagy tény jogosultja kérelme alapján is helye van.
 
-(3) A kérelem – a (4) bekezdésben foglalt eltéréssel – addig az időpontig, amíg az ingatlanügyi hatóság a döntés közlése iránt nem intézkedik, a bejegyzéssel közvetlenül érintett valamennyi személy közokiratba, ügyvéd vagy kamarai jogtanácsos által ellenjegyzett magánokiratba foglalt közös nyilatkozatával visszavonható vagy módosítható. Ha a bejegyzés folytán harmadik személy vált volna jogosulttá, a kérelem visszavonásához vagy módosításához az érintett harmadik személy közokiratba, ügyvéd vagy kamarai jogtanácsos által ellenjegyzett magánokiratba foglalt hozzájárulása is szükséges.
+(3) A kérelem – a (4) és (5) bekezdésben foglalt eltéréssel – addig az időpontig, amíg az ingatlanügyi hatóság a döntés közlése iránt nem intézkedik, a bejegyzéssel közvetlenül érintett valamennyi személy közokiratba, ügyvéd vagy kamarai jogtanácsos által ellenjegyzett magánokiratba foglalt közös nyilatkozatával visszavonható vagy módosítható. Ha a bejegyzés folytán harmadik személy vált volna jogosulttá, a kérelem visszavonásához vagy módosításához az érintett harmadik személy közokiratba, ügyvéd vagy kamarai jogtanácsos által ellenjegyzett magánokiratba foglalt hozzájárulása is szükséges.
 
 (4) Attól az időponttól kezdődően, hogy az érintett ingatlanra, tulajdoni hányadot érintő kérelem esetén az érintett tulajdoni hányadra vonatkozó további kérelmet, bírósági elrendelést vagy hatósági felhívást széljegyzett az ingatlanügyi hatóság, a kérelem csak a következő széljegy (széljegyek) jogosultjainak a (3) bekezdésben szabályozottak szerint kiállított hozzájárulásával módosítható vagy vonható vissza.
+
+(5) Ha az ingatlan tulajdoni lapján társasházi építményi jogra vonatkozó bejegyzés szerepel, a társasház alapítása iránti kérelem nem vonható vissza.
 
 45. § Amennyiben a bejegyzett jog törlése hivatalból elmaradt, nem kell okiratot csatolni a törlés iránti kérelemhez, ha a haszonélvezeti, a tartási, gondozási vagy az életjáradéki jog, továbbá a használat jogának a jogosult elhalálozása következtében történő megszűnése a személyiadat- és lakcímnyilvántartásban szereplő adatokból kétségtelenül megállapítható.
 
@@ -1262,3 +1268,10 @@ bejegyzésére, módosítására, törlésére irányul;
 
 - 1. a közérdekű használati jog, ha az érintett ingatlannak egynél több tulajdonosa van;
 - 2. a közúti közlekedésről szóló 1988. évi I. törvény 29. § (1c) és (1f) bekezdése szerinti vagyonkezelői jog;
+
+#### II. A törlendő jog kötelezettjének kérelme alapján törölhető:
+
+- 1. a társasházi építményi jog, ha a társasházi építményi jog kötelezettje csatolja a társasházi építményi jog jogosultjának közjegyzői okiratba foglalt törlési engedélyét és közokiratban vagy ügyvéd, illetve kamarai jogtanácsos által ellenjegyzett magánokiratban nyilatkozik, hogy a társasházi építményi jog bejegyzése alapjául szolgáló adásvételi szerződéstől a kérelem benyújtását legalább 60 nappal megelőző időpontban elállt, és a társasházi építményi jog jogosultja az elállás érvénytelenségének megállapítása iránt az elállás közlésétől számított 60 napon belül nem indított pert.
+- 2. a társasházi építményi jog a jogosult halála esetén, feltéve, hogy a társasházi építményi jog a társasházakról szóló 2003. évi CXXXIII. törvény 11/A. § (7) bekezdése szerint szűnt meg.
+
+#### III. A társasházi építményi jog kötelezettjének kérelme alapján törölhető a társasházi építményi jogot terhelő jelzálogjog, valamint a társasházi építményi jogot terhelő jelzálogjogot biztosító elidegenítési tilalom, terhelési tilalom vagy elidegenítési és terhelési tilalom, ha a társasházi építményi jog törlésére a társasházi építményi jog kötelezettjének a társasházi építményi jog bejegyzése alapjául szolgáló adásvételi szerződéstől történt elállására tekintettel kerül sor.

@@ -37,10 +37,10 @@ a lőfegyverekről és lőszerekről
 - 14. légfegyver: a 15 joule vagy annál kisebb csőtorkolati energiájú festéklövő fegyver kivételével a sűrített levegővel vagy egyéb sűrített gáz felhasználásával üzemeltetett, szilárd anyagú lövedék kilövésére alkalmas fegyver;
 - 15. leváló köpenyes lőszer: olyan lőszer, amelynek lövedéke űrméret alatti, és a fegyvercsőben való megvezetését – esetenként a lőporgázok hajtóerejének átadását is – valamilyen, a lövedékre szerelt alkatrész végzi, amely úgy lett kialakítva, hogy a cső elhagyását követően a lövedékről – annak a célba csapódását megelőzően – leváljon;
 - 16. lőfegyver: a tűzfegyver, valamint az a légfegyver, amelyből 7,5 joule-nál nagyobb csőtorkolati energiájú, szilárd anyagú lövedék lőhető ki;
-- 17. lőfegyverjavítás: a rendeltetésszerű használatnak meg nem felelő lőfegyver fegyverrészének ugyanolyan alkatrészre történő kicserélése, a lőfegyver irányzékán – a rendeltetés szerinti beállítás, illetve a tartozékok rendeltetésszerű, a körülményekhez igazodó cseréje kivételével – végrehajtott módosítás, továbbá a lőfegyver működőképességének helyreállítása;
+- 17. lőfegyverjavítás: a moduláris tűzfegyver összeállítását és szétbontását ide nem értve a rendeltetésszerű használatnak meg nem felelő lőfegyver fegyverrészének ugyanolyan alkatrészre történő kicserélése, a lőfegyver irányzékán – a rendeltetés szerinti beállítás, illetve a tartozékok rendeltetésszerű, a körülményekhez igazodó cseréje kivételével – végrehajtott módosítás, továbbá a lőfegyver működőképességének helyreállítása;
 - 18. lőfegyver-kereskedő: az a természetes személy, jogi személy, valamint jogi személyiséggel nem rendelkező gazdálkodó szervezet, aki (amely) kereskedelmi vagy egyéb üzleti tevékenységét teljes egészében vagy részben lőfegyver-, lőfegyverdarab-, lőszer-, illetve lőszerelem-gyártás, kereskedelem, közvetítő kereskedelem, csere, bérbeadás, javítás, hatástalanítás vagy átalakítás területén végzi;
 - 19. forgalmazás: lőfegyver, – a lőszer ideiglenes átvétele, valamint a lőszer továbbadása kivételével – lőszer, illetve egyéb fegyver tulajdonjogának átruházása, bérbeadása, ideértve a kereskedelmi és közvetítő kereskedelmi tevékenységet is;
-- 20. lőfegyver- és lőszerkészítés (a továbbiakban: gyártás): lőfegyver, lőszer, lőfegyverdarab, flóberttöltény és lőszeralkatrész elkészítése, az elkészített alkatrészek készre szerelése, valamint a lőfegyver olyan megmunkálása, amely azt az eredetitől eltérő kaliberjelű lőszer használatára teszi alkalmassá;
+- 20. lőfegyver- és lőszerkészítés (gyártás): a moduláris tűzfegyver összeállítását és szétbontását ide nem értve lőfegyver, lőszer, lőfegyverdarab, flóberttöltény és lőszeralkatrész elkészítése, az elkészített alkatrészek készre szerelése, valamint a lőfegyver olyan megmunkálása, amely azt az eredetitől eltérő kaliberjelű lőszer használatára teszi alkalmassá;
 - 21. lőfegyvertartás: a birtoklás, a viselés és a tárolás;
 - 22. lőszer: olyan egybeszerelt töltény, amely lövedéket, lőport, továbbá gyúelegyet tartalmaz;
 - 23. lőszeralkatrész (lőszerelem): lőpor, gyúelegyes töltényhüvely (csappantyús töltényhüvely), csappantyú és minden robbanó, gyújtó, fényjelző, páncéltörő és leváló köpenyes lövedék, melyet tűzfegyverből történő kilövésre terveztek;
@@ -50,7 +50,7 @@ a lőfegyverekről és lőszerekről
 - 27. robbanó lövedékeket tartalmazó lőszer: olyan lőszer, amelynek lövedéke becsapódáskor felrobbanó töltetet tartalmaz;
 - 28. rövid lőfegyver: olyan lőfegyver, amelynek csöve nem haladja meg a 30 cm hosszúságot, vagy amelynek teljes hossza nem haladja meg a 60 centimétert;
 - 29. tűzfegyver: az 1. mellékletben meghatározott
-  - a) „A” vagy „B” kategóriába tartozó olyan – vagy olyanná átalakítható – kézifegyver, amelynek csövéből gyúlékony hajtóanyag segítségével szilárd anyagú lövedék lőhető ki, ideértve a szilárd anyagú lövedék gyúlékony hajtóanyag segítségével történő kilövésére átalakítható fegyvert is, kivéve, ha aa) riasztásra, jelzésre, életmentésre, állatok leölésére vagy szigonnyal történő halászatra, illetve ipari vagy műszaki célokra tervezték, feltéve, hogy rendeltetésszerűen csak e célokra használható, vagy ab) e törvény alapján hatástalanított lőfegyvernek vagy muzeális fegyvernek minősül,
+  - a) „A” vagy „B” kategóriába tartozó olyan – vagy olyanná átalakítható – kézifegyver, amelynek csövéből gyúlékony hajtóanyag segítségével szilárd anyagú lövedék lőhető ki, ideértve az összeállított moduláris tűzfegyvert, valamint a szilárd anyagú lövedék gyúlékony hajtóanyag segítségével történő kilövésére átalakítható fegyvert is, kivéve, ha aa) riasztásra, jelzésre, életmentésre, állatok leölésére vagy szigonnyal történő halászatra, illetve ipari vagy műszaki célokra tervezték, feltéve, hogy rendeltetésszerűen csak e célokra használható, vagy ab) e törvény alapján hatástalanított lőfegyvernek vagy muzeális fegyvernek minősül,
   - b) „A” vagy „B” kategóriába tartozó színházi tűzfegyver,
   - c) „A”, „B” vagy „C” kategóriába tartozó olyan eszköz, amely rendeltetésszerűen csak gáztöltény vagy riasztótöltény működtetésére alkalmas, feltéve, hogy e törvény alapján nem minősül gáz- és riasztófegyvernek, valamint
   - d) „C” kategóriába tartozó, a lőszer, illetve lövedék kilövésére a Bizottsági Rendelet I. MELLÉKLETÉBEN meghatározott követelményeknek megfelelő módon véglegesen alkalmatlanná tett tűzfegyver;
@@ -82,6 +82,9 @@ a lőfegyverekről és lőszerekről
 - 52. a lőfegyverhez (tűzfegyverhez) tartozó (használható) lőszer: kaliberjelére való tekintet nélkül a jogszerűen tartott lőfegyverhez (tűzfegyverhez) rendeltetésszerűen használható lőszer, ha annak a lőfegyverrel (tűzfegyverrel) – az engedélyezett célra – történő együttes használatát a jogszabály nem zárja ki.
 - 53. lőszer ideiglenes átvétele: az átadás és az átengedés esetét ide nem értve a lőszernek közvetlenül a tartására jogosulttól a továbbadás céljából megvalósuló, ellenérték nélküli megszerzése;
 - 54. lőszer továbbadása: az átadás és az átengedés esetét ide nem értve az ideiglenes átvétel keretében megszerzett lőszernek közvetlenül a tartására jogosult részére történő, ellenérték nélküli rendelkezésre bocsátása.
+- 55. moduláris tűzfegyver: a rendészetért felelős miniszter rendeletében meghatározott műszaki követelményeknek megfelelő tűzfegyver;
+- 56. moduláris tűzfegyver fődarabja: a rendészetért felelős miniszter rendeletében meghatározott műszaki követelményeknek megfelelő tűzfegyver fődarab (lőfegyverdarab);
+- 57. moduláris tűzfegyver összeállítása és szétbontása: a moduláris tűzfegyver házilag történő összeállítására, illetve a moduláris tűzfegyvert alkotó tűzfegyver fődarabok (lőfegyverdarabok) házilag történő elkülönítésére irányuló olyan tevékenység, amelynek az eredményeként a moduláris tűzfegyvernek a kizárólag az 1. melléklet szerinti valamely kategóriára, illetve alkategóriára jellemző tulajdonsága nem változik a kizárólag az 1. melléklet szerinti valamely másik kategóriára, illetve alkategóriára jellemző tulajdonságra.
 
 ### A HATÓSÁGI ENGEDÉLYEZÉS SZABÁLYAI
 
@@ -96,11 +99,13 @@ a lőfegyverekről és lőszerekről
 - e) a muzeális fegyver gyártásához, javításához, forgalmazásához, sportlövészeti célú használatához, illetve az elöltöltő fegyver vadászati célú használatához,
 - f) a polgári rendeltetésű lőtér, a lőfegyver- és lőszertárolóhely üzemeltetéséhez, valamint lövészetvezetői tevékenység végzéséhez.
 
-(2) Az (1) bekezdés c) pontjában meghatározott eszköz – a (2a) és a (2b) bekezdésben meghatározott kivétellel – a tartására jogosító engedély birtokában szerezhető meg. A rendőrség az engedélyt visszavonja, ha a jogosult az abban meghatározott eszközt az engedély kiállításától számított 90 napon belül nem szerzi meg.
+(2) Az (1) bekezdés c) pontjában meghatározott eszköz – a (2a)–(2c) bekezdésben meghatározott kivétellel – a tartására jogosító engedély birtokában szerezhető meg. A rendőrség az engedélyt visszavonja, ha a jogosult az abban meghatározott eszközt az engedély kiállításától számított 90 napon belül nem szerzi meg.
 
 (2a) A 3/A. § (6) bekezdése alapján kiadott engedély az abban meghatározott tűzfegyver adásvétel útján történő megszerzésére nem jogosít.
 
 (2b) A lőszer ideiglenes átvétele keretében – az e törvényben, valamint a Kormány rendeletében meghatározottak szerint – a lőfegyverhez tartozó (használható) lőszertől különböző lőszer is megszerezhető.
+
+(2c) A moduláris tűzfegyver fődarabja a lőfegyver tartására jogosító engedély birtokában is megszerezhető, ha a moduláris tűzfegyvert a lőfegyver tartására jogosító engedély meglétét igazoló hatósági igazolványba bejegyezték.
 
 (3) Az (1) bekezdés c) pont ca) alpontjában meghatározott engedéllyel rendelkező személy vagy szervezet az engedélyben nem szereplő – az engedélyben meghatározott célra rendelt és az adott célra jogszerűen tartható – tűzfegyvert, lőfegyverdarabot, az e törvény alapján lőfegyvernek minősülő légfegyvert, lőszerelemet, valamint a jogszerűen tartott működőképes lőfegyverhez tartozó (használható) lőszert az engedély birtokában szerezheti meg. A jogszerűen tartott működőképes lőfegyverhez tartozó (használható) lőszer megszerzéséhez a lőfegyvernek a tartására jogosító engedély meglétét igazoló hatósági igazolványba történő bejegyzése szükséges. Filmgyártási célra tartott lőfegyverhez, valamint a 2. § 29. pont b)–d) alpontjában meghatározott tűzfegyverhez lőszer nem szerezhető meg. A központi gyújtású félautomata tűzfegyverhez való, 20 lőszert meghaladó befogadóképességű töltőszerkezet, illetve a hosszú tűzfegyverhez való, 10 lőszert meghaladó befogadóképességű töltőszerkezet kizárólag az ilyen tűzfegyver tartására jogosító engedély birtokában szerezhető meg. A hangtompító az annak tartására, vagy – ha a hangtompító tartását a jogszabály a lőfegyver tartására való jogosultság alapján is lehetővé teszi, – a lőfegyver tartására jogosító engedély birtokában szerezhető meg, a lőfegyver tartására való jogosultság alapján abban az esetben, ha a hangtompító felszerelésére alkalmas lőfegyvert a tartására jogosító engedély meglétét igazoló hatósági igazolványba bejegyezték.
 
@@ -239,9 +244,9 @@ tartása, valamint lézeres célzókészülék és éjszakai irányzék lőfegyv
 
 (2) Jogszabály az (1) bekezdésben meghatározott körbe tartozó adatoknak a lőfegyverek központi nyilvántartásába elektronikus úton történő továbbítását kötelezővé teheti, illetve előírhatja, hogy az átalakítást kizárólag az elektronikus úton történő adattovábbításhoz meghatározott technikai feltételekkel rendelkező végezheti.
 
-### A LŐFEGYVER, ILLETVE A LŐSZER MEGSEMMISÍTÉSÉNEK SZABÁLYAI
+### A LŐFEGYVER, A LŐFEGYVERDARAB, ILLETVE A LŐSZER MEGSEMMISÍTÉSÉNEK SZABÁLYAI
 
-4/H. § (1) A lőfegyver, illetve a lőszer – miniszteri rendeletben meghatározottak szerint – a rendőrség erről szóló döntése alapján semmisíthető meg, kizárólag abban az esetben, ha
+4/H. § (1) A lőfegyver, a tűzfegyver fődarab (lőfegyverdarab), illetve a lőszer – miniszteri rendeletben meghatározottak szerint – a rendőrség erről szóló döntése alapján semmisíthető meg, kizárólag abban az esetben, ha
 
 - a) a megsemmisítéshez a tulajdonos hozzájárult,
 - b) a tulajdonos ismeretlen, és kilétének a megállapítására a továbbiakban sincs kilátás, vagy
@@ -293,7 +298,7 @@ meghatározott körülményre vonatkozó adatokat átveszi és az átvételtől 
   - ab) a lőfegyver, lőszer tartására jogosító engedélybe bejegyzett jogosult, a lőfegyver, lőszer forgalmazásakor a forgalmazás időpontja, valamint a vevő, az eladó (szállító), illetve a megrendelő, az engedéllyel rendelkező jogi személy vezető tisztségviselői, egyéb szervezet esetén a tevékenységért felelős vezető és a szervezet lőfegyverét, lőszerét ténylegesen birtokló személy 1. természetes személyazonosító adatai, 2. állampolgársága, 3. lakóhelye, 4. személyazonosságának az igazolására alkalmas igazolvány száma, továbbá 5. szervezet esetében a cégszerű megnevezésben szereplő – annak hiányában az azonosításhoz szükséges – adatok,
   - ac) az engedéllyel rendelkező személy egészségi alkalmasságának időtartama,
   - ad) a nyilvántartásba vett 1. lőfegyver fajtája (tűzfegyver vagy légfegyver), 2. lőfegyver típusa, 3. lőfegyver gyártója, 4. lőfegyver gyártási száma, 5. lőfegyver kaliberjele, 6. tűzfegyver eredeti és – ennek változása esetén – megváltozott kategóriájának és alkategóriájának betűjele, valamint száma (az 1–6. pontban foglaltak a továbbiakban együtt: a lőfegyver azonosító adatai), 7. tűzfegyver vonatkozásában a tűzfegyver kategóriájának, illetve alkategóriájának a megváltozását eredményező átalakítás időpontja, továbbá 8. lőfegyver műszaki érvényességének időtartama,
-  - ae) a tűzfegyver fődarab e törvény szerinti megnevezése, gyártási száma, valamint – ha a tűzfegyver fődarab tűzfegyverbe került beépítésre, – a tűzfegyver ad) alpontban meghatározott adatai,
+  - ae) a tűzfegyver fődarab e törvény szerinti megnevezése, gyártási száma, valamint – ha a tűzfegyver fődarab tűzfegyverbe került beépítésre vagy moduláris tűzfegyver fődarabja, – a tűzfegyver ad) alpontban meghatározott adatai,
   - af) a lőszer azonosítását lehetővé tevő adatok,
 - b) a gyártó által gyártott és raktározott
   - ba) a bb) alpont hatálya alá nem tartozó lőfegyverről – a gyártásra jogosító engedély érvényességi idejének lejártától számított húsz évig – az a) pont ad) alpontjában meghatározott adattartalommal, a lőfegyver műszaki érvényességének kivételével,
@@ -628,8 +633,8 @@ ha azt nem a bejelentés előterjesztésére jogosult központi azonosítási ü
 (2) Felhatalmazást kap a rendészetért felelős miniszter, hogy rendeletben meghatározza:
 
 - a) a lőfegyver, lőszer hatósági tárolásának, leadásának, értékesítésének, valamint megsemmisítésének a részletes szabályait, továbbá a lőfegyverek központi nyilvántartásába történő elektronikus adattovábbítás technikai feltételeit,
-- b) a fegyver tartásához, illetve jogszerű használatához, valamint a házilagos lőszerszereléshez és -újratöltéshez szükséges elméleti és jártassági követelményeket és számonkérésük rendjét, továbbá a lőterek működtetésére és a lövészetvezetői vizsgára vonatkozó szabályokat.
-- c) a polgári célú pirotechnikai tevékenység feltételeként előírt képesítési követelményeket, a képesítés megszerzésének feltételeit és az ehhez kapcsolódó képzési tevékenység szabályait, továbbá a képesítés ellenőrzésének és a képzési tevékenység hatósági felügyeletének a rendjét;
+- b) a fegyver tartásához, illetve jogszerű használatához, valamint a házilagos lőszerszereléshez és -újratöltéshez szükséges elméleti és jártassági követelményeket és számonkérésük rendjét, továbbá a lőterek működtetésére és a lövészetvezetői vizsgára vonatkozó szabályokat,
+- c) a polgári célú pirotechnikai tevékenység feltételeként előírt képesítési követelményeket, a képesítés megszerzésének feltételeit és az ehhez kapcsolódó képzési tevékenység szabályait, továbbá a képesítés ellenőrzésének és a képzési tevékenység hatósági felügyeletének a rendjét.
 
 (3) Felhatalmazást kap a rendészetért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben rendeletben meghatározza:
 
@@ -640,7 +645,7 @@ ha azt nem a bejelentés előterjesztésére jogosult központi azonosítási ü
 
 (5) Felhatalmazást kap a rendészetért felelős miniszter, hogy a kereskedelemért felelős miniszterrel egyetértésben rendeletben:
 
-- a) meghatározza a fegyver és lőszer forgalomba hozatalához, forgalmazásához szükséges megelőző és időszakos megvizsgálásának szabályait;
+- a) meghatározza a fegyver és lőszer forgalomba hozatalához, forgalmazásához szükséges megelőző és időszakos megvizsgálásának szabályait, valamint a moduláris tűzfegyver, a moduláris tűzfegyver fődarabja műszaki követelményeit;
 - b) meghatározza az a) pontban felsorolt eszközök vizsgálatára vonatkozó mérési eljárásokat és eszközöket, a vizsgálat módját és követelményeit, a kiadandó tanúsítványra, szakvéleményre vonatkozó előírásokat, kijelölje a vizsgálatra, tanúsítvány, szakvélemény kiadására jogosult szervezetet, valamint meghatározza az (1a) bekezdés szerinti nemzeti kapcsolattartó pontként kijelölt szervezet által ellátandó feladatokat;
 - c) kijelölje a lőfegyverek hatástalanításának végrehajtására jogosult szervezetet.
 

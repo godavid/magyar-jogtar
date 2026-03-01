@@ -478,13 +478,15 @@ lehet. Az eltérés lehetőségének feltételeit és szabályait az egészségb
 
 (4) A (3) bekezdés szerinti cél érdekében a telefonközpont-működtető a biztosított vagy képviselője által megadott természetes személyazonosító adatok és TAJ-szám alapján a biztosított számára a digitális időpontfoglalási rendszerben a biztosított által megjelölt – digitális időpontfoglalási rendszert használó – járóbeteg-szakellátást nyújtó szolgáltatónál járóbeteg-szakellátási időpontot foglal, módosít vagy töröl.
 
+(4a) A (4) bekezdés szerinti időpontfoglalás során a biztosított vagy képviselője megadhatja a biztosított telefonos vagy e-mail elérhetőségét, amelyet a telefonközpont-működtető rögzít a digitális időpontfoglaló rendszerben.
+
 (5) Az egységes telefonos időpontfoglalási központ igénybevételének részletes szabályait a Kormány rendeletben határozza meg.
 
 20/C. § (1) A telefonközpont-működtető a biztosítottat az általa vagy képviselője által megadott természetes személyazonosító adatai, valamint TAJ-számának az összerendelési nyilvántartás szolgáltatás útján történő összevetésével azonosítja. A telefonközpont-működtetőt e feladata ellátása során digitális szolgáltatást biztosító szervezetnek kell tekinteni.
 
 (2) A telefonközpont-működtető a 20/B. § (4) bekezdése szerinti feladata ellátása érdekében – az (5) bekezdésben foglalt kivétellel – az időpontfoglalás rögzítésének idejéig kezeli
 
-- a) a biztosított természetes személyazonosító adatait,
+- a) a biztosított természetes személyazonosító adatait, a biztosított vagy képviselője által megadott telefonos vagy e-mail elérhetőségét,
 - b) a biztosított TAJ-számát,
 - c) az időpontfoglalással összefüggő, a biztosított vagy képviselője által szóban közölt egészségügyi adatokat,
 - d) a (3) bekezdés szerinti beutaló adatait,

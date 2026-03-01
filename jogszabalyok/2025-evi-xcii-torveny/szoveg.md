@@ -180,20 +180,24 @@ a magánjogi tárgyú törvények módosításáról
 
 #### 64. §
 
-#### 65. §
+65. § Az igazságügyi szakértőkről szóló 2016. évi XXIX. törvény 8. alcíme a következő 16/B. §-sal egészül ki:
+
+„16/B. § (1) A 15. § (1) bekezdése és 16. § (1) bekezdése szerinti képzés-, illetve vizsgaszervező a szakértői névjegyzékbe vétel tényét és az igazságügyi szakértő státuszát a szakértői névjegyzékbe történő automatikus információátadás útján, a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény (a továbbiakban: Dáptv.) XIII. Fejezete szerinti módon ellenőrzi.
+
+(2) A 15. § (1) bekezdése és 16. § (1) bekezdése szerinti képzés-, illetve vizsgaszervezőnél az igazságügyi szakértőkkel kapcsolatos képzési feladatának teljesítése során keletkezett, az igazságügyi szakértőnek az 1. melléklet 1.26–1.27. pontjai szerinti adatait a névjegyzéket vezető hatóság átveszi.”
 
 #### 66. §
 
 #### 67. §
 
-#### 68. §
+68. § Az igazságügyi szakértőkről szóló 2016. évi XXIX. törvény 1. melléklete az 1. melléklet szerint módosul.
 
 69. § Az igazságügyi szakértőkről szóló 2016. évi XXIX. törvény
 
-- a)
+- a) 11. § (2) bekezdésében az „1.24. és 1.25” szövegrész helyébe az „1.24–1.27” szöveg,
 - b)
 - c)
-- d)
+- d) 44. § (1a) bekezdésében az „a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény (a továbbiakban: Dáptv.)” szövegrész helyébe a „Dáptv.” szöveg,
 - e)
 - f)
 - g)
@@ -206,17 +210,39 @@ lép.
 
 #### 71. §
 
-#### 72. §
+72. § A polgári perrendtartásról szóló 2016. évi CXXX. törvény 47. § (2) bekezdése helyébe a következő rendelkezés lép:
 
-#### 73. §
+„(2) A felperes jogutódját csak akkor lehet perbe vonni, ha a jogutódlás a felperes halála vagy jogutódlással történő megszűnése miatt következett be. Az alperes jogutódját a félbeszakadás tartama alatt az alperes pertársa is perbe vonhatja, ha az eljárás az alperes halála vagy jogutódlással történő megszűnése miatt szakadt félbe.”
 
-#### 74. §
+73. § (1) A polgári perrendtartásról szóló 2016. évi CXXX. törvény 85. § címe helyébe a következő rendelkezés lép:
+
+#### „85. § [A perköltség viselése az eljárás megszüntetése, megszűnése esetén]”
+
+(2) A polgári perrendtartásról szóló 2016. évi CXXX. törvény 85. §-a a következő (5) bekezdéssel egészül ki:
+
+„(5) Az eljárás félbeszakadása miatt bekövetkező megszűnése esetén egyik fél sem téríti meg az ellenfele perköltségét.”
+
+74. § A polgári perrendtartásról szóló 2016. évi CXXX. törvény 120. §-a a következő (7)–(10) bekezdéssel egészül ki:
+
+„(7) A 119. § (1) bekezdés a)–d) pontja szerinti esetekben az eljárás vagy annak érintett része tizennyolc hónap félbeszakadás elteltével – a (8) bekezdésben foglalt kivétellel – megszűnik.
+
+(8) Ha a fél vagy más érdekelt az eljáró bíróságnál a (7) bekezdés szerinti határidőn belül bejelenti és egyidejűleg okirattal igazolja, hogy a jogutód vagy a törvényes képviselő személyének megállapítása iránt eljárás van folyamatban, és e másik eljárás a (7) bekezdés szerinti határidőn belül nem fejeződik be, a félbeszakadt eljárás csak e másik eljárás jogerős vagy végleges befejezését követő három hónap elteltével szűnik meg. A bejelentési határidő elmulasztása miatt igazolásnak nincs helye.
+
+(9) Ha az elsőfokú ítélet meghozatalát követően, annak jogerőre emelkedése előtt az eljárás félbeszakadás folytán megszűnik, az elsőfokú ítélet hatályát veszti. A per során hozott jogerős részítélet és közbenső ítélet hatályát az eljárás félbeszakadás miatt bekövetkező megszűnése nem érinti.
+
+(10) A bíróság az eljárás megszűnésének tényét – a (9) bekezdés szerinti esetben az elsőfokú ítélet hatályvesztését is – végzésben állapítja meg, e végzés ellen külön fellebbezésnek van helye.”
 
 #### 75. §
 
-#### 76. §
+76. § A polgári perrendtartásról szóló 2016. évi CXXX. törvény 261. §-a a következő (3a) bekezdéssel egészül ki:
 
-#### 77. §
+„(3a) Ha az eljárás félbeszakadás folytán megszűnt, a bíróság a meg nem fizetett díjról végzésben határoz és a feleket egyenlő arányban kötelezi annak a MOKK részére történő megfizetésére; e végzés ellen külön fellebbezésnek van helye.”
+
+77. § A polgári perrendtartásról szóló 2016. évi CXXX. törvény 411. § (1) és (2) bekezdése helyébe a következő rendelkezések lépnek:
+
+„(1) A Kúria tárgyaláson kívül, negyvenöt napon belül határoz a felülvizsgálat engedélyezéséről vagy annak megtagadásáról. A Kúria a felülvizsgálatot mérlegelési jogkörében csak olyan okból engedélyezheti, amelyre a fél az engedélyezés iránti kérelmében hivatkozik.
+
+(2) A felülvizsgálat megtagadásáról szóló végzést röviden, kizárólag annyiban kell megindokolni, hogy a felülvizsgálat engedélyezésére milyen okból nem került sor. A felülvizsgálat engedélyezésének indokait az érdemi határozat indokolásában kell megjelölni.”
 
 #### 78. §
 
@@ -224,7 +250,14 @@ lép.
 
 #### 80. §
 
-#### 81. §
+81. § A polgári perrendtartásról szóló 2016. évi CXXX. törvény 630. §-a a következő (19) és (20) bekezdéssel egészül ki:
+
+„(19) A magánjogi tárgyú törvények módosításáról szóló 2025. évi XCII. törvénnyel megállapított 47. § (2) bekezdést, 85. § (5) bekezdést, 120. § (7)–(10) bekezdést a 2018. január 1-jén vagy azt követően indult olyan ügyekben, amelyekben a félbeszakadásra 2025. január 1. napját megelőzően került sor azzal az eltéréssel kell alkalmazni, hogy az eljárás félbeszakadás miatt bekövetkező megszűnésének főszabály szerinti időpontja 2026. július 1. napja.
+
+(20) A magánjogi tárgyú törvények módosításáról szóló 2025. évi XCII. törvénnyel megállapított 47. § (2) bekezdést, 85. § (5) bekezdést, 120. § (7)–(10) bekezdést a 2018. január 1. napját megelőzően indult ügyekben is alkalmazni kell azzal, hogy
+
+- a) egyebekben a polgári perrendtartásról szóló 1952. évi III. törvény szabályait kell alkalmazni, és
+- b) ha a félbeszakadásra 2025. január 1. napját megelőzően került sor, az eljárás félbeszakadás miatt bekövetkező megszűnésének főszabály szerinti időpontja 2026. július 1. napja.”
 
 #### 82. §
 
@@ -299,6 +332,17 @@ alapján sarkalatosnak minősül.
 (5) Az 59. §, a 60. §, a 61. § (2) bekezdése és a 15. alcím a hibás termékekért való felelősségről és a 85/374/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2024. október 23-i (EU) 2024/2853 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
 ### 1. melléklet a 2025. évi XCII. törvényhez
+
+- 1. Az igazságügyi szakértőkről szóló 2016. évi XXIX. törvény 1. melléklet 1. pontja a következő 1.26. és 1.27. ponttal egészül ki:
+- „1.26. a szakértő jogi oktatásai tekintetében
+- 1.26.1. az első jogi oktatásra vonatkozó kötelezettség teljesítése, annak időpontja, illetve a vizsga alóli esetleges mentesülés,
+- 1.26.2. a rendszeres jogi oktatásra vonatkozó kötelezettség teljesítése, annak időpontja;
+- 1.27. a szakértő szakmai továbbképzései tekintetében
+- 1.27.1. a szakmai továbbképzések időszakai (időszakok kezdete és vége),
+- 1.27.2. az adott szakmai továbbképzési időszakban elvégzett továbbképzések címe, megnevezése, és a teljesítés időpontja,
+- 1.27.3. az elvégzett továbbképzéshez hozzárendelt kreditpont-érték,
+- 1.27.4. annak megjelölése, ha az elvégzett továbbképzés akkreditált külső képzés,
+- 1.27.5. annak megjelölése, hogy a szakértő az adott továbbképzési periódusban eleget tett-e továbbképzési kötelezettségének.”
 
 ### 2. melléklet a 2025. évi XCII. törvényhez
 

@@ -125,6 +125,14 @@ illeti meg.
 
 11/A. § Az államhatár átlépése során be kell tartani az államhatár átlépésével összefüggő jogszabályi rendelkezéseket, valamint a határátkelőhely rendjét.
 
+11/B. § (1) A határforgalom zavartalanságának biztosítása és a várakozási idők csökkentése érdekében a határrendészeti adatállomány részét képező előzetes időpontfoglaló rendszer működtethető.
+
+(2) Az előzetes időpontfoglaló rendszer működtetése esetén a Kormány rendeletében kijelölt határátkelőhelyeken, a Kormány rendeletében meghatározott járműkategóriába tartozó járművek az előzetes időpontfoglaló rendszer igénybevételével jelentkezhetnek határátlépésre.
+
+(3) A gazdasági érdekeket is figyelembe véve a Kormány jelöli ki azokat a járműkategóriákat és azokat a határátkelőhelyeket, amelyek tekintetében az előzetes időpontfoglaló rendszer működtethető, valamint a Kormány határozza meg a működtetéssel összefüggő feladatokat.
+
+(4) Az előzetes időpontfoglaló rendszer használatáért igazgatási szolgáltatási díjat kell fizetni. Az igazgatási szolgáltatási díj beszedésére, valamint az előzetes időpontfoglaló rendszer működéséhez kapcsolódó ügyfélszolgálati tevékenység ellátására a Kormány rendeletében közreműködőt jelölhet ki.
+
 12. § (1) Rendkívül indokolt esetben a határrendészetért felelős miniszter a közbiztonság védelme érdekében rendeletével – legfeljebb harminc napra, az Alaptörvény XXVII. cikk (1) bekezdésében meghatározott alapvető jog korlátozásaként – részleges határzárat rendelhet el, amellyel az államhatár átlépését meghatározott személyek, járművek és szállítmányok körére kiterjedően megtilthatja.
 
 (2) Ha a részleges határzár elrendelésére
@@ -188,12 +196,14 @@ az (1) bekezdésben foglaltak szerint kell kiadni.
 - f) az 5/A. § szerinti kártalanítás és kártalanítási eljárás szabályait,
 - g) a határvízen történő közlekedés engedélyezésének szabályait,
 - h) a katonai alakulatok és szállítmányok államhatáron történő átléptetésével kapcsolatos közigazgatási hatósági eljárás különös és kiegészítő rendelkezéseit.
+- i) az előzetes időpontfoglaló rendszer működtetése körében kijelölt határátkelőhelyeket, járműkategóriákat, az előzetes időpontfoglaló rendszer használatának szabályait, és a rendőrségnek az előzetes időpontfoglaló rendszerrel összefüggő feladatait,
+- j) az előzetes időpontfoglaló rendszer használatáért fizetendő igazgatási szolgáltatási díj beszedésére, valamint az előzetes időpontfoglaló rendszer működéséhez kapcsolódó ügyfélszolgálati tevékenység ellátására kijelölt közreműködőt, továbbá a közreműködői feladatok ellátása és finanszírozása érdekében szerződéskötésre feljogosított szervezetet.
 
 (5) Felhatalmazást kap a Kormány, hogy a határátlépés ellenőrzésének ideiglenes visszaállítását rendeletben hirdesse ki.
 
 (6) Felhatalmazást kap a határrendészetért felelős miniszter, hogy a határjegyzőkönyvet rendeletben hagyja jóvá.
 
-(7)
+(7) Felhatalmazást kap a határrendészetért felelős miniszter, hogy az előzetes időpontfoglaló rendszer használatáért fizetendő igazgatási szolgáltatási díj mértékét és beszedésének szabályait – a közlekedésért felelős miniszterrel és az adópolitikáért felelős miniszterrel egyetértésben – rendeletben állapítsa meg.
 
 (8) Felhatalmazást kap a határrendészetért felelős miniszter, hogy a közbiztonság védelme érdekében
 

@@ -38,15 +38,19 @@ egyes törvényeknek a társasházi építményi jog bevezetésével összefügg
 
 #### 4. Az ingatlan-nyilvántartásról szóló 2021. évi C. törvény módosítása
 
-#### 9. §
+9. § Az ingatlan-nyilvántartásról szóló 2021. évi C. törvény (a továbbiakban: Inytv.) 17. alcíme a következő 38/A. §-sal egészül ki:
 
-#### 10. §
+„38/A. § A 35. § (1) bekezdés g) pontjától eltérően, ha a társasházi építményi jogot azért kell törölni, mert a társasházi építményi jog kötelezettje elállt az adásvételi szerződéstől, akkor a törlésnek olyan közokirat alapján is helye van, amelyben a társasházi építményi jog jogosultja a társasházi építményi jog kötelezettjének adásvételi szerződéstől történő elállása esetére járult hozzá a társasházi építményi jog törléséhez.”
+
+10. § Az Inytv. 44. §-a a következő (5) bekezdéssel egészül ki:
+
+„(5) Ha az ingatlan tulajdoni lapján társasházi építményi jogra vonatkozó bejegyzés szerepel, a társasház alapítása iránti kérelem nem vonható vissza.”
 
 #### 11. §
 
-#### 12. §
+12. § Az Inytv. 1. melléklete az 1. melléklet szerint módosul.
 
-#### 13. §
+13. § Az Inytv. 44. § (3) bekezdésében a „(4) bekezdésben” szövegrész helyébe a „(4) és (5) bekezdésben” szöveg lép.
 
 #### 5. Záró rendelkezések
 
@@ -55,3 +59,11 @@ egyes törvényeknek a társasházi építményi jog bevezetésével összefügg
 (2) A 9. §, a 10. §, a 12. §, a 13. § és az 1. melléklet 2026. március 1-jén lép hatályba.
 
 ### 1. melléklet a 2025. évi LXXXVIII. törvényhez
+
+- 1. Az Inytv. 1. melléklete a következő II. és III. ponttal egészül ki:
+
+#### „II. A törlendő jog kötelezettjének kérelme alapján törölhető:
+
+- 1. a társasházi építményi jog, ha a társasházi építményi jog kötelezettje csatolja a társasházi építményi jog jogosultjának közjegyzői okiratba foglalt törlési engedélyét és közokiratban vagy ügyvéd, illetve kamarai jogtanácsos által ellenjegyzett magánokiratban nyilatkozik, hogy a társasházi építményi jog bejegyzése alapjául szolgáló adásvételi szerződéstől a kérelem benyújtását legalább 60 nappal megelőző időpontban elállt, és a társasházi építményi jog jogosultja az elállás érvénytelenségének megállapítása iránt az elállás közlésétől számított 60 napon belül nem indított pert.
+
+#### III. A társasházi építményi jog kötelezettjének kérelme alapján törölhető a társasházi építményi jogot terhelő jelzálogjog, valamint a társasházi építményi jogot terhelő jelzálogjogot biztosító elidegenítési tilalom, terhelési tilalom vagy elidegenítési és terhelési tilalom, ha a társasházi építményi jog törlésére a társasházi építményi jog kötelezettjének a társasházi építményi jog bejegyzése alapjául szolgáló adásvételi szerződéstől történt elállására tekintettel kerül sor.”

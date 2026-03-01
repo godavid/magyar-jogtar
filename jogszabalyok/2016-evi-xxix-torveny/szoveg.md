@@ -202,7 +202,7 @@ szakértői névjegyzékbe az igazságügyi szakterületnek megfelelő szakterü
 
 11. § (1) Az igazságügyi szakértő 1. mellékletben meghatározott adatait és a tevékenységével kapcsolatos egyes tényeket a névjegyzék tartalmazza. A névjegyzék vezetésének és a névjegyzékkel összefüggő adatszolgáltatás szabályait a Kormány rendeletben állapítja meg.
 
-(2) Az (1) bekezdés szerinti névjegyzék – az 1. melléklet 1.1–1.6., 1.8–1.9., 1.13., 1.15., pontjában, 1.20.1. és 1.20.2. alpontjában, valamint 1.24. és 1.25. pontjában foglalt adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+(2) Az (1) bekezdés szerinti névjegyzék – az 1. melléklet 1.1–1.6., 1.8–1.9., 1.13., 1.15., pontjában, 1.20.1. és 1.20.2. alpontjában, valamint 1.24–1.27. pontjában foglalt adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
 (3) Az 1. melléklet 1.14.1. és 1.14.3–1.14.5. alpontja szerint nyilvántartott igazságügyi szakértőnek az 1. melléklet 1.1., 1.7–1.11. pontjában, 1.12.1. alpontjában, 1.13. pontjában, 1.14.4. és 1.14.5. alpontjában, 1.15. pontjában, 1.16. pontjában, 1.19. pontjában, valamint 1.22–1.24. és 1.25. pontjában foglalt adatai nyilvánosak, azokat az igazságügyi szakértői névjegyzéket vezető hatóság a kormányzati portálon közzéteszi.
 
@@ -289,6 +289,10 @@ tartja nyilván, illetve kezeli.
 (3) A (2) bekezdés szerint kell eljárni abban az esetben, ha az igazságügyi szakértő a szakterületének megfelelő képzési, továbbképzési területen jogszabályi felhatalmazással rendelkező szervezet vagy szerv által szervezett oktatáson vagy szakmai továbbképzésen vesz részt.
 
 16/A. § Az igazságügyi szakértőnek, valamint az igazságügyi szakértői névjegyzékbe való felvétel iránti kérelmet benyújtónak a miniszter által szervezett képzés, oktatás és vizsga tekintetében történő kapcsolattartására a 44. § (2) bekezdésben foglalt rendelkezéseket kell alkalmazni.
+
+16/B. § (1) A 15. § (1) bekezdése és 16. § (1) bekezdése szerinti képzés-, illetve vizsgaszervező a szakértői névjegyzékbe vétel tényét és az igazságügyi szakértő státuszát a szakértői névjegyzékbe történő automatikus információátadás útján, a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény (a továbbiakban: Dáptv.) XIII. Fejezete szerinti módon ellenőrzi.
+
+(2) A 15. § (1) bekezdése és 16. § (1) bekezdése szerinti képzés-, illetve vizsgaszervezőnél az igazságügyi szakértőkkel kapcsolatos képzési feladatának teljesítése során keletkezett, az igazságügyi szakértőnek az 1. melléklet 1.26–1.27. pontjai szerinti adatait a névjegyzéket vezető hatóság átveszi.
 
 16/C. § A képzés, továbbképzés, oktatás és vizsga díját a miniszter rendeletben állapítja meg.
 
@@ -582,7 +586,7 @@ minősítést kap.
 
 44. § (1) A szakértő a névjegyzékben szereplő elérhetőségi címén köteles a küldemények átvételét biztosítani.
 
-(1a) A szakértő köteles az ügyintézési rendelkezések nyilvántartásába bejelenteni a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény (a továbbiakban: Dáptv.) szerinti hivatalos elérhetőségét. A Kamara és a névjegyzéket vezető hatóság által az e bekezdés szerinti elérhetőségre küldött küldemény kézbesítésére a Dáptv. 27. §-át alkalmazni kell.
+(1a) A szakértő köteles az ügyintézési rendelkezések nyilvántartásába bejelenteni Dáptv. szerinti hivatalos elérhetőségét. A Kamara és a névjegyzéket vezető hatóság által az e bekezdés szerinti elérhetőségre küldött küldemény kézbesítésére a Dáptv. 27. §-át alkalmazni kell.
 
 (2) A szakértő – ha törvény eltérően nem rendelkezik – elektronikus úton történő kapcsolattartásra köteles, és a szakvéleményét, valamint egyéb beadványait a Dáptv.-ben és végrehajtási rendeleteiben meghatározott módon, elektronikusan kézbesíti a hatóságnak és a hatóság is valamennyi hatósági iratot elektronikusan kézbesíti a részére.
 
@@ -2146,6 +2150,15 @@ való megfelelést szolgálja.
 - 1.23. nyilatkozat arról, hogy az igazságügyi szakértő tevékenységét fő- vagy mellékállásban végzi;
 - 1.24. egyetemi vagy főiskolai végzettsége, a diploma minősítése;
 - 1.25. külön minősítésre vonatkozó adat (ha van).
+- 1.26. a szakértő jogi oktatásai tekintetében
+- 1.26.1. az első jogi oktatásra vonatkozó kötelezettség teljesítése, annak időpontja, illetve a vizsga alóli esetleges mentesülés,
+- 1.26.2. a rendszeres jogi oktatásra vonatkozó kötelezettség teljesítése, annak időpontja;
+- 1.27. a szakértő szakmai továbbképzései tekintetében
+- 1.27.1. a szakmai továbbképzések időszakai (időszakok kezdete és vége),
+- 1.27.2. az adott szakmai továbbképzési időszakban elvégzett továbbképzések címe, megnevezése, és a teljesítés időpontja,
+- 1.27.3. az elvégzett továbbképzéshez hozzárendelt kreditpont-érték,
+- 1.27.4. annak megjelölése, ha az elvégzett továbbképzés akkreditált külső képzés,
+- 1.27.5. annak megjelölése, hogy a szakértő az adott továbbképzési periódusban eleget tett-e továbbképzési kötelezettségének.
 - 2. Az igazságügyi szakértők névjegyzéke a gazdasági társaság következő adatait tartalmazza:
 - 2.1. név,
 - 2.2. székhely,

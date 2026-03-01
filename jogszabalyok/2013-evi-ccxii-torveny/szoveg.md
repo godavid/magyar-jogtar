@@ -1023,6 +1023,10 @@ javára történő átengedésére.
 
 (3) Az (1) bekezdésben meghatározott egységes okiratba foglalt földhasználati szerződésnek minősül az is, ha a tulajdonosok és a földhasználó a rizstelep területére létrejött földhasználati szerződés tartalmát tulajdonosonként külön-külön okiratba foglalják, feltéve, hogy azok a jogviszony tartalmában nem térnek el egymástól, az eltérés kizárólag a használatba adó tulajdonosok személyében, a díj megfizetésének az 50. § (3) bekezdése szerinti módjában és a használatba adandó ingatlan adatai tekintetében áll fenn.
 
+(3a) Az (1) bekezdés alapján létrejött haszonbérleti szerződés esetén azon haszonbérbeadó, aki vonatkozásában az ajánlatot nem kellett elfogadottnak tekinteni, a haszonbérleti szerződés létrejöttétől számított 6 hónapon belül kezdeményezheti a haszonbérleti szerződés módosítását a haszonbérleti díjnak a kezdeményezéskor irányadó helyben szokásos piaci haszonbérleti díjra való módosítása érdekében a haszonbérleti szerződés időtartamától függetlenül.
+
+(3b) A (3a) bekezdés szerinti eljárásra az 50/A. § (2) és (4) bekezdése azzal az eltéréssel alkalmazandó, hogy a bíróság a szerződés hatálybalépésétől állapítja meg a piaci haszonbérleti díjat.
+
 (4) A rizstelep használatba adására irányuló szerződésben részes tulajdonosoknak és a haszonbérlőnek döntést kell hozniuk arról, hogy a tulajdonosok egyike vagy a haszonbérlő küldi meg a Földforgalmi törvény 49. §-a szerint a haszonbérleti szerződést a mezőgazdasági igazgatási szerv vagy a jegyző részére.
 
 (5) Az ellenszolgáltatás fejében létrejött földhasználati szerződés esetében az ellenszolgáltatás a 76/E. § (4) bekezdésében meghatározott tulajdonosokat is megilleti a tulajdonukat képező földrészlet területe arányában. Ez esetben a használónak az ellenszolgáltatás megfelelő értékét készpénzben bírósági vagy közjegyzői letétbe kell helyeznie. A letét költségeit a letétbe helyezett ellenszolgáltatás összegéből kell fedezni.

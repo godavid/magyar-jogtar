@@ -2406,6 +2406,18 @@ a rendőrség a gyorsított átléptetésre való jogosultság a)–d) pontban m
 
 (8) A határ menti ingázó foglalkoztatója az általa foglalkoztatott határ menti ingázó személy (2) bekezdés a)–h) pontja szerinti adatait előzetes tájékoztatásként átadhatja a rendőrség részére, amelyben tájékoztatást nyújthat arról is, hogy az érintett személy a (2) bekezdés szerinti adatállományba való felvétel iránti kérelmét a határátlépés során jelezni fogja. A rendőrség az előzetes tájékoztatás keretében kapott adatokat az átadástól számított 60 napig kezeli.
 
+(9) A rendőrség az államhatárról szóló törvény szerinti előzetes időpontfoglaló rendszerrel kapcsolatban a következő adatokat kezeli:
+
+- a) a kérelmező természetes személy vagy jogi személy neve,
+- b) a gépjármű típusa, rendszáma,
+- c) a szállítmány jellege,
+- d) a határátlépés tervezett helye, ideje,
+- e) a kérelmező elektronikus elérhetősége.
+
+(10) A rendőrség a (9) bekezdés szerinti adatokat a kérelem rögzítésétől számított 180 napig kezeli.
+
+(11) A rendőrség a (9) bekezdés szerinti adatállományból adatot szolgáltat törvényben meghatározott feladatai teljesítése érdekében a bíróságnak, az ügyészségnek, a nyomozó hatóságnak, az idegenrendészeti hatóságnak, a menekültügyi hatóságnak, a nemzetbiztonsági szolgálatoknak, továbbá az állami adó- és vámhatóságnak.
+
 91/O. § (1) A rendőrség a határellenőrzési feladatok folyamatos ellátása érdekében elektronikus úton technikai másolatot vehet át az alábbi nyilvántartásokból:
 
 - a) a beutazási és tartózkodási tilalom hatálya alatt állók nyilvántartása,

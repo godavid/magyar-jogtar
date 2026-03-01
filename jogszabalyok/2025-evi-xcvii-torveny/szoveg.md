@@ -18,7 +18,13 @@ az agrárminiszter feladatkörét érintő törvények módosításáról
 
 #### 4. §
 
-#### 5. §
+5. § A Vtv. 29/A. §-a a következő (8)–(10) bekezdéssel egészül ki:
+
+„(8) Az (5) bekezdésben foglaltakat nem kell alkalmazni az állattartó telephez tartozó, vadászterületen létesítendő, legelő művelési ágú ingatlan (a továbbiakban: állattartó telephez tartozó legelő) tartós telepítésű kerítéssel történő bekerítése esetén. Állattartó telephez tartozó legelőn létesítendő tartós telepítésű kerítés engedélyezéséről a vadászati hatóság dönt.
+
+(9) A (8) bekezdés alkalmazásában állattartó telepnek minősül bármely olyan, a Tenyészet Információs Rendszerben nyilvántartott tartási hely, ahol közvetlenül az állatok elhelyezésére, védelmére szolgáló épületeken kívül az állattartás egyéb létesítményei is megtalálhatók.
+
+(10) Az (5a) és (5c)–(7) bekezdésben foglaltakat állattartó telephez tartozó legelőn létesítendő tartós telepítésű kerítés esetén is alkalmazni kell.”
 
 #### 6. §
 
@@ -28,11 +34,22 @@ az agrárminiszter feladatkörét érintő törvények módosításáról
 
 #### 9. §
 
-#### 10. §
+10. § A Vtv. 65. §-a a következő (1a) bekezdéssel egészül ki:
 
-#### 11. §
+„(1a) Az (1) bekezdésben meghatározott jogerős marasztaló döntés esetén a döntést hozó bíróság a vadászati hatóságot – a vadászjegy vagy vadászati engedély visszavonása érdekében – tájékoztatja.”
 
-#### 12. §
+11. § A Vtv. 73. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A vadászatra jogosult az elejtett
+
+- a) gímszarvas, dámszarvas és őz agancsát az elejtéstől – elhullott trófeás vad esetén a birtokbavételtől – számított harminc napon belül,
+- b) szikaszarvas agancsát, muflon csigáját, valamint vaddisznó tizenhat centiméternél hosszabb agyarát az elejtéstől – elhullott trófeás vad esetén a birtokbavételtől – számított kilencven napon belül
+
+köteles trófeabírálat céljából a vadászati hatóságnál bemutatni.”
+
+12. § A Vtv. 74/A. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A vadászati hatóság – a trófea trófeabírálaton történt bemutatására vonatkozó igazolás 74. § (4) bekezdése szerinti kiállításának esetét kivéve – az elejtés esetleges szakszerűtlenségéről a trófeabírálatot követő 8 napon belül határozatban dönt.”
 
 #### 13. §
 
@@ -42,7 +59,9 @@ az agrárminiszter feladatkörét érintő törvények módosításáról
 
 #### 16. §
 
-#### 17. §
+17. § A Vtv. a következő 120. §-sal egészül ki:
+
+„120. § E törvénynek az agrárminiszter feladatkörét érintő törvények módosításáról szóló 2025. évi XCVII. törvénnyel megállapított 29/A. § (8)–(10) bekezdését a 2026. március 1-jén folyamatban lévő eljárásokban is alkalmazni kell.”
 
 18. § A Vtv.
 
@@ -55,7 +74,7 @@ az agrárminiszter feladatkörét érintő törvények módosításáról
 - g)
 - h)
 - i)
-- j)
+- j) 73. § (2) bekezdésében a „harminc” szövegrész helyébe a „kilencven” szöveg,
 - k)
 
 lép.
@@ -292,7 +311,11 @@ lép.
 
 #### 80. §
 
-81. § (1)
+81. § (1) A Fétv. 76/F. §-a a következő (3a) és (3b) bekezdéssel egészül ki:
+
+„(3a) Az (1) bekezdés alapján létrejött haszonbérleti szerződés esetén azon haszonbérbeadó, aki vonatkozásában az ajánlatot nem kellett elfogadottnak tekinteni, a haszonbérleti szerződés létrejöttétől számított 6 hónapon belül kezdeményezheti a haszonbérleti szerződés módosítását a haszonbérleti díjnak a kezdeményezéskor irányadó helyben szokásos piaci haszonbérleti díjra való módosítása érdekében a haszonbérleti szerződés időtartamától függetlenül.
+
+(3b) A (3a) bekezdés szerinti eljárásra az 50/A. § (2) és (4) bekezdése azzal az eltéréssel alkalmazandó, hogy a bíróság a szerződés hatálybalépésétől állapítja meg a piaci haszonbérleti díjat.”
 
 (2)
 

@@ -1820,6 +1820,7 @@ feltéve, ha a szolgáltató, intézmény rendelkezik az ehhez szükséges – j
 - a) a 45. § (1) bekezdése szerinti teljes körű ellátást,
 - b) a családi környezetébe történő visszahelyezését előkészítő, családi kapcsolatainak ápolását segítő családgondozást, vagy ha ez nem lehetséges, az örökbefogadásának elősegítését,
 - c) a családjába történő visszailleszkedéshez, önálló életének megkezdéséhez szükséges utógondozást.
+- d) támogatást a munkaerőpiaci esélyeinek növelése érdekében a gyermekvédelmi gondoskodásban élő gyermekek közúti jármű vezetői engedélyének megszerzéséhez biztosított támogatást szabályozó kormányrendeletben meghatározott kategóriás vezetői engedély megszerzéséhez, ha az ahhoz szükséges, jogszabályban meghatározott feltételeknek a gyermek egyébként megfelel.
 
 (2) Az otthont nyújtó ellátás keretében
 
@@ -1861,7 +1862,11 @@ a területi gyermekvédelmi szakszolgálat támogatásával, különösen csalá
 
 ### Utógondozói ellátás
 
-53/A. § (1) A gyámhatóság által elrendelt utógondozói ellátás keretében a fiatal felnőtt számára utógondozást és szükség szerinti ellátást kell biztosítani.
+53/A. § (1) A gyámhatóság által elrendelt utógondozói ellátás keretében a fiatal felnőtt számára biztosítani kell
+
+- a) utógondozást,
+- b) az 53. § (1) bekezdés d) pontja szerinti szolgáltatást, és
+- c) szükség szerinti ellátást.
 
 (2) Az utógondozói ellátást
 
@@ -3415,6 +3420,19 @@ az ellátási területén kívül lakóhellyel, ennek hiányában tartózkodási
 ### Az állam feladatai
 
 95. § Az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szerv az e törvényben foglaltak szerint biztosítja az otthont nyújtó ellátást, az utógondozói ellátást és a területi gyermekvédelmi szakszolgáltatást. Területi gyermekvédelmi szakszolgáltatást nyújtó intézményt kizárólag az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szerv tarthat fenn.
+
+95/A. § (1) A Kormány rendeletében meghatározottak szerint az állami szerv vagy az állami többségi tulajdonban lévő gazdasági társaság köteles a gyermekvédelmi gondoskodásból nagykorúság miatt kikerült vagy utógondozói ellátásban részesülő, a foglalkoztatásban részt venni kívánó fiatal felnőtt részére legalább három évig az egészségi és személyiségállapotának, a készségeinek és a képesítésének megfelelő foglalkoztatást biztosítani.
+
+(2) A fiatal felnőttek közvetítésével kapcsolatos feladatokat a Kormány rendeletében kijelölt szerv koordinálja. A Kormány rendeletében kijelölt szerv a koordinációs feladatainak ellátása érdekében a foglalkoztatás befejezésétől számított 5 évig kezeli a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény 57/A. § (1) bekezdésében meghatározott, a foglalkoztatáshoz feltétlenül szükséges adatokat.
+
+95/B. § (1) Az állam támogatást nyújt a gyermekvédelmi gondoskodásban élő gyermek, fiatal felnőtt részére a Kormány rendeletében foglaltak szerint, az ott meghatározott kategóriás közúti jármű vezetői engedély megszerzéséhez, ha az ahhoz szükséges, jogszabályban meghatározott feltételeknek a gyermek, fiatal felnőtt egyébként megfelel.
+
+(2) Az (1) bekezdés szerinti támogatás biztosítása érdekében a támogatás igénylésétől számított 5 évig kezeli
+
+- a) a fenntartó a támogatásban részesülő személynek,
+- b) a kincstár a támogatásban részesülő személynek és a fenntartónak
+
+a közúti jármű vezetői engedély megszerzéséhez nyújtott állami támogatás igényléséhez, megállapításához, folyósításához és elszámolásához feltétlenül szükséges adatait.
 
 ### A feladatok ellátásának módja
 
@@ -5276,6 +5294,10 @@ hogy a fenntartó működési engedéllyel rendelkezik.
 (1b) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a 10/C. § b) pontja szerinti kifogástalan életvitel ellenőrzése végrehajtásának szabályait.
 
 (1c) Felhatalmazást kap a Kormány, hogy az Európai Unió által biztosított forrásokból történő béremeléshez nyújtott központi költségvetési többletforrások felhasználásának céljából az intézményi szintű átlagos pedagógusilletmény-emelés mértékét, az arra jogosultak körét, végrehajtásának alapelveit, valamint az ahhoz kapcsolódó állami kiegészítő támogatás, igénylésének, folyósításának és felhasználásának részletszabályait rendeletben állapítsa meg.
+
+(1d) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a 95/A. § szerinti foglalkoztatás biztosítására vonatkozó részletszabályokat, valamint a gyermekvédelmi gondoskodásból nagykorúság miatt kikerült vagy utógondozói ellátásban részesülő fiatal felnőttek foglalkoztatását koordináló szerv kijelölését.
+
+(1e) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a gyermekvédelmi gondoskodásban élő gyermek, fiatal felnőtt által állami támogatás igénybevételével megszerezhető közúti jármű vezetői engedély kategóriáját, valamint az annak megszerzéséhez nyújtott támogatásra való jogosultság és a támogatás megállapítására, folyósítására és elszámolására vonatkozó részletes szabályokat.
 
 (1f) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a gyermekjóléti alapellátást és gyermekvédelmi szakellátást nyújtó intézménynél, szolgáltatónál foglalkoztatott személyek tekintetében a Kjt. illetményrendszerétől való eltérés és ennek végrehajtásának szabályait;
 
