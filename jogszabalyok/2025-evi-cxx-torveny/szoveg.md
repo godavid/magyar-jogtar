@@ -106,27 +106,9 @@ közlekedési tárgyú törvények módosításáról
 
 #### 6. Az államhatárról szóló 2007. évi LXXXIX. törvény módosítása
 
-34. § Az államhatárról szóló 2007. évi LXXXIX. törvény a következő 11/B. §-sal egészül ki:
+#### 34. §
 
-„11/B. § (1) A határforgalom zavartalanságának biztosítása és a várakozási idők csökkentése érdekében a határrendészeti adatállomány részét képező előzetes időpontfoglaló rendszer működtethető.
-
-(2) Az előzetes időpontfoglaló rendszer működtetése esetén a Kormány rendeletében kijelölt határátkelőhelyeken, a Kormány rendeletében meghatározott járműkategóriába tartozó járművek az előzetes időpontfoglaló rendszer igénybevételével jelentkezhetnek határátlépésre.
-
-(3) A gazdasági érdekeket is figyelembe véve a Kormány jelöli ki azokat a járműkategóriákat és azokat a határátkelőhelyeket, amelyek tekintetében az előzetes időpontfoglaló rendszer működtethető, valamint a Kormány határozza meg a működtetéssel összefüggő feladatokat.
-
-(4) Az előzetes időpontfoglaló rendszer használatáért igazgatási szolgáltatási díjat kell fizetni. Az igazgatási szolgáltatási díj beszedésére, valamint az előzetes időpontfoglaló rendszer működéséhez kapcsolódó ügyfélszolgálati tevékenység ellátására a Kormány rendeletében közreműködőt jelölhet ki.”
-
-35. § (1) Az államhatárról szóló 2007. évi LXXXIX. törvény 16. § (4) bekezdése a következő i) és j) ponttal egészül ki:
-
-(Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg:)
-
-„i) az előzetes időpontfoglaló rendszer működtetése körében kijelölt határátkelőhelyeket, járműkategóriákat, az előzetes időpontfoglaló rendszer használatának szabályait, és a rendőrségnek az előzetes időpontfoglaló rendszerrel összefüggő feladatait,
-
-j) az előzetes időpontfoglaló rendszer használatáért fizetendő igazgatási szolgáltatási díj beszedésére, valamint az előzetes időpontfoglaló rendszer működéséhez kapcsolódó ügyfélszolgálati tevékenység ellátására kijelölt közreműködőt, továbbá a közreműködői feladatok ellátása és finanszírozása érdekében szerződéskötésre feljogosított szervezetet.”
-
-(2) Az államhatárról szóló 2007. évi LXXXIX. törvény 16. §-a a következő (7) bekezdéssel egészül ki:
-
-„(7) Felhatalmazást kap a határrendészetért felelős miniszter, hogy az előzetes időpontfoglaló rendszer használatáért fizetendő igazgatási szolgáltatási díj mértékét és beszedésének szabályait – a közlekedésért felelős miniszterrel és az adópolitikáért felelős miniszterrel egyetértésben – rendeletben állapítsa meg.”
+#### 35. §
 
 #### 7. Az állami vagyonról szóló 2007. évi CVI. törvény módosításáról
 
@@ -192,7 +174,7 @@ j) az előzetes időpontfoglaló rendszer használatáért fizetendő igazgatás
 
 #### 16. A belügyi feladatellátás hatékonyságát támogató és a kapcsolati erőszak elleni küzdelmet erősítő törvények módosításáról szóló 2025. évi XXXV. törvény módosítása
 
-58. § Nem lép hatályba a belügyi feladatellátás hatékonyságát támogató és a kapcsolati erőszak elleni küzdelmet erősítő törvények módosításáról szóló 2025. évi XXXV. törvény 18. alcíme.
+#### 58. §
 
 #### 17. Az egyes sportcélú állami tulajdonú vagyonelemek ingyenes tulajdonba adásáról, valamint egyes kapcsolódó törvények módosításáról szóló 2025. évi XLVI. törvény módosítása
 

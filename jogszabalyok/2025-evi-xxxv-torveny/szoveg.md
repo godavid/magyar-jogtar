@@ -134,7 +134,7 @@ a belügyi feladatellátás hatékonyságát támogató és a kapcsolati erősza
 
 #### 31. §
 
-#### 18.
+#### 18. Az államhatárról szóló 2007. évi LXXXIX. törvény módosítása
 
 #### 32. §
 
