@@ -70,7 +70,7 @@ Magyarország kiegyensúlyozott területi fejlődése, az ország térségeit je
 - 17. területfejlesztési koncepció: az ország átfogó távlati fejlesztését megalapozó és befolyásoló tervdokumentum, ami meghatározza az ország, illetve a térség hosszú távú, átfogó fejlesztési céljait, a fejlesztési programok és a területrendezési tervek kidolgozásához szükséges irányelveket, továbbá információkat biztosít az ágazati és a kapcsolódó területi tervezés és a területi szereplők számára;
 - 18. területfejlesztési program: a területfejlesztési koncepció alapján kidolgozott, középtávú, komplex fejlesztési igényeket, egymáshoz kapcsolódó intézkedéseket, azok megvalósításának nyomon követését is tartalmazó terv;
 - 19. területi szereplő: a területfejlesztés intézményrendszerének az országos szint alatt elhelyezkedő résztvevője, amely az egyes térségek területfejlesztési feladatainak ellátásában, a tervezési, programozási, vagy végrehajtási folyamatokban döntési, javaslattevő vagy konzultációs jogkörrel vesz részt;
-- 20. területi terv: a területfejlesztési koncepció, a területfejlesztési program és a területrendezési terv;
+- 20. területi terv: a területfejlesztési koncepció, a nagytérségi területfejlesztési stratégia, a területfejlesztési program és a területrendezési terv;
 - 21. területpolitika: az ország és az egyes térségek területi fejlődése fő irányainak, stratégiai fejlesztési céljainak és az ezek elérését segítő legfontosabb eszközöknek hosszú időtávra szóló meghatározása és érvényesítése, amelynek alapdokumentuma az Országgyűlés által elfogadott Országos Fejlesztési és Területfejlesztési Koncepció (a továbbiakban: OFTK).
 
 ### II. Fejezet — A TERÜLETFEJLESZTÉSÉRT FELELŐS KÖZPONTI ÁLLAMI SZERVEK FELADAT- ÉS HATÁSKÖRE
@@ -268,8 +268,9 @@ Magyarország kiegyensúlyozott területi fejlődése, az ország térségeit je
 - a) a Balaton Kiemelt Üdülőkörzetben a Balaton Fejlesztési Tanács;
 - b) a Tokaj Borvidéken a Tokaj Borvidék Fejlesztési Tanács;
 - c) a Közép-Duna Menti Kiemelt Térségben a Közép-Duna Menti Fejlesztési Tanács;
-- d) a Budapesti Agglomerációban a Budapesti Agglomeráció Fejlesztési Tanács.
-- e) a Tisza-tó Kiemelt Térségben a Tisza-tó Fejlesztési Tanács.
+- d) a Budapesti Agglomerációban a Budapesti Agglomeráció Fejlesztési Tanács;
+- e) a Tisza-tó Kiemelt Térségben a Tisza-tó Fejlesztési Tanács;
+- f) a Szigetköz Kiemelt Térségben a Szigetköz Fejlesztési Tanács.
 
 (2) A Balaton Fejlesztési Tanács tagjai:
 
@@ -338,7 +339,16 @@ Magyarország kiegyensúlyozott területi fejlődése, az ország térségeit je
 - j) a közlekedésért felelős miniszter képviselője;
 - k) a társadalmi felzárkózásért felelős miniszter képviselője.
 
-(6)
+(6) A Szigetköz Fejlesztési Tanács tagjai:
+
+- a) a 12. § (1) bekezdése szerinti tagok;
+- b) a térségi fejlesztési tanács illetékességi területén működő vármegyei közgyűlés további két delegáltja;
+- c) az európai uniós források felhasználásáért felelős miniszter képviselője;
+- d) az aktív Magyarországért felelős miniszter képviselője;
+- e) az állami beruházásokért felelős miniszter képviselője;
+- f) a vízgazdálkodásért felelős miniszter képviselője;
+- g) a vidékfejlesztésért felelős miniszter képviselője;
+- h) a természetvédelemért felelős miniszter képviselője.
 
 (7) A kormányzati hatáskörbe tartozó napirendi pont tárgyalására az illetékes központi kormányzati igazgatási szerv képviselőjét meg kell hívni.
 
