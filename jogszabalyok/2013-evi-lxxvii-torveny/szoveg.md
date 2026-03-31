@@ -54,8 +54,8 @@ szervez.
 - 5. felnőttképzési tevékenységhez kapcsolódó szolgáltatás: olyan tevékenység, amely a felnőttképzési tevékenység keretében szervezett oktatás, képzés egyénre szabott kialakításának elősegítésére, a képzés hatékonyságának javítására vagy a munkavállalás elősegítésére irányul,
 - 5a. jogszabály alapján szervezett oktatás és képzés: jogszabály által valamely tevékenység folytatásának, munkakör betöltésének, illetve magasabb fizetési besorolás alkalmazásának feltételéül meghatározott olyan oktatás és képzés, amelynek legalább célját, tartalmát és megszervezésének általános feltételeit, továbbá az oktatás, képzés eredményes elvégzésének igazolási módját vagy ahhoz kapcsolódóan szervezett vizsga letételére vonatkozó követelményt jogszabály vagy a polgári nemzetbiztonsági szolgálatok vonatkozásában közjogi szervezetszabályozó eszköz határozza meg, ide nem értve a köznevelési intézmény, a szakképző intézmény, illetve törvényben meghatározott oktatási és tehetséggondozó intézmény alapfeladatába vagy a felsőoktatási intézmény alaptevékenységébe tartozó, valamint a szakképzettségre, szakképesítésre felkészítő oktatást és képzést,
 - 5b. képzés formája: a képzés kontaktóra – amely lehet jelenléti vagy online kontaktóra –, távoktatás vagy zárt rendszerű elektronikus távoktatás keretében megvalósult formája,
-- 6. képzés megkezdésének időpontja: a képzés első kontaktórájának időpontja, a folyamatban lévő képzésbe bekapcsolódó képzésben részt vevő személy esetében az első kontaktóra időpontja, távoktatás és zárt rendszerű elektronikus távoktatás esetén a tananyagnak vagy résztananyagnak a képzésben részt vevő személy számára történő megküldésének vagy más módon történő rendelkezésre bocsátásának időpontja,
-- 6a. képzés befejezésének időpontja: a képzés utolsó kontaktórájának időpontja, távoktatás és zárt rendszerű elektronikus távoktatás esetén a tananyag vagy résztananyag elsajátítására megállapított utolsó időpont vagy ha a képzés elvégzése meghatározott követelményhez kötött, annak teljesítésének napja,
+- 6. képzés megkezdésének időpontja: a képzés első képzési napja, azaz a képző intézmény által meghirdetett képzés első kontaktórájának időpontja, függetlenül a képzésbe való bekapcsolódás időpontjától, azzal, hogy távoktatás és zárt rendszerű elektronikus távoktatás esetén az az időpont, amikor a képző a tananyagot a képzésben részt vevő személyek részére rendelkezésre bocsátotta, és a tananyag elsajátítását a képzésben résztvevők ténylegesen megkezdhetik,
+- 6a. képzés befejezésének időpontja: ha a képzés elvégzése a képzés formájától függetlenül jogszabályban vagy a képző által a képzési programban meghatározott követelményhez kötött, annak teljesítésének napja, ennek hiányában kontaktórás képzés esetén a képzés utolsó kontaktórájának időpontja, távoktatás és zárt rendszerű elektronikus távoktatás esetén a tananyag elsajátítására megállapított határidő utolsó napjának vége,
 - 7. kompetencia: olyan ismeretek, készségek és képességek összessége, amely által a személy egy adott területen képes meghatározott döntésen és a megvalósításon alapuló eredmény elérésére,
 - 7a. komplex felzárkózási képzés: a személyek társadalmi és gazdasági felzárkózásának részeként a kompetenciafejlesztés, illetve a humán szolgáltatásokhoz való hozzáférésének javítása érdekében szervezett képzés, a közfoglalkoztatáshoz és a szociális szövetkezetben történő foglalkoztatáshoz kapcsolódóan szervezett képzés, a szakképzettséggel nem rendelkezők a társadalmi felzárkózását szolgáló és kompetenciáját fejlesztő képzés, valamint az esélyegyenlőségi mentorok és a helyi esélyegyenlőségi programok készítésében résztvevők képzése,
 - 8. kontaktóra: a képzésben részt vevő személyes jelenlétét vagy – az olyan tanóra kivételével, amely olyan kompetencia átadására irányul, amely kizárólag személyes jelenlét mellett sajátítható el – interaktív és távolléti kapcsolattal vagy zárt rendszerű távoktatási képzésmenedzsment rendszerrel megvalósuló jelenlétét igénylő tanóra,
@@ -221,7 +221,7 @@ kell folytatnia,
 
 (4) A szakképzésről szóló törvény szerinti ágazati készségtanács szakvéleményt adhat a felnőttképzésért felelős miniszter számára a szakmai képzés programkövetelményének nyilvántartásba vételével összefüggésben.
 
-(5) A programkövetelményekről vezetett nyilvántartásból való törlés vagy módosítás a törölt vagy módosított programkövetelmény alapján – legkésőbb a törlés vagy módosítás időpontját megelőző naptári napon – indított szakmai képzést nem érinti. A programkövetelmény a felnőttképzés adatszolgáltatási rendszeréből nem távolítható el, archiválására a digitális archiválás szabályait kell alkalmazni.
+(5) A programkövetelményekről vezetett nyilvántartásból való törlés vagy módosítás esetén a törölt vagy módosított programkövetelmény alapján legkésőbb a törlés vagy módosítás napjától számított 14. naptári napig lehet szakmai képzést indítani. A programkövetelmény a felnőttképzés adatszolgáltatási rendszeréből nem távolítható el, archiválására a digitális archiválás szabályait kell alkalmazni.
 
 (6) A programkövetelmény felnőttképzésért felelős miniszter által történő felülvizsgálati eljárása a felülvizsgálattal érintett programkövetelmény módosítására, törlésére vonatkozó kérelemre indult eljárást a felülvizsgálat idejére felfüggeszti.
 
@@ -229,14 +229,14 @@ kell folytatnia,
 
 12. § (1) A képzési programnak tartalmaznia kell:
 
-- a) a képzés megnevezését,
+- a) a képzés magyar, angol, német nyelvű megnevezését,
 - b) a képzés során megszerezhető kompetenciát,
 - c) a képzésbe való bekapcsolódás és részvétel feltételeit, a képzés célját és célcsoportját,
 - d) a tervezett képzési időt,
 - e)
 - f) a képzés tananyagegységeit, azok célját, tartalmát, a tananyagegységekhez óraszámot és a tananyagegység megvalósítása során alkalmazott képzési módszereket és munkaformákat, valamint a kontaktórától eltérő munkaforma alkalmazása esetén, ha az a képzés óraszámába beszámítható, a beszámítható óraszámot is,
 - g) – a zárt rendszerű elektronikus távoktatás kivételével – a maximális csoportlétszámot,
-- h) a képzésben részt vevő teljesítményét értékelő rendszernek leírását,
+- h) a képzésben részt vevő teljesítményét értékelő rendszernek leírását, ha a képzés számonkérést tartalmaz, akkor a számonkérés módját, pótlás lehetőségét és annak módját, valamint a képzés befejezésének feltételét,
 - i) a képzésről, a képzés egyes tananyagegységeinek elvégzéséről szóló igazolás kiadásának feltételeit, valamint amennyiben a képzéshez mikrotanúsítvány kerül kiállításra, úgy a mikrotanúsítvány alapjául szolgáló szakképzési tankönyv megnevezését és nyilvántartásba vételi számát
 - j) a képzési program végrehajtásához szükséges személyi és tárgyi feltételeket, valamint a képzéshez kapcsolódó egyéb speciális feltételeket és ezek biztosításának módját.
 
@@ -626,6 +626,10 @@ vonatkozó részletes szabályokat.
 33/A. § Azok a felsőoktatási intézmények, amelyeknek 2024. május 10. napjáig vagyoni biztosítékadási kötelezettségük állt fenn, a vagyoni biztosítékadásra vonatkozó bejelentési és nettó árbevetéli jelentési kötelezettségüknek legkésőbb 2025. június 15-ig eleget kell tenniük.
 
 33/B. § Az egyes felsőoktatási, családügyi és kulturális tárgyú törvények módosításáról szóló 2024. évi LXXVI. törvénnyel (a továbbiakban: Módtv4.) megállapított 17/A. § c) pontját a Módtv4. hatálybalépésének napján folyamatban lévő képzésekre nem kell alkalmazni.
+
+33/C. § (1) A felsőoktatási, kulturális és kapcsolódó törvények módosításáról szóló 2025. évi XCV. törvénnyel (a továbbiakban: Módtv5.) módosított 11/A. § (5) bekezdését a 2026. március 31-én folyamatban lévő programkövetelmények nyilvántartásba vételére, módosítására és törlésére irányuló eljárásokra is alkalmazni kell.
+
+(2) A Módtv5.-tel módosított 12. § (1) bekezdés a) és h) pontját a 2026. március 31-ét követően indított képzések esetén kell alkalmazni.
 
 #### 17. Az Európai Unió jogának való megfelelés
 
