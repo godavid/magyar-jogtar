@@ -74,17 +74,7 @@ felsőoktatási, kulturális és kapcsolódó törvények módosításáról
 
 #### 21. §
 
-22. § (1)
-
-(2)
-
-(3) A felnőttképzésről szóló 2013. évi LXXVII. törvény 2. § 6. és 6a. pontja helyébe a következő rendelkezések lépnek:
-
-(E törvény alkalmazásában:)
-
-„6. képzés megkezdésének időpontja: a képzés első képzési napja, azaz a képző intézmény által meghirdetett képzés első kontaktórájának időpontja, függetlenül a képzésbe való bekapcsolódás időpontjától, azzal, hogy távoktatás és zárt rendszerű elektronikus távoktatás esetén az az időpont, amikor a képző a tananyagot a képzésben részt vevő személyek részére rendelkezésre bocsátotta, és a tananyag elsajátítását a képzésben résztvevők ténylegesen megkezdhetik,
-
-6a. képzés befejezésének időpontja: ha a képzés elvégzése a képzés formájától függetlenül jogszabályban vagy a képző által a képzési programban meghatározott követelményhez kötött, annak teljesítésének napja, ennek hiányában kontaktórás képzés esetén a képzés utolsó kontaktórájának időpontja, távoktatás és zárt rendszerű elektronikus távoktatás esetén a tananyag elsajátítására megállapított határidő utolsó napjának vége,”
+#### 22. §
 
 #### 23. §
 
@@ -102,11 +92,7 @@ felsőoktatási, kulturális és kapcsolódó törvények módosításáról
 
 #### 29. §
 
-30. § (1) A felnőttképzésről szóló 2013. évi LXXVII. törvény 16. alcíme a következő 33/C. §-sal egészül ki:
-
-„33/C. § (1) A felsőoktatási, kulturális és kapcsolódó törvények módosításáról szóló 2025. évi XCV. törvénnyel (a továbbiakban: Módtv5.) módosított 11/A. § (5) bekezdését a 2026. március 31-én folyamatban lévő programkövetelmények nyilvántartásba vételére, módosítására és törlésére irányuló eljárásokra is alkalmazni kell.
-
-(2) A Módtv5.-tel módosított 12. § (1) bekezdés a) és h) pontját a 2026. március 31-ét követően indított képzések esetén kell alkalmazni.”
+30. § (1)
 
 (2)
 
@@ -117,9 +103,9 @@ felsőoktatási, kulturális és kapcsolódó törvények módosításáról
 - a)
 - b)
 - c)
-- d) 11/A. § (5) bekezdésében a „módosítás a törölt vagy módosított programkövetelmény alapján – legkésőbb a törlés vagy módosítás időpontját megelőző naptári napon – indított szakmai képzést nem érinti. A programkövetelmény” szövegrész helyébe a „módosítás esetén a törölt vagy módosított programkövetelmény alapján legkésőbb a törlés vagy módosítás napjától számított 14. naptári napig lehet szakmai képzést indítani. A programkövetelmény” szöveg,
-- e) 12. § (1) bekezdés a) pontjában a „képzés megnevezését” szövegrész helyébe a „képzés magyar, angol, német nyelvű megnevezését” szöveg,
-- f) 12. § (1) bekezdés h) pontjában a „leírását,” szövegrész helyébe a „leírását, ha a képzés számonkérést tartalmaz, akkor a számonkérés módját, pótlás lehetőségét és annak módját, valamint a képzés befejezésének feltételét,” szöveg,
+- d)
+- e)
+- f)
 - g)
 - h)
 - i)
