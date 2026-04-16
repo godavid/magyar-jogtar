@@ -2580,7 +2580,7 @@ terjedhet.
   - ad) az Európai Biztosítási és Foglalkoztatói-nyugdíj Bizottsággal, valamint
   - ae) az Európai Bankbizottsággal,
   - af) másik tagállamok felügyeleti hatóságaival,
-  - ag) a tagállami központi bankokkal, a Központi Bankok Európai Rendszerével és az Európai Központi Bankkal mint monetáris hatóságokkal,
+  - ag) a tagállami központi bankokkal, a Központi Bankok Európai Rendszerével – ideértve a részére szolgáltatott adatokat is – és az Európai Központi Bankkal mint monetáris hatóságokkal,
   - ah) a fizetési és elszámolási rendszerek felügyeletére hatáskörrel rendelkező állami hatóságokkal,
 - b) a 4. § (7) bekezdésében meghatározott feladataira tekintettel az Európai Rendszerkockázati Testülettel,
 - c) a 4. § (8) bekezdésben meghatározott feladatára tekintettel az Európai Bankhatósággal.
@@ -2615,7 +2615,7 @@ terjedhet.
   - 1.3. a Magyarországon székhellyel rendelkező szabályozott piacokról, amelynek jegyzékét megküldi, illetve a jegyzék változásáról,
   - 1.4. azokról a bíróságon kívüli panasztételi és jogorvoslati eljárásokról, amelyek a 39. §-ban meghatározott törvények hatálya alá tartozó személyek és szervezetek rendelkezésére állnak,
   - 1.5. azokról a kötvényekről, jelzálog-levelekről, továbbá ezek kibocsátóiról, amelyek megfelelnek a 2009/65/EK irányelv 52. cikk (4) bekezdésében foglaltaknak, valamint mellékeli a felsoroltakat tartalmazó jegyzéket és a felkínált biztosítékok jellegét meghatározó feljegyzést,
-  - 1.6.
+  - 1.6. negyedévente a Kbftv. 8. §-a és 11. §-a alapján hozott engedélyről és az abban bekövetkezett változásokról,
   - 1.7. a Bszt. 26/A. § (4) bekezdése alapján hozott engedélyről és az abban bekövetkezett változásról,
   - 1.8. a Tpt. 310/A. § (10) bekezdése alapján hozott engedélyről és az abban bekövetkezett változásról,
   - 1.9. a Bszt. 154/H. §-a alapján hozott engedélyről és az abban bekövetkezett változásról,
@@ -3477,6 +3477,7 @@ azzal, hogy 2019. január 1-jétől az anticiklikus tőkepufferrátát a 33. §-
 - 22. a fedezett kötvények kibocsátásáról és a fedezett kötvények közfelügyeletéről, továbbá a 2009/65/EK és a 2014/59/EU irányelv módosításáról szóló, 2019. november 27-i (EU) 2019/2162 európai parlamenti és tanácsi irányelvnek
 - 23. a 2014/59/EU irányelvnek és a 806/2014/EU rendeletnek a szavatolótőkére és a leírható, illetve átalakítható kötelezettségekre vonatkozó minimumkövetelmény egyes vonatkozásai tekintetében történő módosításáról szóló, 2024. április 11-i (EU) 2024/1174 európai parlamenti és tanácsi irányelvnek
 - 24. a hitelgondozókról és a hitelfelvásárlókról, valamint a 2008/48/EK és a 2014/17/EU irányelv módosításáról szóló, 2021. november 24-i (EU) 2021/2167 európai parlamenti és tanácsi irányelvnek
+- 26. a 2011/61/EU és a 2009/65/EK irányelvnek az átruházásra vonatkozó megállapodások, a likviditásikockázat-kezelés, a felügyeleti jelentéstétel, a letétkezelői és letéti őrzési szolgáltatások nyújtása, valamint az alternatív befektetési alapok általi hitelnyújtás tekintetében történő módosításáról szóló, 2024. március 13-i (EU) 2024/927 európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.
 

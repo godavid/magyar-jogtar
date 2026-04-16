@@ -259,7 +259,7 @@ kívüli szolgáltatás.
 
 17. § (1) Felmondási idő kikötésének hiányában az ügyfél a keretszerződést bármikor, azonnali hatállyal felmondhatja. Egy hónapnál hosszabb felmondási idő kikötése semmis.
 
-(2) A keretszerződést – ide nem értve a hat hónapnál rövidebb ideje fennálló keretszerződést – az ügyfél díj-, költség- vagy egyéb fizetésikötelezettség-mentesen felmondhatja.
+(2) A keretszerződést – ide nem értve a hat hónapnál rövidebb ideje fennálló keretszerződést – az ügyfél díj-, költség- vagy egyéb fizetési kötelezettség-mentesen – auditált elektronikus hírközlő eszköz útján is – felmondhatja.
 
 (3) A hat hónapnál rövidebb ideje fennálló keretszerződés ügyfél általi felmondása esetén a pénzforgalmi szolgáltató az ügyféltől ellenértékre jogosult. Az ellenérték nem haladhatja meg a felmondás tényleges és közvetlenül felmerülő költségeit. E tekintetben a pénzforgalmi szolgáltatónak az ügyfél felé elszámolási kötelezettsége áll fenn.
 
