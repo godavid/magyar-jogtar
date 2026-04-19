@@ -49,8 +49,8 @@ a következő törvényt alkotja:
 - 15. radioaktív hulladék: további felhasználásra már nem kerülő olyan radioaktív anyag, amely sugárvédelmi jellemzők alapján nem kezelhető közönséges hulladékként;
 - 16. radioaktívhulladék-tároló: a radioaktív hulladék végleges és átmeneti elhelyezésére szolgáló létesítmény;
 - 17. radioaktív hulladék átmeneti tárolója: a 7. pont b) alpontja szerinti létesítmények kivételével a radioaktív hulladék időleges elhelyezésére szolgáló létesítmény;
-- 18. atomerőmű: olyan energiaátalakító létesítmény, amely nukleáris láncreakció felhasználásával villamos energiát termel;
-- 19. atomfűtőmű: olyan energiaátalakító létesítmény, amely nukleáris láncreakció felhasználásával hőt szolgáltat;
+- 18. atomerőmű: olyan energiaátalakító létesítmény, amely nukleáris láncreakció felhasználásával villamosenergiát, illetve hőenergiát termel;
+- 19.
 - 20. rendkívüli esemény: az atomenergia alkalmazását szolgáló létesítményben, berendezésben, vagy radioaktív (nukleáris) anyaggal végzett tevékenység során – bármilyen okból – bekövetkező olyan esemény, amely a biztonságot kedvezőtlenül befolyásolhatja, és az emberek nem tervezett sugárterhelését, valamint a környezetbe radioaktív anyagok nem tervezett kibocsátását eredményezi vagy eredményezheti;
 - 21. nukleáris veszélyhelyzet: rendkívüli esemény következtében előálló állapot, amelyben a lakosságot érintő következmények elhárítása vagy enyhítése érdekében intézkedésekre van vagy lehet szükség;
 - 22. engedélyes: az atomenergia alkalmazói közül, aki hatósági engedéllyel engedélyköteles tevékenységet folytat;
@@ -81,7 +81,7 @@ a következő törvényt alkotja:
 - 43. újrafeldolgozás: olyan folyamat vagy művelet, amelynek célja nukleáris vagy más radioaktív anyag kinyerése kiégett üzemanyagból további felhasználás céljára;
 - 44. végleges elhelyezés: a kiégett üzemanyag és a radioaktív hulladék visszanyerés szándéka nélkül történő végső, engedélyezett elhelyezése;
 - 45. gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet;
-- 46. nukleáris létesítmény és radioaktívhulladék-tároló létesítményszintű nukleáris biztonságával kapcsolatos engedély: a nukleáris létesítmény telephelye vizsgálatának és értékelésének, telephelye jellemzőinek és alkalmasságának megállapításához, létesítéséhez, bővítéséhez, üzembe helyezéséhez, üzemeltetéséhez, létesítményszintű tervezett üzemidején túli üzemeltetéséhez, a tervezett üzemidőn túli üzemeltetést követő további üzemeltetéséhez, létesítményszintű átalakításához, végleges üzemen kívül helyezéséhez, megszüntetéséhez, valamint a radioaktívhulladék-tároló telephelye vizsgálatához és értékeléséhez, telepítéséhez, létesítéséhez, üzemeltetéséhez, átalakításához, lezárásához, aktív intézményes és passzív intézményes ellenőrzéséhez szükséges engedély;
+- 46. nukleáris létesítmény és radioaktívhulladék-tároló létesítményszintű nukleáris biztonságával kapcsolatos engedély: a nukleáris létesítmény telephelye vizsgálatának és értékelésének, telephelye jellemzőinek és alkalmasságának megállapításához, létesítéséhez, bővítéséhez, üzembe helyezéséhez, üzemeltetéséhez, létesítményszintű tervezett üzemidején túli üzemeltetéséhez, a tervezett üzemidőn túli üzemeltetést követő további üzemeltetéséhez, létesítményszintű átalakításához, végleges üzemen kívül helyezéséhez, megszüntetéséhez, valamint a radioaktívhulladék-tároló telephelye vizsgálatához és értékeléséhez, telepítéséhez, létesítéséhez, üzemeltetéséhez, átalakításához, lezárásához, aktív intézményes és passzív intézményes ellenőrzéséhez, továbbá a kis moduláris reaktor létesítmény típusa alkalmasságának megállapításához szükséges engedély;
 - 47. felszín alatti kutatólaboratórium: kutatólétesítmény, a nagy aktivitású radioaktív hulladék végleges elhelyezését előkészítő tevékenység részeként a felszín alatt tetszőleges mélységben és geometriával kialakított földalatti térség és az ott működtetett kísérleti, kutató-fejlesztő és megfigyelő berendezések együttese, amelynek rendeltetése a földtani környezet és azon belül a befogadó kőzet részletes megismerése, a végleges elhelyezés műszaki megoldásainak optimalizálása, a földtani (természetes) és műszaki (épített) gátrendszer kölcsönhatásainak vizsgálata, és mindezek bemutatása a nyilvánosság számára;
 - 48. hiányzó anyag: nukleáris, vagy más radioaktív anyagnak az atomenergia alkalmazója által észlelt vagy hatóság által megállapított hiánya, az engedélyezett kibocsátásból származó radioaktívan szennyezett anyagok kivételével;
 - 49. talált anyag: nukleáris, vagy más radioaktív anyagnak az atomenergia alkalmazója által leltározás során észlelt vagy hatósági ellenőrzés során megállapított többlete, továbbá a sugárkapu üzemeltetője által észlelt nukleáris, vagy más radioaktív anyag, valamint bárki által egyéb módon talált, feltételezhetően nukleáris vagy más radioaktív anyag;
@@ -91,6 +91,8 @@ a következő törvényt alkotja:
 - 53. nukleáris létesítménnyel és radioaktívhulladék-tárolóval összefüggő építmény: a nukleáris biztonság szempontjából fontos, így különösen a radioaktív anyagok környezetbe jutását megakadályozó, és a sugárterhelés csökkentésére szolgáló, továbbá a biztonsági funkciók megvalósulásához közvetlenül szükséges építmények, a nukleáris biztonság szempontjából fontos gépészeti, villamos és irányítástechnikai rendszereket és rendszerelemeket tartalmazó épületek, a nukleáris biztonság szempontjából fontos rendszerekre, rendszerelemekre közvetlen hatást gyakorolni képes építmények, a nukleáris létesítmény és a radioaktívhulladék-tároló fizikai védelmében szerepet játszó építmények és építményrészek, továbbá a telephelyi nukleárisbaleset-elhárítási tevékenység végrehajtását közvetlenül kiszolgáló épületek és a nukleáris biztonság szempontjából sajátos építmények, amelyek a nukleáris létesítmény és radioaktívhulladék-tároló létesítéséhez szükségesek és nincs szerepük a létesítmény üzemeltetésében, valamint azok a nem sajátos építmények, amelyek a biztonsági övezethez tartoznak;
 - 54. eltérő fűtőelemköteg: az atomerőmű hatályos engedélyeiben meghatározottól eltérő fűtőelemköteg.
 - 55. jogszabály alapján feljogosított független ellenőrző szervezet: a 16/D. § szerint nyilvántartásba vett szervezet.
+- 56. kis moduláris reaktorblokk: fejlett 3.+ vagy 4. generációs standardizált kialakítású energetikai – hő-, illetve villamosenergia-termelési céllal létesítendő vagy üzemeltetett – vagy ipari célú nukleáris reaktoregység, amely részben vagy egészben előregyártott és -szerelt modulokból áll, és amely a nukleáris biztonság garantálására kidolgozott stratégiák és műszaki megoldások szempontjából logikailag elkülöníthető egységet képez;
+- 57. kis moduláris reaktor létesítmény: olyan atomerőmű, amely egy vagy több, akár különböző életciklusszakaszokban lévő, de azonos telephelyen elhelyezkedő, és azonos típusú kis moduláris reaktorblokkal vagy reaktormodullal rendelkezik.
 
 ### Alapelvek
 
@@ -130,7 +132,7 @@ a következő törvényt alkotja:
 4/A. § Alapvető biztonsági célkitűzés az ember és a környezet védelme az ionizáló sugárzás káros hatásaival szemben, ennek elérése érdekében
 
 - a) a kormányzat hatékony jogi szabályozást készít elő, valamint független, az atomenergia békés célú felhasználását felügyelő szervet vagy szerveket hoz létre és tart fenn;
-- b) mind a biztonságot felügyelő szervek, mind a kockázattal járó tevékenységet végző szervezetek az alapvető biztonsági célkitűzés iránt elkötelezett vezetést és hatékony irányítási rendszert hoznak létre és tartanak fenn;
+- b) mind a biztonságot felügyelő szervek, mind a kockázattal járó tevékenységet végző szervezetek az alapvető biztonsági célkitűzés iránt elkötelezett vezetést és hatékony irányítási rendszert hoznak létre és tartanak fenn, ideértve a biztonsági kultúra fejlesztését is;
 - c) a biztonságért való elsődleges felelősség azt a személyt vagy szervezetet terheli, aki, vagy amely a sugárzásból eredő kockázat növekedését okozó létesítmény vagy tevékenység engedélyese;
 - d) az atomenergia alkalmazása csak azzal a szándékkal történhet meg, hogy az általa nyújtott társadalmi előnyök nagyobbak legyenek, mint az atomenergiát alkalmazó természetes személyt, az atomenergia alkalmazásával kapcsolatos tevékenységet végző munkavállalót, a lakosságot, a környezetet és az anyagi javakat fenyegető kockázatok;
 - e) az atomenergia alkalmazója biztosítja az ember és a környezet sugárzástól való ésszerű védelmét a 4. § (1) bekezdése szerint;
@@ -144,7 +146,7 @@ a következő törvényt alkotja:
 
 (2) Az atomenergia alkalmazása kizárólag a jogszabályokban meghatározott módon és hatósági felügyelet mellett történhet. Az atomenergia biztonságos alkalmazásának feltételeit a hatáskörrel rendelkező hatóságok a jogszabályok, a tudomány, valamint a technika eredményeinek folyamatos figyelembevételével határozzák meg.
 
-(3) A (2) bekezdés szerinti hatóságok függetlenek az atomenergia alkalmazása – ideértve a villamosenergia-termelést, a radioizotópok alkalmazását, a kiégett üzemanyag és a radioaktív hulladék kezelését is – és fejlesztése terén érdekelt bármely más szervtől vagy szervezettől.
+(3) A (2) bekezdés szerinti hatóságok függetlenek az atomenergia alkalmazása – ideértve a villamosenergia- és hőenergia-termelést, a radioizotópok alkalmazását, a kiégett üzemanyag és a radioaktív hulladék kezelését is – és fejlesztése terén érdekelt bármely más szervtől vagy szervezettől.
 
 5/A. § (1) A Magyarországon keletkező kiégett üzemanyag és radioaktív hulladék kezelésével kapcsolatban a végső felelősség a magyar államot terheli, kivéve
 
@@ -497,15 +499,15 @@ Időszakos Biztonsági Felülvizsgálat keretében – figyelembe véve az üzem
 
 ### Az atomenergia alkalmazójának feladatai
 
-10. § (1) Az atomenergia biztonságos alkalmazásáért, a biztonsági követelmények betartásáért az atomenergia alkalmazója felelős.
+10. § (1) Az atomenergia biztonságos alkalmazásáért, a biztonsági követelmények betartásáért az atomenergia alkalmazója felelős. Az atomenergia-felügyeleti szerv határozatában foglalt előírások és követelmények betartása nem mentesíti az atomenergia alkalmazóját a biztonságért való elsődleges felelőssége alól.
 
 (2) Az engedélyes – tevékenységi körében – köteles az atomenergia biztonságos alkalmazásához, a biztonság fenntartásához és fejlesztéséhez szükséges műszaki-technológiai, anyagi és személyi feltételeket biztosítani, továbbá a sugárzási viszonyokat a tudomány legújabb igazolt eredményeivel, a nemzetközi elvárásokkal, valamint tapasztalatokkal összhangban folyamatosan ellenőrizni. A környezeti sugárzási viszonyok ellenőrzésének eredményeiről rendszeresen – legalább havonta – tájékoztatni kell a lakosságot.
 
-(3) Az engedélyes – figyelembe véve üzemeltetési tapasztalatait és a biztonsággal kapcsolatos új ismereteket – köteles folyamatos tevékenységet végezni a biztonság növelésére.
+(3) Az engedélyes – figyelembe véve az üzemeltetési tapasztalatait és a biztonsággal kapcsolatos új ismereteket – köteles folyamatos tevékenységet végezni a biztonság növelésére, ideértve a biztonsági kultúra fejlesztését is.
 
 (4) Az atomerőmű, a radioaktívhulladék-tároló az engedélyese a munkaalkalmassági követelmények meghatározása során alkohol- és drogpolitikát dolgoz ki, valamint gondoskodik az annak végrehajtásához szükséges ellenőrzésről.
 
-(5) Az atomerőmű engedélyese mint köztulajdonban álló munkáltató a munkarendjének kialakítása során a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) 205. § (2) bekezdés b) pontjában foglaltaktól a nukleáris létesítmény üzemeltetési sajátosságait is figyelembe véve az Mt. 86. § (3) bekezdés a) pontjában foglalt munkaközi szünetre vonatkozóan a munkavállaló javára eltérhet.
+(5) Ha az atomerőmű engedélyese köztulajdonban álló munkáltató, a munkarendjének kialakítása során a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) 205. § (2) bekezdés b) pontjában foglaltaktól a nukleáris létesítmény üzemeltetési sajátosságait is figyelembe véve az Mt. 86. § (3) bekezdés a) pontjában foglalt munkaközi szünetre vonatkozóan a munkavállaló javára eltérhet.
 
 10/A. § (1) A radioaktív hulladék tárolójának, valamint a kiégett üzemanyag átmeneti és végleges tárolójának (a továbbiakban: tároló) engedélyese a 4. § (4) bekezdésében és a 10. § (2) bekezdésében foglaltakról, továbbá a 40. § szerinti feladatok elvégzéséről
 
@@ -571,6 +573,8 @@ Időszakos Biztonsági Felülvizsgálat keretében – figyelembe véve az üzem
 - d) érvényesítés során: kizárólag az engedélyes és a külső bejelentő,
 - e) radioaktívhulladék-tárolóra vonatkozó engedélynél (a létesítmény telephelyének vizsgálatához és értékeléséhez, telepítéséhez, létesítéséhez, üzemeltetéséhez, átalakításához, lezárásához, aktív és passzív intézményes ellenőrzésre való áttéréséhez szükséges engedély esetében) az engedélyesen kívül a hatásterületen levő valamennyi ingatlan tulajdonosa és az, akinek az ingatlanra vonatkozó jogát az ingatlan-nyilvántartásba bejegyezték,
 - f) bejelentés-tudomásulvételi és az eltérésbejelentés-tudomásulvételi eljárásban az engedélyes.
+- g) kis moduláris reaktor létesítmény létesítési és üzembehelyezési programja jóváhagyása iránti eljárásban a létesítési és üzembehelyezési program benyújtására és végrehajtására jogosult,
+- h) kis moduláris reaktor létesítmény típusengedélyezési eljárásban az engedélykérelem benyújtására jogosult.
 
 (1a) Az atomenergia-felügyeleti szerv által lefolytatott eljárásban az eljárás megindításáról szabályszerűen értesített ügyfél ügyféli jogait csak akkor gyakorolhatja, ha az eljárásban nyilatkozatot tett vagy kérelmet nyújtott be. A nukleáris létesítmény létesítményszintű nukleáris biztonságával kapcsolatos engedélyezési eljárásba a döntés véglegessé válásától és végrehajthatóvá válásától számított hat hónapon túl nem léphet be további ügyfél, e határidő elmulasztása esetén igazolásnak helye nincs.
 
@@ -585,14 +589,16 @@ Időszakos Biztonsági Felülvizsgálat keretében – figyelembe véve az üzem
 (2a) A nukleáris létesítmény telephelye vizsgálatának és értékelésének, valamint a nukleáris létesítmény telephelye jellemzői és alkalmassága megállapításának engedélyezése iránti nukleáris biztonsági hatósági eljárásban a hatásterület a nukleáris létesítmény tervezett telephelye, valamint
 
 - a) kutatóreaktor, oktatóreaktor és nukleáris üzemanyagot vizsgáló laboratórium esetén a nukleáris létesítmény tervezett telephelyének határától számított száz méteres,
-- b) az a) pontban meghatározott nukleáris létesítmények kivételével a nukleáris létesítmény tervezett telephelyének határától számított ötszáz méteres
+- b) az a) pontban meghatározott nukleáris létesítmények és a kis moduláris reaktor létesítmények kivételével a nukleáris létesítmény tervezett telephelyének határától számított ötszáz méteres
+- c) kis moduláris reaktor létesítmény esetén a kis moduláris reaktor létesítményekről szóló elnöki rendeletben meghatározott követelmények szerint az atomenergia-felügyeleti szerv által meghatározott távolság, de legalább a kis moduláris reaktor létesítmény tervezett telephelyének határától számított ötven méteres
 
 távolságon belüli terület.
 
 (2b) A nukleáris létesítmény létesítésének engedélyezése iránti nukleáris biztonsági eljárásban a hatásterület a nukleáris létesítmény tervezett telephelye, valamint a létesítmény tervezője által a kérelmet megalapozó dokumentációban – kormányrendeletben meghatározott követelmények alapján – javasolt biztonsági övezet területe, de legalább
 
 - a) kutatóreaktor, oktatóreaktor és nukleáris üzemanyagot vizsgáló laboratórium esetén a nukleáris létesítmény tervezett telephelyének határától számított száz méteres,
-- b) az a) pontban meghatározott nukleáris létesítmények kivételével a nukleáris létesítmény tervezett telephelyének határától számított ötszáz méteres
+- b) az a) pontban meghatározott nukleáris létesítmények és a kis moduláris reaktor létesítmények kivételével a nukleáris létesítmény tervezett telephelyének határától számított ötszáz méteres
+- c) kis moduláris reaktor létesítmény esetén a nukleáris létesítmény és a radioaktívhulladék-tároló biztonsági övezetéről szóló kormányrendeletben meghatározott követelmények szerint az atomenergia-felügyeleti szerv által meghatározott távolság, de legalább a kis moduláris reaktor létesítmény tervezett telephelyének határától számított ötven méteres
 
 távolságon belüli terület.
 
@@ -643,6 +649,37 @@ is megtartható. A közmeghallgatás időpontját megelőzően lehetőséget kel
 
 (6) Az Ngtv. vagy a magyar építészetről szóló törvény felhatalmazása alapján a Kormány által rendeletben kiemelt jelentőségű üggyé nyilvánított beruházásnál a nukleáris biztonság szempontjából sajátos építményekre vonatkozóan a 17. § (2) bekezdés 3. pontjában meghatározott engedélyezés esetében tűzvédelmi, polgári védelmi és nukleárisbaleset-elhárítási szakkérdésben eljáró szakhatóság ügyintézési határideje negyvenkét nap.
 
+### A szakmai konzultáció
+
+11/C. § (1) Az atomenergia-felügyeleti szervnél – igazgatási jellegű szolgáltatásként – szakmai konzultáció kezdeményezhető. A szakmai konzultáció az atomenergia alkalmazására vonatkozó követelményeknek való megfeleléssel kapcsolatos kérdésekre terjedhet ki.
+
+(2) Nem kezdeményezhető szakmai konzultáció az atomenergia-felügyeleti szerv hatáskörébe tartozó közigazgatási hatósági eljárás alatt, az eljárás tárgyát képező kérdést illetően.
+
+(3) A szakmai konzultáció nem pótolhat közigazgatási hatósági eljárás során az ügy érdemében hozandó döntést, továbbá az atomenergia-felügyeleti szerv szakmai konzultáció eredményeként kialakított álláspontja a közigazgatási hatósági eljárás tekintetében nem rendelkezik kötőerővel. Az atomenergia-felügyeleti szerv szakmai konzultáció eredményeként kialakított álláspontja nem mentesíti a szakmai konzultációt kezdeményezőt az e törvény szerinti felelőssége és kötelezettségeinek teljesítése alól.
+
+### Az előzetes vélemény
+
+11/D. § (1) Az atomenergia-felügyeleti szervtől – igazgatási jellegű szolgáltatásként – előzetes vélemény kérhető a kis moduláris reaktorblokk és a kis moduláris reaktor létesítmény vonatkozásában alkalmazni kívánt megoldásról vagy dokumentációról.
+
+(2) Nem kérhető előzetes vélemény a kis moduláris reaktorblokk és a kis moduláris reaktor létesítmény vonatkozásában az atomenergia-felügyeleti szervnél folyamatban lévő közigazgatási hatósági eljárás alatt, az eljárás tárgyát képező kérdést illetően.
+
+(3) Az atomenergia-felügyeleti szerv az előzetes vélemény elkészítésének időtartamát az előzetes vélemény tárgyára, egyedi jellemzőire, összetettségére és terjedelmére tekintettel állapítja meg. Az atomenergia-felügyeleti szerv az előzetes véleményt kérőt az előzetes vélemény kialakításának időigényéről, feltételeiről és módjáról tájékoztatja, és az előzetes vélemény elkészítésének folyamatát azt követően kezdi meg, hogy az előzetes véleményt kérő e tájékoztatásban foglaltak elfogadásáról nyilatkozott.
+
+(4) Az előzetes vélemény érvényességi idejét – az előzetes vélemény nukleáris biztonsági jelentőségének figyelembevételével, és a fokozatos megközelítés elvét alkalmazva – az atomenergia-felügyeleti szerv abban megállapítja.
+
+(5) Az előzetes vélemény nem pótolhat közigazgatási hatósági eljárás során az ügy érdemében hozandó döntést, továbbá – ide nem értve a 11/E. § (1) bekezdés szerinti esetet – a közigazgatási hatósági eljárás tekintetében nem rendelkezik kötőerővel. Az előzetes vélemény nem mentesíti az előzetes véleményt kérőt az e törvény szerinti felelőssége és kötelezettségeinek teljesítése alól.
+
+11/E. § (1) Az előzetes véleményt kérő az előzetes vélemény érvényességi idején belül a kis moduláris reaktorblokk és a kis moduláris reaktor létesítmény vonatkozásában, kérelemre indult közigazgatási hatósági eljárásban a kérelem benyújtásával egyidejűleg kérheti, hogy a kérelmet az atomenergia-felügyeleti szerv az előzetes véleményben foglaltak szerint bírálja el.
+
+(2) Az (1) bekezdés szerinti határidő jogvesztő, annak elmulasztása esetén igazolási kérelem benyújtásának helye nincsen.
+
+(3) Az (1) bekezdés alapján indult közigazgatási hatósági eljárásban az előzetes vélemény változatlan tényállás és változatlan tartalmú dokumentáció esetén köti az atomenergia-felügyeleti szervet, kivéve, ha a közigazgatási hatósági eljárás során az atomenergia-felügyeleti szerv megállapítja, hogy
+
+- a) a kérelmező valótlan adatokat tartalmazó kérelmet terjesztett elő;
+- b) az előzetes vélemény kialakításához alapul vett tények, körülmények jelentősen megváltoztak és az előzetes véleményben foglalt tényállástól olyan módon térnek el, amely az előzetes vélemény megalapozottságát kétségessé teszi;
+- c) az előzetes vélemény kialakításakor alkalmazott jogszabályok módosultak, és ez érdemben befolyásolja az előzetes vélemény tartalmát; vagy
+- d) az előzetes véleményben megállapított kritikus feltételek nem teljesülnek.
+
 ### A hatósági engedélyezés és ellenőrzés általános rendje
 
 12. § (1) Ha a kérelem a jogszabályban foglalt követelményeknek nem felel meg, az atomenergia-felügyeleti szerv határidő megjelölésével, a mulasztás jogkövetkezményeire történő figyelmeztetés mellett hiánypótlásra hívja fel az ügyfelet a kérelem beérkezését követő naptól számított
@@ -685,12 +722,26 @@ is megtartható. A közmeghallgatás időpontját megelőzően lehetőséget kel
 
 (5) A nukleáris létesítmény és a radioaktívhulladék-tároló engedélyesének minőségirányítási rendszerében, a személyzet képzését érintő dokumentumában, adatbázisában rögzített személyes adatokat az atomenergia-felügyeleti szerv csak a hatósági jogosító vizsgához kötött munkakörökben történő munkavégzés ellenőrzésére használhatja fel.
 
-12/B. § (1) A 17. § (2) bekezdés 1. pont b) alpontjában meghatározott létesítés, bővítés engedélyezése és a 17. § (2) bekezdés 12. pontja szerinti nukleáris létesítmény biztonsági övezetének kijelölése esetében az ügyintézési határidő
+12/B. § (1) A 17. § (2) bekezdés 1. pont b) alpontjában meghatározott létesítés, bővítés engedélyezése és – az (1a) bekezdésben foglalt kivétellel – a 17. § (2) bekezdés 12. pontja szerinti nukleáris létesítmény biztonsági övezetének kijelölése esetében az ügyintézési határidő
 
 - a) tizenkét hónap abban az esetben, ha az engedélyes a 17. § (8) bekezdése szerinti előzetes biztonsági tájékoztatót nyújt be,
 - b) tizennyolc hónap akkor, ha az engedélyes nem nyújt be a 17. § (8) bekezdése szerinti előzetes biztonsági tájékoztatót,
 
 amely eljárások indokolt esetben, legfeljebb három hónappal hosszabbíthatók meg.
+
+(1a) A 17. § (2) bekezdés 1a. pont b) alpontjában meghatározott létesítés engedélyezése és a 17. § (2) bekezdés 12. pontja szerinti nukleáris létesítmény biztonsági övezetének kijelölése esetében az ügyintézési határidő
+
+- a) hat hónap abban az esetben, ha a kis moduláris reaktor létesítmény rendelkezik a 17. § (2) bekezdés 1a. pont b) alpontja szerinti típusengedéllyel és a kis moduláris reaktor létesítmény létesítésiengedély-kérelme részeként nem nyújtották be a létesítési és üzembehelyezési programot,
+- b) kilenc hónap abban az esetben, ha a kis moduláris reaktor létesítmény rendelkezik a 17. § (2) bekezdés 1a. pont b) alpontja szerinti típusengedéllyel és a kis moduláris reaktor létesítmény létesítésiengedély-kérelmével egyidejűleg a kérelmező a létesítési és üzembehelyezési program jóváhagyását is kérte,
+- c) tizennyolc hónap abban az esetben, ha a kis moduláris reaktor létesítmény nem rendelkezik a 17. § (2) bekezdés 1a. pont b) alpontja szerinti típusengedéllyel.
+
+(1b) Az (1a) bekezdés szerinti eljárás ügyintézési határideje indokolt esetben egy alkalommal, legfeljebb három hónappal meghosszabbítható.
+
+(1c) A 17. § (2) bekezdés 1a. pont b) alpontjában meghatározott típusengedély iránti eljárásban az ügyintézési határidő tizenöt hónap, amely indokolt esetben egy alkalommal, legfeljebb három hónappal meghosszabbítható.
+
+(1d) A 17. § (2) bekezdés 1a. pont b) alpontjában meghatározott üzemeltetés, üzemen kívül helyezés, megszüntetés és leszerelés engedélyezése esetében, valamint, ha a nukleáris létesítmény átalakítása miatt a nukleáris létesítmény üzemeltetési engedélyének módosítása szükséges, az ügyintézési határidő tizenegy hónap, amely indokolt esetben egy alkalommal, legfeljebb három hónappal meghosszabbítható.
+
+(1e) A 17. § (2) bekezdés 1b. pontjában meghatározott létesítési és üzembehelyezési program jóváhagyása iránti eljárásban – amennyiben a jóváhagyásra nem a létesítési engedély iránti eljárásban kerül sor – az ügyintézési határidő három hónap, amely indokolt esetben egy alkalommal legfeljebb két hónappal hosszabbítható meg.
 
 (2) A 17. § (2) bekezdés 15. pontja szerinti radioaktívhulladék-tároló telepítése és létesítése engedélyezésének és a 17. § (2) bekezdés 12. pontja szerint radioaktívhulladék-tároló biztonsági övezete kijelölése esetén az ügyintézési határidő tizenkét hónap, amely indokolt esetben, legfeljebb három hónappal meghosszabbítható.
 
@@ -720,6 +771,7 @@ amely eljárások indokolt esetben, legfeljebb három hónappal hosszabbítható
 - h) az atomenergia-felügyeleti szerv által kiadott engedélyben előírt feltétel teljesítése határidejének módosítására irányuló eljárásban,
 - i) a hivatalból indított eljárásban.
 - j) a 17. § (2) bekezdés 48. pontja szerinti jóváhagyási eljárásban.
+- k) a 17. § (2) bekezdés 1a. pont c) alpontja szerinti átalakítás engedélyezése iránti eljárásban, ha nem szükséges az üzemeltetési engedély módosítása.
 
 (7) Az ügyintézési határidő kilencven nap a 17. § (2) bekezdés 18. pontjában meghatározott engedélyezési eljárásban – a (4) bekezdés a) pontjában meghatározott kivétellel – a nukleáris anyag, radioaktív sugárforrás és radioaktív hulladék alkalmazására, tárolására, illetve a szabotázs és a jogtalan eltulajdonítás megakadályozását, a szabotázs és a jogtalan eltulajdonítás lehetőségének csökkentését, vagy a jogtalan eltulajdonítás lehetőségének csökkentését biztosító védelmet igénylő szállítására vonatkozó fizikai védelmi rendszer fizikai védelmi terv alapján történő engedélyezése esetében.
 
@@ -749,7 +801,7 @@ ha ezeket a közigazgatási hatósági ügyeket az Ngtv. vagy a magyar építés
 
 (3) A (2) bekezdéstől eltérően új nukleáris létesítmény létesítési engedélyezési eljárásában a független műszaki szakértői véleményeztetés nem előfeltétele az engedélyezési eljárásnak. Ha a kérelmező nem vagy nem teljes körűen nyújt be független szakértői véleményt, akkor az atomenergia felügyeleti szerv azt hivatalból készítteti el, amelynek költsége a kérelmezőt terheli.
 
-14. § (1) Az atomenergia-felügyeleti szerv jogszabályban meghatározott esetekben és feltételek szerint az engedélyes kérelmére összevont engedélyt, előzetes típusengedélyt, valamint atomerőmű esetén az eltérő fűtőelemkötegek alkalmazását célzó átalakításhoz előzetes elvi átalakítási engedélyt, vagy átalakítási engedélyt adhat ki.
+14. § (1) Az atomenergia-felügyeleti szerv jogszabályban meghatározott esetekben és feltételek szerint kérelemre összevont engedélyt, típusengedélyt, valamint atomerőmű esetén az eltérő fűtőelemkötegek alkalmazását célzó átalakításhoz előzetes elvi átalakítási engedélyt, vagy átalakítási engedélyt adhat ki.
 
 (1a) Engedély határozott vagy határozatlan időre, valamint feltételhez kötötten adható. A határozott időre adott engedély időbeli hatálya – ha jogszabály eltérően nem rendelkezik – kérelemre meghosszabbítható.
 
@@ -826,7 +878,12 @@ megadott engedélyek hatályának megszűnése esetén is fennáll.
 
 ### A bejelentés tudomásulvételi eljárás és az eltérésbejelentés-tudomásulvételi eljárás
 
-15/C. § (1) Az atomenergia-felügyeleti szerv e törvény végrehajtására kiadott elnöki rendeletben meghatározott, a 2. és 3. biztonsági osztályba sorolt rendszerek, rendszerelemek gyártása, beszerzése esetén bejelentés-tudomásulvételi eljárást, illetve eltérésbejelentés-tudomásulvételi eljárást folytat le.
+15/C. § (1) Az atomenergia-felügyeleti szerv
+
+- a) az e törvény végrehajtására kiadott elnöki rendeletben meghatározott, a 2. és 3. biztonsági osztályba sorolt rendszerek, rendszerelemek gyártása, beszerzése esetén,
+- b) a kis moduláris reaktor létesítményekről szóló elnöki rendeletben meghatározott esetekben a rendszerek, rendszerelemek létesítési és üzembehelyezési programba foglalt gyártása, beszerzése, szerelése és üzembe helyezése esetén
+
+bejelentés-tudomásulvételi eljárást, illetve eltérésbejelentés-tudomásulvételi eljárást folytat le.
 
 (2) A bejelentés-tudomásulvételi eljárásban és az eltérésbejelentés-tudomásulvételi eljárásban az e törvényben foglalt eltérésekkel alkalmazni kell az általános közigazgatási rendtartásról szóló törvénynek a nyelvhasználatra és tolmács igénybevételére, az adatkezelésre, a hatáskörre és illetékességre, a kapcsolattartás általános szabályaira, a képviseletre, az iratra, a határidő számítására, a kérelemre, az igazolási kérelemre, a kézbesítettnek tekintettséggel szembeni kifogásra, továbbá a költségmentességre vonatkozó rendelkezéseit azzal, hogy az általános közigazgatási rendtartásról szóló törvény ügyfélre vonatkozó rendelkezéseit a bejelentést tevőre is alkalmazni kell.
 
@@ -1093,17 +1150,25 @@ végezhet.
 
 (2) Az atomenergia-felügyeleti szerv hatáskörébe tartozik:
 
-- 1. a nukleáris létesítmény
+- 1. a nukleáris létesítmény – kivéve a kis moduláris reaktor létesítményt –
   - a) telephelyének vizsgálatához és értékeléséhez, telephely jellemzőinek és alkalmasságának megállapításához,
   - b) létesítéséhez, bővítéséhez, üzembe helyezéséhez, üzemeltetéséhez, tervezett üzemidején túli üzemeltetéséhez, tervezett üzemidőn túli üzemeltetést követő további üzemeltetéséhez, üzemen kívül helyezéséhez, megszüntetéséhez
 
 szükséges nukleáris biztonsági engedélyezés;
 
+- 1a. a kis moduláris reaktor létesítmény
+  - a) telephelyének vizsgálatához és értékeléséhez, telephely jellemzőinek és alkalmasságának megállapításához,
+  - b) létesítményszintű típusengedélyéhez, létesítéséhez, üzemeltetéséhez, üzemen kívül helyezéséhez, megszüntetéséhez, leszereléséhez,
+  - c) üzemeltetési időszakában történő átalakításához – ideértve az eltérő üzemanyag alkalmazásának bevezetését is –
+
+szükséges nukleáris biztonsági engedélyezés és ellenőrzés;
+
+- 1b. a kis moduláris reaktor létesítmény létesítési és üzembehelyezési programjának jóváhagyása és ellenőrzése;
 - 2. a nukleáris létesítmény és a radioaktívhulladék-tároló ellenőrzése, valamint a nukleáris létesítmény és radioaktívhulladék-tároló nukleáris biztonságának értékelése, elemzése;
 - 3. a nukleáris létesítménnyel és a radioaktív-hulladék tárolóval összefüggő építmények hatósági engedélyezése és ellenőrzése, továbbá az építmények felvonóinak hatósági engedélyezése;
-- 4. a nukleáris létesítmény rendszere, rendszereleme tekintetében a tervezéssel, gyártással, beszerzéssel, szereléssel (beépítéssel), üzembe helyezéssel, üzemeltetéssel, átalakítással (atomerőmű esetén ideértve az eltérő fűtőelemkötegek alkalmazásának bevezetését is), üzemen kívül helyezéssel, leszereléssel kapcsolatos tevékenységek nukleáris biztonsági engedélyezése és ellenőrzése, továbbá radioaktívhulladék-tároló rendszere és rendszereleme tekintetében az átalakítással, leszereléssel és lezárással kapcsolatos tevékenységek engedélyezése és ellenőrzése;
+- 4. a nukleáris létesítmény – kivéve a kis moduláris reaktor létesítményt – rendszere, rendszereleme tekintetében a tervezéssel, gyártással, beszerzéssel, szereléssel (beépítéssel), üzembe helyezéssel, üzemeltetéssel, átalakítással (atomerőmű esetén ideértve az eltérő fűtőelemkötegek alkalmazásának bevezetését is), üzemen kívül helyezéssel, leszereléssel kapcsolatos tevékenységek nukleáris biztonsági engedélyezése és ellenőrzése, továbbá radioaktívhulladék-tároló rendszere és rendszereleme tekintetében az átalakítással, leszereléssel és lezárással kapcsolatos tevékenységek engedélyezése és ellenőrzése;
 - 5. a nukleáris létesítmény és a radioaktívhulladék-tároló átalakításához szükséges engedélyezés és ellenőrzés;
-- 6. a nukleáris létesítmény és a radioaktívhulladék-tároló rendszerének, rendszerelemének az engedélyes szervezeti felépítésének, irányítási rendszerének, műszaki és szabályozó dokumentumai átalakításának engedélyezése és ellenőrzése;
+- 6. a nukleáris létesítmény és a radioaktívhulladék-tároló engedélyese szervezeti felépítésének, irányítási rendszerének, műszaki és szabályozó dokumentumai átalakításának engedélyezése és ellenőrzése;
 - 7. az atomerőmű blokkjainak főjavítását követő újraindításához szükséges nukleáris biztonsági engedélyezés;
 - 8. a nukleáris létesítmény és a radioaktívhulladék-tároló nukleárisbaleset-elhárítási intézkedési tervének az első alkalommal történő, illetve módosítását követő érvénybe léptetéséhez szükséges nukleáris biztonsági engedélyezése;
 - 9. a jogszabályban meghatározott technológiák, mérési, számítási, műszaki vizsgálati és értékelési módszerek leírásának, az anyagvizsgálati dokumentumoknak, elemzési eredményeknek, valamint a biztonság szempontjából meghatározó munkakörök betöltésére vonatkozó szabályozó dokumentumok jóváhagyása, továbbá a biztonság szempontjából meghatározó munkakörök betöltéséhez szükséges egyetértési jog gyakorlása;
@@ -1161,11 +1226,11 @@ szükséges nukleáris biztonsági engedélyezés;
 
 (6) Jogszabályban meghatározott átalakítások esetén kérelmezni kell az atomenergia-felügyeleti szervnél a nukleáris létesítmény és a radioaktív-hulladék tároló üzemeltetési engedélyének módosítását.
 
-(7) A (2) bekezdés 1., 3–10., 12., 15. és 47. pontja szerinti engedélyezési eljárás – a nukleáris létesítmény telephelyének vizsgálatához és értékeléséhez szükséges eljárást kivéve –, a létesítmény engedélyesének kérelmére indul. A kérelmet és az azt megalapozó dokumentációt írásban, elektronikus úton kell benyújtani.
+(7) A (2) bekezdés 1., 1a., 3–10., 12., 15. és 47. pontja szerinti engedélyezési eljárás – a nukleáris létesítmény telephelyének vizsgálatához és értékeléséhez szükséges eljárást, valamint a kis moduláris reaktor létesítmény típusengedélyezési eljárását kivéve –, a létesítmény engedélyesének kérelmére indul. A kérelmet és az azt megalapozó dokumentációt írásban, elektronikus úton kell benyújtani.
 
 (8) A nukleáris létesítmény létesítési engedélyezési eljárásának tervezett megindítását megelőzően, a nukleáris létesítmény engedélyese elnöki rendeletben foglaltak szerint előzetes biztonsági tájékoztató benyújtásával tájékoztathatja az atomenergia-felügyeleti szervet a tervezett nukleáris létesítmény biztonsági követelményeknek való előzetes megfeleléséről (előzetes biztonsági tájékoztató).
 
-(8a) A létesítés alatt álló nukleáris létesítmény vagy radioaktívhulladék-tároló hatósági engedélyeit az atomenergia-felügyeleti szerv módosíthatja, amennyiben a módosítási kérelem tartalma megfelel az NBSZ. R.-ben vagy TBSZ. R.-ben meghatározott követelményeknek.
+(8a) A létesítés alatt álló nukleáris létesítmény vagy radioaktívhulladék-tároló hatósági engedélyeit az atomenergia-felügyeleti szerv módosíthatja, amennyiben a módosítási kérelem tartalma megfelel az NBSZ. R.-ben, a TBSZ. R.-ben vagy a kis moduláris reaktor létesítményekről szóló elnöki rendeletben meghatározott követelményeknek.
 
 (9) A nukleáris létesítménnyel, a radioaktívhulladék-tárolóval, valamint azok építményeivel összefüggő valamennyi, az engedélyezési eljárásban felmerült adat nyilvánosságra hozatalát az eljáró hatóság megtagadhatja, amennyiben az adat nyilvánosságra hozatala nemzetbiztonsági vagy honvédelmi érdeket, a közbiztonságot, Magyarország külügyi tevékenységét, külügyi kapcsolatait, nemzetközi szervezetekkel való kapcsolatait sérti vagy veszélyezteti, szellemi tulajdonhoz való jogot sért, vagy ha az adat nyilvánosságra hozatala a hatásterületet érintően a környezet védelmi szintjének csökkenésével járna. A nyilvánosságra hozatal megtagadható továbbá abban az esetben is, ha az bírósági, illetve más hatósági eljárás lefolytatását veszélyezteti, kivéve, ha az eljáró bíróság, hatóság engedélyezi az adat nyilvánosságra hozatalát.
 
@@ -1578,7 +1643,7 @@ alkalmazásával kell megállapítani.
 
 51. § Az e törvényben foglalt kivételektől eltekintve az atomkárokért való felelősség korlátozása vagy kizárása semmis.
 
-52. § (1) A nukleáris létesítmények közül az atomerőmű, atomfűtőmű és nukleáris üzemanyagot előállító,, illetve feldolgozó létesítmény esetében az engedélyes feltétlen felelősségének összege a létesítményben történt nukleáris balesetenként nem haladhatja meg a 100 millió SDR-t; egyéb nukleáris létesítményben, továbbá a nukleáris üzemanyag szállítása, illetve tárolása során bekövetkező nukleáris balesetenként az 5 millió SDR-t.
+52. § (1) A nukleáris létesítmények közül az atomerőmű, és nukleáris üzemanyagot előállító,, illetve feldolgozó létesítmény esetében az engedélyes feltétlen felelősségének összege a létesítményben történt nukleáris balesetenként nem haladhatja meg a 100 millió SDR-t; egyéb nukleáris létesítményben, továbbá a nukleáris üzemanyag szállítása, illetve tárolása során bekövetkező nukleáris balesetenként az 5 millió SDR-t.
 
 (2) A Magyar Állam az (1) bekezdésben meghatározott összegeket meghaladó atomkárt megtéríti, az atomkár megtérítésére összesen fordítható összeg azonban ebben az esetben sem haladhatja meg a 300 millió SDR-t.
 
@@ -1657,7 +1722,7 @@ alkalmazásával kell megállapítani.
 
 63. § (1) Az atomerőmű a radioaktív hulladék végleges elhelyezésének, valamint a kiégett üzemanyag átmeneti tárolásának – beleértve a tároló leszerelését is –, és a nukleárisüzemanyag-ciklus lezárásának, továbbá az atomerőmű leszerelésének, valamint az ellenőrzési és információs célú önkormányzati társulásoknak nyújtott támogatás költségeit a Központi Nukleáris Pénzügyi Alapba történő befizetés útján köteles biztosítani. Az adott évre megállapított összeg arányos részét közvetlenül a Központi Nukleáris Pénzügyi Alap kincstárnál vezetett számlájára havonta, a hónap 15. napjáig kell befizetni.
 
-(2) Atomerőmű esetében a befizetés mértékét úgy kell megállapítani, hogy az teljes mértékben fedezze:
+(2) Atomerőmű – kis moduláris reaktor létesítmény kivételével – esetében a befizetés mértékét úgy kell megállapítani, hogy az teljes mértékben fedezze:
 
 - a) az atomerőmű teljes üzemideje alatt és a leszereléskor keletkező radioaktív hulladék végleges elhelyezésével, valamint a kiégett üzemanyag átmeneti tárolásával és a nukleárisüzemanyag-ciklus lezárásával,
 - b) az első előzetes leszerelési terv költsége kivételével valamennyi, az atomerőmű, továbbá a kiégett üzemanyag átmeneti tárolója leszerelésével,
@@ -1667,7 +1732,19 @@ alkalmazásával kell megállapítani.
 
 együtt járó költségeket.
 
-(2a) Az atomerőmű befizetésének meghatározását a nettó jelenérték számítás módszerével, 3%-os reáldiszkontráta alkalmazásával kell elvégezni úgy, hogy az (1) bekezdés szerinti befizetésből, a 64. § (2) bekezdése szerinti központi költségvetési értékállósági hozzájárulásból, valamint a 64. § (5) bekezdése szerinti felhalmozott vagyonból képzett összeg jelenértéke megegyezzen a jövőben jelentkező, (2) bekezdés szerinti költségek jelenértékével.
+(2a) Az atomerőmű – kis moduláris reaktor létesítmény kivételével – befizetésének meghatározását a nettó jelenérték számítás módszerével, 3%-os reáldiszkontráta alkalmazásával kell elvégezni úgy, hogy az (1) bekezdés szerinti befizetésből, a 64. § (2) bekezdése szerinti központi költségvetési értékállósági hozzájárulásból, valamint a 64. § (5) bekezdése szerinti felhalmozott vagyonból képzett összeg jelenértéke megegyezzen a jövőben jelentkező, (2) bekezdés szerinti költségek jelenértékével.
+
+(2b) A kis moduláris reaktor létesítmény esetében a befizetés mértékét úgy kell megállapítani, hogy az teljes mértékben fedezze a típusengedélyben meghatározott tervezési élettartam figyelembevételével
+
+- a) a típusengedélyben meghatározott tervezési élettartam és az üzemeltetés ideje alatt, az időszakos biztonsági felülvizsgálatok figyelembevételével és a leszereléskor keletkező radioaktív hulladék végleges elhelyezésével, valamint a kiégett üzemanyag átmeneti tárolásával és a nukleárisüzemanyag-ciklus lezárásával,
+- b) az első előzetes leszerelési terv költsége kivételével valamennyi, a kis moduláris reaktor létesítmény, továbbá a kiégett üzemanyag átmeneti tárolója leszerelésével, valamint
+- c) a 10/A. § (2) bekezdése szerint a társulásnak nyújtott támogatással
+
+együtt járó költségeket.
+
+(2c) A kis moduláris reaktor létesítmény befizetésének meghatározását a nettó jelenérték számítás módszerével, 3%-os reáldiszkontráta alkalmazásával kell elvégezni úgy, hogy az (1) bekezdés szerinti befizetésből, valamint a 64. § (5) bekezdése szerinti felhalmozott vagyonból képzett összeg jelenértéke megegyezzen a jövőben jelentkező, (2b) bekezdés szerinti költségek jelenértékével.
+
+(2d) A kis moduláris reaktor létesítmény befizetéseit az időszakos biztonsági felülvizsgálatok lezárultát követően – beleértve, ha a létesítmény leszerelésére a típusengedélyben foglalt tervezési élettartamon belül kerül sor – felül kell vizsgálni az (1) bekezdésben foglaltak teljesülése érdekében, és a szükséges befizetéseket a következő évi központi költségvetésről szóló törvényben meghatározottak szerint teljesíteni kell.
 
 (3) Az atomerőmű befizetésének éves mértékét a központi költségvetésről szóló törvény határozza meg a (2) bekezdésben foglalt kötelezettség figyelembevételével.
 
@@ -1883,7 +1960,7 @@ a miniszterrel egyetértésben, rendeletben állapítsa meg.
 
 (12) Felhatalmazást kap az elnök, hogy rendeletben állapítsa meg:
 
-- 1. az atomenergia-felügyeleti szerv hatáskörébe tartozó, kérelemre indult eljárások tekintetében az eljárásáért fizetendő igazgatási szolgáltatási díj mértékére, valamint a díjak és az egyéb bevételek beszedésére, kezelésére, nyilvántartására, visszatérítésére vonatkozó részletes szabályokat;
+- 1. az atomenergia-felügyeleti szerv hatáskörébe tartozó, kérelemre indult eljárások, valamint a szakmai konzultáció és az előzetes vélemény tekintetében az eljárásáért fizetendő igazgatási szolgáltatási díj mértékére, valamint a díjak és az egyéb bevételek beszedésére, kezelésére, nyilvántartására, visszatérítésére vonatkozó részletes szabályokat;
 - 2. a 18/D. § szerinti szakmagyakorlásra alkalmasság igazolásának és a nyilvántartásba vétel részletes szabályait, továbbá a nyilvántartás adattartalmát;
 - 3. azoknak a radioaktív anyagoknak, valamint ionizáló sugárzást létrehozó berendezéseknek a körét, amelyek alkalmazása – az általuk létrehozható ionizáló sugárzás jellege és mértéke folytán – az emberi életre és egészségre, az emberi környezetre nem minősül veszélyesnek, és ezért nem tartoznak e törvény hatálya alá;
 - 4. az atomenergia alkalmazása körébe tartozó anyagok, berendezések tulajdonjoga megszerzésének speciális feltételeit, birtoklásuk, üzemben tartásuk bejelentésének rendjét;
@@ -1917,19 +1994,24 @@ a miniszterrel egyetértésben, rendeletben állapítsa meg.
   - f) a nukleáris biztonsági hatósági tevékenység szabályait,
   - g) a nukleáris létesítményekkel összefüggő építmények körét, a nukleáris létesítményekkel, valamint a nukleáris létesítményekkel összefüggő építményekkel kapcsolatos építésügyi hatósági engedélyezési eljárások lefolytatásának részletes szabályait, a műszaki dokumentáció részletes tartalmi követelményeit, az építésfelügyeleti ellenőrzés építéshatósági eljárásának és ellenőrzésének rendjét, továbbá építészeti és épületgépészeti nukleáris biztonsági követelményeit,
   - h) a létesítés alatt álló nukleáris létesítmény engedélymódosításának eljárási szabályait;
-  - i) a bejelentés-tudomásulvételi eljárásban és az eltérésbejelentés-tudomásulvételi eljárásban a bejelentés mellékleteire, a bejelentésköteles tevékenység során felmerülő eltérések kezelésére vonatkozó részletes szabályokat, valamint a bejelentés-tudomásulvételi eljárás és az eltérésbejelentés-tudomásulvételi eljárás alá vonható, a 2. és 3. biztonsági osztályba sorolt rendszerek, rendszerelemek körét.
+  - i) a bejelentés-tudomásulvételi eljárásban és az eltérésbejelentés-tudomásulvételi eljárásban a bejelentés mellékleteire, a bejelentésköteles tevékenység során felmerülő eltérések kezelésére vonatkozó részletes szabályokat, valamint a bejelentés-tudomásulvételi eljárás és az eltérésbejelentés-tudomásulvételi eljárás alá vonható 2. és 3. biztonsági osztályba sorolt rendszerek, rendszerelemek, illetve a kis moduláris reaktor létesítmény rendszerei és rendszerelemei körét;
 - 10. a radioaktívhulladék-tárolók biztonsági követelményeit és az ezzel összefüggő hatósági követelmények részletes szabályait, valamint a létesítés alatt álló radioaktívhulladék-tároló engedélymódosításának eljárási szabályait.
 - 11. az atomenergia alkalmazása körében a munkavállalók speciális szakmai képzését, továbbképzését és az atomenergia alkalmazásával összefüggő tevékenységek folytatására jogosultak körét;
 - 12. a nukleáris anyagok nyilvántartásának és ellenőrzésének szabályait, a kapcsolódó adatszolgáltatás szabályait, a nyilvántartás adatait érintő változásokkal kapcsolatos bejelentési és értesítési kötelezettségeket, az előírt adatszolgáltatás elmaradásának következményeit, a nukleáris anyagokkal kapcsolatos telephely kijelölés és az ezzel kapcsolatos hatósági feladatok szabályait;
 - 13. a radioaktív anyagok nyilvántartása és ellenőrzése, valamint a kapcsolódó adatszolgáltatás szabályait;
 - 14. az atomenergia-felügyeleti szerv által a 11/A. § (3a) bekezdése szerint lefolytatott eljárásban az angol nyelven benyújtandó műszaki dokumentációk körét;
-- 15. az atomenergia-felügyeleti szerv által lefolytatott, a 17. § (8) bekezdése szerinti előzetes biztonsági tájékoztatóval és az előzetes típusengedélyezési eljárással kapcsolatos részletes szabályokat;
+- 15. az atomenergia-felügyeleti szerv által lefolytatott, a 17. § (8) bekezdése szerinti előzetes biztonsági tájékoztatóval és a típusengedélyezési eljárással kapcsolatos részletes szabályokat;
 - 16. az atomenergia-felügyeleti szerv elnökének rendelet kiadásában helyettesítését ellátó elnökhelyettesét;
 - 17. az atomenergia alkalmazási körében eljáró független műszaki szakértői tevékenységgel kapcsolatos eljárásokért fizetendő igazgatási szolgáltatási díj mértékét, valamint a díj beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos szabályokat;
 - 18. a radioaktívhulladék-tároló és a felszín alatti vizsgálat céljára szolgáló laboratórium telephelyének műszaki megtervezésénél figyelembe veendő földtani követelményrendszert, a földtani alkalmasság megállapítását célzó kutatás engedélyezésére és a kutatás eredményének jóváhagyására vonatkozó eljárási szabályokat, valamint a létesítéssel és az üzemeltetéssel kapcsolatos bányaműszaki és bányabiztonsági követelményeket.
 - 19. a hatósági feladatot ellátó személy részére biztosítandó szolgálati igazolványra vonatkozó részletes szabályokat, valamint az igazolvány személyes adatot nem tartalmazó adattartalmát.
 - 20. a jogszabály alapján feljogosított független ellenőrző szervezet nyilvántartásba vételének, nyilvántartása felfüggesztésének, nyilvántartásból való törlésének részletes szabályait, valamint az akkreditálás során érvényesítendő követelményeket.
 - 21. a köztisztviselőt a készenlétért megillető készenléti pótlék mértékére vonatkozó részletes szabályokat.
+- 22. a szakmai konzultáció és az előzetes vélemény részletes szabályait;
+- 23. a kis moduláris reaktor létesítmény tekintetében
+  - a) a létesítményszintű típusengedélyezésre vonatkozó követelményeket,
+  - b) a létesítményszintű típusengedély iránti eljárás részletes szabályait,
+  - c) a létesítési és üzembehelyezési programra és annak végrehajtására vonatkozó követelményeket.
 
 ### Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 
