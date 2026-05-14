@@ -1235,6 +1235,8 @@ jogszabály vagy egyedi döntés (a továbbiakban: támogatási döntés) alapj�
 
 (5) A (4) bekezdésben foglaltaktól eltérően nem minősül a költségvetési támogatás jogosulatlan igénybevételének, támogatási céltól eltérő felhasználásának, ha a helyi önkormányzat, a helyi nemzetiségi önkormányzat és az országos nemzetiségi önkormányzat kedvezményezett a fejlesztési, beruházási céllal nyújtott költségvetési támogatásból származó átmenetileg szabad pénzeszközt állampapír vásárlásával hasznosítja, feltéve, hogy az állampapír vásárlása nem a kincstár által vezetett fizetési számlája terhére történik és a támogatási cél határidőben történő megvalósulását ez nem veszélyezteti. A helyi önkormányzat, a helyi nemzetiségi önkormányzat és az országos nemzetiségi önkormányzat kedvezményezett az így elért hozamot, kamatbevételt kizárólag a támogatott tevékenységgel kapcsolatos kiadásokra használhatja fel.
 
+(6) A (4) és (4b) bekezdésben foglaltaktól eltérően nem minősül a költségvetési támogatás jogosulatlan igénybevételének, támogatási céltól eltérő felhasználásának, ha az egyházi jogi személyek a fejlesztési, beruházási céllal nyújtott költségvetési támogatásból származó, átmenetileg szabad pénzeszközt állampapír vásárlásával hasznosítják, feltéve, hogy a támogatási cél határidőben történő megvalósulását ez nem veszélyezteti. Az egyházi jogi személy kedvezményezett az így elért hozamot, kamatbevételt kizárólag a támogatott tevékenységgel kapcsolatos kiadásokra használhatja fel.
+
 51/A. § (1) Az ötven millió forintot meghaladó a fejlesztési, beruházási céllal nyújtott költségvetési támogatás, valamint – a magánszektorba sorolt kedvezményezett kivételével – támogatási előleg a kedvezményezettnek a Kormány rendeletében meghatározottak szerint bocsátható rendelkezésre.
 
 (2) A kedvezményezett a támogatási előlegként rendelkezésre bocsátott összeget kizárólag a támogatási szerződésben meghatározott támogatási céllal összefüggésben, a támogatott tevékenységre használhatja fel.
@@ -2792,6 +2794,8 @@ lehet az államháztartás központi alrendszerébe tartozó költségvetési sz
 111/S. § Az 52/A. § (1) bekezdése szerinti határidő hosszabbítást azzal az eltéréssel kell alkalmazni, hogy a Kormány egyedi határozata alapján a 14. § (3) bekezdése szerinti fejezet terhére nyújtott fejlesztési célú támogatásokkal összefüggő, 2022. június 1. napján fennálló, 650 000 000 forintot elérő vagy azt meghaladó összegű támogatási jogviszonyok esetén a támogatásra irányadó végső felhasználási határidő a kedvezményezett kérelmére, a támogató egyedi mérlegelése alapján legfeljebb 2026. december 31-ig hosszabbítható meg. E rendelkezés az 52/A. § (3) bekezdése szerinti határidő-hosszabbítástól függetlenül alkalmazható.
 
 111/T. § E törvénynek Magyarország 2026. évi központi költségvetésének megalapozásáról szóló 2025. évi LI. törvénnyel (a továbbiakban: Módtv6.) módosított 45. § (5) bekezdését e rendelkezés hatálybalépésekor fennálló követelések tekintetében is alkalmazni kell.
+
+111/U. § E törvénynek az Ukrajna területén fennálló fegyveres konfliktusra tekintettel kihirdetett veszélyhelyzeti rendeletek törvényi szintre emeléséről szóló 2026. évi XIV. törvénnyel (a továbbiakban: Módtv7.) megállapított 51. § (6) bekezdését a Módtv7. hatálybalépését megelőzően az egyházi jogi személy részére fejlesztési, beruházási céllal rendelkezésre bocsátott költségvetési támogatásból származó, átmenetileg szabad pénzeszközök esetében is alkalmazni kell.
 
 #### 74. Az Európai Unió jogának való megfelelés
 

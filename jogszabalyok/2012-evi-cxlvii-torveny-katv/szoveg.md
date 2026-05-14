@@ -207,7 +207,7 @@ növelt összege, de legalább a b) pont szerinti összeg.
 
 (2) E fejezet alkalmazásában személyi jellegű kifizetésnek minősül
 
-- a) azon személyi jellegű ráfordítás, amely a Tbj. szerint járulékalapot képez az adóévben,
+- a) azon személyi jellegű ráfordítás, a felszolgálási díj kivételével, amely a Tbj. szerint járulékalapot képez az adóévben,
 - b) az a) ponttól eltérően tag esetén a Tbj. 4. § 14. pont 14.2. alpontja szerinti minimálbér 100%-a, ha a tagra jutó személyi jellegű ráfordítás ennél alacsonyabb, azzal, hogy nem kell figyelembe venni a minimálbér 100%-át arra az időszakra vonatkozóan, amelyre a tagnak nem keletkezik a Tbj. 39. §-a szerinti járulékalap utáni járulékfizetési kötelezettsége,
 - c) a Szocho. tv. 1. § (4) bekezdés a) pontja szerinti béren kívüli juttatás,
 - d) a Szocho. tv. 1. § (4) bekezdés b) pontja szerinti béren kívüli juttatásnak nem minősülő egyes meghatározott juttatás.
@@ -420,6 +420,8 @@ együttes összegének a 10 százaléka.
 32/F. § A családi gazdaságokról szóló 2020. évi CXXIII. törvénnyel megállapított 2. § 22. pontja 2019. január 1-jétől alkalmazható.
 
 32/G. § E törvénynek a Magyarország 2023. évi központi költségvetésének megalapozásáról szóló 2022. évi XXIV. törvénnyel megállapított 20. § (5) bekezdését első alkalommal a 2022. adóévi adókötelezettség megállapítása során kell alkalmazni.
+
+32/H. § E törvénynek az Ukrajna területén fennálló fegyveres konfliktusra tekintettel kihirdetett veszélyhelyzeti rendeletek törvényi szintre emeléséről szóló 2026. évi XIV. törvénnyel módosított 20. § (2) bekezdés a) pontja első alkalommal a 2026. adóév esetében alkalmazandó.
 
 #### 33. §
 

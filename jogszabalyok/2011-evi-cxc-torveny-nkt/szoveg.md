@@ -2948,7 +2948,7 @@ majd ezt követően minden tanévben felmenő rendszerben kell alkalmazni.
 
 99/N. § A 2024. december 31-én pedagógus továbbképzés szervezésére jogosult alapítási engedéllyel rendelkező személy vagy szervezet továbbképzési programja az engedélyben meghatározott időpontig a Kormány rendeletében meghatározottak szerint továbbképzésként megszervezhető.
 
-99/O. § A TB-kiskönyv megszüntetéséről, valamint a köznevelési, szociális, gyermekvédelmi és fogyatékosságügyi területet érintő egyes törvények módosításáról szóló 2025. évi XXXIV. törvénnyel megállapított 4. § 32a. pontját 2026. július 1-jétől kell alkalmazni. Ezen időpontig tanulmányi rendszer alatt a 2025. június 30. napján hatályos 4. § 32a. pontjában foglaltakat kell érteni.
+99/O. § A TB-kiskönyv megszüntetéséről, valamint a köznevelési, szociális, gyermekvédelmi és fogyatékosságügyi területet érintő egyes törvények módosításáról szóló 2025. évi XXXIV. törvénnyel megállapított 4. § 32a. pontját 2027. július 1-jétől kell alkalmazni. Ezen időpontig tanulmányi rendszer alatt a 2025. június 30. napján hatályos 4. § 32a. pontjában foglaltakat kell érteni.
 
 #### 55. Az Európai Unió jogának való megfelelés
 

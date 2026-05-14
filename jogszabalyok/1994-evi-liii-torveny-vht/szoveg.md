@@ -1308,6 +1308,13 @@ ismételten benyújtja.
 - a) a kitüntetéssel, kitüntető címmel, díjjal, jelvénnyel, oklevéllel együtt járó összeg,
 - b) a biztosítási összeg, a lefoglalt ingóságért járó összeg kivételével,
 - c) a szakszervezet sztrájkalapjába helyezett összeg.
+- d) a sportról szóló 2004. évi I. törvény 15. § (1) bekezdése szerinti sportszervezet részére nyújtott, működési célú állami támogatás teljes összege.
+
+92/A. § (1) A (2) bekezdés szerinti eset kivételével mentes a végrehajtás alól az Otthontámogatásra jogosult személyek körét, az Otthontámogatás mértékét, juttatásának részletes feltételeit és eljárási szabályait, továbbá a folyósítás és a visszafizetés szabályait megállapító kormányrendelet szerint nyújtott Otthontámogatás (a továbbiakban: Otthontámogatás) teljes összege.
+
+(2) E § rendelkezései nem alkalmazhatók azon esetben, amikor a végrehajtás az Otthontámogatás jogosulatlan felvételéből adódó visszafizetési kötelezettség teljesítését biztosítja.
+
+(3) E törvény erejénél fogva az Otthontámogatás összegének végrehajtás alá vonására irányuló intézkedések hatálytalanok, az Otthontámogatás végrehajtás alá vont összege az adós részére visszajár.
 
 93. § (1) A szerzőt és a jogutódját megillető szerzői jog mentes a végrehajtás alól.
 
@@ -4896,6 +4903,10 @@ a lakóingatlan kiürítését – a (3) bekezdésben foglalt kivétellel – a 
 (3) E törvénynek a Módtv.7.-vel megállapított 115. § (1) bekezdését, 139. § (4) bekezdését a Módtv.7. hatálybalépését követően indult végrehajtási eljárásokban kell alkalmazni.
 
 (4) E törvénynek az egyes gazdaságszabályozási törvények módosításáról szóló 2022. évi XIX. törvény 63. §-ával megállapított 234/A. §-át és 69. § d) pontjával megállapított 306/I. §-át a veszélyhelyzet megszűnésével összefüggő szabályozási kérdésekről szóló 2022. évi V. törvény 8. § (1) bekezdése alapján benyújtott, az önálló bírósági végrehajtó szolgálati jogviszonya folyamatosságának megállapítására irányuló kérelmek elbírálására is alkalmazni kell.
+
+(5) E törvénynek az Ukrajna területén fennálló fegyveres konfliktusra tekintettel kihirdetett veszélyhelyzeti rendeletek törvényi szintre emeléséről szóló 2026. évi XIV. törvénnyel (a továbbiakban: Módtv19.) megállapított 92. § d) pontját a Módtv19. hatálybalépésekor folyamatban lévő végrehajtási eljárásokban, a Módtv19. hatálybalépését követően kifizetett állami támogatásra kell alkalmazni.
+
+(6) E törvénynek a Módtv19. által megállapított 92/A. §-át a Módtv19. hatálybalépésekor folyamatban lévő végrehajtási eljárásokban is alkalmazni kell, azzal, hogy a Módtv19. hatálybalépését megelőzően – az Otthontámogatás végrehajtás alá vonása érdekében – tett intézkedéseket is hatálytalannak kell tekinteni, a végrehajtás alá vont összeg az adós részére visszajár.
 
 ### Felhatalmazás
 

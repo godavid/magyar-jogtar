@@ -2405,6 +2405,10 @@ azzal, hogy a szerződés szerint keletkező hozam adókötelezettségére e § 
 
 kell megállapítania és a kifizetésekkel, juttatásokkal összefüggő adó és járulékok bevallására, megfizetésére az adózás rendjéről szóló törvényben előírt módon és határidőre kell bevallania és megfizetnie.
 
+(5a) Ha az adóév folyamán a 70. § (4a) bekezdése szerinti jövedelem meghaladja a 100 millió forintot, a meghaladó rész után a juttatónak a juttatás hónapját magában foglaló negyedév kötelezettségeként adóelőleget kell megállapítania, és azt a kifizetésekkel, juttatásokkal összefüggő adó és járulékok bevallására, megfizetésére az adózás rendjéről szóló törvényben előírt módon és határidőre kell bevallania, valamint megfizetnie. A tevékenységét év közben kezdő juttató adóelőleget nem fizet.
+
+(5b) A 70. § (4a) bekezdése szerinti jövedelemnek az értékhatárt meghaladó része után keletkező adókötelezettséget a juttatónak az adóévre elszámolt éves összes bevétel megállapítására előírt időpontot követően kell megállapítania, és az elszámolt éves összes bevétel megállapításának hónapját követő negyedév 12. napjáig – az adóév során az (5a) bekezdés szerint megfizetett adóelőleg figyelembevételével – kell a kifizetésekkel, juttatásokkal összefüggő adó és járulékok bevallására, megfizetésére az adózás rendjéről szóló törvényben előírt módon és határidőre bevallania és megfizetnie.
+
 (6) Ha a magánszemély a kifizetőt terhelő adó mellett nem pénzben juttatott vagyoni értéket elidegeníti, annak szerzési értéke az a jövedelem, amely után a kifizető az adót megfizette.
 
 70. § (1) Egyes meghatározott juttatásnak minősül
@@ -2417,6 +2421,15 @@ kell megállapítania és a kifizetésekkel, juttatásokkal összefüggő adó �
 (3) Egyes meghatározott juttatásnak minősül a munkáltató által a szakképzési munkaszerződés alapján duális képzőhelyen folytatott szakirányú oktatásban részt vevő magánszemély, kötelező szakmai gyakorlaton lévő hallgató, duális képzésben hallgatói munkaszerződés alapján részt vevő hallgató részére azonos feltételekkel és módon ingyenesen vagy kedvezményesen átadott termék, nyújtott szolgáltatás révén juttatott adóköteles bevétel.
 
 (4) Egyes meghatározott juttatásnak minősül az adóévben reprezentáció és üzleti ajándékok juttatása alapján meghatározott jövedelem azzal, hogy a jövedelem meghatározásánál figyelmen kívül kell hagyni az e törvény előírásai szerint adómentes juttatásokat.
+
+(4a) A 69. § (5a) és (5b) bekezdésétől, valamint a (4) bekezdéstől eltérően mentes az adó alól az étteremben, cukrászdában nyújtott vendéglátás (étel, ital) formájában adott reprezentációs juttatás alapján meghatározott jövedelemnek (juttatás értékének) az adóévben elszámolt éves összes bevétel 1 százalékát, de legfeljebb 100 millió forintot meg nem haladó része. A tevékenységét év közben kezdő vagy megszüntető juttató az értékhatárt a tevékenység folytatásának napjaival arányosan veheti figyelembe.
+
+(4b) A (4a) bekezdés alkalmazásában
+
+- a) adóév: a számvitelről szóló törvény szerinti gazdálkodónál az üzleti év, egyébként az adózás rendjéről szóló törvény szerinti adóév;
+- b) cukrászda: az a vendéglátó üzlet, amelyet a helyi kereskedelmi hatóság a kereskedelmi tevékenységek végzésének feltételeiről szóló kormányrendelet szerinti cukrászda üzlettípusként vett nyilvántartásba;
+- c) elszámolt éves összes bevétel: a kifizető által az adóévre vonatkozó beszámolóban – ide nem értve az összevont (konszolidált) beszámolót – kimutatott (ennek hiányában az adóév utolsó napjára vonatkozó könyvviteli zárlat alapján megállapított) összes bevétel, egyéni vállalkozó esetében az adóévi vállalkozói bevétel;
+- d) étterem: az a vendéglátó üzlet, amelyet a helyi kereskedelmi hatóság a kereskedelmi tevékenységek végzésének feltételeiről szóló kormányrendelet szerinti étterem üzlettípusként vett nyilvántartásba.
 
 (5) Ha a kifizető egyesület, köztestület, egyházi jogi személy, alapítvány (ideértve a közalapítványt is), a (4) bekezdéstől eltérően mentes az adó alól az adóévben reprezentáció és a minimálbér 25 százalékának megfelelő egyedi értéket meg nem haladó üzleti ajándékok juttatása alapján meghatározott jövedelem azon része, amely a közhasznú, illetve cél szerinti tevékenysége érdekében felmerült, az adóévre vonatkozó beszámolóban kimutatott összes ráfordítás 10 százalékát, de legfeljebb az adóévre elszámolt éves összes bevétele 10 százalékát nem haladja meg.
 
@@ -3353,6 +3366,8 @@ veszi figyelembe a személyijövedelemadó-bevallásban.
 
 (4) E törvénynek az egyes adótörvények adminisztrációt csökkentő és jogharmonizációs célú módosításáról szóló 2025. évi LXXXIII. törvénnyel módosított 77/A. § (2) bekezdés m) pont mb) alpontja már a 2023. december 31-ét követően biztosított jogszerzés esetében is alkalmazható.
 
+112. § E törvénynek az Ukrajna területén fennálló fegyveres konfliktusra tekintettel kihirdetett veszélyhelyzeti rendeletek törvényi szintre emeléséről szóló 2026. évi XIV. törvénnyel megállapított 69. § (5a) és (5b) bekezdését, 70. § (4a) és (4b) bekezdését és 1. számú melléklet 8. pont 8.47. alpontját első alkalommal 2026. május hónapra vonatkozóan kell alkalmazni.
+
 ### 1. számú melléklet az 1995. évi CXVII. törvényhez
 
 #### Az adómentes bevételekről
@@ -4060,6 +4075,8 @@ az adóévben legfeljebb – az a), b) és c) pont szerinti juttatási körben k
 8.45. a juttató által reprezentációs és nem reprezentációs célú vendéglátás keretében, továbbá üzleti ajándékként vagy csekély értékű ajándékként történő juttatás céljából közvetlenül a szőlészetről és borászatról szóló 2020. évi CLXIII. törvény 9. § (1) bekezdése szerinti forgalomba hozatalt kezdeményező borászati üzemengedélyestől palackozott kiszerelésben vásárolt, oltalom alatt álló eredetmegjelöléssel ellátott borászati termék, valamint az oltalom alatt álló földrajzi jelzéssel ellátott borászati termék, azzal, hogy a juttató az ilyen célból beszerzett termékekről olyan nyilvántartást vezet, melyből megállapítható a beszerzés forrása és a termék felhasználásának módja is.
 
 8.46. a reprezentáció és az üzleti ajándék, ha azt a kifizető – feladat- és hatáskörét tekintve közfeladat ellátása során – a Nemzeti Rendezvényszervező Ügynökség Nonprofit Zártkörűen Működő Részvénytársaság kijelöléséről és egyes feladatainak meghatározásáról szóló kormányrendelet szerinti kiemelt sportesemény, nemzeti rendezvény megrendezése keretében biztosítja.
+
+8.47. a juttató által reprezentációs és nem reprezentációs célú vendéglátás keretében, továbbá üzleti ajándékként vagy csekély értékű ajándékként történő juttatás céljából a jövedéki adóról szóló 2016. évi LXVIII. évi törvény 3. § (1) bekezdés 4. pontjában meghatározott adóraktárban előállított és onnan közvetlenül vásárolt, pálinkazárjeggyel ellátott alkoholtermék, azzal, hogy a juttató az ilyen célból beszerzett termékekről olyan nyilvántartást vezet, melyből megállapítható a beszerzés forrása és a termék felhasználásának módja is.
 
 9. Adómentességre vonatkozó vegyes rendelkezések:
 
