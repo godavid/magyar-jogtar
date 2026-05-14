@@ -175,7 +175,7 @@ kerülhet sor.
 - c) tartózkodjék a saját és a többi gyermek testi, lelki egészségét veszélyeztető magatartástól vagy azt károsító életmód gyakorlásától és az egészségét károsító szerek használatától,
 - d) a véleménynyilvánítás szabadságához való jogának gyakorlása során – ideértve, ha az internet- vagy médiaszolgáltatás igénybevételével történik – tiszteletben tartsa a többi gyermek emberi méltóságát.
 
-(2) A gyermekjóléti és gyermekvédelmi ellátást, továbbá a javítóintézeti ellátást biztosító intézmények házirendje az e törvényben meghatározott keretek között, a gyermek, a fiatal felnőtt és a fiatalkorú életkorához, egészségi állapotához, fejlettségi szintjéhez igazodva állapítja meg a gyermek, a fiatal felnőtt és a fiatalkorú jogai gyakorlásának és kötelességei teljesítésének szabályait.
+(2) A gyermekjóléti és gyermekvédelmi ellátást, továbbá a javítóintézeti ellátást biztosító intézmények házirendje az e törvényben, a javítóintézetek tekintetében az e törvényben és a büntetés-végrehajtási tárgyú jogszabályokban meghatározott keretek között, a gyermek, a fiatal felnőtt és a fiatalkorú életkorához, egészségi állapotához, fejlettségi szintjéhez igazodva állapítja meg a gyermek, a fiatal felnőtt és a fiatalkorú jogai gyakorlásának és kötelességei teljesítésének szabályait.
 
 (3) Az intézmény – a külön jogszabályban meghatározottak szerint elkészített – házirendjét az intézményben mindenki által jól látható helyen ki kell függeszteni, és gondoskodni kell annak megismertetéséről.
 
@@ -309,13 +309,11 @@ kezeli a gyermekvédelmi intézményben foglalkoztatottnak és a pályázónak a
 - b) ismételt foglalkoztatás esetén
   - ba) szakmai véleményt kér az intézményben működő gyermekjogi képviselőtől, gyermekvédelmi gyámoktól, érdekképviseleti fórumtól és nevelőtestülettől az érintett személynek a gyermekekkel szemben tanúsított magatartásáról, bánásmódjáról,
   - bb) tájékozódik az intézményt érintő, a működést engedélyező szerv, az alapvető jogok biztosa és az ügyészség által lefolytatott vizsgálatok eredményéről, és
-  - bc) a javítóintézet igazgatójának és otthonvezetőjének, valamint a gyermekotthont működtető intézmény vezetőjének és a gyermekotthon vezetőjének ismételt kinevezése, megbízása esetén véleményt kér az érintett személy által vezetett intézmény székhelye, telephelye szerinti települési önkormányzat polgármesterétől az érintett személynek a települési önkormányzattal vezetői minőségében való együttműködéséről.
+  - bc) a javítóintézet vezetőjének és otthonvezetőjének, valamint a gyermekotthont működtető intézmény vezetőjének és a gyermekotthon vezetőjének ismételt kinevezése, megbízása esetén véleményt kér az érintett személy által vezetett intézmény székhelye, telephelye szerinti települési önkormányzat polgármesterétől az érintett személynek a települési önkormányzattal vezetői minőségében való együttműködéséről.
 
 (2) Az előző munkáltató és a települési önkormányzat polgármestere az (1) bekezdés szerinti tájékoztatást és véleményt az erre irányuló kérés megérkezésétől számított 15 napon belül, írásban adja meg.
 
-### A javítóintézet vezetőjének a kinevezése
-
-10/J. § A javítóintézet vezetőjének a kinevezéséhez, kinevezése visszavonásához a büntetés-végrehajtás országos parancsnokának a véleménye szükséges.
+#### 10/J. §
 
 ### Gyermeki jogok védelme
 
@@ -323,7 +321,7 @@ kezeli a gyermekvédelmi intézményben foglalkoztatottnak és a pályázónak a
 
 (1a) A gyermek bántalmazással szembeni védelemhez való jogának érvényesítése érdekében a gyermek számára gyermekjóléti alapellátást vagy gyermekvédelmi szakellátást biztosító, továbbá a gyermek törvényes képviseletének ellátásával, ügyeinek intézésével foglalkozó szervek és személyek a gyermekek és az ifjúság védelméért felelős miniszter (a továbbiakban: miniszter) által jóváhagyott, a miniszter által vezetett minisztérium (a továbbiakban: minisztérium) honlapján közzétett egységes elvek és módszertan (a továbbiakban: gyermekbántalmazás elleni módszertan) alkalmazásával járnak el.
 
-(1b) A gyermek bántalmazással szembeni védelemhez való jogának érvényesítése érdekében a gyermekvédelmi szakellátást nyújtó intézményben és a javítóintézetben felmerült gyermekbántalmazási esetek kivizsgálása és kezelése a miniszter által jóváhagyott, a minisztérium honlapján közzétett intézményi, fenntartói és ágazati módszertan (a továbbiakban: gyermekbántalmazás kivizsgálásának módszertana) alapján történik.
+(1b) A gyermek bántalmazással szembeni védelemhez való jogának érvényesítése érdekében a gyermekvédelmi szakellátást nyújtó intézményben és a javítóintézetben felmerült gyermekbántalmazási esetek kivizsgálása és kezelése a miniszter és a javítóintézetek tekintetében a büntetés-végrehajtásért felelős miniszter által jóváhagyott, a minisztérium honlapján közzétett intézményi, fenntartói és ágazati módszertan (a továbbiakban: gyermekbántalmazás kivizsgálásának módszertana) alapján történik.
 
 (2) A gyermekvédelmi gyám a gyámhatóság kirendelő határozata alapján
 
@@ -2401,27 +2399,22 @@ a nevelőszülőnek a végkielégítés megállapítását megelőző három év
 
 (7) A (6) bekezdés b) pontja szerinti esetben a fiatalkorú utazási és étkezési költségét a javítóintézet biztosítja.
 
-(8) A javítóintézetben
-
-- a) a javítóintézet rendjének fenntartásában, valamint a bűncselekmények elkövetésének a megelőzésében – hivatásos állományú rendőr szolgálatellátása útján – az általános rendőrségi feladatok ellátására létrehozott szerv, továbbá
-- b) a javítóintézet rendjének fenntartásában, a javítóintézeti rendész feladatkörében eljárva – a büntetés-végrehajtási szervezet hivatásos állományú tagja szolgálatellátása útján – a büntetés-végrehajtási intézet
-
-közreműködhet.
+(8) A javítóintézetben a bűncselekmények elkövetésének a megelőzésében – hivatásos állományú rendőr szolgálatellátása útján – az általános rendőrségi feladatok ellátására létrehozott szerv közreműködhet.
 
 (9) A (8) bekezdés szerinti esetben
 
-- a) a szolgálatellátás nem irányulhat a javítóintézet rendjének fenntartásával, illetve – a (8) bekezdés a) pontja szerinti esetben – a bűncselekmények elkövetésének a megelőzésével össze nem függő tevékenységre, és
-- b) a szolgálatellátáshoz szükséges, térítés nélkül átadásra kerülő tárgyi eszközök, valamint a biztosított helyiségek használatára és visszavételére vonatkozó rendelkezéseket az általános rendőrségi feladatok ellátására létrehozott szerv, illetve – a (8) bekezdés b) pontja szerinti esetben – a büntetés-végrehajtási intézet és a javítóintézet között létrejött együttműködési megállapodásban kell rögzíteni.
+- a) a szolgálatellátás nem irányulhat a (8) bekezdésben meghatározott feladatok ellátásával össze nem függő tevékenységre, és
+- b) a szolgálatellátáshoz szükséges, térítés nélkül átadásra kerülő tárgyi eszközök, valamint a biztosított helyiségek használatára és visszavételére vonatkozó rendelkezéseket az általános rendőrségi feladatok ellátására létrehozott szerv és a javítóintézet között létrejött együttműködési megállapodásban kell rögzíteni.
 
-(10) A javítóintézetben a javítóintézet rendjének fenntartása érdekében működő biztonsági rendszert a büntetés-végrehajtás országos parancsokának az egyetértésével kell kialakítani.
+(10) Az általános rendőrségi feladatok ellátására létrehozott szerv a javítóintézetben folyamatos bűnmegelőzési célú rendőri felügyeletet biztosít, amelynek keretében rendszeres bűnmegelőzési tájékoztatást tart a javítóintézet, valamint a javítóintézetben neveltek számára létrehozott köznevelési intézmény dolgozói számára a javítóintézeti ellátottakkal szemben alkalmazható intézkedésekről és a velük való jogszerű bánásmódról.
 
-(11) A javítóintézet biztonsági rendszerét a büntetés-végrehajtás országos parancsnoka ellenőrizheti.
+(11) A (10) bekezdés szerinti tevékenység keretében biztosítani kell, hogy a javítóintézeti ellátottak a rendőrnek – a javítóintézet alkalmazottainak jelenléte, tudomása vagy jóváhagyása nélkül – zavartalanul beszámolhassanak az őket ért jogsértésekről.
 
 ### A javítóintézet alapdokumentumai
 
 66/N. § (1) A javítóintézet szervezeti felépítését és működési rendjét a szervezeti és működési szabályzat határozza meg.
 
-(2) A javítóintézet igazgatója a javítóintézetben ellátott fiatalkorúak, valamint a javítóintézet utógondozó részlegén ellátottak jogaira és kötelezettségeire, továbbá a javítóintézet belső életének rendjére vonatkozóan – a Bv. tv.-ben foglaltak szerint – házirendet készít, amelyet a büntetés-végrehajtás országos parancsnokának jóvá kell hagynia.
+(2) A javítóintézetben ellátott fiatalkorúak, valamint a javítóintézet utógondozó részlegén ellátottak jogaira és kötelezettségeire, továbbá a javítóintézet belső életének rendjére vonatkozó rendelkezéseket a házirend rögzíti.
 
 (3) Az utógondozó részleg működését a szervezeti és működési szabályzat mellékletét képező utógondozási szabályzat és a részleg házirendje szabályozza.
 
@@ -2434,24 +2427,11 @@ közreműködhet.
 
 szakmai szempontjait és módszereit.
 
-### A javítóintézeti tanács
-
-66/O. § (1) A Bv. tv. 378. § (1) bekezdése szerinti javítóintézeti tanács döntés-előkészítő testület, amely javaslatot tesz
-
-- a) az igazgatónak
-  - aa) a fiatalkorú zárt jellegű javítóintézeti részlegben történő elhelyezésére vagy annak mellőzésére, a zárt jellegű javítóintézeti részlegben történő elhelyezés meghosszabbítására és az elhelyezés megszüntetésére,
-  - ab) a fiatalkorú utógondozó részlegen való elhelyezésének engedélyezésére vagy a fiatalkorú erre irányuló kérelme elutasítására;
-- b) a büntetés-végrehajtási bírónak a fiatalkorú ideiglenes elbocsátására vagy annak mellőzésére.
-
-(2) A javítóintézeti tanács legalább öt főből áll, elnöke az igazgató. A javítóintézeti tanács tagja valamennyi igazgató-helyettes, a növendékügyi iroda vezetője, az utógondozó, a fiatalkorú csoportnevelője, osztályfőnöke, szakoktatója vagy munkavezetője, továbbá tagja lehet az otthonvezető, a munkafoglalkoztatás vezetője, a szakértői csoport vezetője, az orvos és a pszichológus.
-
-(3) A javítóintézeti tanács működésének részletes szabályait a szervezeti és működési szabályzatban kell meghatározni.
-
-(4) A javítóintézeti tanácsot a javítóintézet igazgatója hívja össze. A tanács összehívását bármelyik tag kezdeményezheti.
+#### 66/O. §
 
 ### A javítóintézetben ellátott fiatalkorú és gyermeke együttes elhelyezése
 
-66/P. § (1) A fiatalkorú kérelmére a javítóintézet igazgatója akkor is engedélyezheti a javítóintézetben ellátott fiatalkorú és gyermeke együttes elhelyezését, ha a fiatalkorú saját gyermeke ideiglenes hatállyal elhelyezett vagy nevelésbe vett, feltéve, hogy
+66/P. § (1) A fiatalkorú kérelmére a javítóintézet vezetője akkor is engedélyezheti a javítóintézetben ellátott fiatalkorú és gyermeke együttes elhelyezését, ha a fiatalkorú saját gyermeke ideiglenes hatállyal elhelyezett vagy nevelésbe vett, feltéve, hogy
 
 - a) a javítóintézetbe kerülés előtt is a fiatalkorú gondozta, nevelte a gyermekét,
 - b) az együttes elhelyezésnek megvannak a Bv. tv. 351. § (2) bekezdésében foglalt feltételei, és
@@ -2800,7 +2780,7 @@ látja el.
 
 (2) A bíróság gyermekelhelyezéssel kapcsolatos döntésének az (1) bekezdés c) pontjában meghatározott perindítással történő megváltoztatására csak abban az esetben kerülhet sor, ha azok a körülmények, amelyekre a bíróság elhelyezési döntését alapította, később lényegesen megváltoztak.
 
-(2a) Az (1) bekezdés d) pontja szerinti esetben a gyámhatóság a gyermek érdekét az anyának a vele együttesen elhelyezett gyermeke, illetve meglévő idősebb gyermeke tekintetében megvalósult gondozása, nevelése során tanúsított magatartása alapján, valamint a külön élő másik szülő és a gyermek nevelésére családbafogadó gyámként kirendelhető személy véleményének figyelembevételével mérlegeli. Ennek érdekében a gyámhatóság megkeresi a fogvatartás helye szerint az anya-gyermek részleget működtető büntetés-végrehajtási intézet parancsnokát vagy a fiatalkorú és gyermeke együttes elhelyezését biztosító részleget működtető javítóintézet igazgatóját arra nézve, hogy az anya a gyermek gondozását miként látja el.
+(2a) Az (1) bekezdés d) pontja szerinti esetben a gyámhatóság a gyermek érdekét az anyának a vele együttesen elhelyezett gyermeke, illetve meglévő idősebb gyermeke tekintetében megvalósult gondozása, nevelése során tanúsított magatartása alapján, valamint a külön élő másik szülő és a gyermek nevelésére családbafogadó gyámként kirendelhető személy véleményének figyelembevételével mérlegeli. Ennek érdekében a gyámhatóság megkeresi a fogvatartás helye szerint az anya-gyermek részleget működtető büntetés-végrehajtási intézet parancsnokát vagy a fiatalkorú és gyermeke együttes elhelyezését biztosító részleget működtető javítóintézet vezetőjét arra nézve, hogy az anya a gyermek gondozását miként látja el.
 
 (3) A külföldi állampolgárságú gyermek – ide nem értve a 4. § (1) bekezdésének b) pontja szerinti személyt – ideiglenes hatályú elhelyezését követően a Kormány által kijelölt gyámhatóság haladéktalanul
 
@@ -2843,7 +2823,7 @@ látja el.
 - a) a gyermek nevelőszülőnél, gyermekotthonban történő elhelyezését követően válik ismertté, hogy van a gyermek nevelésére alkalmas és azt vállaló külön élő másik szülő, más hozzátartozó, illetve más személy, akinél a gyermek ideiglenes hatállyal elhelyezhető, vagy
 - b) a gyermek jelenlegi gondozási helyének megváltoztatása más okból indokolt.
 
-76/A. § Ha a büntetés-végrehajtási intézet parancsnoka vagy a javítóintézet igazgatója az anya, illetve a fiatalkorú és gyermeke együttes elhelyezésének megszüntetéséről értesíti a gyámhatóságot, a gyámhatóság az értesítés kézhezvételétől számított nyolc napon belül rendelkezik a gyermeknek a büntetés-végrehajtási intézetből vagy a javítóintézetből történő kiadásáról, és megteszi a gyermek érdekében szükséges intézkedéseket.
+76/A. § Ha a büntetés-végrehajtási intézet parancsnoka vagy a javítóintézet vezetője az anya, illetve a fiatalkorú és gyermeke együttes elhelyezésének megszüntetéséről értesíti a gyámhatóságot, a gyámhatóság az értesítés kézhezvételétől számított nyolc napon belül rendelkezik a gyermeknek a büntetés-végrehajtási intézetből vagy a javítóintézetből történő kiadásáról, és megteszi a gyermek érdekében szükséges intézkedéseket.
 
 ### Általános védelmi intézkedés
 
@@ -3669,7 +3649,7 @@ kell törölni.
 
 ### XV. Fejezet — A miniszter feladatai
 
-101. § (1) A miniszter ellátja a gyermekek védelmét biztosító feladatok ágazati irányítását.
+101. § (1) A miniszter – a javítóintézetek kivételével – ellátja a gyermekek védelmét biztosító feladatok ágazati irányítását.
 
 (2) A miniszter az (1) bekezdésben foglalt ágazati irányító jogkörében
 
@@ -3692,7 +3672,7 @@ kell törölni.
 - m) támogatja a gyermekvédelmi gondoskodásban élő gyermek és fiatal felnőtt önálló életkezdését, a pályaválasztását, és a munkaerőpiacon való elhelyezkedését,
 - n) statisztikai vizsgálatot végezhet a szakpolitikai döntés-előkészítés, tervezés megalapozása érdekében, amelyre tekintettel jogosult a 137. § (2) bekezdése, a 138. § (1) bekezdése, a 139. § (1), (1a) és (1e) bekezdése, a 139/A. § (1) bekezdése, a 139/B. § (1) bekezdése, a 140. § és a 141. § szerinti nyilvántartás vezetéséért felelős szervtől – személyazonosításra alkalmatlan módon – statisztikai adatokat kérni.
 
-(2a) A miniszter a rendszerszintű problémák és hiányosságok feltárása, illetve az ágazati irányítói feladatköre ellátása céljából a gyermekvédelmi és gyámügyi feladat- és hatáskörök ellátásáról, valamint a gyámhatóság szervezetéről és illetékességéről szóló kormányrendeletben meghatározottak szerint átfogó vizsgálatot folytathat a gyermekvédelmi szakellátást nyújtó intézményben és a javítóintézetben, ha felmerül, hogy a szolgáltatás, ellátás nyújtása súlyosan sérti az ellátott gyermekek, fiatal felnőttek érdekeit.
+(2a) A miniszter a rendszerszintű problémák és hiányosságok feltárása, illetve az ágazati irányítói feladatköre ellátása céljából a gyermekvédelmi és gyámügyi feladat- és hatáskörök ellátásáról, valamint a gyámhatóság szervezetéről és illetékességéről szóló kormányrendeletben meghatározottak szerint átfogó vizsgálatot folytathat a gyermekvédelmi szakellátást nyújtó intézményben, ha felmerül, hogy a szolgáltatás, ellátás nyújtása súlyosan sérti az ellátott gyermekek, fiatal felnőttek érdekeit.
 
 (2b) A miniszter a (2) bekezdés m) pontjában foglalt feladata ellátása során a gyermekvédelmi gondoskodásban élő gyermek, fiatal felnőtt és a munkaerőpiaci szereplők közötti kapcsolatfelvétel biztosítása, a gyermekvédelmi gondoskodásban élő gyermek, fiatal felnőtt számára a személyiségének, érdeklődési körének, képességeinek és végzettségének legmegfelelőbb foglalkoztató kiválasztásának támogatása céljából, a gyermeknek, fiatal felnőttnek a foglalkoztatása kezdő időpontjáig kezeli a gyermek és fiatal felnőtt 135. § (2) bekezdés a) pont aa), ab) és ae) alpontja szerinti adatait, valamint az a) pont af)–ah) alpontok szerinti adatai közül azokat, amelyek az elhelyezkedést befolyásolják és a konkrét munkakör betöltéséhez szükségesek, továbbá jogosult a pontosság elvére figyelemmel azokra vonatkozóan a 135. § (1) bekezdésben meghatározott személyektől és szervezetektől adatszolgáltatást kérni.
 
@@ -3712,7 +3692,7 @@ gyermeket a gyermek biztonsága és azonnali terápiában való részesítése �
 
 (4) A miniszter a Kormány rendeletében kijelölt szerv útján megszervezi a szülői felügyelet nélkül Magyarországon tartózkodó külföldi állampolgárságú gyermek ellátását, és ennek érdekében – ha számára kötelező tartózkodási helyként gyermekvédelmi intézményt kell kijelölni – a Kormány rendeletében kijelölt szerv gyermekotthont, kizárólag menekültként, oltalmazottként vagy menedékesként el nem ismert, kísérő nélküli kiskorúakat ellátó gyermekotthont, ideiglenes befogadó férőhelyet, tömeges bevándorlás okozta válsághelyzet miatt létesített, illetve fenntartott ideiglenes befogadó férőhelyet tart fenn, vagy a feladat biztosítása érdekében ellátási szerződést köt.
 
-(5) A miniszter gondoskodik a bíróság által javítóintézeti nevelésre utalt vagy oda letartóztatásba helyezett fiatalkorú terhelt nevelésének feltételeiről, a javítóintézeteknek a Kormány rendeletében kijelölt szerv központi szerve útján történő fenntartásáról. A miniszter – a büntetés-végrehajtásért felelős miniszterrel együttesen – ellátja a javítóintézetek felügyeletével kapcsolatos feladatokat.
+(5)
 
 (6) A gyermek- és ifjúságpolitikáért felelős miniszter különös méltánylást érdemlő esetben hozzájárulhat az egyedül örökbe fogadni szándékozó személy örökbefogadásra való alkalmasságának gyámhatósági megállapításához. A miniszteri hozzájárulás megadásánál különösen figyelemmel kell lenni Magyarország Alaptörvénye XVI. cikk (1) bekezdésében foglaltakra.
 
@@ -3823,7 +3803,7 @@ azon személyes adatait, amelyeket az e célból a bűnügyi nyilvántartó szer
 
 ### XVI. Fejezet — A fenntartó feladat- és jogköre
 
-104. § (1) A gyermekjóléti és gyermekvédelmi szolgáltató tevékenységet ellátó állami és nem állami intézmény, valamint a javítóintézeti ellátást nyújtó állami intézmény fenntartója
+104. § (1) A gyermekjóléti és gyermekvédelmi szolgáltató tevékenységet ellátó állami és nem állami intézmény fenntartója
 
 - a) dönt az intézmény alapító okiratáról, gazdálkodási köréről, átszervezéséről, megszüntetéséről, tevékenységi körének módosításáról, nevének megállapításáról,
 - b) meghatározza az intézmény költségvetését, valamint az intézményi térítési díjat,
@@ -4639,11 +4619,11 @@ a Gyermekeink védelmében elnevezésű informatikai rendszer törzsadat alrends
 
 (8) Az ellenőrzésre jogosult szerv a 145/C. § szerinti finanszírozás ellenőrzése céljából betekinthet a (2) bekezdés szerinti nyilvántartásba, és kezelheti annak a 145/C. § szerinti szolgáltató tevékenységekkel kapcsolatos adatait.
 
-139/A. § (1) A javítóintézet igazgatója a javítóintézetben ellátott fiatalkorúról és a vele együttesen elhelyezett gyermekről – az ellátásuk, gondozásuk és nevelésük biztosítása céljából – a 135. § (2) bekezdés d) pontja szerinti adatokat – a Bv. tv. 347. § (3) bekezdés a) pontjával összhangban – a javítóintézeti informatikai rendszerben kezeli.
+139/A. § (1) A javítóintézet a javítóintézetben ellátott fiatalkorúról és a vele együttesen elhelyezett gyermekről – az ellátásuk, gondozásuk és nevelésük biztosítása céljából – a 135. § (2) bekezdés d) pontja szerinti adatokat – a Bv. tv. 347. § (3) bekezdés a) pontjával összhangban – a javítóintézeti informatikai rendszerben kezeli.
 
 (2) Az (1) bekezdés szerinti nyilvántartás nem minősül hatósági nyilvántartásnak.
 
-(3) Az (1) bekezdés szerinti javítóintézeti informatikai rendszer adataiból a javítóintézet igazgatója adatot szolgáltat
+(3) Az (1) bekezdés szerinti javítóintézeti informatikai rendszer adataiból a javítóintézet adatot szolgáltat
 
 - a) a fiatalkorú pártfogó felügyelőjének,
 - b) a fiatalkorú ügyében eljáró bírónak, ügyésznek,
@@ -4760,7 +4740,7 @@ a Gyermekeink védelmében elnevezésű informatikai rendszer törzsadat alrends
 - b) – az adatok megismeréséhez fűződő jogos érdek igazolásával – az egymásra vonatkozó adatok tekintetében a gyermek és a szülő,
 - c) – az adatok megismeréséhez fűződő jogos érdek igazolásával – a szülőre vonatkozó adatok tekintetében a másik szülő.
 
-(4) A 135. § (3) bekezdés a) és b) pontja, a 137. § (3a) bekezdése, a 139. § (2) bekezdése és a 141/A. § szerinti nyilvántartási és egyéb rendszerekhez, valamint a szolgáltatói nyilvántartás informatikai rendszeréhez kapcsolódó elektronikus adatfeldolgozást a Kormány által kijelölt szerv végzi.
+(4) A 135. § (3) bekezdés a) pontja, a 137. § (3a) bekezdése, a 139. § (2) bekezdése és a 141/A. § szerinti nyilvántartási és egyéb rendszerekhez, valamint a szolgáltatói nyilvántartás informatikai rendszeréhez kapcsolódó elektronikus adatfeldolgozást a Kormány által kijelölt szerv végzi.
 
 ### Eseti gondnokok és eseti gyámok nyilvántartása
 
@@ -5313,12 +5293,14 @@ hogy a fenntartó működési engedéllyel rendelkezik.
 - h) a módszertani feladatokat ellátó szerv feladataira vonatkozó részletes szabályokat,
 - i) a hivatásos gondnoki feladatot ellátók képesítési előírásait,
 - j) a gyermekvédelmi szakértői bizottság eljárásának részletes szabályait,
-- k) a gyermekvédelmi szakellátásban és a javítóintézetben foglalkoztatott személyek képzésére, a képzés szakmai és vizsgakövetelményeire, a képzés- és a vizsgaszervezés szabályaira, valamint a gyermekvédelmi gyámok számára szervezett központi oktatási program szervezésére, szakmai és vizsgakövetelményeire vonatkozó szabályokat,
+- k) a gyermekvédelmi szakellátásban foglalkoztatott személyek képzésére, a képzés szakmai és vizsgakövetelményeire, a képzés- és a vizsgaszervezés szabályaira, valamint a gyermekvédelmi gyámok számára szervezett központi oktatási program szervezésére, szakmai és vizsgakövetelményeire vonatkozó szabályokat,
 - l) a 17. § (4d) bekezdésében meghatározott kiemelt veszélyeztető okra utaló körülményeket,
 - m)
 - n)
 - o) a tömeges bevándorlás okozta válsághelyzet miatt létesített, illetve fenntartott ideiglenes befogadó férőhely szakmai feladatait, működésük feltételeit és az ott nyújtott ellátás tartalmát,
 - p)
+
+(2a) Felhatalmazást kap a miniszter, hogy a büntetés-végrehajtásért felelős miniszterrel egyetértésben rendeletben határozza meg a javítóintézetben a nevelési tevékenység keretében foglalkoztatott személyek képzésére, a képzés szakmai és vizsgakövetelményeire, valamint a képzés- és a vizsgaszervezésre vonatkozó szabályokat.
 
 (3) Felhatalmazást kap a gyermek- és ifjúságpolitikáért felelős miniszter, hogy rendeletben szabályozza
 
@@ -5581,7 +5563,7 @@ esetén.
 
 (12) A 2024. július 1-jén hivatásos gondnoki, illetve hivatásos támogatói feladatokat is ellátó gyermekvédelmi gyám az e feladatok ellátására létesített jogviszonyát 2025. június 30-áig köteles megszüntetni, és ennek tényét – a jogviszony megszüntetése időpontjának megjelölésével – a munkáltatói jogkör gyakorlójának írásban bejelenteni. Ennek elmaradása esetén a gyermekvédelmi gyám közalkalmazotti jogviszonya 2025. július 1. napjával megszűnik.
 
-188/G. § Az egyes felsőoktatási, családügyi és kulturális tárgyú törvények módosításáról szóló 2024. évi LXXVI. törvénnyel megállapított 21/A. § (9) és (10) bekezdését 2026. július 1-jétől kell alkalmazni.
+188/G. § Az egyes felsőoktatási, családügyi és kulturális tárgyú törvények módosításáról szóló 2024. évi LXXVI. törvénnyel megállapított 21/A. § (9) és (10) bekezdését 2027. július 1-jétől kell alkalmazni.
 
 189. § (1) Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 

@@ -2062,6 +2062,12 @@ a tárgyévet megelőző évi adó mértékének a tárgyévet megelőző év j�
 
 kerekítve kell megállapítani. Az előbbiek szerint megállapított adómértékeket az (1) bekezdés a)–c) pontja szerinti esetben a tárgynegyedévet megelőző hónap 15. napját követő 5. munkanapig, az (1) bekezdés d)–i) pontja szerinti esetben a tárgyévet megelőző év október 31-ig az állami adó- és vámhatóság internetes honlapján közzéteszi.
 
+(6) Az adó mértéke
+
+- a) az MSZ-EN 228 jelű szabványban meghatározott ESZ-95-ös minőségi fokozatú benzin után, amely nem teljesíti az ESZ-98-as fokozat minőségi követelményi szintjét, az (1) bekezdés a) pont aa) alpontjától és (4) bekezdés a) pontjától eltérően 139 550 Ft/ezer liter,
+- b) az MSZ-EN 590 jelű szabványban meghatározott 2710 20 11 KN-kódú gázolaj után, az (1) bekezdés c) pont ca) alpontjától és (4) bekezdés a) pontjától eltérően 128 280 Ft / ezer liter,
+- c) a Magyar Szénhidrogén Készletező Szövetség biztonsági kőolajtermék készletéből felszabadított 2710 19 44 KN-kódú gázolaj után, az (1) bekezdés c) pont ca) alpontjától és (4) bekezdés a) pontjától eltérően 128 280 Ft / ezer liter.
+
 #### 72. Adókötelezettség, adófizetési kötelezettség
 
 111. § (1) A 6. §-tól eltérően adókötelezettség keletkezik a földgázra, a villamos energiára és a szénre, ha

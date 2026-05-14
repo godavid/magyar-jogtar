@@ -320,6 +320,8 @@ ha ennek következtében az üzemanyag-forgalmazó nem volt képes a kötelezett
 
 14/D. § A 11. § (1a) bekezdés szerinti adatszolgáltatásra kötelezett 2021. évben 2021. szeptember 1. napjáig tesz eleget a 11. § (1a) bekezdés szerinti kötelezettségének.
 
+14/E. § Az 5. § (4) bekezdés c) pontjától eltérően a kötelező megújulóüzemanyag-részarány számításánál figyelmen kívül kell hagyni a felszabadított biztonsági kőolajkészletből szabad forgalomba hozott üzemanyagot.
+
 15. § E törvény
 
 - a) a benzinre, a dízelolajra és a gázolajra vonatkozó követelmények, illetőleg az üvegházhatású gázok kibocsátott mennyiségének nyomon követését és mérséklését célzó mechanizmus bevezetése tekintetében a 98/70/EK irányelv módosításáról, a belvízi hajókban felhasznált tüzelőanyagokra vonatkozó követelmények tekintetében az 1999/32/EK irányelv módosításáról, valamint a 93/12/EGK irányelv hatályon kívül helyezéséről szóló 2009. április 23-i 2009/30/EK európai parlamenti és tanácsi irányelv 1. cikk 2. pont a) alpont ii) 5–9. pontjának,

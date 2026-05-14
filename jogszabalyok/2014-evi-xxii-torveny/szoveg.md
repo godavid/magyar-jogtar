@@ -91,7 +91,7 @@ reklám ellenszolgáltatás fejében történő közzététele.
 
 (5) Ha az adóév 365 napnál rövidebb, a fizetendő adó összege az adóévi 4. § (1) bekezdés szerinti adóalapnak az adóév naptári napjai alapján 365 napos időszakra számított összege alapján az (1) bekezdés szerinti adómértékkel megállapított adóösszegnek az adóév naptári napjaival arányos része.
 
-5/A. § Az 5. § (1)–(2) bekezdésekben foglaltaktól eltérően az adó mértéke 2019. július 1-jétől 2026. június 30-ig az adóalap 0%-a.
+5/A. § Az 5. § (1)–(2) bekezdésekben foglaltaktól eltérően az adó mértéke 2019. július 1-jétől az adóalap 0%-a.
 
 #### 5.
 
@@ -167,7 +167,7 @@ azzal, hogy a Mód. törvénnyel megállapított 5. § (1) bekezdés szerinti, 2
 
 10. § Az 5. § (3) bekezdése az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló 2023. december 13-i (EU) 2023/2831 bizottsági rendelet hatálya alá tartozó támogatást tartalmaz.
 
-11. § (1) A 2019. július 1. és 2026. június 30. közötti adókötelezettségre nem kell alkalmazni a 3. § (3)–(4) bekezdését, a 7. § (4)–(5) és (7) bekezdését, valamint a 7/B. §–7/E. §-t.
+11. § (1) A 2019. július 1. napjától kezdődően keletkező adókötelezettségre nem kell alkalmazni a 3. § (3) és (4) bekezdését, a 7. § (4), (5) és (7) bekezdését, valamint a 7/A. §–7/C. §-t.
 
 (2) Az adóalany a 2019. július 1-jét magában foglaló adóév adóalapjának azon hányadára (részére) alkalmazza az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2019. évi LXXIII. törvénnyel megállapított 5/A. § szerinti adómértéket, amekkora
 
@@ -180,4 +180,4 @@ azzal, hogy az 5. § (1) bekezdés szerinti adómértéket az adóévi adóalap 
 
 (4) Az (1)–(3) bekezdés rendelkezéseit a naptári évtől eltérő üzleti évet választó adóalany is alkalmazhatja.
 
-12. § A 2026. július 1-jét magában foglaló adóévre a 7. § (3) bekezdése szerint megállapított adóelőleg felét kell megfizetni, a 7. § (4) bekezdésében szereplő – az adóalany választása szerinti, rá irányadó – egyik előlegfizetési időpontban. 2026. évben a naptári évtől nem eltérő üzleti éves adóalanyok adóéve 2026. július 1-től 2026. december 31-ig tart.
+#### 12. §

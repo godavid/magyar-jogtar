@@ -160,6 +160,8 @@ alapján létrejött jogviszonyra tekintettel;
 
 nem terheli adófizetési kötelezettség.
 
+(7) Nem terheli adófizetési kötelezettség az Szja tv. 70. § (4a) bekezdése szerint megállapított jövedelmet.
+
 #### 6. Az egyéni vállalkozó által fizetendő adó alapja
 
 6. § (1) Az Szja tv. rendelkezései szerint a vállalkozói jövedelem szerinti adózást alkalmazó egyéni vállalkozót saját maga után havonta terhelő adó alapja a vállalkozói kivét, de legalább az adóalap megállapításának különös szabályai szerint megállapított összeg.

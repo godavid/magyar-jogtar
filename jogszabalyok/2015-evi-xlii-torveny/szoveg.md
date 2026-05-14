@@ -6424,6 +6424,54 @@ kérelmére – függetlenül attól, hogy melyik rendvédelmi szervnél vagy a 
 
 (3) A (2) bekezdés f) pontjában foglalt eseten kívül a börtönlelkész rendvédelmi igazgatási szolgálati jogviszonyának megszüntetésére az egyházi, illetve felekezeti elöljárója véleményének az előzetes kikérésével kerülhet sor.
 
+328/B. § (1) A büntetés-végrehajtási szervezet
+
+- a) hivatásos állományának tagja a javítóintézethez is,
+- b) rendvédelmi igazgatási alkalmazottja a javítóintézethez
+
+átrendelhető (a továbbiakban: javítóintézeti átrendelés) a 60. § (1) és (2) bekezdésében foglalt rendelkezések alkalmazásával, javítóintézeti munkakör betöltése céljából, amennyiben az Mt. 44/A. §-ában foglalt feltételeknek megfelel és a javítóintézeti munkakör tekintetében meghatározott képesítési előírásoknak megfelel.
+
+(2) A javítóintézeti átrendelés elrendelésére a büntetés-végrehajtás országos parancsnoka jogosult.
+
+(3) A javítóintézeti átrendelés időtartama négy hónap lehet, amelyet az átrendelt beleegyezése esetén a büntetés-végrehajtás országos parancsnoka határozatlan időre meghosszabbíthat.
+
+(4) A javítóintézeti átrendelés elrendelését megelőzően el kell végezni a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény (a továbbiakban: Gyvt.) 10/E–10/H. §-a szerinti, a gyermekvédelmi intézményben lévő munkakör betöltésére kiválasztott pályázó tekintetében lefolytatandó kifogástalan életvitel ellenőrzést azzal, hogy munkáltatónak a Gyvt. szabályai tekintetében a büntetés-végrehajtás országos parancsnoka minősül. Ha a Gyvt. 10/F. § (4) bekezdés a) vagy c) pontja szerinti kizáró ok valamelyike fennáll, a javítóintézeti átrendelés elrendelésére nem kerülhet sor, ugyanakkor ezen ellenőrzés eredménye a szolgálati viszony vagy a rendvédelmi igazgatás szolgálati jogviszony fennállására nem hat ki.
+
+(5) A javítóintézeti átrendelés tartama alatt a Gyvt. 10/E–10/H. §-ának alkalmazásával elvégezhető a gyermekvédelmi intézményben foglalkoztatott tekintetében a foglalkoztatás időtartama alatt lefolytatható kifogástalan életvitel ellenőrzés is azzal, hogy a Gyvt. 10/H. § (1) bekezdés b) pontjában foglaltak helyett kifogásolható életvitel megállapítása esetén az átrendelés azonnali hatállyal történő megszüntetéséről kell intézkedni, ugyanakkor ezen ellenőrzés eredménye a szolgálati viszony vagy a rendvédelmi igazgatás szolgálati jogviszony fennállására nem hat ki.
+
+(6) A hivatásos állomány javítóintézethez átrendelt tagja tekintetében
+
+- a) az átrendelést megelőző két éven belül elvégzett, „Alkalmas” minősítéssel záruló pszichológiai alkalmassági vizsgálat megfelel a javítóintézeti foglalkoztatáshoz szükséges pszichológiai alkalmassági vizsgálatnak,
+- b) a fegyelmi jogkört a javítóintézeti parancsnok gyakorolja,
+- c) a javítóintézeti átrendelés ideje alatt a munkarenddel, a napi munkavégzéssel és a szabadság kiadásával kapcsolatos munkáltatói jogköröket, valamint – a szolgálati viszony megszüntetése kivételével – a szolgálati viszonyt érintő munkáltatói jogköröket a javítóintézeti parancsnok, a szolgálati viszony megszüntetésével kapcsolatos munkáltatói jogkört a büntetés-végrehajtás országos parancsnoka gyakorolja,
+- d) az illetmény folyósítása, valamint a foglalkoztatással kapcsolatos költségek az átrendelés helye szerinti javítóintézetet terhelik.
+
+(7) A hivatásos állomány javítóintézethez átrendelt tagja
+
+- a) a javítóintézeti átrendelés időtartama alatt a javítóintézetnél végzett munkája során rendfokozatát nem használja, és polgári ruházatban látja el feladatait,
+- b) illetményére, illetményjellegű juttatásaira a javítóintézetnek az ellátott munkakör szerinti foglalkoztatottaira vonatkozó szabályok az irányadók, azzal, hogy az illetménye nem lehet kevesebb, mint az eredeti szolgálati beosztásában megállapított illetménye,
+- c) keresőképtelensége esetén a 147. § és a 148. § szerinti szabályok alkalmazásával jogosult a 168. § szerinti távolléti díjra.
+
+(8) A javítóintézethez átrendelt rendvédelmi igazgatási alkalmazott tekintetében a 60. § (1) és (2) bekezdését úgy kell alkalmazni, hogy
+
+- a) a hivatásos állomány tagján a rendvédelmi igazgatási alkalmazottat,
+- b) az eredeti szolgálati beosztáson a rendvédelmi igazgatási alkalmazott által eredetileg betöltött munkakört,
+- c) szolgálati feladaton a munkaköri feladatot
+
+kell érteni.
+
+(9) A javítóintézethez átrendelt rendvédelmi igazgatási alkalmazott tekintetében
+
+- a) a javítóintézeti foglalkoztatáshoz szükséges pszichológiai alkalmassági vizsgálatot a javítóintézeti átrendelést megelőzően el kell végezni,
+- b) a fegyelmi jogkört a büntetés-végrehajtás országos parancsnoka gyakorolja,
+- c) a javítóintézeti átrendelés ideje alatt a munkarenddel, a napi munkavégzéssel és a szabadság kiadásával kapcsolatos munkáltatói jogköröket, valamint – a foglalkoztatási jogviszonyának megszüntetése kivételével – a foglalkoztatási jogviszonyát érintő munkáltatói jogköröket a javítóintézeti parancsnok, a foglalkoztatási jogviszony megszüntetésével kapcsolatos munkaáltatói jogkört a büntetés-végrehajtás országos parancsnoka gyakorolja,
+- d) az illetmény folyósítása, valamint a foglalkoztatással kapcsolatos költségek az átrendelés helye szerinti javítóintézetet terhelik.
+
+(10) A javítóintézethez átrendelt rendvédelmi igazgatási alkalmazott
+
+- a) illetményére, illetményjellegű juttatásaira a javítóintézetnek az ellátott munkakör szerinti foglalkoztatottaira vonatkozó szabályok az irányadók, azzal, hogy az illetménye nem lehet kevesebb, mint az eredeti munkakörében megállapított illetménye,
+- b) keresőképtelensége esetén a 289/R. § szerinti szabályok alkalmazásával jogosult az e törvény szerinti távolléti díjra.
+
 #### 127. Az Országgyűlési Őrség hivatásos állományára vonatkozó szabályok
 
 329. § (1) Az Országgyűlési Őrség hivatásos állományával kapcsolatos humánigazgatási feladatok ellátásában az Országgyűlés Hivatala is részt vehet.
@@ -6553,7 +6601,7 @@ kérelmére – függetlenül attól, hogy melyik rendvédelmi szervnél vagy a 
 
 - 1. meghatározza az állománytáblázat elemeit, elfogadásának és módosításának rendjét, valamint a szervezeti állománytáblázat elkészítésére vonatkozó szabályokat,
 - 2. megállapítsa
-  - a) a rendvédelmi szervnél rendszeresített szolgálati beosztásokat, azok besorolását és a szolgálati beosztás betöltéséhez szükséges képesítési követelményeket,
+  - a) a rendvédelmi szervnél vagy a rendvédelmi szerv által irányított szervnél rendszeresített szolgálati beosztásokat, azok besorolását és a szolgálati beosztás betöltéséhez szükséges képesítési követelményeket,
   - b) a miniszter által vezetett minisztériumba vagy a miniszter által irányított szervhez vezényléssel betölthető szolgálati beosztásokat, azok besorolását és a szolgálati beosztás betöltéséhez szükséges képesítési követelményeket, valamint a vezényléssel betölthető szolgálati beosztások számát,
   - c) a könnyített szolgálatban foglalkoztatottak által betölthető beosztásokat, valamint az e körből kizárt tevékenységeket és kapcsolódó mentesítéseket,
   - d) a folyamatos ügyeleti szolgálat ellátására szervezett szolgálati beosztások, a készenléti jellegű szolgálati beosztások, valamint az őrszolgálati beosztások körét,
@@ -7313,6 +7361,8 @@ alakul át.
 (3) A rendvédelmi tisztjelölti jogviszony (1) bekezdés szerinti átalakulásával összefüggésben a rendvédelmi tisztjelöltnek próbaidő nem köthető ki, egészségi, pszichikai és fizikai alkalmasságvizsgálatokat elvégezni nem kell.
 
 379. § A rendészeti feladatellátás hatékonyságát támogató törvények módosításáról szóló 2025. évi LXXI. törvénnyel megállapított 319/R. § hatálybalépésekor a terrorizmust elhárító szervnek a személyi állományába tartozó, a 319/R. § (4) bekezdésében meghatározott tagja a 319/R. § hatálybalépését követő hatvan napon belül nyilatkozik, hogy vállalja-e a 319/R. § (5) bekezdés b) pontja szerinti poligráfos vizsgálaton való részvétel lehetőségét. Aki a határidőn belül nem tesz nyilatkozatot vagy nemleges nyilatkozatot tesz, annak a szolgálati beosztását, munkakörét úgy kell módosítani, hogy a 319/R. § (4) bekezdése szerinti feladatkört a továbbiakban nem láthat el.
+
+380. § A büntetés-végrehajtási szervezet állományának a javítóintézeti munkakörökbe történő bevonását lehetővé tevő munkáltatói intézkedések veszélyhelyzeti szabályairól szóló 438/2025. (XII. 23.) Korm. rendelet alapján elrendelt, az Ukrajna területén fennálló fegyveres konfliktusra tekintettel kihirdetett veszélyhelyzeti rendeletek törvényi szintre emeléséről szóló 2026. évi XIV. törvény hatálybalépésének időpontjában fennálló javítóintézeti átrendelés új munkáltatói intézkedés meghozatala nélkül a 328/B. § szerint elrendelt javítóintézeti átrendelésnek minősül azzal, hogy a 328/B. § (3) bekezdése szerinti négy hónapos határidőt a javítóintézeti átrendelés elrendelésének eredeti időpontjától kell számítani, míg a 328/B. § (4) bekezdése szerinti kifogástalan életvitel ellenőrzést – ha a Gyvt. szerinti kifogástalan életvitel ellenőrzésre az átrendeléskor nem került sor – öt napon belül kezdeményezni kell.
 
 ### 1. melléklet a 2015. évi XLII. törvényhez
 

@@ -3333,7 +3333,7 @@ nem alkalmazható(k).
 
 ### Személyi illetmény
 
-235. § (1) A képviselő-testület hivatalánál foglalkoztatott köztisztviselőnek az e törvényben meghatározott illetményrendszerre vonatkozó szabályoktól eltérő személyi illetményt állapíthat meg – a polgármester, a főpolgármester, a vármegyei közgyűlés elnöke jóváhagyásával – a jegyző, illetve a főjegyző. Személyi illetmény minősítéssel, ennek hiányában teljesítményértékeléssel alátámasztott, kivételes teljesítményt nyújtó köztisztviselő részére állapítható meg. A tárgyév március 1-jétől a következő február végéig terjedő időszakra vonatkozó, határozott időre megállapított havi személyi illetmény nem haladhatja meg a Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset tízszeresét.
+235. § (1) A képviselő-testület hivatalánál foglalkoztatott köztisztviselőnek az e törvényben meghatározott illetményrendszerre vonatkozó szabályoktól eltérő személyi illetményt állapíthat meg – a polgármester, a főpolgármester, a vármegyei közgyűlés elnöke jóváhagyásával – a jegyző, illetve a főjegyző. Személyi illetmény minősítéssel, ennek hiányában teljesítményértékeléssel alátámasztott, kivételes teljesítményt nyújtó köztisztviselő részére állapítható meg. A határozott időre megállapított havi személyi illetmény nem haladhatja meg a Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset tízszeresét.
 
 (2) A vezetői munkakört betöltő köztisztviselő személyi illetménye visszavonható vagy módosítható, ha vezetői munkakörből alacsonyabb vezetői vagy nem vezetői munkakörbe kerül.
 
@@ -3558,16 +3558,11 @@ munkanapra emelkedik.
 
 (2) A főjegyző, illetve a jegyző részére a polgármester – a minősítésétől, ennek hiányában a teljesítményértékeléstől függően – személyi illetmény megállapítására is jogosult. Személyi illetmény megállapítása esetén pótlék nem fizethető.
 
-254/A. § (1) A legfeljebb 10 000 fő lakosságszámú települési székhelyű önkormányzati hivatal esetén az önkormányzati hivatal működésének támogatása jogcímen kapott támogatásnak a Magyarország 2025. évi központi költségvetéséről szóló 2024. évi XC. törvény (a továbbiakban: Kvtv.) 21. § (3) bekezdése szerinti, fajlagos összegű támogatás tárgyévi emelése szerinti növekményét az érintett települési önkormányzat kizárólag az önkormányzati hivatalban foglalkoztatott köztisztviselők illetményének 2025. július 1-jétől történő emelésére fordíthatja.
+#### 254/A. §
 
-(2) Az (1) bekezdés szerinti támogatás cél szerinti felhasználását a Magyar Államkincstár a 2025. évi önkormányzati költségvetési beszámoló felülvizsgálatával egyidejűleg ellenőrzi.
+254/B. § (1)
 
-254/B. § (1) A 254/A. § szerint nyújtott központi költségvetési többlettámogatás felhasználása érdekében
-
-- a) a 235. § (1) bekezdésétől eltérően a személyi illetmény 2025. március 1-jétől eltérő kezdő időponttal is megállapítható vagy emelhető, ebben az esetben a teljesítményértékelés mellőzhető,
-- b) a 235. § (3) bekezdésétől és 254. § (2) bekezdésétől eltérően személyi illetmény esetén pótlék megállapítható.
-
-(2) A képviselő-testület jogosult a 2025. évi köztisztviselői illetményalap év közi emelésére.
+(2) A képviselő-testület jogosult a köztisztviselői illetményalap év közi emelésére.
 
 ### Illetmény
 

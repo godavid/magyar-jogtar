@@ -63,4 +63,4 @@ Magyarország minisztériumainak felsorolásáról
 
 (2) Az (1) bekezdés szerinti feltétel bekövetkezésének naptári napját a társadalompolitika összehangolásáért felelős miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.
 
-6. § Hatályát veszti a Magyarország minisztériumainak felsorolásáról szóló 2022. évi II. törvény.
+#### 6. §

@@ -3565,7 +3565,7 @@ tartalmazza.
 
 133. § (1) Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg
 
-- 1.
+- 1. a 146/E. § és a 146/F. § szerinti készletek létrehozásának, valamint a 146/E. § szerinti készletek fenntartásának és megszüntetésének részletszabályait;
 - 2. a kedvezményes lakossági sávhatárt a 35. § (2) bekezdést kivéve, a kedvezményes mikrovállalkozói sávhatárt, a kedvezményes lakossági sávhatárig és a kedvezményes mikrovállalkozói sávhatárig az egyetemes szolgáltatáshoz kapcsolódóan az árakat, a kedvezményes lakossági sávhatárra és többletmennyiségre vonatkozó egyedi szabályokat, az áralkalmazási feltételeket, az árszabályozás kereteit, a 107. § (4) bekezdés alapján meghatározott kedvezményes lakossági sávhatár jogszerű igénybevételének ellenőrzési folyamatát, jogosulatlanul igénybevétel esetén alkalmazandó jogkövetkezményeket;
 - 3. a felajánlás részletszabályait, a felajánlott földgázforrás árát, az igénybevételre jogosultak körét, a földgázforrás átadására vonatkozó rugalmassági szabályokat; a felajánlás keretében, a 141/A. §, és a 141/J. § szerinti szerződések alapján értékesített földgázforrás mennyiségét és árát, valamint az ezen földgázforrásokhoz kapcsolódóan a rendszerhasználati és mobilgáz-finanszírozási költségek indokolt értékeihez képest megképződő többlet, vagy veszteség elszámolásának szabályait; a 141/A. §-ban és a 141/J. §-ban foglaltak megsértése, valamint a rendeletben meghatározott mennyiségtől való eltérés esetén alkalmazandó jogkövetkezményeket; a kapcsolt termelésszerkezet-átalakítási hozzájárulás és a kiegyenlítő hozzájárulás mértékét,
 - 4. az együttműködő földgázrendszer kapacitásának rendszeres felülvizsgálatához és fejlesztéséhez a műszaki-gazdasági tervezési módszereket, az ehhez szükséges adatbázis tartalmi elemeit, az adatbázishoz való hozzáférés részletes szabályait és a szükséges adatszolgáltatást,
@@ -3959,13 +3959,30 @@ köteles annak létrejöttét követő 7 munkanapon belül megküldeni a Hivatal
 
 (3)
 
-#### 146/E. §
+146/E. § (1) Az (EU) 2017/1938 európai parlamenti és tanácsi rendelet 6b. cikk (1) bekezdés c) és i) pontja alapján a szállítási rendszerüzemeltetőnek 2026. július 1-jén 2 120 607 MWh mértékű, hazai földgáztárolóban elhelyezett földgázkészlettel kell közvetlenül vagy – a miniszter e törvény felhatalmazása alapján kiadott rendeletében előírtak alapján – közvetve rendelkeznie.
 
-#### 146/F. §
+(2) Az (1) bekezdés szerinti tároláshoz a földgáztárolói kapacitást a Magyar Földgáztároló Zártkörűen Működő Részvénytársaság biztosítja.
 
-146/G. § (1) Vezetékes PB-gáz szolgáltatást 2012. december 1-jét követően megkezdő vezetékes PB-gáz szolgáltató esetében a vezetékes PB-gáz szolgáltatás lakossági PB-gáz fogyasztó részére történő értékesítésének általános forgalmi adót is tartalmazó ára nem haladhatja meg a vezetékes PB-gáz szolgáltatás lakossági PB-gáz fogyasztó részére történő értékesítésére vonatkozó, általános forgalmi adót is tartalmazó, vezetékes PB-gáz szolgáltatók által 2012. december 1-jén alkalmazott árak 2012. évben értékesített mennyiség szerint súlyozott átlagának 90 %-át.
+(3) Az (1) bekezdés szerinti földgáz mennyiség beszerzése és értékesítése nem minősül földgáz kereskedelmi tevékenységnek.
 
-(2)
+(4) Az e § szerinti földgázmennyiség létrehozására, fenntartására és megszüntetésére a miniszter e törvény felhatalmazása alapján kiadott rendeletében meghatározott módon kerül sor.
+
+146/F. § (1) A 2026/2027-es gázév része vagy egésze tekintetében magyarországi felhasználási helyre földgázkereskedelmi szerződéssel földgáz ellátást biztosító földgázkereskedő – ide nem értve az egyetemes szolgáltatót és a földgáztermelőt – és saját jogon eljáró felhasználó (a továbbiakban együtt: versenypiaci kereskedő)
+
+- a) 2026. július 1-ig a 2026. március 26-ig,
+- b) 2026. október 1-ig a 2026. szeptember 30-ig
+
+a 2026/2027-es gázévre általa leszerződött földgáz mennyiség 2%-ának megfelelő, a miniszter e törvény felhatalmazása alapján kiadott rendeletében előírtak alapján meghatározott földgázmennyiséget készletként – közvetlenül vagy közvetve – megképez hazai földgáztárolóban.
+
+(2) A tárolás közvetlenül vagy – a miniszter e törvény felhatalmazása alapján kiadott rendeletében előírtak alapján – közvetve is megtörténhet. Az (1) bekezdés szerinti közvetlen tárolás esetén a versenypiaci kereskedők aggregáltan is teljesíthetik tárolási kötelezettségüket.
+
+(3) A versenypiaci kereskedő tájékoztatja a Hivatalt a tárolási kötelezettsége teljesítésének módjáról, mely tájékoztatóban havi ütemezésben a felhasználás tervezett módját is bemutatja. A versenypiaci kereskedő a készlet teljes felhasználásáig az üzemtervet havonta aktualizálja, és azt a Hivatal részére első alkalommal 2026. június 10. napjáig, majd ezt követően minden hónap tizedik napjáig megadja, 2026. november 1. napjától a ténylegesen felhasznált földgázmennyiséggel kiegészítve.
+
+(4) A felhasznált földgáz tekintetében a versenypiaci kereskedőt visszapótlási kötelezettség nem terheli.
+
+146/G. § (1) A 146/E. § és a 146/F. §-ban előírt tárolási kötelezettség ellenőrzését – beleértve az annak végrehajtására való felkészülést is – a Hivatal végzi, és azok megsértése esetén a 119. §-ban előírt jogkövetkezményeket alkalmazza azzal, hogy figyelmeztetésnek nincs helye.
+
+(2) A 146/E. § és a 146/F. §-ban foglaltak végrehajtásának ellenőrzése érdekében bekért adatok, információk nem vagy késedelmes benyújtása esetén a Hivatal eljárási bírságot szab ki.
 
 (3)
 

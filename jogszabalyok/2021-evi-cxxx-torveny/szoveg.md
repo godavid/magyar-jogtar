@@ -432,99 +432,21 @@ előírt adatszolgáltatási kötelezettségét a 2021. adóév tekintetében 20
 
 #### 40. §
 
-#### 28. Hatósági üzemanyagárra vonatkozó átmeneti szabályok
+#### 28.
 
-41. § (1) Az árak megállapításáról szóló 1990. évi LXXXVII. törvény (a továbbiakban: Ártörvény) Melléklet I. pont A) alpontjában foglalt táblázatban meghatározott termékek mellett 2022. február 15. napjáig hatósági áras termék
+#### 41. §
 
-- a) az MSZ-EN 228 jelű szabványban meghatározott ESZ-95-ös minőségi fokozatú motorbenzin, amely nem teljesíti az ESZ-98-as fokozat minőségi követelményi szintjét,
-- b) az MSZ-EN 590 jelű szabványban meghatározott 2710 20 11 KN-kódú dízelgázolaj,
+#### 42. §
 
-amelyeknek – biokomponensekkel és szabvány szerinti adalékokkal együttesen értelmezett – legmagasabb kiskereskedelmi bruttó ára 480 forint literenként.
+#### 43. §
 
-(2) Az (1) bekezdés szerinti termékek értékesítése során egyéb költség vagy díj nem számolható fel.
+#### 44. §
 
-42. § (1) Az üzemanyagellátás biztonsága érdekében a kereskedelemért felelős miniszter nyilvántartja azon Magyarországon bejegyzett üzemanyagtöltő állomás üzemeltetőt (a továbbiakban: nyilvántartott szolgáltató), amely az üzemanyagok hatósági áras forgalmazására vonatkozó részletes szabályokról szóló 626/2021. (XI. 13.) Korm. rendelet alapján 2021. november 18. napjáig a kereskedelemért felelős miniszter felé írásban bejelentette, hogy
+#### 45. §
 
-- a) más üzemanyagtöltő állomás 43. § (3) bekezdése szerinti üzemszünetének bekövetkeztekor, vagy a 44. § (2) bekezdés b) pontja szerinti jogkövetkezmény alkalmazása esetén az üzemanyagtöltő állomás üzemeltetésére vállalkozik,
-- b) az a) pontban foglalt tevékenység érdekében anyagi, technikai és ellátási képességgel rendelkezik, és
-- c) legalább egy üzemanyagtöltő állomás üzemeltetéséhez a megfelelő hatósági engedéllyel rendelkezik.
+#### 46. §
 
-(2) Nem lehet nyilvántartott szolgáltató, aki üzemszünetet hirdet, vagy akivel szemben a 44. § (2) bekezdés b) pontja szerinti jogkövetkezmény alkalmazásra kerül.
-
-(3) A nyilvántartott szolgáltatót a kereskedelemért felelős miniszter a nyilvántartásból törli, ha
-
-- a) a nyilvántartott szolgáltató ezt kéri, vagy
-- b) nyilvántartásba vétel után a nyilvántartott szolgáltatóval szemben a 44. § (2) bekezdés b) pontja szerinti jogkövetkezmény alkalmazásra kerül.
-
-(4) A kereskedelemért felelős miniszter az ezen alcímben foglalt feladatainak ellátása érdekében kezeli és továbbítja az általa kezelt adatokat az ellenőrzést végző szerv részére.
-
-(5) Az ezen alcím szerinti feladatok ellátása érdekében a kereskedelemért felelős miniszter, valamint a Nemzeti Adó- és Vámhivatal az adatokat legfeljebb a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnéséig kezeli.
-
-43. § (1) Az üzemanyagtöltő állomás köteles a 41. § (1) bekezdése szerinti termékek forgalmazására 2022. február 15. napjáig, ha a 41. § (1) bekezdése szerinti terméket 2021. november 15. napját megelőző három hónapban forgalmazta. Ha az üzemanyag töltőállomás üzemeltetője az engedélyt a 2021. november 15. napját megelőző három hónapon belül szerezte meg, a forgalmazási időszak az engedély megadásától számítódik.
-
-(2) Ha az üzemanyagtöltő állomás üzemeltetője a 41. § (1) bekezdése szerinti hatósági áras terméket nem forgalmaz, úgy más, a 41. § (1) bekezdés a) és b) pontjában szereplő termékek minimum követelményének megfelelő motorbenzint és dízelgázolajat köteles a 41. §-ban meghatározott áron forgalmazni.
-
-(3) Köteles üzemszünetet hirdetni az üzemanyagtöltő állomás üzemeltetője, ha a fogyasztókat a 41. § (1) bekezdése vagy a (2) bekezdés szerinti termékkel kiszolgálni 7 napon belül nyitvatartási idejében összesen 48 órán keresztül nem tudja. Az üzemanyagtöltő állomás üzemeltetője más okból üzemszünetet nem hirdethet.
-
-(4) Az üzemszünet ideje alatt az üzemanyagtöltő állomáson egyéb kereskedelmi tevékenység sem folytatható.
-
-(5) Az üzemanyagtöltő állomás üzemeltetője köteles a kereskedelemért felelős miniszternek, valamint a Nemzeti Adó- és Vámhivatalnak írásban haladéktalanul, de legkésőbb 24 órán belül bejelenteni, ha az üzemanyagtöltő állomás a (3) bekezdés szerinti üzemszünetet hirdet.
-
-(6) Az üzemanyagtöltő állomás az üzemeltető szokásos nyitvatartási ideje szerinti nyitvatartási idejénél rövidebb nyitvatartási időt nem alkalmazhat. Amennyiben az üzemanyagtöltő állomás szokásos nyitvatartási ideje nem állapítható meg, úgy az engedély szerinti nyitvatartási időt kell figyelembe venni.
-
-44. § (1) Az Ártörvény 16. §-ától eltérően a Nemzeti Adó- és Vámhivatal ellenőrzi
-
-- a) a 43. § szerinti kötelezettségek,
-- b) a 41. § (1) bekezdése szerinti kötelezettség,
-- c) az üzemanyag-forgalmazót terhelő, a bioüzemanyagok és folyékony bio-energiahordozók fenntarthatósági követelményeiről és igazolásáról szóló 279/2017. (IX. 22.) Korm. rendelet 6. §-a szerinti kötelezettség
-
-megtartását.
-
-(2) Ha a Nemzeti Adó- és Vámhivatal az (1) bekezdés szerinti kötelezettségek megsértéséről ellenőrzése során tudomást szerez, az Ártörvény 16. §-ától eltérően
-
-- a) 100 000 forinttól 3 000 000 forintig terjedő bírságot szab ki,
-- b) ismételt jogsértés esetén döntésével elrendeli, hogy az üzemanyagtöltő állomást üzemeltető természetes vagy jogi személy üzemanyagtöltő állomást ideiglenesen nem üzemeltethet, amelynek időtartama legalább egy nap, legfeljebb fél év időtartam lehet.
-
-(3) A (2) bekezdés a) pontja szerinti jogkövetkezmény azonos napon több, egymást követő ellenőrzés alkalmával is alkalmazható.
-
-(4) Ismételt jogsértés esetén a (2) bekezdés a) és b) pontja szerinti jogkövetkezmények együtt is alkalmazhatók.
-
-(5) A kiszabott bírság megfizetése a Nemzeti Adó- és Vámhivatal hivatalos honlapján közzétett számlaszámra történő befizetéssel történik.
-
-(6) A bírságot a bírságot kiszabó határozat véglegessé válását követő 15 napon belül kell megfizetni.
-
-(7) A bírságot kiszabó határozat ellen nincs helye fellebbezésnek.
-
-45. § (1) Az üzemanyagtöltő állomás üzemeltetője köteles a kereskedelemért felelős miniszternek haladéktalanul, de legkésőbb 24 órán belül bejelenteni, ha a 44. § (2) bekezdés b) pontja szerint tevékenysége folytatásától ideiglenesen eltiltják.
-
-(2) A Nemzeti Adó- és Vámhivatal a kereskedelemért felelős minisztert értesíti, ha a 44. § (2) bekezdés b) pontja szerinti jogkövetkezményt alkalmazta.
-
-46. § (1) A kereskedelemért felelős miniszter a tudomásszerzést követően 24 órán belül megvizsgálja, hogy indokolt-e a 42. § szerinti nyilvántartott szolgáltatóval történő helyettesítés, amennyiben az üzemanyagtöltő állomás üzemeltetője a 43. § (3) bekezdése szerinti üzemszünetet hirdetett, vagy üzemeltetőjével szemben a 44. § (2) bekezdés b) pontja szerinti jogkövetkezményt alkalmazták (a továbbiakban együtt: érintett üzemanyagtöltő állomás).
-
-(2) Amennyiben az (1) bekezdés szerinti vizsgálat alapján indokolt, a kereskedelemért felelős miniszter haladéktalanul írásban
-
-- a) kijelöli az érintett üzemanyagtöltő állomás 30 kilométeres vonzáskörzetében lévő, a lakosság igényeinek kielégítésére alkalmas nyilvántartott szolgáltatót az érintett üzemanyagtöltő állomás üzemeltetésére, vagy
-- b) az a) pont szerinti feltétel figyelembevétele nélkül, ellátásbiztonsági szempontokra tekintettel más nyilvántartott szolgáltatót jelöl ki az üzemeltetés ellátására
-
-[az a) és b) pont szerinti szolgáltató a továbbiakban együtt: kijelölt nyilvántartott szolgáltató].
-
-(3) A kijelölt nyilvántartott szolgáltató az érintett üzemanyagtöltő állomás üzemeltetésére külön engedély nélkül jogosult.
-
-47. § (1) A 46. § szerinti kijelölés esetén az üzemanyagtöltő állomás folyamatos működése érdekében a kijelölést megelőző üzemeltető köteles együttműködni a kijelölt nyilvántartott szolgáltatóval.
-
-(2) A 46. § szerinti kijelölés esetén a kijelölés napjától 2022. február 15. napjáig
-
-- a) az érintett üzemanyagtöltő állomás épülete és tárgyi eszközei ideiglenesen a kijelölt nyilvántartott szolgáltató birtokába kerülnek;
-- b) a kijelölt nyilvántartott szolgáltató az üzemeltetési jog felfüggesztésével érintett üzemanyagtöltő állomás eszközeit jogosult használni, és az eszközei hasznait szedni;
-- c) a kijelölt nyilvántartott szolgáltató viseli az érintett üzemanyagtöltő állomáson értékesítendő, saját árukészlet és üzemanyagkészlet beszerzéséből fakadó költségeket;
-- d) a kijelölt nyilvántartott szolgáltató az érintett üzemanyagtöltő állomáson található árukészletet – a 46. § szerinti kijelölést megelőző üzemeltetővel a nyilvántartott beszerzési áron történő elszámolás mellett – értékesítheti;
-- e) a kijelölt nyilvántartott szolgáltató viseli az üzemanyagtöltő állomás működéséhez kapcsolódó közüzemi díjakat.
-
-(3) A kijelölt nyilvántartott szolgáltató részére az érintett üzemanyagtöltő állomáson található üzemanyagkészletet a 46. § szerinti kijelölést megelőző üzemeltető a nyilvántartott beszerzési áron haladéktalanul értékesíti.
-
-(4) A kijelölt nyilvántartott üzemeltető a (2) bekezdés szerint birtokába került épületet és tárgyi eszközöket rendeltetésszerűen és az általában elvárható gondossággal köteles használni. A 46. § szerinti kijelölést megelőző üzemeltető, vagy annak jogutódja viseli az eszközökben beállott olyan kárt, amelynek megtérítésére senkit nem lehet kötelezni.
-
-(5) A kijelölt nyilvántartott szolgáltató az érintett üzemanyagtöltő állomás 46. § szerinti kijelölést megelőző üzemeltetőjének nem jogutódja.
+#### 47. §
 
 #### 29.
 

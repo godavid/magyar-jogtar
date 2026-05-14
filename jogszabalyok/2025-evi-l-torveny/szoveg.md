@@ -590,11 +590,22 @@ bírságot szab ki.
 
 77. § (1) Azon felszámolási eljárásban, amelyet a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény 118. § (3), (5) vagy (6) bekezdése alapján, e bekezdés hatálybalépését megelőzően rendeltek el, a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény szabályainak a veszélyhelyzet ideje alatt történő eltérő alkalmazásáról szóló 263/2022. (VII. 27.) Korm. rendelet 4. § (3)–(9) bekezdését az eljárás jogerős befejezéséig alkalmazni kell.
 
-(2)
+(2) Azon felszámolási eljárásban, amelyet
+
+- a) a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény, valamint a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény veszélyhelyzet ideje alatt történő eltérő alkalmazásáról szóló 521/2022. (XII. 13.) Korm. rendelet, vagy
+- b) a többségi befolyás alatt álló gazdálkodó szervezetek felszámolásának veszélyhelyzeti szabályairól szóló 64/2023. (III. 1.) Korm. rendelet
+
+alapján a veszélyhelyzet megszűnését megelőzően rendeltek el, a veszélyhelyzet megszűnése előtti napon hatályos, az a) és b) pont szerinti eljárásokra vonatkozó, veszélyhelyzetben alkalmazandó kormányrendeletek rendelkezéseit az eljárások jogerős befejezéséig alkalmazni kell.
 
 (3) A kényszertörlési eljárás során kezdeményezett olyan felszámolási eljárásban, amelyben a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény és a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény szabályainak a veszélyhelyzet ideje alatt történő eltérő alkalmazásáról szóló 587/2022. (XII. 28.) Korm. rendelet (a továbbiakban: 587/2022. Korm. rendelet) 3. § (1) bekezdése szerinti dokumentumok e bekezdés hatálybalépését megelőzően a bíróságnak megküldésre kerültek, az 587/2022. Korm. rendelet szabályait az eljárás jogerős befejezéséig alkalmazni kell.
 
-(4)
+(4) Az olyan eljárásban, amelyben a bíróság a vagyonfelügyelő és az ideiglenes vagyonfelügyelő kirendelése, valamint a Bérgarancia Alapból történő támogatás-lehívás veszélyhelyzeti szabályairól szóló 291/2024. (X. 3.) Korm. rendelet [a továbbiakban: 291/2024. (X. 3.) Korm. rendelet] 2. §-a, vagy 4. § (2) bekezdése alapján az ideiglenes vagyonfelügyelőt e bekezdés hatálybalépését megelőzően kirendelte, a 291/2024. (X. 3.) Korm. rendelet, továbbá a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény, valamint a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény veszélyhelyzet ideje alatt történő eltérő alkalmazásáról szóló 521/2022. (XII. 13.) Korm. rendelet alapján elrendelt felszámolási eljárások veszélyhelyzetben történő eltérő alkalmazásának részletszabályairól szóló 375/2024. (XII. 2.) Korm. rendelet szabályait az eljárás jogerős befejezéséig alkalmazni kell.
+
+(5) A Kormány által stratégiailag kiemelt jelentőségű eljárássá minősített azon felszámolási eljárásban, amelyben a bíróság a felszámolást megelőző reorganizációs célú eljárásról, valamint a csőd- és felszámolási eljárás egyes veszélyhelyzeti szabályairól szóló 252/2025. (VIII. 7.) Korm. rendeletben [a továbbiakban: 252/2025. (VIII. 7.) Korm. rendelet] foglaltak szerint rendelt el reorganizációt, a 252/2025. (VIII. 7.) Korm. rendelet, továbbá a Bérgarancia Alapról szóló 1994. évi LXVI. törvény, valamint egyes felszámolási tárgyú törvények veszélyhelyzet ideje alatt való eltérő alkalmazásáról szóló 304/2025. (X. 6.) Korm. rendelet [a továbbiakban: 304/2025. (X. 6.) Korm. rendelet] veszélyhelyzet megszűnését megelőző napon hatályos rendelkezéseit az eljárás jogerős befejezéséig alkalmazni kell.
+
+(6) Azon felszámolási eljárásban, amelyet a bíróság a 304/2025. (X. 6.) Korm. rendelet 3. §-a alapján rendelt el, a 304/2025. (X. 6.) Korm. rendelet veszélyhelyzet megszűnését megelőző napon hatályos rendelkezéseit az eljárás jogerős befejezéséig alkalmazni kell.
+
+(7) A Kormány által az ISD DUNAFERR Dunai Vasmű Zártkörűen Működő Részvénytársaság „felszámolás alatt”, a Duna Furnace Dunai Vasmű Korlátolt Felelősségű Társaság „felszámolás alatt”, valamint a Dunarolling Dunai Vasmű Korlátolt Felelősségű Társaság „felszámolás alatt” felszámolási eljárásának stratégiailag kiemelt jelentőségű felszámolási eljárássá minősítéséről szóló 326/2025. (X. 20.) Korm. rendelettel [a továbbiakban: 326/2025. (X. 20.) Korm. rendelet] stratégiailag kiemelt jelentőségű eljárássá minősített felszámolási eljárásokban a veszélyhelyzet megszűnése előtti napon hatályos, a 326/2025. (X. 20.) Korm. rendelet szerinti felszámolási eljárásokra veszélyhelyzetben alkalmazandó kormányrendeletek rendelkezéseit az eljárások jogerős befejezéséig alkalmazni kell.
 
 78. § A 73–76. §-t a hatálybalépésük napján folyamatban lévő felszámolási eljárásokban is alkalmazni kell.
 

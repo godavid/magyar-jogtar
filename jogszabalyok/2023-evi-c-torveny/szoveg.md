@@ -3681,7 +3681,7 @@ A jogutódlással megszűnt állami vagy tanácsi tulajdonú tervezővállalatok
 
 megvalósítására irányul.
 
-(2) A szénhidrogén-kutatáshoz és -termeléshez kapcsolódó beruházások, valamint a közúti közlekedési infrastruktúra-beruházáshoz kapcsolódó beruházások abban az esetben is kiemelt beruházássá és az azokkal összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilváníthatók, ha európai uniós és központi költségvetési támogatás felhasználása nélkül valósulnak meg.
+(2) A szénhidrogén-kutatáshoz, -feltáráshoz, -termeléshez, -szállításhoz, -kezeléshez kapcsolódó beruházások, energetikai célú építmény – ideértve a kőolaj- és üzemanyag-ellátásbiztonságot támogató építési beruházást is – megvalósítására irányuló beruházások, valamint a közúti közlekedési infrastruktúra-beruházáshoz kapcsolódó beruházások abban az esetben is kiemelt beruházássá és az azokkal összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilváníthatók, ha európai uniós és központi költségvetési támogatás felhasználása nélkül valósulnak meg.
 
 (3) Ipari parkban vagy logisztikai parkban megvalósuló kereskedelmi, szolgáltató, ipari, raktározási vagy logisztikai rendeltetésű építési beruházások abban az esetben is kiemelt beruházássá és az azokkal összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilváníthatók, ha európai uniós és központi költségvetési támogatás felhasználása nélkül valósulnak meg.
 

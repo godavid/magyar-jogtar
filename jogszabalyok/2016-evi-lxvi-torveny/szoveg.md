@@ -789,6 +789,8 @@ c)–e)
 
 (4) A hozzájárulás mértéke 4%.
 
+(4a) A (4) bekezdéstől eltérően a kereskedelmi tevékenységek végzésének feltételeiről szóló 210/2009. (IX. 29.) Korm. rendelet 4. mellékletének 1. pontja szerinti étterem és 3. pontja szerinti cukrászda vendéglátással kapcsolatos szolgáltatásai után a hozzájárulás mértéke 2 százalék.
+
 (5) A hozzájárulást azon hozzájárulás-köteles szolgáltatásnyújtás után kell az önadózás szabályai szerint megállapítani és a (6) bekezdés szerint bevallani, amelyről kiállított
 
 - a) számlán, számviteli bizonylaton vagy ezek hiányában bármely más, a hozzájárulás-köteles szolgáltatásról kiállított okiraton feltüntetett teljesítési időpont vagy, ha a teljesítési időpontot nem tüntették fel, akkor a
@@ -808,6 +810,8 @@ az e célra rendszeresített elektronikus nyomtatványon, az állami adó- és v
 (8) A hozzájárulással kapcsolatos hatósági feladatokat az állami adó- és vámhatóság látja el. Az e §-ban nem szabályozott eljárási kérdésekben az adózás rendjéről szóló törvény rendelkezéseit kell alkalmazni.
 
 (9) A hozzájárulásból származó bevétel a központi költségvetés bevétele, amelynek megfelelő összeget a külön jogszabályban meghatározott turizmus fejlesztési feladatokra kell fordítani a központi költségvetés turisztikai célelőirányzata útján.”
+
+(10) A (4a) bekezdés szerinti kedvezmény csekély összegű (de minimis) támogatásnak minősül, amely az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2023. december 13-i (EU) 2023/2831 bizottsági rendelet szabályaival összhangban nyújtható.
 
 ### XI. Fejezet — ZÁRÓ RENDELKEZÉSEK
 

@@ -35,7 +35,7 @@ egyes adókötelezettségekről és egyes adótörvények módosításáról
 (4) A különadó mértéke
 
 - a) a 2025-ben kezdődő adóévben a (2) bekezdés szerinti adóalap 20 milliárd forintot meg nem haladó része után 7 százalék, az e feletti összegre 18 százalék,
-- b) a 2026-ban kezdődő adóévben a (3) bekezdés szerinti adóalap 20 milliárd forintot meg nem haladó része után 8 százalék, az e feletti összegre 20 százalék.
+- b) a 2026-ban kezdődő adóévben a (3) bekezdés szerinti adóalap 20 milliárd forintot meg nem haladó része után 10 százalék, az e feletti összegre 30 százalék.
 
 (5) A hitelintézet, a pénzügyi vállalkozás a 2025. adóévre vonatkozó különadót 2025. június 10-ig külön nyomtatványon megállapítja, és az adókötelezettséget 2025. június 10-ig és 2025. december 10-ig két egyenlő részletben megfizeti.
 
@@ -57,7 +57,7 @@ egyes adókötelezettségekről és egyes adótörvények módosításáról
 
 (14) A (13) bekezdés alkalmazásában állampapír alatt a 2030. január 1-jét követően lejáró Magyar Államkötvény elnevezésű, forintban denominált, aukció keretében forgalomba hozott állampapírokat kell érteni, azzal, hogy a Tpt. szerint meghatározott fordított repóügyletek, értékpapírkölcsön ügyletek, és az (EU) 2015/2365 rendelet 3. cikk 8. pontjában meghatározott vétel-eladás (buy-sell back) ügyletek keretében megszerzett állampapírok nem tartoznak e rendelkezés hatálya alá.
 
-(15) A (13) bekezdés alapján alkalmazható csökkentés összege a (14) bekezdés szerinti állampapír állomány névérték-növekményének 10 százaléka, de legfeljebb az e § szerinti különadó (14) bekezdés alapján alkalmazható csökkentés figyelembevétele nélkül számított, adóévre fizetendő összegének 50 százaléka, figyelemmel a (16) bekezdésre. Az állampapírok e bekezdés szerinti napi átlagos állományának kiszámításához az állampapírok névértékét kell figyelembe venni.
+(15) A (13) bekezdés alapján alkalmazható csökkentés összege a (14) bekezdés szerinti állampapír állomány névérték-növekményének 10 százaléka, de legfeljebb az e § szerinti különadó (14) bekezdés alapján alkalmazható csökkentés figyelembevétele nélkül számított, adóévre fizetendő összegének 30 százaléka, figyelemmel a (16) bekezdésre, azzal, hogy az állampapírok e bekezdés szerinti napi átlagos állományának kiszámításához az állampapírok névértékét kell figyelembe venni.
 
 (16) A (13)–(15) bekezdés alkalmazása során a (14) bekezdés szerinti állampapír állomány névérték-növekménye legfeljebb azon összegben vehető figyelembe, amilyen összegben a hitelintézet, a pénzügyi vállalkozás a tulajdonában lévő valamennyi forintban denominált állampapírnak – ideértve a (14) bekezdés szerinti állampapírt és a (14) bekezdés szerinti állampapíron kívüli, magyar állam által nem a lakosság részére kibocsátott állampapírt, de ide nem értve a Tpt. szerint meghatározott fordított repóügyletek, értékpapírkölcsön ügyletek, és az (EU) 2015/2365 rendelet 3. cikk 8. pontjában meghatározott vétel-eladás (buy-sell back) ügyletek keretében megszerzett állampapírt – a 2024. szeptember 1-je és 2024. november 30-a és a 2025. szeptember 1-je és 2025. november 30-a közötti időszakra vonatkozó napi átlagos állománya közül a legmagasabb értékhez viszonyítottan a 2026. január 1-je és 2026. november 30-a közötti időszakra vonatkozó napi átlagos állománya növekszik. Az állampapírok e bekezdés szerinti napi átlagos állományának kiszámításához az állampapírok névértékét kell figyelembe venni.
 
@@ -92,6 +92,24 @@ egyes adókötelezettségekről és egyes adótörvények módosításáról
 (9) Az e § szerinti különadó adónak minősül. Az e §-ban nem szabályozott kérdésekben az adóigazgatási rendtartásról szóló 2017. évi CLI. törvény és az adózás rendjéről szóló 2017. évi CL. törvény rendelkezései az irányadók.
 
 (10) Az e § szerinti különadóból származó bevétel az államháztartás központi alrendszerének bevétele.
+
+#### 2/A. Az energiaellátók különadó kötelezettsége
+
+2/A. § (1) A távhőszolgáltatás versenyképesebbé tételéről szóló 2008. évi LXVII. törvény (e § alkalmazásában a továbbiakban: Távhő törvény) által előírt adókötelezettségen túl a Távhő törvény szerint a 2026-ban kezdődő adóév első napján az energiaellátók jövedelemadója alanyának minősülő, a Távhő törvény 10. § 1. pont 1.1–1.6. alpontja és 1.8. alpontja szerinti adózó a 2026-ban kezdődő adóévre a (2)–(8) bekezdésben foglaltak szerinti különadó önadózás útján történő megállapítására, bevallására és fizetésére kötelezett.
+
+(2) A különadó alapja az energiaellátók jövedelemadója alkalmazásában jövedelemadó-köteles tevékenységek 2024. adóévi éves beszámolóban kimutatott árbevétele.
+
+(3) A különadó mértéke a (2) bekezdés szerinti adóalap 0,5 százaléka, azzal, hogy az e § alapján fizetendő különadó összege nem haladhatja meg a Távhő törvény 6. §-a szerint megállapított 2024. adóévi jövedelemadó-alap 50 százalékát.
+
+(4) Amennyiben az (1) bekezdés szerinti adóalany a 2024–2026. adóévekben átalakulással, egyesüléssel vagy szétválással érintett, akkor a (2) bekezdés szerinti adóalapot a jogelőd(ök), illetve a jogutód(ok) adatainak figyelembevételével állapítja meg.
+
+(5) Az (1) bekezdés szerinti adózó a különadót a 2026-ban kezdődő adóév harmadik hónapjának utolsó napjáig külön nyomtatványon megállapítja és megfizeti.
+
+(6) A megszűnő vagy a különadó hatálya alól bármely egyéb okból a 2026-ban kezdődő adóév harmadik hónapjának utolsó napjáig kikerülő, (1) bekezdés szerinti adóalany az e § szerinti kötelezettségét a megszűnését vagy a különadó hatálya alól történő kikerülését követő 30. napig teljesíti, ha az annak teljesítésére előírt határidő korábban nem telt le.
+
+(7) Az e § szerinti különadó adónak minősül. Az e §-ban nem szabályozott kérdésekben az adóigazgatási rendtartásról szóló törvény és az adózás rendjéről szóló törvény rendelkezései az irányadók.
+
+(8) Az e § szerinti különadóból származó bevétel az államháztartás központi alrendszerének bevételét képezi.
 
 ### II. Fejezet — A JÖVEDELEMADÓZÁST ÉRINTŐ TÖRVÉNYEK MÓDOSÍTÁSA
 

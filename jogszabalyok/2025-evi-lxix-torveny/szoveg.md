@@ -114,7 +114,7 @@ Magyarország 2026. évi központi költségvetéséről
 
 (8) A XLII. A költségvetés közvetlen bevételei és kiadásai fejezet, 44. Védelmi tartalék cím biztosít fedezetet a védelmi kiadások növekedéséből levezethető általános vagy védelemspecifikus rugalmassági mozgástér felhasználásakor teljesített kiadásokra.
 
-(9) A (8) bekezdés szerinti tartalékról a Kormány az Európai Parlament és Tanács (EU) 2024/1263 rendelete 26. cikk szerinti országspecifikus mentesítési rendelkezések aktiválása esetén az uniós szabályokból fakadó általános vagy védelemspecifikus rugalmassági mozgástér mértékéig átcsoportosíthat.
+(9) A (8) bekezdés szerinti tartalékról a Kormány az Európai Parlament és Tanács (EU) 2024/1263 rendelete 26. cikk szerinti országspecifikus mentesítési rendelkezések aktiválása esetén az uniós szabályokból fakadó általános vagy védelemspecifikus rugalmassági mozgástér mértékéig – legfeljebb összesen 860 milliárd forint összegben – átcsoportosíthat.
 
 (10) A (9) bekezdés szerinti átcsoportosítás csak akkor hajtható végre, ha
 
@@ -493,6 +493,8 @@ de legfeljebb a 2003/87/EK európai parlamenti és tanácsi irányelv 3d. cikk (
 
 (4b) A (4) és (4a) bekezdés szerinti összegeket a IX. Helyi önkormányzatok támogatásai fejezet, 4. Önkormányzati szolidaritási hozzájárulás címen kell elszámolni.
 
+(4c) Az önkormányzatnak nem kell megfizetnie az önkormányzati szolidaritási hozzájárulást, ha annak a 2. melléklet 62. pontja szerint számított összege nem haladja meg az 50,0 millió forintot.
+
 (5) Az önkormányzat a helyi iparűzési adóbevétel többlete alapján a 10. melléklet szerint meghatározott fizetési kötelezettségének beszámítása a települési önkormányzat számára folyósítandó támogatás összegéből a nettó finanszírozás keretében történik. Ennek összegét a XXV. Közigazgatási és Területfejlesztési Minisztérium fejezet, 10. Fejezeti kezelésű előirányzatok cím, 8. Területfejlesztési Alap alcímen kell elszámolni.
 
 (6) Ha a települési önkormányzatot az (1) bekezdés alapján a nettó finanszírozás keretében megillető adott havi források az (5) bekezdés szerint levonandó összegekre nem nyújtanak fedezetet, a Kincstár az Áht. 83. § (3) bekezdése alapján havonta beszedési megbízást nyújt be a települési önkormányzattal szemben. Ha a települési önkormányzatnak 2026. december 16-án bármilyen elmaradása van az (5) bekezdés szerinti befizetési kötelezettsége tekintetében, a Kincstár a meg nem fizetett összegre a kötelezett fizetési számlájára beszedési megbízást nyújt be.
@@ -607,9 +609,13 @@ delegál.
 
 ### VI. Fejezet — ÁLLAMI KEZESSÉG- ÉS GARANCIAVÁLLALÁS, VISZONTGARANCIA-VÁLLALÁS ÉS KEZESI HELYTÁLLÁS
 
-51. § (1) A Kormány a 2026. évben együttesen 50 000,0 millió forint összegű új egyedi állami kezesség és állami garancia vállalására adhat felhatalmazást.
+51. § (1) A Kormány a 2026. évben együttesen 371 000,0 millió forint összegű új egyedi állami kezesség és állami garancia vállalására adhat felhatalmazást.
 
 (2) Az Európai Beruházási Banktól, az Európai Újjáépítési és Fejlesztési Banktól, valamint az Európa Tanács Fejlesztési Banktól felveendő hitelekhez vállalható egyedi állami kezességek és állami garanciák nem terhelik az (1) bekezdés szerinti keretösszeget.
+
+(3) Az állam készfizető kezesként felel a Magyar Szénhidrogén Készletező Szövetség azon fizetési kötelezettségeiért, amelyek a jogszabályban meghatározott feladatainak érdekében belföldről, vagy külföldről felvett hiteleiből erednek.
+
+(4) A Magyar Szénhidrogén Készletező Szövetség a (3) bekezdés szerinti kötelezettségei biztosítékaként az állami készfizető kezességvállaláson túl a hitelező további biztosítékot nem írhat elő.
 
 52. § (1) A 2026. évben vállalt kiállítási garanciák és kiállítási viszontgaranciák együttes, a vállalás időpontjában forintra átszámított állománya az év egyetlen napján sem haladhatja meg az 1 400 000,0 millió forintot.
 
@@ -1091,9 +1097,9 @@ ahol:KT = korrekciós tényező,L = az önkormányzat 1.3. pont szerinti lakoss�
 - 3.1. A központi költségvetés támogatást biztosít az önkormányzati hivatal működési kiadásaihoz az Mötv. szerint a tárgyévet megelőző év március 1-jén működő hivatali struktúrának megfelelően. Amennyiben év közben változik a közös hivatali struktúra, vagy a tárgyév január 1-jéhez képest megváltozik a közös hivatal székhelye, azt az érintett önkormányzatok egymás között pénzeszközátadással rendezik.
 - 3.2. A támogatás meghatározása az elismert hivatali létszám alapján a személyi és dologi kiadások elismert átlagos költségeinek figyelembevételével történik. Közös önkormányzati hivatal esetében a támogatásra a székhely önkormányzat jogosult.
 - 3.3. A támogatás fajlagos összege:
-  - a) Budapest Főváros Önkormányzata és a 30 000 fő lakosságszám feletti, támogatásra jogosult önkormányzatok esetén 6 994 000 forint/fő,
-  - b) a legfeljebb 30 000 fő lakosságszámú, támogatásra jogosult önkormányzatok esetén 9 280 000 forint/fő.
-- 3.4. A legfeljebb 30 000 fő lakosságszámú, támogatásra jogosult önkormányzatok a tárgyévben e jogcímen kapott támogatásnak a tárgyévet megelőző évi, önkormányzati hivatal működésének támogatása jogcímen kapott támogatáshoz képesti növekményét kizárólag az önkormányzati hivatalban foglalkoztatott köztisztviselők illetményének emelésére fordíthatják.
+  - a) Budapest Főváros Önkormányzata és a 30 000 fő lakosságszám feletti, nem városi jogállású támogatásra jogosult önkormányzatok esetén 6 994 000 forint/fő,
+  - b) a legfeljebb 30 000 fő lakosságszámú, továbbá a városi jogállású 30 000 fő feletti lakosságszámú támogatásra jogosult önkormányzatok esetén 9 280 000 forint/fő.
+- 3.4. A legfeljebb 30 000 fő lakosságszámú, továbbá a városi jogállású 30 000 fő feletti lakosságszámú támogatásra jogosult önkormányzatok a tárgyévben e jogcímen kapott támogatásnak a tárgyévet megelőző évi, önkormányzati hivatal működésének támogatása jogcímen kapott támogatáshoz képesti növekményét kizárólag az önkormányzati hivatalban foglalkoztatott köztisztviselők illetményének emelésére fordíthatják.
 - 3.5. Az elismert hivatali létszám a számított alaplétszám korrekciós tényezőkkel korrigált összege. Önálló polgármesteri hivatal esetében az elismert hivatali létszám megegyezik a számított alaplétszámmal. Budapest Főváros Önkormányzata esetében az elismert hivatali létszám 470 fő.
 - 3.6. A számított alaplétszám számításakor a település típusára, a lakosságszám-kategóriákra és az elismert köztisztviselői létszámra vonatkozó adatokat az alábbi paramétertábla szerint kell figyelembe venni:
 
@@ -2998,30 +3004,9 @@ A helyi nemzetiségi önkormányzatok 2026. évi feladatalapú támogatásának 
 
 #### A települési önkormányzat helyi iparűzési többlete alapján meghatározandó fizetési kötelezettség szabályai
 
-- 1. A tárgyévben a 2. melléklet 62. pontja szerinti önkormányzati szolidaritási hozzájárulást teljesítő települési önkormányzat a tárgyévi befolyó és a tárgyévet megelőző évben befolyt helyi iparűzési adóbevétele közötti többletnek a tárgyévi és a tárgyévet megelőző szolidaritási hozzájárulás különbözetével korrigált összeg 70%-át (a továbbiakban: fizetési kötelezettség) a Területfejlesztési Alap részére a tárgyév május, november és a tárgyévet követő év március havi nettó finanszírozás keretében teljesíti.
+- 1. A tárgyévben a 2. melléklet 62. pontja szerinti önkormányzati szolidaritási hozzájárulást teljesítő települési önkormányzat a tárgyévi befolyó és a tárgyévet megelőző évben befolyt helyi iparűzési adóbevétele közötti többletnek a tárgyévi és a tárgyévet megelőző szolidaritási hozzájárulás különbözetével korrigált összeg 70%-át (a továbbiakban: fizetési kötelezettség) a Területfejlesztési Alap részére a tárgyév május, november és a tárgyévet követő év március havi nettó finanszírozás keretében teljesíti. Önkormányzati szolidaritási hozzájárulást teljesítőként kell figyelembe venni az önkormányzatot abban az esetben is, ha a 2. melléklet 62. pontja szerint a szolidaritási hozzájárulás számított összege nem haladja meg az 50,0 millió forintot.
 - 2. A tárgyév május és november, továbbá a tárgyévet követő év március hónapokban teljesítendő fizetési kötelezettség önkormányzatonkénti összegét az államháztartásért felelős miniszter, a területfejlesztésért felelős miniszter egyetértésével, rendeletben határozza meg - az önkormányzatoknak az Áht. 108. § (1) bekezdés b) pontja szerinti, 3., 9. és 12. havi időközi költségvetési jelentésében (a továbbiakban: időközi költségvetési jelentés) jelzett helyi iparűzési adóbevétele összegének figyelembevételével - a 3. és 4. pontban meghatározottak szerint.
-- 3. A tárgyhónapra vonatkozó fizetési kötelezettség meghatározása
-
-Ei = {[ha (HIPAtárgyév/i > HIPAelőző év/i, akkor HIPAtárgyév/i – HIPAelőző év/i, egyébként 0) – (ha (SZHtárgyév > SZHelőző év, akkor SZHtárgyév/i – SZHelőző év/i, egyébként 0)]*0,7, egész számra kerekítve, de értéke legalább 0} – E∑i,
-
-ahol:
-
-Ei = tárgyhónapra (a 3., 9. vagy 12. hónapra) vonatkozó fizetési kötelezettség,
-
-HIPAtárgyév/i = tárgyévi helyi iparűzési adóbevétel tárgyhónap utolsó napjáig befolyt összege,
-
-HIPAelőző év/i = tárgyévet megelőző évi helyi iparűzési adóbevétel tárgyévet megelőző év tárgyhónappal azonos hónap utolsó napjáig befolyt összege,
-
-SZHtárgyév = tárgyévi szolidaritási hozzájárulás összege,
-
-SZHelőző év = tárgyévet megelőző évi szolidaritási hozzájárulás,
-
-SZHtárgyév/i = 3. hónapban a tárgyévi szolidaritási hozzájárulás összegének 30%-a, 9. hónapban a tárgyévi hozzájárulás összegének 90%-a, 12. hónapban a tárgyévi szolidaritási hozzájárulás összegének 100%-a,
-
-SZHelőző év/i = 3. hónapban a tárgyévet megelőző évi szolidaritási hozzájárulás összegének 30%-a, 9. hónapban a tárgyévet megelőző évi hozzájárulás összegének 90%-a, 12. hónapban a tárgyévet megelőző évi szolidaritási hozzájárulás összegének 100%-a,
-
-E∑i = tárgyhónapot megelőzően teljesült összes elvonás.
-
+- 3. SZHtárgyév = tárgyévi szolidaritási hozzájárulás összege, abban az esetben is, ha annak összege nem éri el az 50,0 millió forintot,
 - 4. A tárgyévben a tárgyhónapra vonatkozó fizetési kötelezettség mértékének korrigálása késedelmes adatszolgáltatás esetén:
 
 A HIPAtárgyév/i értéke az önkormányzat tárgyhónapra vonatkozó időközi költségvetési jelentésében meghatározott, a tárgyhónapot követő hónap 20-áig rögzített összege. Ha az önkormányzat e határdőig nem rögzít összeget, akkor az első késedelmes adatszolgáltatás esetén a HIPAtárgyév/i értéke megegyezik a HIPAelőző év/i 1,15-szeresének 0 tizedesre kerekített összegével. A második késedelmes adatszolgáltatás esetén a HIPAtárgyév/i értéke megegyezik a HIPAelőző év/i 1,2-szeresének 0 tizedesre kerekített összegével.

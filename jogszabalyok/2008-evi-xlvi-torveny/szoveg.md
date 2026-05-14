@@ -1367,6 +1367,8 @@ ellenmintát biztosít.
 
 (3) Az élelmiszerlánc-felügyeleti szerv az e törvény végrehajtására kiadott rendeletben, valamint az Európai Unió közvetlenül alkalmazandó jogi aktusában fel nem sorolt egyéb károsítóval erős mértékben fertőzött növény behozatalánál a szállítmányra e törvényben, e törvény végrehajtására kiadott rendeletben, valamint az Európai Unió közvetlenül alkalmazandó jogi aktusában foglaltak szerint növényvédelmi korlátozást rendelhet el, illetve a szállítmányt visszautasíthatja.
 
+(4) Növénybetegség megelőzése, megállapítása, továbbterjedésének megakadályozása, kártételének csökkentése, felszámolása érdekében az élelmiszerlánc-felügyeleti szerv természetes személyt, jogi személyt vagy jogi személyiséggel nem rendelkező szervezetet aktív közreműködésre kötelezhet.
+
 ### Állami védekezés
 
 49. § (1) Az állami védekezés elrendelésére az élelmiszerlánc-felügyeleti szerv jogosult.
