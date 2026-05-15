@@ -182,13 +182,7 @@ közlekedési tárgyú törvények módosításáról
 
 #### 18. Az Ukrajna területén fennálló fegyveres konfliktusra tekintettel kihirdetett veszélyhelyzeti rendeletek törvényi szintre emeléséről szóló 2025. évi L. törvény módosítása
 
-60. § Az Ukrajna területén fennálló fegyveres konfliktusra tekintettel kihirdetett veszélyhelyzeti rendeletek törvényi szintre emeléséről szóló 2025. évi L. törvény 77. §-a a következő (5)–(7) bekezdéssel egészül ki:
-
-„(5) A Kormány által stratégiailag kiemelt jelentőségű eljárássá minősített azon felszámolási eljárásban, amelyben a bíróság a felszámolást megelőző reorganizációs célú eljárásról, valamint a csőd- és felszámolási eljárás egyes veszélyhelyzeti szabályairól szóló 252/2025. (VIII. 7.) Korm. rendeletben [a továbbiakban: 252/2025. (VIII. 7.) Korm. rendelet] foglaltak szerint rendelt el reorganizációt, a 252/2025. (VIII. 7.) Korm. rendelet, továbbá a Bérgarancia Alapról szóló 1994. évi LXVI. törvény, valamint egyes felszámolási tárgyú törvények veszélyhelyzet ideje alatt való eltérő alkalmazásáról szóló 304/2025. (X. 6.) Korm. rendelet [a továbbiakban: 304/2025. (X. 6.) Korm. rendelet] veszélyhelyzet megszűnését megelőző napon hatályos rendelkezéseit az eljárás jogerős befejezéséig alkalmazni kell.
-
-(6) Azon felszámolási eljárásban, amelyet a bíróság a 304/2025. (X. 6.) Korm. rendelet 3. §-a alapján rendelt el, a 304/2025. (X. 6.) Korm. rendelet veszélyhelyzet megszűnését megelőző napon hatályos rendelkezéseit az eljárás jogerős befejezéséig alkalmazni kell.
-
-(7) A Kormány által az ISD DUNAFERR Dunai Vasmű Zártkörűen Működő Részvénytársaság „felszámolás alatt”, a Duna Furnace Dunai Vasmű Korlátolt Felelősségű Társaság „felszámolás alatt”, valamint a Dunarolling Dunai Vasmű Korlátolt Felelősségű Társaság „felszámolás alatt” felszámolási eljárásának stratégiailag kiemelt jelentőségű felszámolási eljárássá minősítéséről szóló 326/2025. (X. 20.) Korm. rendelettel [a továbbiakban: 326/2025. (X. 20.) Korm. rendelet] stratégiailag kiemelt jelentőségű eljárássá minősített felszámolási eljárásokban a veszélyhelyzet megszűnése előtti napon hatályos, a 326/2025. (X. 20.) Korm. rendelet szerinti felszámolási eljárásokra veszélyhelyzetben alkalmazandó kormányrendeletek rendelkezéseit az eljárások jogerős befejezéséig alkalmazni kell.”
+#### 60. §
 
 #### 19. A használatidíj-rendszerben és az útdíjrendszerben ellátott közfeladatok biztosításáról és egyes kapcsolódó törvények módosításáról szóló 2025. évi LVI. törvény módosítása
 

@@ -1748,7 +1748,11 @@ kell biztosítani.
 
 (5) Ha a központi címregiszterben új cím keletkeztetéséhez, meglévő cím módosításához vagy törléséhez olyan címadat beszerzése szükséges, amelynek megállapítása helyi önkormányzati képviselő-testület hatáskörébe tartozik, a képviselő-testület a központi címregiszter működtetéséért felelős szervtől érkezett megkeresést követő ülésén a címképzéshez szükséges döntést meghozza és arról a központi címregiszter működtetéséért felelős szervet haladéktalanul értesíti.
 
-(6) A központi címregiszterben nyilvántartott közérdekű vagy közérdekből nyilvános címadatok a központi címregiszterhez kapcsolódó állami és önkormányzati nyilvántartásokból ismerhetők meg.
+(6) A központi címregiszterben nyilvántartott címadatok a központi címregiszterből, valamint az ahhoz kapcsolódó állami és önkormányzati nyilvántartásokból ismerhetők meg.
+
+(7) A központi címregiszterben nyilvántartott címadatokat a digitális szolgáltatás nyújtására kötelezett szerv és a digitális szolgáltatás biztosítására kötelezett szervezet igazgatási szolgáltatási díj megfizetése mellett ismerheti meg.
+
+(8) A (7) bekezdés szerinti igazgatási szolgáltatási díj megfizetése alól mentesség illeti meg a címképzésért felelős szervet a címkezelése és a cím felülvizsgálata során, a polgárok személyi adatainak és lakcímének nyilvántartását kezelő szervet, az ingatlanügyi hatóságot, az állami középület-kataszter működtetéséért felelős szervezetet, az Okos Város Központi Platform Települési Térinformatikai Platformjának és Települési Középület Kataszterének működtetéséért felelős szervezetet, az állami adó- és vámhatóságot, valamint a Központi Statisztikai Hivatalt.
 
 #### 57/A. A Kép-, hang, kép- és hangfelvétel központi tárolása
 
@@ -1929,6 +1933,7 @@ kell biztosítani.
 - 3. a nem a Kormány irányítása vagy felügyelete alá tartozó közfeladatot ellátó szerv által igénybe vett központosított informatikai és hírközlési szolgáltatások, a központi szolgáltató által fejlesztett vagy üzemeltetett informatikai rendszereket, a kormányzati célú hálózatok és hálózati szolgáltatások igénybevételének szabályait.
 - 4. az adópolitikáért felelős miniszterrel egyetértésben a digitális szolgáltatás biztosítására kötelezett szervezet, a digitális szolgáltatás biztosítására kötelezett szervezetnek nem minősülő piaci szereplő és az önkéntesen csatlakozott szervezet által fizetendő igazgatási szolgáltatási díj mértékét és megfizetésének módját,
 - 5. az adópolitikáért felelős miniszterrel egyetértésben a digitális szolgáltatás biztosítására kötelezett szervezet, a digitális szolgáltatás biztosítására kötelezett szervezetnek nem minősülő piaci szereplő és az önkéntesen csatlakozott szervezet számára az aktivált felhasználói profillal rendelkező felhasználó adatainak és adatváltozásainak az aggregátum szolgáltatás keretében történő rendelkezésre bocsátásáért fizetendő igazgatási szolgáltatási díj mértékét és megfizetésének módját.
+- 6. az adópolitikáért felelős miniszterrel egyetértésben a címadatoknak a digitális szolgáltatás nyújtására kötelezett szerv és a digitális szolgáltatás biztosítására kötelezett szervezet általi, központi címregiszterből történő megismeréséért fizetendő igazgatási szolgáltatási díj mértékét és megfizetésének részletes szabályait.
 
 (2) Felhatalmazást kap az SZTFH elnöke, hogy rendeletben állapítsa meg
 
