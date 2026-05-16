@@ -1653,7 +1653,7 @@ végrehajtását szolgálja.
 
 (2) 2031. augusztus 3. napján érvényét veszti az a 2016. január 1. napját követően kiállított határidő nélküli érvényességi idejű személyazonosító igazolvány, amely esetén a polgár 2021. augusztus 2. napjáig nem töltötte be 70. életévét.
 
-(3) A nyilvántartást kezelő szerv 2026. május 15. napján, egyszeri alkalommal átadja az (1) bekezdésben foglaltak szerint érvényüket vesztő személyazonosító igazolványokkal rendelkező polgárok nyilvántartásban szereplő természetes személyazonosító adatait az anyakönyvi ügyekért felelős miniszternek a polgárok papíralapú anyakönyvben nyilvántartott anyakönyvi eseménye adatainak elektronikus anyakönyvbe történő bejegyzése érdekében.
+(3)
 
 52/K. § (1) A nyilvántartásban szereplő érvényes értesítési címeket 2021. július 1. napjával a nyilvántartást kezelő szerv hivatalból érvényteleníti, valamint érvényét veszti a címjogosult és a postafiók bérlőjének 27/D. § (1) és (2) bekezdése szerinti nyilatkozata.
 
