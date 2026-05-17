@@ -18,11 +18,7 @@ a nyilvántartásokkal és digitalizációval összefüggő törvények módosí
 
 #### 5. §
 
-6. § Hatályát veszti az Nytv.
-
-- a)
-- b)
-- c) 52/J. § (3) bekezdése.
+#### 6. §
 
 #### 2. Az egészségügyről szóló 1997. évi CLIV. törvény módosítása
 
