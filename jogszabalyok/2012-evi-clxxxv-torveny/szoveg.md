@@ -149,7 +149,7 @@ meghatározott eltérésekkel összhangban kell értelmezni.
 
 (5) A közvetítő szervezetre vonatkozó speciális szabályokat kormányrendelet, illetve miniszteri rendelet határozza meg.
 
-(6) A hulladék e törvény szerinti behozatalára, kivitelére és átszállítására a hulladékszállításról szóló, 2006. június 14-i 1013/2006/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 1013/2006/EK európai parlamenti és tanácsi rendelet) szerinti szállítás fogalmat kell alkalmazni.
+(6) A hulladék e törvény szerinti behozatalára, kivitelére és átszállítására az (EU) 2024/1157 európai parlamenti és tanácsi rendelet szerinti szállítás fogalmat kell alkalmazni.
 
 (7) A hulladékgazdálkodással összefüggő, e törvényben nem szabályozott fogalmak, továbbá rendelkezések tekintetében a Polgári Törvénykönyvet, a számvitelről szóló törvényt, a Magyarország helyi önkormányzatairól szóló törvényt, valamint a környezet védelmének általános szabályairól szóló törvényt (a továbbiakban: Kvt.) kell alkalmazni.
 
@@ -486,25 +486,25 @@ igazolható módon tájékoztatja az átvevőt.
 
 #### 13. A hulladék behozatala, kivitele és átszállítása
 
-19. § (1) Hulladék Magyarország területére az 1013/2006/EK európai parlamenti és tanácsi rendeletben, valamint az országhatárt átlépő hulladékszállításról szóló kormányrendeletben előírtak szerint hozható be.
+19. § (1) Hulladék Magyarország területére az (EU) 2024/1157 európai parlamenti és tanácsi rendeletben, valamint az országhatárt átlépő hulladékszállításról szóló kormányrendeletben előírtak szerint hozható be.
 
 (2) Magyarország területére ártalmatlanításra szánt veszélyes hulladékot, valamint ártalmatlanításra szánt háztartási hulladékot és a háztartási hulladék égetéséből származó maradékanyagot behozni nem lehet.
 
-20. § (1) A hulladékgazdálkodási hatóság a hasznosításra, valamint az ártalmatlanításra szánt hulladék behozatalával, kivitelével, illetve átszállításával szemben az 1013/2006/EK európai parlamenti és tanácsi rendeletben meghatározottak alapján kifogást emel.
+20. § (1) Az országos hulladékgazdálkodási hatóság a hasznosításra, valamint az ártalmatlanításra szánt hulladék behozatalával, kivitelével, illetve átszállításával szemben az (EU) 2024/1157 európai parlamenti és tanácsi rendeletben meghatározottak alapján kifogást emel.
 
-(2) Az 1013/2006/EK európai parlamenti és tanácsi rendelet 11. cikk (1) bekezdésének c) pontjában, valamint a 12. cikk d) pontjában foglaltak alapján a hulladékgazdálkodási hatóság a hasznosításra, illetve ártalmatlanításra szánt hulladék Magyarországra történő behozatalával, kivitelével, illetve átszállításával szemben akkor emel kifogást, ha
+(2) Az (EU) 2024/1157 európai parlamenti és tanácsi rendelet 11. cikk (1) bekezdés b) pontjában, valamint 12. cikk (1) bekezdése f) pontjában foglaltak alapján az országos hulladékgazdálkodási hatóság a hasznosításra, illetve ártalmatlanításra szánt hulladék Magyarországra történő behozatalával, kivitelével, illetve átszállításával szemben akkor emel kifogást, ha
 
 - a) a bíróság a bejelentő, a bejelentő szervezet vezetője, vezető tisztségviselője (a továbbiakban együtt: bejelentő), vagy a címzett, a címzett szervezet vezetője, vezető tisztségviselője (a továbbiakban együtt: címzett) büntetőjogi felelősségét a Büntető Törvénykönyvről szóló törvényben meghatározott környezetkárosítás, természetkárosítás vagy hulladékgazdálkodás rendjének megsértése bűncselekmény elkövetése miatt jogerősen megállapította, mindaddig, amíg a büntetett előélethez fűződő hátrányos jogkövetkezmények alól nem mentesült,
 - b) a bejelentő vagy a címzett hulladékgazdálkodási tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt áll,
 - c) a bejelentő vagy a címzett a Kvt. szerinti kármentesítési kötelezettségét a teljesítésre megállapított határidő lejártáig nem teljesíti.
 
-(3) A hulladék behozatalára, illetve kivitelére irányuló bejelentési kötelezettség teljesítésével egyidejűleg a magyarországi székhellyel vagy telephellyel rendelkező bejelentő, illetve címzett hatósági bizonyítvánnyal igazolja a hulladékgazdálkodási hatóság részére azt a tényt, hogy vele szemben nem áll fenn a (2) bekezdés a) vagy b) pontjában meghatározott kizáró ok, vagy kéri, hogy e tény fennállására vonatkozó adatokat a bűnügyi nyilvántartó szerv a bejelentési kötelezettség teljesítése céljából a hulladékgazdálkodási hatóság által benyújtott adatigénylés alapján továbbítsa. Az adatigénylés során a hulladékgazdálkodási hatóság a bűnügyi nyilvántartó szervtől a (2) bekezdés a) és b) pontjában meghatározott adatokat kérheti.
+(3) A hulladék behozatalára, illetve kivitelére irányuló bejelentési kötelezettség teljesítésével egyidejűleg a magyarországi székhellyel vagy telephellyel rendelkező bejelentő, illetve címzett hatósági bizonyítvánnyal igazolja az országos hulladékgazdálkodási hatóság részére azt a tényt, hogy vele szemben nem áll fenn a (2) bekezdés a) vagy b) pontjában meghatározott kizáró ok, vagy kéri, hogy e tény fennállására vonatkozó adatokat a bűnügyi nyilvántartó szerv a bejelentési kötelezettség teljesítése céljából az országos hulladékgazdálkodási hatóság által benyújtott adatigénylés alapján továbbítsa. Az adatigénylés során a hulladékgazdálkodási hatóság a bűnügyi nyilvántartó szervtől a (2) bekezdés a) és b) pontjában meghatározott adatokat kérheti.
 
-(4) A hulladékgazdálkodási hatóság a hulladék Magyarországra történő behozatalával, kivitelével, illetve átszállításával összefüggésben folytatott hatósági ellenőrzés keretében azt is ellenőrizheti, hogy a bejelentésre kötelezett vagy a címzett nem áll-e a (2) bekezdés a) és b) pontjában meghatározott kizáró ok hatálya alatt. A hatósági ellenőrzés céljából a hulladékgazdálkodási hatóság a bűnügyi nyilvántartási rendszerből adatot kérhet. Az adatkérés kizárólag a (2) bekezdés a) és b) pontjában meghatározottak igazolásához szükséges adatra irányulhat.
+(4) Az országos hulladékgazdálkodási hatóság a hulladék Magyarországra történő behozatalával, kivitelével, illetve átszállításával összefüggésben folytatott hatósági ellenőrzés keretében azt is ellenőrizheti, hogy a bejelentésre kötelezett vagy a címzett nem áll-e a (2) bekezdés a) és b) pontjában meghatározott kizáró ok hatálya alatt. A hatósági ellenőrzés céljából az országos hulladékgazdálkodási hatóság a bűnügyi nyilvántartási rendszerből adatot kérhet. Az adatkérés kizárólag a (2) bekezdés a) és b) pontjában meghatározottak igazolásához szükséges adatra irányulhat.
 
-(5) A hulladékgazdálkodási hatóság a (3) és (4) bekezdés alapján megismert személyes adatokat a hatósági bizonyítvány időbeli hatályának lejártáig, illetve a hatósági ellenőrzés időtartamára vagy a hatósági ellenőrzés alapján indított eljárás végleges befejezéséig kezeli.
+(5) Az országos hulladékgazdálkodási hatóság a (3) és (4) bekezdés alapján megismert személyes adatokat a hatósági bizonyítvány időbeli hatályának lejártáig, illetve a hatósági ellenőrzés időtartamára vagy a hatósági ellenőrzés alapján indított eljárás végleges befejezéséig kezeli.
 
-21. § A hulladékgazdálkodási hatóság a 20. §-ban foglaltakon kívül a hulladék Magyarországra történő behozatalával, kivitelével, illetve átszállításával kapcsolatban akkor is kifogást emel, ha
+21. § Az országos hulladékgazdálkodási hatóság a 20. §-ban foglaltakon kívül a hulladék Magyarországra történő behozatalával, kivitelével, illetve átszállításával kapcsolatban akkor is kifogást emel, ha
 
 - a) a hulladék behozatala hasznosításra szolgáló hulladékégető műbe irányul, és megállapítást nyer, hogy ez a Magyarország területén képződött hulladék ártalmatlanítását tenné szükségessé, vagy
 - b) a behozni kívánt hulladék a Magyarország területén képződött hulladék hulladékgazdálkodási tervekben foglaltakkal össze nem egyeztethető módon történő kezelését eredményezné.
@@ -598,7 +598,7 @@ megfizetéséhez kötheti.
 - a) meghatározott földrajzi területen és meghatározott termékekkel, illetve anyagokkal végez tevékenységet oly módon, hogy a tevékenysége nem korlátozódik a hulladékgyűjtés és -gazdálkodás szempontjából a legjövedelmezőbb területekre;
 - b) az a) pontban meghatározott földrajzi területen a hulladékgyűjtő rendszerek megfelelő elérhetőségét biztosítja;
 - c) rendelkezik a kiterjesztett gyártói felelősségi kötelezettségek teljesítéséhez szükséges pénzügyi eszközökkel, vagy pénzügyi és szervezési eszközökkel;
-- d) rendelkezik belső, független auditor által auditált önellenőrzési rendszerrel a pénzügyi gazdálkodás – beleértve a (3) bekezdés a) és b) pontjában foglaltakat –, valamint az (1) bekezdés c) pontjának megfelelően gyűjtött adatok és az 1013/2006/EK európai parlamenti és tanácsi rendeletben foglalt hulladékszállítási követelményeknek való megfelelés ellenőrizhetősége érdekében; és
+- d) rendelkezik belső, független auditor által auditált önellenőrzési rendszerrel a pénzügyi gazdálkodás – beleértve a (3) bekezdés a) és b) pontjában foglaltakat –, valamint az (1) bekezdés c) pontjának megfelelően gyűjtött adatok és az (EU) 2024/1157 európai parlamenti és tanácsi rendeletben foglalt hulladékszállítási követelményeknek való megfelelés ellenőrizhetősége érdekében; és
 - e) a nyilvánosság számára hozzáférhetővé teszi a hulladékgazdálkodási célértékek elérésére vonatkozó információkat, valamint a kiterjesztett gyártói felelősségi kötelezettségek kollektív teljesítése esetén a következő adatokat:
   - ea) a gyártó vagy szervezet tulajdonosi köre és tagja,
   - eb) a termékek gyártói által az értékesített egységek vagy a forgalomba hozott termékek tonnában kifejezett mennyisége alapján fizetett pénzügyi hozzájárulás,
@@ -664,7 +664,7 @@ megfizetéséhez kötheti.
 
 útján gondoskodik.
 
-(3) A hulladékbirtokos a Magyarország területére behozott hulladék kezeléséről az 1013/2006/EK európai parlamenti és tanácsi rendelettel összhangban az országhatárt átlépő hulladékszállításról szóló kormányrendeletben meghatározott módon, a szállítmányt kísérő okmányokban foglaltaktól függően a (2) bekezdés a) vagy b) pontja szerint gondoskodik. A (2) bekezdés a) pontja szerinti átadás esetén a hulladékbirtokos az 53/E. § (5) bekezdése szerinti ellenérték megfizetésére köteles.
+(3) A hulladékbirtokos a Magyarország területére behozott hulladék kezeléséről az (EU) 2024/1157 európai parlamenti és tanácsi rendelettel összhangban az országhatárt átlépő hulladékszállításról szóló kormányrendeletben meghatározott módon, a szállítmányt kísérő okmányokban foglaltaktól függően a (2) bekezdés a) vagy b) pontja szerint gondoskodik. A (2) bekezdés a) pontja szerinti átadás esetén a hulladékbirtokos az 53/E. § (5) bekezdése szerinti ellenérték megfizetésére köteles.
 
 (4) A hulladékbirtokos által a (2) bekezdés a) pontja szerint átadott hulladék az átvétellel az állam, vagy ha az állami hulladékgazdálkodási közfeladatot az állam a koncesszornak átengedte, a koncessziós társaság tulajdonába kerül. Az állam tulajdonába kerülő hulladék tekintetében a tulajdonosi jogokat az állam által a 32/A. § (4e) bekezdésében foglalt feladatok ellátására létrehozott koordináló szerv gyakorolja.
 
@@ -1322,7 +1322,7 @@ adja ki.
 
 58. § (1) A hulladéktermelő a veszélyes hulladékot a nemzetközi egyezményekkel és a közösségi joggal összhangban, valamint a hatályos jogszabályi előírásoknak megfelelően csomagolja és címkézi annak gyűjtése, szállítása, valamint tárolása során.
 
-(2) A veszélyes hulladék szállítása során a hulladékot – elektronikus formában is kiállítható – nyomtatvánnyal kell ellátni, amely tartalmazza az 1013/2006/EK európai parlamenti és tanácsi rendeletben meghatározott adatokat.
+(2) A veszélyes hulladék szállítása során a hulladékot – elektronikus formában is kiállítható – nyomtatvánnyal kell ellátni, amely tartalmazza az (EU) 2024/1157 európai parlamenti és tanácsi rendeletben meghatározott adatokat.
 
 (3) A hasznosításra vagy ártalmatlanításra kerülő veszélyes hulladék a gyűjtést követően a hasznosítás vagy az ártalmatlanítás megkezdéséig az előkezeléssel együtt összesen legfeljebb 1 évig tárolható.
 
@@ -1669,7 +1669,7 @@ részére adható át.
 
 - a) amelynek tevékenysége során kormányrendeletben meghatározott mennyiségű hulladék képződik,
 - b) amely e törvény szerint hulladékgazdálkodási engedélyhez vagy nyilvántartásba vételhez kötött tevékenységet végez – ide nem értve a hulladéklerakó üzemeltetőjét –, valamint
-- c) amely az 1013/2006/EK európai parlamenti és tanácsi rendeletben meghatározott célból Magyarország területére hulladékot behoz, kivisz vagy átszállít.
+- c) amely az (EU) 2024/1157 európai parlamenti és tanácsi rendeletben meghatározott célból Magyarország területére hulladékot behoz, kivisz vagy átszállít.
 
 (2) Ha a gazdálkodó szervezet az (1) bekezdés a) és b) pontja alapján is környezetvédelmi biztosítás kötésére kötelezett, a környezetvédelmi biztosítását csak az (1) bekezdés b) pontja alapján kell megkötnie.
 
@@ -2747,7 +2747,7 @@ való megfelelést szolgálja.
 
 (2) Ez a törvény
 
-- a) az 1013/2006/EK európai parlamenti és tanácsi rendelet,
+- a) a hulladékszállításról, az 1257/2013/EU és az (EU) 2020/1056 rendelet módosításáról, valamint az 1013/2006/EK rendelet hatályon kívül helyezéséről szóló, 2024. április 11-i (EU) 2024/1157 európai parlamenti és tanácsi rendelet,
 - b) a hulladékokról és egyes irányelvek hatályon kívül helyezéséről szóló 2008/98/EK európai parlamenti és tanácsi irányelv III. mellékletének felváltásáról szóló, 2014. december 18-i 1357/2014/EU bizottsági rendelet
 - c) a 2008/98/EK európai parlamenti és tanácsi irányelv III. mellékletének a HP 14 „környezetre veszélyes (ökotoxikus)” veszélyességi tulajdonság tekintetében történő módosításáról szóló, 2017. június 8-i 2017/997/EU tanácsi rendelet
 
