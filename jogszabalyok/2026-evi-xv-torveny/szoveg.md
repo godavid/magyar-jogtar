@@ -17,4 +17,4 @@ felmondására adott felhatalmazás visszavonására.
 
 3. § Az e törvény végrehajtásához szükséges intézkedésekről a külpolitikáért felelős miniszter gondoskodik.
 
-4. § Hatályát veszti az Egyesült Nemzetek Diplomáciai Konferenciája által, a Nemzetközi Büntetőbíróság Rómában, 1998. július 17-én elfogadott Statútumának, és a Nemzetközi Büntetőbíróság kiváltságairól és mentességeiről szóló, New Yorkban, 2002. szeptember 10-én elfogadott Megállapodás felmondásáról szóló 2025. évi XXX. törvény.
+#### 4. §
