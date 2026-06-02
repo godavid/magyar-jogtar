@@ -24,13 +24,7 @@ energetikai tárgyú törvények módosításáról
 
 #### 5. §
 
-6. § (1)
-
-(2)
-
-(3) A VET 24. §-a a következő (9) bekezdéssel egészül ki:
-
-„(9) A hálózati engedélyes az adatokhoz való megkülönböztetésmentes hozzáférés feltételeinek teljesítése ellenőrzésére független adathozzáférési tisztviselőt alkalmaz. Az adathozzáférési tisztviselő feladatainak részletes szabályait a Vhr. állapítja meg.”
+#### 6. §
 
 #### 7. §
 
@@ -40,15 +34,7 @@ energetikai tárgyú törvények módosításáról
 
 #### 10. §
 
-11. § A VET V. Fejezete a következő alcímmel egészül ki:
-
-### „A vasúti felsővezetéki rendszerről vételezett villamos energia különös szabályai
-
-39/J. § (1) A vasúti közlekedésről szóló törvény szerinti vasúti pályahálózat tartozékának minősülő, a közcélú hálózat csatlakozási pontja után elhelyezkedő vasúti felsővezetéki rendszerről villamos energiát vételező vasúti társaság (a továbbiakban: vasúti társaság) villamosenergia-vásárlási szerződést köthet a felsővezetéki rendszer használatának a (2) bekezdés szerinti biztosítottsága esetén. Ebben az esetben a vasúti társaság a villamosenergia-kereskedelmi jogviszony tekintetében felhasználónak minősül.
-
-(2) A vasúti társaság igénybejelentésére a vasúti felsővezetéki rendszert üzemeltető pályahálózat-működtető (a továbbiakban: pályahálózat-működtető) – a közöttük létrejött írásbeli szerződés feltételei szerint, a vasúti társaság részére kiutalt pályahálózat-kapacitáshoz kapcsolódóan – a vasúti társaság által felhasználóként megvásárolt villamos energiát a felsővezetéki rendszer csatlakozási pontján átveszi és biztosítja annak a vasúti felsővezetéki rendszeren vételezés céljából történő eljuttatását a vasúti társaság számára.
-
-(3) A villamosenergia-vásárlási szerződés teljesítésével való elszámolás és a számlázást biztosító fogyasztásmérő berendezés a vasúti jármű tartozéka, az elszámolás érdekében a vasúti társaság által vételezett villamosenergia-mennyiségre vonatkozó hiteles mérési és elszámolási adatoknak a vasúti társaságot ellátó villamosenergia-kereskedő részére történő továbbításáról a pályahálózat-működtető gondoskodik az e törvény végrehajtására kiadott kormányrendelet szerint.”
+#### 11. §
 
 #### 12. §
 
@@ -66,24 +52,7 @@ energetikai tárgyú törvények módosításáról
 
 #### 19. §
 
-20. § A VET a következő XIV/A. fejezettel egészül ki:
-
-### „XIV/A. Fejezet — A VILLAMOS BIZTONSÁGI FELÜLVIZSGÁLATOT VÉGZŐ SZOLGÁLTATÓK NYILVÁNTARTÁSA
-
-137/A. § (1) Az összekötő és felhasználói berendezésekről, valamint a potenciálisan robbanásveszélyes közegben működő villamos berendezésekről és védelmi rendszerekről szóló miniszteri rendelet hatálya alá tartozó villamos berendezésre vonatkozó villamos biztonsági felülvizsgálati tevékenységet az folytathat, akit a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény (a továbbiakban: Szolg. tv.) 27. § (1) bekezdése szerinti bejelentése alapján a Magyar Kereskedelmi és Iparkamara (a továbbiakban: MKIK) nyilvántartásba vett, és aki megfelel az e törvény végrehajtására kiadott miniszteri rendeletben meghatározott feltételeknek.
-
-(2) A nyilvántartás – a Szolg. tv.-ben meghatározott adatokon túl – tartalmazza a villamos biztonsági felülvizsgáló nevét, születésének helyét és időpontját, adószámát, a villamos biztonsági felülvizsgáló képesítésének megnevezését és a képesítés megszerzését tanúsító okirat számát, az általa végezhető tevékenységek meghatározását, valamint a nyilvántartásba való felvétel, illetve az onnan való törlés időpontját.
-
-(3) Az MKIK törli a villamos biztonsági felülvizsgálót a nyilvántartásból, ha a villamos biztonsági felülvizsgáló
-
-- a) megsértette a villamos biztonsági felülvizsgálatra vonatkozó jogszabályi előírásokat és ezt a műszaki biztonsági hatóság végleges döntésével megállapította,
-- b) tevékenysége megszűnt,
-- c) nem tesz eleget a jogszabályban meghatározott követelménynek,
-- d) ezt kéri.
-
-(4) Az MKIK a villamos biztonsági felülvizsgálók jegyzékét honlapján közzéteszi, mely tartalmazza a villamos biztonsági felülvizsgáló nevét. A villamos biztonsági felülvizsgáló hozzájárulása esetén a jegyzékben feltüntetésre kerül a villamos biztonsági felülvizsgáló értesítési címe, telefonszáma, elektronikus postacíme.
-
-(5) A bejelentett és jogosult villamos biztonsági felülvizsgálók nyilvántartása a Szolg. tv. 27. § (3) bekezdésében, valamint a (2) bekezdésben meghatározott adatok tekintetében – a természetes személyazonosító adatok kivételével – közhiteles nyilvántartás.”
+#### 20. §
 
 #### 21. §
 
