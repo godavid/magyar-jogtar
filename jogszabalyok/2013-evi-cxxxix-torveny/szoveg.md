@@ -611,7 +611,7 @@ vonatkozó szabályokat állapít meg.
 - g) a Magyar Fejlesztési Bank Részvénytársaságról szóló törvény,
 - h) a Tpt.,
 - i) a biztosítókról és a biztosítási tevékenységről szóló törvény,
-- j) a távértékesítés keretében kötött pénzügyi ágazati szolgáltatási szerződésekről szóló törvény,
+- j) a távollévők között kötött pénzügyi ágazati szolgáltatási szerződésekről szóló törvény,
 - k) a foglalkoztatói nyugdíjról és intézményeiről szóló törvény (a továbbiakban: Fnytv.),
 - l) a Bszt.,
 - m) a kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló törvény (a továbbiakban: Kbftv.),
@@ -732,7 +732,7 @@ hatálya alá tartozó szervezetek, személyek és tevékenységek felügyeleté
 
 - a) a fogyasztói hitelmegállapodásokról és a 87/102/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2008 április 23-i 2008/48/EK európai parlamenti és tanácsi irányelvet,
 - b) a fogyasztókkal kötött szerződésekben alkalmazott tisztességtelen feltételekről szóló 1993. április 5-i 93/13/EGK tanácsi irányelvet,
-- c) a fogyasztói pénzügyi szolgáltatások távértékesítéssel történő forgalmazásáról, valamint a 90/619/EGK tanácsi irányelv, a 97/7/EK irányelv és a 98/27/EK irányelv módosításáról szóló, 2002. szeptember 23-i 2002/65/EK európai parlamenti és tanácsi irányelvet,
+- c) a 2011/83/EU irányelvnek a távollévők között kötött pénzügyi szolgáltatási szerződések tekintetében történő módosításáról és a 2002/65/EK irányelv hatályon kívül helyezéséről szóló, 2023. november 22-i (EU) 2023/2673 európai parlamenti és tanácsi irányelvet,
 - d) az általa felügyelt tevékenységekkel összefüggő kereskedelmi gyakorlatok tekintetében a belső piacon az üzleti vállalkozások fogyasztókkal szemben folytatott tisztességtelen kereskedelmi gyakorlatairól, valamint a 84/450/EGK tanácsi irányelv, a 97/7/EK, a 98/27/EK és a 2002/65/EK európai parlamenti és tanácsi irányelvek, valamint a 2006/2004/EK európai parlamenti és tanácsi rendelet módosításáról szóló, 2005. május 11-i 2005/29/EK európai parlamenti és tanácsi irányelvet, valamint
 - e) a lakóingatlanokhoz kapcsolódó fogyasztói hitelmegállapodásokról, valamint a 2008/48/EK és a 2013/36/EU irányelv és az 1093/2010/EU rendelet módosításáról szóló, 2014. február 4-i 2014/17/EU európai parlamenti és tanácsi irányelvet
 
@@ -3478,6 +3478,7 @@ azzal, hogy 2019. január 1-jétől az anticiklikus tőkepufferrátát a 33. §-
 - 23. a 2014/59/EU irányelvnek és a 806/2014/EU rendeletnek a szavatolótőkére és a leírható, illetve átalakítható kötelezettségekre vonatkozó minimumkövetelmény egyes vonatkozásai tekintetében történő módosításáról szóló, 2024. április 11-i (EU) 2024/1174 európai parlamenti és tanácsi irányelvnek
 - 24. a hitelgondozókról és a hitelfelvásárlókról, valamint a 2008/48/EK és a 2014/17/EU irányelv módosításáról szóló, 2021. november 24-i (EU) 2021/2167 európai parlamenti és tanácsi irányelvnek
 - 26. a 2011/61/EU és a 2009/65/EK irányelvnek az átruházásra vonatkozó megállapodások, a likviditásikockázat-kezelés, a felügyeleti jelentéstétel, a letétkezelői és letéti őrzési szolgáltatások nyújtása, valamint az alternatív befektetési alapok általi hitelnyújtás tekintetében történő módosításáról szóló, 2024. március 13-i (EU) 2024/927 európai parlamenti és tanácsi irányelvnek
+- 28. a 2011/83/EU irányelvnek a távollévők között kötött pénzügyi szolgáltatási szerződések tekintetében történő módosításáról és a 2002/65/EK irányelv hatályon kívül helyezéséről szóló, 2023. november 22-i (EU) 2023/2673 európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.
 
@@ -3557,7 +3558,7 @@ végrehajtásához szükséges rendelkezéseket állapít meg az MNB feladatkör
 
 (6) A pénzügyi fogyasztói jogvita tekintetében
 
-- a) az Európai Parlament és a Tanács 2002/65/EK irányelve (2002. szeptember 23.) a fogyasztói pénzügyi szolgáltatások távértékesítéssel történő forgalmazásáról, valamint a 90/619/EGK tanácsi irányelv, a 97/7/EK irányelv és a 98/27/EK irányelv módosításáról, 14. cikk,
+- a)
 - b) az Európai Parlament és a Tanács (EU) 2015/2366 irányelve (2015. november 25.) a belső piaci pénzforgalmi szolgáltatásokról és a 2002/65/EK, a 2009/110/EK és a 2013/36/EU irányelv és a 1093/2010/EU rendelet módosításáról, valamint a 2007/64/EK irányelv hatályon kívül helyezéséről, 102. cikk,
 - c) az Európai Parlament és a Tanács 2008/48/EK irányelve (2008. április 23.) a fogyasztói hitel-megállapodásokról és a 87/102/EGK tanácsi irányelv hatályon kívül helyezéséről, 24. cikk,
 - d) a Bizottság 98/257/EK ajánlása (1998. március 30.) a fogyasztói jogviták bírósági eljáráson kívüli rendezésére hatáskörrel rendelkező testületekre vonatkozó elvekről,

@@ -4582,7 +4582,7 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 - 16. Tpt.: a tőkepiacról szóló 2001. évi CXX. törvény,
 - 17.
 - 18.
-- 19. Sztv.: a szövetkezetekről szóló 2006. évi X. törvény,
+- 19.
 - 20. Tétv.: a távértékesítés keretében kötött pénzügyi ágazati szolgáltatási szerződésekről szóló 2005. évi XXV. törvény,
 - 21. Vbt.: a választottbíráskodásról szóló 1994. évi LXXI. törvény,
 - 22. Vht.: a bírósági végrehajtásról szóló 1994. évi LIII. törvény.
