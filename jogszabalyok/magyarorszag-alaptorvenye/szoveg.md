@@ -196,7 +196,7 @@ Mindenki felelős önmagáért, képességei és lehetőségei szerint köteles 
 
 (3) Az Alaptörvény rendelkezéseit azok céljával, a benne foglalt Nemzeti hitvallással és történeti alkotmányunk vívmányaival összhangban kell értelmezni.
 
-(4) Magyarország alkotmányos önazonosságának és keresztény kultúrájának védelme az állam minden szervének kötelessége. Az alkotmányos önazonosság védelme érdekében sarkalatos törvénnyel létrehozott, független szerv működik.
+(4) Magyarország alkotmányos önazonosságának és keresztény kultúrájának védelme az állam minden szervének kötelessége.
 
 #### S) cikk
 
@@ -862,7 +862,7 @@ g) a köztársasági elnöki tisztségtől való megfosztással.
 
 (2) A miniszterelnök rendeletben a miniszterek közül egy vagy több miniszterelnök-helyettest jelöl ki.
 
-(3) A miniszterelnököt az Országgyűlés a köztársasági elnök javaslatára választja meg.
+(3) A miniszterelnököt az Országgyűlés a köztársasági elnök javaslatára választja meg. Nem választható meg miniszterelnöknek az, aki összesen – megszakításokkal együtt – már legalább nyolc évig miniszterelnöki megbízatást töltött be. E nyolcéves időtartam számításakor az 1990. május 2. vagy azután betöltött miniszterelnöki megbízatást kell figyelembe venni.
 
 (4) A miniszterelnök megválasztásához az országgyűlési képviselők több mint a felének szavazata szükséges. A miniszterelnök a megválasztásával hivatalba lép.
 
@@ -927,6 +927,8 @@ e) halálával;
 f) összeférhetetlenség kimondásával;
 
 g) ha a megválasztásához szükséges feltételek már nem állnak fenn.
+
+h) ha a miniszterelnöki megbízatást összesen legalább nyolc évig betöltötte.
 
 (3) A miniszter megbízatása megszűnik
 
@@ -1238,7 +1240,7 @@ l) törvényben meghatározott további feladat- és hatásköröket gyakorol.
 
 (5) Az állam és a helyi önkormányzatok tulajdonában álló gazdálkodó szervezetek törvényben meghatározott módon, önállóan és felelősen gazdálkodnak a törvényesség, a célszerűség és az eredményesség követelményei szerint.
 
-(6) A közfeladatot ellátó közérdekű vagyonkezelő alapítvány létrehozásáról, működéséről, megszüntetéséről, valamint közfeladata ellátásáról sarkalatos törvény rendelkezik.
+(6)
 
 #### 39. cikk
 
@@ -1658,4 +1660,10 @@ A 2025. január 1-jét megelőzően igazságügyi szervnél szolgálati jogviszo
 
 Az Alaptörvény tizennegyedik módosításával megállapított 26. cikk (2) bekezdésében meghatározott legalacsonyabb életkor követelményét a már kinevezett bírókra nem kell alkalmazni.
 
-*Mi, a 2010. április 25-én megválasztott Országgyűlés képviselői, Isten és ember előtti felelősségünk tudatában, élve alkotmányozó hatalmunkkal, Magyarország első egységes Alaptörvényét a fentiek szerint állapítjuk meg.
+#### 33.
+
+Az Alaptörvény tizenhatodik módosításának hatálybalépésekor működő közfeladatot ellátó közérdekű vagyonkezelő alapítvány (a továbbiakban: alapítvány) részére az állam által alapítóként, csatlakozóként vagy más jogcímen juttatott vagyon, illetve e vagyon hozama, valamint a mindezek helyébe lépett vagyon az alapítvány megszűnésekor ingyenesen az államra, mint általános jogutódra száll, továbbá megszűnik az állami tulajdonban álló vagyontárgy tekintetében a vagyonkezelői jog, illetve a közfeladathoz rendelt vagyonkezelői jog. Az alapítvány alapítói jogait az állam gyakorolja. Az alapítói jogok gyakorlója az alapítványt megszüntetheti. Az alapítvány működésének, megszüntetésének, közfeladatai és egyéb feladatai ellátásának szabályait törvény határozza meg.
+
+## *
+
+Mi, a 2010. április 25-én megválasztott Országgyűlés képviselői, Isten és ember előtti felelősségünk tudatában, élve alkotmányozó hatalmunkkal, Magyarország első egységes Alaptörvényét a fentiek szerint állapítjuk meg.
