@@ -242,46 +242,14 @@ a távollévők között kötött pénzügyi ágazati szolgáltatási szerződé
 
 (2) E törvény rendelkezéseit a hatálybalépését követően tett ajánlattételi felhívásokra, ajánlatokra és a hatálybalépését követően megkötött szerződésekre kell alkalmazni.
 
-19. § Hatályát veszti a távértékesítés keretében kötött pénzügyi ágazati szolgáltatási szerződésekről szóló 2005. évi XXV. törvény.
+#### 19. §
 
 20. § A 23. § (1) bekezdése az Alaptörvény 41. cikk (1), (2), (5) és (6) bekezdése alapján sarkalatosnak minősül.
 
 21. § Ez a törvény a 2011/83/EU irányelvnek a távollévők között kötött pénzügyi szolgáltatási szerződések tekintetében történő módosításáról és a 2002/65/EK irányelv hatályon kívül helyezéséről szóló, 2023. november 22-i (EU) 2023/2673 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
-22. § Hatályát veszti a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény 1. melléklet 19. pontja.
+#### 22. §
 
-23. § (1) A Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény (a továbbiakban: Mnbtv.) 39. § (1) bekezdés j) pontja helyébe a következő rendelkezés lép:
+#### 23. §
 
-(Ha törvény eltérően nem rendelkezik, az MNB a 4. § (9) bekezdésben meghatározott feladatkörében ellátja)
-
-„j) a távollévők között kötött pénzügyi ágazati szolgáltatási szerződésekről szóló törvény,”
-
-(hatálya alá tartozó szervezetek, személyek és tevékenységek felügyeletét.)
-
-(2) Az Mnbtv. 41. § (1) bekezdés c) pontja helyébe a következő rendelkezés lép:
-
-(Az MNB látja el a 4. § (9) bekezdésében meghatározott feladatkörében a fogyasztóvédelmi jogszabályok végrehajtásáért felelős nemzeti hatóságok közötti együttműködésről és a 2006/2004/EK rendelet hatályon kívül helyezéséről szóló, 2017. december 12-i (EU) 2017/2394 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2017/2394 rendelet] végrehajtását)
-
-„c) a 2011/83/EU irányelvnek a távollévők között kötött pénzügyi szolgáltatási szerződések tekintetében történő módosításáról és a 2002/65/EK irányelv hatályon kívül helyezéséről szóló, 2023. november 22-i (EU) 2023/2673 európai parlamenti és tanácsi irányelvet,”
-
-(átültető tagállami jogszabályokba ütköző Európai Gazdasági Térség (a továbbiakban: EGT) államán belüli jogsértések tekintetében.)
-
-(3) Az Mnbtv. 185. §-a a következő 28. ponttal egészül ki:
-
-(Ez a törvény)
-
-„28. a 2011/83/EU irányelvnek a távollévők között kötött pénzügyi szolgáltatási szerződések tekintetében történő módosításáról és a 2002/65/EK irányelv hatályon kívül helyezéséről szóló, 2023. november 22-i (EU) 2023/2673 európai parlamenti és tanácsi irányelvnek”
-
-(való megfelelést szolgálja.)
-
-(4) Hatályát veszti az Mnbtv. 186. § (6) bekezdés a) pontja.
-
-24. § (1) A biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény (a továbbiakban: Bit.) 4. § (1) bekezdés 121. pontja helyébe a következő rendelkezés lép:
-
-(E törvény alkalmazásában:)
-
-„121. tartós adathordozó: a távollévők között kötött pénzügyi ágazati szolgáltatási szerződésekről szóló törvényben meghatározott fogalom azzal, hogy a tárolt adatok változatlan formában többszörözhetőek;”
-
-(2) A Bit. 152. § (3c) bekezdése helyébe a következő rendelkezés lép:
-
-„(3c) Hívás útján történő értékesítés esetében az (1) bekezdés szerinti tájékoztatás – a biztosítási termékismertetőt is beleértve – összhangban van a távollévők között kötött pénzügyi ágazati szolgáltatási szerződésekről szóló törvénnyel és a vonatkozó uniós szabályokkal.”
+#### 24. §
