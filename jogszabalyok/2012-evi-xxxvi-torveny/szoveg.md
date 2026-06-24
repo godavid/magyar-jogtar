@@ -1478,40 +1478,38 @@ titoktartási nyilatkozat nélkül, a minősített adat védelmére vonatkozó k
 
 #### 36. A képviselő tiszteletdíja
 
-104. § (1) A képviselő havonta tiszteletdíjra jogosult. A tárgyév március 1-jétől a következő év február végéig terjedő időszakra megállapított képviselői tiszteletdíj havonta a Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset háromszorosának megfelelő összeg.
+104. § (1) A képviselő havonta tiszteletdíjra jogosult. A tárgyév március 1-jétől a következő év február végéig terjedő időszakra megállapított képviselői tiszteletdíj havonta a Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset 1,8-szorosának megfelelő összeg.
 
 (2) Az (1) bekezdéstől eltérően, ha a képviselő
 
-- a) egy állandó bizottság vagy a nemzetiségeket képviselő bizottság tagja, tiszteletdíja az (1) bekezdésben meghatározott összeg 1,2-szerese,
-- b) a törvényalkotási bizottság vagy legalább kettő, a 14. § (1) bekezdés a) pontja szerinti bizottság tagja, tiszteletdíja az (1) bekezdésben meghatározott összeg 1,4-szerese.
+- a) egy állandó bizottság vagy a nemzetiségeket képviselő bizottság tagja, tiszteletdíja az (1) bekezdésben meghatározott összeg 1,8-szorosa,
+- b) a törvényalkotási bizottság vagy legalább két állandó bizottság tagja, tiszteletdíja az (1) bekezdésben meghatározott összeg kétszerese.
 
-(3)
+(3) A képviselő az (1) bekezdés szerinti tiszteletdíjra az eskütételétől a megbízatásának megszűnéséig, a (2) bekezdés szerinti tiszteletdíjra a bizottsági, illetve a további bizottsági tagsági megbízatás időtartamára jogosult.
 
-(4) A képviselő az (1) bekezdés szerinti tiszteletdíjra az eskütételétől a megbízatásának megszűnéséig, a (2) bekezdés szerinti tiszteletdíjra a bizottsági, illetve a további bizottsági tagsági megbízatás időtartamára jogosult.
+(4) A képviselőcsoport vezetője képviselőcsoport-vezetői megbízatásának időtartamára az (1) bekezdésben meghatározott tiszteletdíj 2,65-szörösének megfelelő összegű tiszteletdíjra jogosult.
 
-(4a)
+(5) A képviselőcsoport vezetőjének helyettese (a továbbiakban: képviselőcsoportvezető-helyettes) a képviselőcsoportvezető-helyettesi megbízatásának időtartamára az (1) bekezdésben meghatározott tiszteletdíj 2,4-szeresének megfelelő összegű tiszteletdíjra jogosult. Az e bekezdésben meghatározott tiszteletdíjra képviselőcsoportonként minden megkezdett huszonöt tag után egy-egy képviselőcsoportvezető-helyettes jogosult.
 
-(5) A képviselőcsoport vezetője képviselőcsoportvezetői megbízatásának időtartamára az (1) bekezdésben meghatározott tiszteletdíj kétszeresének megfelelő összegű tiszteletdíjra jogosult.
+(6) A képviselőcsoport a 115. § (4) bekezdésében meghatározott keret terhére azoknak a képviselőcsoportvezető-helyetteseknek, akik nem részesülnek az (5) bekezdés szerinti tiszteletdíjban, az (1) vagy (2) bekezdésben meghatározott tiszteletdíjon felül külön juttatást állapíthat meg. Ebben az esetben a képviselőcsoportvezető-helyettest az (1) vagy (2) bekezdés alapján megillető képviselői tiszteletdíj, valamint a tiszteletdíjon felüli külön juttatás együttes összege nem haladhatja meg az (5) bekezdésben meghatározott összeget. Az e bekezdés szerinti juttatásban legfeljebb az (5) bekezdésben foglaltaknak megfelelő számú képviselőcsoportvezető-helyettes részesülhet.
 
-(6) A képviselőcsoport vezetőjének helyettese (a továbbiakban: képviselőcsoportvezető-helyettes) a képviselőcsoportvezető-helyettesi megbízatásának időtartamára az (1) bekezdésben meghatározott tiszteletdíj 1,7-szeresének megfelelő összegű tiszteletdíjra jogosult. Az e bekezdésben meghatározott tiszteletdíjra képviselőcsoportonként minden megkezdett huszonöt tag után egy-egy képviselőcsoportvezető-helyettes jogosult.
+(7) A képviselőcsoportnak – az (5) és (6) bekezdés hatálya alá nem tartozó – további képviselőcsoportvezető-helyettesei külön juttatásban nem részesülhetnek, és számuk nem haladhatja meg a képviselőcsoport létszámának 20%-át.
 
-(7) A képviselőcsoport a 115. § (4) bekezdésében meghatározott keret terhére azoknak a képviselőcsoportvezető-helyetteseknek, akik nem részesülnek a (6) bekezdés szerinti tiszteletdíjban, az (1) vagy (2) bekezdésben meghatározott tiszteletdíjon felül külön juttatást állapíthat meg. Ebben az esetben a képviselőcsoportvezető-helyettest az (1) vagy (2) bekezdés alapján megillető képviselői tiszteletdíj, valamint a tiszteletdíjon felüli külön juttatás együttes összege nem haladhatja meg a (6) bekezdésben meghatározott összeget. Az e bekezdés szerinti juttatásban legfeljebb a (6) bekezdésben foglaltaknak megfelelő számú képviselőcsoportvezető-helyettes részesülhet.
+(8) A képviselőcsoport vezetője és a képviselőcsoportvezető-helyettes a (4)–(6) bekezdésben meghatározott tiszteletdíjra a megbízatás keletkezésének bejelentésétől a megbízatás megszűnésének bejelentéséig jogosult.
 
-(8) A képviselőcsoportnak – a (6) és (7) bekezdés hatálya alá nem tartozó – további képviselőcsoportvezető-helyettesei külön juttatásban nem részesülhetnek, és számuk nem haladhatja meg a képviselőcsoport létszámának 20%-át.
+105. § (1) Az alelnök tiszteletdíja a 104. § (1) bekezdésében meghatározott összeg 2,4-szerese.
 
-(9) A képviselőcsoport vezetője és a képviselőcsoportvezető-helyettes az (5)–(7) bekezdésben meghatározott tiszteletdíjra a megbízatás keletkezésének bejelentésétől a megbízatás megszűnésének bejelentéséig jogosult.
+(2) A 14. § (1) bekezdés a) pontja szerinti bizottság elnökének tiszteletdíja a 104. § (1) bekezdésében meghatározott összeg 2,4-szerese.
 
-105. § (1) Az alelnök tiszteletdíja a 104. § (1) bekezdésében meghatározott összeg kétszerese.
+(3) Az Interparlamentáris Unió Magyar Nemzeti Csoportjának elnöke, valamint a jegyző tiszteletdíja a 104. § (1) bekezdésében meghatározott összeg 2,2-szerese.
 
-(2) A 14. § (1) bekezdés a) pontja szerinti bizottság elnöke, az Interparlamentáris Unió Magyar Nemzeti Csoportjának elnöke, valamint a jegyző tiszteletdíja a 104. § (1) bekezdésében meghatározott összeg 1,7-szerese.
+(4) A 14. § (1) bekezdés a) pontja szerinti bizottság alelnökének tiszteletdíja a 104. § (1) bekezdésében meghatározott összeg 2,2-szerese.
 
-(3) A 14. § (1) bekezdés a) pontja szerinti bizottság alelnökének tiszteletdíja a 104. § (1) bekezdésében meghatározott összeg 1,5-szerese.
+(5) Az Interparlamentáris Unió Magyar Nemzeti Csoportjának alelnöke tiszteletdíjra nem jogosult.
 
-(4) Az Interparlamentáris Unió Magyar Nemzeti Csoportjának alelnöke az Interparlamentáris Unió Magyar Nemzeti Csoportjának erre irányuló döntése esetén tiszteletdíjban részesíthető. Az alelnök tiszteletdíja a 104. § (1) bekezdésében meghatározott összeg 1,4-szerese.
+(6) Az alelnök, a képviselői megbízatással rendelkező háznagy, a 14. § (1) bekezdés a) pontja szerinti bizottság elnöke és alelnöke, az Interparlamentáris Unió Magyar Nemzeti Csoportjának elnöke, valamint a jegyző az (1)–(4) bekezdésben meghatározott tiszteletdíjra a megbízatásának időtartamára jogosult.
 
-(5) Az alelnök, a képviselői megbízatással rendelkező háznagy, a 14. § (1) bekezdés a) pontja szerinti bizottság elnöke és alelnöke, az Interparlamentáris Unió Magyar Nemzeti Csoportjának elnöke, valamint a jegyző az (1)–(3) bekezdésben meghatározott tiszteletdíjra a megbízatásának időtartamára jogosult. Az Interparlamentáris Unió Magyar Nemzeti Csoportjának alelnöke a (4) bekezdésben meghatározott tiszteletdíjra a (4) bekezdés szerinti döntés napjától az alelnök megbízatásának időtartamára jogosult.
-
-(6) Ha a képviselő egyidejűleg több, a 4. § (6) bekezdésében, a 104. §-ban, az e §-ban vagy a 120. §-ban meghatározott megbízatással rendelkezik, a magasabb összegű tiszteletdíjra jogosult.
+(7) Ha a képviselő egyidejűleg több, a 4. § (6) bekezdésében, a 104. §-ban, az e §-ban vagy a 120. §-ban meghatározott megbízatással rendelkezik, a magasabb összegű tiszteletdíjra jogosult.
 
 106. § (1) A képviselő – az e törvényben meghatározottak kivételével – állami szervtől egyéb jogcímen díjazásban nem részesülhet.
 
@@ -1569,11 +1567,19 @@ titoktartási nyilatkozat nélkül, a minősített adat védelmére vonatkozó k
 
 109. § (1) A képviselő az általa – a saját vagy hozzátartozója használati jogát igazoló közokirat vagy teljes bizonyító erejű magánokirat alapján – megjelölt személygépkocsi forgalmi rendszámára szóló – egy, az Országgyűlés Hivatala által biztosított, másra át nem ruházható, készpénzre nem átváltható –, üzemanyagtöltő állomáson felhasználható üzemanyagkártya (a továbbiakban: üzemanyagkártya) használatára jogosult. Nem jogosult az Országgyűlés Hivatala által biztosított üzemanyagkártyára az a képviselő, aki e törvény vagy jogszabály alapján személygépkocsit használ.
 
-(2) Az üzemanyagkártya feltöltése havonta történik az állami adóhatóság által közzétett, az üzemanyagköltség-elszámolással kapcsolatosan alkalmazható üzemanyagárak figyelembevételével. Az üzemanyagkártyával felhasználható összeg kiszámításánál a közúti gépjárművek üzemanyag- és kenőanyag-fogyasztásának igazolás nélkül elszámolható mértékéről szóló jogszabályban meghatározott, legfeljebb 2000 cm3 hengerűrtartalmú személygépkocsira vonatkozó üzemanyag-fogyasztási norma vehető figyelembe. Az autógázzal üzemelő tiszta gázüzemű, a kettős üzemű, valamint a hibrid hajtású személygépkocsi esetében a benzinüzemű személygépkocsira vonatkozó üzemanyag-fogyasztási norma szerint számított összeget kell alapul venni.
+(2) Az üzemanyagkártya feltöltése havonta történik az állami adóhatóság által közzétett, az üzemanyagköltség-elszámolással kapcsolatosan alkalmazható üzemanyagárak figyelembevételével. Az üzemanyagkártyával felhasználható összeg kiszámításánál a közúti gépjárművek üzemanyag- és kenőanyag-fogyasztásának igazolás nélkül elszámolható mértékéről szóló jogszabályban meghatározott, legfeljebb 2000 cm3 hengerűrtartalmú személygépkocsira vonatkozó üzemanyag-fogyasztási alapnorma-átalány vehető figyelembe.
+
+(2a) A (2) bekezdés szerinti felhasználható havi összeg kiszámításához
+
+- a) a benzin-hibrid, valamint a plug-in hibrid hajtású személygépkocsi esetében a benzinüzemű,
+- b) a gázolaj-hibrid hajtású személygépkocsi esetében a gázolajüzemű,
+- c) a teljesen elektromos személygépkocsi esetén a 2000 cm3 hengerűrtartalmú, benzinüzemű
+
+személygépkocsira vonatkozó üzemanyag-fogyasztási alapnorma-átalányt kell figyelembe venni.
 
 (3) A (2) bekezdésben meghatározott összeg havonta – ha a képviselőnek a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerinti lakóhelye
 
-- a) Budapesten van – 2500 km-re,
+- a) Budapesten van – 0 km-re,
 - b) Budapesttől 1 és 100 km között van – 4000 km-re,
 - c) Budapesttől 101 és 200 km között van – 5000 km-re,
 - d) Budapesttől 201 és 300 km között van – 6000 km-re,
@@ -1594,9 +1600,18 @@ emelkedik.
 
 (5) A (3) bekezdés szerinti besorolásnál a Budapest és a számítás alapjául szolgáló település közötti – autópálya, illetve autóút, ennek hiányában egyéb főközlekedési útvonal igénybevételével számított – legrövidebb közúti távolságot kell figyelembe venni.
 
-(6) Az üzemanyagkártya felhasználható a közutak használatáért fizetendő használati díj, útdíj, valamint az üzemanyagtöltő állomáson az autó karbantartását biztosító szolgáltatás ellenértékének kiegyenlítésére is.
+(6) Az üzemanyagkártya a kibocsátója szerinti üzemanyagtöltő-állomáson üzemanyag-, illetve áramtöltésen túl felhasználható a közutak használatáért fizetendő útdíj, valamint az autó karbantartását biztosító szolgáltatás ellenértékének kiegyenlítésére is.
 
-(7) A képviselő az üzemanyagkártyával felhasználható összeg (keret) erejéig jogosult a teljesen elektromos meghajtású gépjármű töltésére fordított, valamint a belföldi közforgalmú közösségi közlekedési eszköz igénybevételére jogosító helyi és helyközi bérlet, valamint helyközi menetjegy – számlával igazolt – költségeinek megtérítésére is. Ha a képviselő az üzemanyagkártyára való jogosultságáról lemond, az e bekezdés szerinti költségtérítés összege nem haladhatja meg az (1)–(5) bekezdés alapján, egy 2000 cm3 hengerűrtartalmú, benzinüzemű személygépkocsira vonatkozó üzemanyag-fogyasztási norma szerint számított összeget.
+(6a) A Budapesten a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerinti lakóhellyel nem rendelkező képviselő a (2)–(4) bekezdés figyelembevételével megállapított havi összeg erejéig számla ellenében
+
+- a) abban az esetben is jogosult az áramtöltés költségének megtérítésére, ha teljesen elektromos meghajtású gépjárművének töltését nem az üzemanyagkártya kibocsátója szerinti üzemanyagtöltő-állomáson végzi,
+- b) a (6) bekezdésben foglaltakon túl jogosult a belföldi közforgalmú közösségi közlekedési eszköz igénybevételére jogosító helyi és helyközi bérlet, valamint helyközi menetjegy költségeinek megtérítésére is.
+
+(7) Ha az üzemanyagkártya használatára jogosult, Budapesten a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerinti lakóhellyel nem rendelkező képviselő az üzemanyagkártyát nem veszi igénybe, a (6a) bekezdés b) pontja szerinti közösségi közlekedésre felhasználható havi összeg megállapításához a (3) és a (4) bekezdésben foglaltakat, valamint a (2a) bekezdés c) pontja szerinti alapnorma-átalányt kell figyelembe venni. A felhasznált összeg képviselő részére történő megtérítése számla ellenében történik.
+
+(7a) A (3) bekezdés a) pontjától eltérően a Budapesten a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerinti lakóhellyel rendelkező nemzetiségi képviselő és nemzetiségi szószóló havonta 2500 km-re elegendő üzemanyag ellenértékének megfelelő összeg felhasználására jogosult, és ennek terhére igénybe veheti a (6a) bekezdés szerinti költségek megtérítését is.
+
+(7b) A (7) bekezdésben foglaltakat a Budapesten a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerinti lakóhellyel rendelkező nemzetiségi képviselőre és nemzetiségi szószólóra is alkalmazni kell.
 
 (8) Az alelnök és – a 113. § (1) és (1a) bekezdésében foglalt keret terhére – a képviselőcsoport vezetője személyi, illetve hivatali célra személygépkocsi használatára jogosult. Az alelnök részére a személygépkocsit és használatának költségeit az Országgyűlés Hivatala biztosítja.
 
@@ -1606,7 +1621,7 @@ emelkedik.
 
 (1a) Ha a képviselő közjogi tisztségviselőként lakáshasználatra vagy budapesti lakhatásával összefüggésben támogatásra vagy egyéb juttatásra jogosult, az (1) bekezdés alapján kérheti az Országgyűlés Hivatala által biztosított budapesti lakóház vagy lakás használatát, amennyiben a közjogi tisztségviselőként őt megillető lakhatással kapcsolatos jogosultságairól lemond.
 
-(2) Ha az (1) és (1a) bekezdésben foglaltakat az Országgyűlés Hivatala nem a vagyonkezelésében lévő lakóház vagy lakás használatba adásával biztosítja, abban az esetben a megfelelő lakóház vagy lakás használatba adásának biztosítására az Országgyűlés Hivatala havonta legfeljebb a 104. § (1) bekezdésében meghatározott tiszteletdíj 35%-ának megfelelő összeget használhat fel, amely kiterjed a földgáz, villamos energia, ivóvíz, távhő, csatorna- és hulladékkezelési szolgáltatások beszerzésével összefüggő kiadások teljesítésére is. A lakóház vagy lakás rendeltetésszerű használata során felmerülő egyéb költségek a képviselőt terhelik. A nem rendeltetésszerű használat során bekövetkezett károkért a képviselő felelős.
+(2) Ha az (1) és (1a) bekezdésben foglaltakat az Országgyűlés Hivatala nem a vagyonkezelésében lévő lakóház vagy lakás használatba adásával biztosítja, abban az esetben a megfelelő lakóház vagy lakás használatba adásának biztosítására az Országgyűlés Hivatala havonta legfeljebb a 104. § (1) bekezdésében meghatározott tiszteletdíj 40%-ának megfelelő összeget használhat fel, amely kiterjed a földgáz, villamos energia, ivóvíz, távhő, csatorna- és hulladékkezelési szolgáltatások beszerzésével összefüggő kiadások teljesítésére is. A lakóház vagy lakás rendeltetésszerű használata során felmerülő egyéb költségek a képviselőt terhelik. A nem rendeltetésszerű használat során bekövetkezett károkért a képviselő felelős.
 
 (2a) Bármely képviselő, illetve közeli hozzátartozója, valamint a 111. § (3) bekezdésében meghatározott személyek, illetve közeli hozzátartozóik tulajdonában lévő ingatlan, továbbá e személyek
 
@@ -1620,7 +1635,7 @@ a (2) bekezdésben foglaltak biztosítására nem használható.
 
 (2b) A (2a) bekezdésben foglaltakon túl a (2) bekezdésben foglaltak biztosítására nem használható olyan ingatlan, amely olyan gazdasági társaság tulajdonában van, amelyben bármely képviselő közeli hozzátartozója vagy a 111. § (3) bekezdésében meghatározott személyek, illetve ezek közeli hozzátartozója a gazdasági társaság vezető tisztségviselője, cégvezetője, ügyvezetője, felügyelőbizottsági tagja.
 
-(3) Ha a képviselő az (1) és (1a) bekezdésben foglaltakat nem veszi igénybe, a képviselői tevékenységének ellátásához szükséges budapesti tartózkodásának időtartamára, kérelmére, havonta legfeljebb a 104. § (1) bekezdésében meghatározott tiszteletdíj 35%-ának megfelelő összeg erejéig, az Országgyűlés Hivatala által Budapesten biztosított, megfelelő szállodai szálláshelyen lévő szállodai szobaegység használatára jogosult. A képviselői tevékenység ellátásához szükséges budapesti tartózkodás biztosítására az e bekezdésben meghatározott összegtől magasabb mértékű összeg a képviselőcsoport vezetője által meghatalmazott személy jóváhagyásával, a képviselőcsoport 113. § (1) és (1a) bekezdésében meghatározott kerete terhére használható fel.
+(3) Ha a képviselő az (1) és (1a) bekezdésben foglaltakat nem veszi igénybe, a képviselői tevékenységének ellátásához szükséges budapesti tartózkodásának időtartamára, kérelmére, havonta legfeljebb a 104. § (1) bekezdésében meghatározott tiszteletdíj 40%-ának megfelelő összeg erejéig, az Országgyűlés Hivatala által Budapesten biztosított, megfelelő szállodai szálláshelyen lévő szállodai szobaegység használatára jogosult. A képviselői tevékenység ellátásához szükséges budapesti tartózkodás biztosítására az e bekezdésben meghatározott összegtől magasabb mértékű összeg a képviselőcsoport vezetője által meghatalmazott személy jóváhagyásával, a képviselőcsoport 113. § (1) és (1a) bekezdésében meghatározott kerete terhére használható fel.
 
 (4) Az alelnök, illetve a képviselőcsoport vezetője – kérelmére – budapesti hivatali lakás használatára jogosult, ha ő vagy a vele közös háztartásban élő közeli hozzátartozója Budapesten vagy közvetlen vonzáskörzetében az ingatlan-nyilvántartásban lakóház vagy lakás megnevezéssel nyilvántartott ingatlannal nem rendelkezik.
 
@@ -1646,7 +1661,7 @@ az (1) bekezdésben foglaltak biztosítására nem használható.
 
 (3a) A képviselő az Országgyűlés Hivatalán keresztül térítésmentesen jogosult a saját, valamint a (3) bekezdés szerinti személyek tevékenységének ellátásához szükséges felszerelésre és eszközökre.
 
-(4) A képviselő az Országgyűlés Hivatalán keresztül jogosult térítésmentesen igénybe venni a képviselői tevékenységének ellátásához szükséges postai és elektronikus hírközlési szolgáltatásokat. A képviselő az Országgyűlés Hivatalán keresztül jogosult havonta legfeljebb a 104. § (1) bekezdésében meghatározott tiszteletdíj 5%-ának megfelelő összeg erejéig mobiltelefon-szolgáltatás igénybevételére, amelyhez az Országgyűlés Hivatala biztosít megfelelő készüléket. A készülékkel – mobil fizetési rendszeren keresztül – megvalósuló, a közúti közlekedésről szóló törvény szerinti várakozás biztosítását célzó parkolási szolgáltatás igénybevételéhez az Országgyűlés Hivatala pénzügyi fedezetet nem biztosít. Az Országgyűlés Hivatala a képviselő számára biztosítja a minősített elektronikus aláírás használatának lehetőségét és feltételeit.
+(4) A képviselő az Országgyűlés Hivatalán keresztül jogosult térítésmentesen igénybe venni a képviselői tevékenységének ellátásához szükséges, a (3a) bekezdés szerinti, a képviselő saját használatára szolgáló felszereléshez és eszközhöz, valamint a 114. § (1) bekezdés a) pontja szerinti irodákhoz kapcsolódó elektronikus hírközlési szolgáltatásokat, továbbá a postai szolgáltatásokat. A képviselő számára mobiltelefon-szolgáltatás igénybevételéhez az Országgyűlés Hivatala biztosít megfelelő készüléket, a szolgáltatás Országgyűlés Hivatala által rendelkezésre bocsátott SIM-kártyával történő igénybevételéhez az Országgyűlés Hivatala pénzügyi fedezetet nem biztosít, az igénybevételnek megfelelő összeg havonta a tiszteletdíjból levonásra kerül. Az Országgyűlés Hivatala a képviselő számára biztosítja a minősített elektronikus aláírás használatának lehetőségét és feltételeit.
 
 (5) A képviselő jogosult térítésmentesen igénybe venni az Országgyűlés Hivatala által működtetett elemző, információs és dokumentációs szolgáltatásokat.
 
@@ -1654,9 +1669,9 @@ az (1) bekezdésben foglaltak biztosítására nem használható.
 
 112. § (1) A képviselőnek a 109–111. §-ban meghatározott pénzügyi feltételeket, juttatásokat, a képviselői tevékenységéhez kapcsolódó támogatásokat, valamint e juttatásokhoz és támogatásokhoz szükséges adminisztrációs feladatokat az Országgyűlés Hivatala a képviselő eskütételétől megbízatásának megszűnéséig biztosítja.
 
-(2) A képviselő 111. § (1) bekezdése szerinti jogosultságaira az Országgyűlés Hivatala havonta legfeljebb a 104. § (1) bekezdésében meghatározott tiszteletdíj 100%-ának megfelelő összeget biztosít.
+(2) A képviselő 111. § (1) bekezdése szerinti jogosultságaira az Országgyűlés Hivatala havonta legfeljebb a 104. § (1) bekezdésében meghatározott tiszteletdíj 80%-ának megfelelő összeget biztosít.
 
-(3) A képviselő 111. § (3) bekezdésében meghatározott juttatásainak fedezetét az Országgyűlés Hivatala úgy biztosítja, hogy a képviselő havonta a 104. § (1) bekezdésében meghatározott tiszteletdíj 3,3-szorosának megfelelő összegű keretre jogosult, amely nem tartalmazza a kifizetőt terhelő közterheket.
+(3) A képviselő 111. § (3) bekezdésében meghatározott juttatásainak fedezetét az Országgyűlés Hivatala úgy biztosítja, hogy a képviselő havonta a 104. § (1) bekezdésében meghatározott tiszteletdíj 3,85-szeresének megfelelő összegű keretre jogosult, amely nem tartalmazza a kifizetőt terhelő közterheket.
 
 (4) A képviselő tevékenységét segítő alkalmazottak − az Országgyűlés Hivatala ellenjegyzésével − határozott idejű szerződéssel, a képviselő mandátuma alatt munkaviszonyban vagy polgári jogi jogviszonyban foglalkoztathatók. Munkaviszony esetén a munkáltató és a munkáltatói jogkör gyakorlója, polgári jogi jogviszony esetén a megbízó
 
@@ -1700,9 +1715,9 @@ a jogviszony megszűnésétől számított egy évig kezeli.
 
 (8) A képviselő megbízatásának időtartama alatt – a (9) bekezdésben foglalt kivétellel – jogosult az ezen alcím alapján nyújtott juttatások és támogatások havi keretmaradványát a jogosultsági hónapot követően – a havonta felhasználható összeget meghaladóan – is felhasználni.
 
-(9) A 109. § (1) bekezdése, a 111. § (1) és (4) bekezdése szerinti juttatás képviselő által fel nem használt – tárgyév december 31-én vagy a képviselő megbízatásának megszűnésekor fennálló – keretmaradványa a tárgyévet követő év január 1-jei hatállyal, illetve a képviselői megbízatás megszűnésekor a képviselőcsoportjának a 113. § (1) és (1a) bekezdése szerinti keretére kerül átcsoportosításra. Az e bekezdésben meghatározottakat a független képviselő esetében megfelelően alkalmazni kell.
+(9) A 109. § (1) bekezdése, a 111. § (1) bekezdése szerinti juttatás képviselő által fel nem használt – tárgyév december 31-én vagy a képviselő megbízatásának megszűnésekor fennálló – keretmaradványa a tárgyévet követő év január 1-jei hatállyal, illetve a képviselői megbízatás megszűnésekor a képviselőcsoportjának a 113. § (1) és (1a) bekezdése szerinti keretére kerül átcsoportosításra. Az e bekezdésben meghatározottakat a független képviselő esetében megfelelően alkalmazni kell.
 
-(10) Az ezen alcím alapján nyújtott juttatások és támogatások fedezetére biztosított keret összegének túllépése esetén a jogosulatlanul igénybevett összeg, valamint a 111. § (4) bekezdése szerinti parkolási szolgáltatás díja – a havi elszámolást követően – levonásra kerül a képviselő tiszteletdíjából, illetve a képviselő azt az Országgyűlés Hivatalának visszafizeti.
+(10) Az ezen alcím alapján nyújtott juttatások és támogatások fedezetére biztosított keret túllépése, valamint jogosulatlanul igénybe vett szolgáltatás esetén – a havi elszámolást követően – az összeg levonásra kerül a képviselő tiszteletdíjából, illetve a képviselő azt az Országgyűlés Hivatalának visszafizeti.
 
 #### 38. A képviselőcsoport működési feltételeinek biztosítása
 
@@ -1761,9 +1776,13 @@ felső- vagy középfokú iskolai végzettségű, az Országgyűlés Hivatalán�
 
 116. § A képviselőcsoport és a független képviselő által a 113. §-ban és a 114. § (3) bekezdésében meghatározott keret terhére vásárolt tárgyi eszközök az Országgyűlés Hivatala tulajdonát képezik. A képviselőcsoport a képviselőcsoport működésének, a független képviselő a megbízatásának időtartama alatt e tárgyi eszközöket birtokolhatja.
 
+116/A. § (1) A képviselőcsoport a 113. § (1) és (1a) bekezdése, valamint a 114. § szerinti keretek terhére a 104. § (1) bekezdésében meghatározott tiszteletdíj tizenkétszeresét meg nem haladó egyedi bekerülési értékű immateriális jószág, tárgyi eszköz beszerzésére jogosult.
+
+(2) A független képviselő esetében az (1) bekezdésben foglaltakat megfelelően alkalmazni kell.
+
 117. § A képviselőcsoport működési feltételeinek biztosítását szolgáló, 113–115. §-ban meghatározott támogatásokat az Országgyűlés Hivatala biztosítja.
 
-118. § (1) A képviselőcsoport vezetője a 112. § (4) bekezdése szerint rá átruházott keret, illetve a 113. § (1) és (1a) bekezdésében, a 114. § (3) bekezdésében és a 115. § (4) és (6) bekezdésében meghatározott keretek között év közben átcsoportosítást hajthat végre.
+118. § (1) A képviselőcsoport vezetője a 112. § (4) bekezdése szerint rá átruházott keret, illetve a 113. § (1) és (1a) bekezdésében, a 114. § (3) bekezdésében és a 115. § (4) és (6) bekezdésében meghatározott keretek hó végi maradványait év közben átcsoportosíthatja.
 
 (2) A 112. § (4) bekezdése szerint a képviselőcsoport vezetőjére átruházott keret és a 115. § (4) és (6) bekezdésében meghatározott keret javára történő átcsoportosítás esetén az Országgyűlés Hivatalának főigazgatója az átcsoportosított összeg erejéig az Országgyűlés Hivatala dologi kiadások és személyi juttatások költségvetési kiadási előirányzata között átcsoportosítást hajthat végre, és ennek keretében a személyi juttatások költségvetési kiadási előirányzatot az átcsoportosított összeg erejéig növelheti.
 
@@ -1771,15 +1790,13 @@ felső- vagy középfokú iskolai végzettségű, az Országgyűlés Hivatalán�
 
 (4) Az (1) bekezdésben meghatározott átcsoportosítások során a munkáltatót terhelő járulékok összegét is figyelembe kell venni.
 
-(5) A képviselőcsoport havonta, tárgyhónapot megelőző hónap 20-ig tájékoztatja az Országgyűlés Hivatalát a tárgyhónapra vonatkozó, az (1) bekezdésben meghatározott átcsoportosításokról.
+(5) A képviselőcsoport minden hónap 20. napjáig tájékoztatja az Országgyűlés Hivatalát az (1) bekezdésben meghatározott átcsoportosításokról.
 
-(5a) A képviselőcsoport megalakulásától megszűnéséig jogosult a működési feltételeinek biztosítását szolgáló, 113–115. §-ban meghatározott támogatások havi keretmaradványát a jogosultsági hónapot követően is felhasználni. Ha a képviselőcsoport az Országgyűlés megbízatásának megszűnésével szűnik meg, a megszűnés időpontjában – a 112. § (3) bekezdése szerinti keret vonatkozásában is – fennálló keretmaradvány felhasználására a következő Országgyűlésben is képviselettel rendelkező ugyanazon párt – önállóan, vagy más párttal közösen alakított – képviselőcsoportja jogosult.
+(5a) A képviselőcsoport megalakulásától megszűnéséig jogosult a működési feltételeinek biztosítását szolgáló, 113–115. §-ban meghatározott támogatások havi keretmaradványát a jogosultsági hónapot követően is felhasználni.
 
 (6) A független képviselő esetében az (1)–(5a) bekezdésben meghatározottakat megfelelően alkalmazni kell.
 
-118/A. § (1) A képviselőcsoport az országos listán mandátumot szerzett pártja részére a 118. § (5a) bekezdése szerinti keretmaradvány terhére támogatást nyújthat.
-
-(2) A támogatás támogatási igény nélkül, egyedi döntés alapján, támogatói okirattal nyújtható. A támogatásról az országgyűlési képviselőcsoport vezetője dönt. A támogatás rendelkezésre bocsátása a keretek közötti szükséges átcsoportosításokat követően a képviselőcsoport előirányzat-felhasználási keretszámlájáról történhet. A támogatást a kedvezményezett hitelintézetnél vezetett fizetési számlájára történő átutalással kell teljesíteni.
+#### 118/A. §
 
 #### 39. A volt képviselő juttatásai
 
@@ -1796,7 +1813,7 @@ felső- vagy középfokú iskolai végzettségű, az Országgyűlés Hivatalán�
 
 #### 40. A házelnök és a volt házelnök javadalmazása
 
-120. § A házelnök tiszteletdíja a 104. § (1) bekezdésében meghatározott összeg 2,7-szerese. A házelnök egyéb juttatásaira – a 122. §-ban foglalt eltérésekkel – a miniszterelnök juttatásaira vonatkozó szabályokat kell alkalmazni.
+120. § A házelnök tiszteletdíja a 104. § (1) bekezdésében meghatározott összeg 2,91-szerese. A házelnök egyéb juttatásaira – a 122. §-ban foglalt eltérésekkel – a miniszterelnök juttatásaira vonatkozó szabályokat kell alkalmazni.
 
 121. § (1) Ha a házelnök megbízatása megszűnt, jogosult az e megbízatására utaló elnevezést használni.
 
@@ -2578,11 +2595,13 @@ továbbítható a megkereső, illetve adatszolgáltatást kérő, az eljárásra
 
 145/G. § A Módtv.6.-tal módosított 113. § (1) bekezdés b) pontjában, és a 114. § (3) bekezdésében foglalt rendelkezéseket első alkalommal a 2025. január hónapra járó keretek összege tekintetében, a 115. § (2) és (4) bekezdésében foglaltakat a 2024. december hónapra járó bérkeret tekintetében kell alkalmazni.
 
+145/H. § Az Országgyűlésről szóló 2012. évi XXXVI. törvény és az azzal összefüggő egyes törvények költségcsökkentéssel kapcsolatos módosításáról szóló 2026. évi XVII. törvénnyel megállapított rendelkezéseket első alkalommal a 2026. július hónapra járó tiszteletdíjak, egyéb juttatások és támogatások tekintetében kell alkalmazni.
+
 #### 52. Sarkalatossági záradék
 
 146. § (1) A 12. alcím és a 157. § az Alaptörvény 2. cikk (2) bekezdése alapján sarkalatosnak minősül.
 
-(2) A 4. § (6) bekezdése, a 18. alcím – az 51/B. § kivételével –, a 18/A. alcím, a Harmadik rész, a 36. és 37. alcím, a 120. §, a 145. § (8), (13), (14) és (16) bekezdése, a 145/B. §, a 145/C. §, a 145/D. §, a 145/E. §, a 145/F. §, a 149. § (1) bekezdése, a 160. § (1) bekezdés a)–e) és g)–h) pontja, a 160. § (3) bekezdése, valamint az 1. melléklet az Alaptörvény 4. cikk (2) és (5) bekezdése alapján sarkalatosnak minősül.
+(2) A 4. § (6) bekezdése, a 18. alcím – az 51/B. § kivételével –, a 18/A. alcím, a Harmadik rész, a 36. és 37. alcím, a 120. §, a 145. § (8), (13), (14) és (16) bekezdése, a 145/B. §, a 145/C. §, a 145/D. §, a 145/E. §, a 145/F. §, a 145/H. §, a 149. § (1) bekezdése, a 160. § (1) bekezdés a)–e) és g)–h) pontja, a 160. § (3) bekezdése, valamint az 1. melléklet az Alaptörvény 4. cikk (2) és (5) bekezdése alapján sarkalatosnak minősül.
 
 (3) A 14. alcím az Alaptörvény 5. cikk (8) bekezdése alapján sarkalatosnak minősül.
 
