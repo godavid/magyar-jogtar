@@ -3970,7 +3970,7 @@ c) a kifizető az általa fenntartott sportolási célú létesítmény és az a
 
 8.9. a gátkaszálásból származó terményjuttatás, valamint a fürdőben (strandon) foglalkoztatott magánszemély által igénybe vett fürdőszolgáltatás;
 
-8.10. az Országgyűlés hivatali szervezete által az országgyűlési képviselői és a nemzetiségi szószólói tisztség ellátására tekintettel természetben biztosított eszköz, szolgáltatás;
+8.10. az Országgyűlés hivatali szervezete által az országgyűlési képviselői és a nemzetiségi szószólói tisztség ellátására tekintettel természetben biztosított eszköz, szolgáltatás (ideértve az Országgyűlésről szóló 2012. évi XXXVI. törvény 109. §-a alapján igénybe vehető áru- és szolgáltatásvásárlást, valamint a közösségi közlekedés igénybevételével kapcsolatos költségtérítést is);
 
 8.11. a csoportos személyszállítás;
 
