@@ -3777,7 +3777,7 @@ indult eljárásban kell alkalmazni.
 - b) nyilatkozatában nem vállalja tevékenységének állami közbeszerzési szaktanácsadóként való végzését, vagy
 - c) a (3) bekezdés szerinti határidőben nem igazolja a Közbeszerzési Hatóság felé az 5. (1) bekezdés a) és b) pontja, valamint az 5. § (1) bekezdés c) pont ca) és cb) alpontja szerinti ajánlatkérő szervezettel létesített foglalkoztatási jogviszonya fennállását a munkáltató adatainak megadásával.
 
-197/E. § (1) A Beruházási törvénnyel megállapított 197/D. §-t 2026. június 30. napjáig a (2) és (3) bekezdésben foglalt eltérésekkel kell alkalmazni.
+197/E. § (1) A Beruházási törvénnyel megállapított 197/D. §-t 2026. december 31. napjáig a (2) és (3) bekezdésben foglalt eltérésekkel kell alkalmazni.
 
 (2) Kormányrendeletben meghatározott közbeszerzésre kötelezett szerv árubeszerzés vagy szolgáltatás megrendelése esetén e törvény Beruházási törvény által módosított rendelkezéseinek hatályba lépését megelőző napon hatályos szabályai alapján a közbeszerzési eljárásaiba felelős akkreditált közbeszerzési szaktanácsadót bevonhat. Ezekben az esetekben a felelős akkreditált közbeszerzési szaktanácsadó e törvény Beruházási törvény által módosított rendelkezéseinek hatályba lépését megelőző napon hatályos rendelkezései alapján jár el.
 
