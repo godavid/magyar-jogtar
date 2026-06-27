@@ -86,7 +86,7 @@ figyelembevételével kell számítani.
 (3) A (2) bekezdés szerinti rendeletben meg kell határozni:
 
 - a) a felhasználásra engedélyezett kőolaj, kőolajtermék megnevezését, mennyiségét, valamint értékesítési- és – összhangban az árak megállapításáról szóló 1990. évi LXXXVII. törvény rendelkezéseivel – kereskedelmi árát,
-- b) a felhasznált készletek visszapótlásának határidejét, termékek szerinti összetételét.
+- b) a felhasznált készletek visszapótlásának határidejét, termékek szerinti összetételét, eljárási rendjét,
 - c) a kritikus szervezetek ellenálló képességéről szóló törvény, továbbá a védelmi és biztonsági tevékenységek összehangolásáról szóló törvény szerinti alapvető szolgáltatásokat és a hozzájuk tartozó felhasználásra engedélyezett kőolaj, kőolajtermék megnevezését és mennyiségét, ha az ellátás zavara, az ellátási válsághelyzet, az ellátási nehézség hatással lehet kritikus szervezet vagy az ország védelme és biztonsága szempontjából jelentős szervezet működésére.
 
 (4) A (2) bekezdés szerinti rendeletben a miniszter
@@ -95,7 +95,9 @@ figyelembevételével kell számítani.
 - b) meghatározhatja a felhasználás ütemét,
 - c) az ország működését biztosító felhasználók részére a felszabadított biztonsági készlethez elsőbbségi hozzáférést engedhet,
 - d) fogyasztást korlátozó intézkedéseket rendelhet el,
-- e) a kőolajfinomítóval rendelkező gazdálkodó szervezetek részére előírhatja a felhasználásra felszabadított készlet bérfeldolgozásának legkisebb hozamát és ütemezését.
+- e) a kőolajfinomítóval rendelkező gazdálkodó szervezetek részére előírhatja a felhasználásra felszabadított készlet bérfeldolgozásának legkisebb hozamát és ütemezését,
+- f) meghatározhatja a felszabadított, de a Szövetség tulajdonában maradt készletek újraelosztását, annak eljárási szabályait,
+- g) meghatározhatja a visszapótlás során alkalmazható legmagasabb árat.
 
 (5) A (2) bekezdés alapján felhasználásra engedélyezett készleteket – a rendeletben előírt módon és feltételek szerint – a Szövetség értékesíti.
 
@@ -171,7 +173,9 @@ fordíthatja.
 
 (2) A szövetségi tagság a 40. § (2) bekezdés szerinti tevékenység megkezdésének időpontjában jön létre. A szövetségi tagság megszűnik, ha a tag a készletezési kötelezettséggel járó tevékenységet megszünteti. A tagsági jogviszony fennállása során felmerült kötelezettségek az elszámolásban foglaltak szerint az elszámolások lezárásának napjáig terhelik a tagot.
 
-15. § A 9. § (3) bekezdés c) pontja és a 9. § (4) bekezdés c) pontja alapján a miniszter által meghatározott célból kijelölt felhasználók ellátására felszabadított készleten felül, a felszabadított készletek vonatkozásában a kőolaj szekció tagjait, a készlet felszabadítást megelőző naptári év forgalmának egyenlege alapján esedékessé vált és teljesített nettó tagi hozzájárulásuk arányában elővásárlási jog illeti meg. A nettó tagi hozzájárulás összege a befizetett, valamint a visszaigényelt és levont tagi hozzájárulás egyenlege.
+15. § (1) A 9. § (3) bekezdés c) pontja és a 9. § (4) bekezdés c) pontja alapján a miniszter által meghatározott célból kijelölt felhasználók ellátására felszabadított készleten felül, a felszabadított készletek vonatkozásában a kőolaj szekció tagjait, a készletfelszabadítást megelőző naptári évben a havi tagi hozzájárulás nyilatkozataikban összesen bevallott, a 4. mellékletben foglalt táblázat A oszlopában meghatározott kőolajtermék-kategóriák (2) bekezdés szerint korrigált bruttó forgalma arányában az adott kőolajtermék-kategóriában elővásárlási jog illeti meg.
+
+(2) Ha az adóraktári engedéllyel rendelkező tag (1) bekezdés szerinti nyilatkozataiban olyan mennyiség szerepel, amely másik tag tulajdonában állt közvetlenül a szabad forgalomba bocsátást megelőzően, úgy e mennyiséget az (1) bekezdés szerinti arány megállapításakor e másik tag forgalmaként kell figyelembe venni.
 
 16. § A Szövetség az e törvényben és az Fbkt.-ben előírt tevékenységein kívül, csak az azokkal összefüggő – a Szövetség Alapszabályában (a továbbiakban: alapszabály) meghatározott – tevékenységek gyakorlására jogosult.
 
@@ -517,27 +521,13 @@ rendeletben állapítsa meg.
 
 52. § E törvénynek az energetikai tárgyú törvények módosításáról szóló 2016. évi CXLIII. törvény (a továbbiakban: Módtv.) 75. §-ával megállapított 38. § (1) bekezdését a Módtv. hatálybalépésekor fennálló tagi hozzájárulás tartozásokra is alkalmazni kell.
 
-52/A. § (1) A biztonsági kőolajtermék készletek veszélyhelyzeti felhasználásáról szóló 52/2026. (III. 9.) Korm. rendelet [a továbbiakban: 52/2026. (III. 9.) Korm. rendelet] szerint felszabadított 352 millió liter motorbenzint és 610 millió liter motorikus gázolaj készlet 2026. május 15-ig áll rendelkezésre a jövedéki adó, az általános forgalmi adó és e törvény szerinti tagi hozzájárulás nélküli, 95-ös kísérleti oktánszámú motorbenzin esetén nettó 251 Ft/liter és dízelgázolaj esetén nettó 280 Ft/liter értékesítési áron.
+#### 52/A. §
 
-(2) Tag viszonteladó partner részére történő értékesítés esetén 95-ös kísérleti oktánszámú motorbenzin esetén legfeljebb nettó 286 Ft/liter és B7 dízelgázolaj esetén nettó 315 Ft/liter árat alkalmazhat.
+#### 52/B. §
 
-(3) Ha a tag a Szövetségtől az (1) bekezdés alapján megvásárolt üzemanyagot annak telephelyéről nem tárolja ki, hanem ugyanakkora mennyiségű saját készletet saját telephelyéről értékesített, és e mennyiséget mint felszabadított készletből vásárolt üzemanyagot tartja nyilván, jelentésében a kiszállítás telephelyeként e saját telephelyét adja meg.
+#### 52/C. §
 
-(4) A felszabadított készletből vásárolt üzemanyagot a tag kizárólag a magyarországi töltőállomás-hálózatában, viszonteladó partnerei, magyarországi telephelyi fogadóhely részére értékesítheti vagy szállíthatja ki, Magyarország határain belüli, töltőállomáson történő kiskereskedelmi tovább értékesítés vagy végfelhasználás céljából.
-
-(5) A Szövetség biztonsági kőolajtermék-készletéből felszabadított termékek átvételére nem jogosult üzemanyagtöltő állomást – ide nem értve az üzemi üzemanyagtöltő állomást – működtető vállalkozás köteles az 52/2026. (III. 9.) Korm. rendelet szerinti védett áras termékekre vonatkozó ellátási szerződéssel rendelkezni olyan nagykereskedővel, aki a Szövetség biztonsági kőolajtermék-készletéből felszabadított termékek átvételére jogosult.
-
-(6) Az (5) bekezdésben meghatározott nagykereskedő az (5) bekezdésben meghatározott vállalkozással történő szerződéskötést nem tagadhatja meg.
-
-52/B. § Az 52/A. § szerint felszabadított készletre jogosult tag és annak viszonteladója a felszabadított készletet az ország területéről nem viheti ki, és nem értékesítheti olyan módon, amely annak Magyarország területéről történő kivitelét eredményezi.
-
-52/C. § A 9. § (3) bekezdés b) pontjától eltérően a Szövetség az 52/A. § szerint felszabadított készleteinek visszapótlását, az ellátásbiztonság érdekében haladéktalanul megkezdi, készleteit folyamatosan visszapótolja.
-
-52/D. § (1) A Nemzeti Adó- és Vámhivatal ellenőrzi az 52/A. § szerinti kötelezettségek megtartását. Ha a Nemzeti Adó- és Vámhivatal ellenőrzése során megállapítja a kötelezettségek megsértését, 6 000 000 forinttól 15 000 000 forintig terjedő bírságot szab ki. A jogkövetkezmény azonos napon több, egymást követő ellenőrzés alkalmával is alkalmazható.
-
-(2) Ha a Nemzeti Adó- és Vámhivatal vagy a rendőrség az 52/B. § szerinti tilalom megtartásának ellenőrzése során megállapítja a tilalom megsértését, 100 000 000 forinttól 5 000 000 000 forintig, de legalább a jogellenesen kivitt készlet piaci értékének háromszorosáig terjedő bírságot szab ki. A bírságot a bírságot kiszabó határozat véglegessé válását követő 15 napon belül kell megfizetni. E bírság kiszabásának nincs helye, ha az értékesítés az üzemanyagtöltő állomáson töltött jármű üzemanyag tankjába történik.
-
-(3) A Nemzeti Adó- és Vámhivatal az (1) bekezdés szerinti bírság kiszabásától ellátásbiztonsági okból eltekinthet, ha a kötelezettségszegés a hatósági áras üzemanyagként történő értékesítési kötelezettség megszegésével összefüggésben történt.
+#### 52/D. §
 
 53. § (1) E törvény
 

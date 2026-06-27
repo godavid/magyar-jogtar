@@ -420,7 +420,7 @@ egyes felsőoktatási, családügyi és kulturális tárgyú törvények módos�
 
 (10) A 28. § és a 79. § 2026. január 1-jén lép hatályba.
 
-(10a) A 10. § 2026. július 1-jén lép hatályba.
+(10a) A 10. § 2027. január 1-jén lép hatályba.
 
 (11) A 160. § (2) bekezdése, a 162. § (3) bekezdése és a 9. melléklet a Fudan Hungary Egyetemért Alapítványnak Tudás-Tér Alapítványra vonatkozó névváltoztatásának a bírósági nyilvántartásba történő bejegyzésének napján lép hatályba.
 
