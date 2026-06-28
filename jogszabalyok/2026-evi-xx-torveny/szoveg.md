@@ -48,26 +48,11 @@ a gyűlöletkeltésre alkalmas politikai reklámok visszaszorításáról, a gaz
 
 #### 4. A Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészeti és katonai felsőoktatásról szóló 2011. évi CXXXII. törvény módosítása
 
-14. § A Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészeti és katonai felsőoktatásról szóló 2011. évi CXXXII. törvény 2. melléklete helyébe az 1. melléklet lép.
+#### 14. §
 
-15. § A Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészeti és katonai felsőoktatásról szóló 2011. évi CXXXII. törvény
+#### 15. §
 
-- a) 51/B. § (1) bekezdésében a „B) része szerinti ingatlanok” szövegrész helyébe a „szerinti ingatlanok (a továbbiakban: ingatlanok)” szöveg,
-- b) 51/B. § (4) bekezdésében az „Egyetem és a (3) bekezdés szerint a Kormány határozatában kijelölt szervezet (3) bekezdés szerinti vagyonkezelői jogát a kérelmükre” szövegrész helyébe az „Egyetem (3) bekezdés szerinti vagyonkezelői jogát a kérelmére” szöveg
-
-lép.
-
-16. § Hatályát veszti a Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészeti és katonai felsőoktatásról szóló 2011. évi CXXXII. törvény
-
-- a) 44. § (4) bekezdése,
-- b) 51/B. § (1) bekezdésében az „a 2. melléklet A) része szerinti ingatlanok 2026. június 30. napján” szövegrész, a „ , valamint szociális lakhatási feladatokkal összefüggő” szövegrész és az „(a továbbiakban együtt: ingatlanok)” szövegrész,
-- c) 51/B. § (2) bekezdése,
-- d) 51/B. § (3) bekezdésében a „ , lakáscélú beruházás esetén a Kormány határozatában kijelölt szervezetet” szövegrész és a „ , valamint a Kormány határozatában kijelölt szervezet” szövegrész,
-- e) 51/B. § (5)–(7) bekezdése,
-- f) 51/B. § (8) bekezdésében az „és a (3) bekezdés szerint a Kormány határozatában kijelölt szervezet” szövegrész,
-- g) 51/B. § (9) bekezdésében az „– a 2. melléklet A) része szerinti ingatlanok tekintetében 2026. június 30. napjától –” szövegrész,
-- h) 51/B. § (10) bekezdése,
-- i) 51/C. §-a.
+#### 16. §
 
 #### 5.
 
@@ -81,9 +66,7 @@ lép.
 
 #### 6. A közbeszerzésekről szóló 2015. évi CXLIII. törvény módosítása
 
-21. § A közbeszerzésekről szóló 2015. évi CXLIII. törvény 197/E. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A Beruházási törvénnyel megállapított 197/D. §-t 2026. december 31. napjáig a (2) és (3) bekezdésben foglalt eltérésekkel kell alkalmazni.”
+#### 21. §
 
 #### 7.
 
@@ -116,16 +99,3 @@ lép.
 (4) A 18. § az Alaptörvény IX. cikk (3) bekezdése, XXIX. cikk (3) bekezdése, 2. cikk (1) bekezdése és 35. cikk (1) bekezdése alapján sarkalatosnak minősül.
 
 ### 1. melléklet a 2026. évi XX. törvényhez
-
-„2. melléklet a 2011. évi CXXXII. törvényhez
-
-Az Egyetem közfeladatellátásának elősegítése érdekében állami tulajdonba kerülő ingatlanok
-
-|  | A | B | C | D |
-| --- | --- | --- | --- | --- |
-| 1 |  |  |  |  |
-| 2 | TELEPÜLÉS | HELYRAJZI SZÁM | TULAJDONI HÁNYAD | MEGNEVEZÉS |
-| 3 | Budapest | 36002 | 1/1 | kivett udvar és egyéb épület |
-| 4 | Budapest | 36034 | 1/1 | kivett általános iskola |
-
-”
