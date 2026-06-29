@@ -372,7 +372,9 @@ az ellátásukhoz szükséges költségvetési támogatást a központi költsé
 
 (3) Az önkormányzati képviselő e minőségére saját szakmai vagy üzleti ügyében nem hivatkozhat.
 
-33. § Az e törvényben meghatározott kötelezettségeit megszegő önkormányzati képviselő megállapított tiszteletdíját, természetbeni juttatását a képviselő-testület – a szervezeti és működési szabályzatában meghatározottak alapján – legfeljebb tizenkét havi időtartamra csökkentheti, megvonhatja. Ismételt kötelezettségszegés esetén a csökkentés vagy a megvonás újra megállapítható.
+33. § (1) Az e törvényben meghatározott kötelezettségeit megszegő önkormányzati képviselő megállapított tiszteletdíját, természetbeni juttatását a képviselő-testület – a szervezeti és működési szabályzatában meghatározottak alapján – legfeljebb tizenkét havi időtartamra csökkentheti, megvonhatja (az e § alkalmazásában a továbbiakban: vagyoni szankció). Ismételt kötelezettségszegés esetén a csökkentés vagy a megvonás újra megállapítható.
+
+(2) A képviselő-testület köteles a szervezeti és működési szabályzatában rendelkezni az (1) bekezdés szerinti azon vagyoni szankcióról, amelyet akkor kell alkalmazni, ha az európai uniós költségvetési források felhasználásának ellenőrzéséről szóló törvény szerinti vagyonnyilatkozati feladatkörével összefüggésben eljáró Integritás Hatóság a képviselő vagyonnyilatkozat-tételi kötelezettségével összefüggésben – a képviselő méltatlanságát meg nem alapozó – kizárólag adminisztratív jellegű, ugyanakkor csekély vagy elhanyagolható jelentőséget meghaladó hiányosságot tárt fel.
 
 34. § A képviselő-testület a polgármesternek vagy bármely önkormányzati képviselőnek a javaslatára az önkormányzati képviselők közül tanácsnokokat választhat. A tanácsnok felügyeli a képviselő-testület által meghatározott önkormányzati feladatkörök ellátását.
 
@@ -437,7 +439,7 @@ az ellátásukhoz szükséges költségvetési támogatást a központi költsé
 
 38. § (1) Méltatlanság miatt a képviselő-testület határozatával megszünteti annak az önkormányzati képviselőnek a megbízatását,
 
-- a)
+- a) aki a vagyonnyilatkozat-tételi kötelezettségét elmulasztja, vagy a vagyonnyilatkozatában lényeges adatot, tényt szándékosan valótlanul közölt,
 - b) akit megbízatásának ideje alatt – a mentesítésre tekintet nélkül – szándékos bűncselekmény miatt jogerősen szabadságvesztésre ítélnek;
 - c)
 - d) akinek az állammal, önkormányzattal szemben – a lehetséges jogorvoslati eljárások kimerítését követően – köztartozása áll fenn, és azt az erről szóló értesítés kézhezvételétől számított hatvan napon belül – részletfizetés vagy fizetési halasztás esetén az ezt engedélyező határozat rendelkezéseinek megfelelően – nem rendezi;
@@ -445,7 +447,7 @@ az ellátásukhoz szükséges költségvetési támogatást a központi költsé
 - f) aki a vele szemben megindított bírósági eljárást lezáró jogerős bírósági döntés végrehajtását akadályozza, vagy azt neki felróható módon elmulasztja;
 - g) aki a 36. §-ban szabályozott összeférhetetlenségi okot nem hozza a képviselő-testület tudomására.
 
-(2) Az önkormányzati képviselő köteles az (1) bekezdés a)–g) pontjában foglaltakról, a jogerős ítélet kézhezvételétől vagy az (1) bekezdés d) és e) pontjában foglaltak beálltától számított három napon belül tájékoztatni a képviselő-testületet és a kormányhivatalt.
+(2) Az önkormányzati képviselő köteles az (1) bekezdés b)–g) pontjában foglaltakról, a jogerős ítélet kézhezvételétől vagy az (1) bekezdés d) és e) pontjában foglaltak beálltától számított három napon belül tájékoztatni a képviselő-testületet és a kormányhivatalt.
 
 (3) A büntetőeljárásról szóló törvényben foglaltakra figyelemmel az eljáró bíróság az önkormányzati képviselő bűnösségét megállapító jogerős ítélet meghozataláról haladéktalanul tájékoztatja a képviselő-testületet és a kormányhivatalt.
 
@@ -455,13 +457,15 @@ az ellátásukhoz szükséges költségvetési támogatást a központi költsé
 
 ### Vagyonnyilatkozat-tételi eljárás
 
-39. § (1) Az önkormányzati képviselő megválasztásától, majd ezt követően minden év január 1-jétől számított harminc napon belül a 2. melléklet szerinti vagyonnyilatkozatot köteles tenni. Az önkormányzati képviselő saját vagyonnyilatkozatához csatolni köteles a vele közös háztartásban élő házas- vagy élettársának, valamint gyermekének (e § tekintetében együtt: hozzátartozó) a melléklet szerinti vagyonnyilatkozatát.
+39. § (1) Az önkormányzati képviselő megválasztásától, majd ezt követően minden év január 1-jétől számított harminc napon belül a 2. melléklet szerinti vagyonnyilatkozatot köteles tenni. Az önkormányzati képviselő saját vagyonnyilatkozatához csatolni köteles a vele közös háztartásban élő − a Polgári Törvénykönyvről szóló törvény szerinti − hozzátartozójának (e § alkalmazásában a továbbiakban: hozzátartozó) a 2. melléklet szerinti vagyonnyilatkozatát.
 
 (2) A vagyonnyilatkozat tételének elmulasztása esetén – annak benyújtásáig – az önkormányzati képviselő e tisztségéből fakadó jogait nem gyakorolhatja, tiszteletdíjat, természetbeni juttatást, költségtérítést nem kaphat.
 
-(3) A vagyonnyilatkozatot a szervezeti és működési szabályzatban erre kijelölt bizottság (a továbbiakban: vagyonnyilatkozat-vizsgáló bizottság) tartja nyilván és ellenőrzi. Az önkormányzati képviselő vagyonnyilatkozata – az ellenőrzéshez szolgáltatott azonosító adatok kivételével – közérdekből nyilvános. Az önkormányzati képviselő és hozzátartozója tárgyévben tett vagyonnyilatkozatának benyújtását követően, az előző évre vonatkozó vagyonnyilatkozatukat a vagyonnyilatkozat-vizsgáló bizottság a képviselőnek visszaadja. Az önkormányzati képviselő hozzátartozójának nyilatkozata nem nyilvános, abba csak a vagyonnyilatkozat-vizsgáló bizottság tagjai tekinthetnek be az ellenőrzés céljából.
+(3) A vagyonnyilatkozatot a szervezeti és működési szabályzatban erre kijelölt bizottság tartja nyilván és őrzi. Az önkormányzati képviselő vagyonnyilatkozata közérdekből nyilvános, amit a helyi önkormányzat honlapján közzé kell tenni. A vagyonnyilatkozat a honlapról az önkormányzati képviselő megbízatásának megszűnését követő három év elteltével távolítható el. Az önkormányzati képviselő hozzátartozójának nyilatkozata nem nyilvános. Az önkormányzati képviselő és hozzátartozójának vagyonnyilatkozatába az európai uniós költségvetési források felhasználásának ellenőrzéséről szóló törvény rendelkezései szerinti feladatkörében eljáró Integritás Hatóság betekinthet, arról másolatot készíthet. Az önkormányzati képviselő, valamint hozzátartozójának vagyonnyilatkozatát az erre kijelölt bizottság az önkormányzati képviselő megbízatásának a megszűnését követő három évig őrzi.
 
 (4) A vagyonnyilatkozattal kapcsolatos eljárást a vagyonnyilatkozat-vizsgáló bizottságnál bárki kezdeményezheti. Az eljárás eredményéről a vagyonnyilatkozat-vizsgáló bizottság tájékoztatja a soron következő ülésen a képviselő-testületet.
+
+(4a) Ha az európai uniós költségvetési források felhasználásának ellenőrzéséről szóló törvény rendelkezései szerint az Integritás Hatóság jelentésében azt állapítja meg, hogy az önkormányzati képviselő a vagyonnyilatkozat-tételi kötelezettségét elmulasztotta, illetve a vagyonnyilatkozatában lényeges adatot, tényt szándékosan valótlanul közölt, a (4) bekezdés szerinti eljárást a vagyonnyilatkozat-vizsgáló bizottság hivatalból folytatja le, illetve annak eredményéről tájékoztatja a soron következő ülésen a képviselő-testületet.
 
 (5) A vagyonnyilatkozattal kapcsolatos eljárás során a vagyonnyilatkozat-vizsgáló bizottság felhívására az önkormányzati képviselő köteles saját, valamint a hozzátartozója vagyonnyilatkozatában feltüntetett adatokra vonatkozó azonosító adatokat haladéktalanul írásban bejelenteni. Az azonosító adatokat csak a vagyonnyilatkozat-vizsgáló bizottság tagjai ismerhetik meg, azokat az eljárás lezárását követő nyolc napon belül törölni kell.
 
@@ -648,7 +652,7 @@ is megtartható. A közmeghallgatás időpontját megelőzően lehetőséget kel
 
 57. § (1) A képviselő-testület szervezeti és működési szabályzatában határozza meg bizottságait, a bizottságok tagjainak számát, a bizottságok feladat- és hatáskörét, működésük alapvető szabályait. Az alakuló vagy az azt követő ülésen a polgármester előterjesztésére köteles megválasztani a törvény által kötelezően létrehozandó és a szervezeti és működési szabályzatban meghatározott bizottságait. A száz főt meg nem haladó lakosú településen a bizottsági feladatokat a képviselő-testület látja el. Az ezer főt meg nem haladó lakosú településen a kötelező bizottsági feladat- és hatásköröket egy bizottság is elláthatja. A bizottság tagjává nem önkormányzati képviselő tag is választható. A nem önkormányzati képviselő tag jogai és kötelezettségei a bizottság ülésein megegyeznek az önkormányzati képviselő bizottsági tag jogaival és kötelezettségeivel.
 
-(2) A képviselő-testület a kétezernél több lakosú településen pénzügyi bizottságot hoz létre. A vagyonnyilatkozatok vizsgálatát a szervezeti és működési szabályzatban meghatározott bizottság végzi, amely gondoskodik azok nyilvántartásáról, kezeléséről és őrzéséről. Törvény más bizottság megalakítását is elrendelheti, amelynek feladat- és hatáskört állapíthat meg.
+(2) A képviselő-testület a kétezernél több lakosú településen pénzügyi bizottságot hoz létre. A vagyonnyilatkozatok nyilvántartásáról, kezeléséről és őrzéséről a szervezeti és működési szabályzatban meghatározott bizottság gondoskodik. Törvény más bizottság megalakítását is elrendelheti, amelynek feladat- és hatáskört állapíthat meg.
 
 (3) A képviselő-testület egyes önkormányzati feladatok ellátásának időtartamára ideiglenes bizottságot hozhat létre.
 
@@ -1649,7 +1653,7 @@ E napirend tárgyalására meg kell hívni az érintett helyi önkormányzat pol
 
 (2) E törvény 42. § 16. és 17. pontja, 108. §-a, valamint 143. § (1) bekezdésének f) pontja az Alaptörvény 38. cikk (1) bekezdése alapján is sarkalatosnak minősül.
 
-(3) A 27. § (4) bekezdése, a 36. § (1) bekezdés a) pont aa) alpontja és (1b) bekezdése, valamint a 72. § (2) bekezdés a) pontja és (3) bekezdése az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
+(3)
 
 ### Átmeneti rendelkezések
 
@@ -1727,6 +1731,8 @@ gyakorolja.
 146/N. § Ha a képviselő-testület a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény módosításáról szóló 2024. évi LVIII. törvénnyel megállapított 74. § (1a) bekezdésének hatálybalépését megelőzően a 74. § (1a) bekezdésében foglaltnál több alpolgármestert választott meg, a megválasztott alpolgármesterek megbízatása fennmarad azzal, hogy ha valamely alpolgármester megbízatása megszűnik, helyére új alpolgármester mindaddig nem választható, amíg az alpolgármesterek száma eléri vagy meghaladja a 74. § (1a) bekezdésében meghatározott számot.
 
 146/O. § A 85. § (14) bekezdésében meghatározott jóváhagyás iránti kérelem a főispán részére a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény módosításáról szóló 2024. évi LVIII. törvény hatálybalépését követő 15 napon belül nyújtható be. Az e § rendelkezéseit a folyamatban lévő ügyekben is alkalmazni kell.
+
+146/P. § Az európai uniós forrásokhoz való hozzáférés érdekében szükséges egyes törvények módosításáról szóló 2026. évi XVIII. törvénnyel (a továbbiakban: Módtv4.) megállapított 33. § (2) bekezdése alapján a képviselő-testület szervezeti és működési szabályzatában legkésőbb 2026. október 31. napjáig rendelkezik a 33. § (2) bekezdése szerinti vagyoni szankcióról.
 
 ### Módosító rendelkezések
 

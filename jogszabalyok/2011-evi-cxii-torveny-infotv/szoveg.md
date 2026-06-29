@@ -627,6 +627,8 @@ az adatkezelő vagy tevékenysége keretei között az adatfeldolgozó – a (2)
 
 26. § (1) A közfeladatot ellátó szervnek lehetővé kell tennie, hogy a kezelésében lévő közérdekű adatot és közérdekből nyilvános adatot – az e törvényben meghatározott kivételekkel – erre irányuló igény alapján bárki megismerhesse.
 
+(1a) A közérdekű adatok és közérdekből nyilvános adatok (1) bekezdés szerinti megismerhetővé tétele során az ezen adatok – így különösen a közpénzek felhasználására és a nemzeti vagyonra vonatkozó adatok – nyilvánosságának biztosítása érdekében a közfeladatot ellátó szerv és az adatigénylő jóhiszeműen, egymással kölcsönösen együttműködve járnak el.
+
 (2) Közérdekből nyilvános adat a közfeladatot ellátó szerv feladat- és hatáskörében eljáró személy neve, feladatköre, munkaköre, vezetői megbízása, a közfeladat ellátásával összefüggő egyéb személyes adata, valamint azok a személyes adatai, amelyek megismerhetőségét törvény előírja. A közérdekből nyilvános személyes adatok a célhoz kötött adatkezelés elvének tiszteletben tartásával terjeszthetőek. A közérdekből nyilvános személyes adatok honlapon történő közzétételére az 1. melléklet és a közfeladatot ellátó személy jogállására vonatkozó külön törvény rendelkezései irányadóak.
 
 (3) Ha törvény másként nem rendelkezik, közérdekből nyilvános adat a jogszabály vagy állami, illetőleg helyi önkormányzati szervvel kötött szerződés alapján kötelezően igénybe veendő vagy más módon ki nem elégíthető szolgáltatást nyújtó szervek vagy személyek kezelésében lévő, e tevékenységükre vonatkozó, személyes adatnak nem minősülő adat.
@@ -706,12 +708,7 @@ korlátozhatja.
 
 (2) Az adatigénylésnek közérthető formában és – amennyiben ezt az adatot kezelő közfeladatot ellátó szerv aránytalan nehézség nélkül teljesíteni képes – az igénylő által kívánt formában, illetve módon kell eleget tenni. Ha a kért adatot korábban már elektronikus formában nyilvánosságra hozták, az igény teljesíthető az adatot tartalmazó nyilvános forrás megjelölésével is. Az adatigénylést nem lehet elutasítani arra való hivatkozással, hogy annak közérthető formában nem lehet eleget tenni.
 
-(2a) Az adatigénylésnek a közfeladatot ellátó szerv nem köteles eleget tenni, ha az igény teljesítése
-
-- a) a közfeladatot ellátó szerv tényleges kezelésében nem lévő – így különösen az irányítása vagy felügyelete alatt álló közfeladatot ellátó szerv kezelésében lévő – adat beszerzését, begyűjtését, vagy
-- b) a közfeladatot ellátó szerv tényleges kezelésében lévő közérdekű adatok vagy közérdekből nyilvános adatok összevetése útján a kezelésében lévő adatokhoz képest új adat előállítását
-
-tenné szükségessé.
+(2a)
 
 (3) Az igény teljesítésének megtagadásáról, annak indokaival, valamint az igénylőt e törvény alapján megillető jogorvoslati lehetőségekről való tájékoztatással együtt, az igény beérkezését követő 15 napon belül írásban vagy – ha az igényben elektronikus levelezési címét közölte – elektronikus levélben értesíteni kell az igénylőt. Az elutasított kérelmekről, valamint az elutasítások indokairól az adatkezelő nyilvántartást vezet.
 
@@ -953,7 +950,9 @@ adatait teszik közzé.
 
 (4) A Hatóság elnökének vagyonnyilatkozatával kapcsolatos eljárást a miniszterelnöknél bárki kezdeményezheti a vagyonnyilatkozat konkrét tartalmára vonatkozó olyan tényállítással, amely konkrétan megjelöli a vagyonnyilatkozat kifogásolt részét és tartalmát. Ha a kezdeményezés nem felel meg az e bekezdésben foglalt követelményeknek, nyilvánvalóan alaptalan, vagy az ismételten benyújtott kezdeményezés új tényállítást vagy adatot nem tartalmaz, a miniszterelnök az eljárás lefolytatása nélkül elutasítja a kezdeményezést. A vagyonnyilatkozatban foglaltak valóságtartalmát a miniszterelnök ellenőrzi.
 
-(5) A vagyonnyilatkozattal kapcsolatos eljárás során a miniszterelnök felhívására a Hatóság elnöke köteles a vagyonnyilatkozatában feltüntetett jövedelem- és gazdasági érdekeltségi viszonyokat igazoló adatokat haladéktalanul, írásban bejelenteni a miniszterelnök részére. Az ellenőrzés eredményéről az adatok megküldésével a miniszterelnök tájékoztatja a köztársasági elnököt. Az adatokba csak a miniszterelnök és a köztársasági elnök tekinthet be.
+(4a) A (4) bekezdés szerinti eljárást a miniszterelnök köteles lefolytatni, ha az európai uniós költségvetési források felhasználásának ellenőrzéséről szóló törvény rendelkezései szerint az Integritás Hatóság jelentésében azt állapítja meg, hogy a Hatóság elnöke a vagyonnyilatkozat-tételi kötelezettségét elmulasztotta, illetve hogy vagyonnyilatkozatában lényeges adatot, tényt szándékosan valótlanul közölt.
+
+(5) A vagyonnyilatkozattal kapcsolatos eljárás során a miniszterelnök felhívására a Hatóság elnöke köteles a vagyonnyilatkozatában feltüntetett jövedelem- és gazdasági érdekeltségi viszonyokat igazoló adatokat haladéktalanul, írásban bejelenteni a miniszterelnök részére. Az ellenőrzés eredményéről az adatok – a (4a) bekezdés alkalmazása esetén az Integritás Hatóság jelentését is ideértve – megküldésével a miniszterelnök tájékoztatja a köztársasági elnököt. Az adatokba csak a miniszterelnök és a köztársasági elnök, illetve – a (4a) bekezdés alkalmazása esetén – az Integritás Hatóság tekinthet be.
 
 (6) A Hatóság elnöke által benyújtott igazoló adatokat a vagyonnyilatkozattal kapcsolatos eljárás lezárulását követő harmincadik napon törölni kell.
 
@@ -1850,6 +1849,10 @@ az e fejezetben meghatározott eltérésekkel kell alkalmazni.
 75/C. § (1) A Hatóság elnöke és elnökhelyettese az európai uniós költségvetési források felhasználásának ellenőrzésével összefüggő egyes, vagyonnyilatkozattal kapcsolatos törvények módosításáról szóló 2022. évi XXXI. törvénnyel megállapított rendelkezéseknek megfelelően, az Európai Bizottság kérésére egyes törvényeknek a kondicionalitási eljárás eredményes lezárása érdekében szükséges módosításáról szóló 2022. évi LVI. törvénnyel megállapított tartalommal és formában először – 2022. november 1. napján fennálló állapot szerint − 2023. január 31-ig tesz vagyonnyilatkozatot, amelyhez csatolja a vele közös háztartásban élő házas- vagy élettársának, gyermekeinek vagyonnyilatkozatát is.
 
 (2) Az európai uniós költségvetési források felhasználásának ellenőrzésével összefüggő egyes, vagyonnyilatkozattal kapcsolatos törvények módosításáról szóló 2022. évi XXXI. törvény hatálybalépése napján folyamatban lévő vagyonnyilatkozattal kapcsolatos eljárásokban az eljárás megindulása napján hatályos szabályokat kell alkalmazni.
+
+(3) A Hatóság elnöke és elnökhelyettese az európai uniós forrásokhoz való hozzáférés érdekében szükséges egyes törvények módosításáról szóló 2026. évi XVIII. törvény által megállapított tartalommal és formában először – 2026. december 31. napján fennálló állapot szerint − 2027. január 31-ig tesz vagyonnyilatkozatot, amelyhez csatolja a vele közös háztartásban élő − a Polgári Törvénykönyvről szóló törvény szerinti − hozzátartozója vagyonnyilatkozatát is.
+
+(4) Az európai uniós forrásokhoz való hozzáférés érdekében szükséges egyes törvények módosításáról szóló 2026. évi XVIII. törvény hatálybalépése napján folyamatban lévő vagyonnyilatkozattal kapcsolatos eljárásokban az eljárás megindulása napján hatályos szabályokat kell alkalmazni.
 
 75/D. § A felület üzemeltetője legkésőbb 2022. december 31-ig a felületet létrehozza, valamint közzéteszi a felületen történő közzétételhez szükséges adatlapot. A felületen közzétételre kötelezettek a 37/C. § (2) bekezdése szerinti adatokat a felületen folyamatosan, de első alkalommal legkésőbb 2023. február 28-ig teszik közzé.
 
