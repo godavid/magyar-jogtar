@@ -6,43 +6,15 @@ A Mathias Corvinus Collegiumnak a kimagaslóan tehetséges fiatalok támogatás�
 
 #### 1.
 
-1. §
+#### 1. §
 
-2. §
+#### 2. §
 
-#### 2. Az Alapítvány részére történő vagyonjuttatás
+#### 2.
 
-3. § (1) A nemzeti vagyonról szóló 2011. évi CXCVI. törvény (a továbbiakban: Nvtv.) 13. § (3) bekezdésében és az állami vagyonról szóló 2007. évi CVI. törvény (a továbbiakban: Vtv.) 36. § (1) bekezdésében foglaltak alapján a csatlakozásra irányuló nyilatkozat és az annak elfogadására irányuló nyilatkozat alapján módosított alapító okirat szerint, az 1. melléklet szerinti állami vagyonelemeket ingyenesen, nyilvántartási értéken történő átvezetéssel – a Vtv. 36. § (2) bekezdése szerinti rendelkezéstől eltérve –, az indulótőke növelése érdekében az Alapítvány tulajdonába kell adni.
+#### 3. §
 
-(2)
-
-(3)
-
-(4)
-
-(5)
-
-(6)
-
-(7) Az Alapítvány jogutód nélküli megszűnése esetén az 1. melléklet szerinti vagyonelem tulajdonjoga az államra száll vissza.
-
-(8) Az (1) bekezdés szerint az Alapítvány részére ingyenesen tulajdonba adott vagyon tekintetében nem kell alkalmazni az Nvtv. 13. § (4) bekezdés b) pontjában, valamint (7) és (8) bekezdésében foglaltakat.
-
-(9) Az államháztartásról szóló 1992. évi XXXVIII. törvény és egyes kapcsolódó törvények módosításáról szóló 2006. évi LXV. törvény 1. § (1) bekezdésében meghatározottaktól eltérően a Kormány az állam nevében, e törvény rendelkezései alapján – e törvényben meghatározott vagyonjuttatás teljesítésével – csatlakozhat az Alapítványhoz, azzal, hogy az alapító, a csatlakozó, valamint az alapítói jogok gyakorlására kijelölt kuratórium, illetve az alapítói jogokat esetlegesen gyakorló egyéb személy vagy szerv nem szüntetheti meg az Alapítványt.
-
-4. § (1) Az Nvtv. 13. § (3) bekezdésében és a Vtv. 36. § (1) bekezdésében foglaltak alapján a Budapest belterület 5177/1 helyrajzi számú, természetben a Budapest I. kerület, Szent Sebestyén köz 1., Budapest I. kerület, Somlói út 49–53., Budapest I. kerület, Alsóhegy utca 10–16. szám alatti állami tulajdonban álló ingatlant ingyenesen, nyilvántartási értéken történő átvezetéssel – a Vtv. 36. § (2) bekezdése szerinti rendelkezéstől eltérve – csatlakozói vagyoni juttatásként az Alapítvány tulajdonába kell adni.
-
-(2) Az (1) bekezdés szerint ingyenesen tulajdonba adott ingatlan tekintetében nem kell alkalmazni az Nvtv. 13. § (4) és (5), valamint (7) és (8) bekezdésében foglaltakat.
-
-(3)
-
-(4)
-
-(5)
-
-(6) Az Alapítvány jogosult a tulajdonába adott, (1) bekezdés szerinti ingatlant hasznosítani.
-
-(7) A 4. § alapján történő vagyonjuttatást úgy kell tekinteni, hogy az az általános forgalmi adóról szóló 2007. évi CXXVII. törvény 17. § (1) bekezdésben és 18. § (1) bekezdésben meghatározott feltételek szerinti juttatással esik egy tekintet alá.
+#### 4. §
 
 #### 3. A Budapest belterület 5177/1 helyrajzi számú, természetben a Budapest I. kerület, Szent Sebestyén köz 1., Budapest I. kerület, Somlói út 49–53., Budapest I. kerület, Alsóhegy utca 10–16. szám alatt található ingatlanon megvalósuló tehetséggondozási központ kivitelezési munkálataival kapcsolatos beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé és a beruházás kiemelten közérdekű beruházássá nyilvánítása
 
@@ -58,7 +30,7 @@ A Mathias Corvinus Collegiumnak a kimagaslóan tehetséges fiatalok támogatás�
 
 #### 4. A Maecenas Universitatis Corvini Alapítvány részére történő vagyonjuttatás
 
-7. § (1) Az Nvtv. 13. § (3) bekezdésében és a Vtv. 36. § (1) bekezdésében foglaltak alapján – a Maecenas Universitatis Corvini Alapítványról, a Maecenas Universitatis Corvini Alapítvány és a Budapesti Corvinus Egyetem részére történő vagyonjuttatásról szóló 2019. évi XXX. törvény (a továbbiakban: MUC tv.) preambulumában meghatározott célok megvalósítása érdekében – a Maecenas Universitatis Corvini Alapítvánnyal (a továbbiakban: MUC Alapítvány) való, (2) bekezdés szerinti megállapodásnak megfelelően módosított alapító okirat szerint, a MUC tv. 1. melléklete szerinti vagyonelemeket ingyenesen, nyilvántartási értéken történő átvezetéssel – a Vtv. 36. § (2) bekezdése szerinti rendelkezéstől eltérve –, az indulótőke növelése érdekében a MUC Alapítvány tulajdonába kell adni.
+7. § (1) Az a nemzeti vagyonról szóló 2011. évi CXCVI. törvény (a továbbiakban: Nvtv.) 13. § (3) bekezdésében és a Vtv. 36. § (1) bekezdésében foglaltak alapján – a Maecenas Universitatis Corvini Alapítványról, a Maecenas Universitatis Corvini Alapítvány és a Budapesti Corvinus Egyetem részére történő vagyonjuttatásról szóló 2019. évi XXX. törvény (a továbbiakban: MUC tv.) preambulumában meghatározott célok megvalósítása érdekében – a Maecenas Universitatis Corvini Alapítvánnyal (a továbbiakban: MUC Alapítvány) való, (2) bekezdés szerinti megállapodásnak megfelelően módosított alapító okirat szerint, a MUC tv. 1. melléklete szerinti vagyonelemeket ingyenesen, nyilvántartási értéken történő átvezetéssel – a Vtv. 36. § (2) bekezdése szerinti rendelkezéstől eltérve –, az indulótőke növelése érdekében a MUC Alapítvány tulajdonába kell adni.
 
 (2) Az (1) bekezdésben meghatározott vagyonjuttatásra a MUC tv. 3. § (1) bekezdés a) pontjában meghatározott bizalmi vagyonkezelési jogviszony megszűnésével úgy kerül sor, hogy a MUC Alapítvánnyal való megállapodás értelmében az (1) bekezdés szerinti vagyonelemek tulajdonjoga a MUC Alapítványt a továbbiakban a bizalmi vagyonkezelésen alapuló jogcím helyett az (1) bekezdés szerinti vagyonjuttatás jogcímén illeti meg azzal, hogy a MUC Alapítványnak ezt megelőzően mint kedvezményezettnek járó, az (1) bekezdés szerinti vagyonelemekhez kapcsolódó osztalék tulajdonjoga is a MUC Alapítványt illeti meg.
 
@@ -76,7 +48,7 @@ A Mathias Corvinus Collegiumnak a kimagaslóan tehetséges fiatalok támogatás�
 
 #### 5. A kormányzati igazgatásról szóló 2018. évi CXXV. törvény módosítása
 
-8. §
+#### 8. §
 
 #### 6. Záró rendelkezések
 
@@ -94,11 +66,3 @@ A Mathias Corvinus Collegiumnak a kimagaslóan tehetséges fiatalok támogatás�
 13. § A 3. § (9) bekezdése, a 4. § (6) bekezdése, a 7. § (6) és (7) bekezdése, valamint az 1. melléklet az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
 
 ### 1. melléklet a 2020. évi XXVI. törvényhez
-
-#### Az Alapítvány részére történő vagyonjuttatás
-
-|  | A | B |
-| --- | --- | --- |
-| 1. | Gazdasági társaság megnevezése | Átadandó állami tulajdonban álló részesedés megjelölése |
-| 2. | MOL Magyar Olaj- és Gázipari Nyilvánosan Működő Részvénytársaság | 81 942 946 darab „A” sorozatú részvény (HU0000153937) |
-| 3. | Richter Gedeon Vegyészeti Gyár Nyilvánosan Működő Részvénytársaság | 18 637 486 darab „C” sorozatú részvény (HU0000123096) |

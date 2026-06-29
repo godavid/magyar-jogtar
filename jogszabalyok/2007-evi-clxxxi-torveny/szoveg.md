@@ -33,10 +33,26 @@ származó, egyedi döntés alapján nyújtott, pályázati úton vagy pályáza
 - c) döntéshozó: az a természetes személy, aki
   - ca) feladat- és hatásköre alapján a támogatási döntés meghozatalára jogosult, vagy az erre jogosult szerv vezetője vagy testület tagja,
   - cb) feladat- és hatásköre alapján támogatási döntésre érdemi befolyással rendelkezik, így különösen, ha a támogatási döntéshez kapcsolódóan egyetértési, vétó-, hozzájárulási, illetve jóváhagyási joggal rendelkezik, vagy ilyen joggal rendelkező szerv vezetője vagy testület tagja;
-- d) kizárt közjogi tisztségviselő: a Kormány tagja, a miniszterelnök politikai igazgatója, a miniszterelnök nemzetbiztonsági főtanácsadója, a kormánybiztos, a miniszterelnöki biztos, a miniszteri biztos, az államtitkár, a közigazgatási államtitkár, a helyettes államtitkár, a vármegyei közgyűlés elnöke, a fővárosi közgyűlés esetében a főpolgármester, a területfejlesztésről és a területrendezésről szóló törvény által meghatározott regionális fejlesztési ügynökség vezető tisztségviselői, felügyelő bizottsága tagjai, illetve az Ágazati Operatív Programok Közreműködő szervezetei vezető tisztségviselői és ellenőrző szervének tagjai;
-- e) nem kizárt közjogi tisztségviselő: a köztársasági elnök, az Országgyűlés által választott vagy a köztársasági elnök által kinevezett tisztségviselő, az országgyűlési és az európai parlamenti képviselő, a nemzetiségi szószóló, a polgármester, az alpolgármester, a főpolgármester, a főpolgármester-helyettes, a helyi önkormányzati képviselő, a helyi önkormányzat képviselő-testülete bizottságának tagja, a központi államigazgatási szerv – a d) pont alá nem tartozó – vezetője és helyettesei;
+- d) kizárt közjogi tisztségviselő:
+  - da) a köztársasági elnök,
+  - db) a Kormány tagja, a miniszterelnök politikai igazgatója, a miniszterelnök nemzetbiztonsági főtanácsadója, a kormánybiztos, a miniszterelnöki biztos, a miniszteri biztos, az államtitkár, a közigazgatási államtitkár, a helyettes államtitkár,
+  - dc) az országgyűlési képviselő és a Magyarországon megválasztott európai parlamenti képviselő,
+  - dd) a polgármester, a főpolgármester, továbbá a vármegyei közgyűlés elnöke,
+  - de) a db) alpont alá nem eső további, az Országgyűlés által választott vagy a köztársasági elnök által kinevezett tisztségviselő,
+  - df) a kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbiakban: Kit.) szerinti politikai vagy biztosi szolgálati jogviszonyban álló tisztségviselő,
+  - dg) a rendőrségi szerv országos parancsnoka és országos főigazgatója,
+  - dh) a nemzetbiztonsági szolgálatok főigazgatója,
+  - di) a Honvéd Vezérkar főnöke,
+  - dj) a területfejlesztésről és a területrendezésről szóló törvény által meghatározott regionális fejlesztési ügynökség vezető tisztségviselői, felügyelőbizottsága tagjai, illetve az Ágazati Operatív Programok Közreműködő szervezetei vezető tisztségviselői és ellenőrző szervének tagjai;
+- e) nem kizárt közjogi tisztségviselő:
+  - ea) a helyi önkormányzati és a nemzetiségi önkormányzati képviselő-testület tagja, a helyi önkormányzat képviselő-testülete bizottságának tagja, valamint a vármegyei közgyűlés tagja, az alpolgármester, illetve a főpolgármester-helyettes,
+  - eb) a nemzetiségi szószóló, az országgyűlési képviselői mandátummal nem rendelkező háznagy,
+  - ec) a belső kontrollrendszer működtetésére kötelezett szervezet első számú vezetője,
+  - ed) a Kit. szerinti – a d) pont alá nem eső – szakmai felsővezető,
+  - ee) a központi államigazgatási szerv – a d) pont alá nem tartozó – vezetője és helyettesei;
 - f) közeli hozzátartozó: a Polgári Törvénykönyvről szóló 1959. évi IV. törvény (a továbbiakban: Ptk.) által meghatározott közeli hozzátartozó;
 - g) vezető tisztségviselő: a gazdasági társaságokról szóló törvény által meghatározott vezető tisztségviselő.
+- h) felelős személy: az adott jogi személy vezető tisztségviselője, létesítő okiratában, illetve belső szabályzataiban vezető tisztségviselőként megjelölt vagy egyébként érdemi ügyvezetési, cégvezetési vagy más döntési jogkörrel rendelkező személy, valamint az a személy, aki a létesítő okirat felhatalmazása, a jogi személy döntéshozó szervének határozata vagy szerződés alapján a jogi személy képviseletére vagy pénzforgalmi számlája feletti rendelkezésre jogosult.
 
 (2) E törvény pályázatokra vonatkozó rendelkezéseit kell megfelelően alkalmazni a nem pályázati úton odaítélt támogatásokra is azzal, hogy ahol e törvény
 
@@ -100,7 +116,7 @@ felkérésére kizárólag a pályázat kiírásáról hozott döntés meghozata
 - b) a kizárt közjogi tisztségviselő,
 - c) az a)–b) pont alá tartozó személy közeli hozzátartozója,
 - d) az a)–c) pontban megjelölt személy tulajdonában álló gazdasági társaság,
-- e) olyan gazdasági társaság, alapítvány, egyesület, egyházi jogi személy vagy szakszervezet, illetve ezek önálló jogi személyiséggel rendelkező olyan szervezeti egysége, amelyben az a)–c) pont alá tartozó személy vezető tisztségviselő, az alapítvány kezelő szervének, szervezetének tagja, tisztségviselője, az egyesület, az egyházi jogi személy vagy a szakszervezet ügyintéző vagy képviseleti szervének tagja,
+- e) olyan gazdasági társaság, szövetkezet, egyesülés, kamara, civil szervezet, vagyonkezelő alapítvány, közfeladatot ellátó közérdekű vagyonkezelő alapítvány vagy egyházi jogi személy, illetve ezek által létesített vagy fenntartott, a Ptk. alapján létrehozott jogi személy vagy önálló jogi személyiséggel rendelkező olyan szervezeti egysége, amelyben az adott jogi személy felelős személye a pályázat vagy támogatás odaítéléséről szóló döntést megelőző két évben az a)–c) pont alá tartozó személynek minősült,
 - f) az az egyesület vagy szakszervezet, illetve ezek önálló jogi személyiséggel rendelkező azon szervezeti egysége, valamint az egyházi jogi személy,
   - fa) amely a pályázat kiírását megelőző öt évben együttműködési megállapodást kötött vagy tartott fenn Magyarországon bejegyzett párttal (a továbbiakban: párt),
   - fb) amely a pályázat kiírását megelőző öt évben párttal közös jelöltet állított országgyűlési, európai parlamenti vagy helyi önkormányzati választáson,
@@ -128,7 +144,7 @@ felkérésére kizárólag a pályázat kiírásáról hozott döntés meghozata
 - b) nem kizárt közjogi tisztségviselő,
 - c) az a)–b) pont alá tartozó személy közeli hozzátartozója,
 - d) az a)–c) pontban megjelölt személy tulajdonában álló gazdasági társaság,
-- e) olyan gazdasági társaság, alapítvány, egyesület, egyházi jogi személy vagy szakszervezet, amelyben az a)–c) pont alá tartozó személy vezető tisztségviselő, az alapítvány kezelő szervének, szervezetének tagja, tisztségviselője vagy az egyesület ügyintéző vagy képviseleti szervének tagja,
+- e) olyan gazdasági társaság, szövetkezet, egyesülés, kamara, civil szervezet, vagyonkezelő alapítvány, közfeladatot ellátó közérdekű vagyonkezelő alapítvány vagy egyházi jogi személy, illetve ezek által létesített vagy fenntartott, a Ptk. alapján létrehozott jogi személy vagy önálló jogi személyiséggel rendelkező olyan szervezeti egysége, amelyben az adott jogi személy felelős személye a pályázat vagy támogatás odaítéléséről szóló döntést megelőző két évben az a)–c) pont alá tartozó személynek minősült,
 
 köteles kezdeményezni e körülménynek a honlapon történő közzétételét a pályázat benyújtásával egyidejűleg.
 
@@ -224,5 +240,7 @@ gb) a rendelkező nyilatkozat évét megelőző öt évben nem állított pártt
 (6) E törvény 6. § (1) bekezdés f) pont fa)–fb) alpontjaiban, illetve az Szjftv. 4. § (2) bekezdés g) pont ga)–gb) alpontjaiban meghatározott időtartamba nem számítható bele az e törvény hatálybalépése előtti időszak.
 
 (7) E törvény 6. §-át a Nemzeti Kulturális Alapból nyújtott támogatások tekintetében a 2008. december 31-ét követően kiírt pályázatokra kell alkalmazni.
+
+(8) E törvénynek az európai uniós forrásokhoz való hozzáférés érdekében szükséges egyes törvények módosításáról szóló 2026. évi XVIII. törvénnyel (a továbbiakban: Módtv.) megállapított rendelkezéseit a Módtv. hatálybalépését követően indult támogatásokra, pályázatokra kell alkalmazni.
 
 #### 20. §

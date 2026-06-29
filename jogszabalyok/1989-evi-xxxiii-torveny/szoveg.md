@@ -174,6 +174,12 @@ A pártok társadalmi rendeltetése, hogy a népakarat kialakításához és kin
 
 9/B. § Az állami vagyonról szóló 2007. évi CVI. törvény 1. § (2) bekezdés f) pontjában meghatározott állami vagyon átruházása nem minősül tiltott állami támogatásnak.
 
+### IV/C. Fejezet — A központi költségvetésből állami támogatásban részesülő párt vezető tisztségviselőjének vagyonnyilatkozat-tételi kötelezettsége
+
+9/C. § (1) A központi költségvetésből állami támogatásban részesülő párt civil szervezetek névjegyzékében feltüntetett képviselője − amennyiben más törvény alapján nem köteles azonos tartalmú és formájú vagyonnyilatkozatot tenni − a megbízatása keletkezését, illetve a párt támogatásra jogosulttá válását követő harminc napon belül, majd azt követően minden évben január 31-ig az előző év december 31. napján fennálló állapot szerint, valamint a megbízatásának megszűnését, illetve a párt támogatásra jogosultságának megszűnését követő harminc napon belül vagyonnyilatkozatot tesz az Országgyűlésről szóló 2012. évi XXXVI. törvény (a továbbiakban: Ogytv.) 1. melléklete szerinti tartalommal, amelyhez csatolni köteles a vele közös háztartásban élő − a Polgári Törvénykönyvről szóló törvény szerinti − hozzátartozója (a továbbiakban: családtag) vagyonnyilatkozatát. A vagyonnyilatkozatokat az Ogytv.-ben meghatározottak szerint, az országgyűlési képviselők vagyonnyilatkozatára vonatkozó szabályok megfelelő alkalmazásával kell kezelni, azzal, hogy az Országgyűlés Mentelmi Bizottsága a párt volt képviselőjének, valamint családtagjának vagyonnyilatkozatát a párt képviselőjének a civil szervezetek névjegyzékéből való törlését követő három évig őrzi.
+
+(2) Az (1) bekezdésben előírt kötelezettség teljesítésének elmulasztása esetén a pártnak járó állami támogatás folyósítását − a kötelezettség teljesítéséig − fel kell függeszteni.
+
 ### V. Fejezet — A párt gazdálkodásának ellenőrzése
 
 10. § (1) A párt gazdálkodása törvényességének ellenőrzésére az Állami Számvevőszék jogosult.
@@ -190,7 +196,7 @@ A pártok társadalmi rendeltetése, hogy a népakarat kialakításához és kin
 
 (2) E törvény hatálybalépésével egyidejűleg — a párt vagy annak tagja vonatkozásában — hatályát veszti minden olyan jogszabályi rendelkezés, amely valamely párt vagy annak tagjával kapcsolatban rendelkezést tartalmaz.
 
-12. § Az I–IV. Fejezet, a IV/B. Fejezet, az V. Fejezet, a 15. §, a 16. §, 17. § és az 1–3. számú melléklet az Alaptörvény VIII. cikk (4) bekezdése alapján sarkalatosnak minősül.
+12. § Az I–IV. Fejezet, a IV/B–C. Fejezet, az V. Fejezet, a 15. §, a 16. §, 17–18. § és az 1–3. számú melléklet az Alaptörvény VIII. cikk (4) bekezdése alapján sarkalatosnak minősül.
 
 #### 13. §
 
@@ -202,7 +208,7 @@ A pártok társadalmi rendeltetése, hogy a népakarat kialakításához és kin
 
 17. § E törvénynek az országgyűlési képviselők választása kampányköltségeinek átláthatóvá tételéről szóló 2013. évi LXXXVII. törvénnyel megállapított rendelkezéseit 2014. január 1-jétől kell alkalmazni.
 
-#### 18. §
+18. § A központi költségvetésből állami támogatásban részesülő párt civil szervezetek névjegyzékében feltüntetett képviselője az európai uniós forrásokhoz való hozzáférés érdekében szükséges egyes törvények módosításáról szóló 2026. évi XVIII. törvény által megállapított tartalommal és formában először – 2026. december 31. napján fennálló állapot szerint − 2027. január 31-ig tesz vagyonnyilatkozatot, amelyhez csatolja a vele közös háztartásban élő − a Polgári Törvénykönyvről szóló törvény szerinti − hozzátartozója vagyonnyilatkozatát is.
 
 #### 19. §
 

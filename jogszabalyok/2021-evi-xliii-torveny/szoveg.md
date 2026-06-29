@@ -75,7 +75,7 @@ E törvény célja a pénzügyi és egyéb szolgáltatók azonosítási feladat�
 - 10. számlavezető: a pénzforgalmi szolgáltatás nyújtásáról szóló 2009. évi LXXXV. törvény szerinti fizetési számlát vezető szolgáltató;
 - 11. széfszolgáltató: a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény szerint meghatározott széfszolgáltatást nyújtó szolgáltató;
 - 12. szolgáltató: a Pmt. 1. § (1) és (1a) bekezdésében meghatározott szolgáltató;
-- 13. tényleges tulajdonos: az adatszolgáltató Pmt. 3. § 38. pont a) és b), valamint d)–g) pontja szerint meghatározott tényleges tulajdonosa;
+- 13. tényleges tulajdonos: az adatszolgáltató Pmt. 3. § 38. pont a) és b), valamint d)–g) alpontja szerint meghatározott tényleges tulajdonosa;
 - 14. tényleges tulajdonosi nyilvántartás: az e törvény hatálya alá tartozó adatszolgáltatók és a bizalmi vagyonkezelési jogviszonyok Pmt. szerinti tényleges tulajdonosi adatait tartalmazó nyilvántartás;
 - 15. TT index: a tényleges tulajdonosi központi nyilvántartásban az adatszolgáltató tényleges tulajdonosi adatához rendelt, annak megbízhatósági szintjét jelző, 1–10 közötti értékű mutatószám.
 
@@ -99,6 +99,8 @@ E törvény célja a pénzügyi és egyéb szolgáltatók azonosítási feladat�
   - ge) lakcíme, ennek hiányában tartózkodási helye;
   - gf) érdekeltségének a Pmt. 3. § 38. pont a) és b), valamint d)–g) pontja szerinti jellege és mértéke;
 - h) a tényleges tulajdonosi adat TT indexe.
+
+(1a) Zártkörű befektetési alap adatszolgáltató esetén az (1) bekezdés g) pont gf) alpontja szerinti érdekeltség jellegének és mértékének meghatározása során az alapkezelő feltünteti a befektetési jegy arányát.
 
 (2) A tényleges tulajdonosi nyilvántartás az (1) bekezdésben meghatározott adatok tekintetében nem minősül közhiteles hatósági nyilvántartásnak.
 
@@ -140,12 +142,20 @@ E törvény célja a pénzügyi és egyéb szolgáltatók azonosítási feladat�
 
 (5)
 
-(6) Harmadik személy díj fizetése ellenében, a nyilvántartó szerv által meghatározott módon egyedi adatszolgáltatás keretében megismerheti az általa a 4. § (1) bekezdés b) pontja szerinti adatokkal meghatározott, az 1. § (1) és (2) bekezdése szerinti adatszolgáltató, valamint a bizalmi vagyonkezelési jogviszony tényleges tulajdonosának 4. § (1) bekezdés g) pontja szerinti adatait – ide nem értve a 10. § (2) bekezdése és 11. § (2) bekezdése szerint közölt adatokat – és azok rögzítésének időpontját, ha az adat felhasználásának célját és az adat megismeréséhez fűződő vagy a pénzmosás és terrorizmus finanszírozása elleni küzdelemhez kapcsolódó jogos érdekét okirattal igazolja. A jogos érdek különösen igazoltnak tekintendő, ha az adatot igénylő harmadik személy és az adatigénylésben érintett adatszolgáltató, valamint a bizalmi vagyonkezelési jogviszony Pmt. szerinti valamely tényleges tulajdonosa
+(6) Harmadik személy – az adatszolgáltatáshoz kapcsolódó arányos díj fizetése ellenében – a nyilvántartó szerv által meghatározott módon egyedi adatszolgáltatás keretében – anélkül, hogy erről értesítenék az érintett jogi személyt vagy kapcsolódó jogviszonyban érdekelt személyeket – megismerheti az általa a 4. § (1) bekezdés b) pontja szerinti adatokkal meghatározott, az 1. § (1) és (2) bekezdése szerinti adatszolgáltató, valamint a bizalmi vagyonkezelési jogviszony tényleges tulajdonosának 4. § (1) bekezdés g) pontja szerinti adatait – ide nem értve a 10. § (2) bekezdése és 11. § (2) bekezdése szerint közölt adatokat, valamint a módosított korábbi adatokat, beleértve az azon jogi személyek vagy jogviszonyok tényleges tulajdonosaira vonatkozó adatokat is, amelyek az előző 8 évben felszámolásra kerültek vagy megszűntek, ha az adat felhasználásának célját és az adat megismeréséhez fűződő vagy a pénzmosás és terrorizmus finanszírozása elleni küzdelemhez kapcsolódó jogos érdekét igazolja.
+
+(6a) A (6) bekezdésben említett jogos érdek különösen igazoltnak tekintendő, ha az adatot igénylő harmadik személy és az adatigénylésben érintett adatszolgáltató, valamint a bizalmi vagyonkezelési jogviszony Pmt. szerinti valamely tényleges tulajdonosa
 
 - a) a Ptk. 8:1. § (1) bekezdés 2. pontja szerinti hozzátartozói kapcsolatban áll,
 - b) ugyanazon jogi személy vagy jogi személyiséggel nem rendelkező szervezet tényleges tulajdonosa,
-- c) szoros üzleti kapcsolatban áll, vagy
+- c) jogszabályon vagy szerződésen alapuló üzleti kapcsolatban áll, vagy
 - d) vagyonjogi perben áll.
+
+(6b) A (6) bekezdésben felsorolt információkhoz való hozzáféréshez jogos érdeke fűződik továbbá különösen a következő természetes vagy jogi személyeknek:
+
+- a) aki szerződéskötési tárgyalásba lép az érintett jogi személlyel vagy jogi konstrukcióval, és aki vagy amely meg kívánja előzni azt, hogy az adott ügylet pénzmosáshoz, annak alapbűncselekményeihez vagy terrorizmusfinanszírozáshoz kapcsolódjon,
+- b) aki médiatartalom-szolgáltatóként, annak munkavállalójaként vagy vele munkavégzésre irányuló egyéb jogviszonyban álló személyként újságírás, tudósítás, vagy a médiában való egyéb megnyilatkozás céljából jár el a pénzmosás, annak alapbűncselekményei vagy a terrorizmusfinanszírozás megelőzéséhez vagy az ellenük való küzdelemhez kapcsolódóan,
+- c) aki civil szervezetként, annak munkavállalójaként vagy vele munkavégzésre irányuló egyéb jogviszonyban álló személyként vagy kutatóként a tudományos tevékenysége keretében a korrupció megelőzése és a korrupció elleni küzdelem terén a nyilvánosság előtt szakmai tevékenységet végez, és a pénzmosás, annak alapbűncselekményei vagy a terrorizmusfinanszírozás megelőzésével vagy az ellenük folytatott küzdelemhez kapcsolódóan jár el.
 
 (7) A (6) bekezdésben foglalt eseteken túl, ha a bizalmi vagyonkezelési jogviszony keretében kezelt vagyon az Európai Unión kívül bejegyzett jogi személyben vagy jogi személyiség nélküli szervezetben közvetlen vagy közvetett módon – többek között bemutatóra szóló részvényeken keresztül vagy más módon – többségi befolyásra feljogosító vagyonelemet tartalmaz, harmadik személy írásbeli kérelem benyújtásával adatot igényelhet a bizalmi vagyonkezelési jogviszony 4. § (1) bekezdés g) pontja szerinti tényleges tulajdonosi adataira vonatkozóan.
 
@@ -428,6 +438,10 @@ végzett adathozzáféréseket naplózza.
 
 26/B. § Azon zártkörű befektetési alapok vonatkozásában, amelyek felügyeleti nyilvántartásba történő bejegyzése az egyes pénzügyi és vagyongazdálkodási tárgyú törvények módosításáról szóló 2024. évi LVI. törvénnyel megállapított 1. § (1) bekezdés 30. pontja hatálybalépésének napjáig megtörtént, a 7. § szerinti adattovábbítást először a 2026. július hónapra vonatkozó adatszolgáltatás keretében kell elvégezni.
 
+26/C. § (1) Az e törvény 1. § (1) bekezdés 4. és 5. pontja szerinti adatszolgáltató vonatkozásában – az európai uniós forrásokhoz való hozzáférés érdekében szükséges egyes törvények módosításáról szóló 2026. évi XVIII. törvény által megállapított – a Pmt. 3. § 38. pont a) alpontja szerinti elsőbbségi részvényfajtákhoz, valamint kifizetésekhez, illetve kifizetési jogosultságokhoz kapcsolódó, e törvény 7. §-a szerinti adattovábbítást először a 2026. szeptember hónapra vonatkozó adatszolgáltatás keretében kell elvégezni.
+
+(2) Az európai uniós forrásokhoz való hozzáférés érdekében szükséges egyes törvények módosításáról szóló 2026. évi XVIII. törvény által megállapított tartalmú adatszolgáltatást az 1. § (1) bekezdés 30. pontja szerinti adatszolgáltató vonatkozásában első alkalommal – a 7. § rendelkezéseitől eltérően – az adatszolgáltató nevében eljáró alapkezelő a nyilvántartó szerv felé közvetlenül, a nyilvántartó szerv által meghatározott módon 2026. október 5. napjáig végzi el az adatszolgáltató tényleges tulajdonosi adatainak 2020. február 1-ig – de legalább az adatszolgáltató létrehozásának időpontjáig – visszamenő átadásával.
+
 #### 16. Az Európai Unió jogának való megfelelés
 
 27. § E törvény
@@ -435,7 +449,7 @@ végzett adathozzáféréseket naplózza.
 - a) a pénzügyi rendszerek pénzmosás vagy terrorizmusfinanszírozás céljára való felhasználásának megelőzéséről, a 648/2012/EU európai parlamenti és tanácsi rendelet módosításáról, valamint a 2005/60/EK európai parlamenti és tanácsi irányelv és a 2006/70/EK bizottsági irányelv hatályon kívül helyezéséről szóló, 2015. május 20-i (EU) 2015/849 európai parlamenti és tanácsi irányelvnek,
 - b) a pénzügyi rendszerek pénzmosás vagy terrorizmusfinanszírozás céljára való felhasználásának megelőzéséről szóló (EU) 2015/849 irányelv, valamint a 2009/138/EK és a 2013/36/EU irányelv módosításáról szóló, 2018. május 30-i (EU) 2018/843 európai parlamenti és tanácsi irányelvnek,
 - c) a pénzügyi és egyéb információk bizonyos bűncselekmények megelőzése, felderítése, nyomozása és a vádeljárás lefolytatása céljából történő felhasználásának megkönnyítését szolgáló szabályok megállapításáról, valamint a 2000/642/IB tanácsi határozat hatályon kívül helyezéséről szóló, 2019. június 20-i (EU) 2019/1153 európai parlamenti és tanácsi irányelvnek
-- d) a pénzügyi rendszer pénzmosás vagy terrorizmusfinanszírozás céljára való felhasználásának megelőzése érdekében a tagállamok által létrehozandó mechanizmusokról, az (EU) 2019/1937 irányelv módosításáról, és az (EU) 2015/849 irányelv módosításáról és hatályon kívül helyezéséről szóló, 2024. május 31-i (EU) 2024/1640 európai parlamenti és tanácsi irányelv 74. cikkének
+- d) a pénzügyi rendszer pénzmosás vagy terrorizmusfinanszírozás céljára való felhasználásának megelőzése érdekében a tagállamok által létrehozandó mechanizmusokról, az (EU) 2019/1937 irányelv módosításáról, és az (EU) 2015/849 irányelv módosításáról és hatályon kívül helyezéséről szóló, 2024. május 31-i (EU) 2024/1640 európai parlamenti és tanácsi irányelv 12. és 74. cikkének
 
 való megfelelést szolgálja.
 

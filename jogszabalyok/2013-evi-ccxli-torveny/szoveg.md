@@ -80,11 +80,11 @@ az országgyűlési képviselők legalább egyötöde írásbeli ajánlással te
 
 12. § (1) A Bizottság tagja a megválasztását, megbízatását követő harminc napon belül vagyonnyilatkozatot tesz. A vagyonnyilatkozatra az országgyűlési képviselők vagyonnyilatkozatára vonatkozó szabályokat – az e törvényben meghatározott eltérésekkel – kell megfelelően alkalmazni.
 
-(2) A Bizottság tagja a vagyonnyilatkozatához csatolni köteles a vele közös háztartásban élő házas- vagy élettársának, gyermekeinek (a továbbiakban együtt: családtag) a Bizottság tagja vagyonnyilatkozatával azonos tartalmú vagyonnyilatkozatát.
+(2) A Bizottság tagja a vagyonnyilatkozatához csatolni köteles a vele közös háztartásban élő − a Polgári Törvénykönyvről szóló törvény szerinti − hozzátartozóinak (a továbbiakban együtt: családtag) a Bizottság tagja vagyonnyilatkozatával azonos tartalmú vagyonnyilatkozatát.
 
 (3) A családtag vagyonnyilatkozata kivételével a vagyonnyilatkozat nyilvános, oldalhű másolatát – a családtag személyes adatai kivételével – a főigazgató a Bizottság munkaszervezeteként működő Nemzeti Emlékezet Bizottságának Hivatala (a továbbiakban: Hivatal) honlapján haladéktalanul közzéteszi. A vagyonnyilatkozat a honlapról a Bizottság tagja megbízatásának megszűnését követő egy év elteltével távolítható el.
 
-(4) A vagyonnyilatkozatokat a Hivatalt vezető főigazgató kezeli. A főigazgató a Bizottság volt tagjának, valamint családtagjának vagyonnyilatkozatát a Bizottság tagja megbízatásának a megszűnését követő egy évig őrzi.
+(4) A vagyonnyilatkozatokat a Hivatalt vezető főigazgató kezeli. A főigazgató a Bizottság volt tagjának, valamint családtagjának vagyonnyilatkozatát a Bizottság tagja megbízatásának a megszűnését követő három évig őrzi.
 
 13. § A vagyonnyilatkozat-tétel elmulasztása esetén annak teljesítéséig a Bizottság tagja a tisztségéből eredő jogkörét nem gyakorolhatja, és díjazásban, valamint juttatásban nem részesülhet.
 
@@ -291,5 +291,9 @@ volt.
 40/B. § (1) A Bizottság tagja az európai uniós költségvetési források felhasználásának ellenőrzésével összefüggő egyes, vagyonnyilatkozattal kapcsolatos törvények módosításáról szóló 2022. évi XXXI. törvénnyel megállapított rendelkezéseknek megfelelően, az Európai Bizottság kérésére egyes törvényeknek a kondicionalitási eljárás eredményes lezárása érdekében szükséges módosításáról szóló 2022. évi LVI. törvénnyel megállapított tartalommal és formában először – 2022. november 1. napján fennálló állapot szerint − 2023. január 31-ig tesz vagyonnyilatkozatot, amelyhez csatolja a vele közös háztartásban élő családtagjának vagyonnyilatkozatát is.
 
 (2) Az európai uniós költségvetési források felhasználásának ellenőrzésével összefüggő egyes, vagyonnyilatkozattal kapcsolatos törvények módosításáról szóló 2022. évi XXXI. törvény hatálybalépése napján folyamatban lévő vagyonnyilatkozattal kapcsolatos eljárásokban az eljárás megindulása napján hatályos szabályokat kell alkalmazni.
+
+40/C. § (1) A Bizottság tagja az európai uniós forrásokhoz való hozzáférés érdekében szükséges egyes törvények módosításáról szóló 2026. évi XVIII. törvény által megállapított tartalommal és formában először – 2026. december 31. napján fennálló állapot szerint − 2027. január 31-ig tesz vagyonnyilatkozatot, amelyhez csatolja a vele közös háztartásban élő − a Polgári Törvénykönyvről szóló törvény szerinti − hozzátartozó vagyonnyilatkozatát is.
+
+(2) Az európai uniós forrásokhoz való hozzáférés érdekében szükséges egyes törvények módosításáról szóló 2026. évi XVIII. törvény hatálybalépése napján folyamatban lévő vagyonnyilatkozattal kapcsolatos eljárásokban az eljárás megindulása napján hatályos szabályokat kell alkalmazni.
 
 41. § A 31. § az Alaptörvény 46. cikk (6) bekezdése alapján sarkalatosnak minősül.

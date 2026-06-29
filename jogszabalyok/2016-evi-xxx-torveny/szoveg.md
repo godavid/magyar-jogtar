@@ -132,7 +132,7 @@ megismerése nem korlátozható.
 
 (2) Ha a beszerzés részben e törvény hatálya alá tartozó, részben a közbeszerzésekről szóló 2015. évi CXLIII. törvény (a továbbiakban: Kbt.) hatálya alá tartozó elemekből áll oly módon, hogy a beszerzés különböző elemei objektíve nem választhatóak szét, és szükségszerűen egy szerződés tárgyát képezik, a szerződés megkötésére e törvény alkalmazandó.
 
-(3) Ha a beszerzés részben e törvény hatálya alá tartozó, részben e törvény hatálya alá a 7. § (1) bekezdés 4. pontja alapján nem tartozó elemekből áll oly módon, hogy a beszerzés különböző elemei objektíve nem választhatóak szét, és szükségszerűen egy szerződés tárgyát képezik, a szerződés megkötésére e törvényt – a 7. § (1) bekezdés 4. pontja szerinti felmentés rendelkezésre állása esetén – nem kell alkalmazni.
+(3) Ha a beszerzés részben e törvény hatálya alá tartozó, részben e törvény hatálya alá a 7. § (1) bekezdés 4. pontja alapján nem tartozó elemekből áll oly módon, hogy a beszerzés különböző elemei objektíve nem választhatóak szét, és szükségszerűen egy szerződés tárgyát képezik, a szerződés megkötésére e törvényt – a 7. § (1) bekezdés 4. pontja szerinti jóváhagyás rendelkezésre állása esetén – nem kell alkalmazni.
 
 (4) Ha a beszerzés részben e törvény hatálya alá tartozó elemekből áll, de a fennmaradó része nem tartozik e törvény, a Kbt., vagy a 7. § (1) bekezdés 4. pontja hatálya alá oly módon, hogy a beszerzés különböző elemei objektíve nem választhatóak szét, és szükségszerűen egy szerződés tárgyát képezik, a szerződés megkötésére e törvény nem alkalmazandó.
 
@@ -140,7 +140,7 @@ megismerése nem korlátozható.
 
 (6) Ha a beszerzés egyetlen szerződés megkötésével való megvalósítása objektív okból indokolt, és ezért az ajánlatkérő az egyébként objektíve szétválasztható elemekből álló beszerzésre egy szerződést köt,
 
-- a) ha a szerződés a 7. § (1) bekezdés 4. pontja hatálya alá tartozó szerződési elemet tartalmaz, e törvényt az ott meghatározott felmentés rendelkezésre állása esetén nem kell alkalmazni,
+- a) ha a szerződés a 7. § (1) bekezdés 4. pontja hatálya alá tartozó szerződési elemet tartalmaz, e törvényt az ott meghatározott jóváhagyás rendelkezésre állása esetén nem kell alkalmazni,
 - b) ha a szerződés részben e törvény, részben a Kbt. hatálya alá tartozó szerződési elemet tartalmaz és egyúttal nem áll fenn az a) pont szerinti eset, e törvényt kell alkalmazni, vagy
 - c) ha a szerződés részben e törvény hatálya alá tartozó szerződési elemet tartalmaz, de a fennmaradó része nem tartozik e törvény, a Kbt., vagy a 7. § (1) bekezdés 4. pontjának hatálya alá, e törvényt nem kell alkalmazni.
 
@@ -165,7 +165,7 @@ megismerése nem korlátozható.
 - 1. Magyarország és egy vagy több európai uniós tagállam, illetve egy vagy több harmadik ország között kötött nemzetközi szerződés alapján külön eljárási rend szerint lefolytatásra kerülő beszerzésre,
 - 2. csapatok állomásoztatására vonatkozó és valamely tagállam vagy harmadik ország vállalkozásait érintően kötött nemzetközi szerződés alapján külön eljárási rend szerinti beszerzésre,
 - 3. valamely nemzetközi szervezet sajátos eljárási szabályainak hatálya alá tartozó, a szervezet saját céljai érdekében történő beszerzésre, továbbá arra a beszerzésre, amelyet a szervezet sajátos eljárási szabályaival összhangban Magyarország folytat le,
-- 4. a 61–63. alcím kivételével, az Európai Unió Működéséről szóló Szerződés (a továbbiakban: EUMSZ) 346. cikke alapján történő azon beszerzésekre, amelyek esetében ezen törvény szabályainak alkalmazása olyan információk átadására kötelezné a tagállamot, amelyek felfedése ellentétes a tagállam biztonságához fűződő alapvető érdekeivel, és amelyek megrendelésére az Országgyűlés illetékes bizottsága külön jogszabályban meghatározott feltételeknek megfelelő kezdeményezés alapján hozott előzetes döntésében e törvény alkalmazása alól felmentést adott,
+- 4. a 61–63. alcím kivételével, az Európai Unió Működéséről szóló Szerződés (a továbbiakban: EUMSZ) 346. cikke alapján történő azon beszerzésekre, amelyek esetében ezen törvény szabályainak alkalmazása olyan információk átadására kötelezné a tagállamot, amelyek felfedése ellentétes a tagállam biztonságához fűződő alapvető érdekeivel, és amelyek megrendelésére vonatkozó ajánlatkérői döntést az Országgyűlés illetékes bizottsága külön jogszabályban meghatározott feltételeknek megfelelő kezdeményezés alapján jóváhagyott,
 - 5. a hírszerző és elhárító tevékenységek céljából lefolytatott beszerzésekre,
 - 6. Magyarország és legalább egy másik európai uniós tagállam által közösen folytatott, új termék kifejlesztésére irányuló, e termék teljes életciklusára vagy annak egy részére vonatkozó kutatáson és fejlesztésen alapuló együttműködési programok keretében odaítélt szerződésekre,
 - 7. a harmadik országban kiírt olyan beszerzésre, a civil célú beszerzéseket is ideeértve, amelyekre a Magyar Honvédségnek az Európai Unió területén kívül történő állomásoztatása során kerül sor, ahol a műveleti igények megkövetelik, hogy e beszerzést a műveletek körzetében tevékenységet kifejtő gazdasági szereplők bevonásával folytassák le,
@@ -617,6 +617,8 @@ meghatározva a központosított beszerzés személyi feltételeit és tárgyát
 
 (4) A (3) bekezdéstől eltérően az ajánlatkérő az eljárást akkor is eredménytelenné nyilváníthatja, ha az eljárást megindító felhívásban felhívta a gazdasági szereplők figyelmét arra, hogy amennyiben valamely meghatározott, ellenőrzési körén kívül eső, bizonytalan jövőbeli esemény a (2) bekezdésben foglalt határidőt követően bekövetkezik, az eljárást – feltételes beszerzésként – eredménytelenné nyilváníthatja.
 
+(5) Ha az Integritás Hatóság a részvételi vagy ajánlattételi határidő leteltét megelőzően függeszti fel a beszerzési eljárást, a felfüggesztés időtartama alatt a részvételi vagy az ajánlattételi határidő nem jár le és a felfüggesztés megszűnését követően az ajánlatkérő köteles a határidőt a megfelelő részvételi jelentkezés vagy ajánlat benyújtásához szükséges mértékben meghosszabbítani.
+
 39. § (1) Az ajánlattevő az ajánlattételi határidő lejártáig módosíthatja ajánlatát.
 
 (2) Az ajánlattételi határidő lejártát követően a benyújtott ajánlatok az ajánlatkérő hozzájárulásával sem módosíthatók.
@@ -910,6 +912,8 @@ kell érteni.
 (2) Ha az ajánlatkérő az elbírálást nem tudja olyan időtartam alatt elvégezni, hogy az ajánlattevőknek az eljárást lezáró döntésről való értesítésére az ajánlati kötöttség fennállása alatt sor kerüljön, felkérheti az ajánlattevőket ajánlataiknak meghatározott időpontig történő további fenntartására, az ajánlati kötöttség kiterjesztése azonban nem haladhatja meg az ajánlati kötöttség lejártának eredeti időpontjától számított hatvan napot. Ha az ajánlattevő az ajánlatkérő által megadott határidőben nem nyilatkozik, úgy kell tekinteni, hogy ajánlatát az ajánlatkérő által megjelölt időpontig fenntartja. Ha valamelyik ajánlattevő az ajánlatát nem tartja fenn, az ajánlati kötöttség lejártának eredeti időpontját követően az eljárás további részében az értékelés során ajánlatát figyelmen kívül kell hagyni.
 
 (3) Az ajánlatkérő a részvételi jelentkezéseket köteles a lehető legrövidebb időn belül elbírálni. Ha a részvételi felhívásban feltüntetett ajánlattételi felhívás megküldésének időpontjáig a bírálatot nem tudja befejezni, minden részvételre jelentkezőnek egyidejűleg értesítést küld az ajánlattételi felhívás megküldésének – annak eredeti időpontjától számított hatvan napnál nem későbbi – új időpontjáról, és a részvételi szakasz eredményéről ezt megelőzően kell a részvételre jelentkezőket értesíteni.
+
+(4) Ha az Integritás Hatóság a részvételi vagy ajánlattételi határidő leteltét követően függeszti fel a beszerzési eljárást, a beszerzési eljárás felfüggesztésének ideje alatt az ajánlatkérő nem hozhatja meg az eljárás részvételi szakaszát lezáró döntést vagy az eljárást lezáró döntést, valamint az ajánlatkérőre irányadó folyamatban lévő határidők a felfüggesztés időtartamával meghosszabbodnak.
 
 #### 34. Hiánypótlás, felvilágosítás-kérés és a számítási hiba javítása
 
@@ -2119,7 +2123,9 @@ nem vehető fel a jegyzékre, illetve a minősített piaci szereplők jegyzéké
 
 (3) A Közbeszerzési Döntőbizottság illetékessége az ország egész területére kiterjed.
 
-(4) A Közbeszerzési Döntőbizottság az e törvény alkalmazása alóli kivételekkel kapcsolatos jogorvoslat során nem vizsgálhatja felül az Országgyűlés illetékes bizottságának e törvény alkalmazása alóli felmentést eredményező döntését.
+(4) A Közbeszerzési Döntőbizottságot az e törvény hatálya alóli kivételek alkalmazásának jogszerűségére vonatkozó jogorvoslat során nem köti az Országgyűlés illetékes bizottságának a kivétel alkalmazására irányuló ajánlatkérői döntést jóváhagyó határozata.
+
+(4a) Az Integritás Hatóságot a jogszabályban meghatározott feladatkörében folytatott, az e törvény hatálya alóli kivételek alkalmazásának jogszerűségére vonatkozó vizsgálata és a jogorvoslati kérelem benyújtása során nem köti az Országgyűlés illetékes bizottságának a kivétel alkalmazására irányuló ajánlatkérői döntést jóváhagyó határozata.
 
 (5) Nem tartozik a Közbeszerzési Döntőbizottság hatáskörébe a beszerzési eljárásban a jegyzékre, minősített piaci szereplők jegyzékére kerülés érdekében lefolytatott eljárás, vagy a jegyzékből, minősített piaci szereplők jegyzékéből történő törlés szabályosságával kapcsolatos panaszok elbírálása.
 
@@ -2179,6 +2185,8 @@ nem vehető fel a jegyzékre, illetve a minősített piaci szereplők jegyzéké
 (7) A (3)–(6) bekezdés szerinti határidők elmulasztása jogvesztéssel jár.
 
 (8) A kérelem benyújtása előtt az (1) bekezdés szerinti kérelmező köteles erről – az általa feltételezett jogsértés megjelölésével – a kérelem benyújtásával megegyező módon az ajánlatkérőt, illetve a beszerzőt értesíteni.
+
+(9) A (2) bekezdésben foglaltakon kívül, kérelmet nyújthat be az Integritás Hatóság. Ebben az esetben az Integritás Hatóságra a kérelmezőre vonatkozó szabályokat kell alkalmazni, azzal a különbséggel, hogy az eljárásban a (3)–(4) és (7) bekezdés, a 144–146. §, a 147. § (2) bekezdés b) pontja és (3)–(4) bekezdése nem alkalmazandó. Az Integritás Hatóság a Kbt. 152. § (2) és (2a) bekezdésében meghatározott határidőn belül nyújthat be kérelmet. A jogsértés megtörténtének időpontja tekintetében a (6) bekezdést alkalmazni kell. A 143. § (1) bekezdés c) pontja azzal az eltéréssel alkalmazandó, hogy a jogsértésről való tudomásszerzés időpontját akkor kell megjelölni, ha az a 174. § (5) bekezdése szerint releváns.
 
 143. § (1) A kérelemben meg kell jelölni
 
@@ -2267,6 +2275,8 @@ nem vehető fel a jegyzékre, illetve a minősített piaci szereplők jegyzéké
 - a) a beszerzési eljárás felfüggesztését rendeli el,
 - b) megsemmisíti az ajánlatkérő jogellenesen meghozott döntését, ideértve a megkülönböztető műszaki, gazdasági vagy pénzügyi előírások törlését az ajánlatkérői dokumentumokból, vagy
 - c) felszólítja a beszerzési eljárás ajánlatkérőjét, hogy az eljárásba a kérelmezőt vonja be.
+
+(2a) Ha a Közbeszerzési Döntőbizottság eljárását az Integritás Hatóság kérelmezi, – az Integritás Hatóság erre vonatkozó indítványa esetén – a Közbeszerzési Döntőbizottság elrendeli a beszerzési eljárás felfüggesztését.
 
 (3) A beszerzési eljárás felfüggesztése a felhívásban előírt és folyamatban lévő határidőket a felfüggesztés időtartamával meghosszabbítja.
 
@@ -2545,6 +2555,10 @@ alkalmazni kell azzal az eltéréssel, hogy ahol az Itv. illetéket említ, azon
 (3) E törvénynek az egyes törvények honvédelmi kérdésekkel összefüggő módosításáról szóló 2017. évi CLXXXIX. törvénnyel megállapított rendelkezéseit a 2018. január 1-jén és az azt követően megkezdett beszerzésekre, beszerzési eljárásokra, beszerzési eljárás alapján megkötött szerződésekre kell alkalmazni.
 
 (4) A 2020. július 1-jét megelőző napon hatályos Mavtv. 16. § (2) bekezdés c) pontja szerint kiadott telephely biztonsági tanúsítvánnyal rendelkező gazdasági szereplőt az egyes energetikai és közszolgáltatási tárgyú törvények módosításáról szóló 2021. évi LXVIII. törvény hatálybalépését követően is jegyzéken szereplőnek kell tekinteni a telephely biztonsági tanúsítvány kiállításától számított öt évig.
+
+(5) E törvénynek az európai uniós forrásokhoz való hozzáférés érdekében szükséges egyes törvények módosításáról szóló 2026. évi XVIII. törvénnyel (a továbbiakban: Módtv.) megállapított 7. § (1) bekezdés 4. pontját, 5. § (3) bekezdését, (6) bekezdés a) pontját, és 139. § (4) és (4a) bekezdését azon beszerzések tekintetében kell alkalmazni, amelyek tekintetében az Országgyűlés illetékes bizottságának döntésére a Módtv. hatálybalépését követően került sor.
+
+(6) E törvénynek a Módtv.-vel módosított 142. § (9) bekezdését az ezen rendelkezések hatálybalépését követően megvalósult jogsértések, valamint az ezen rendelkezések hatálybalépését megelőzően megvalósult jogsértések miatt kezdeményezett jogorvoslati eljárásokra is alkalmazni kell, ha az Integritás Hatóság tekintetében a Módtv. hatálybalépésekor a 142. § (3) bekezdése szerinti jogorvoslati határidő még nem járt le.
 
 #### 96. Módosító rendelkezések
 

@@ -3437,6 +3437,10 @@ azzal, hogy 2019. január 1-jétől az anticiklikus tőkepufferrátát a 33. §-
 
 (2) Az európai uniós költségvetési források felhasználásának ellenőrzésével összefüggő egyes, vagyonnyilatkozattal kapcsolatos törvények módosításáról szóló 2022. évi XXXI. törvény hatálybalépése napján folyamatban lévő vagyonnyilatkozattal kapcsolatos eljárásokban az eljárás megindulása napján hatályos szabályokat kell alkalmazni.
 
+(3) Az MNB elnöke, alelnökei és a Monetáris Tanács 9. § (4) bekezdés c) pontjában meghatározott tagjai, valamint a felügyelőbizottság tagjai az európai uniós forrásokhoz való hozzáférés érdekében szükséges egyes törvények módosításáról szóló 2026. évi XVIII. törvény által megállapított tartalommal és formában először – 2026. december 31. napján fennálló állapot szerint − 2027. január 31-ig tesznek vagyonnyilatkozatot, amelyhez csatolják a velük közös háztartásban élő hozzátartozójuk vagyonnyilatkozatát is.
+
+(4) Az európai uniós forrásokhoz való hozzáférés érdekében szükséges egyes törvények módosításáról szóló 2026. évi XVIII. törvény hatálybalépése napján folyamatban lévő vagyonnyilatkozattal kapcsolatos eljárásokban az eljárás megindulása napján hatályos szabályokat kell alkalmazni.
+
 183/N. § (1) A Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény módosításáról szóló 2022. évi LXXVII. törvénnyel (a továbbiakban: Módtv.4.) megállapított 76. § (5), (5a) és (6) bekezdését, 86/A. § (5) bekezdését, 90. § (2) bekezdését, 91. § (5) bekezdését a Módtv.4. hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
 
 (2) A Módtv.4.-gyel módosított 149. § (1)–(3), (5), (6) és (8) bekezdését első alkalommal a Módtv.4. hatálybalépésének napjától 2023. február 28-ig terjedő időszakra vonatkozóan kell alkalmazni.

@@ -53,12 +53,12 @@ tervezetét és indokolását (a továbbiakban együtt: tervezet).
 - c) a költségvetésről, a költségvetés végrehajtásáról,
 - d) az európai uniós, illetve nemzetközi forrásokból nyújtott támogatásokról,
 - e) a nemzetközi szerződés kihirdetéséről,
-- f) a szervezet és intézmény alapításáról, valamint
-- g) az anyakönyvi eljárásról szóló 2010. évi I. törvény 44. § (3) bekezdése és 46. § (3) bekezdése szerinti utónévjegyzékről
+- f) a szervezet és intézmény alapításáról
+- g)
 
 szóló jogszabályok tervezeteit.
 
-(4) Nem bocsátható társadalmi egyeztetésre a tervezet, koncepció, ha az egyeztetés Magyarország különösen fontos honvédelmi, nemzetbiztonsági, pénzügyi, külügyi, természetvédelmi, környezetvédelmi vagy örökségvédelmi érdekeinek védelmét veszélyeztetné.
+(4) Nem bocsátható társadalmi egyeztetésre a tervezet, koncepció, ha az egyeztetés Magyarország különösen fontos honvédelmi, nemzetbiztonsági, pénzügyi, külügyi vagy örökségvédelmi érdekeinek védelmét veszélyeztetné.
 
 (5)
 

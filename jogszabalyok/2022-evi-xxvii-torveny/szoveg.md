@@ -65,49 +65,31 @@ Az Országgyűlés az európai uniós költségvetési források felhasználás�
 
 (6) A Hatóság feladatainak ellátása során, az ahhoz szükséges mértékben ellenőrizheti
 
-1. a Gazdasági Versenyhivatal elnöke, elnökhelyettese, a Versenytanács tagja,
-
-2. a Médiatanács tagja,
-
-3. az Állami Számvevőszék elnöke és alelnöke,
-
-4. az alapvető jogok biztosa és helyettese,
-
-5. a Nemzeti Adatvédelmi és Információszabadság Hatóság elnöke és elnökhelyettese,
-
-6. az Alkotmánybíróság tagja,
-
-7. a legfőbb ügyész és a legfőbb ügyész helyettese,
-
-8. a Költségvetési Tanács elnöke,
-
-9. a Nemzeti Választási Iroda elnöke és elnökhelyettese,
-
-10. a Magyar Nemzeti Bank elnöke, alelnökei és a Monetáris Tanácsnak a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény 9. § (4) bekezdés c) pontjában meghatározott tagjai, valamint a felügyelőbizottság tagjai,
-
-11. a Nemzeti Emlékezet Bizottságának tagja,
-
-12. a Közbeszerzési Hatóság keretében működő Tanács elnöke, alelnöke és tagja,
-
-13. az országgyűlési képviselői megbízatással nem rendelkező politikai felsővezető,
-
-14. az önkormányzati képviselő és a polgármester és
-
-15. a nemzetiségi önkormányzati képviselő
+- 1. a Gazdasági Versenyhivatal elnöke, elnökhelyettese, a Versenytanács tagja,
+- 2. a Médiatanács tagja,
+- 3. az Állami Számvevőszék elnöke és alelnöke,
+- 4. az alapvető jogok biztosa és helyettese,
+- 5. a Nemzeti Adatvédelmi és Információszabadság Hatóság elnöke és elnökhelyettese,
+- 6. az Alkotmánybíróság tagja,
+- 7. a legfőbb ügyész és a legfőbb ügyész helyettese,
+- 8. a Költségvetési Tanács elnöke,
+- 9. a Nemzeti Választási Iroda elnöke és elnökhelyettese,
+- 10. a Magyar Nemzeti Bank elnöke, alelnökei és a Monetáris Tanácsnak a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény 9. § (4) bekezdés c) pontjában meghatározott tagjai, valamint a felügyelőbizottság tagjai,
+- 11. a Nemzeti Emlékezet Bizottságának tagja,
+- 12. a Közbeszerzési Hatóság keretében működő Tanács elnöke, alelnöke és tagja,
+- 13. az országgyűlési képviselői megbízatással nem rendelkező politikai felsővezető,
+- 14. az önkormányzati képviselő és a polgármester és
+- 15. a nemzetiségi önkormányzati képviselő
 
 vagyonnyilatkozatát, és jogosult vagyonnyilatkozati vizsgálati eljárást lefolytatni, és ennek eredménye alapján az 1–15. pontokban meghatározott személyi körre vonatkozó szabályok szerinti vagyonnyilatkozattal kapcsolatos eljárást kezdeményezni. A vagyonnyilatkozattal kapcsolatos eljárás eredményéről a Hatóságot tájékoztatni kell.
 
 (6a) A Hatóság feladatainak ellátása során
 
-a) a köztársasági elnök,
-
-b) az országgyűlési képviselő, a nemzetiségi szószóló és az Országgyűlés háznagya,
-
-c) a bíró,
-
-d) az országgyűlési képviselői megbízatással rendelkező politikai felsővezető és
-
-e) a Szuverenitásvédelmi Hivatal elnöke és elnökhelyettese
+- a) a köztársasági elnök,
+- b) az országgyűlési képviselő, a nemzetiségi szószóló és az Országgyűlés háznagya,
+- c) a bíró,
+- d) az országgyűlési képviselői megbízatással rendelkező politikai felsővezető és
+- e) a Szuverenitásvédelmi Hivatal elnöke és elnökhelyettese
 
 vagyonnyilatkozatával kapcsolatban jogosult az a)–e) pontban meghatározott személyi körre vonatkozó szabályok szerinti vagyonnyilatkozattal kapcsolatos eljárást kezdeményezni. A vagyonnyilatkozattal kapcsolatos eljárás eredményéről a Hatóságot tájékoztatni kell.
 
@@ -120,6 +102,8 @@ vagyonnyilatkozatával kapcsolatban jogosult az a)–e) pontban meghatározott s
 (2) A Hatóság megfelelő intézkedéseket hoz annak érdekében, hogy a hatásköreinek gyakorlásában és a feladatainak ellátásában részt vevő személyek esetében megelőzze, feltárja és orvosolja az objektív érdekellentétnek tekinthető helyzeteket.
 
 (3) A (2) bekezdés alkalmazásában érdekellentét különösen, ha a feladat pártatlan és tárgyilagos ellátása családi vagy érzelmi okok, politikai szimpátiával, elköteleződéssel vagy nemzeti kötődéssel kapcsolatos okok, továbbá gazdasági érdek vagy bármely más közvetlen vagy közvetett személyes érdek miatt sérül.
+
+7/A. § A Hatóság az e törvény szerinti, közbeszerzésekkel kapcsolatos feladat- és hatásköreit a védelmi és biztonsági célú beszerzésekről szóló 2016. évi XXX. törvény szerinti védelmi és biztonsági beszerzések tekintetében is gyakorolhatja. Ebben az esetben e törvény alkalmazásában – a IV. Fejezet kivételével – közbeszerzés és közbeszerzési eljárás alatt védelmi és biztonsági beszerzést, illetve védelmi és biztonsági beszerzési eljárást is megfelelően érteni kell.
 
 #### 3. Megállapodások kötése a Hatóság által
 
@@ -187,6 +171,8 @@ vagyonnyilatkozatával kapcsolatban jogosult az a)–e) pontban meghatározott s
 (3) Ha az e § szerinti ajánlással érintett ajánlatkérő nem a Hatóság által kiadott ajánlás szerint jár el, köteles ez irányú döntését írásban részletesen megindokolni, és az indokolást a Hatóság részére megküldeni.
 
 (4) Az ajánlatkérő – a Hatóság ajánlásával összefüggő – jogsértése esetén a Hatóság a feladat- és hatáskörrel rendelkező szerv vagy bíróság eljárását kezdeményezheti, így különösen közbeszerzési jogsértés esetén a Kbt. 152. § (1) bekezdés o) pontja szerint kezdeményezheti a Közbeszerzési Döntőbizottság eljárását. Az alkalmazandó eljárási szabályokkal összhangban, a Hatóság ideiglenes intézkedés meghozását indítványozhatja.
+
+(5) Ha a Közbeszerzési Döntőbizottság az ügyintézési határidőn belül eljárási kötelességének nem tesz eleget, a Hatóság a közigazgatási perrendtartásról szóló 2017. évi I. törvény rendelkezései szerint mulasztási pert indíthat.
 
 16. § (1) A Hatóság bejelentés alapján, panasz alapján, hivatalból vagy az ajánlatkérő kérésére megvizsgálhatja a Kbt. 62. § (1) és (2) bekezdése vagy – amennyiben az ajánlatkérő az eljárásban előírta – a Kbt. 63. § (1) bekezdése szerinti kizáró okok konkrét gazdasági szereplőre való alkalmazhatóságát az európai uniós forrásból megvalósuló vagy megvalósítani tervezett közbeszerzési eljárásban az ajánlatok vagy részvételi jelentkezések bírálata során.
 
@@ -382,7 +368,7 @@ céljából, erre irányuló megkeresés alapján továbbítható.
 
 #### 13. A Hatóság elnöke és elnökhelyettesei
 
-32. § (1) A Hatóságot az elnök vezeti, aki munkáját a két elnökhelyettessel a Hatóság Igazgatóságában együttműködve látja el.
+32. § (1) A Hatóságot az elnök vezeti, aki munkáját a négy elnökhelyettessel a Hatóság Igazgatóságában együttműködve látja el.
 
 (2) Az elnök a Hatóság feladat- és hatásköreit a Hatóság Igazgatósága döntésének megfelelően gyakorolja.
 
@@ -395,11 +381,20 @@ céljából, erre irányuló megkeresés alapján továbbítható.
 
 (2) A Hatóság elnöke az (1) bekezdés szerinti hatásköröket önállóan gyakorolja.
 
+(3) A Hatóság elnöke jogviszonyának megszűnése estén az új elnök kinevezéséig a Hatóság elnökének feladat- és hatásköreit a Hatóság Igazgatósága által kijelölt elnökhelyettes gyakorolja. A Hatóság Igazgatósága az elnökhelyettes kijelölésére vonatkozó döntést testületként, az összes tag több mint felének szavazatával hozza meg.
+
 #### 14. A Hatóság Igazgatósága
 
-34. § (1) A Hatóság legfőbb döntéshozó szerve a Hatóság Igazgatósága, amelynek tagja a Hatóság elnöke és két elnökhelyettese.
+34. § (1) A Hatóság legfőbb döntéshozó szerve a Hatóság Igazgatósága, amelynek tagja a Hatóság elnöke és négy elnökhelyettese.
 
-(2) A Hatóság Igazgatósága a Hatóság feladat- és hatáskörének gyakorlásával közvetlenül összefüggő döntést testületként, többségi döntéshozatal útján hozza meg.
+(2) A Hatóság Igazgatósága
+
+- a) a Hatóság 5. §-ban meghatározott feladatainak ellátásával összefüggő érdemi döntéseket,
+- b) a Hatóság költségvetésének elfogadását,
+- c) a Korrupcióellenes Munkacsoport munkájában részt vevő nem kormányzati szereplőket képviselő tag kiválasztását vagy felkérése visszavonását az 57. és 58. §-ban foglaltakkal összhangban,
+- d) a Hatóság szervezeti és működési szabályzatában meghatározott azon egyéb ügyekben hozott döntéseket, amelyek nem tartoznak a 33. § (1) bekezdés a) pontja alapján a Hatóság elnökének hatáskörébe
+
+testületként, többségi döntéshozatal útján hozza meg.
 
 (3) A Hatóság Igazgatósága a tevékenységéről évente beszámol az Országgyűlésnek. A beszámolót meg kell küldeni az Európai Bizottság részére is.
 
@@ -407,7 +402,7 @@ céljából, erre irányuló megkeresés alapján továbbítható.
 
 35. § (1) A Hatóság elnökét és elnökhelyetteseit az Állami Számvevőszék elnöke javaslatára a köztársasági elnök hat évre nevezi ki. Az elnök és az elnökhelyettes ismételten nem nevezhető ki.
 
-(2) Az Állami Számvevőszék elnöke a javaslatát a 37. § (3) bekezdése szerinti névsoron szereplő személyek közül teszi meg.
+(2) Az Állami Számvevőszék elnöke a javaslatát a 37. § (3) bekezdése szerinti névsoron szereplő személyek közül, az Alkalmassági Bizottság által a jelöltek sorrendjére vonatkozó megállapításra figyelemmel, a névsor kézhezvételét követő 5 napon belül teszi meg. Az Alkalmassági Bizottság által megállapított sorrendtől az Állami Számvevőszék elnöke kivételesen, indokolt esetben térhet el, és az eltérés indokait az (1) bekezdés szerinti javaslatban be kell mutatni.
 
 (3) A Hatóság elnöke és elnökhelyettesei tevékenységüket közszolgálati jogviszony keretében látják el, jogviszonyukra az e törvényben foglalt eltérésekkel a Küt. rendelkezéseit kell alkalmazni.
 
@@ -424,7 +419,9 @@ céljából, erre irányuló megkeresés alapján továbbítható.
 
 (2) A pályázat akkor érvényes, ha arra legalább a betöltendő pozíciók kétszeresének megfelelő számú személy jelentkezik. Érvénytelen pályázat esetén a pályázatot ismételten ki kell írni. Az ismételten kiírt pályázat akkor érvényes, ha arra legalább a betöltendő pozíciók kétszeresének megfelelő számú személy jelentkezik.
 
-(3) A pályázatra jelentkező személyek közül a Hatóság elnökének és elnökhelyettesének tisztségére alkalmasnak minősített és így a pozíció betöltésére javasolható személyek – szakmai érdemekre, szaktudásra és végzettségre figyelemmel összeállított – névsoráról az Alkalmassági Bizottság dönt.
+(2a) A pályázatot a Hatóság elnöke, illetve elnökhelyettese jogviszonya megszűnésétől számított 5 napon belül ki kell írni, a pályázatra történő jelentkezés lehetőségét 30 napig kell biztosítani, és a (3) bekezdés szerinti névsort a jelentkezési határidő leteltét követő 15 napon belül meg kell küldeni az Állami Számvevőszék elnöke részére.
+
+(3) A pályázatra jelentkező személyek közül a Hatóság elnökének és elnökhelyettesének tisztségére alkalmasnak minősített és így a pozíció betöltésére javasolható személyek – szakmai érdemekre, szaktudásra és végzettségre figyelemmel összeállított és a jelöltek sorrendjét megállapító – névsoráról az Alkalmassági Bizottság dönt.
 
 (4) Az Alkalmassági Bizottság véleményében az alkalmasság megállapításán kívül más módon is segítheti – a jelölési és kinevezési eljárás sérelme nélkül – a Hatóság elnökének és elnökhelyettesének jelölésére vonatkozó tájékozott döntést.
 
@@ -455,9 +452,9 @@ céljából, erre irányuló megkeresés alapján továbbítható.
 
 (5) Az Állami Számvevőszék elnöke a (4) bekezdés szerinti keresetlevelet a Hatóság elnöke, illetve elnökhelyettese részére egyidejűleg megküldi.
 
-(6) A bíróság a (4) bekezdés szerinti perben a közszolgálati jogviszonnyal kapcsolatos per szabályai szerint jár el azzal, hogy a pert a Hatóság elnöke, illetve elnökhelyettese ellen kell megindítani, és a perre a Fővárosi Törvényszék kizárólagosan illetékes. A bíróság a keresetről harminc napon belül dönt.
+(6) A bíróság a (4) bekezdés szerinti perben a közszolgálati jogviszonnyal kapcsolatos per szabályai szerint jár el azzal, hogy a pert a Hatóság elnöke, illetve elnökhelyettese ellen kell megindítani, és a perre a Fővárosi Törvényszék kizárólagosan illetékes. A bíróság a keresetről hatvan napon belül dönt.
 
-(7) Ha a bíróság azt állapítja meg, hogy az Állami Számvevőszék elnökének a (4) bekezdés szerinti keresete megalapozott, a bíróság határozatában megszünteti a Hatóság elnöke, illetve elnökhelyettese jogviszonyát. A bíróság ítéletével szemben fellebbezésnek van helye.
+(7) Ha a bíróság azt állapítja meg, hogy az Állami Számvevőszék elnökének a (4) bekezdés szerinti keresete megalapozott, a bíróság határozatában megszünteti a Hatóság elnöke, illetve elnökhelyettese jogviszonyát. A bíróság ítéletével szemben halasztó hatályú fellebbezésnek van helye.
 
 (8)
 
@@ -764,6 +761,8 @@ meghatározott összeférhetetlenségi helyzeteket is, kiegészítve az összef�
 (2) A Hatóság Igazgatósága az első ülését legkésőbb 2022. november 19-ig megtartja, amelyről jegyzőkönyvet készít.
 
 (3) A Hatóság a teljes működését 2022. november 19. napján kezdi meg.
+
+70/A. § Az európai uniós forrásokhoz való hozzáférés érdekében szükséges egyes törvények módosításáról szóló 2026. évi XVIII. törvény által megállapított 32. § (1) bekezdése és 34. § (1) bekezdése hatálybalépésekor be nem töltött elnökhelyettesi tisztség esetében a pályázatot az európai uniós forrásokhoz való hozzáférés érdekében szükséges egyes törvények módosításáról szóló 2026. évi XVIII. törvény által megállapított 32. § (1) bekezdése és 34. § (1) bekezdése hatálybalépését követő 5 napon belül kell kiírni.
 
 71. § (1) Az európai támogatásokat auditáló szerv az e törvény hatálybalépéstől számított 6 hónapos időtartamra a Hatóság létrehozásával összefüggő titkársági és adminisztratív teendők ellátásához támogatást nyújt, és biztosítja a szükséges infrastruktúrát.
 

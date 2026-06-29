@@ -340,6 +340,8 @@ magyarországi lakcímmel rendelkező, a központi névjegyzékben szereplő vá
 
 (6) A (3) és (4) bekezdésben meghatározott tiszteletdíj arányosan csökkentett része illeti meg az adott naptári évre a Nemzeti Választási Bizottság tagját, ha az előző naptári évben az ülések legalább 20%-áról – igazolatlanul – távol maradt. Az ülésről való távolmaradás igazolásának részletes szabályait a 42. § (1) bekezdése szerinti ügyrend tartalmazza. Az adott naptári évre vonatkozó tiszteletdíj-csökkentést a Nemzeti Választási Bizottság elnöke rendeli el.
 
+(7) A Nemzeti Választási Bizottság választott tagja a megválasztását követő harminc napon belül, majd ezt követően minden évben január 31-ig, valamint a megbízatásának megszűnését követő harminc napon belül az országgyűlési képviselők vagyonnyilatkozatára vonatkozó szabályok szerinti tartalmú és formájú vagyonnyilatkozatot tesz, amelyhez csatolni köteles a vele közös háztartásban élő − a Polgári Törvénykönyvről szóló törvény szerinti − hozzátartozója (a továbbiakban: hozzátartozó) vagyonnyilatkozatát. A vagyonnyilatkozatra az országgyűlési képviselők vagyonnyilatkozatára vonatkozó szabályokat – az e törvényben meghatározott eltérésekkel – kell megfelelően alkalmazni, azzal, hogy az Országgyűlés Mentelmi Bizottsága a Nemzeti Választási Bizottság volt választott tagja, illetve hozzátartozója vagyonnyilatkozatát a megbízatása megszűnésétől számított három évig őrzi.
+
 #### 12. A választási bizottság tagjainak megválasztása
 
 20. § (1) A Nemzeti Választási Bizottság hét tagját és három póttagját a köztársasági elnök javaslatára az Országgyűlés az előző Nemzeti Választási Bizottság választott tagjai megbízatásának lejártát megelőző kilencven napon belül választja kilenc évre.
@@ -486,9 +488,17 @@ címzett, a választási iroda vezetőjéhez benyújtott írásbeli nyilatkozatt
 
 (5) E § rendelkezéseit a póttagokra is alkalmazni kell.
 
+34/A. § (1) A Nemzeti Választási Bizottság választott tagja a vagyonnyilatkozat-tétel elmulasztása esetén annak teljesítéséig a tisztségéből eredő jogkörét nem gyakorolhatja, és díjazásban, valamint juttatásban nem részesülhet.
+
+(2) Összeférhetetlenség miatt megszűnik a Nemzeti Választási Bizottság választott tagjának a megbízatása, ha vagyonnyilatkozat-tételi kötelezettségének teljesítését megtagadja, a teljesítést elmulasztja, vagy vagyonnyilatkozatában lényeges adatot, tényt valótlanul közöl.
+
+(3) A Nemzeti Választási Bizottság választott tagja megbízatásának a megszűnését a (2) bekezdésben meghatározott esetben az Országgyűlés összeférhetetlenségi ügyekkel foglalkozó bizottságának javaslatára az Országgyűlés köteles megállapítani. Az eljárásra az országgyűlési képviselők összeférhetetlenségi eljárására vonatkozó szabályokat kell alkalmazni.
+
+(4) Ha az európai uniós költségvetési források felhasználásának ellenőrzéséről szóló törvény rendelkezései szerinti feladatkörében eljáró Integritás Hatóság vagyonnyilatkozati eljárásában hozott jelentése azt állapítja meg, hogy a Nemzeti Választási Bizottság választott tagja a vagyonnyilatkozat-tételi kötelezettségét elmulasztotta, illetve hogy a vagyonnyilatkozatában lényeges adatot, tényt szándékosan valótlanul közölt, a (3) bekezdés szerinti eljárást az Országgyűlés összeférhetetlenségi ügyekkel foglalkozó bizottsága köteles megindítani.
+
 #### 15. A választási bizottság megüresedett tagságának betöltése
 
-35. § (1) Ha a választási bizottság választott tagjának megbízatása a 34. § (1) bekezdés a)–c) és f) pontja szerinti okból megszűnt, helyébe a póttagok megválasztására irányuló indítványban a soron következő póttag lép.
+35. § (1) Ha a választási bizottság választott tagjának megbízatása a 34. § (1) bekezdés a)–c) és f) pontja vagy 34/A. § (2) bekezdése szerinti okból megszűnt, helyébe a póttagok megválasztására irányuló indítványban soron következő póttag lép.
 
 (2) Póttag hiányában a települési önkormányzat képviselő-testülete vagy a fővárosi, vármegyei közgyűlés, a Nemzeti Választási Bizottság esetében az Országgyűlés új tagot és póttagokat választ.
 
@@ -3538,6 +3548,10 @@ alapján legkésőbb a szavazást követő tizenkilencedik napon megállapítja 
 353/E. § (1) A Nemzeti Választási Iroda elnöke és elnökhelyettese az európai uniós költségvetési források felhasználásának ellenőrzésével összefüggő egyes, vagyonnyilatkozattal kapcsolatos törvények módosításáról szóló 2022. évi XXXI. törvénnyel megállapított rendelkezéseknek megfelelően, az Európai Bizottság kérésére egyes törvényeknek a kondicionalitási eljárás eredményes lezárása érdekében szükséges módosításáról szóló 2022. évi LVI. törvénnyel megállapított tartalommal és formában először – 2022. november 1. napján fennálló állapot szerint − 2023. január 31-ig tesz vagyonnyilatkozatot, amelyhez csatolja a vele közös háztartásban élő házas- vagy élettársának, gyermekeinek vagyonnyilatkozatát is.
 
 (2) Az európai uniós költségvetési források felhasználásának ellenőrzésével összefüggő egyes, vagyonnyilatkozattal kapcsolatos törvények módosításáról szóló 2022. évi XXXI. törvény hatálybalépése napján folyamatban lévő vagyonnyilatkozattal kapcsolatos eljárásokban az eljárás megindulása napján hatályos szabályokat kell alkalmazni.
+
+(3) A Nemzeti Választási Iroda elnöke és elnökhelyettese, valamint a Nemzeti Választási Bizottság választott tagja az európai uniós forrásokhoz való hozzáférés érdekében szükséges egyes törvények módosításáról szóló 2026. évi XVIII. törvény által megállapított tartalommal és formában először – 2026. december 31. napján fennálló állapot szerint − 2027. január 31-ig tesz vagyonnyilatkozatot, amelyhez csatolja a vele közös háztartásban élő hozzátartozója vagyonnyilatkozatát is.
+
+(4) Az európai uniós forrásokhoz való hozzáférés érdekében szükséges egyes törvények módosításáról szóló 2026. évi XVIII. törvény hatálybalépése napján folyamatban lévő vagyonnyilatkozattal kapcsolatos eljárásokban az eljárás megindulása napján hatályos szabályokat kell alkalmazni.
 
 353/F. § (1) E törvénynek a választási eljárási szabályoknak az elektronikus ügyintézéssel összefüggő módosításáról szóló 2023. évi XXIV. törvénnyel (a továbbiakban: Módtv.) megállapított 8. § (2) bekezdés b) pontjától eltérően a Módtv. hatálybalépésének napja és a helyi önkormányzati képviselők és polgármesterek 2024. évi általános választásának napja közötti napra a helyi önkormányzati képviselők és polgármesterek időközi választása nem tűzhető ki és – a (2) bekezdésben meghatározott kivétellel – a már kitűzött választások elmaradnak.
 

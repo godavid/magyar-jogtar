@@ -45,6 +45,7 @@ egyes vagyonnyilatkozat-tételi kötelezettségekről
 - g) közjegyző,
 - h) bírósági végrehajtó,
 - i) a Nemzeti Adó- és Vámhivatal vezetői, illetve jogszabály alapján nemzetbiztonsági ellenőrzés vagy egyszerűsített nemzetbiztonsági ellenőrzés alá eső munkakört betöltő foglalkoztatottja.
+- j) az Országos Bírósági Hivatal igazságügyi alkalmazott elnökhelyettese.
 
 (3) Az (1) bekezdésben foglaltaktól függetlenül vagyonnyilatkozat tételére kötelezett
 
@@ -157,7 +158,7 @@ fel kell tüntetni.
 
 (3) A vagyonnyilatkozat-tételi kötelezettséget megalapozó jogviszony, beosztás, munka- vagy feladatkör megszűnése esetén az őrzésért felelős a vagyonnyilatkozat – jogviszony, beosztás, munka- vagy feladatkör megszűnése időpontjában – általa őrzött példányát, továbbá a kötelezett által az 5. § (1) bekezdés b) pontja alapján tett vagyonnyilatkozatot a kötelezettséget megalapozó jogviszony, beosztás, munka- vagy feladatkör megszűnésétől számított három évig őrzi.
 
-13. § A vagyonnyilatkozat-tételi kötelezettség teljesítését az őrzésért felelős személy ellenőrzi. A nyilatkozat tartalmát abban az esetben ismerheti meg, ha a 14. § rendelkezései szerint döntenie kell a vagyongyarapodási vizsgálat kezdeményezéséről.
+13. § A vagyonnyilatkozat-tételi kötelezettség teljesítését az őrzésért felelős személy, illetve az európai uniós költségvetési források felhasználásának ellenőrzéséről szóló törvény rendelkezései szerinti feladatkörében eljáró Integritás Hatóság ellenőrzi. A nyilatkozat tartalmát az őrzésért felelős személy abban az esetben ismerheti meg, ha a 14. § rendelkezései szerint döntenie kell a vagyongyarapodási vizsgálat kezdeményezéséről, az Integritás Hatóság eljárása esetében az európai uniós költségvetési források felhasználásának ellenőrzéséről szóló törvény rendelkezései szerint jár el.
 
 ### A vagyongyarapodási vizsgálat
 
@@ -195,7 +196,14 @@ fel kell tüntetni.
 
 (3) Az a kötelezett, akinek jogviszonya az (1) bekezdésben meghatározottak szerint szűnt meg, három évig az e törvény szerinti vagyonnyilatkozat-tételi kötelezettséget megalapozó munkakört, feladatkört, tevékenységet vagy beosztást nem láthat el.
 
-#### 17. §
+### Eljárás az Integritás Hatóság vagyonnyilatkozat-tétellel összefüggő megállapításai esetén
+
+17. § (1) Ha az európai uniós költségvetési források felhasználásának ellenőrzéséről szóló törvény rendelkezései szerint az Integritás Hatóság jelentésében azt állapítja meg, hogy az e törvény szerint vagyonnyilatkozat-tételre kötelezett a vagyonnyilatkozatban lényeges adatot, tényt szándékosan valótlanul közölt, az e jelentésnek az őrzésért felelős általi kézhezvételétől számított második hónap első napján
+
+- a) a 3. § (3) bekezdése szerinti kötelezett esetében a vagyonnyilatkozat-tételi kötelezettséget megalapozó jogviszonya vagy megbízatása e törvény erejénél fogva megszűnik, amely tényről az őrzésért felelős három munkanapon belül értesíti a kötelezettet,
+- b) az a) pont hatálya alá nem tartozó kötelezett esetében a vagyonnyilatkozat-tételi kötelezettséget megalapozó megbízatását vagy jogviszonyát – az arra vonatkozó, külön jogszabályban meghatározott megszüntetési okoktól függetlenül – meg kell szüntetni.
+
+(2) Az a kötelezett, akinek jogviszonya az (1) bekezdésben meghatározottak szerint szűnt meg, három évig az e törvény szerinti vagyonnyilatkozat-tételi kötelezettséget megalapozó munkakört, feladatkört, tevékenységet vagy beosztást nem láthat el.
 
 #### 18. §
 

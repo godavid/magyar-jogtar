@@ -30,7 +30,7 @@ Az Országgyűlés az Alaptörvény végrehajtására, az Alaptörvény 12. cikk
 
 6. § (1) A köztársasági elnök a megbízatása keletkezését követő harminc napon belül vagyonnyilatkozatot tesz. A vagyonnyilatkozatra az országgyűlési képviselők vagyonnyilatkozatára vonatkozó szabályokat – az e törvényben meghatározott eltérésekkel – kell megfelelően alkalmazni.
 
-(2) A köztársasági elnök a vagyonnyilatkozatához csatolni köteles a vele közös háztartásban élő házas- vagy élettársának, továbbá gyermekeinek (a továbbiakban együtt: családtag) a köztársasági elnök vagyonnyilatkozatával azonos tartalmú vagyonnyilatkozatát.
+(2) A köztársasági elnök a vagyonnyilatkozatához csatolni köteles a vele közös háztartásban élő − a Polgári Törvénykönyvről szóló törvény szerinti − hozzátartozója (a továbbiakban: családtag) a köztársasági elnök vagyonnyilatkozatára megállapított tartalmú és formájú vagyonnyilatkozatát.
 
 (3) A vagyonnyilatkozat-tétel elmulasztása esetén – a vagyonnyilatkozat benyújtásáig – a köztársasági elnök tisztségét nem gyakorolhatja, javadalmazásban nem részesül. A vagyonnyilatkozat-tétel elmulasztásának – egyben a köztársasági elnök átmeneti akadályoztatásának – tényét az Országgyűlés állapítja meg.
 
@@ -38,13 +38,15 @@ Az Országgyűlés az Alaptörvény végrehajtására, az Alaptörvény 12. cikk
 
 (5) A vagyonnyilatkozatot a Sándor-palota gazdasági ügyekért felelős vezetője kezeli.
 
-(6) A családtag vagyonnyilatkozatába csak az Országgyűlés alkotmányügyi kérdésekkel foglalkozó állandó bizottságának (a továbbiakban: alkotmányügyi bizottság) tagjai tekinthetnek be a köztársasági elnök vagyonnyilatkozatával kapcsolatos eljárás során.
+(6) A családtag vagyonnyilatkozatába csak az Integritás Hatóság, valamint az Országgyűlés alkotmányügyi kérdésekkel foglalkozó állandó bizottságának (a továbbiakban: alkotmányügyi bizottság) tagjai tekinthetnek be a köztársasági elnök vagyonnyilatkozatával kapcsolatos eljárás során.
 
 (7) A köztársasági elnök vagyonnyilatkozatával kapcsolatos eljárást az alkotmányügyi bizottság elnökénél bárki kezdeményezheti a vagyonnyilatkozat konkrét tartalmára vonatkozó olyan tényállítással, amely konkrétan megjelöli a vagyonnyilatkozat kifogásolt részét és tartalmát. Ha a kezdeményezés nem felel meg az e bekezdésben foglalt követelményeknek, nyilvánvalóan alaptalan, vagy az ismételten benyújtott kezdeményezés új tényállítást vagy adatot nem tartalmaz, az alkotmányügyi bizottság elnöke az eljárás lefolytatása nélkül elutasítja a kezdeményezést. A vagyonnyilatkozatban foglaltak valóságtartalmát az alkotmányügyi bizottság ellenőrzi.
 
+(7a) A (7) bekezdés szerinti eljárást az alkotmányügyi bizottság köteles lefolytatni, ha az európai uniós költségvetési források felhasználásának ellenőrzéséről szóló törvény rendelkezései szerint az Integritás Hatóság vagyonnyilatkozati eljárásában a köztársasági elnök kapcsán hozott jelentése azt állapítja meg, hogy a köztársasági elnök a vagyonnyilatkozat-tételi kötelezettségét elmulasztotta, illetve hogy abban lényeges adatot, tényt szándékosan valótlanul közölt.
+
 (8) A vagyonnyilatkozattal kapcsolatos eljárás során az alkotmányügyi bizottság felhívására a köztársasági elnök köteles a saját, illetve családtagja vagyonnyilatkozatában feltüntetett vagyoni, jövedelmi és érdekeltségi viszonyokat igazoló adatokat haladéktalanul, írásban bejelenteni. Az adatokba csak az alkotmányügyi bizottság tagjai tekinthetnek be. A vagyonnyilatkozattal kapcsolatos eljárás eredményéről az alkotmányügyi bizottság elnöke tájékoztatja az Országgyűlés elnökét, aki az alkotmányügyi bizottság által megállapított tényekről a soron következő ülésen tájékoztatja az Országgyűlést.
 
-(9) A köztársasági elnök által benyújtott igazoló adatokat a vagyonnyilatkozattal kapcsolatos eljárás lezárulását követő harmincadik napon törölni kell. A Sándor-palota gazdasági ügyekért felelős vezetője a volt köztársasági elnök és családtagja vagyonnyilatkozatát a köztársasági elnök megbízatásának megszűnését követő egy évig őrzi.
+(9) A köztársasági elnök által benyújtott igazoló adatokat a vagyonnyilatkozattal kapcsolatos eljárás lezárulását követő harmincadik napon törölni kell. A Sándor-palota gazdasági ügyekért felelős vezetője a volt köztársasági elnök és családtagja vagyonnyilatkozatát a köztársasági elnök megbízatásának megszűnését követő három évig őrzi.
 
 6/A. § A köztársasági elnököt feladatainak ellátásában hivatal segíti. A köztársasági elnök hivatalának elnevezése Sándor-palota.
 
@@ -275,7 +277,9 @@ illeti meg.
 
 (3) E törvény 29. §-a nem érinti a hatálybalépését megelőzően hivatalt betöltött volt miniszterelnöknek a köztársasági elnök, a miniszterelnök, az Országgyűlés elnöke, az Alkotmánybíróság elnöke és a Legfelsőbb Bíróság elnöke tiszteletdíjáról és juttatásairól szóló 2000. évi XXXIX. törvény 22. § (1) bekezdése szerinti juttatásra való jogosultságát, ha e törvény hatálybalépéséig az öregségi nyugdíjkorhatárt betöltötte, és a juttatást kérelmezte.
 
-#### 26. §
+26. § (1) A köztársasági elnök az európai uniós forrásokhoz való hozzáférés érdekében szükséges egyes törvények módosításáról szóló 2026. évi XVIII. törvény által megállapított tartalommal és formában először – 2026. december 31. napján fennálló állapot szerint − 2027. január 31-ig tesz vagyonnyilatkozatot, amelyhez csatolja a vele közös háztartásban élő − a Polgári Törvénykönyvről szóló törvény szerinti − hozzátartozója vagyonnyilatkozatát is.
+
+(2) Az európai uniós forrásokhoz való hozzáférés érdekében szükséges egyes törvények módosításáról szóló 2026. évi XVIII. törvény hatálybalépése napján folyamatban lévő vagyonnyilatkozattal kapcsolatos eljárásokban az eljárás megindulása napján hatályos szabályokat kell alkalmazni.
 
 #### 27. §
 

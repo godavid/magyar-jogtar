@@ -2618,6 +2618,10 @@ végrehajtási eljárásokra is alkalmazni kell.
 
 (2) A Módtv6.-tal megállapított 63. § (8) bekezdés 18. pontját a Módtv6. e törvény 63. § (8) bekezdés 18. pontját megállapító rendelkezése hatálybalépésének napján folyamatban lévő eljárásokban is alkalmazni kell.
 
+95/O. § (1) A Gazdasági Versenyhivatal elnöke, elnökhelyettese, a Versenytanács tagja az európai uniós forrásokhoz való hozzáférés érdekében szükséges egyes törvények módosításáról szóló 2026. évi XVIII. törvény által megállapított tartalommal és formában először – 2026. december 31. napján fennálló állapot szerint − 2027. január 31-ig tesz vagyonnyilatkozatot, amelyhez csatolja a vele közös háztartásban élő − a Polgári Törvénykönyvről szóló törvény szerinti − hozzátartozója vagyonnyilatkozatát is.
+
+(2) Az európai uniós forrásokhoz való hozzáférés érdekében szükséges egyes törvények módosításáról szóló 2026. évi XVIII. törvény hatálybalépése napján folyamatban lévő vagyonnyilatkozattal kapcsolatos eljárásokban az eljárás megindulása napján hatályos szabályokat kell alkalmazni.
+
 ### Felhatalmazó rendelkezések
 
 96. § Felhatalmazást kap a Kormány, hogy rendeletben szabályozza a megállapodások egyes csoportjainak a 11. §-ban foglalt tilalom alól történő mentesülését.

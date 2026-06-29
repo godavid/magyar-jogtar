@@ -3913,6 +3913,10 @@ rendeletben megállapítsa.
 
 (2) Az európai uniós költségvetési források felhasználásának ellenőrzésével összefüggő egyes, vagyonnyilatkozattal kapcsolatos törvények módosításáról szóló 2022. évi XXXI. törvény hatálybalépése napján folyamatban lévő vagyonnyilatkozattal kapcsolatos eljárásokban az eljárás megindulása napján hatályos szabályokat kell alkalmazni.
 
+(3) A Médiatanács tagja az európai uniós forrásokhoz való hozzáférés érdekében szükséges egyes törvények módosításáról szóló 2026. évi XVIII. törvény által megállapított tartalommal és formában először – 2026. december 31. napján fennálló állapot szerint − 2027. január 31-ig tesz vagyonnyilatkozatot, amelyhez csatolja a vele közös háztartásban élő − a Polgári Törvénykönyvről szóló törvény szerinti − hozzátartozója vagyonnyilatkozatát is.
+
+(4) Az európai uniós forrásokhoz való hozzáférés érdekében szükséges egyes törvények módosításáról szóló 2026. évi XVIII. törvény hatálybalépése napján folyamatban lévő vagyonnyilatkozattal kapcsolatos eljárásokban az eljárás megindulása napján hatályos szabályokat kell alkalmazni.
+
 218/F. § A Médiatanács az Smtv. 20/A. § szerinti szabályzatra és a hatékony megoldások követelményeire vonatkozó ajánlását 2025. február 28-ig teszi közzé. Az Smtv. 20/A. § (1) bekezdésében foglalt kötelezettségeknek az internetes sajtótermék kiadója 2025. április 1-jétől köteles eleget tenni. Az internetes sajtótermék kiadójával szemben e kötelezettségek megsértése miatt hatósági eljárás csak ezen időpont után elkövetett jogsértés miatt indítható.
 
 ### V. Fejezet
