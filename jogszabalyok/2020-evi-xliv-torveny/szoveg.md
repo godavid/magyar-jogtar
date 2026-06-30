@@ -19,7 +19,7 @@ A klímaváltozás és a mind gyakoribbá, intenzívebbé váló szélsőséges 
 - d) a karbonsemleges atomenergia-felhasználás lehetőségét is figyelembe kell vennie, és
 - e) a szennyező fizet elvén, valamint az arányos és reális beavatkozások logikáján kell alapulnia.
 
-3. § (1) Magyarország az üvegházhatású gázok kibocsátását legalább 40%-kal csökkenti 2030-ig az 1990. évhez képest.
+3. § (1)
 
 (2) Magyarország 2030-at követően a végső energiafelhasználás 2005. évi szintet meghaladó növekedése esetén a növekményt kizárólag karbonsemleges energiaforrásból biztosítja.
 
