@@ -5021,6 +5021,7 @@ időtartama.
 - g) az arra vonatkozó adatokat, hogy a közérdekű munka az általános munkarend szerint heti pihenő- vagy munkaszüneti napokon végezhető-e,
 - h) az egy napon foglalkoztatható személyek legkisebb és legnagyobb létszámát,
 - i) a munkavégzéshez szükséges iskolai végzettségre, szakképesítésre vonatkozó adatokat.
+- j) a munkavégzéssel érintett munkakör vonatkozásában a munkaköri alkalmassági vizsgálat szükségességét.
 
 (6) Az állami foglalkoztatási szerv a honlapján való közzététellel tájékoztatja a pártfogó felügyelői szolgálatot azokról a munkahelyekről, amelyek közérdekű munka végzésére elítéltek kijelölését igénylik.
 
@@ -5038,17 +5039,27 @@ időtartama.
 
 (3) A munkavégzés helyeként elsősorban az elítélt lakcíme, ennek hiányában vagy az elítélt kérelmére a tényleges tartózkodási helye szerinti munkahelyet kell kijelölni. Az elítélt legkésőbb a meghallgatáson nyilatkozhat arról, hogy a közérdekű munka végrehajtási helyét a tényleges tartózkodási helye szerint kéri kijelölni.
 
-(4) A munkahely kijelölése előtt a pártfogó felügyelő foglalkoztathatósági szakvélemény kiadása érdekében kezdeményezi az elítélt foglalkoztathatósági vizsgálatát és az elítéltet a vizsgálaton való megjelenésre hívja fel.
+(4) A munkahely kijelölése előtt nincs szükség az elítélt foglalkoztathatósági vizsgálatának kezdeményezésére, ha
+
+- a) a foglalkoztatói nyilvántartás adatai vagy a munkahely nyilatkozata alapján a munkavégzéshez nem szükséges munkaköri alkalmassági vizsgálat elvégzése,
+- b) az elítélt rendelkezik a munkavégzéshez szükséges érvényes munkaköri alkalmassági vagy szakmai alkalmassági vizsgálati véleménnyel, vagy
+- c) az elítélt rendelkezik érvényes foglalkoztathatósági szakvéleménnyel.
+
+(4a) Ha az elítélt egészségi állapotára vagy az abban bekövetkezett változásra tekintettel, valamint a munkahellyel kötött együttműködési megállapodás alapján ez szükséges, a munkahely kijelölése előtt a pártfogó felügyelő a foglalkoztathatósági szakvélemény kiadása érdekében kezdeményezi az elítélt foglalkoztathatósági vizsgálatát és az elítéltet a vizsgálaton való megjelenésre hívja fel.
+
+(4b) El kell végezni a foglalkoztathatósági vizsgálatot, ha a (4) bekezdés a) pontja alapján nem szükséges, de az elítélt annak elvégzését kéri. Ebben az esetben a foglalkoztathatósági vizsgálat költségeit az elítélt viseli.
+
+(4c) Az elítélt a foglalkoztathatósági szakvéleményt az elkészültétől számított tizenöt napon belül köteles bemutatni a pártfogó felügyelőnek.
 
 (5) Az elítélt köteles a foglalkoztathatósági vizsgálaton megjelenni. A felhívásban az elítéltet figyelmeztetni kell arra, hogy ha a vizsgálaton nem jelenik meg és távolmaradását nem igazolja, akkor a pártfogó felügyelő a közérdekű munka szabadságvesztésre történő átváltoztatását kezdeményezi.
 
 (6) Ha a foglalkoztathatósági vizsgálat elvégzésére jogosult arról értesíti a pártfogó felügyelői szolgálatot, hogy az elítélt a foglalkoztathatósági vizsgálaton nem jelent meg és az elítélt a távolmaradását nem mentette ki, a pártfogó felügyelő jelentést készít az ügyészségnek. Az eljárásra a továbbiakban a közérdekű munka szabadságvesztésre történő átváltoztatásának szabályait kell alkalmazni.
 
-283. § (1) Az elítélt a foglalkoztathatósági szakvéleményt az elkészültétől számított tizenöt napon belül köteles bemutatni a pártfogó felügyelőnek, aki ennek alapján – kivéve, ha a közérdekű munkavégzés félbeszakítására okot adó körülmény áll fenn – legkésőbb a foglalkoztathatósági szakvélemény bemutatásától számított tizenöt napon belül a közérdekű munka végrehajtására szolgáló munkahelyet határozatban jelöli ki.
+283. § (1) A pártfogó felügyelő a 282. § (4) bekezdés alkalmazása esetén az elítélt személyes meghallgatását követő tizenöt napon belül, ha az elítélt foglalkoztathatósági vizsgálatát kezdeményezte legkésőbb a foglalkoztathatósági szakvélemény bemutatásától számított tizenöt napon belül – kivéve, ha a közérdekű munkavégzés félbeszakítására okot adó körülmény áll fenn – a közérdekű munka végrehajtására szolgáló munkahelyet határozatban jelöli ki.
 
 (2) A munkahely kijelölése előtt a pártfogó felügyelő – a kötelezettségeire vonatkozó tájékoztatás mellett – egyeztet a kijelölhető munkahellyel. A kijelölés esetére a kötelezettségek vállalásáról a munkahely vezetője vagy képviseletre jogosult tisztségviselője nyilatkozatot tesz. Ha a munkahely biztosítására a helyi önkormányzat köteles, a munkahelyi nyilatkozatot nem kell beszerezni.
 
-(3) A munkahely kijelölésénél figyelembe kell venni az elítélt egészségi állapotát, a foglalkoztathatósági szakvéleményt, az elítélt szakképzettségét, szakképesítését és a munkára való alkalmasságát, valamint az elkövetett bűncselekmény jellegét.
+(3) A munkahely kijelölésénél figyelembe kell venni az elítélt egészségi állapotát, ha készült, a foglalkoztathatósági szakvéleményt, az elítélt szakképzettségét, szakképesítését és a munkára való alkalmasságát, valamint az elkövetett bűncselekmény jellegét.
 
 (4) A munkavégzés helyeként nem jelölhető ki az a munkahely,
 
@@ -5076,7 +5087,7 @@ haladéktalanul felterjeszti – ha a kérelmet az elítélt vagy a védő nyúj
 
 - a) meg kell határozni a munkavégzés kezdő időpontját, amely nem lehet kevesebb, mint a kézbesítést követő nyolc nap, és
 - b) az elítéltet figyelmeztetni kell arra, hogy
-  - ba) a foglalkoztathatósági szakvéleményt a munkahely képviselőjének mutassa be, és
+  - ba) ha készült, a foglalkoztathatósági szakvéleményt a munkahely képviselőjének mutassa be, és
   - bb) ha a kijelölt munkahelyen a felhívás szerinti határidőn belül vagy időpontban nem jelenik meg, akkor a pártfogó felügyelő a közérdekű munka szabadságvesztésre történő átváltoztatását kezdeményezi.
 
 (3) A munkavégzés kezdő időpontjáról a pártfogó felügyelő értesíti a munkahelyet.
@@ -5084,6 +5095,8 @@ haladéktalanul felterjeszti – ha a kérelmet az elítélt vagy a védő nyúj
 285. § (1) Ha munkahely-kijelölés érdekében történő meghallgatáson az elítélt egészségi állapotával összefüggésben olyan adat merül fel, vagy a foglalkoztathatósági szakvélemény alapján – a foglalkoztatási korlátozásokra és a kijelölhető munkahelyekre figyelemmel – megalapozottan arra lehet következtetni, hogy az elítélt ideiglenesen nem lesz foglalkoztatható, és egészségi állapotában a közeli jövőben változás nem várható, a pártfogó felügyelő jelentést készít és a pártfogó felügyelői szolgálat székhelye szerint illetékes büntetés-végrehajtási bírónak javaslatot tesz a közérdekű munka félbeszakítására.
 
 (2) Ha munkahely-kijelölés érdekében történő meghallgatáson az elítélt egészségi állapotával összefüggésben olyan adat merül fel, vagy a foglalkoztathatósági szakvélemény alapján megalapozottan arra lehet következtetni, hogy az elítélt egészségi állapotában olyan tartós változás következett be, ami a közérdekű munka végrehajtását nem teszi lehetővé, a pártfogó felügyelő jelentést készít és a pártfogó felügyelői szolgálat székhelye szerint illetékes büntetés-végrehajtási bírónak javaslatot tesz a közérdekű munka végrehajthatósága megszűnésének a megállapítására.
+
+(3) Ha ez a jelentés megalapozása érdekében szükséges, a pártfogó felügyelő az (1) és a (2) bekezdés szerinti esetben az elítélt foglalkoztathatósági vagy ismételt foglalkoztathatósági vizsgálatát kezdeményezheti.
 
 ### Új munkahely kijelölése
 
@@ -5100,11 +5113,11 @@ más munkahelyen célszerű,
 
 (2) A pártfogó felügyelő új munkahelyet jelöl ki, ha erre a büntetés-végrehajtási bíró vagy az ügyészség felhívja.
 
-(3) A pártfogó felügyelő az új munkahely kijelölése előtt az elítélt új foglalkoztathatósági vizsgálatát kezdeményezi, ha
+(3) A pártfogó felügyelő az új munkahely kijelölése előtt az elítélt foglalkoztathatósági vizsgálatát kezdeményezi, ha
 
-- a) a korábbiakban kiállított foglalkoztathatósági szakvélemény érvényességi ideje lejárt,
-- b) az elítélt egészségi állapotában orvosi iratokkal igazoltan tartós rosszabbodás állt be, vagy
-- c) a büntetés-végrehajtási bíró vagy az ügyészség erre felhívja.
+- a) az elítélt egészségi állapotában orvosi iratokkal igazoltan tartós rosszabbodás állt be,
+- b) a büntetés-végrehajtási bíró, illetve az ügyészség erre felhívja, vagy
+- c) az új munkahelyen ellátott munkakör vonatkozásában szükséges a foglalkoztathatósági szakvélemény elkészítése.
 
 (4) Az új munkahely kijelöléséről szóló határozattal szembeni bírósági felülvizsgálati kérelemre a 283. § (5) és (5a) bekezdését kell alkalmazni azzal, hogy az elítélt és a védő az új munkahely kijelölése iránti kérelem elutasításáról hozott határozattal szemben is élhet bírósági felülvizsgálati kérelemmel.
 
@@ -7391,6 +7404,10 @@ a reintegrációs őrizet megszűnésének vagy megszüntetésének időpontjái
 (6) A félbeszakítás megszüntetéséről az elítéltet írásban haladéktalanul tájékoztatni kell, és fel kell hívni, hogy a megadott időpontban a szabadságvesztést végrehajtó intézetben jelentkezzen. Ha a határozat azért nem volt kézbesíthető, mert az elítélt ismeretlen helyre távozott, a 19. § szerint intézkedni kell a felkutatása érdekében.
 
 436/F. § E törvénynek az igazságügyi tárgyú törvények módosításáról szóló 2025. évi XLIX. törvénnyel (a továbbiakban: Mód. tv. 4.) módosított 99. § (4) bekezdését a Mód. tv. 4. e rendelkezésének hatályba lépését követően foganatba vett újabb szabadságvesztés esetén kell alkalmazni.
+
+436/G. § (1) E törvénynek a vállalkozói adminisztratív terhek csökkentésére irányuló egyes törvények módosításáról szóló 2025. évi XCIII. törvénnyel (a továbbiakban: Mód.tv.5.) módosított rendelkezéseit e rendelkezések hatálybalépését követően a kormányhivatalhoz érkezett közérdekű munka végrehajtási ügyekben, valamint azokban a folyamatban lévő ügyekben kell alkalmazni, amelyekben a foglalkoztathatósági szakvélemény beszerzése iránt nem történt intézkedés vagy annak elvégzésére nem került sor. Ezekben a folyamatban lévő ügyekben a Mód.tv.5.-el megállapított 282. § (4b) bekezdésének alkalmazása esetén az elítélt kérésére elvégzett foglalkoztathatósági vizsgálat költségét az állam viseli.
+
+(2) E törvénynek a Mód.tv.5.-tel módosított rendelkezéseinek hatálybalépésekor folyamatban lévő, a foglalkoztathatósági vizsgálaton való megjelenés elmulasztása miatt – ha ehhez egyéb kötelezettség megszegése nem kapcsolódik – a közérdekű munka szabadságvesztésre történő átváltoztatása iránti büntetés-végrehajtási bírói ügyekben a büntetés-végrehajtási bíró az ügyészi indítványt elutasítja és a pártfogó felügyelőt új eljárás lefolytatására hívja fel.
 
 ### Sarkalatossági záradék
 

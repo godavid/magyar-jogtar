@@ -145,7 +145,7 @@ is végezhető, feltéve, ha felhasználásról, tárolásról, raktározásról
 
 5. § (1) A fémkereskedő a fémkereskedelmi engedélyköteles anyag értékesítéséről eladónként és vevőnként az anyag jogszerű beszerzésének igazolása céljából külön nyilvántartást vezet, és a beszerzett és értékesített anyag értékét és mennyiségét naponta, a nap végén összesíti. A fémkereskedő a nyilvántartásban szereplő adatokról jogszabályban meghatározott módon elektronikus úton adatot szolgáltat a fémkereskedelmi hatóságnak, amely azt a fémkereskedelmi engedélyköteles anyag jogszerű beszerzésének ellenőrzésére használhatja fel. A személyes adatok kivételével az általános rendőrségi feladatok ellátására létrehozott rendőrségi szerv ezen adatokba betekinthet.
 
-(2) A fémkereskedőnek a fémkereskedelmi engedélyköteles anyag tárgyhavi forgalmáról, a bevételi és kiadási jogcímeken szerepeltetett, valamint a tárgyhavi nyitó és záró készletről a fémkereskedelmi hatóság honlapján közzétett nyomtatványon havi zárást kell készítenie.
+(2) A fémkereskedőnek a fémkereskedelmi engedélyköteles anyag negyedéves forgalmáról, a bevételi és kiadási jogcímeken szerepeltetett, valamint a negyedéves nyitó és záró készletről a fémkereskedelmi hatóság honlapján közzétett nyomtatványon negyedéves zárást kell készítenie.
 
 (3) Az (1) bekezdés szerinti nyilvántartás tartalmazza
 
@@ -379,8 +379,8 @@ vagy e személyek egy meghatározott csoportja ellenőrzésének lefolytatása c
 
 11/B. § A fémkereskedelmi hatóság a fémkereskedőt 1 millió forintig, a nevében eljáró természetes személyt 300 ezer forintig terjedő bírsággal sújtja, ha az e törvényben meghatározott
 
-- a) nyilvántartás havi zárását, napi összesítését, azoknak a fémkereskedelmi hatósághoz történő benyújtását késedelmesen teljesíti, valamint ha a nyilvántartás-vezetési kötelezettségét valótlan adattartalommal vagy hiányosan teljesíti, vagy abban az adatokat az előírásoktól eltérően vagy eltérő rendszerességgel rögzíti, valamint ha ismételten hiányosan, valótlan adattartalommal vagy az előírásoktól eltérően teljesíti,
-- b) nyilvántartást nem vezeti, nyilvántartás havi zárását, napi összesítését, azoknak a fémkereskedelmi hatósághoz történő benyújtását nem teljesíti.
+- a) nyilvántartás negyedéves zárását, napi összesítését, azoknak a fémkereskedelmi hatósághoz történő benyújtását késedelmesen teljesíti, valamint ha a nyilvántartás-vezetési kötelezettségét valótlan adattartalommal vagy hiányosan teljesíti, vagy abban az adatokat az előírásoktól eltérően vagy eltérő rendszerességgel rögzíti, valamint ha ismételten hiányosan, valótlan adattartalommal vagy az előírásoktól eltérően teljesíti,
+- b) nyilvántartást nem vezeti, nyilvántartás negyedéves zárását, napi összesítését, azoknak a fémkereskedelmi hatósághoz történő benyújtását nem teljesíti.
 - c) a 4. § (6a) bekezdésben foglalt adatszolgáltatási kötelezettségét nem teljesíti.
 
 11/C. § (1) A kiszabott bírság összege kivételes méltánylást érdemlő körülmény esetén hivatalból vagy kérelemre mérsékelhető, ha a körülményekből megállapítható, hogy a jogsértő személy az adott helyzetben a tőle elvárható körültekintéssel járt el.

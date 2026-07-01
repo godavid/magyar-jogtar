@@ -70,7 +70,7 @@ a bűnüldöző szervek nemzetközi együttműködéséről
 - h) a forrónyomon üldözés,
 - i) az összekötő tisztviselő alkalmazása,
 - j) a titkos információgyűjtés nemzetközi együttműködés alapján,
-- k)
+- k) a dolog ideiglenes elvétele,
 - l) az Európai Unió tagállamának különleges intervenciós egységével való együttműködés.
 
 (2) A magyar bűnüldöző szervek az (1) bekezdés g) és j) pontja szerinti együttműködés során – a vonatkozó magyar jogszabályok rendelkezései alapján – jogosultak a Nemzetbiztonsági Szakszolgálatot igénybe venni.
@@ -463,9 +463,11 @@ igénybevétele
 
 (3)
 
-### Tanúvédelmi Program alkalmazása nemzetközi együttműködés alapján
+### Dolog ideiglenes elvétele
 
-#### 39. §
+39. § (1) Ha külföldi hatóság a 8. § (1) bekezdés a)–j) pontja szerinti együttműködés keretében közölt információk alapján megkeresésben kéri valamely egyedileg azonosítható dolog, elektronikus adat (e § alkalmazásában a továbbiakban együtt: dolog) ideiglenes elvételét, akkor a magyar bűnüldöző szerv a megkeresésben foglalt dolgot legfeljebb hét munkanapra átvételi elismervény ellenében elveheti, áthelyezheti.
+
+(2) Ha az ideiglenesen elvett dolog jogsegély keretében történő átvételére hét munkanapon belül nem kerül sor, akkor a magyar bűnüldöző szerv a dolgot a jogosultnak visszaadja.
 
 #### 40. §
 
@@ -549,6 +551,7 @@ igénybevétele
 - c) 16/G. §-a és 16/H. §-a a tagállamok vagyon-visszaszerzési hivatalai között, a bűncselekményből származó jövedelmek és bűncselekményekhez kapcsolódó egyéb tulajdon felkutatása és azonosítása terén való együttműködésről szóló, 2007. december 6-i 2007/845/IB tanácsi határozatnak;
 - d) az Európai Unióról szóló szerződés K.3. cikke alapján elfogadott, az összekötő tisztviselőknek az Európai Unió tagállamai közötti igazságügyi együttműködés javítása céljából történő cseréjére vonatkozó keretrendszerről szóló, 1996. április 22-i 96/277/IB tanácsi együttes fellépésnek;
 - e) az EUROPOL részéről a tagállamok által felállított közös nyomozó csoportoknak nyújtandó segítségről szóló, 2000. november 30-i tanácsi ajánlásnak
+- f) a vagyonvisszaszerzésről és -elkobzásról szóló, 2024. április 24-i (EU) 2024/1260 európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.
 

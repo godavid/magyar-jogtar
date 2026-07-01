@@ -94,13 +94,29 @@ Magyarország 2026. évi központi költségvetésének megalapozásáról
 
 #### 5. A társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény módosítása
 
-#### 25. §
+25. § A társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 45. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Özvegyi nyugdíjra jogosult a házastársra előírt feltételek fennállása esetén a jogszerző élettársa, ha a jogszerzővel annak haláláig
+
+- a) egy év óta megszakítás nélkül együtt élt és gyermekük született, vagy
+- b) megszakítás nélkül tíz év óta együtt élt
+
+és sem a jogszerzőnek, sem az élettársnak nem állt fenn házassága a jogszerző halálakor.”
 
 #### 26. §
 
-#### 27. §
+27. § A társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény a következő 102/E. §-sal egészül ki:
 
-#### 28. §
+„102/E. § Az e törvénynek a Magyarország 2026. évi központi költségvetésének megalapozásáról szóló 2025. évi LI. törvénnyel módosított 45. § (2) bekezdését, 48. § (1) bekezdését, 49. §-át és 51. § (1) bekezdését abban az esetben kell alkalmazni, ha a jogszerző 2026. június 30-át követően halt meg. Ha a jogszerző 2026. július 1-jét megelőzően halt meg, a 2026. június 30-án hatályos 45. § (2) bekezdését, 48. § (1) bekezdését, 49. §-át és 51. § (1) bekezdését 2026. június 30-át követően is alkalmazni kell.”
+
+28. § A társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény
+
+- 1. 48. § (1) bekezdésében a „vagy a házastársak a házasság megkötésétől öt éven át megszakítás nélkül együtt éltek” szövegrész helyébe az „a házasság legalább öt évig fennállt, vagy a házasság fennállásának és a házasságkötést közvetlenül megelőző, megszakítás nélküli élettársi együttélésnek az együttes időtartama eléri a tíz évet” szöveg,
+- 2. 49. § (1) bekezdésében a „ , továbbá házastársától egy évnél hosszabb ideje külön élő személynek” szövegrész helyébe a „házastársnak” szöveg,
+- 3. 49. § (2) bekezdésében a „ , továbbá házastársától egy évnél hosszabb ideje külön élő személynek” szövegrész helyébe a „házastársnak” szöveg, és
+- 4. 51. § (1) bekezdésében az „a különélő, illetőleg elvált” szövegrész helyébe az „az elvált” szöveg
+
+lép.
 
 #### 6. A bírósági végrehajtásról szóló 1994. évi LIII. törvény módosítása
 

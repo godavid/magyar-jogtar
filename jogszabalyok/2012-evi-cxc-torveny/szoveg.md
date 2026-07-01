@@ -17,6 +17,8 @@ egyes ingatlanok fővárosi önkormányzat részére történő átadásáról, 
 
 1/B. § Az ingatlanrész e törvény erejénél fogva, az egyes törvényeknek a katasztrófák elleni védekezés hatékonyságának növelésével összefüggő módosításáról szóló 2013. évi CXCII. törvény hatálybalépésével, vagyonkezelési szerződés kötése nélkül, ingyenesen a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésébe kerül.
 
+1/C. § Budapest Főváros Önkormányzatának a Budapest 232045/3, 232045/5, 232045/6, 224969/1, 224969/2 és 224969/3 helyrajzi számú ingatlan fennálló vagyonkezelői joga e törvény erejénél fogva 2026. július 1-jével megszűnik.
+
 #### 2. A közúti közlekedésről szóló 1988. évi I. törvény módosítása
 
 2. § (1)
@@ -62,6 +64,10 @@ egyes ingatlanok fővárosi önkormányzat részére történő átadásáról, 
 
 alapján sarkalatosnak minősül.
 
+10. § (1) A fővárosi önkormányzat az 1/C. §-a szerinti vagyonkezelési jog megszűnése kapcsán az érintett tulajdonosi joggyakorlókkal elszámol.
+
+(2) A vagyonkezelési jog ingatlan-nyilvántartásból való törléséről e törvényre való hivatkozással az ingatlanok tulajdonosi joggyakorlója intézkedik.
+
 ### 1. melléklet a 2012. évi CXC. törvényhez
 
 #### A fővárosi önkormányzat vagyonkezelésébe kerülő, a Duna partvonalával közvetlenül határos ingatlanok listája
@@ -81,8 +87,8 @@ alapján sarkalatosnak minősül.
 | 11. | 19303/2 | Magyar Állam |
 | 12. | 4082/33 | Magyar Állam |
 | 13. | 43578 | Magyar Állam |
-| 14. | 232045/5 | Magyar Állam |
-| 15. | 232045/6 | Magyar Állam |
+| 14. |  |  |
+| 15. |  |  |
 | 16. | 14387/1 | I. kerületi Önkormányzat |
 | 17. | 6229/1 | I. kerületi Önkormányzat |
 | 18. | 14617/16 | II. kerületi Önkormányzat |
@@ -149,8 +155,8 @@ alapján sarkalatosnak minősül.
 | 79. | 232319/2 | XXII. kerületi Önkormányzat |
 | 80. | 232320 | XXII. kerületi Önkormányzat |
 | 81. | 224961 | XXII. kerületi Önkormányzat |
-| 82. | 224969 | XXII. kerületi Önkormányzat |
+| 82. |  |  |
 | 83. | 232322 | XXII. kerületi Önkormányzat |
-| 84. | 232045/3 | XXII. kerületi Önkormányzat |
+| 84. |  |  |
 | 85. | 232324 | XXII. kerületi Önkormányzat |
 | 86. | 232327 | XXII. kerületi Önkormányzat |

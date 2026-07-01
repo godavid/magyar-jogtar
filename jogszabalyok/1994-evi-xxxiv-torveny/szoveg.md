@@ -726,7 +726,7 @@ igazolja.
 
 ### Dolog helyszíni elvétele
 
-29/B. § (1) A rendőr feladatának teljesítése során megtalált olyan dolog, amely az általános közigazgatási rendtartásról szóló törvény alapján zár alá vehető, a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló törvény, vagy a büntetőeljárásáról szóló törvény alapján bizonyítási eszközként lefoglalható, valamint a támadásra, vagy önveszély okozására alkalmas, illetve a jogosulatlanul birtokolt dolgot a jogosultnak vagy az eljáró hatóságnak történő átadásig, zár alá vétel vagy lefoglalás elrendeléséig, de legfeljebb három munkanapra átvételi elismervény ellenében ideiglenesen elveheti.
+29/B. § (1) A rendőr feladatának teljesítése során megtalált olyan dolog, amely az általános közigazgatási rendtartásról szóló törvény alapján zár alá vehető, a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló törvény, vagy a büntetőeljárásáról szóló törvény alapján bizonyítási eszközként lefoglalható, a bűnüldöző szervek nemzetközi együttműködéséről szóló törvény szerint ideiglenesen elvehető, valamint a támadásra, vagy önveszély okozására alkalmas, illetve a jogosulatlanul birtokolt dolgot a jogosultnak vagy az eljáró hatóságnak történő átadásig, zár alá vétel vagy lefoglalás elrendeléséig, de legfeljebb három munkanapra vagy törvényben meghatározott ettől eltérő időtartamra átvételi elismervény ellenében ideiglenesen elveheti.
 
 (2) Jogszabály eltérő rendelkezése hiányában a dolgot vissza kell adni, ha a dolog helyszíni elvételének időtartama eltelt vagy annak oka megszűnt.
 
@@ -2696,6 +2696,8 @@ az Alaptörvény 46. cikk (6) bekezdése alapján sarkalatosnak minősül.
 - l) a Tanács határozata (2009. szeptember 21.) egyrészről az Európai Unió, másrészről Izland és Norvégia között a különösen a terrorizmus és a határokon átnyúló bűnözés elleni küzdelemre irányuló, határokon átnyúló együttműködés megerősítéséről szóló, 2008/615/IB tanácsi határozat, valamint a terrorizmus és a határokon átnyúló bűnözés elleni küzdelemre irányuló, határokon átnyúló együttműködés megerősítéséről szóló, 2008/615/IB tanácsi határozat végrehajtásáról szóló 2008/616/IB tanácsi határozat és melléklete egyes rendelkezéseinek alkalmazásáról szóló megállapodásnak az Európai Unió nevében történő aláírásáról és a megállapodás egyes rendelkezéseinek ideiglenes alkalmazásáról,
 - m) a büntetőügyekben folytatott rendőrségi és igazságügyi együttműködés keretében feldolgozott személyes adatok védelméről szóló, 2008. november 27-i 2008/977/IB tanácsi kerethatározat,
 - n) az egyes adatoknak az Interpollal történő cseréjéről szóló, 2005. január 24-i, 2005/69/IB tanácsi közös álláspont.
+- o) a vagyonvisszaszerzésről és -elkobzásról szóló, 2024. április 24-i (EU) 2024/1260 európai parlamenti és tanácsi irányelv,
+- p) a büntetőeljárás során gyanúsított vagy vádlott gyermekek részére nyújtandó eljárási biztosítékokról szóló, 2016. május 11-i (EU) 2016/800 európai parlamenti és tanácsi irányelv.
 
 105. § E törvény
 

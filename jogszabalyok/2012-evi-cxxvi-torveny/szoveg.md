@@ -581,7 +581,7 @@ felelős.
 
 (11) Az agrárkamara jogosult naprakészen bárki számára ingyenesen az interneten, valamint mobiltelefonokon használható alkalmazás keretében folyamatosan megismerhetővé tenni azt, hogy melyik kamarai igazolvány szám vonatkozásában áll vagy nem áll fenn kamarai tagság, valamint a 10. § (3) bekezdés szerinti kizárás.
 
-16/A. § Az agrárkamara állítja ki, illetve hitelesíti a mezőgazdasági termékek és élelmiszerek vonatkozásában az Uniós Vámkódex létrehozásáról szóló, 2013. október 9-i 952/2013/EU európai parlamenti és tanácsi rendelet szerinti származási igazolásokat, bizonyítványokat és kereskedelmi forgalomban szükséges más okmányokat.
+16/A. § A borászati termékek kivételével az agrárkamara állítja ki, illetve hitelesíti a mezőgazdasági termékek és élelmiszerek vonatkozásában az Uniós Vámkódex létrehozásáról szóló, 2013. október 9-i 952/2013/EU európai parlamenti és tanácsi rendelet szerinti származási igazolásokat, bizonyítványokat és kereskedelmi forgalomban szükséges más okmányokat.
 
 ### V. Fejezet — AZ AGRÁRKAMARA ÖNKORMÁNYZATA
 

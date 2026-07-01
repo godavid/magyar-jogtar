@@ -214,7 +214,7 @@ a jogi személlyel szemben alkalmazható büntetőjogi intézkedésekről
 
 (4) A pénzbírság biztosítása érdekében a zár alá vételről – a vádemelés előtt az ügyészség indítványára – a bíróság határoz.
 
-(5) A pénzbírság biztosítása érdekében elrendelhető zár alá vétel vonatkozásában a Be. 327. § (5) bekezdését alkalmazni kell.
+(5) Ha a zár alá vétel elrendelésére a bírósági határozat meghozatala olyan késedelemmel járna, amely a zár alá vétellel elérni kívánt célt jelentősen veszélyeztetné, az ügyészség, illetve a nyomozó hatóság a bíróság döntéséig elrendelheti a zár alá vételt. Ilyen esetben a nyomozó hatóság a zár alá vétel elrendelésétől számított nyolc napon belül kezdeményezi az ügyészségen a bíróság döntésének a beszerzését, az ügyészség pedig ennek érdekében a zár alá vétel elrendelésétől számított egy hónapon belül tesz indítványt. Ha a zár alá vételt a bíróság nem rendeli el, a zár alá vétel feloldásáról rendelkezik, és késedelem nélkül intézkedik annak végrehajtása iránt.
 
 (6) A zár alá vételt elrendelő határozat rendelkező részében meg kell jelölni, hogy a zár alá vétel pénzbírság biztosítására szolgál, valamint azt, hogy a zár alá vétel mekkora összeg biztosítására szolgál.
 
@@ -222,7 +222,7 @@ a jogi személlyel szemben alkalmazható büntetőjogi intézkedésekről
 
 (8) A (6) és (7) bekezdés szerinti határozatokat haladéktalanul kézbesíteni kell a vagyoni érdekeltnek, valamint a jogszabály alapján a bűnügyi hitelezői igény képviseletére jogosult egyéb érdekeltnek is.
 
-(9) A pénzbírság biztosítása érdekében elrendelt zár alá vétel esetén a zár alá vétel megváltására a Be. 329. § (1)–(6) bekezdését kell alkalmazni azzal, hogy
+(9) A pénzbírság biztosítása érdekében elrendelt zár alá vétel esetén a zár alá vétel megváltására a Be. 333/G. §-át kell alkalmazni azzal, hogy
 
 - a) a megváltásnak nincs helye, ha az eljárás alá vont jogi személlyel szemben felszámolást rendeltek el,
 - b) a megváltás nem utasítható el, ha a bíróság végzésében meghatározott, biztosítandó összeg kifizetését vállalják,
@@ -691,4 +691,11 @@ rendelhető el.
 - d) a Tanács 2000. május 29-i kerethatározata az Euro bevezetésével kapcsolatos hamisítások elleni fokozott védelemről, büntetések és más szankciók alkalmazásával (8–9. cikk),
 - e) az Európai Közösségek pénzügyi érdekeinek védelméről szóló egyezmény második kiegészítő jegyzőkönyve (3–4. cikk).
 
-30. § Ez a törvény az uniós korlátozó intézkedések megsértése bűncselekményi tényállásainak és szankcióinak meghatározásáról és az (EU) 2018/1673 irányelv módosításáról szóló, 2024. április 24-i (EU) 2024/1226 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+30. § Ez a törvény
+
+- a) az uniós korlátozó intézkedések megsértése bűncselekményi tényállásainak és szankcióinak meghatározásáról és az (EU) 2018/1673 irányelv módosításáról szóló, 2024. április 24-i (EU) 2024/1226 európai parlamenti és tanácsi irányelvnek,
+- b) az emberkereskedelem megelőzéséről és az ellene folytatott küzdelemről, valamint az áldozatok védelméről szóló 2011/36/EU irányelv módosításáról szóló, 2024. június 13-i (EU) 2024/1712 európai parlamenti és tanácsi irányelvnek
+
+való megfelelést szolgálja.
+
+31. § E törvény a büntetőeljárás során az elektronikus bizonyítékokkal kapcsolatban, valamint a büntetőeljárást követően a szabadságvesztés-büntetések végrehajtása céljából kibocsátott, közlésre kötelező európai határozatokról és megőrzésre kötelező európai határozatokról szóló, 2023. július 12-i (EU) 2023/1543 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.

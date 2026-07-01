@@ -277,7 +277,10 @@ személyes adatot nem tartalmazó adatkörökbe tartozó, a szálláshely-szolg�
 
 továbbítsa.
 
-(2) Az Üzemeltető az (1) bekezdés szerinti szoftvert térítésmentesen biztosítja az olyan szálláshely-szolgáltatónak, aki legfeljebb nyolc szobát tizenhat férőhellyel hasznosít szálláshelyként.
+(2) Üzemeltető az (1) bekezdés szerinti szoftvert térítésmentesen biztosítja az olyan szálláshely-szolgáltatónak, aki
+
+- a) a kereskedelemről szóló törvény szerinti szálláshely esetében legfeljebb nyolc szobát tizenhat férőhellyel hasznosít szálláshelyként,
+- b) a nem üzleti célú közösségi, szabadidős szálláshely-szolgáltatásról szóló kormányrendeletben jogosultként meghatározott szálláshelyet üzemeltet.
 
 (3) A szálláshely-szolgáltató a harmadik országbeli állampolgárokra vonatkozó, 6/B. alcímben meghatározott adatok rögzítését és a helyi önkormányzat idegenforgalmi adót meghatározó rendelete szerinti nyilvántartás vezetését elektronikusan, a szálláshelykezelő szoftver alkalmazásával teljesíti.
 
@@ -327,7 +330,7 @@ továbbítsa.
 - h) 9/H. § (4) bekezdésben meghatározott tárhelyszolgáltatót, továbbá a tárhelyszolgáltatóhoz történő csatlakozás és adatfeldolgozás, valamint a tárhely üzemeltetésének és titkosításának részletes szabályait
 - i) vendéglátó üzlet üzemeltetője által alkalmazandó vendéglátó szoftver és a Nemzeti Turisztikai Adatszolgáltató Központ közötti kommunikáció részletszabályait,
 - j) turisztikai attrakció üzemeltetője által alkalmazandó jegykezelő szoftver és a Nemzeti Turisztikai Adatszolgáltató Központ közötti kommunikáció részletszabályait,
-- k) Nemzeti Turisztikai Adatszolgáltató Központban adatszolgáltatásra kötelezett vendéglátó üzletek és a regisztrációra és adatszolgáltatásra kötelezett turisztikai attrakciók körét;
+- k) Nemzeti Turisztikai Adatszolgáltató Központban a regisztrációra és adatszolgáltatásra kötelezett szálláshelyek, az adatszolgáltatásra kötelezett vendéglátó üzletek és a regisztrációra és adatszolgáltatásra kötelezett turisztikai attrakciók körét;
 - l) turisztikai attrakció üzemeltetőjének a Nemzeti Turisztikai Adatszolgáltató Központtal kapcsolatos regisztrációs és adatszolgáltatási kötelezettségei ellenőrzésére jogosult szervet, a kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket;
 - m) turisztikailag kiemelt jelentőségű településeket
 - n) turisztikai és vendéglátóipari célú támogatás vagy hitel és pénzkölcsön Nemzeti Turisztikai Adatszolgáltató Központ közreműködésével történő nyújtásának és igénybevételének részletes szabályait

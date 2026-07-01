@@ -756,6 +756,8 @@ használható fel.
 
 (5) Bíróság, ügyészség, nyomozó hatóság, előkészítő eljárást folytató szerv vagy más hatóság megkeresésére vagy adatkérésére a rögzített felvételt haladéktalanul meg kell küldeni. Ha a (3) bekezdés szerinti kérelem benyújtásától számított 30 napon belül nem kerül sor megkeresésre vagy adatkérésre, a rögzített felvételt haladéktalanul törölni kell.
 
+36/R. § A pénzügyőr a bűnüldöző szervek nemzetközi együttműködéséről szóló 2002. évi LIV. törvény 39. §-ában meghatározott dolgot a jogosultnak vagy az eljáró hatóságnak történő átadásig, de legfeljebb hét munkanapra átvételi elismervény ellenében ideiglenesen elveheti.
+
 ### Létesítmény őrzés-védelmi intézkedés
 
 37. § (1) A pénzügyőr által őrzött létesítményben az abban tartózkodók biztonsága érdekében a pénzügyőr a 36/A. § (1) bekezdésében és 36/B. § (2) bekezdésében rögzített intézkedéseken túl a (2) bekezdés szerinti intézkedésekre is jogosult. A létesítmény őrzés-védelmét ellátó szerv vezetője a pénzügyőr által őrzött létesítménybe való be- és kilépésre – a nem NAV kezelésében lévő létesítmény esetén az ott elhelyezett szerv vezetőjével egyetértésben –, illetve a képfelvétel készítésére a (2) bekezdés és a 78/B. § figyelembevételével szabályokat állapíthat meg.
@@ -1777,7 +1779,7 @@ kezelésére.
 
 105. § E törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
-- a)
+- a) a vagyonvisszaszerzésről és -elkobzásról szóló, 2024. április 24-i (EU) 2024/1260 európai parlamenti és tanácsi irányelv,
 - b) a vízuminformációs rendszerhez (VIS) a tagállamok kijelölt hatóságai, valamint az Europol számára a terrorcselekmények és egyéb súlyos bűncselekmények megelőzése, felderítése és kivizsgálása érdekében, betekintés céljából történő hozzáférésről szóló, 2008. június 23-i, 2008/633/IB tanácsi határozat 3–5. cikke [75. §],
 - c) a büntető ügyekben folytatott rendőrségi és igazságügyi együttműködés keretében feldolgozott személyes adatok védelméről szóló, 2008. november 27-i, 2008/977/IB tanácsi kerethatározat 3. cikke, 5. cikke, 9. cikke, 13. cikke [72. § (1)–(2) bekezdés, 74. § (2) bekezdés, 77. §, 78. § (1) bekezdés a)–c) pontok],
 - d) az információs technológia vámügyi alkalmazásáról szóló, 2009. november 30-i 2009/917/IB Tanácsi határozat [80. §].

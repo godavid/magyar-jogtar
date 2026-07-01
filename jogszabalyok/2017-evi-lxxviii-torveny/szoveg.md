@@ -773,19 +773,22 @@ azzal, hogy ezt a körülményt, valamint a b) pont szerinti esetben az (1) beke
 
 #### 27. Az ügyvédi letét
 
-47. § (1) Az ügyvéd, ügyvédi iroda és az európai közösségi jogász (ezen alcím alkalmazásában a továbbiakban együtt: ügyvéd)
+47. § (1) Az ügyvéd, az ügyvédi iroda és az európai közösségi jogász (ezen alcím alkalmazásában a továbbiakban együtt: ügyvéd)
 
 - a) a megbízás teljesítéseként,
-- b) a megbízáshoz kapcsolódó eljárási cselekmények költségének teljesítésére, vagy
-- c) a megbízáshoz kapcsolódóan megőrzésre
+- b) a megbízáshoz kapcsolódó eljárási cselekmények költségének teljesítésére,
+- c) a megbízáshoz kapcsolódóan megőrzésre, vagy
+- d) a 28. § (3) bekezdése alapján átvett
 
-pénzt, készpénz-helyettesítő fizetési eszközt, utalványt, értékpapírt vagy más okiratot vehet át, őrizhet és kezelhet letétként.
+pénzt, készpénz-helyettesítő fizetési eszközt, utalványt, értékpapírt vagy más okiratot, továbbá egyéb dolgot vehet át, őrizhet és kezelhet letétként.
 
-(2) A letéti szerződést írásba kell foglalni.
+(2) A letéti szerződést írásba kell foglalni. Az 51. § (1) bekezdés szerinti letét esetében a szerződés akkor hatályosul, amikor a letét-bejelentés alapján a területi kamara által küldött, a letéthez rendelt egyedi azonosító számot és a letéti nyilvántartásba bejelentett elkülönített letéti számla vagy alszámla számát tartalmazó elektronikus visszaigazolást az ügyvéd a letevővel közölte.
 
 (3) Az (1) bekezdés a) és b) pontjában meghatározott letét kezelésére irányuló szerződés tartalmi elemeit a letétkezelő ügyvéd által ellenjegyzett olyan szerződés is tartalmazhatja, amelyben a letevő és az a személy, akinek a letett dolgot ki kell adni, egyaránt szerződő fél.
 
 (4) Az (1) bekezdés a) pontjában meghatározott letét kezelésére irányuló szerződést a letevő akkor mondhatja fel, ha arra a letéti szerződés kifejezetten feljogosítja.
+
+(4a) Az (1) bekezdés d) pontja alapján kezelt letét esetében külön letéti szerződést nem kell kötni.
 
 (5) Semmis a letéti szerződésnek az a rendelkezése, amely az ügyvéd felelősségét a letétkezelési tevékenységgel összefüggésben kizárja vagy korlátozza.
 
@@ -808,18 +811,24 @@ pénzt, készpénz-helyettesítő fizetési eszközt, utalványt, értékpapírt
 
 48. § (1) Az ügyvéd a letétet a letéti szerződés feltételei szerint, biztonságosan, a jogosulatlan hozzáférést megakadályozó módon köteles őrizni.
 
-(2) Az ügyvéd a letétet a letét céljától eltérően nem használhatja, azt nem hasznosíthatja, továbbá azt más személy birtokába vagy őrizetébe e törvény eltérő rendelkezése hiányában nem adhatja. Az ügyvéd a letett pénzt lekötheti.
+(2) Az ügyvéd a letétet a letét céljától eltérően nem használhatja, azt nem hasznosíthatja, továbbá azt más személy birtokába vagy őrizetébe e törvény eltérő rendelkezése hiányában nem adhatja.
 
-49. § (1) Az ügyvéd a pénzt, illetve a dematerializált értékpapírt minden más pénzeszközétől és értékpapírjától elkülönítve, letéti számláján, illetve értékpapírszámláján kezeli. Az ügyvéd a letevő erre irányuló kérelme esetén a letevő költéségre
+(3) Nem minősül a letét céljától eltérő hasznosításnak, ha az ügyvéd a letéti szerződés rendelkezése alapján a letett összegből a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló törvényben meghatározott állampapírt (a továbbiakban: állampapír) vásárol, és azt veszi letétbe, feltéve, hogy a letéti szerződés teljesítését ez nem veszélyezteti és jogosult kifejezetten hozzájárul. Az állampapír-vásárlással és -visszaváltással kapcsolatos költségek a letéti szerződés eltérő rendelkezése hiányában a letevőt terhelik, a letett összeg terhére e költségek nem számolhatók el. Az állampapír vásárlásához az állampapír típusa, illetve besorolása megjelölésével a letevő írásban járul hozzá.
 
-- a) a pénzt, illetve a dematerializált értékpapírt elkülönített alszámlán kezeli, valamint
-- b) biztosítja, hogy a letevő az a) pont szerinti alszámla egyenlegéről a számlavezetőtől közvetlenül tájékoztatást kapjon.
+(4) A letéti szerződésben a felek abban is megállapodhatnak, hogy az ügyvéd a pénzletétet az ügyfél megbízásából letétkezelés céljára szolgáló betétszámláján helyezi el, és azt lekötheti. Az ügyvédi letét betétszámlán való kezelésének kockázatairól, az Országos Betétbiztosítási Alap által nyújtott biztosításról és a kártalanítás összeghatáráról szóló tájékoztatást és az ügyfél, valamint a jogosult kifejezett hozzájáruló nyilatkozatát a letéti szerződés tartalmazza.
+
+49. § (1) Az ügyvéd a pénzt, illetve a dematerializált értékpapírt minden más pénzeszközétől és értékpapírjától elkülönítve, letéti számláján, illetve értékpapírszámláján kezeli. Az ügyvéd
+
+- a) a pénzt, illetve a dematerializált értékpapírt – a költségletét kivételével – letétenként elkülönített számlán vagy alszámlán köteles kezelni, valamint
+- b) a letevő erre irányuló kérelme esetén a letevő költségére biztosítja, hogy a letevő az a) pont szerinti elkülönített számla vagy alszámla egyenlegéről a számlavezetőtől közvetlenül tájékoztatást kapjon.
+
+(1a) A költségletétet az ügyvéd a költségletétek kezelésére szolgáló letéti számlán vagy alszámlán kezelheti, és azt ilyen típusú számlaként a letéti nyilvántartásba köteles bejelenteni.
 
 (2) Az ügyvéd a letétkezelés céljából átvett pénzt egy – külföldön átvett pénz esetében három – munkanapon belül az ügyvédi letéti számláján helyezi el.
 
 (3) A kötelező legkisebb munkabér havi összegének kétszeresét meg nem haladó pénz letétje esetében a felek a letéti szerződésben az (1)–(2) bekezdésben foglaltaktól eltérően is megállapodhatnak.
 
-(4) Materializált formában létrehozott készpénz-helyettesítő fizetési eszköz vagy utalvány, nyomdai úton előállított értékpapír, valamint más papíralapú okirat széfszolgáltatás igénybevételével is őrizhető.
+(4) Materializált formában létrehozott készpénz-helyettesítő fizetési eszköz vagy utalvány, nyomdai úton előállított értékpapír, valamint más papíralapú okirat széfszolgáltatás igénybevételével is őrizhető. A 48. § (3) bekezdése alapján vásárolt nyomdai úton előállított állampapír kezelésének követelményeit kamarai szabályzat állapítja meg.
 
 (5) A letéti szerződésben az ügyvédi letéti számla, illetve az értékpapírszámla vezetőjét és az alszámla számát, illetve a letét őrzésére szolgáló széfszolgáltatás nyújtóját meg kell jelölni.
 
@@ -839,12 +848,14 @@ pénzt, készpénz-helyettesítő fizetési eszközt, utalványt, értékpapírt
 - b) a letéti szerződés ügyazonosítóját,
 - c) a letét típusát,
 - d) a letét tárgyát,
-- e) ha a letétkezelő ügyvéd a letétet alszámlán helyezi el, az alszámla számát,
+- e) a költségletét kivételével, az elkülönített számla vagy alszámla számát,
 - f) pénzletét esetében a ténylegesen letétben levő pénz összegét és devizanemét,
-- g) a letéti szerződés megkötésének, módosításának, illetve megszűnésének a dátumát,
+- g) a letéti szerződés megkötésének, módosításának, illetve megszűnésének a dátumát, a 47. § (1) bekezdés d) pontja szerinti letét esetében az átvétel idejét, az átvett pénz összegét, az átvétel jogcímét, valamint az átvett pénz megbízó részére történő átadásának időpontját,
 - h) az adatok letéti nyilvántartásban való rögzítésnek, illetve a rögzített adatok módosításának a dátumát.
 
 (3) A (2) bekezdésben meghatározott adatokat, illetve azok változását az ügyvéd a letéti szerződés megkötésétől, illetve a (2) bekezdésben meghatározott adatok változásától számított egy munkanapon belül minősített elektronikus aláírásával és időbélyegzővel ellátott elektronikus nyilatkozat megtételével rögzíti. Az elektronikus nyilvántartás a letéthez egyedi azonosító számot rendel.
+
+(3a) Az ügyvédi letét bankszámlán való kezelésének feltétele, hogy az (1) bekezdés szerinti letét-bejelentés megtörténtét a területi kamara a letéthez rendelt egyedi azonosító szám és az elkülönített letéti számla vagy alszámla számának a megküldésével együtt elektronikusan visszaigazolja és a visszaigazolást az ügyvéd a letevővel közölje.
 
 (4) Az elektronikus letéti nyilvántartás a (2) és (3) bekezdésben meghatározott adatokat a letéti szerződés megszűnését követő tíz évig tartalmazza.
 
@@ -3085,6 +3096,8 @@ rendeletben szabályozza.
 208/F. § Az ügyvédi kamarai nyilvántartásban szereplő ingatlan-nyilvántartási eljárási jogosultsággal rendelkező ügyvéd és alkalmazott ügyvéd esetében a területi kamara 2025. szeptember 1-jéig hivatalból bejegyzi az 1. mellékletben foglalt táblázat 33b. sora szerinti adatot.
 
 208/G. § A 47/A. § rendelkezéseit a hatálybalépését követően megkötött letétkezeléssel összefüggő megbízás és ügyvédi letéti szerződés esetében kell alkalmazni.
+
+208/H. § A Polgári Törvénykönyvről szóló 2013. évi V. törvény és egyes kapcsolódó törvények módosításáról szóló 2025. évi CXVII. törvénnyel megállapított 47. § (1), (2) és (4a) bekezdését, 48. § (2)–(4) bekezdését, 49. § (1), (1a) és (4) bekezdését, valamint az 51. § (2) bekezdés e) és g) pontját és (3a) bekezdését a 2026. július 1-jén és azt követően megkötött vagy módosított ügyvédi letéti szerződésekre kell alkalmazni.
 
 #### 92. Az Európai Unió jogának való megfelelés
 

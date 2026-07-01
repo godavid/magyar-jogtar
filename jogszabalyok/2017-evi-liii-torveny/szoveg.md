@@ -926,6 +926,44 @@ alapján indul meg.
 
 (3) Az 5. §-ban meghatározott felügyeletet ellátó szerv, illetve a cégbíróság a tájékoztatásban megküldött információk felhasználásának eredményéről a tárgyévet követő év március 31. napjáig tájékoztatja a pénzügyi információs egységet.
 
+46/A. § (1) A pénzügyi információs egység operatív elemzése keretében tájékoztatást küldhet az általa meghatározott szolgáltató részére az operatív elemzés keretében megismert, a szolgáltató e törvényben meghatározott kötelezettségeinek teljesítése szempontjából releváns információ megosztásával (ezen alcím alkalmazásában a továbbiakban: információ-megosztás).
+
+(2) Az információ-megosztás kizárólag a 29. § szerinti nemzeti kockázatértékelésben meghatározott kockázatok kezelése érdekében történhet, és a pénzmosás és a terrorizmus finanszírozása megelőzése és megakadályozása céljából személyes adatokat is tartalmazhat.
+
+(3) Az információ-megosztás automatizált, emberi beavatkozást nem igénylő feldolgozásra alkalmas, egységesített formátumban tartalmazza
+
+- a) az információ-megosztásban részesülő szolgáltató megnevezését,
+- b) a nemzeti kockázatértékelésben meghatározott kockázatot,
+- c) a kockázat kezeléséhez, illetve a pénzmosás és a terrorizmus finanszírozása megelőzéséhez és megakadályozásához szükséges információt,
+- d) a tájékoztatás időpontját és
+- e) a megosztott információ felhasználhatóságának időtartamát.
+
+(4) A fizetési művelethez, ügylethez kapcsolódó információ felhasználhatóságának időtartama legfeljebb kilencven nap lehet, ugyanakkor ez nem akadálya annak, hogy az információ vonatkozásában ismételten információ-megosztásra kerüljön sor, ha az a kockázatok kezelése érdekében indokolt.
+
+(5) A hitelintézet és a pénzügyi szolgáltató az információ-megosztásban szereplő
+
+- a) fizetési művelethez kapcsolódó információt a megosztástól számított két órán belül felhasználja,
+- b) egyéb – fizetési művelethez nem kapcsolódó – információt a megosztástól számított egy munkanapon belül felhasználja, vagy a megfelelőségi vezetőhöz eljuttatja.
+
+(6) Az (5) bekezdés hatálya alá nem tartozó szolgáltató az információ-megosztásban szereplő információt a megosztást követő egy munkanapon belül felhasználja vagy a megfelelési vezetőhöz eljuttatja.
+
+(7) A szolgáltató és az 5. §-ban meghatározott felügyeletet ellátó szerv az (1) bekezdés szerinti információ pénzügyi információs egység általi megosztásával jogosultságot szerez az információ-megosztásban szereplő információ, titok megismerésére.
+
+(8) Az információ-megosztás tartalmát a szolgáltatók kockázatértékelési és a 11–12. §-ban, valamint a 14/A. § (6) bekezdésében meghatározott monitoring tevékenységük során, továbbá az 5. §-ban meghatározott felügyeletet ellátó szervek a felügyeleti tevékenységük során felhasználhatják.
+
+(9) A szolgáltató az információ-megosztás tartalmát az 56–58. §-ban meghatározottak szerint jogosult kezelni és köteles megőrizni.
+
+46/B. § (1) A pénzügyi információs egység az információ-megosztásban szereplő információt felülvizsgálhatja, az indokolatlan információ-megosztás tartalmáról haladéktalanul értesíti a szolgáltatókat.
+
+(2) A megosztott információ a monitoring tevékenység során a továbbiakban nem használható fel
+
+- a) az információ-megosztásban meghatározott időtartam leteltét követően, vagy
+- b) az (1) bekezdés szerinti értesítés kézhez vételét követően.
+
+(3) A szolgáltató a (2) bekezdésben meghatározott információ-megosztás tartalmát az 56–58. §-ban meghatározottak szerint jogosult kezelni és köteles megőrizni.
+
+(4) A pénzügyi információs egységet – jóhiszeműsége esetén – akkor sem terheli polgári jogi vagy büntetőjogi felelősség az információ-megosztásért, ha az utóbb indokolatlannak bizonyul.
+
 47. § (1) A pénzügyi információs egység a 42–44. §, a 75. § (1)–(2) bekezdése alapján tudomására jutott adatot, titkot csak a 41. § (1) bekezdésében meghatározott stratégiai elemzésének ellátása érdekében, valamint a 48. § (1) bekezdésében és a 49. § (1) bekezdésében meghatározott célokból, a 39. §-ban meghatározott operatív elemzésének érdekében használhatja fel.
 
 (2) A pénzügyi információs egység a 46. § alapján tudomására jutott adatot, titkot csak a 48. § (1) bekezdésében és a 49. § (1) bekezdésében meghatározott célokból, a 39. §-ban meghatározott operatív elemzésének ellátása érdekében használhatja fel.
@@ -1020,7 +1058,7 @@ részére.
 
 #### 13. A felfedés tilalma
 
-54. § (1) A bejelentés és az adatszolgáltatás teljesítéséről, annak tartalmáról, az elemző-értékelő tevékenységről, az ügylet teljesítésének a 34. § és a 35. § szerinti felfüggesztéséről, a bejelentő személyéről, valamint arról, hogy az ügyféllel szemben indult-e büntetőeljárás, az ügyfélnek, illetve harmadik személynek, szervezetnek a bejelentő, a pénzügyi információs egység, valamint a 42. § (2) bekezdése és a 75. § (2) bekezdése alapján megkeresett szolgáltató, a 43. § (2) bekezdése alapján megkeresett hatóság, a pénzügyi és vagyoni korlátozó intézkedés foganatosításáért felelős szerv, valamint a 44. § és a 46. § alapján megkeresett szerv tájékoztatást nem adhat, és köteles biztosítani, hogy a bejelentés megtörténte, annak tartalma és a bejelentő személye titokban maradjon.
+54. § (1) A bejelentés és az adatszolgáltatás teljesítéséről, annak tartalmáról, az elemző-értékelő tevékenységről, az ügylet teljesítésének a 34. § és a 35. § szerinti felfüggesztéséről, a bejelentő személyéről, valamint arról, hogy az ügyféllel szemben indult-e büntetőeljárás, az ügyfélnek, illetve harmadik személynek, szervezetnek a bejelentő, a pénzügyi információs egység, valamint a 42. § (2) bekezdése és a 75. § (2) bekezdése alapján megkeresett szolgáltató, a 43. § (2) bekezdése alapján megkeresett hatóság, a pénzügyi és vagyoni korlátozó intézkedés foganatosításáért felelős szerv, a 44. § és a 46. § alapján megkeresett szerv, valamint a 46/A. § alapján információ-megosztásban részesülő szolgáltató és az 5. §-ban meghatározott felügyeletet ellátó szerv tájékoztatást nem adhat, és köteles biztosítani, hogy a bejelentés megtörténte, annak tartalma és a bejelentő személye titokban maradjon.
 
 (2) Az (1) bekezdésben meghatározott tilalom nem vonatkozik az 5. §-ban meghatározott felügyeletet ellátó szerv bejelentő általi tájékoztatására, a 42. § (2) bekezdése és a 75. § (2) bekezdése alapján a szolgáltató megkeresésére, a 43. § (2) bekezdésében, a 44. és 46. §-ban meghatározott szerv megkeresésére, a 41. § (2) bekezdésében meghatározott tájékoztatásra, a 48. és 49. §-ban meghatározott információ továbbítására, valamint a szolgáltató és a közvetítő között létrejött megbízási szerződés tekintetében a megbízás keletkezését megelőző időszakra vonatkozóan a közvetítő által tett bejelentések szolgáltató általi megismerésére, valamint a központi kapcsolattartó pontra az e törvényben, vagy közvetlenül alkalmazandó európai uniós jogi aktusban meghatározott kötelezettségek teljesítése során.
 

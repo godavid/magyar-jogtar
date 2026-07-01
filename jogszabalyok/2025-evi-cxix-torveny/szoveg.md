@@ -52,11 +52,15 @@ belügyi humán ágazatokat érintő törvények módosításáról
 
 #### 11. §
 
-#### 7.
+#### 7. A humángenetikai adatok védelméről, a humángenetikai vizsgálatok és kutatások, valamint a biobankok működésének szabályairól szóló 2008. évi XXI. törvény módosítása
 
-#### 12. §
+12. § A humángenetikai adatok védelméről, a humángenetikai vizsgálatok és kutatások, valamint a biobankok működésének szabályairól szóló 2008. évi XXI. törvény (a továbbiakban: Hgtv.) 6. § (5) bekezdése helyébe a következő rendelkezés lép és a § a következő (5a) bekezdéssel egészül ki:
 
-#### 13. §
+„(5) A (2) bekezdés, a (2a) bekezdés a) pontja és a (4) bekezdés szerinti genetikai tanácsadást az e törvény végrehajtási rendeletében meghatározott humángenetikai vizsgálatok esetében lehet mellőzni. Genetikai tanácsadás az érintett egyéni kérelmére is nyújtható.
+
+(5a) A genetikai tanácsadás (5) bekezdés szerinti mellőzése esetén a humángenetikai vizsgálat elvégzése során a rendelkezésre jogosult önrendelkezési jogát a 8. § szerinti tájékoztatással és beleegyező nyilatkozat megtételével biztosítani kell. Ebben az esetben a rendelkezésre jogosult tájékoztatása a genetikai mintavételt követően, de a genetikai minta biobankban történő elhelyezése előtt is történhet.”
+
+13. § A Hgtv. 6. § (4) bekezdésében a „klinikai genetikai vizsgálat” szövegrész helyébe a „humángenetikai vizsgálat” szöveg lép.
 
 #### 8. A korhatár előtti öregségi nyugdíjak megszüntetéséről, a korhatár előtti ellátásról és a szolgálati járandóságról szóló 2011. évi CLXVII. törvény módosítása
 
