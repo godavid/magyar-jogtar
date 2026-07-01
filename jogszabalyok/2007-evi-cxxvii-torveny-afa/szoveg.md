@@ -4797,6 +4797,8 @@ az állami adó- és vámhatóság részére.
 
 375. § A 3. számú melléklet I. részében foglalt táblázat egyes adótörvények adminisztrációt csökkentő és jogharmonizációs célú módosításáról szóló 2025. évi LXXXIII. törvénnyel megállapított 60. sorát első alkalommal azokban az esetekben kell alkalmazni, amelyekben a 84. § szerint megállapított időpont 2026. január 1-jére vagy azt követő időpontra esik.
 
+376. § E törvénynek az egyes adótörvények adminisztrációt csökkentő és jogharmonizációs célú módosításáról szóló 2025. évi LXXXIII. törvénnyel módosított 10. számú melléklet Számla befogadása című alcímét a 2026. július 1-jét magában foglaló adómegállapítási időszakról teljesítendő bevallások tekintetében kell először alkalmazni.
+
 377. § (1) Az adóalany – az egyéb törvényi feltételek fennállása esetén – az alanyi adómentességet 2026. naptári évre abban az esetben választhatja, ha az adóalany 2. § a) pontja szerinti összes termékértékesítése, szolgáltatásnyújtása fejében megtérített vagy megtérítendő ellenértéknek – forintban kifejezett és éves szinten göngyölített – összege
 
 - a) sem a 2025. naptári évben ténylegesen,
@@ -5391,17 +5393,24 @@ Számla kiállítása, -kibocsátása
 - 5/C. Csoportos adóalany által teljesített termékértékesítésről, szolgáltatásnyújtásról a csoportos adóalany által kiállított számla, számlával egy tekintet alá eső okirat esetén az ügyletben résztvevő tag adószámáról is adatot kell szolgáltatni.
 - 6. Az 1–5/C. pont szerinti adatszolgáltatást az állami adó- és vámhatóság által erre a célra biztosított elektronikus felületen kell teljesíteni. Az elektronikus felület az adóalany egyedi azonosítására szolgáló adatok igénylését követően használható. Az azonosító adatokat az adóalany vagy annak Air. szerinti állandó meghatalmazottja igényli.
 - 7. Az 1–5/C. pont szerinti adatszolgáltatást az adóalany nevében az a személy is teljesítheti, akit az adóalany vagy annak Air. szerinti állandó meghatalmazottja a 6. pont szerinti elektronikus felületen megjelöl. Az adóalany vagy annak Air. szerinti állandó meghatalmazottja által megjelölt személy által teljesített valamennyi adatszolgáltatás az adóalany nevében tett jognyilatkozatnak minősül.
-- 8. Az adóalany vagy annak Air. szerinti állandó meghatalmazottja a 6. pont szerinti elektronikus felületen megjelöli azon személyt, akinek az elektronikus felületen szolgáltatott adatokhoz hozzáférési lehetőséget ad. Számla befogadása
-- 9. Az adóalany termék beszerzése, szolgáltatás igénybevétele esetén arról az adómegállapítási időszakról teljesítendő bevallásban, amelyben az ügylet teljesítését vagy az előleg megfizetését tanúsító számla alapján adólevonási jogot gyakorol, számlánként nyilatkozni köteles:
-  - a) a terméket értékesítő, szolgáltatást nyújtó adóalany – ideértve az Eva. hatálya alá tartozó személyt, szervezetet is – adószámának, csoportos adóalanyiság esetén csoportazonosító számának első nyolc számjegyéről,
-  - b) a nevére szóló számlában feltüntetett adóalapról és áthárított adó összegről, a számla sorszámáról, valamint
+- 8. Az adóalany vagy annak Air. szerinti állandó meghatalmazottja a 6. pont szerinti elektronikus felületen megjelöli azon személyt, akinek az elektronikus felületen szolgáltatott adatokhoz hozzáférési lehetőséget ad.
+
+Számla befogadása
+
+- 9. Az adóalany termék beszerzése, szolgáltatás igénybevétele esetén arról az adómegállapítási időszakról teljesítendő bevallásában, amelyben az ügylet teljesítését vagy az előleg megfizetését tanúsító számla alapján adólevonási jogot gyakorol, számlánként nyilatkozni köteles:
+  - a) a terméket értékesítő, szolgáltatást nyújtó adóalany adószámának, csoportos adóalanyiság esetén csoportazonosító számának első nyolc számjegyéről,
+  - b) a nevére szóló számlában feltüntetett adóalapról, áthárított adó összegről, valamint a levonásba helyezett adó összegéről adómérték és az arányosítással levonásba helyezett adó összeg szerinti bontásban, a számla sorszámáról, valamint
   - c) a számlában a 169. § g) pontja szerint feltüntetett időpontról, ennek hiányában a számla kibocsátásának keltéről.
-- 10. A 9. pont szerinti számla módosítása vagy érvénytelenítése esetén a számlával egy tekintet alá eső okiratot befogadó adóalany abban a bevallásban, amelyben a módosítás, érvénytelenítés hatását figyelembe veszi, köteles a módosított, érvénytelenített számlát érintően a 9. pont szerint nyilatkozni. Ebben az esetben az adóalany nyilatkozik annak a számlának a 9. pontban meghatározott adatairól, amelyet a módosítás, érvénytelenítés érint, a módosítás számszaki hatásáról az adóalap és áthárított adó tekintetében, valamint a számlát módosító, érvénytelenítő okirat sorszámáról.
-- 11. Amennyiben az adóalany 59. § szerinti előleget fizetett, a teljesítésről kibocsátott, kiállított számla, számlával egy tekintet alá eső okirat vonatkozásában az előleg figyelembevételével adódó különbözetről is szolgáltat adatot.
+
+A levonásba helyezett adó kiigazításának az 5. számú melléklet alapján számított összegéről a nyilatkozattételi kötelezettség összevontan is teljesíthető. Azonos megítélés alá esik, ha az adóalany az előzetesen felszámított adó arányos megosztására nem az 5. számú mellékletet alkalmazza.
+
+- 10. A 9. pont szerinti számla módosítása vagy érvénytelenítése esetén a számlával egy tekintet alá eső okiratot befogadó adóalany abban a bevallásban, amelyben a módosítás, érvénytelenítés hatását figyelembe veszi, nyilatkozni köteles
+  - a) a módosított, érvénytelenített számla sorszámáról, valamint a számlát módosító, érvénytelenítő okirat sorszámáról,
+  - b) a módosítás számszaki hatásáról az adóalap és áthárított adó tekintetében, valamint
+  - c) a számlával egy tekintet alá eső okirat alapján levont vagy fizetendő adóként megállapított adó összegéről adómérték szerinti bontásban.
+- 11. Amennyiben az adóalany 59. § szerinti előleget fizetett, azon ügyletről kibocsátott számláról, amelyben az előleg beszámítása megtörtént, a 9. pont szerint nyilatkozik azzal, hogy az adó alapjaként és áthárított adóként kizárólag az előleg figyelembevételével adódó különbözetről, levonásba helyezett adóként kizárólag ezen különbözetből levonásba helyezett adó összegéről szolgáltat adatot.
 - 12. A 9–11. pont szerinti nyilatkozatra a bevallásra vonatkozó rendelkezéseket kell alkalmazni, azzal az eltéréssel, hogy az adatokról forintra kerekítve kell adatot szolgáltatni.
-- 13. A XIII/A. Fejezet szerinti adózási módot választó adóalany által kibocsátott számla esetében a 9–10. pont szerinti nyilatkozatot csak egyszer, arról az adómegállapítási időszakról teljesítendő bevallásban kell megtenni, amelyben ezen számla alapján az adóalany első alkalommal adólevonási jogot érvényesít.
-- 14. A XIII/A. Fejezet szerinti adózási módot választó adóalany termék beszerzése, szolgáltatás igénybevétele esetén a 9–10. pont szerinti nyilatkozatot ugyanazon számláról csak egyszer, arról az adómegállapítási időszakról teljesítendő bevallásban teljesíti, amelyben ezen számla alapján első alkalommal adólevonási jogot érvényesít.
-- 15. Mentesül a 9–10. pontban meghatározott nyilatkozattételi kötelezettség alól az az adóalany, aki (amely) bevallási kötelezettségét a 184. § (2) bekezdés b) vagy c) pontja szerint teljesíti.
+- 13. Mentesül a 9–10. pontban meghatározott nyilatkozattételi kötelezettség alól az az adóalany, aki (amely) bevallási kötelezettségét a 184. § (2) bekezdés b) vagy c) pontja szerint teljesíti.
 
 ### 11. számú melléklet a 2007. évi CXXVII. törvényhez
 

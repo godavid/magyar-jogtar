@@ -2333,7 +2333,7 @@ követik el.
 
 bűntett miatt egy évtől öt évig terjedő szabadságvesztéssel büntetendő.
 
-(2) Aki mást rendszeres előny szerzése céljából munkavégzésre, munka jellegű tevékenység végzésére, egyéb szolgáltatásra, vagy jogellenes cselekmény folytatására
+(2) Aki mást rendszeres előny szerzése céljából munkavégzésre, munka jellegű tevékenység végzésére, egyéb szolgáltatásra – ideértve a házasságkötést, az örökbefogadást, az egészségügyről szóló törvényben meghatározott emberi reprodukcióra irányuló különleges eljárástól eltérő emberi reprodukciós eljárást is – vagy jogellenes cselekmény folytatására
 
 - a) megtévesztéssel, a sértett nevelésével, felügyeletével, gondozásával, gyógykezelésével kapcsolatos, illetve a sértettel kapcsolatban fennálló egyéb hatalmi vagy befolyási viszonyával visszaélve, vagy a sértett kiszolgáltatott helyzetét kihasználva rábír, vagy
 - b) erőszakkal vagy fenyegetéssel kényszerít,
@@ -3258,7 +3258,7 @@ terjedő szabadságvesztéssel büntetendő.
 
 ### Radioaktív anyaggal visszaélés
 
-250. § (1) Aki veszélyes radioaktív anyagot engedély vagy bejelentés nélkül, illetve az engedély kereteit túllépve
+250. § (1) Aki nukleáris vagy más radioaktív anyagot engedély vagy bejelentés nélkül, illetve az engedély kereteit túllépve
 
 - a) előállít, tárol, elhelyez, szállít,
 - b) megszerez, birtokol, kezel, forgalomba hoz, feldolgoz vagy más módon felhasznál, tartásra nem jogosult személynek átad, ártalmatlanít, az ország területére behoz, onnan kivisz, vagy azon átszállít,
@@ -3271,11 +3271,13 @@ bűntett miatt egy évtől öt évig terjedő szabadságvesztéssel büntetendő
 
 (4) Aki az (1) bekezdésben meghatározott bűncselekményt gondatlanságból követi el, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
 
-(5) E § alkalmazásában veszélyes radioaktív anyag: a természetben előforduló vagy mesterségesen előállított anyag, amelynek egy vagy több összetevője ionizáló sugárzást bocsát ki, és amely az emberi életre és egészségre, vagy az élő és élettelen környezetre veszélyes.
+(5) E § alkalmazásában nukleáris vagy radioaktív anyag alatt az atomenergiáról szóló törvényben meghatározott fogalmat kell érteni.
+
+(6) Nem büntethető nukleáris vagy más radioaktív anyaggal való visszaélés miatt az, akinek a nukleáris vagy radioaktív anyag tárolására jogosító sugárvédelmi vagy fizikai védelmi engedélyének (e § alkalmazásában a továbbiakban együtt: engedély) időbeli hatálya az engedély időbeli hatályának meghosszabbítására vagy az új engedély megszerzésére irányuló, az atomenergia-felügyeleti szerv előtt folyamatban lévő közigazgatási hatósági eljárás során szűnik meg, és az általa birtokolt nukleáris vagy radioaktív anyagot az atomenergia-felügyeleti szerv által korábban kiadott, megszűnt időbeli hatályú engedélyben meghatározott tárolási helyen tárolja.
 
 ### Nukleáris létesítmény üzemeltetésével visszaélés
 
-251. § (1) Aki engedély nélkül vagy az engedély kereteit túllépve nukleáris létesítményt üzemeltet, bűntett miatt egy évtől öt évig terjedő szabadságvesztéssel büntetendő.
+251. § (1) Aki engedély nélkül vagy az engedély kereteit túllépve nukleáris létesítményt vagy radioaktívhulladék-tárolót üzemeltet, bűntett miatt egy évtől öt évig terjedő szabadságvesztéssel büntetendő.
 
 (2) Aki az (1) bekezdésben meghatározott bűncselekményt bűnszövetségben követi el, két évtől nyolc évig terjedő szabadságvesztéssel büntetendő.
 
@@ -3283,9 +3285,11 @@ bűntett miatt egy évtől öt évig terjedő szabadságvesztéssel büntetendő
 
 ### Atomenergia alkalmazásával visszaélés
 
-252. § (1) Aki az atomenergia alkalmazásához szükséges engedély megszerzése érdekében a döntésre jogosult szervet vagy személyt megtéveszti, bűntett miatt egy évtől öt évig terjedő szabadságvesztéssel büntetendő.
+252. § (1) Aki az atomenergia alkalmazásához szükséges engedély megszerzése, az engedély időbeli hatálya korlátozásának, visszavonásának, illetve az engedélyezett tevékenységtől eltiltás elkerülése érdekében, vagy a rendkívüli esemény kivizsgálása során a döntésre jogosult szervet vagy személyt megtéveszti, bűntett miatt egy évtől öt évig terjedő szabadságvesztéssel büntetendő.
 
-(2) Aki az atomenergia alkalmazásával kapcsolatos bejelentési kötelezettségét elmulasztja, három évig terjedő szabadságvesztéssel büntetendő.
+(2) Aki az atomenergia alkalmazásával kapcsolatos jelentéstételi és bejelentési kötelezettségét elmulasztja, ha ez rendkívüli esemény bekövetkezéséhez vezet, három évig terjedő szabadságvesztéssel büntetendő.
+
+(3) E § alkalmazásában rendkívüli esemény az atomenergiáról szóló 1996. évi CXVI. törvény 2. § 20. pontja és az ionizáló sugárzás elleni védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló 2/2022. (IV. 29.) OAH rendelet 36. § (1) bekezdése szerinti rendkívüli esemény.
 
 ### Kitiltás
 

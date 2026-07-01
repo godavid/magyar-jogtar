@@ -572,7 +572,7 @@ merült fel.
 
 36. § (1) Az előkészítő eljárásban a leplezett eszközök alkalmazására feljogosított e törvényben meghatározott szervek is eljárhatnak.
 
-(2) Az elkobzás és a vagyonelkobzás érdekében lefoglalt dolog vagy elektronikus adat, illetve a zár alá vett vagyon (a továbbiakban együtt: bűnügyi vagyon), illetve a lefoglalt bizonyítási eszköz kezelésében a bűnjel és a bűnügyi vagyon kezeléséért felelős szerv törvényben meghatározottak szerint közreműködik.
+(2) Az e törvényben meghatározottak szerint a lefoglalás vagyoni értékként kezelhető tárgya, valamint a zár alá vétel tárgya (a továbbiakban együtt: bűnügyi vagyon), illetve az elkobzás biztosítása érdekében vagy a bizonyítási eszközként lefoglalt tárgyak kezelésében a bűnjel és a bűnügyi vagyon kezeléséért felelős szerv, illetve a bíróság, az ügyészség vagy a nyomozó hatóság kijelölt szervezeti egysége (a továbbiakban együtt: bűnjelkezelő szerv) a jogszabályban meghatározottak szerint közreműködik.
 
 (3) A nyomozó hatóság tagjának kizárására vonatkozó rendelkezéseket kell alkalmazni a büntetőeljárásban eljáró egyéb szervek tagjának kizárására is.
 
@@ -961,7 +961,7 @@ irányuló követelés érvényesíthető, amely a vád tárgyává tett cselekm
 
 57. § (1) Vagyoni érdekelt az a természetes vagy nem természetes személy, aki vagy amely
 
-- a) elkobozható vagy lefoglalt dolog tulajdonosa, vagy arra nézve a tulajdonjog valamely tulajdonosi részjogosítványával rendelkezik,
+- a) elkobozható dolog vagy a lefoglalás tárgyának tulajdonosa, vagy arra nézve a tulajdonjog valamely tulajdonosi részjogosítványával rendelkezik,
 - b) olyan vagyonnal rendelkezni jogosult, amelyre vagyonelkobzás rendelhető el,
 - c) olyan elektronikus adattal rendelkezésre jogosult, amelynek végleges hozzáférhetetlenné tétele rendelhető el, vagy.
 - d) olyan tárhelyszolgáltatás jogosultja, amelynek a felfüggesztését rendelték el.
@@ -3875,7 +3875,7 @@ határidő állapítható meg.
 
 (5) A szaktanácsadó a közreműködésével végzett eljárási cselekményre vonatkozóan tanúként hallgatható ki.
 
-(6) Az Europol tisztviselője az (1) bekezdés alapján a büntetőeljárásban szaktanácsadóként vehető igénybe.
+(6) Az Europol, illetve külföldi állam bűnüldözési feladatot ellátó szervének tisztviselője az (1) bekezdés alapján a büntetőeljárásban szaktanácsadóként vehető igénybe.
 
 ## NYOLCADIK RÉSZ — A KÉNYSZERINTÉZKEDÉSEK
 
@@ -4451,14 +4451,36 @@ vezet.
 
 ### A lefoglalás elrendelése
 
-308. § (1) A lefoglalás célja a bizonyítási eszköz, illetve az elkobozható dolog vagy a vagyonelkobzás alá eső vagyon biztosítása a büntetőeljárás eredményes lefolytatása érdekében. A lefoglalás a lefoglalás tárgya feletti tulajdonjogot korlátozza.
+308. § (1) A lefoglalás a lefoglalás tárgya feletti tulajdonjogot korlátozza, illetve annak egyes részjogosítványait függeszti fel. A lefoglalás célja a lefoglalás tárgyának a biztosítása
 
-(2) El kell rendelni a lefoglalást, ha annak tárgya
+- a) a bizonyítás eredményes lefolytatása,
+- b) az elkobzás elősegítése, illetve
+- c) a vagyonelkobzás elősegítése
 
-- a) bizonyítási eszköz, vagy
-- b) elkobozható, illetve vagyonelkobzás alá esik.
+érdekében.
 
-(3) Lefoglalni az ingó dolgot, a számlapénzt, az elektronikus pénzt vagy az elektronikus adatot lehet.
+(2) A lefoglalás tárgya
+
+- a) tárgyi bizonyítási eszköz, valamint elektronikus adat,
+- b) elkobozható dolog vagy elkobozható elektronikus adat vagy
+- c) vagyonelkobzás alá eső vagyon
+
+lehet.
+
+(3) El kell rendelni a lefoglalást, ha megalapozottan feltehető, hogy a lefoglalás tárgyának biztosítása nélkül a lefoglalás célja nem lenne elérhető.
+
+(4) A lefoglalást elrendelő határozatban rendelkezni kell arról, hogy a lefoglalás tárgyának biztosítása mely, az (1) bekezdésben meghatározott célból szükséges. Ha a lefoglalás tárgyának biztosítása több célból szükséges, akkor valamennyi célról rendelkezni kell. Ha a lefoglalás elrendelésére kizárólag vagyonelkobzás elősegítése érdekében kerül sor, a lefoglalást elrendelő határozatban rendelkezni kell arról, ha a lefoglalt vagyon vagyoni értékként történő kezelésének lehetősége kizárt.
+
+(5) Ha a lefoglalás elrendelését követően a lefoglalás célja megváltozik vagy megszűnik, akkor a lefoglalás céljának megváltozásáról vagy megszűnéséről rendelkezni kell.
+
+(6) A lefoglalás tárgya vagyoni értékként akkor kezelhető, ha
+
+- a) a lefoglalás célja a vagyonelkobzás elősegítése és a vagyoni értékként történő kezelés lehetőségét nem zárták ki, vagy
+- b) az ügyészség vagy a nyomozó hatóság a lefoglalás tárgyának vagyoni értékként történő kezeléséről rendelkezik, különösen, ha a lefoglalás tárgya kényszerértékesítésének van helye.
+
+(7) Ha az a lefoglalás tárgyának értékéhez képest aránytalan vagy jelentős költséggel vagy egyébként indokolatlan nehézséggel nem járna, törekedni kell arra, hogy a vagyoni értékként történő kezelést akadályozó körülmények megszüntethetők legyenek, különösen, hogy a bizonyítás eredményes lefolytatása érdekében a lefoglalás tárgyának biztosítására ne legyen szükség. Ez a rendelkezés nem alkalmazható, ha a vagyoni értékként történő kezelés kizárása lenne szükséges.
+
+(8) Lefoglalni az ingó dolgot, a számlapénzt, az elektronikus pénzt vagy az elektronikus adatot lehet.
 
 309. § (1) A lefoglalást a bíróság, az ügyészség vagy a nyomozó hatóság rendeli el.
 
@@ -4497,40 +4519,9 @@ ha azt a tanúvallomás megtagadására jogosult személy őrzi.
 - e) a tanúvallomás megtagadására jogosult személy a lefoglalandó bizonyítási eszközt – a (2) és (3) bekezdésben meghatározott rendelkezésre való figyelmeztetést követően – önként átadja vagy hozzáférhetővé teszi, illetve
 - f) a tanúvallomás megtagadásra a 174. § alapján jogosult személyt a számára információt átadó személy kilétének felfedésére kötelezte a bíróság.
 
-### A lefoglalás végrehajtása
+#### 311. §
 
-311. § (1) A lefoglalást
-
-- a) birtokba vétellel,
-- b) a megőrzés más módon történő biztosításával,
-- c) az érintett őrizetében hagyással, vagy
-- d) az elektronikus adat esetében a 315. § (1) bekezdésében meghatározott módon
-
-lehet végrehajtani.
-
-(2) A lefoglalást akkor lehet az érintett őrizetében hagyással vagy a megőrzés más módon történő biztosításával végrehajtani, ha
-
-- a) a dolog birtokba vételre nem alkalmas,
-- b) a dolog vagy elektronikus adat birtokosának, kezelőjének azok használatához fűződő érdeke ezt indokolja, vagy
-- c) más fontos ok ezt szükségessé teszi.
-
-(3) A (2) bekezdésben meghatározott esetben a lefoglalt dolog vagy elektronikus adat kizárólag a lefoglalást elrendelő bíróság, ügyészség vagy nyomozó hatóság hozzájárulásával adható más birtokába. A hozzájárulás esetén a lefoglalt dolog megőrzésére az új birtokos köteles.
-
-(4) A kölcsönzött kulturális javak különleges védelméről szóló törvényben meghatározott különleges védelemmel érintett dolog lefoglalása a védelem időtartamának leteltét követően hajtható végre.
-
-(5) A lefoglalás végrehajtásának módjáról az elrendelésről szóló határozatban kell rendelkezni.
-
-(6) A büntetőeljárás alatt a lefoglalás fenntartásának indokoltságát jogszabályban meghatározottak szerint vizsgálni kell. Ha a lefoglalásra a továbbiakban az eljárás érdekében nincs szükség, haladéktalanul intézkedni kell a lefoglalás megszüntetése és a lefoglalt dolog kiadása iránt, vagy a lefoglalt dolog elkobzását kell indítványozni.
-
-312. § (1) A lefoglalás végrehajtása érdekében a dolog, illetve az elektronikus adat birtokosát vagy kezelőjét fel kell szólítani, hogy a keresett dolog hollétét fedje fel, illetve az elektronikus adatot tegye hozzáférhetővé. A felszólítás teljesítésének megtagadása esetén a keresett dolgot, illetve elektronikus adatot kutatással vagy motozással kell felkutatni. Erre az érintettet figyelmeztetni kell.
-
-(2) Ha az érintett a felszólításnak nem tesz eleget, rendbírsággal sújtható, kivéve
-
-- a) a terhelt vagy a bűncselekmény elkövetésével megalapozottan gyanúsítható személy,
-- b) az a személy, aki a tanúvallomás megtagadására jogosult, illetve
-- c) az a személy, aki tanúként nem hallgatható ki.
-
-(3) A terhelt vagy a bűncselekmény elkövetésével megalapozottan gyanúsítható személy kivételével a lefoglalást akadályozó személy rendbírsággal sújtható.
+#### 312. §
 
 ### Az irat lefoglalása
 
@@ -4602,7 +4593,7 @@ szükséges.
 
 (10) A megőrzésre kötelezés legfeljebb három hónapig tart. A megőrzésre kötelezés megszűnik, ha a büntetőeljárást befejezték. A büntetőeljárás befejezéséről a megőrzésre kötelezettet tájékoztatni kell.
 
-317. § A lefoglalt dolog megváltására, értékesítésére és elkobzására, valamint a lefoglalás megszüntetésére és visszatartására vonatkozó rendelkezéseket az elektronikus adatra is megfelelően alkalmazni kell.
+#### 317. §
 
 ### A számlapénz vagy elektronikus pénz megőrzésére kötelezés és a megőrzést követő lefoglalás
 
@@ -4637,113 +4628,57 @@ szükséges.
 
 (9) A szolgáltató az e §-ban meghatározott kötelezettségeinek megsértése miatt rendbírsággal sújtható. Nem szabható ki rendbírság, ha a szolgáltató a határozat kézbesítését követő 12 órán belül mulasztja el az (5) bekezdésben meghatározott kötelezettségeit.
 
-### A lefoglalt dolog megváltása
+#### 318. §
 
-318. § (1) Ha a dolog lefoglalására kizárólag vagyonelkobzás biztosítása érdekében került sor, és annak kiadása iránt megalapozott igényt nem jelentettek be, az, akitől a dolgot lefoglalták, indítványozhatja a dolog megváltásának elfogadását.
+#### 319. §
 
-(2) A lefoglalt dolog megváltásának elfogadásáról a vádemelés előtt az ügyészség, azt követően a bíróság határoz.
-
-(3) A megváltás összegét az ügyészség, illetve a bíróság állapítja meg. A megváltás összegeként a dolog becsült értékét kell megállapítani.
-
-(4) A megváltás elfogadására irányuló indítványt el kell utasítani, ha a
-
-- a) megállapított összeget az érintett vitatja,
-- b) megváltás összegének a megállapítása az eljárás elhúzódását eredményezné, vagy
-- c) megváltás összegének a megállapítása aránytalan költséggel járna.
-
-(5) A megváltás elfogadására irányuló indítvány elutasítása ellen nincs helye jogorvoslatnak.
-
-(6) A megváltás során kifizetett összeg a lefoglalt dolog helyébe lép, amelyre a lefoglalás külön határozat nélkül kiterjed, és a lefoglalás az eredetileg lefoglalt dolog tekintetében a megváltással megszűnik. Ilyen esetben a vagyonelkobzást a dolog helyébe lépő összegre kell elrendelni.
-
-### A lefoglalt dolog értékesítése
-
-319. § (1) Ha az eljárás során a lefoglalt dologra a bizonyítás érdekében már nincs szükség, hivatalból haladéktalanul meg kell vizsgálni, hogy a lefoglalás megszüntetésének van-e helye vagy a lefoglalt dolog értékesíthető-e.
-
-(2) A lefoglalt dolog akkor értékesíthető, ha
-
-- a) a lefoglalt dologra a bizonyítás érdekében már nincs szükség,
-- b) a lefoglalás megszüntetésének nincs helye, és
-- c) a lefoglalt dologgal kapcsolatban senki nem jelentett be megalapozott igényt.
-
-(3) A (2) bekezdésben meghatározott feltételek fennállása esetén a bíróság – a vádemelés előtt az ügyészség indítványára – a lefoglalt dolog értékesítését rendeli el, ha a lefoglalt dolog
-
-- a) gyors romlásnak van kitéve,
-- b) huzamos tárolásra alkalmatlan,
-- c) kezelése, tárolása, illetve őrzése – különösen a dolog értékére vagy az előreláthatólag hosszú ideig tartó tárolására tekintettel – aránytalan és jelentős költséggel járna, illetve
-- d) értéke a lefoglalás várható ideje miatt lényegesen csökkenne vagy ennek veszélye megalapozottan feltehető.
-
-(4) Ha a lefoglalt dologra a bizonyítás érdekében már nincs szükség, és a lefoglalás megszüntetésének nincs helye, a bíróság – a vádemelés előtt az ügyészség indítványára – a lefoglalt dolog értékesítését akkor is elrendelheti, ha a lefoglalt dologgal kapcsolatban bejelentettek megalapozott igényt, és az értékesítéshez a megalapozott igényt bejelentő személy hozzájárult.
-
-(5) A vádemelés előtt a dolog értékesítését az ügyészség, illetve a nyomozó hatóság is elrendelheti.
-
-(6) A lefoglalt dolog értékesítéséből befolyt ellenérték a lefoglalt dolog helyébe lép, amelyre a lefoglalás külön határozat nélkül kiterjed, és a lefoglalás az eredetileg lefoglalt dolog tekintetében az értékesítéssel megszűnik. Ilyen esetben az elkobzást vagy a vagyonelkobzást a dolog helyébe lépő összegre kell elrendelni.
-
-(7) Ha a későbbi bizonyítás érdekében szükséges, a lefoglalt dolog értékesítése esetén a dologból olyan mintát kell biztosítani, illetve a dologról olyan kép- vagy kép- és hangfelvételt kell készíteni, amely az eljárás későbbi szakaszában kétséget kizáróan bizonyítja a dolog lényeges tulajdonságait.
-
-(8) Ha az élőlény lefoglalása az érintett őrizetében hagyásával nem hajtható végre, akkor
-
-- a) a legrövidebb időn belül intézkedni kell, hogy az élőlényre a bizonyítás érdekében ne legyen szükség, és
-- b) a (2) bekezdésben meghatározott feltételek fennállása esetén
-  - ba) a bíróság – a vádemelés előtt az ügyészség indítványára – az élőlény értékesítését rendeli el, vagy
-  - bb) ha a lefoglalt élőlénnyel kapcsolatban megalapozott igényt jelentettek be és a megalapozott igényt bejelentő személy az értékesítéshez hozzájárult, a vádemelés előtt az ügyészség vagy a nyomozó hatóság az élőlény értékesítését rendeli el.
-
-(9) A (2) bekezdésben meghatározott feltételek fennállása esetén a bíróság, valamint a vádemelés előtt az ügyészség vagy a nyomozó hatóság az élőlény értékesítése helyett elrendelheti a tulajdonának ingyenes átruházását, ha ahhoz az élőlény tulajdonosa, valamint – ha a lefoglalt élőlénnyel kapcsolatban megalapozott igényt jelentettek be – a megalapozott igényt bejelentő személy hozzájárult.
-
-(10) A bíróság, valamint a vádemelés előtt az ügyészség vagy a nyomozó hatóság elrendelheti az élőlény tulajdonának ingyenes átruházását, ha a (2) bekezdés a) és b) pontjában meghatározott feltételek fennállnak és
-
-- a) feltehető, hogy az élőlény értékesítése azért nem vezetne eredményre, mert az élőlénynek nincs pénzben kifejezhető értéke, vagy
-- b) az élőlény értékesítése eredménytelen volt.
-
-(11) A (10) bekezdésben meghatározott tulajdonátruházás elrendelése előtt legalább nyolcnapos, legfeljebb tizenöt napos határidő tűzésével fel kell hívni az élőlény tulajdonosát, valamint – ha a lefoglalt élőlénnyel kapcsolatban megalapozott igényt jelentettek be – a megalapozott igényt bejelentő személyt (e § alkalmazásában a továbbiakban: megkeresett személy), hogy írásban nyilatkozzon, a tulajdonjog ingyenes átruházása helyett vállalja-e az élőlény tárolási, gondozási és kezelési költségeinek a megelőlegezését. A felhívásban meg kell jelölni az élőlény tárolási, gondozási és kezelési költségeinek pontos havi összegét. Amennyiben a megkeresett személy a felhívásra nem nyilatkozik, vagy a költségek előlegezését nem vállalja, az ingyenes tulajdonátruházás haladéktalanul elrendelhető.
-
-(12) Amennyiben a megkeresett személy, több megkeresett személy esetén bármelyik személy a kitűzött határidőn belül írásban vállalja a költségek megelőlegezését, és az aktuális naptári hónapra vonatkozó havi költséget az élőlény tárolásáért, gondozásáért és kezeléséért felelős szervnek megelőlegezi, úgy a (10) bekezdésben meghatározott ingyenes tulajdonátruházás elrendelésének nincs helye.
-
-(13) Egy hónapot meghaladó lefoglalás esetén a (10) bekezdésben meghatározott ingyenes tulajdonátruházás mindaddig nem rendelhető el, amíg a megkezdett naptári hónap ötödik napjáig az aktuális naptári hónapra vonatkozó havi költség megelőlegezésre kerül. Az élőlény tárolásáért, gondozásáért és kezeléséért felelős szerv részére megelőlegezett költség bűnügyi költség.
-
-### A lefoglalás megszüntetése és a lefoglalt dolog elkobzása
+### A lefoglalás megszüntetése és a lefoglalás tárgyának elkobzása
 
 320. § (1) A lefoglalást meg kell szüntetni, ha
 
-- a) arra az eljárás érdekében már nincs szükség,
-- b) a lefoglalt dolgot megváltották, az eredetileg lefoglalt dolog tekintetében,
-- c) az eljárást megszüntették, vagy
-- d) a nyomozás határideje lejárt.
+- a) az elrendelésének oka megszűnt,
+- b) az eljárást megszüntették, vagy
+- c) a nyomozás határideje lejárt.
 
-(2) Ha a lefoglalt dolog értéktelen, és arra senki sem tart igényt, azt – a gerinces élő állat kivételével – a lefoglalás megszüntetése után meg kell semmisíteni.
+(1a) Ha a lefoglalás célja kizárólag a vagyonelkobzás alá eső vagyon biztosítása, a lefoglalást a Btk. 74. § (5) bekezdés a) pontjára figyelemmel akkor kell megszüntetni, ha a lefoglalás tárgyára nézve a polgári jogi igény biztosítása érdekében zár alá vétel elrendelésére került sor.
+
+(1b) Ha a lefoglalás megszűnik, a bíróság, az ügyészség vagy a nyomozó hatóság erről a vagyoni érdekelt indítványára határozatot hoz.
+
+(2) Ha a lefoglalás tárgya értéktelen, és arra senki sem tart igényt, azt – a gerinces élő állat kivételével – a lefoglalás megszüntetése után meg kell semmisíteni.
 
 (3) A bíróság által elrendelt lefoglalást a vádemelés előtt az ügyészség is megszüntetheti.
 
-(4) Ha a lefoglalt dolog birtoklása jogszabályba ütközik, vagy a közbiztonságot veszélyezteti, a bíróság – a vádemelés előtt az ügyészség indítványára, az (5) bekezdésben meghatározott feltételek esetén – a lefoglalás megszüntetése helyett a lefoglalt dolog elkobzásáról határoz.
+(4) Ha a lefoglalás tárgyának birtoklása jogszabályba ütközik, vagy a közbiztonságot veszélyezteti, a bíróság – a vádemelés előtt az ügyészség indítványára, az (5) bekezdésben meghatározott feltételek esetén – a lefoglalás megszüntetése helyett a lefoglalás tárgyának elkobzásáról határoz.
 
-(4a) Ha a lefoglalt dolog birtoklása bűncselekményt valósít meg, különösen ha a lefoglalt dolog kábítószer vagy kábítószer-prekurzor, akkor az ügyészség vagy a nyomozó hatóság a (4) bekezdés alkalmazása helyett, a lefoglalás megszüntetéséről és a lefoglalt dolog megsemmisítéséről is rendelkezhet. Ez a rendelkezés alkalmazható kábítószerrel, kábítószer-prekurzorral szennyezett, értéktelen lefoglalt dologra is.
+(4a) Ha a lefoglalás tárgyának birtoklása bűncselekményt valósít meg, különösen ha a lefoglalt dolog kábítószer vagy kábítószer-prekurzor, akkor az ügyészség vagy a nyomozó hatóság a (4) bekezdés alkalmazása helyett, a lefoglalás megszüntetéséről és a lefoglalás tárgyának megsemmisítéséről is rendelkezhet. Ez a rendelkezés alkalmazható kábítószerrel, kábítószer-prekurzorral szennyezett, értéktelen lefoglalt dologra is.
 
-(5) Ha a bizonyítás érdekében szükséges, a lefoglalt dolog elkobzása vagy megsemmisítése esetén a dologból olyan mintát kell biztosítani, illetve a dologról olyan kép- vagy kép- és hangfelvételt kell készíteni, amely az eljárás későbbi szakaszában kétséget kizáróan bizonyítja a dolog lényeges tulajdonságait.
+(5) Ha a bizonyítás érdekében szükséges, a lefoglalás tárgyának elkobzása vagy megsemmisítése esetén a dologból olyan mintát kell biztosítani, illetve a dologról olyan kép- vagy kép- és hangfelvételt kell készíteni, amely az eljárás későbbi szakaszában kétséget kizáróan bizonyítja a dolog lényeges tulajdonságait.
 
-(6) Ha a bíróság, az ügyészség vagy a nyomozó hatóság a 111. § alapján az eljárás kezdeményezésére, illetve lefolytatására jogosult olyan szervet tájékoztatja, amelynek eljárásában a lefoglalt dolog elkobzására van lehetőség, a (4) bekezdésben meghatározott intézkedést legfeljebb öt munkanapig mellőzheti.
+(6) Ha a bíróság, az ügyészség vagy a nyomozó hatóság a 111. § alapján az eljárás kezdeményezésére, illetve lefolytatására jogosult olyan szervet tájékoztatja, amelynek eljárásában a lefoglalás tárgyának elkobzására van lehetőség, a (4) bekezdésben meghatározott intézkedést legfeljebb öt munkanapig mellőzheti.
 
-(7) A bíróság, az ügyészség vagy a nyomozó hatóság haladéktalanul intézkedik a lefoglalt dolog elkobzása érdekében, ha
+(7) A bíróság, az ügyészség vagy a nyomozó hatóság haladéktalanul intézkedik a lefoglalás tárgyának elkobzása érdekében, ha
 
 - a) a (6) bekezdésben meghatározott határidő eltelt, vagy
 - b) a 111. §-ban meghatározott szerv a lefoglalást nem rendelte el.
 
-(8) Ha a 111. §-ban meghatározott szerv a dolog lefoglalását elrendelte, a bíróság, az ügyészség vagy a nyomozó hatóság a lefoglalást megszünteti, és a lefoglalt dolgot a 111. §-ban meghatározott szervnek kiadja.
+(8) Ha a 111. §-ban meghatározott szerv a lefoglalást elrendelte, a bíróság, az ügyészség vagy a nyomozó hatóság a lefoglalást megszünteti, és a lefoglalás tárgyát a 111. §-ban meghatározott szervnek kiadja.
 
-321. § (1) A lefoglalás megszüntetésekor a lefoglalt dolgot annak kell kiadni, aki a büntetőeljárás tárgyát képező cselekmény elkövetésekor annak tulajdonosa volt és tulajdonjogával kapcsolatban észszerű kétség nem merül fel.
+321. § (1) A lefoglalás megszüntetésekor a lefoglalás tárgyát annak kell kiadni, aki a büntetőeljárás tárgyát képező cselekmény elkövetésekor annak tulajdonosa volt és tulajdonjogával kapcsolatban észszerű kétség nem merül fel.
 
-(2) Ha nincs olyan személy, akinek az (1) bekezdés alapján a dolgot ki kell adni és ilyen személy az eljárás addig rendelkezésre álló adatai alapján sem állapítható meg, a dolgot annak kell kiadni, aki a kiadása iránt megalapozott igényt jelentett be.
+(2) Ha nincs olyan személy, akinek az (1) bekezdés alapján a lefoglalás tárgyát ki kell adni és ilyen személy az eljárás addig rendelkezésre álló adatai alapján sem állapítható meg, a lefoglalás tárgyát annak kell kiadni, aki a kiadása iránt megalapozott igényt jelentett be.
 
-(3) Ha olyan személy sincs, akinek a (2) bekezdés szerint lehetne a dolgot kiadni vagy ilyen személy az eljárás addig rendelkezésre álló adatai alapján sem állapítható meg, a dolgot annak kell kiadni, akitől lefoglalták.
+(3) Ha olyan személy sincs, akinek a (2) bekezdés szerint lehetne a lefoglalás tárgyát kiadni vagy ilyen személy az eljárás addig rendelkezésre álló adatai alapján sem állapítható meg, a lefoglalás tárgyát annak kell kiadni, akitől lefoglalták.
 
-(4) Ha az eljárást azért szüntették meg, mert a cselekmény nem bűncselekmény, a lefoglalt dolgot annak kell kiadni, akitől lefoglalták.
+(4) Ha az eljárást azért szüntették meg, mert a cselekmény nem bűncselekmény, a lefoglalás tárgyát annak kell kiadni, akitől lefoglalták.
 
-(5) A terhelttől vagy a bűncselekmény elkövetésével megalapozottan gyanúsítható személytől lefoglalt dolog a bíróság határozata alapján az állam tulajdonába kerül, ha az kétségtelenül mást illet, és ennek a személynek a kiléte nem állapítható meg. Ha az ilyen személy kiléte utóbb mégis tisztázódik, az érintett a dolog kiadását vagy az értékesítésből származó ellenértékét igényelheti. Az igénylő kérelméről a polgári perrendtartásról szóló törvény szerint hatáskörrel és illetékességgel rendelkező bíróság határoz.
+(5) A terhelttől vagy a bűncselekmény elkövetésével megalapozottan gyanúsítható személytől a lefoglalás tárgya a bíróság határozata alapján az állam tulajdonába kerül, ha az kétségtelenül mást illet, és ennek a személynek a kiléte nem állapítható meg. Ha az ilyen személy kiléte utóbb mégis tisztázódik, az érintett a lefoglalás tárgyának a kiadását vagy az értékesítésből származó ellenértékét igényelheti. Az igénylő kérelméről a polgári perrendtartásról szóló törvény szerint hatáskörrel és illetékességgel rendelkező bíróság határoz.
 
-(5a) Ha a bíróság, az ügyészség vagy a nyomozó hatóság a lefoglalást megszünteti és a dolgot kiadni rendeli, de a dolog átvételére jogosult vagyoni érdekelt a lefoglalás megszüntetéséről és a dolog kiadásáról szóló határozat vagy a dolog átvételére vonatkozó felhívás, továbbá a vádemelés után a jogerős vagy véglegessé vált határozat közlésétől számított három hónapon belül nem veszi át a dolgot, akkor a dolog az állam tulajdonába kerül. Erről a lefoglalás megszüntetéséről szóló határozatban kell rendelkezni.
+(5a) Ha a bíróság, az ügyészség vagy a nyomozó hatóság a lefoglalást megszünteti és a lefoglalás tárgyát kiadni rendeli, de az annak átvételére jogosult vagyoni érdekelt a lefoglalás megszüntetéséről és kiadásáról szóló határozat vagy a lefoglalás tárgyának átvételére vonatkozó felhívás, továbbá a vádemelés után a jogerős vagy véglegessé vált határozat közlésétől számított három hónapon belül nem veszi át a lefoglalás tárgyát, akkor az az állam tulajdonába kerül. Erről a lefoglalás megszüntetéséről szóló határozatban kell rendelkezni.
 
 (5b) Az (5a) bekezdésben meghatározott jogkövetkezmények nem alkalmazhatók, ha
 
-- a) a lefoglalás megszüntetéséről és a dolog kiadásáról szóló határozat közlésére kézbesítési fikció vagy hirdetményi kézbesítés útján került sor, és
-- b) az (5a) bekezdésben meghatározott jogkövetkezményekről a dolog átvételére jogosult vagyoni érdekelt nem szerzett tudomást.
+- a) a lefoglalás megszüntetéséről és a kiadásról szóló határozat közlésére kézbesítési fikció vagy hirdetményi kézbesítés útján került sor, és
+- b) az (5a) bekezdésben meghatározott jogkövetkezményekről az átvételre jogosult vagyoni érdekelt nem szerzett tudomást.
 
 (6) Ha a bíróság, az ügyészség vagy a nyomozó hatóság a 111. § alapján az eljárás kezdeményezésére, illetve lefolytatására jogosult szervet tájékoztatja, amelynek eljárásában a lefoglalásra, zárlatra vagy zár alá vételre van lehetőség, a lefoglalás megszüntetésének végrehajtását legfeljebb öt munkanapig felfüggesztheti.
 
@@ -4757,38 +4692,44 @@ szükséges.
 
 (5) A felosztást a bűncselekmény elkövetésekor fennálló tulajdonuk egymáshoz viszonyított arányában, azok között a 321. § (2) bekezdésében meghatározott vagyoni érdekeltek között kell elvégezni, akikről megállapítható, hogy a helyettesíthető dolog tőlük származik.
 
-322. § Ha az eredetileg lefoglalt dolog már nem adható ki, a dolog értékesítéséből vagy megváltásából befolyt ellenértéknek a kezelés, tárolás vagy őrzés költségével csökkentett összegét kell az érintettnek kiadni. Ha a lefoglalás alaptalan volt, a dolog ellenértéke a kezelés, tárolás vagy őrzés költségével nem csökkenthető. Erről a lefoglalás megszüntetéséről határozatot hozó bíróság, ügyészség vagy nyomozó hatóság a határozatában dönt. A jogosult az ezt meghaladó igényét a polgári jog szabályai szerint érvényesítheti.
+#### 322. §
 
-### A lefoglalt dolog visszatartása
+### A lefoglalás tárgyának visszatartása
 
-323. § (1) A terheltnek kiadandó dolgot a vele szemben megállapított pénzbüntetés, vagyonelkobzás vagy bűnügyi költség biztosítására vissza lehet tartani, erről az ügydöntő határozatban kell rendelkezni.
+323. § (1) A lefoglalás terheltnek kiadandó tárgyát a vele szemben megállapított pénzbüntetés, vagyonelkobzás vagy bűnügyi költség biztosítására vissza lehet tartani, erről az ügydöntő határozatban kell rendelkezni.
 
-(2) A lefoglalás megszüntetése esetén a terheltnek kiadandó dolgot a polgári jogi igény biztosítására a magánfél indítványára vissza lehet tartani, erről az ügydöntő határozatban kell rendelkezni.
+(2) A lefoglalás megszüntetése esetén a lefoglalás terheltnek kiadandó tárgyát a polgári jogi igény biztosítására a magánfél indítványára vissza lehet tartani, erről az ügydöntő határozatban kell rendelkezni.
 
-(3) A polgári jogi igény biztosítását szolgáló visszatartást meg kell szüntetni, ha a magánfél a megállapított teljesítési határidő lejártától számított két hónapon belül nem kért végrehajtást, illetve a polgári jogi igény érvényesítésének egyéb törvényes útra utasítása esetén két hónapon belül a polgári perben biztosítási intézkedés iránti kérelmet nem nyújtott be.
+(3) A polgári jogi igény biztosítását szolgáló visszatartást meg kell szüntetni, ha a magánfél a megállapított teljesítési határidő lejártától számított két hónapon belül nem kért végrehajtást, illetve a polgári jogi igény érvényesítésének egyéb törvényes útra utasítása esetén két hónapon belül a polgári perben biztosítási intézkedés iránti kérelmet nem nyújtott be vagy a biztosítási intézkedést nem rendelték el.
 
 ### LI. Fejezet — ZÁR ALÁ VÉTEL
 
 ### A zár alá vétel elrendelése
 
-324. § (1) A zár alá vétel a vagyonelkobzás vagy a polgári jogi igény biztosítása érdekében a zár alá vétel tárgya feletti rendelkezési jogot függeszti fel.
+324. § (1) A zár alá vétel a zár alá vétel tárgya feletti rendelkezési jogot függeszti fel. A zár alá vétel célja a zár alá vétel tárgyának a biztosítása
 
-(2) Zár alá vétel rendelhető el
+- a) a vagyonelkobzás elősegítése vagy
+- b) a polgári jogi igény kielégítése
 
-- a) a dologra,
-- b) a számlapénzre és az elektronikus pénzre,
-- c) a befektetési vállalkozásokról szóló törvényben meghatározott pénzügyi eszközre,
-- d) bármely más vagyoni értékű jogra, vagy
-- e) bármely más vagyoni jellegű követelésre [az a)–e) pont a továbbiakban együtt: vagyon].
+érdekében.
 
-(3) Zár alá vételt akkor lehet elrendelni, ha
+(2) Az (1) bekezdés a) pontja alapján elrendelt zár alá vételt a Btk. 74. § (5) bekezdés a) pontjára figyelemmel akkor kell feloldani, ha a zár alá vétel tárgyára nézve az (1) bekezdés b) pontja alapján zár alá vétel elrendelésére került sor.
 
-- a) az eljárás olyan bűncselekmény miatt folyik, amellyel kapcsolatban vagyonelkobzásnak van helye, vagy
-- b) annak célja polgári jogi igény biztosítása,
+(3) A zár alá vétel tárgya vagyoni értékként kezelhető, kivéve, ha a vagyoni értékként történő kezelés lehetőségét a bíróság, az ügyészség vagy a nyomozó hatóság kizárta.
 
-és megalapozottan lehet tartani attól, hogy a vagyonelkobzás végrehajtását, illetve a polgári jogi igény kielégítését meghiúsítják.
+(4) Zár alá vétel tárgya
 
-(4) Ha ingatlan elkobzásának van helye, a zár alá vételt el kell rendelni.
+- a) a dolog, továbbá az ingatlan,
+- b) az elektronikus pénz, továbbá a számlapénz,
+- c) a befektetési vállalkozásokról szóló törvényben meghatározott pénzügyi eszköz,
+- d) bármely más vagyoni értékű jog, vagy
+- e) bármely más vagyoni jellegű követelés
+
+[az a)–e) pont a továbbiakban együtt: zár alá vett vagyon] lehet.
+
+(5) Zár alá vételt akkor lehet elrendelni, ha megalapozottan feltehető, hogy a zár alá vétel tárgyának biztosítása nélkül a zár alá vétel célja nem lenne elérhető, mert a vagyonelkobzás végrehajtását, illetve a polgári jogi igény kielégítését meghiúsítanák.
+
+(6) Ha ingatlan elkobzásának vagy vagyonelkobzásának biztosítása érdekében vagyont érintő kényszerintézkedés elrendelésének van helye, a zár alá vételt el kell rendelni.
 
 325. § (1) Polgári jogi igény biztosítása érdekében zár alá vételnek a magánfél indítványára, az általa megjelölt, a terhelt vagy a bűncselekmény elkövetésével megalapozottan gyanúsítható személy tulajdonában álló vagy őt illető vagyonra van helye. A zár alá vétel akkor is elrendelhető, ha az 557. § szerinti polgári jogi igényt a bíróság a polgári perrendtartásról szóló törvény szerint hatáskörrel és illetékességgel rendelkező bíróságnak küldte meg.
 
@@ -4805,14 +4746,14 @@ szükséges.
 (2) A vádemelés előtt a bíróság rendeli el a zár alá vételt, ha
 
 - a) annak célja a polgári jogi igény biztosítása,
-- b) az a 326. §-ban meghatározott vagyont érinti, vagy
-- c) a zár alá vétel tárgyának értéke a százmillió forintot meghaladja.
+- b)
+- c)
 
-(3) A (2) bekezdés a) pontja esetén a sértett a zár alá vételre irányuló indítványát a vádemelés előtt az ügyben eljáró ügyészségnél terjesztheti elő. Az ügyészség a sértett indítványát az ügyiratokkal együtt haladéktalanul továbbítja a bíróságnak.
+(3) A sértett a zár alá vételre irányuló indítványát a vádemelés előtt az ügyben eljáró ügyészségnél terjesztheti elő. Az ügyészség a sértett indítványát az ügyiratokkal együtt haladéktalanul továbbítja a bíróságnak.
 
-(4) A (2) bekezdés b) és c) pontja esetén az ügyészség tesz indítványt a zár alá vétel elrendelésére.
+(4)
 
-(5) Ha a zár alá vétel elrendelésére a bíróság jogosult és az elrendeléshez szükséges bírósági határozat meghozatala olyan késedelemmel járna, amely a zár alá vétellel elérni kívánt célt jelentősen veszélyeztetné, az ügyészség, illetve a nyomozó hatóság a bíróság döntéséig elrendelheti a zár alá vételt. Ilyen esetben a nyomozó hatóság a zár alá vétel elrendelésétől számított nyolc napon belül kezdeményezi az ügyészségen a bíróság döntésének a beszerzését, az ügyészség pedig ennek érdekében a zár alá vétel elrendelésétől számított egy hónapon belül tesz indítványt. Ha a zár alá vételt a bíróság nem rendeli el, a zár alá vétel feloldásáról rendelkezik és késedelem nélkül intézkedik annak végrehajtása iránt.
+(5)
 
 (6) Ha a zár alá vételre a Btk. 75. § (1) bekezdésében meghatározott vagyonelkobzás biztosítása vagy kártérítésre, illetve pénz fizetésére irányuló polgári jogi igény biztosítása érdekében került sor, a határozat rendelkező részében ennek tényét, valamint a zár alá vétellel biztosított összeget is fel kell tüntetni. Ha a vagyon részeinek zár alá vételére több eltérő okból került sor, ezeket az adatokat a zár alá vett vagyon valamennyi része tekintetében fel kell tüntetni a határozatban.
 
@@ -4825,43 +4766,9 @@ a (6) bekezdésnek megfelelően határoz a zár alá vételről rendelkező hat�
 
 (8) A (6) és (7) bekezdés szerinti határozatokat haladéktalanul kézbesíteni kell a vagyoni érdekeltnek, valamint a jogszabály alapján a bűnügyi hitelezői igény képviseletére jogosult egyéb érdekeltnek is.
 
-### A zár alá vétel végrehajtása
+#### 328. §
 
-328. § (1) Ha van olyan közhiteles nyilvántartás, amelyben a zár alá vett vagyont nyilván kell tartani, a zár alá vételt a zár alá vétel tényének közhiteles nyilvántartásba történő bejegyzésével kell végrehajtani. Ha nincs olyan közhiteles nyilvántartás, amelyben a zár alá vett vagyont nyilván kell tartani, a zár alá vétel végrehajtására a zár alá vett vagyon feletti rendelkezési jog felfüggesztését érvényesíteni képes gazdálkodó szervezetet kell kijelölni. A zár alá vétel végrehajtása iránt haladéktalanul intézkedni kell.
-
-(2) Az (1) bekezdés alapján a közhiteles nyilvántartást vezető szerv, illetve a kijelölt gazdálkodó szervezet köteles a zár alá vételt haladéktalanul végrehajtani, és ennek megtörténtéről a zár alá vételt elrendelő bíróságot, ügyészséget, illetve nyomozó hatóságot tájékoztatni.
-
-(3) Ha a polgári jogi igény biztosítása érdekében elrendelt zár alá vétel tárgya ingó dolog, és a dolog megőrzése érdekében az szükséges, az (1) bekezdésben meghatározott intézkedés mellett a zár alá vételt elrendelő bíróság, ügyészség, illetve nyomozó hatóság a dolgot birtokba veheti. Az így zár alá vett dolog birtokba vételére a lefoglalás végrehajtására vonatkozó rendelkezéseket megfelelően alkalmazni kell.
-
-(4) A kölcsönzött kulturális javak különleges védelméről szóló törvényben meghatározott különleges védelemmel érintett dolog zár alá vétele a védelem időtartamának leteltét követően hajtható végre.
-
-(5) Ha a zár alá vétel tárgya olyan követelés, amelyet fizetésre használt elektronikus adat értékében tartanak nyilván, és a zár alá vett vagyon feletti rendelkezési jog felfüggesztését érvényesíteni képes gazdálkodó szervezet megkeresésétől eredmény nem várható vagy a megkeresés aránytalan nehézséggel járna, akkor a zár alá vétel végrehajtható olyan információs rendszerben végzett művelettel is, amely az érintettnek a követelés fölötti rendelkezési lehetőségét megakadályozza.
-
-(6) Ha a zár alá vétel végrehajtására az (5) bekezdésben meghatározott művelettel kerül sor, annak megtörténtéről az információs rendszer üzemeltetőjét abban az esetben is tájékoztatni kell, ha a zár alá vétel a tulajdonosi részjogosultságát nem érinti.
-
-### A zár alá vett vagyon megváltása
-
-329. § (1) Ha a zár alá vételt vagyonelkobzás biztosítása érdekében rendelték el és a zár alá vett vagyon rendelkezésre bocsátása iránt megalapozott igényt nem jelentettek be, a zár alá vett vagyon megváltásának elfogadását indítványozhatja az, aki a zár alá vétel elrendelésekor jogosult volt a vagyon felett rendelkezni.
-
-(2) A zár alá vett vagyon megváltásának az elfogadásáról a vádemelés előtt az ügyészség, azt követően a bíróság határoz.
-
-(3) A megváltás összegét az ügyészség, illetve a bíróság állapítja meg. A megváltás összegeként a vagyon becsült értékét kell megállapítani.
-
-(4) A megváltás elfogadására irányuló indítványt el kell utasítani, ha
-
-- a) a megállapított összeget az érintett vitatja,
-- b) a megváltás összegének megállapítása az eljárás elhúzódását eredményezné, vagy
-- c) a megváltás összegének megállapítása aránytalan költséggel járna.
-
-(5) A megváltás elfogadására irányuló indítvány elutasítása ellen nincs helye jogorvoslatnak.
-
-(6) A megváltás során kifizetett összeg a zár alá vett vagyon helyébe lép, amelyre a zár alá vétel külön határozat nélkül kiterjed, és a zár alá vétel az eredetileg zár alá vett vagyon tekintetében a megváltással megszűnik. Ilyen esetben a vagyonelkobzást a vagyon helyébe lépő összegre kell elrendelni.
-
-(7) Ha a zár alá vételt a polgári jogi igény biztosítására rendelték el, a zár alá vett vagyon megváltására az (1)–(6) bekezdést kell alkalmazni azzal, hogy
-
-- a) a zár alá vett vagyon megváltása a magánfél, a vádemelés előtt a sértett hozzájárulása nélkül nem fogadható el,
-- b) a megváltás összege a magánfél, a vádemelés előtt a sértett által megjelölt követelés összegét nem haladhatja meg, és
-- c) a zár alá vett vagyon megváltásának elfogadásáról a bíróság határoz.
+#### 329. §
 
 ### A zár alá vétel feloldása
 
@@ -4893,7 +4800,7 @@ a (6) bekezdésnek megfelelően határoz a zár alá vételről rendelkező hat�
 
 (4) Az 557. § szerinti polgári jogi igénynek a polgári perrendtartásról szóló törvény szerint határkörrel és illetékességgel rendelkező bíróságnak történő megküldése esetén a zár alá vételt nem kell feloldani.
 
-332. § (1) A zár alá vételt a vádemelés előtt az elrendelő, azt követően a bíróság oldhatja fel. A nyomozó hatóság által elrendelt zár alá vételt a vádemelés előtt az ügyészség vagy a bíróság is feloldhatja. A bíróság által elrendelt zár alá vételt a vádemelés előtt az ügyészség is feloldhatja.
+332. § (1) A zár alá vételt a vádemelés előtt az elrendelő, azt követően a bíróság oldhatja fel. A nyomozó hatóság által elrendelt zár alá vételt a vádemelés előtt az ügyészség vagy a bíróság is feloldhatja.
 
 (2) Ha a zár alá vétel tárgyát képező ingatlant az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló törvény vagy a bírósági végrehajtásról szóló törvény alapján értékesítették, az értékesítésből befolyt összegnek az ott meghatározottak szerinti része az értékesített ingatlan helyébe lép, amelyre a zár alá vétel külön határozat nélkül kiterjed. Az ingatlan tekintetében a zár alá vétel az értékesítéssel megszűnik.
 
@@ -4903,25 +4810,206 @@ a (6) bekezdésnek megfelelően határoz a zár alá vételről rendelkező hat�
 
 (5) Ha a csődeljárásról és a felszámolási eljárásról szóló törvény alapján az adós gazdálkodó szervezettel szemben bejelentett hitelezői követelés zár alá vételére került sor, a vagyon felosztása során zár alá vett hitelezői követelésre eső vagyonra a (4) bekezdés rendelkezéseit megfelelően alkalmazni kell.
 
-### LII. Fejezet — VAGYONKEZELÉS A LEFOGLALÁS ÉS A ZÁR ALÁ VÉTEL SORÁN
+### LII. Fejezet — A LEFOGLALÁS ÉS A ZÁR ALÁ VÉTEL VÉGREHAJTÁSÁNAK SZABÁLYAI ÉS A VAGYONKEZELÉS
 
-333. § (1) Az elkobzás és a vagyonelkobzás érdekében lefoglalt dolog vagy elektronikus adat, illetve a zár alá vett vagyon kezeléséről a lefoglalás, illetve a zár alá vétel során a rendes gazdálkodás szabályai szerint kell gondoskodni.
+### Általános szabályok
 
-(2) A lefoglalás és a zár alá vétel során gondoskodni kell arról, hogy a bűnügyi vagyon értéke a természetes mértéknél nagyobb arányban ne csökkenjen.
+333. § (1) A lefoglalás és a zár alá vétel végrehajtására e fejezet rendelkezéseit kell alkalmazni, ha azt a bíróság, az ügyészség, a nyomozó hatóság vagy a bűnjelkezelő szerv hajtja végre.
 
-(3) A bűnügyi vagyon kezelése során csak olyan rendelkezés tehető, amelynek célja a bűnügyi vagyon értékének a megőrzése.
+(2) A lefoglalás és a zár alá vétel végrehajtásához a bíróság és az ügyészség a nyomozó hatóság közreműködését is igénybe veheti.
 
-(4) A vagyonkezelés során tett intézkedés alapján átalakuló vagyontárgy az eredeti vagyontárgy helyébe lép, arra a lefoglalás és a zár alá vétel külön határozat nélkül kiterjed.
+(3) A lefoglalás tárgyával és a zár alá vett vagyonnal kapcsolatos, jogszabályban meghatározott adatokat, valamint azok változását országos központi nyilvántartásban kell rögzíteni.
 
-334. § (1) A bűnügyi vagyon, illetve a lefoglalt bizonyítási eszköz kezelésében jogszabályban meghatározottak szerint a bűnjel és a bűnügyi vagyon kezeléséért felelős szerv közreműködik.
+333/A. § (1) A lefoglalás és a zár alá vétel végrehajtása érdekében, ha az a végrehajtáshoz szükséges és a büntetőeljárás eredményes lefolytatását, illetve a végrehajtás eredményességét nem veszélyezteti, a lefoglalás vagy a zár alá vétel tárgyának birtokosát vagy kezelőjét fel kell szólítani, hogy a tárgy hollétét fedje fel, illetve tegye hozzáférhetővé. A felszólítás teljesítésének megtagadása esetén a keresett tárgyat kutatással vagy motozással kell felkutatni. Erre az érintettet figyelmeztetni kell.
 
-(2) A bűnjel és a bűnügyi vagyon kezeléséért felelős szerv jogszabályban meghatározottak szerint ellátja a bűnügyi vagyonnal, illetve a lefoglalt bizonyítási eszközökkel kapcsolatos feladatokat, így különösen azok
+(2) Ha az érintett a felszólításnak nem tesz eleget, rendbírsággal sújtható, kivéve
 
-- a) nyilvántartását,
-- b) tárolását, őrzését és
-- c) kezelését.
+- a) a terhelt vagy a bűncselekmény elkövetésével megalapozottan gyanúsítható személy,
+- b) az a személy, aki a tanúvallomás megtagadására jogosult, illetve
+- c) az a személy, aki tanúként nem hallgatható ki.
 
-(3) A bűnjel és a bűnügyi vagyon kezeléséért felelős szerv törvényben meghatározott esetekben minden olyan intézkedést köteles megtenni, illetve a döntésre jogosult bíróságnál, ügyészségnél vagy nyomozó hatóságnál minden olyan büntetőeljárási döntést kezdeményezhet, amely a bűnügyi vagyon, illetve a lefoglalt bizonyítási eszközök értékének megóvásához szükséges.
+(3) A terhelt vagy a bűncselekmény elkövetésével megalapozottan gyanúsítható személy kivételével a végrehajtást akadályozó személy rendbírsággal sújtható.
+
+333/B. § (1) A büntetőeljárás alatt a lefoglalás és a zár alá vétel fenntartásának indokoltságát jogszabályban meghatározottak szerint vizsgálni kell. Ha a lefoglalásra vagy a zár alá vételre a továbbiakban az eljárás érdekében nincs szükség, haladéktalanul intézkedni kell a kényszerintézkedés megszüntetése, illetve feloldása iránt, vagy a lefoglalás tárgyának az elkobzását kell indítványozni.
+
+(2) Ha a vagyoni értékként történő kezelés nem kizárt, és az nem járna a lefoglalás tárgyának értékéhez képest aránytalan vagy jelentős költséggel, vagy egyébként indokolatlan nehézséggel, akkor lefoglalás esetén törekedni kell arra, hogy a vagyoni értékként történő kezelést akadályozó körülmények megszüntethetők legyenek.
+
+333/C. § (1) Ha e törvény eltérően nem rendelkezik, a lefoglalást és a zár alá vételt
+
+- a) birtokba vétellel,
+- b) a megőrzés más módon történő biztosításával,
+- c) az érintett őrizetében hagyással, vagy
+- d) jogszabályban meghatározott más módon
+
+lehet végrehajtani.
+
+(2) A végrehajtást a lefoglalás tárgya vagy a zár alá vett vagyon kezelhetőségére figyelemmel, a kényszerintézkedés céljának elérésére alkalmas, legkisebb korlátozással járó módon kell elrendelni. A végrehajtási mód meghatározása során törekedni kell a végrehajtással felmerülő költségek mérséklésére.
+
+(3) A lefoglalás vagy a zár alá vétel vagyoni értékként kezelhető tárgya esetén a kényszerintézkedés végrehajtása során a vagyontárgy értékének, működőképességének megőrzését is biztosítani kell. Ennek során figyelembe kell venni a vagyoni érdekeltnek a vagyoni értékként kezelhető tárgy használatához fűződő jogos érdekét, valamint a vagyoni értékként kezelhető tárggyal összefüggő más megalapozott igényét is.
+
+(4) A kényszerintézkedés végrehajtásának módjáról a bíróság, az ügyészség, a nyomozó hatóság vagy a bűnjelkezelő szerv a kényszerintézkedés elrendeléséről szóló határozatban vagy a végrehajtás megkezdésekor dönt.
+
+(5) A büntetőeljárás során indokolt esetben, különösen a lefoglalás vagy a zár alá vétel céljának vagy a végrehajtás körülményeinek változására, valamint a végrehajtás költségeinek növekedésére figyelemmel a kényszerintézkedés végrehajtásának módját felül kell vizsgálni.
+
+(6) A kölcsönzött kulturális javak különleges védelméről szóló törvényben meghatározott különleges védelemmel érintett dolog lefoglalása vagy zár alá vétele a védelem időtartamának leteltét követően hajtható végre.
+
+333/D. § (1) Ha van olyan közhiteles vagy egyéb nyilvántartás, amelyben a zár alá vett vagyont nyilván kell tartani, a zár alá vétel végrehajtása során a zár alá vétel tényét a közhiteles vagy egyéb nyilvántartásba is be kell jegyezni, ennek hiányában a zár alá vétel végrehajtására a zár alá vett vagyon feletti rendelkezési jog felfüggesztését érvényesíteni képes gazdálkodó szervezet is kijelölhető.
+
+(2) Az (1) bekezdés alapján a közhiteles vagy egyéb nyilvántartást vezető szerv, illetve a kijelölt gazdálkodó szervezet köteles a bejegyzést vagy a felfüggesztést haladéktalanul végrehajtani, és ennek megtörténtéről a zár alá vételt végrehajtó szervet tájékoztatni.
+
+(3) Ha a zár alá vett vagyon olyan követelés, amelyet fizetésre használt elektronikus adat értékében tartanak nyilván, és a zár alá vett vagyon feletti rendelkezési jog felfüggesztését érvényesíteni képes gazdálkodó szervezet megkeresésétől eredmény nem várható vagy a megkeresés aránytalan nehézséggel járna, akkor a zár alá vétel végrehajtható olyan információs rendszerben végzett művelettel is, amely az érintettnek a követelés fölötti rendelkezési lehetőségét megakadályozza.
+
+(4) Ha a zár alá vétel végrehajtására a (3) bekezdésben meghatározott művelettel kerül sor, annak megtörténtéről az információs rendszer üzemeltetőjét abban az esetben is tájékoztatni kell, ha a zár alá vétel a tulajdonosi részjogosultságát nem érinti.
+
+(5) A polgári jogi igény biztosítása érdekében elrendelt zár alá vételt a 333/C. § (1) bekezdés a)–c) pontja szerint kell végrehajtani.
+
+(6) Ha a lefoglalás vagy a zár alá vétel tárgya számlapénz vagy – ha az elektronikus pénz birtokba vételének technikai feltételei fennállnak – elektronikus pénz, azt birtokba vétellel kell végrehajtani, és a jogszabályban meghatározott számlán kell kezelni.
+
+333/E. § (1) Ha a lefoglalás tárgya vagy a zár alá vett vagyon birtokba vételre alkalmas, akkor az érintett hozzájárulása nélkül abban az esetben hagyható az érintett őrizetében, ha a birtokba vétel aránytalan és jelentős többletköltséggel vagy a lefoglalás tárgya vagy a zár alá vett vagyon értékének a jelentős csökkenésével járna. Ebben az esetben nyomatékosan figyelembe kell venni az érintettnek a lefoglalás tárgya vagy a zár alá vett vagyon használatához fűződő jogos érdekét, valamint a vagyoni értékként kezelhető tárggyal összefüggő más megalapozott igényét is.
+
+(2) Ha a lefoglalás tárgya vagy a zár alá vett vagyon birtokba vételre nem alkalmas, akkor a lefoglalást vagy a zár alá vételt az érintett őrizetében hagyással vagy a megőrzés más módon történő biztosításával lehet végrehajtani.
+
+(3) Az érintett őrizetében hagyás vagy a megőrzés más módon történő biztosítása esetén rendelkezni kell
+
+- a) a használat engedélyezéséről vagy annak kizárásáról, valamint a használat engedélyezése esetén annak feltételeiről, ideértve azt is, ha a lefoglalás tárgya vagy a zár alá vett vagyon más birtokába adható,
+- b) az érintettnek vagy a vagyoni érdekeltnek a lefoglalás tárgya vagy a zár alá vett vagyon értékének a megőrzésével kapcsolatos kötelezettségeiről, valamint
+- c) az érintett vagy a vagyoni érdekelt végrehajtás ellenőrzésében való együttműködési kötelezettségeiről.
+
+(4) Az érintett őrizetében hagyás vagy a megőrzés más módon történő biztosítása esetén, ha a bíróság, az ügyészség, a nyomozó hatóság vagy a bűnjelkezelő szerv engedélyezi a lefoglalás tárgyának vagy a zár alá vett vagyonnak más birtokába adását, akkor annak megőrzésére az új birtokos köteles.
+
+(5) Az érintett, a megőrzés más módon történő biztosításában közreműködő személy vagy a (4) bekezdésben meghatározott új birtokos rendbírsággal sújtható, ha a (3) bekezdésben meghatározott kötelezettségeit megszegi.
+
+### A vagyoni biztosíték
+
+333/F. § (1) A vagyoni biztosíték olyan, a bíróság, az ügyészség, a nyomozó hatóság vagy a bűnjelkezelő szerv által meghatározott összeg, amelynek célja annak biztosítása, hogy a lefoglalás vagy a zár alá vétel vagyoni értékként kezelhető tárgya tekintetében a lefoglalás vagy a zár alá vétel az érintett őrizetében hagyással vagy a megőrzés más módon történő biztosításával legyen végrehajtható.
+
+(2) A vagyoni értékként kezelhető tárgy tekintetében a bíróság, az ügyészség, a nyomozó hatóság vagy a bűnjelkezelő szerv hivatalból vagy a vagyoni érdekelt indítványára rendelkezhet arról, hogy vagyoni biztosíték letétele esetén a lefoglalás vagy a zár alá vétel az érintett őrizetében hagyással vagy a vagyoni érdekelt által indítványozott más módon történő biztosításával végrehajtható.
+
+(3) A vagyoni biztosítékot a vagyoni érdekelt teheti le. A vagyoni biztosíték tárgya pénz lehet, annak összegét a bíróság, az ügyészség, a nyomozó hatóság vagy a bűnjelkezelő szerv határozza meg, de az nem haladhatja meg a lefoglalás tárgyának vagy a zár alá vett vagyonnak az értékét, és nem lehet kevesebb százezer forintnál. A vagyoni biztosíték letételét követően a kényszerintézkedést a (2) bekezdésben meghatározottak szerint a vagyoni biztosíték letevőjénél kell végrehajtani vagy a megőrzést az általa indítványozott más módon kell biztosítani. A letett vagyoni biztosítékot nem lehet visszavonni.
+
+(4) A vagyoni biztosíték letevője elveszti jogát a letett vagyoni biztosíték összegére, ha a lefoglalás tárgyával vagy a zár alá vett vagyonnal kapcsolatosan a határozatban előírt kötelezettségeit ismételten vagy súlyosan megsérti vagy a tárgy ellenőrzését meghiúsítja. Erre a vagyoni biztosítékról rendelkező határozatban a vagyoni biztosíték letevőjét figyelmeztetni kell. A vagyoni biztosíték elvesztéséről a bíróság, az ügyészség, a nyomozó hatóság határozatot hoz.
+
+(5) A vagyoni biztosíték összegét – amennyiben arra való jogát a vagyoni biztosíték letevője nem veszítette el – vissza kell adni, ha a kényszerintézkedést megszüntették vagy a lefoglalás tárgyának vagy a zár alá vett vagyonnak az elkobzását rendelték el, vagy arra nézve vagyonelkobzást rendeltek el, és a végrehajtás érdekében a kényszerintézkedés tárgyát birtokba vették.
+
+### A lefoglalás tárgya vagy a zár alá vett vagyon megváltása
+
+333/G. § (1) A lefoglalás vagy a zár alá vétel vagyoni értékként kezelhető tárgyának a megváltásáról a bíróság, az ügyészség, a nyomozó hatóság vagy a bűnjelkezelő szerv dönt.
+
+(2) A megváltásnak akkor van helye, ha azt a vagyoni érdekelt indítványozza, vagy a megváltáshoz hozzájárul és a megváltás összegét a vagyoni érdekelt elfogadta.
+
+(3) A megváltás összegét a bíróság, az ügyészség, a nyomozó hatóság vagy a bűnjelkezelő szerv állapítja meg. A megváltás összegeként a lefoglalás tárgya vagy a zár alá vett vagyon becsült értékét kell megállapítani. Ha a lefoglalás vagy a zár alá vétel célja kizárólag a pénzösszegben kifejezve elrendelt vagyonelkobzás biztosítása, a megváltás összegeként legfeljebb a pénzösszegben kifejezett vagyonelkobzás biztosítására szolgáló összeget lehet megállapítani.
+
+(4) A megváltás elfogadására irányuló indítványt el kell utasítani, ha
+
+- a) a megállapított összeget a vagyoni érdekelt – több vagyoni érdekelt esetén bármelyik vagyoni érdekelt – vitatja,
+- b) a megváltás összegének a megállapítása az eljárás elhúzódását eredményezné, vagy
+- c) a megváltás összegének a megállapítása aránytalan költséggel járna.
+
+(5) A megváltás elfogadására irányuló indítvány elutasítása ellen nincs helye jogorvoslatnak.
+
+(6) A megváltás során kifizetett összeg a lefoglalás tárgya vagy a zár alá vett vagyon helyébe lép, amelyre a lefoglalás vagy a zár alá vétel külön határozat nélkül kiterjed, és a kényszerintézkedés annak eredeti tárgya tekintetében a megváltással megszűnik.
+
+(7) Ha a zár alá vételt a polgári jogi igény biztosítására rendelték el, a zár alá vett vagyon megváltására az (1)–(6) bekezdést kell alkalmazni azzal, hogy
+
+- a) a zár alá vett vagyon megváltása a magánfél, a vádemelés előtt a sértett hozzájárulása nélkül nem fogadható el,
+- b) a megváltás összege a magánfél, a vádemelés előtt a sértett által megjelölt követelés összegét nem haladhatja meg, és
+- c) a zár alá vett vagyon megváltásának elfogadásáról a bíróság határoz.
+
+### A lefoglalás tárgya vagy a zár alá vett vagyon kényszerértékesítése
+
+333/H. § (1) Ha a lefoglalás megszüntetésének vagy a zár alá vétel feloldásának nincs helye, a bíróság, az ügyészség, a nyomozó hatóság, vagy a bűnjelkezelő szerv a lefoglalás tárgyának vagy a zár alá vett vagyonnak a kényszerértékesítését rendeli el, ha a lefoglalás tárgya vagy a zár alá vett vagyon
+
+- a) gyors romlásnak van kitéve,
+- b) huzamos tárolásra alkalmatlan,
+- c) kezelése, tárolása, illetve őrzése – különösen a vagyontárgy értékére vagy az előreláthatólag hosszú ideig tartó tárolására tekintettel – aránytalan és jelentős költséggel járna, illetve
+- d) értéke a kényszerintézkedés várható ideje miatt lényegesen csökkenne vagy ennek veszélye megalapozottan feltehető.
+
+(2) Az (1) bekezdés c) pontja alkalmazásában aránytalan és jelentős költségnek különösen az tekinthető, ha a lefoglalás tárgyának vagy a zár alá vett vagyonnak a kezelésével, tárolásával, illetve őrzésével kapcsolatos éves költség eléri a biztosításkori értékének a 20 százalékát. Az (1) bekezdés d) pontja alkalmazásában lényeges értékcsökkenésnek különösen az tekinthető, ha a lefoglalás tárgyának vagy a zár alá vett vagyonnak az értékcsökkenése éves szinten eléri az elrendeléskori értékének 20 százalékát.
+
+(3) Az (1) bekezdés c), illetve d) pontjában meghatározott esetben a kényszerértékesítés elrendelése előtt legalább nyolcnapos, legfeljebb tizenöt napos határidő tűzésével fel kell hívni a vagyoni érdekeltet, hogy írásban nyilatkozzon, hogy az értékesítés elrendelése helyett vállalja-e
+
+- a) a lefoglalás tárgyának vagy a zár alá vett vagyonnak az éves tárolási, gondozási és kezelési költségeinek a megelőlegezését, vagy
+- b) a lefoglalás tárgyának vagy a zár alá vett vagyonnak az éves értékcsökkenésének a megfizetését.
+
+(4) A felhívásban meg kell jelölni a tárolási, gondozási és kezelési költségek éves összegét. Ha a fizetésre kötelezett valószínűsíti, hogy a (3) bekezdés szerinti kötelezettség egy összegben való teljesítése magának, vagy tartásra szoruló hozzátartozójának jelentős anyagi nehézséget okozna, és megalapozottan feltehető, hogy fizetési kötelezettségének határidőben pontosan eleget tesz, részére háromhavi, egyenlő részletekben történő részletfizetés engedélyezhető. A részletfizetés iránti kérelemnek nincs halasztó hatálya.
+
+(5) Ha a bíróság, az ügyészség, a nyomozó hatóság vagy a bűnjelkezelő szerv felhívására a (3) bekezdésben meghatározott személy nem nyilatkozik, a megállapított költségek előlegezését nem vállalja vagy az előírt fizetési kötelezettségét határidőn belül nem teljesíti, akkor a kényszerértékesítés haladéktalanul elrendelhető.
+
+(6) A vagyoni érdekelt által megelőlegezett tárolási, gondozási és kezelési költség az első évben bűnügyi költség, azt követően nem bűnügyi költség, utóbbi esetben a költséget az előlegező viseli.
+
+(7) Az (1) bekezdés d) pontja esetén a lefoglalás tárgya vagy a zár alá vett vagyon értékcsökkenésének megfizetésére fordított összeg nem bűnügyi költség, arra a lefoglalás vagy a zár alá vétel külön határozat nélkül kiterjed. Ha az értékcsökkenés megfizetésére fordított összeg eléri a lefoglalás tárgyának vagy a zár alá vett vagyonnak az elrendeléskor fennálló értékét vagy pénzösszegben kifejezett vagyonelkobzás biztosítása esetén a biztosítandó összeget, akkor a lefoglalást a lefoglalás eredeti tárgyára meg kell szüntetni.
+
+(8) A kényszerértékesítés végrehajtására egyebekben a vagyonkezelési célú értékesítés szabályait kell alkalmazni.
+
+### A lefoglalás tárgyának vagy a zár alá vett vagyonnak a vagyonkezelési célú értékesítése
+
+333/I. § (1) A vagyoni értékként kezelhető tárgy tekintetében folyamatosan vizsgálni kell, hogy van-e helye vagyonkezelési célú értékesítésnek.
+
+(2) A lefoglalás vagy a zár alá vétel vagyoni értékként kezelhető tárgyának vagyonkezelési célú értékesítésére akkor kerülhet sor, ha ez a lefoglalás tárgyának vagy a zár alá vett vagyonnak az értékére, illetve értékvesztésére, továbbá a tárolási, gondozási, kezelési és várható értékesítési költségekre tekintettel indokolt.
+
+(3) A (2) bekezdésben meghatározott feltételek fennállása esetén a bíróság, az ügyészség, a nyomozó hatóság vagy a bűnjelkezelő szerv a vagyoni értékként kezelhető lefoglalás tárgya vagy zár alá vett vagyon értékesítését rendelheti el, ha azt a vagyoni érdekelt indítványozza, vagy az értékesítéshez hozzájárul.
+
+(4) Az értékesítéshez a vagyoni érdekelt a hozzájárulását feltételhez kötötten, különösen legalacsonyabb értékesítési ár meghatározásával is megadhatja.
+
+(5) Több vagyoni érdekelt esetén a vagyoni érdekeltek együttes indítványa, illetve hozzájárulása szükséges.
+
+(6) Ha a zár alá vételt a polgári jogi igény biztosítására rendelték el, a zár alá vett vagyon vagyonkezelési célú értékesítésére az (1)–(5) bekezdést kell alkalmazni azzal, hogy
+
+- a) a zár alá vett vagyon értékesítése a magánfél, a vádemelés előtt a sértett hozzájárulása nélkül nem rendelhető el, és
+- b) az értékesítésről a bíróság határoz.
+
+333/J. § (1) A lefoglalás tárgyának vagy a zár alá vett vagyonnak az értékesítéséből befolyt ellenértéke a lefoglalás tárgyának vagy a zár alá vett vagyonnak a helyébe lép, amelyre a kényszerintézkedés külön határozat nélkül kiterjed, és a lefoglalás vagy a zár alá vétel eredeti tárgya tekintetében az értékesítéssel megszűnik.
+
+(2) Ha a későbbi bizonyítás érdekében szükséges, a lefoglalt dolog értékesítése esetén a dologból olyan mintát kell biztosítani, illetve a dologról olyan kép- vagy kép- és hangfelvételt kell készíteni, amely az eljárás későbbi szakaszában kétséget kizáróan bizonyítja a dolog lényeges tulajdonságait.
+
+### Az értékesítés közös szabályai
+
+333/K. § A lefoglalt dolog értékesítését jogszabályban meghatározott módon kell végrehajtani. A bíróság, az ügyészség vagy a nyomozó hatóság az értékesítéshez jogszabályban meghatározott esetben árverési felületet vehet igénybe.
+
+### A bűnügyi vagyon kezelése
+
+333/L. § (1) A bíróság, az ügyészség, a nyomozó hatóság és a bűnjelkezelő szerv gondoskodik arról, hogy a bűnügyi vagyon megőrizze az értékét.
+
+(2) A bűnügyi vagyon kezelése során a rendes gazdálkodás szabályai szerint kell gondoskodni.
+
+(3) A bűnügyi vagyon kezelése során a zár alá vétel elrendelésétől, illetve attól kezdve, hogy a lefoglalás tárgya vagyoni értékként kezelhető, gondoskodni kell a bűnügyi vagyon egyedi értékeléséről. Az egyedi értékelés során vizsgálni kell a vagyon pénzben kifejezhető értékét, az őrzésével és kezelésével kapcsolatos költségeket és feladatokat, és a vagyon kezelésének, őrzésének várható időtartamát. Az egyedi értékelést a bűnügyi vagyon tulajdonságaiban, illetve a kezelésében bekövetkezett változásokhoz igazodóan kell felülvizsgálni.
+
+(4) Az egyedi értékelés célja az olyan, az e törvényben meghatározott intézkedések alkalmazhatóságával, különösen a lefoglalás vagy a zár alá vétel végrehajtásának módjával, a lefoglalás tárgyának vagy a zár alá vett vagyonnak az értékesítésével, megváltásával, a vagyoni biztosíték letételével kapcsolatos döntések előkészítése,
+
+- a) amelyek alapján elkerülhető vagy mérsékelhető a bűnügyi vagyon értékének a csökkenése, továbbá
+- b) amelyekkel mérsékelhetők a lefoglalás tárgya vagy a zár alá vett vagyon kezelésének költségei.
+
+(5) A vagyonkezelés során tett intézkedés alapján átalakuló vagyontárgy az eredeti vagyontárgy helyébe lép, arra a lefoglalás és a zár alá vétel külön határozat nélkül kiterjed. A bűnügyi vagyon értékének a vagyonkezelés során történő növekedéséből vagy hasznából jogszabályban meghatározottak szerint le kell vonni a felmerült vagyonkezelési költséget. A levonható vagyonkezelési költség nem haladhatja meg a növekedés, illetve a haszon értékét.
+
+(6) Ha a lefoglalás vagy a zár alá vétel megszűnésével vagy megszüntetésével a bűnügyi vagyont a vagyoni érdekelt számára ki kell adni vagy rendelkezésre kell bocsátani, akkor az (5) bekezdés szerint levonható vagyonkezelési költség megfizetéséig az érintett bűnügyi vagyon visszatartható. Ha a levonható vagyonkezelési költség megfizetésére 2 hónap elteltével nem kerül sor, a bűnügyi vagyon – vagy annak meghatározott része – értékesíthető, és a befolyt összegből a levonható vagyonkezelési költség elszámolható.
+
+(7) Az (5) bekezdés alapján levonható költség nem bűnügyi költség, az annak a bíróságnak, ügyészségnek, nyomozó hatóságnak vagy bűnjelkezelő szervnek a bevételét képezi, amely a vagyonkezelési költséget előlegezte.
+
+### Bűnjelkezelő közreműködése
+
+334. § (1) A bűnügyi vagyon, illetve a lefoglalás tárgyának kezelésében – jogszabályban meghatározottak szerint – bűnjelkezelő szerv is közreműködhet.
+
+(2) A bűnjelkezelő szerv a kényszerintézkedés tárgyának hatékony és költségkímélő kezelésének biztosítása, és a 333/B. § (1) bekezdésében meghatározott cél érdekében
+
+- a) hozzáfér a lefoglalás tárgyával, valamint a zár alá vett vagyonnal kapcsolatos – jogszabályban meghatározott – adatokat, valamint azok változását rögzítő országos központi nyilvántartáshoz, továbbá az ügyiratok megismerésére jogosult,
+- b) végzi a bűnügyi vagyon egyedi értékelését, valamint a bűnügyi vagyonnal kapcsolatban a jogszabályban meghatározott más feladatokat,
+- c) árverés útján történő értékesítés esetén dönt a becsértékről,
+- d) az e törvényben meghatározott kérdésekben önállóan dönthet a lefoglalás tárgya vagy a zár alá vett vagyon végrehajtásával kapcsolatban,
+- e) javaslatot tesz a bíróság, az ügyészség vagy a nyomozó hatóság e törvényben meghatározott döntésére.
+
+(3) A bíróság, az ügyészség és a nyomozó hatóság
+
+- a) a bűnjelkezelő szerv önállóan meghozható döntését előzetesen megtilthatja, valamint az önállóan meghozott döntését visszavonhatja, valamint
+- b) a bűnjelkezelő szervet a bűnügyi vagyon egyedi értékelése érdekében megkeresheti.
+
+(4) A bűnjelkezelő szerv az önállóan meghozott döntését – az (5) bekezdésben meghatározott esetet kivéve – akkor hajtja végre, ha azt a bíróság, az ügyészség vagy a nyomozó hatóság jóváhagyja, vagy azt a döntésről való tudomásszerzést követő öt munkanapon belül nem vonja vissza.
+
+(5) A bűnjelkezelő szerv a döntését írásban közli a vagyoni érdekelttel. A vagyoni érdekelt a döntés közlését követő öt munkanapon belül indítványozhatja, hogy a bűnjelkezelő szerv döntéséről a bíróság, az ügyészség vagy a nyomozó hatóság hozzon határozatot. A vagyoni érdekelt indítványára a bíróság, az ügyészség vagy a nyomozó hatóság
+
+- a) jóváhagyja vagy visszavonja a bűnjelkezelő szerv döntését vagy
+- b) önálló határozatot hoz.
+
+(6) A bűnjelkezelő szerv törvényben meghatározott esetekben minden olyan intézkedést köteles megtenni, illetve a döntésre jogosult bíróságnál, ügyészségnél vagy nyomozó hatóságnál minden olyan büntetőeljárási döntést kezdeményezhet, amely a bűnügyi vagyon, illetve a lefoglalás tárgya értékének vagy állagának a megóvásához, továbbá a hatékony és költségkímélő kezeléséhez szükséges.
 
 ### LIII. Fejezet — ELEKTRONIKUS ADAT IDEIGLENES HOZZÁFÉRHETETLENNÉ TÉTELE
 
@@ -4972,7 +5060,7 @@ a (6) bekezdésnek megfelelően határoz a zár alá vételről rendelkező hat�
 
 (2) A bíróság, az ügyészség vagy a nyomozó hatóság a határozatával az elektronikus hírközlési szolgáltatókat kötelezi az elektronikus adathoz való hozzáférés ideiglenes megakadályozására. A határozatot az elektronikus adat felett rendelkezésre jogosultnak akkor kell kézbesíteni, ha az eljárás addigi adatai alapján személye és elérhetősége ismert.
 
-(3) A bíróság az elektronikus adathoz való hozzáférés ideiglenes megakadályozásának elrendelését haladéktalanul közli a Nemzeti Média- és Hírközlési Hatósággal (a továbbiakban: NMHH), amely a kényszerintézkedés végrehajtását szervezi és ellenőrzi.
+(3) A bíróság, az ügyészség vagy a nyomozó hatóság az elektronikus adathoz való hozzáférés ideiglenes megakadályozásának elrendelését haladéktalanul közli a Nemzeti Média- és Hírközlési Hatósággal (a továbbiakban: NMHH), amely a kényszerintézkedés végrehajtását szervezi és ellenőrzi.
 
 (4) Az NMHH az elektronikus adathoz való hozzáférés ideiglenes megakadályozására vonatkozó kötelezettséget bevezeti a központi elektronikus hozzáférhetetlenné tételi határozatok adatbázisába, ezzel egyidejűleg a bíróság határozatáról elektronikus úton haladéktalanul tájékoztatja az elektronikus hírközlési szolgáltatókat, amelyek a tájékoztatástól számított egy munkanapon belül kötelesek az elektronikus adathoz való hozzáférés ideiglenes megakadályozására. Ha valamely elektronikus hírközlési szolgáltató a kötelezettséget nem teljesíti, az NMHH erről haladéktalanul tájékoztatja a bíróságot.
 
@@ -5600,7 +5688,7 @@ készítését.
 - a) a bűnmegelőzési célú felügyelet elrendelése ellen, valamint a távoltartás, illetve a bűnügyi felügyelet magatartási szabályainak részleges feloldására irányuló indítvány elutasítása ellen,
 - b) az elkobzás, illetve a vagyonelkobzás biztosítása érdekében alkalmazott lefoglalás elrendelése ellen,
 - c) a zár alá vétel elrendelése ellen, ha – a 327. § (5) bekezdése kivételével – azt az ügyészség vagy a nyomozó hatóság rendelte el,
-- d) a lefoglalt dolog értékesítésének elrendelése ellen, ha azt az ügyészség vagy a nyomozó hatóság rendelte el,
+- d) a lefoglalás tárgya vagy a zár alá vett vagyon értékesítésének elrendelése ellen, ha azt az ügyészség vagy a nyomozó hatóság rendelte el,
 - e) ha az ügyészség, illetve a felettes ügyészség elutasította azt a panaszt, amely
   - ea) a kutatás,
   - eb) a motozás,
@@ -5613,6 +5701,7 @@ elrendelését sérelmezte,
 - f) ha az ügyészség, illetve a felettes ügyészség elutasította a gyanúsított vagy a védő azon panaszát, amely az ügyiratok megismerésének korlátozásáról, vagy valamely megismerési mód biztosítására irányuló indítvány elutasításáról szóló határozatot sérelmezte,
 - g) a 402. § (3) és (4) bekezdése szerint az eljárást megszüntető határozatnak a 402. § (2) bekezdése alapján hozott rendelkezése ellen.
 - h) az ügyészségnek vagy a nyomozó hatóságnak a tárhelyszolgáltatás felfüggesztéséről vagy az elektronikus adat ideiglenes hozzáférhetetlenné tételéről hozott vagy a 320. § (4a) bekezdése alapján hozott rendelkezése ellen.
+- i) az ügyészségnek vagy a nyomozó hatóságnak a vagyoni biztosíték összegének elvesztéséről hozott határozatával szemben.
 
 (2) A felülbírálati indítványt az (1) bekezdés szerinti határozat kézbesítésétől számított nyolc napon belül, a bíróságnál kell előterjeszteni. A felülbírálati indítványban meg kell jelölni azt a határozatot, amely ellen a felülbírálati indítvány irányul, továbbá az indítvány előterjesztésének okát és célját.
 
@@ -7706,7 +7795,7 @@ ellen.
 
 535. § (1) Az eljárás felfüggesztésének a tárgyalás megkezdése után is helye van a 487. §-ban, a 488. § (1) bekezdésében, valamint a 489. §-ban és a 490. §-ban meghatározott okokból.
 
-(2) Ha a bíróság az eljárást a vádlott tartós, súlyos betegsége vagy a bűncselekmény elkövetése után bekövetkezett elmebetegsége miatt vagy azért függesztette fel, mert a vádlott ismeretlen helyen vagy külföldön tartózkodik, elkobzást, vagyonelkobzást, elektronikus adat végleges hozzáférhetetlenné tételét, tárhelyszolgáltatás megszüntetését rendelheti el, vagy a lefoglalt dolog állami tulajdonba vételéről határozhat.
+(2) Ha a bíróság az eljárást a vádlott tartós, súlyos betegsége vagy a bűncselekmény elkövetése után bekövetkezett elmebetegsége miatt vagy azért függesztette fel, mert a vádlott ismeretlen helyen vagy külföldön tartózkodik, elkobzást, vagyonelkobzást, elektronikus adat végleges hozzáférhetetlenné tételét, tárhelyszolgáltatás megszüntetését rendelheti el, vagy a lefoglalás tárgyának állami tulajdonba vételéről határozhat.
 
 (3) Nincs helye fellebbezésnek az eljárásnak a 488. § (1) bekezdés a)–b) pontja és a 489–490. §-a alapján történt felfüggesztése, valamint a 489. § (1)–(2) bekezdésében, vagy a 490. § (1) bekezdésében meghatározott eljárás kezdeményezésére irányuló indítvány elutasítása ellen.
 
@@ -8651,7 +8740,7 @@ eredményezi.
 
 (3) Az ítélet felmentő, illetve eljárást megszüntető rendelkezését nem kell hatályon kívül helyezni, ha az (1) bekezdés szerinti eljárási szabálysértés a vádlott vagy a védő törvényes jogainak gyakorlását korlátozta.
 
-(4) Ha az elsőfokú bíróság a lefoglalt dologról, az elkobzásról, a vagyonelkobzásról, illetve az elektronikus adat végleges hozzáférhetetlenné tételéről a törvény rendelkezése ellenére nem rendelkezett, és a döntéshez szükséges adatok a másodfokú eljárás során bizonyítás felvétele keretében nem tisztázhatók, a másodfokú bíróság az elsőfokú bíróságot a CVI. Fejezet szerinti eljárás lefolytatására utasítja.
+(4) Ha az elsőfokú bíróság a lefoglalás tárgyáról, az elkobzásról, a vagyonelkobzásról, illetve az elektronikus adat végleges hozzáférhetetlenné tételéről a törvény rendelkezése ellenére nem rendelkezett, és a döntéshez szükséges adatok a másodfokú eljárás során bizonyítás felvétele keretében nem tisztázhatók, a másodfokú bíróság az elsőfokú bíróságot a CVI. Fejezet szerinti eljárás lefolytatására utasítja.
 
 610. § Teljes megalapozatlanság esetén a másodfokú bíróság nem ügydöntő végzésével hatályon kívül helyezi az elsőfokú bíróság ítéletét és az elsőfokú bíróságot új eljárásra utasítja.
 
@@ -9453,7 +9542,7 @@ terjeszthet elő felülvizsgálati indítványt.
 - 9. a járművezetéstől eltiltás utólagos beszámításáról,
 - 10. a kitiltás helyéről vagy a Btk. 60. § (2a) bekezdésében meghatározott esetben a kiutasítás tartamáról,
 - 11. sportrendezvények látogatásától való eltiltás esetén sportszövetség vagy sportlétesítmény meghatározásáról,
-- 12. az elkobzásról, a vagyonelkobzásról, az elektronikus adat végleges hozzáférhetetlenné tételéről, a tárhelyszolgáltatás megszüntetéséről, a lefoglalt dologról, a zár alá vétel feloldásáról vagy a tárhelyszolgáltatás felfüggesztésének a megszüntetéséről,
+- 12. az elkobzásról, a vagyonelkobzásról, az elektronikus adat végleges hozzáférhetetlenné tételéről, a tárhelyszolgáltatás megszüntetéséről, a lefoglalás tárgyáról, a zár alá vétel feloldásáról vagy a tárhelyszolgáltatás felfüggesztésének a megszüntetéséről,
 - 13. a próbára bocsátás megszüntetéséről,
 - 14. a pártfogó felügyelet elrendeléséről,
 - 15. a bűnügyi költségről,
@@ -11727,12 +11816,12 @@ szükséges.
 
 ### Bűncselekménnyel összefüggő vagyon, dolog, adat felkutatása
 
-820. § (1) A 819. § (1) bekezdése esetén az ügyészség vagy a nyomozó hatóság a bűncselekménnyel összefüggő vagyon, dolog, adat felkutatását vagy a lefoglalt dologra vonatkozó tulajdonjog tisztázását (a továbbiakban együtt: vagyonkutatás) rendeli el, ha feltehető, hogy a vagyonelvonásra irányuló eljárás célja elérhető és
+820. § (1) A 819. § (1) bekezdése esetén az ügyészség vagy a nyomozó hatóság a bűncselekménnyel összefüggő vagyon, dolog, adat felkutatását vagy a lefoglalás tárgyára vonatkozó tulajdonjog tisztázását (a továbbiakban együtt: vagyonkutatás) rendeli el, ha feltehető, hogy a vagyonelvonásra irányuló eljárás célja elérhető és
 
 - a) nem indult nyomozás, vagy
 - b) az eljárás adatai alapján
   - ba) az elkobzás, vagyonelkobzás, elektronikus adat hozzáférhetetlenné tétele, tárhelyszolgáltatás megszüntetése, vagy
-  - bb) a lefoglalt dolog állami tulajdonba vétele tárgyában nem lehet érdemben állást foglalni.
+  - bb) a lefoglalás tárgyának állami tulajdonba vétele tárgyában nem lehet érdemben állást foglalni.
 
 (2) A 819. § (2) bekezdése esetén a bíróság jogerős ügydöntő határozatát követően az ügyészség vagyonkutatást rendel el
 
@@ -11778,13 +11867,13 @@ rendelhető el.
 
 (5) Az eljárást megszüntető határozat ellen panasznak nincs helye.
 
-822. § (1) Ha az eljárás adatai vagy a vagyonkutatás adatai alapján elkobzás, vagyonelkobzás, elektronikus adat végleges hozzáférhetetlenné tétele, tárhelyszolgáltatás megszüntetése, lefoglalt dolog állami tulajdonba vétele, vagy annak megállapítása szükséges, hogy valamely vagyon jogerős ügydöntő határozattal elrendelt vagyonelkobzás hatálya alá tartozik, az ügyészség erre irányuló indítványt tesz a bíróságnak.
+822. § (1) Ha az eljárás adatai vagy a vagyonkutatás adatai alapján elkobzás, vagyonelkobzás, elektronikus adat végleges hozzáférhetetlenné tétele, tárhelyszolgáltatás megszüntetése, lefoglalás tárgyának állami tulajdonba vétele, vagy annak megállapítása szükséges, hogy valamely vagyon jogerős ügydöntő határozattal elrendelt vagyonelkobzás hatálya alá tartozik, az ügyészség erre irányuló indítványt tesz a bíróságnak.
 
 (2) Az ügyészség indítványa tartalmazza
 
-- a) az indítványban foglalt intézkedéssel érintett terhelt, a bűncselekmény elkövetésével megalapozottan gyanúsítható személy vagy vagyoni érdekelt, illetve a lefoglalt dolog állami tulajdonba vétele esetén a kényszerintézkedéssel érintett terhelt vagy bűncselekmény elkövetésével megalapozottan gyanúsítható személy azonosításra alkalmas személyes adatait,
+- a) az indítványban foglalt intézkedéssel érintett terhelt, a bűncselekmény elkövetésével megalapozottan gyanúsítható személy vagy vagyoni érdekelt, illetve a lefoglalás tárgyának állami tulajdonba vétele esetén a kényszerintézkedéssel érintett terhelt vagy bűncselekmény elkövetésével megalapozottan gyanúsítható személy azonosításra alkalmas személyes adatait,
 - b) az intézkedéssel, illetve kényszerintézkedéssel érintett vagyon, dolog vagy adat megjelölését,
-- c) az intézkedés alkalmazására vagy a lefoglalt dolog állami tulajdonba vételére irányuló indítványt az alkalmazandó jogszabályok megjelölésével együtt,
+- c) az intézkedés alkalmazására vagy a lefoglalás tárgyának állami tulajdonba vételére irányuló indítványt az alkalmazandó jogszabályok megjelölésével együtt,
 - d) az indítványt megalapozó tények leírását.
 
 ### A bíróság eljárása
@@ -11801,7 +11890,7 @@ rendelhető el.
 
 ### A bíróság határozata
 
-824. § (1) A bíróság a 819. § (1) bekezdése, és a (2) bekezdés b) pontja esetén az elkobzásról, a vagyonelkobzásról, az elektronikus adat végleges hozzáférhetetlenné tételéről, vagy a tárhelyszolgáltatás megszüntetéséről, illetve a 819. § (1) bekezdése esetén a lefoglalt dolog állami tulajdonba vételéről rendelkezik, ha az indítvány alapos, egyéb esetben az indítványt elutasítja.
+824. § (1) A bíróság a 819. § (1) bekezdése, és a (2) bekezdés b) pontja esetén az elkobzásról, a vagyonelkobzásról, az elektronikus adat végleges hozzáférhetetlenné tételéről, vagy a tárhelyszolgáltatás megszüntetéséről, illetve a 819. § (1) bekezdése esetén a lefoglalás tárgyának állami tulajdonba vételéről rendelkezik, ha az indítvány alapos, egyéb esetben az indítványt elutasítja.
 
 (2) A bíróság a 819. § (2) bekezdés a) pontja esetén, ha az indítvány alapos, megállapítja, hogy az indítványban megjelölt vagyon a jogerős ügydöntő határozattal elrendelt vagyonelkobzás hatálya alá tartozik. Egyéb esetben az indítványt elutasítja.
 
@@ -12225,7 +12314,7 @@ a napján válik esedékessé.
 
 (2) Ha a rendkívüli jogorvoslat folytán hozott határozat pénzbüntetés, szabálysértés miatt alkalmazott pénzbírság vagy bűnügyi költség megfizetésére kötelezést alacsonyabb mértékben tartalmaz, akkor a befizetett összeg és az alacsonyabb mértékű kötelezés közötti különbözetet kell a terheltnek visszatéríteni, a befizetéstől a visszatérítés időpontjáig eltelt időre számított mindenkori kamatával együtt.
 
-(3) Vagyonelkobzás, elkobzás esetén, valamint akkor, ha a lefoglalt dolog az állam tulajdonába került, az (1) és (2) bekezdés irányadó azzal, hogy ha rendkívüli jogorvoslat folytán a bíróság a terheltet felmentette vagy vele szemben az eljárást megszüntette, visszatérítésnek csak akkor van helye, ha a bíróság a felmentő ítéletben vagy az eljárást megszüntető határozatban vagyonelkobzást vagy elkobzást nem vagy alacsonyabb mértékben rendelt el. Az elkobzott dolgot, a vagyonelkobzás alá eső vagyont, továbbá a lefoglalt dolgot elsősorban természetben kell visszaadni. Ha ez nem lehetséges, vagy a vagyonelkobzás pénzösszegre vonatkozott, a vagyonelkobzáskor, illetve az elkobzáskor irányadó forgalmi értéket vagy a pénzösszeget alapul véve, annak a visszatérítés időpontjáig eltelt időre számított mindenkori kamatával növelt összegét kell visszatéríteni.
+(3) Vagyonelkobzás, elkobzás esetén, valamint akkor, ha a lefoglalás tárgya az állam tulajdonába került, az (1) és (2) bekezdés irányadó azzal, hogy ha rendkívüli jogorvoslat folytán a bíróság a terheltet felmentette vagy vele szemben az eljárást megszüntette, visszatérítésnek csak akkor van helye, ha a bíróság a felmentő ítéletben vagy az eljárást megszüntető határozatban vagyonelkobzást vagy elkobzást nem vagy alacsonyabb mértékben rendelt el. Az elkobzott dolgot, a vagyonelkobzás alá eső vagyont, továbbá a lefoglalt dolgot elsősorban természetben kell visszaadni. Ha ez nem lehetséges, vagy a vagyonelkobzás pénzösszegre vonatkozott, a vagyonelkobzáskor, illetve az elkobzáskor irányadó forgalmi értéket vagy a pénzösszeget alapul véve, annak a visszatérítés időpontjáig eltelt időre számított mindenkori kamatával növelt összegét kell visszatéríteni.
 
 (4) A visszatérítést a bíróság hivatalból vagy az ügyészség, a terhelt, a védő vagy az egyéb érdekelt indítványára rendeli el.
 
@@ -12592,6 +12681,8 @@ az igazságügyért felelős miniszterrel egyetértésben, az Országgyűlési �
 - 35. a 2002/465/IB tanácsi kerethatározatnak a személyes adatok védelmére vonatkozó uniós szabályokhoz való hozzáigazítása tekintetében történő módosításáról szóló, 2022. február 16-i (EU) 2022/211 európai parlamenti és tanácsi irányelvnek,
 - 36. a 2014/41/EU irányelvnek a személyes adatok védelmére vonatkozó uniós szabályokhoz való hozzáigazítása tekintetében történő módosításáról szóló, 2022. február 16-i (EU) 2022/228 európai parlamenti és tanácsi irányelvnek
 - 37. az uniós korlátozó intézkedések megsértése bűncselekményi tényállásainak és szankcióinak meghatározásáról és az (EU) 2018/1673 irányelv módosításáról szóló, 2024. április 24-i (EU) 2024/1226 európai parlamenti és tanácsi irányelvnek
+- 38. a vagyonvisszaszerzésről és -elkobzásról szóló, 2024. április 24-i (EU) 2024/1260 európai parlamenti és tanácsi irányelvnek,
+- 39. az emberkereskedelem megelőzéséről és az ellene folytatott küzdelemről, valamint az áldozatok védelméről szóló, 2011/36/EU irányelv módosításáról szóló, 2024. június 13-i (EU) 2024/1712 európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.
 
@@ -12600,6 +12691,8 @@ való megfelelést szolgálja.
 #### 878/B. §
 
 878/C. § Ez a törvény a belső piaci médiaszolgáltatások közös keretének létrehozásáról és a 2010/13/EU irányelv módosításáról szóló, 2024. április 11-i (EU) 2024/1083 európai parlamenti és tanácsi rendelet (a tömegtájékoztatás szabadságáról szóló európai rendelet) 4. cikkének végrehajtásához szükséges rendelkezéseket állapít meg.
+
+878/D. § E törvény a büntetőeljárás során az elektronikus bizonyítékokkal kapcsolatban, valamint a büntetőeljárást követően a szabadságvesztés-büntetések végrehajtása céljából kibocsátott, közlésre kötelező európai határozatokról és megőrzésre kötelező európai határozatokról szóló, 2023. július 12-i (EU) 2023/1543 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
 ### Hatályon kívül helyező rendelkezés
 

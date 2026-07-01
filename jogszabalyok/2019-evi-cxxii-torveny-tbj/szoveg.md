@@ -769,6 +769,8 @@ kívánja szolgálati időként elismertetni.
 
 (4) Az állami adó- és vámhatóság adóigazgatási eljárás, adategyeztetés és járulékfizetési kötelezettség teljesítésének vizsgálata, valamint biztosítotti jogviszonnyal kapcsolatos adategyeztetés céljából jogosult a (2) bekezdés 1–5., 14., 16–19. pontjában felsorolt adatok és a (2) bekezdés 2–5., valamint 16–19. pontjában felsorolt adatok változásbejegyzésének időpontja, továbbá a (2) bekezdés 23. és 24. pontjában felsorolt adatok kezelésére. Az egészségbiztosítási nyilvántartást vezető szerv ezen adatokról az állami adó- és vámhatóság részére egyedi megkeresés alapján elektronikus úton adatot szolgáltat.
 
+(5) Az állami foglalkoztatási szerv az álláskeresési ellátásra való jogosultság megállapítása és ellenőrzése céljából jogosult a (2) bekezdés 1–5., 23. és 24. pontjában megjelölt adatok kezelésére. Az egészségbiztosítási nyilvántartást vezető szerv ezen adatokról az állami foglalkoztatási szerv részére egyedi megkeresés alapján elektronikus úton adatot szolgáltat.
+
 59. § (1) Az 55. § szerinti nyilvántartások tartalmazzák a foglalkoztatók és a biztosítottak törvényben előírt kötelezettségei teljesítésével szolgáltatott mindazon adatot, amelyből biztosítottanként megállapítható a társadalombiztosítási járulékalapot képező jövedelem, a biztosított után megfizetett, a tőle levont társadalombiztosítási járulék összege, a biztosítási jogviszony időtartama, valamint a biztosítottat megillető ellátások megállapításához szükséges adat.
 
 (2)

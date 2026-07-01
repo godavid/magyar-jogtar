@@ -439,10 +439,12 @@ a felsőoktatási intézményben nappali képzésben folytatott – legfeljebb a
 
 45. § (1) Özvegyi nyugdíjat a házastárs, az elvált házastárs és az élettárs (a továbbiakban együtt: házastárs) kaphat.
 
-(2) Özvegyi nyugdíjra jogosult a házastársra előírt feltételek fennállása esetén az is, aki élettársával ennek haláláig
+(2) Özvegyi nyugdíjra jogosult a házastársra előírt feltételek fennállása esetén a jogszerző élettársa, ha a jogszerzővel annak haláláig
 
 - a) egy év óta megszakítás nélkül együtt élt és gyermekük született, vagy
-- b) megszakítás nélkül tíz év óta együtt élt.
+- b) megszakítás nélkül tíz év óta együtt élt
+
+és sem a jogszerzőnek, sem az élettársnak nem állt fenn házassága a jogszerző halálakor.
 
 (3) Élettársa után nem jogosult özvegyi nyugdíjra az, aki a (2) bekezdésben megjelölt együttélési időszak vagy ennek egy része alatt özvegyi nyugdíjban vagy baleseti özvegyi nyugdíjban részesült.
 
@@ -481,13 +483,13 @@ a felsőoktatási intézményben nappali képzésben folytatott – legfeljebb a
 
 következik be azzal, hogy az özvegyre irányadó öregségi nyugdíjkorhatárt a jogszerző halálakor hatályos jogszabályok alapján kell megállapítani.
 
-48. § (1) Az, akinek házastársa a házasság megkötésekor a reá irányadó öregségi nyugdíjra jogosító életkort már betöltötte, özvegyi nyugdíjra csak abban az esetben jogosult, ha a házasságból (a korábbi együttélésből) gyermek származott, vagy a házastársak a házasság megkötésétől öt éven át megszakítás nélkül együtt éltek.
+48. § (1) Az, akinek házastársa a házasság megkötésekor a reá irányadó öregségi nyugdíjra jogosító életkort már betöltötte, özvegyi nyugdíjra csak abban az esetben jogosult, ha a házasságból (a korábbi együttélésből) gyermek származott, a házasság legalább öt évig fennállt, vagy a házasság fennállásának és a házasságkötést közvetlenül megelőző, megszakítás nélküli élettársi együttélésnek az együttes időtartama eléri a tíz évet.
 
 (2) Az (1) bekezdésben foglaltak nem alkalmazhatók, ha az irányadó öregségi nyugdíjkorhatár betöltése előtt kötött házasságot felbontották és – bármelyikük irányadó korhatárának betöltése után – ismét házasságot kötöttek.
 
-49. § (1) Az elvált, továbbá házastársától egy évnél hosszabb ideje külön élő személynek ideiglenes özvegyi nyugdíj csak akkor jár, ha házastársától annak haláláig tartásdíjban részesült, vagy részére a bíróság tartásdíjat állapított meg.
+49. § (1) Az elvált házastársnak ideiglenes özvegyi nyugdíj csak akkor jár, ha házastársától annak haláláig tartásdíjban részesült, vagy részére a bíróság tartásdíjat állapított meg.
 
-(2) Az elvált, továbbá házastársától egy évnél hosszabb ideje külön élő személynek az 50. § (2)–(3) bekezdés szerinti özvegyi nyugdíj csak abban az esetben jár, ha a 47. § (2) bekezdésében meghatározott jogosultsági feltételek a különéléstől számított tíz éven belül bekövetkeztek és a házastársától annak haláláig tartásdíjban is részesült, vagy részére a bíróság tartásdíjat állapított meg.
+(2) Az elvált házastársnak az 50. § (2)–(3) bekezdés szerinti özvegyi nyugdíj csak abban az esetben jár, ha a 47. § (2) bekezdésében meghatározott jogosultsági feltételek a különéléstől számított tíz éven belül bekövetkeztek és a házastársától annak haláláig tartásdíjban is részesült, vagy részére a bíróság tartásdíjat állapított meg.
 
 (3) Ha az elvált személy a házastársától már a házasság megszűnése előtt is külön élt, a (2) bekezdés szerinti tíz évet a tényleges különélés kezdő időpontjától kell számítani.
 
@@ -514,7 +516,7 @@ annak az öregségi nyugdíjnak, amely az elhunytat halála időpontjában megil
 
 ### Az özvegyi nyugdíj megosztása
 
-51. § (1) Több jogosult esetén az özvegyi nyugdíjat a jogosultak között egyenlő arányban meg kell osztani. Ha a különélő, illetőleg elvált házastársnak a ráeső arányos résznél kisebb összegű ideiglenes özvegyi nyugdíj jár, a különbözet az özvegyi nyugdíjast, illetőleg az együttélés alapján ideiglenes özvegyi nyugdíjra jogosultat illeti meg.
+51. § (1) Több jogosult esetén az özvegyi nyugdíjat a jogosultak között egyenlő arányban meg kell osztani. Ha az elvált házastársnak a ráeső arányos résznél kisebb összegű ideiglenes özvegyi nyugdíj jár, a különbözet az özvegyi nyugdíjast, illetőleg az együttélés alapján ideiglenes özvegyi nyugdíjra jogosultat illeti meg.
 
 (2) Az özvegyi nyugdíjra jogosult a többi jogosult ellen indított perben az özvegyi nyugdíj más arányú megosztását kérheti.
 
@@ -1316,7 +1318,7 @@ szolgálati viszonya az öregségi nyugdíj megállapítását követően helyre
 
 (2) Azt a rokkantsági, baleseti rokkantsági nyugdíjat, amelyet a 2011. december 31-én hatályos 87. vagy 88. § alapján meg kellett téríteni, és 2012. január 1-jétől a megváltozott munkaképességű személyek ellátásairól szóló törvény rendelkezése alapján öregségi nyugdíjként kell továbbfolyósítani, továbbra is meg kell téríteni a 2011. december 31-én hatályos rendelkezések alapján azzal, hogy ahol e rendelkezések rokkantsági, baleseti rokkantsági nyugdíjat említettek, azon öregségi nyugdíjat kell érteni.
 
-#### 102/E. §
+102/E. § Az e törvénynek a Magyarország 2026. évi központi költségvetésének megalapozásáról szóló 2025. évi LI. törvénnyel módosított 45. § (2) bekezdését, 48. § (1) bekezdését, 49. §-át és 51. § (1) bekezdését abban az esetben kell alkalmazni, ha a jogszerző 2026. június 30-át követően halt meg. Ha a jogszerző 2026. július 1-jét megelőzően halt meg, a 2026. június 30-án hatályos 45. § (2) bekezdését, 48. § (1) bekezdését, 49. §-át és 51. § (1) bekezdését 2026. június 30-át követően is alkalmazni kell.
 
 #### 102/E. §
 

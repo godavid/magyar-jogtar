@@ -5684,7 +5684,7 @@ vonatkozó részletes szabályokat.
 
 (8) Az a közvetítővel, közvetítői alvállalkozóval munkaviszonyban, megbízási viszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló természetes személy, aki 2021. december 31-én megfelelt a 74. § (1) bekezdés b) pontjában meghatározott követelményeknek, 2022. január 1-jét követően is munkaviszonyban, megbízási viszonyban vagy munkavégzésre irányuló egyéb jogviszonyban állhat közvetítővel, közvetítői alvállalkozóval.
 
-(9) Más EGT-államban székhellyel rendelkező pénzügyi intézmény magyarországi fióktelepének a belföldi fizetési rendszerhez való csatlakozása érdekében a szolgáltatásra vonatkozó szerződéseit és általános szerződési feltételeit úgy módosíthatja, hogy a módosítás az ügyfél számára nem okoz a termékjellemzők alapján Magyarországon nyújtott, versengő, hasonló szolgáltatások átlagos piaci feltételeihez képest érdeksérelmet a szerződés teljesítése során.
+(9)
 
 293. § (1) A 279. § (4)–(6) és (8)–(16) bekezdését a 2009. augusztus 1-je előtt fogyasztóval kötött kölcsönszerződés vagy pénzügyi lízingszerződés módosítása esetén is alkalmazni kell a (2) bekezdésben meghatározott eltéréssel.
 
