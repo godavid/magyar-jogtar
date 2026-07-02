@@ -462,12 +462,7 @@ Magyarország versenyképességének javítása érdekében egyes törvények m�
 
 #### 170. §
 
-171. § A Turizmus törvény 9/I. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Üzemeltető az (1) bekezdés szerinti szoftvert térítésmentesen biztosítja az olyan szálláshely-szolgáltatónak, aki
-
-- a) a kereskedelemről szóló törvény szerinti szálláshely esetében legfeljebb nyolc szobát tizenhat férőhellyel hasznosít szálláshelyként,
-- b) a nem üzleti célú közösségi, szabadidős szálláshely-szolgáltatásról szóló kormányrendeletben jogosultként meghatározott szálláshelyet üzemeltet.”
+#### 171. §
 
 #### 172. §
 
@@ -475,19 +470,7 @@ Magyarország versenyképességének javítása érdekében egyes törvények m�
 
 #### 174. §
 
-175. § (1)
-
-(2) A Turizmus törvény 10. § k) pontja helyébe a következő rendelkezés lép:
-
-(Felhatalmazást kap a Kormány, hogy a)
-
-„k) Nemzeti Turisztikai Adatszolgáltató Központban a regisztrációra és adatszolgáltatásra kötelezett szálláshelyek, az adatszolgáltatásra kötelezett vendéglátó üzletek és a regisztrációra és adatszolgáltatásra kötelezett turisztikai attrakciók körét;”
-
-(rendeletben határozza meg.)
-
-(3)
-
-(4)
+#### 175. §
 
 #### 176. §
 

@@ -6,19 +6,13 @@ a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény
 
 [2] A fenti célokra figyelemmel az Országgyűlés a következő törvényt alkotja:
 
-1. § A Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény (a továbbiakban: Mötv.) 71. § (1) bekezdése helyébe a következő rendelkezés lép:
+#### 1. §
 
-„(1) A főpolgármester megbízatásának időtartamára havonta a (4a) bekezdés szerinti, a Központi Statisztikai Hivatal által hivatalosan közzétett, a 2024. évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset (a továbbiakban: nemzetgazdasági átlagkereset) hatszorosának megfelelő összegű illetményre, továbbá a minisztert jogszabály alapján megillető egyéb juttatásokra jogosult.”
+#### 2. §
 
-2. § Az Mötv. 71. § (3) bekezdése helyébe a következő rendelkezés lép:
+#### 3. §
 
-„(3) A vármegyei önkormányzat közgyűlésének elnöke megbízatásának időtartamára havonta a nemzetgazdasági átlagkereset kétszeresének megfelelő összegű illetményre jogosult.”
-
-3. § Az Mötv. 71. § (4a) bekezdése helyébe a következő rendelkezés lép:
-
-„(4a) A főpolgármester, a megyei jogú város polgármestere, a fővárosi kerületi önkormányzat polgármestere, a vármegyei önkormányzat közgyűlésének elnöke, a polgármester (e bekezdés alkalmazásában a továbbiakban együtt: polgármester) illetményének számításánál a 2024. évnek a január első napjától december utolsó napjáig tartó időszakára vonatkozó, a legalább 5 főt foglalkoztató vállalkozásoknál, a költségvetési intézményeknél és a foglalkoztatás szempontjából jelentős nonprofit szervezeteknél teljes munkaidőben alkalmazásban állók bruttó átlagkeresetére vonatkozóan a nemzetgazdasági átlagkeresetet kell alapul venni.”
-
-4. § Hatályát veszti az Mötv. 71. § (6) bekezdése és a 80. § (3) bekezdése.
+#### 4. §
 
 5. § Ez a törvény 2026. július 1-jén lép hatályba.
 

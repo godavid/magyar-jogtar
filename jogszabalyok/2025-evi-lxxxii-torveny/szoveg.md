@@ -20,17 +20,13 @@ egyes törvényeknek a szőlő- és bortermelők adminisztrációs terheinek cs�
 
 #### 2. A Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamaráról szóló 2012. évi CXXVI. törvény módosítása
 
-2. § A Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamaráról szóló 2012. évi CXXVI. törvény 16/A. §-a helyébe a következő rendelkezés lép:
-
-„16/A. § A borászati termékek kivételével az agrárkamara állítja ki, illetve hitelesíti a mezőgazdasági termékek és élelmiszerek vonatkozásában az Uniós Vámkódex létrehozásáról szóló, 2013. október 9-i 952/2013/EU európai parlamenti és tanácsi rendelet szerinti származási igazolásokat, bizonyítványokat és kereskedelmi forgalomban szükséges más okmányokat.”
+#### 2. §
 
 #### 3. A szőlészetről és borászatról szóló 2020. évi CLXIII. törvény módosítása
 
 #### 3. §
 
-4. § A Btv. 10. §-a a következő (3) bekezdéssel egészül ki:
-
-„(3) Az Európai Gazdasági Térségen kívüli országba kiszállítandó borászati termékek vonatkozásában a hegybíró állítja ki, illetve hitelesíti az Uniós Vámkódex létrehozásáról szóló, 2013. október 9-i 952/2013/EU európai parlamenti és tanácsi rendelet szerinti származási igazolásokat, bizonyítványokat és kereskedelmi forgalomban szükséges más okmányokat.”
+#### 4. §
 
 #### 5. §
 

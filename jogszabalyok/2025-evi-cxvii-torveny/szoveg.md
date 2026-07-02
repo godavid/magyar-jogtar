@@ -76,61 +76,17 @@ a Polgári Törvénykönyvről szóló 2013. évi V. törvény és egyes kapcsol
 
 #### 24. §
 
-25. § (1) Az Üttv. 47. § (1) bekezdése helyébe a következő rendelkezés lép:
+#### 25. §
 
-„(1) Az ügyvéd, az ügyvédi iroda és az európai közösségi jogász (ezen alcím alkalmazásában a továbbiakban együtt: ügyvéd)
+#### 26. §
 
-- a) a megbízás teljesítéseként,
-- b) a megbízáshoz kapcsolódó eljárási cselekmények költségének teljesítésére,
-- c) a megbízáshoz kapcsolódóan megőrzésre, vagy
-- d) a 28. § (3) bekezdése alapján átvett
+#### 27. §
 
-pénzt, készpénz-helyettesítő fizetési eszközt, utalványt, értékpapírt vagy más okiratot, továbbá egyéb dolgot vehet át, őrizhet és kezelhet letétként.”
+#### 28. §
 
-(2) Az Üttv. 47. § (2) bekezdése helyébe a következő rendelkezés lép:
+#### 29. §
 
-„(2) A letéti szerződést írásba kell foglalni. Az 51. § (1) bekezdés szerinti letét esetében a szerződés akkor hatályosul, amikor a letét-bejelentés alapján a területi kamara által küldött, a letéthez rendelt egyedi azonosító számot és a letéti nyilvántartásba bejelentett elkülönített letéti számla vagy alszámla számát tartalmazó elektronikus visszaigazolást az ügyvéd a letevővel közölte.”
-
-(3) Az Üttv. 47. §-a a következő (4a) bekezdéssel egészül ki:
-
-„(4a) Az (1) bekezdés d) pontja alapján kezelt letét esetében külön letéti szerződést nem kell kötni.”
-
-26. § (1) Az Üttv. 48. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Az ügyvéd a letétet a letét céljától eltérően nem használhatja, azt nem hasznosíthatja, továbbá azt más személy birtokába vagy őrizetébe e törvény eltérő rendelkezése hiányában nem adhatja.”
-
-(2) Az Üttv. 48. §-a a következő (3) bekezdéssel egészül ki:
-
-„(3) Nem minősül a letét céljától eltérő hasznosításnak, ha az ügyvéd a letéti szerződés rendelkezése alapján a letett összegből a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló törvényben meghatározott állampapírt (a továbbiakban: állampapír) vásárol, és azt veszi letétbe, feltéve, hogy a letéti szerződés teljesítését ez nem veszélyezteti és jogosult kifejezetten hozzájárul. Az állampapír-vásárlással és -visszaváltással kapcsolatos költségek a letéti szerződés eltérő rendelkezése hiányában a letevőt terhelik, a letett összeg terhére e költségek nem számolhatók el. Az állampapír vásárlásához az állampapír típusa, illetve besorolása megjelölésével a letevő írásban járul hozzá.”
-
-(3) Az Üttv. 48. §-a a következő (4) bekezdéssel egészül ki:
-
-„(4) A letéti szerződésben a felek abban is megállapodhatnak, hogy az ügyvéd a pénzletétet az ügyfél megbízásából letétkezelés céljára szolgáló betétszámláján helyezi el, és azt lekötheti. Az ügyvédi letét betétszámlán való kezelésének kockázatairól, az Országos Betétbiztosítási Alap által nyújtott biztosításról és a kártalanítás összeghatáráról szóló tájékoztatást és az ügyfél, valamint a jogosult kifejezett hozzájáruló nyilatkozatát a letéti szerződés tartalmazza.”
-
-27. § (1) Az Üttv. 49. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az ügyvéd a pénzt, illetve a dematerializált értékpapírt minden más pénzeszközétől és értékpapírjától elkülönítve, letéti számláján, illetve értékpapírszámláján kezeli. Az ügyvéd
-
-- a) a pénzt, illetve a dematerializált értékpapírt – a költségletét kivételével – letétenként elkülönített számlán vagy alszámlán köteles kezelni, valamint
-- b) a letevő erre irányuló kérelme esetén a letevő költségére biztosítja, hogy a letevő az a) pont szerinti elkülönített számla vagy alszámla egyenlegéről a számlavezetőtől közvetlenül tájékoztatást kapjon.”
-
-(2) Az Üttv. 49. §-a a következő (1a) bekezdéssel egészül ki:
-
-„(1a) A költségletétet az ügyvéd a költségletétek kezelésére szolgáló letéti számlán vagy alszámlán kezelheti, és azt ilyen típusú számlaként a letéti nyilvántartásba köteles bejelenteni.”
-
-28. § Az Üttv. 49. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) Materializált formában létrehozott készpénz-helyettesítő fizetési eszköz vagy utalvány, nyomdai úton előállított értékpapír, valamint más papíralapú okirat széfszolgáltatás igénybevételével is őrizhető. A 48. § (3) bekezdése alapján vásárolt nyomdai úton előállított állampapír kezelésének követelményeit kamarai szabályzat állapítja meg.”
-
-29. § Az Üttv. 51. § (2) bekezdés e) pontja helyébe a következő rendelkezés lép:
-
-(Az elektronikus letéti nyilvántartásban rögzíteni kell)
-
-„e) a költségletét kivételével, az elkülönített számla vagy alszámla számát,”
-
-30. § Az Üttv. 51. §-a a következő (3a) bekezdéssel egészül ki:
-
-„(3a) Az ügyvédi letét bankszámlán való kezelésének feltétele, hogy az (1) bekezdés szerinti letét-bejelentés megtörténtét a területi kamara a letéthez rendelt egyedi azonosító szám és az elkülönített letéti számla vagy alszámla számának a megküldésével együtt elektronikusan visszaigazolja és a visszaigazolást az ügyvéd a letevővel közölje.”
+#### 30. §
 
 #### 31. §
 
@@ -150,16 +106,9 @@ pénzt, készpénz-helyettesítő fizetési eszközt, utalványt, értékpapírt
 
 #### 39. §
 
-40. § Az Üttv. 91. alcíme a következő 208/H. §-sal egészül ki:
+#### 40. §
 
-„208/H. § A Polgári Törvénykönyvről szóló 2013. évi V. törvény és egyes kapcsolódó törvények módosításáról szóló 2025. évi CXVII. törvénnyel megállapított 47. § (1), (2) és (4a) bekezdését, 48. § (2)–(4) bekezdését, 49. § (1), (1a) és (4) bekezdését, valamint az 51. § (2) bekezdés e) és g) pontját és (3a) bekezdését a 2026. július 1-jén és azt követően megkötött vagy módosított ügyvédi letéti szerződésekre kell alkalmazni.”
-
-41. § Az Üttv.
-
-- a) 51. § (2) bekezdés g) pontjában az „a dátumát” szövegrész helyébe az „a dátumát, a 47. § (1) bekezdés d) pontja szerinti letét esetében az átvétel idejét, az átvett pénz összegét, az átvétel jogcímét, valamint az átvett pénz megbízó részére történő átadásának időpontját” szöveg,
-- b)
-
-lép.
+#### 41. §
 
 #### 5. Záró rendelkezések
 
