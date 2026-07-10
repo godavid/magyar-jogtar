@@ -823,6 +823,23 @@ formájában teljesíti.
 
 (5)
 
+56/A. § (1) A szabályozott információkat – ide nem értve a befolyásszerzés körébe tartozókat – a kibocsátó vagy a szabályozott piacra történő bevezetést a kibocsátó hozzájárulása nélkül kérelmező személy a nyilvánosságra hozatallal egyidejűleg benyújtja a pénzügyi szolgáltatások, a tőkepiacok és a fenntarthatóság szempontjából lényeges, nyilvánosan elérhető információkhoz központosított hozzáférést biztosító egységes európai hozzáférési pont létrehozásáról szóló, 2023. december 13-i (EU) 2023/2859 európai tanácsi és parlamenti rendelet [a továbbiakban: (EU) 2023/2859 európai parlamenti és tanácsi rendelet] 2. cikk 2. pontjában meghatározott gyűjtőszervezetnek, az információknak az (EU) 2023/2859 európai tanácsi és parlamenti rendelet alapján létrehozott egységes európai hozzáférési ponton való hozzáférhetővé tétele céljából.
+
+(2) Az (1) bekezdésben szereplő információk megfelelnek az (EU) 2023/2859 európai tanácsi és parlamenti rendelet 5. cikk (1) bekezdés c) pont i) alpont szerinti formai követelményeknek.
+
+(3) Az (1) bekezdésben szereplő információkat az alábbi, (EU) 2023/2859 európai tanácsi és parlamenti rendelet szerinti metaadatok kísérik:
+
+- a) a kibocsátó valamennyi neve, amelyre az információk vonatkoznak,
+- b) (EU) 2023/2859 európai tanácsi és parlamenti rendelet 7. cikk (4) bekezdés b)–c) pontjában meghatározott metaadatok,
+- c) (EU) 2023/2859 európai tanácsi és parlamenti rendelet 7. cikk (4) bekezdés d) és e) pontjában meghatározott metaadatok és
+- d) annak megjelölése, hogy az információ tartalmaz-e (EU) 2023/2859 európai tanácsi és parlamenti rendelet szerinti személyes adatokat.
+
+(4) Az (3) bekezdés b) pontjának alkalmazásával összefüggésben a kibocsátó egyedi jogalany-azonosító kódot (LEI) szerez be.
+
+(5) Az (1) bekezdés szerinti információknak az egységes európai hozzáférési ponton való hozzáférhetővé tétele céljából gyűjtőszervezetként az 56. § (3) bekezdés szerinti információtárolási rendszer jár el.
+
+(6) Amennyiben az e szakaszban megjelölt információk azonosak az 56. § (4) bekezdés szerint bejelentendő információkkal, akkor az 56. § (4) bekezdés szerinti információk bejelentése teljesítettnek tekinthető.
+
 57. § (1) A szabályozott információk nyilvánosságra hozatalának elmaradásával, illetve félrevezető tartalmával okozott kár megtérítéséért a kibocsátó felel.
 
 (2) Ha a kibocsátóról olyan valótlan adat kerül nyilvánosságra, amely az általa kibocsátott értékpapír értékét vagy hozamát érintheti, köteles a valóságnak megfelelő adatok haladéktalan nyilvánosságra hozatalára. A kibocsátó nyilatkozatát az 56. §-ban meghatározott módon és a valótlan adat megjelenésének helyén is közzé kell tenni.
@@ -5020,5 +5037,7 @@ Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálj
 - 34. A pénzügyi ágazat digitális működési rezilienciája tekintetében a 2009/65/EK, a 2009/138/EK, a 2011/61/EU, a 2013/36/EU, a 2014/59/EU, a 2014/65/EU, az (EU) 2015/2366 és az (EU) 2016/2341 irányelv módosításáról szóló, 2022. december 14-i (EU) 2022/2556 európai parlamenti és tanácsi irányelv.
 - 35. A pénzügyi ágazat digitális működési rezilienciájáról, valamint az 1060/2009/EK, a 648/2012/EU, a 600/2014/EU, a 909/2014/EU és az (EU) 2016/1011 rendelet módosításáról szóló, 2022. december 14-i (EU) 2022/2554 európai parlamenti és tanácsi rendelet.
 - 36. A pénzügyi eszközök piacairól szóló 2014/65/EU irányelv módosításáról szóló, 2024. február 28-i (EU) 2024/790 európai parlamenti és tanácsi irányelv.
+- 37. Az egyes irányelveknek az egységes európai hozzáférési pont létrehozása és működése tekintetében történő módosításáról szóló, 2023. december 13-i (EU) 2023/2864 európai parlamenti és tanácsi irányelv.
+- 38. A pénzügyi szolgáltatások, a tőkepiacok és a fenntarthatóság szempontjából lényeges, nyilvánosan elérhető információkhoz központosított hozzáférést biztosító egységes európai hozzáférési pont létrehozásáról szóló, 2023. december 13-i (EU) 2023/2859 európai tanácsi és parlamenti rendelet.
 
 ### 26. számú melléklet a 2001. évi CXX. törvényhez

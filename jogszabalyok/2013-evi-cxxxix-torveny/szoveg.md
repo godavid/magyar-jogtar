@@ -726,6 +726,8 @@ hatálya alá tartozó szervezetek, személyek és tevékenységek felügyeleté
 
 (43) Az MNB a 39. §-ban meghatározott feladatai során ellátja a pénzügyi ágazat digitális működési rezilienciájáról, valamint az 1060/2009/EK, a 648/2012/EU, a 600/2014/EU, a 909/2014/EU és az (EU) 2016/1011 rendelet módosításáról szóló, 2022. december 14-i (EU) 2022/2554 európai parlamenti és tanácsi rendelet végrehajtását.
 
+(44) Az MNB a 4. § (9) bekezdésében meghatározott feladatkörében ellátja a pénzügyi szolgáltatások, a tőkepiacok és a fenntarthatóság szempontjából lényeges, nyilvánosan elérhető információkhoz központosított hozzáférést biztosító egységes európai hozzáférési pont létrehozásáról szóló, 2023. december 13-i (EU) 2023/2859 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2023/2859 európai parlamenti és tanácsi rendelet] végrehajtásával kapcsolatos feladatokat, ideértve a gyűjtőszervezeti funkció ellátását, ha jogszabály eltérően nem rendelkezik.
+
 (45) Az MNB a 39. §-ban meghatározott feladatai során ellátja a mesterséges intelligenciára vonatkozó harmonizált szabályok megállapításáról, valamint a 300/2008/EK, a 167/2013/EU, a 168/2013/EU, az (EU) 2018/858, az (EU) 2018/1139 és az (EU) 2019/2144 rendelet, továbbá a 2014/90/EU, az (EU) 2016/797 és az (EU) 2020/1828 irányelv módosításáról szóló, 2024. június 13-i (EU) 2024/1689 európai parlamenti és tanácsi rendelet 74. cikk (6) bekezdése szerinti piacfelügyeleti tevékenység végrehajtását.
 
 41. § (1) Az MNB látja el a 4. § (9) bekezdésében meghatározott feladatkörében a fogyasztóvédelmi jogszabályok végrehajtásáért felelős nemzeti hatóságok közötti együttműködésről és a 2006/2004/EK rendelet hatályon kívül helyezéséről szóló, 2017. december 12-i (EU) 2017/2394 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2017/2394 rendelet] végrehajtását
@@ -2702,6 +2704,10 @@ terjedhet.
 
 azzal, hogy az elutasítás tényéről és indokáról a Felügyelet részletes tájékoztatást ad a megkeresést küldő EGT-állam illetékes felügyeleti hatóságának.
 
+140/A. § (1) A Felügyelet az (EU) 2023/2859 európai parlamenti és tanácsi rendeletnek megfelelően, az adatok kinyerésére alkalmas formátumban, hozzáférhetővé tesz a Tpt. rendszeres és rendkívüli tájékoztatásra vonatkozó szabályai megsértése esetén alkalmazott szankciókra és intézkedésekre vonatkozó minden határozatot az egységes európai hozzáférési ponton.
+
+(2) Az (1) bekezdésben meghatározott információkat a Tpt. 56/A. § (3) bekezdés a)–b) és d) pontjai szerinti metaadatok kísérik.
+
 141. § (1) Az MNB a magyarországi székhelyű hitelintézetek és befektetési vállalkozások Hpt. és Bszt. szerinti javadalmazási politikájával kapcsolatban jogszabály alapján nyilvánosságra hozott adatokat, valamint a nemek közötti bérkülönbségről általuk szolgáltatott információkat a javadalmazási trendek értékelése céljából gyűjti. Az MNB ezt az információt megküldi az Európai Bankhatóságnak.
 
 (2) Az MNB a magyarországi székhelyű hitelintézetek és befektetési vállalkozások esetében a külön jogszabályban meghatározott javadalmazási politika elemzése céljából információt gyűjt azon vezető tisztségviselők és munkavállalók számáról, akik évi 300 millió forintos vagy afölötti javadalmazási kategóriában helyezkednek el, kiegészítve munkaköri feladataikkal, az érintett üzletággal, valamint a javadalmazás fő elemeivel, a teljesítményjavadalmazásokkal, a hosszú távú juttatásokkal és a nyugdíjjuttatásokkal. A befektetési vállalkozás a Felügyelet kérésére annak rendelkezésére bocsátja a vezető testület minden tagja vagy az ügyvezető teljes javadalmazására vonatkozó adatokat. Az MNB ezen információkat továbbítja az Európai Bankhatóságnak.
@@ -3483,6 +3489,7 @@ azzal, hogy 2019. január 1-jétől az anticiklikus tőkepufferrátát a 33. §-
 - 24. a hitelgondozókról és a hitelfelvásárlókról, valamint a 2008/48/EK és a 2014/17/EU irányelv módosításáról szóló, 2021. november 24-i (EU) 2021/2167 európai parlamenti és tanácsi irányelvnek
 - 26. a 2011/61/EU és a 2009/65/EK irányelvnek az átruházásra vonatkozó megállapodások, a likviditásikockázat-kezelés, a felügyeleti jelentéstétel, a letétkezelői és letéti őrzési szolgáltatások nyújtása, valamint az alternatív befektetési alapok általi hitelnyújtás tekintetében történő módosításáról szóló, 2024. március 13-i (EU) 2024/927 európai parlamenti és tanácsi irányelvnek
 - 28. a 2011/83/EU irányelvnek a távollévők között kötött pénzügyi szolgáltatási szerződések tekintetében történő módosításáról és a 2002/65/EK irányelv hatályon kívül helyezéséről szóló, 2023. november 22-i (EU) 2023/2673 európai parlamenti és tanácsi irányelvnek
+- 25. egyes irányelveknek az egységes európai hozzáférési pont létrehozása és működése tekintetében történő módosításáról szóló, 2023. december 13-i (EU) 2023/2864 európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.
 
@@ -3557,6 +3564,7 @@ végrehajtásához szükséges rendelkezéseket állapítja meg az MNB feladatk�
 - 25. (41) bekezdése a kriptoeszközök piacairól, valamint az 1093/2010/EU és az 1095/2010/EU rendelet, továbbá a 2013/36/EU és az (EU) 2019/1937 irányelv módosításáról szóló 2023. május 31-i (EU) 2023/1114 európai parlamenti és tanácsi rendelet
 - 26. (42) bekezdése az európai zöldkötvényekről és a környezeti szempontból fenntarthatóként forgalmazott kötvényekre és a fenntarthatósághoz kapcsolódó kötvényekre vonatkozó opcionális közzétételekről szóló, 2023. november 22-i (EU) 2023/2631 európai parlamenti és tanácsi rendelet,
 - 27. (43) bekezdése a pénzügyi ágazat digitális működési rezilienciájáról, valamint az 1060/2009/EK, a 648/2012/EU, a 600/2014/EU, a 909/2014/EU és az (EU) 2016/1011 rendelet módosításáról szóló, 2022. december 14-i (EU) 2022/2554 európai parlamenti és tanácsi rendelet
+- 28. (44) bekezdése a pénzügyi szolgáltatások, a tőkepiacok és a fenntarthatóság szempontjából lényeges, nyilvánosan elérhető információkhoz központosított hozzáférést biztosító egységes európai hozzáférési pont létrehozásáról szóló, 2023. december 13-i (EU) 2023/2859 európai parlamenti és tanácsi rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg az MNB feladatkörében és eljárásában.
 
