@@ -24,9 +24,7 @@ az államháztartásról szóló 2011. évi CXCV. törvény, valamint a Magyar N
 
 #### 6. §
 
-7. § A Mnbtv. 40. §-a a következő (44) bekezdéssel egészül ki:
-
-„(44) Az MNB a 4. § (9) bekezdésében meghatározott feladatkörében ellátja a pénzügyi szolgáltatások, a tőkepiacok és a fenntarthatóság szempontjából lényeges, nyilvánosan elérhető információkhoz központosított hozzáférést biztosító egységes európai hozzáférési pont létrehozásáról szóló, 2023. december 13-i (EU) 2023/2859 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2023/2859 európai parlamenti és tanácsi rendelet] végrehajtásával kapcsolatos feladatokat, ideértve a gyűjtőszervezeti funkció ellátását, ha jogszabály eltérően nem rendelkezik.”
+#### 7. §
 
 #### 8. §
 
@@ -44,11 +42,7 @@ az államháztartásról szóló 2011. évi CXCV. törvény, valamint a Magyar N
 
 #### 15. §
 
-16. § Az Mnbtv. a következő 140/A. §-sal egészül ki:
-
-„140/A. § (1) A Felügyelet az (EU) 2023/2859 európai parlamenti és tanácsi rendeletnek megfelelően, az adatok kinyerésére alkalmas formátumban, hozzáférhetővé tesz a Tpt. rendszeres és rendkívüli tájékoztatásra vonatkozó szabályai megsértése esetén alkalmazott szankciókra és intézkedésekre vonatkozó minden határozatot az egységes európai hozzáférési ponton.
-
-(2) Az (1) bekezdésben meghatározott információkat a Tpt. 56/A. § (3) bekezdés a)–b) és d) pontjai szerinti metaadatok kísérik.”
+#### 16. §
 
 #### 17. §
 
@@ -58,21 +52,9 @@ az államháztartásról szóló 2011. évi CXCV. törvény, valamint a Magyar N
 
 #### 20. §
 
-21. § Az Mnbtv. 185. §-a a következő 25. ponttal egészül ki:
+#### 21. §
 
-(Ez a törvény)
-
-„25. egyes irányelveknek az egységes európai hozzáférési pont létrehozása és működése tekintetében történő módosításáról szóló, 2023. december 13-i (EU) 2023/2864 európai parlamenti és tanácsi irányelvnek”
-
-(való megfelelést szolgálja.)
-
-22. § Az Mnbtv. 186. § (5) bekezdése a következő 28. ponttal egészül ki:
-
-(A 40. §)
-
-„28. (44) bekezdése a pénzügyi szolgáltatások, a tőkepiacok és a fenntarthatóság szempontjából lényeges, nyilvánosan elérhető információkhoz központosított hozzáférést biztosító egységes európai hozzáférési pont létrehozásáról szóló, 2023. december 13-i (EU) 2023/2859 európai parlamenti és tanácsi rendelet”
-
-(végrehajtásához szükséges rendelkezéseket állapít meg az MNB feladatkörében és eljárásában.)
+#### 22. §
 
 #### 23. §
 

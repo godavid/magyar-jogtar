@@ -3017,6 +3017,10 @@ együttes összege azzal, hogy annak az érintettnek, akinek a havi illetménye,
 
 (6) Az (1) bekezdés alapján történő vagyonjuttatást úgy kell tekinteni, hogy az az általános forgalmi adóról szóló 2007. évi CXXVII. törvény 17. § (1) bekezdésében meghatározott feltételek szerinti juttatással esik egy tekintet alá.
 
+#### 163/A. § [Átmeneti rendelkezés a teljesítményértékelés szabályainak alkalmazásához]
+
+A 2025/2026. tanév, óvoda esetében az ugyanezen időszakra eső nevelési év során a 98. § (3) bekezdése szerinti teljesítményértékelést a munkáltató nem folytatja le.
+
 #### 26. Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 
 #### 164. § [Sarkalatossági záradék]
