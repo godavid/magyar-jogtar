@@ -1942,7 +1942,7 @@ Ha az adózó adózásával összefüggésben olyan valótlan tényt, adatot vag
 - m) a pénztárgép forgalmazót, valamint a mobilszolgáltatót, ha a tájékoztatás a pénztárgép és az állami adó- és vámhatóság szervere közötti kommunikáció fenntartásával, a pénztárgép által történő adatszolgáltatás küldésének biztosításával összefüggő, jogszabályban előírt kötelezettség teljesítéséhez szükséges;
 - n) a közbeszerzési hatóságot, ha a tájékoztatás a törvényben meghatározott feladata ellátásához szükséges.
 - o) a hulladékgazdálkodási hatóságot, ha a tájékoztatás törvényben meghatározott feladata ellátásához szükséges.
-- p) a Szuverenitásvédelmi Hivatalt, ha a tájékoztatás a törvényben meghatározott feladata ellátásához szükséges.
+- p)
 - q) a Magyar Energetikai és Közmű-szabályozási Hivatalt, ha a tájékoztatás a törvényben meghatározott feladata ellátásához szükséges.
 - r) a Nemzeti Adó- és Vámhivatal szabálysértési hatóságként eljáró szervét a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény 56/A. § (2) bekezdése szerinti megkeresés alapján.
 
