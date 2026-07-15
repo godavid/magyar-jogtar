@@ -823,7 +823,7 @@ utasíthat.
 - 21. a Nemzeti Választási Iroda elnöke, elnökhelyettese
 - 22. az Integritás Hatóság elnöke, elnökhelyettese
 - 23. az Európai Támogatásokat Auditáló Főigazgatóság főigazgatója, főigazgató-helyettese
-- 24. a Szuverenitásvédelmi Hivatal elnöke, elnökhelyettese
+- 24.
 
 részére a közjogi tisztség betöltésének igazolása céljából igazolványt (a továbbiakban: közjogi tisztségviselői igazolvány) állít ki.
 
@@ -1156,7 +1156,7 @@ megegyező mértékben csökkentheti.
 - j) a Médiatanács elnökének és négy tagjának megválasztásához a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény 124. § (1) bekezdésében foglaltak szerint,
 - k) a Médiatanács elnökének megválasztásához a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény 125. § (3) bekezdésében meghatározott esetben,
 - l) a Médiatanács elnöke vagy tagja összeférhetetlenségéről, felmentéséről vagy kizárásáról való döntéshez a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény 129. § (7) bekezdésében meghatározott esetben,
-- m) a Szuverenitásvédelmi Hivatal elnöke mentelmi jogának felfüggesztéséhez a nemzeti szuverenitás védelméről szóló 2023. évi LXXXVIII. törvény 15. § (6) bekezdésében foglaltak szerint,
+- m)
 - n)
 - o)
 - p) alapítvány létrehozásához a pártok működéséről és gazdálkodásáról szóló 1989. évi XXXIII. törvény 8. § (1) bekezdésében foglalt esetben,

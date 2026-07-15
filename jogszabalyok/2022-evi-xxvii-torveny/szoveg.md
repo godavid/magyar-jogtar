@@ -818,7 +818,7 @@ sarkalatosnak minősül.
 - a) a) pontja az Alaptörvény 12. cikk (5) bekezdése alapján,
 - b) b) pontja az Alaptörvény 4. cikk (2) és (5) bekezdése alapján,
 - c) c) pontja az Alaptörvény 25. cikk (8) bekezdése, valamint 26. cikk (1) és (2) bekezdése alapján
-- d) e) pontja az Alaptörvény R) cikk (4) bekezdése alapján
+- d)
 
 sarkalatosnak minősül.
 

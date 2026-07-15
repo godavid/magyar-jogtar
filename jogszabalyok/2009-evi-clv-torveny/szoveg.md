@@ -287,7 +287,7 @@ biztonsági feltételeket.
 
 – az Nbtv.-ben meghatározott – nemzetbiztonsági ellenőrzés (a továbbiakban: nemzetbiztonsági ellenőrzés), személyi biztonsági tanúsítvány, valamint titoktartási nyilatkozat nélkül jogosult a feladat- és hatáskörébe tartozó minősített adatra vonatkozó állami vagy közfeladat végrehajtása érdekében történő ügyintézésre, feldolgozásra, valamint a minősített adat nyilvántartásával kapcsolatos valamennyi tevékenységre.
 
-(3a) Törvényben meghatározott feladatai ellátásához a Szuverenitásvédelmi Hivatal elnöke és elnökhelyettese személyi biztonsági tanúsítvány, valamint titoktartási nyilatkozat nélkül jogosultak a feladat- és hatáskörükbe tartozó minősített adat felhasználására.
+(3a)
 
 (4)
 

@@ -32,8 +32,8 @@ Az Országgyűlés a kormányzati szervezetrendszer működésének hatékonyabb
 - c) a Gazdasági Versenyhivatal,
 - d) a Nemzeti Adatvédelmi és Információszabadság Hatóság,
 - e) a Nemzeti Választási Iroda,
-- f) az Európai Támogatásokat Auditáló Főigazgatóság, és
-- g) a Szuverenitásvédelmi Hivatal.
+- f) az Európai Támogatásokat Auditáló Főigazgatóság
+- g)
 
 (5) Rendvédelmi szerv
 

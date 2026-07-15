@@ -205,7 +205,7 @@ bűncselekményekre vonatkozóan, felderíti továbbá mindazon bűncselekménye
 - j) ellátja az utasadat-információs egység feladatait, e feladatkörében a rendelkezésére álló utasadatok és információk tekintetében elemző-értékelő tevékenység keretében kockázatelemzést végezhet;
 - k) koordinációs, elemző-értékelő tevékenységet végez, amely kiterjed az együttműködő szervek hatáskörébe és illetékességébe utalt valamennyi információra, valamint az 52/A. § (3) bekezdése szerinti megállapodásban meghatározott körben az ügyészség által folytatott titkos információgyűjtés, leplezetteszköz-alkalmazás, illetve büntetőeljárásról szóló törvényben meghatározott előkészítő eljárás és nyomozás keretében kezelt adatra, információra.
 
-(2) A Nemzeti Információs Központ a hírigény-teljesítéssel kapcsolatos feladata során a nemzeti szuverenitás védelméről szóló törvény szerinti feladatok ellátásának elősegítése céljából a hírigények kapcsán rendelkezésre álló, illetve aktuálisan keletkezett információk felhasználásával a Szuverenitásvédelmi Hivatal részére tájékoztató tevékenységet folytat.
+(2)
 
 (3) Az (1) bekezdés a) pontjában foglalt tevékenysége keretén belül a Nemzeti Információs Központ javaslatot tesz a nemzetbiztonsági szolgálatokat irányító miniszterek részére az időszerű feladatok meghatározására, valamint az együttműködő szervek számára információs igényeket fogalmaz meg.
 
