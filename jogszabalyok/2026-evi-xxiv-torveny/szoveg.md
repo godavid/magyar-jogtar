@@ -26,49 +26,39 @@ a Szuverenitásvédelmi Hivatal megszüntetéséről
 
 #### 2. A nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény módosítása
 
-2. § Hatályát veszti a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 8/A. § (2) bekezdése.
+#### 2. §
 
 #### 3. A minősített adat védelméről szóló 2009. évi CLV. törvény módosítása
 
-3. § Hatályát veszti a minősített adat védelméről szóló 2009. évi CLV. törvény 13. § (3a) bekezdése.
+#### 3. §
 
 #### 4. A központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény módosítása
 
-4. § Hatályát veszti a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 1. § (4) bekezdés
-
-- a) f) pontjában az „ , és” szövegrész, és
-- b) g) pontja.
+#### 4. §
 
 #### 5. Az államháztartásról szóló 2011. évi CXCV. törvény módosítása
 
-5. § Az államháztartásról szóló 2011. évi CXCV. törvény 1. § 11. pontjában az „Integritás Hatóság, az Európai Támogatásokat Auditáló Főigazgatóság és a Szuverenitásvédelmi Hivatal fejezetekhez” szövegrész helyébe az „Integritás Hatóság és az Európai Támogatásokat Auditáló Főigazgatóság fejezetekhez” szöveg lép.
+#### 5. §
 
 #### 6. Az Országgyűlésről szóló 2012. évi XXXVI. törvény módosítása
 
-6. § Hatályát veszti
-
-- a) az Országgyűlésről szóló 2012. évi XXXVI. törvény 44/A. § (1) bekezdés 24. pontja, és
-- b) az Országgyűlésről szóló 2012. évi XXXVI. törvény 61/A. § (2) bekezdés m) pontja.
+#### 6. §
 
 #### 7. Az adózás rendjéről szóló 2017. évi CL. törvény módosítása
 
-7. § Hatályát veszti az adózás rendjéről szóló 2017. évi CL. törvény 131. § (14) bekezdés p) pontja.
+#### 7. §
 
 #### 8. A különleges jogállású szervekről és az általuk foglalkoztatottak jogállásáról szóló 2019. évi CVII. törvény módosítása
 
-8. § (1) A különleges jogállású szervekről és az általuk foglalkoztatottak jogállásáról szóló 2019. évi CVII. törvény 98. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A Sándor-palota, az Alkotmánybíróság Hivatala, a Magyar Energetikai és Közmű-szabályozási Hivatal, a Nemzeti Média- és Hírközlési Hatóság, a Szabályozott Tevékenységek Felügyeleti Hatósága, a Gazdasági Versenyhivatal, az Országos Atomenergia Hivatal, az Integritás Hatóság, a Közbeszerzési Hatóság és az Európai Támogatásokat Auditáló Főigazgatóság köztisztviselőjének közszolgálati jogviszonya a különleges jogállású szerv mint munkáltató és a köztisztviselő mint foglalkoztatott között közszolgálati munkaszerződéssel jön létre.”
-
-(2) Hatályát veszti a különleges jogállású szervekről és az általuk foglalkoztatottak jogállásáról szóló 2019. évi CVII. törvény 2. § (1) bekezdés r) pontja.
+#### 8. §
 
 #### 9. Az európai uniós költségvetési források felhasználásának ellenőrzéséről szóló 2022. évi XXVII. törvény módosítása
 
-9. § Hatályát veszti az európai uniós költségvetési források felhasználásának ellenőrzéséről szóló 2022. évi XXVII. törvény 77/A. § (2) bekezdés d) pontja.
+#### 9. §
 
 #### 10. A nemzeti szuverenitás védelméről szóló 2023. évi LXXXVIII. törvény hatályon kívül helyezése
 
-10. § Hatályát veszti a nemzeti szuverenitás védelméről szóló 2023. évi LXXXVIII. törvény.
+#### 10. §
 
 #### 11. Záró rendelkezések
 
