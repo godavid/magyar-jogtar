@@ -412,7 +412,7 @@ ide nem értve a pénzügyi intézmény által kötött ilyen ügyleteket.
 - m) az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló 2013. évi LXVII. törvényben meghatározott úthasználati jogosultság megszerzésével összefüggő tevékenységet, valamint
 - n) a 3. § (1) bekezdés j) pontján kívüli pénzletét kezeléshez kapcsolódó szolgáltatást
 - o) elektronikuspénz-értékesítői tevékenységet,
-- p) hitelintézet esetén a vele szoros kapcsolatban álló vállalkozások számára szolgáltatások nyújtását
+- p) a vele szoros kapcsolatban álló vállalkozások számára szolgáltatások nyújtását
 - q) az általa vagy a vele szoros kapcsolatban álló vállalkozás által üzletszerűen végezhető szolgáltatás igénybevételét elősegítő elektronikus eljárás, eszköz ügyfele részére történő rendelkezésre bocsátására irányuló szolgáltatást,
 - r) hitelintézet esetén az (EU) 2019/1238 európai parlamenti és tanácsi rendelet szerinti, pénzügyi szolgáltatásnak, befektetési szolgáltatási tevékenységnek nem minősülő egyéni nyugdíjtermék szolgáltatást, illetve forgalmazást is
 - s) kriptoeszköz-szolgáltatást
@@ -2319,7 +2319,7 @@ kockázatot csak az e §-ban meghatározott feltételekkel vállalhat.
 - a) a szervezeti felépítését belső szabályzatban áttekinthetően rögzíti,
 - b) a felelősségi köröket, feladatokat egymástól elhatárolja és egyértelműen meghatározza,
 - c) a szervezeten belüli összeférhetetlenséget ellenőrzi, megelőzi és kiküszöböli,
-- d) hatékony eljárásokat alkalmaz azon kockázatok azonosítására, kezelésére, felügyeletére és jelentésére, amelyekkel rövid, közép- és hosszú távon szembesül vagy szembesülhet, ideértve az ESG-kockázatokat is,
+- d) hatékony eljárásokat alkalmaz azon kockázatok azonosítására, kezelésére, felügyeletére és jelentésére, amelyekkel rövid, közép- és hosszú távon szembesül vagy szembesülhet, ideértve a rövid, közép- és hosszú távú ESG-kockázatokat is, valamint a központi felekkel szembeni kitettségekből eredő koncentrációs kockázatokat, figyelembe véve a tőzsdén kívüli származtatott ügyletekről, a központi szerződő felekről és a kereskedési adattárakról szóló, 2012. július 4-ei 648/2012/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 648/2012/EU rendelet) 7a. cikkében meghatározott feltételeket,
 - e) a jogszabályoknak megfelelő belső kontroll mechanizmusokat, adminisztratív és számviteli eljárásokat, továbbá az (EU) 2022/2554 európai parlamenti és tanácsi rendeletnek megfelelően létrehozott és működtetett hálózati és információs rendszereket alkalmaz,
 - f) a hitelintézet a hatékony és eredményes kockázatkezeléssel összhangban álló, annak alkalmazását előmozdító, a 117–121. §-ban meghatározott elveknek megfelelő, valamint a hitelintézetek ESG-kockázatokra vonatkozó kockázatvállalási hajlandóságát is figyelembe vevő, a nemek szempontjából semleges javadalmazási politikát és gyakorlatot valósít meg,
 - g) elősegíti a szervezet zavartalan és eredményes működését, az intézménnyel szembeni bizalom fenntartását, a tulajdonosok és az ügyfelek intézménnyel összefüggő gazdasági érdekeinek és társadalmi céljainak védelmét.
@@ -2398,6 +2398,8 @@ kockázatot csak az e §-ban meghatározott feltételekkel vállalhat.
 
 (11) A hitelintézet az 575/2013/EU rendelet alapján tőkekövetelménnyel nem fedezett piaci kockázatokra vonatkozóan is megfelelő szintű belső tőkével rendelkezik.
 
+(12) A Felügyelet figyelemmel kíséri a hitelintézet által az (5) bekezdés b) pontja szerinti központi szerződő felekkel szembeni kitettségekből eredő koncentrációs kockázatok kezelésére alkalmazott gyakorlatok alakulását, beleértve a 109. § (2a) és (2b) bekezdéssel összhangban kidolgozott terveket, valamint üzleti modelljének a 648/2012/EU rendelet 7a. cikkében meghatározott követelményekhez való hozzáigazítása terén elért eredményeket.
+
 108/A. § (1) A hitelintézet a vállalatirányítási rendszereinek részeként megbízható stratégiákkal, szabályzatokkal, eljárásokkal és rendszerekkel rendelkezik az ESG-kockázatok rövid, közép- és hosszútávon történő azonosítására, mérésére, kezelésére és nyomon követésére.
 
 (2) Az (1) bekezdés szerinti stratégiák, szabályzatok, eljárások és rendszerek arányosak a hitelintézet üzleti modelljéhez és tevékenységi köréhez kapcsolódó ESG-kockázatok nagyságrendjével és összetettségével, valamint rövid és középtávú, továbbá egy legalább tíz éves, hosszú távú időhorizontot vesznek figyelembe.
@@ -2415,6 +2417,8 @@ kockázatot csak az e §-ban meghatározott feltételekkel vállalhat.
 (2c) A kis méretű és nem összetett hitelintézet irányítási jogkörrel rendelkező vezető testülete a (2a) és (2b) bekezdésben foglaltakat a Felügyelet döntése alapján – ide értve az alkalmazható mentességről vagy az egyszerűsített eljárásról szóló döntést is – arányosan alkalmazza.
 
 (3) A hitelintézet biztosítja megfelelő informatikai rendszer felállításával és működtetésével, hogy a vezető testület a vezetői információs rendszeren keresztül naprakész információkkal rendelkezzen a hitelintézet kockázatairól, kockázatkezelési politikájáról és azok változásairól.
+
+(4) A vezető testület konkrét terveket és számszerűsíthető célokat dolgoz ki a 648/2012/EU rendelet 7a. cikkében meghatározott követelményekkel összhangban egy vagy több EGT-állam számára rendszerszinten jelentős szolgáltatásokat nyújtó központi szerződő felekkel szembeni kitettségekből eredő koncentrációs kockázat nyomon követésére és kezelésére.
 
 110. § (1) A mérlegfőösszeg tekintetében legalább öt százalékos piaci részesedéssel rendelkező hitelintézet kockázatvállalási-kockázatkezelési bizottságot állít fel, amely folyamatosan figyelemmel kíséri a hitelintézet kockázatvállalási stratégiáját és kockázatvállalási hajlandóságát.
 
@@ -2840,7 +2844,7 @@ akkor a Felügyelet a kérelmet haladéktalanul továbbítja a pénzügyi intéz
 
 (4) Az (1)–(2) bekezdésben meghatározott tény vagy körülmény ellenőrzése érdekében a Felügyelet bármelyik érdekelt féltől törvény felhatalmazása alapján kezelhető adatot, illetve tájékoztatást kérhet.
 
-(5) Ha a befolyásoló részesedés megszerzésének feltételei már nem állnak fenn, a Felügyelet a jogellenes állapot megszüntetéséig vagy megszűnéséig, illetve a feltételek meglétének ismételt igazolásáig a tag szavazati jogának gyakorlását felfüggeszti.
+(5) Ha a befolyásoló részesedés megszerzésének feltételei már nem állnak fenn, a Felügyelet a jogellenes állapot megszüntetéséig vagy megszűnéséig, illetve a feltételek meglétének ismételt igazolásáig a tag szavazati jogának gyakorlását felfüggeszti és gondoskodik a leadott szavazatok érvénytelenségéről, vagy érvénytelenítésének lehetőségéről.
 
 (6) Ha pénzügyi intézmény tagja szavazati jogát törvény rendelkezése alapján nem gyakorolhatja, szavazati jogát a határozatképesség megállapításánál számításon kívül kell hagyni.
 
@@ -3610,7 +3614,7 @@ rendszeres figyelemmel kíséréséhez, ellenőrzési feladatainak ellátása é
 
 (4) Ha a Felügyelet dokumentumok vagy helyszíni ellenőrzés alapján szoros kapcsolatot állapít meg, összevont alapú felügyelet alá tartozónak minősíthet valamely magyarországi bejegyzésű hitelintézetet, és meghatározhatja, hogy valamely vállalkozásra az összevont alapú felügyelet kiterjed.
 
-(5) Az olyan hitelintézet, pénzügyi vállalkozás, befektetési vállalkozás és járulékos vállalkozás, amelyben az összevont alapú felügyelet alá tartozó hitelintézet vagy a pénzügyi holding társaság ellenőrző befolyással vagy részesedési viszonnyal rendelkezik – ha jogszabály másként nem rendelkezik –, az összevont alapú felügyelet alá tartozó hitelintézet vagy a pénzügyi holding társaság részére az összevont alapú felügyelet érdekében szükséges minden adatot és információt átad. Az olyan leányvállalat esetében, amely nem tartozik e törvény hatálya alá, az anyavállalat biztosítja, hogy a leányvállalat egyedi alapon eleget tegyen az e törvényben foglalt feltételeknek. Ezen egyedi adatot és információt az összevont alapú felügyelet alá tartozó hitelintézet vagy a pénzügyi holding társaság elkülönítetten – az adatvédelmi előírások betartásával – kezeli.
+(5) Az olyan hitelintézet, pénzügyi vállalkozás, befektetési vállalkozás és járulékos vállalkozás, amelyben az összevont alapú felügyelet alá tartozó hitelintézet vagy a pénzügyi holding társaság ellenőrző befolyással vagy részesedési viszonnyal rendelkezik – ha jogszabály másként nem rendelkezik –, az összevont alapú felügyelet alá tartozó hitelintézet vagy a pénzügyi holding társaság részére az összevont alapú felügyelet érdekében szükséges minden adatot és információt átad. Az olyan leányvállalat esetében, amely nem tartozik e törvény hatálya alá, az anyavállalat biztosítja, hogy a leányvállalat egyedi alapon megfeleljen az e törvényben foglalt feltételeknek. Ezen egyedi adatot és információt az összevont alapú felügyelet alá tartozó hitelintézet vagy a pénzügyi holding társaság elkülönítetten – az adatvédelmi előírások betartásával – kezeli.
 
 (6) Az olyan hitelintézettől, pénzügyi vállalkozástól, befektetési vállalkozástól és járulékos vállalkozástól, amelyben az összevont alapú felügyelet alá tartozó hitelintézet vagy a pénzügyi holding társaság ellenőrző befolyással vagy részesedési viszonnyal rendelkezik, a Felügyelet közvetlenül is kérhet az összevont alapú felügyelet érdekében szükségessé váló adatot és információt.
 
@@ -3657,7 +3661,7 @@ tekintetében a Felügyelet és az EU-szintű hitelintézeti anyavállalat vagy 
 
 (4) Ha az eljárásban résztvevő EGT-állam illetékes felügyeleti hatósága egyetértésének hiánya miatt a többoldalú eljárás eredménytelen, akkor a (3) bekezdésben rögzített határidőn belül az eljárásban résztvevő bármelyik EGT-állam illetékes felügyeleti hatósága kérésére a Felügyelet az EBH-val a többoldalú eljárás eredménytelensége vonatkozásában egyeztetést folytat, vagy saját kezdeményezésére egyeztetést folytathat. A (3) bekezdésben rögzített határidőn túl, valamint a határozat meghozatalát követően az ügy már nem terjeszthető az EBH elé.
 
-(5) Ha az eljárásban részt vevő EGT-állam felügyeleti hatósága egyetértésének hiánya miatt a többoldalú eljárás eredménytelen, a Felügyelet a többoldalú eljárás lezárultát követő tíz munkanapon belül, az eljárásban részt vevő valamennyi EGT-állam illetékes felügyeleti hatóságának a többoldalú eljárás során adott véleményére, elemzésére és fenntartására figyelemmel hozza meg a határozatát.
+(5) Ha az eljárásban részt vevő EGT-állam felügyeleti hatósága egyetértésének hiánya miatt a többoldalú eljárás eredménytelen, a Felügyelet a többoldalú eljárás lezárultát követően kellő időben, az eljárásban részt vevő valamennyi EGT-állam illetékes felügyeleti hatóságának a többoldalú eljárás során adott véleményére, elemzésére és fenntartására figyelemmel hozza meg a határozatát.
 
 (5a) Ha az (1) bekezdés szerinti határozatot a Felügyeletnek az EU-szintű hitelintézeti anyavállalat vagy EU-szintű pénzügyi holding társaság anyavállalat vagy EU-szintű vegyes pénzügyi holding társaság anyavállalat leányvállalatára hozza meg egyedi, vagy szubkonszolidált alapon, akkor határozatát az összevont alapú felügyeletet ellátó EGT-állam illetékes felügyeleti hatósága által kifejtett álláspontok és fenntartások figyelembevételét követően hozza meg.
 
@@ -3723,7 +3727,7 @@ megvizsgálja azzal, hogy az eljárásban részt vehet a b) pont szerinti illet�
 
 (2) Ha a magyarországi székhelyű hitelintézet anyavállalata tagállami pénzügyi holding társaság anyavállalat vagy EU-szintű pénzügyi holding társaság anyavállalat, vagy tagállami vegyes pénzügyi holding társaság anyavállalat, vagy EU-szintű vegyes pénzügyi holding társaság anyavállalat, akkor az összevont alapú felügyeletet a Felügyelet látja el.
 
-(3) Ha egy magyarországi székhelyű hitelintézet és egy más EGT-állam hitelintézete ugyanazon tagállami pénzügyi holding társaság anyavállalat vagy tagállami vegyes pénzügyi holding társaság anyavállalat, EU-szintű pénzügyi holding társaság vagy EU-szintű vegyes pénzügyi holding társaság anyavállalat leányvállalata, az összevont alapú felügyeletet a Felügyelet látja el, ha
+(3) Ha egy magyarországi székhelyű hitelintézet és egy más EGT-állam hitelintézete ugyanazon tagállami pénzügyi holding társaság anyavállalat vagy tagállami vegyes pénzügyi holding társaság anyavállalat, befektetési vállalkozás anyavállalat, EU-szintű befektetési vállalkozás anyavállalat, EU-szintű pénzügyi holding társaság vagy EU-szintű vegyes pénzügyi holding társaság anyavállalat leányvállalata, az összevont alapú felügyeletet a Felügyelet látja el, ha
 
 - a) a magyarországi székhellyel rendelkező hitelintézet a csoportban az egyetlen hitelintézet,
 - b) a magyarországi székhellyel rendelkező hitelintézet a legnagyobb mérlegfőösszeggel rendelkező hitelintézet a csoportban.
@@ -4081,6 +4085,8 @@ megvizsgálja azzal, hogy az eljárásban részt vehet a b) pont szerinti illet�
 - b) az esetleges tőkeemelésről szóló döntést korlátozó szabályzatainak felülvizsgálatára,
 - c) irányítási rendszerének felülvizsgálatára,
 - d) forrásbevonási stratégiájának a fő üzletágak, kritikus funkciók ellenálló képessége növelése érdekében történő felülvizsgálatára.
+
+(6) A Felügyelet előírhatja a hitelintézet számára, hogy egy központi szerződő féllel szembeni kitettségéből eredően túlzott koncentrációs kockázat fennállása esetén csökkentse az adott központi szerződő féllel szembeni kitettségét, vagy azokon a számlákon, amelyeken az elszámolások történnek, igazítsa ki a kitettségét a 648/2012/EU rendelet 7a. cikkével összhangban.
 
 186. § (1) A Felügyelet a hitelintézet számára abban az esetben ír elő többlettőke-követelményt, ha a felügyeleti felülvizsgálat és értékelés alapján az adott hitelintézet vonatkozásában a következő helyzetek valamelyikének fennállását állapította meg:
 
@@ -5507,9 +5513,9 @@ egyértelmű, közérthető és teljes körű írásbeli kimutatást (kivonatot)
 
 (2) Az (1) bekezdés szerint kijelölt fizetési rendszert működtető pénzügyi vállalkozás az általa üzemeltetett központi visszaélésszűrő rendszer útján a fizetési rendszer működtetése tevékenység keretében rendelkezésre álló, valamint a fizetési rendszerben részt vevő pénzforgalmi szolgáltatóktól jogszabály alapján átvett adatok elemzése alapján előállítja a fizetési művelettel kapcsolatos visszaélési kockázati információkat.
 
-(3) A fizetési rendszert működtető pénzügyi vállalkozás az általa üzemeltetett központi visszaélésszűrő rendszer útján azon, a fizetési rendszerben részt vevő pénzforgalmi szolgáltatók részére teszi elérhetővé a visszaélési kockázati információkat, amelyek az adott fizetési művelet teljesítésében mint a fizető fél pénzforgalmi szolgáltatója vettek részt. A fizetési rendszert működtető pénzügyi vállalkozás a kedvezményezett pénzforgalmi szolgáltató részére a visszaélési kockázati információkat nem teszi elérhetővé.
+(3) A fizetési rendszert működtető pénzügyi vállalkozás az általa üzemeltetett központi visszaélésszűrő rendszer útján azon, a fizetési rendszerben részt vevő pénzforgalmi szolgáltatók részére teszi elérhetővé a visszaélési kockázati információkat, amelyek az adott fizetési művelet teljesítésében mint a fizető fél pénzforgalmi szolgáltatója vettek részt. A fizetési rendszert működtető pénzügyi vállalkozás a kedvezményezett pénzforgalmi szolgáltató részére az azonnali átutaláshoz kapcsolódó visszaélési kockázati információkat a fizetési rendszer keretében teszi elérhetővé.
 
-(4) A fizetési rendszert működtető pénzügyi vállalkozás az általa üzemeltetett központi visszaélésszűrő rendszerben dolgozza fel és kezeli a fizetési rendszerben részt vevő pénzforgalmi szolgáltatók, illetve a nyomozó hatóság által törvény szerint átadott, a fizetési művelet kapcsán nyújtott visszaélési kockázati információhoz kapcsolódó csalás gyanújára vagy csalásra vonatkozó adatokat.
+(4) A fizetési rendszert működtető pénzügyi vállalkozás az általa üzemeltetett központi visszaélésszűrő rendszerben dolgozza fel és kezeli a fizetési rendszerben részt vevő pénzforgalmi szolgáltatók, illetve a nyomozó hatóság által törvény szerint átadott, a fizetési művelet kapcsán nyújtott visszaélési kockázati információhoz kapcsolódó csalás gyanújára, csalásra vagy ezek alaptalanságára vonatkozó adatokat.
 
 (5) A fizetési rendszert működtető pénzügyi vállalkozás a központi visszaélésszűrő rendszerben nyilvántartott adatokat kizárólag a fizetési műveletekkel kapcsolatos visszaélési kockázatok meghatározása, valamint az ezen fizetési műveletekkel kapcsolatos visszaélések felderítésének és megelőzésének támogatása céljából kezeli, továbbá megtesz minden olyan szabályozási, technikai és szervezeti intézkedést, amely az adatok fizikai és logikai védelmének biztosítása érdekében szükséges.
 
@@ -5948,6 +5954,7 @@ Qn= az érintett kvartilis sorszáma
   - r) az egyes irányelveknek az egységes európai hozzáférési pont létrehozása és működése tekintetében történő módosításáról szóló, 2023. december 13-i (EU) 2023/2864 európai parlamenti és tanácsi irányelvnek,
   - s) a fogyasztói hitelmegállapodásokról és a 2008/48/EK irányelv hatályon kívül helyezéséről szóló, 2023. október 18-i (EU) 2023/2225 európai parlamenti és tanácsi irányelvnek,
   - t) a 2013/36/EU irányelvnek a felügyeleti hatáskörök, a szankciók, a harmadik országbeli vállalathoz tartozó fióktelepek, valamint a környezeti, társadalmi és irányítási kockázatok tekintetében történő módosításáról szóló, 2024. május 31-i (EU) 2024/1619 európai parlamenti és tanácsi irányelvnek
+  - u) a 2009/65/EK, a 2013/36/EU és az (EU) 2019/2034 irányelvnek a központi szerződő felekkel szembeni kitettségekből eredő koncentrációs kockázat és a központilag elszámolt származtatott ügyletekkel kapcsolatos partnerkockázat kezelése tekintetében történő módosításáról szóló 2024. november 27-i (EU) 2024/2994 európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.
 
