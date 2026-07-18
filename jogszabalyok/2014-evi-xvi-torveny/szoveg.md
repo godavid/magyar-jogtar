@@ -152,6 +152,7 @@ a kollektív befektetési formákról és kezelőikről, valamint egyes pénzüg
 - 63. kollektív portfóliókezelés: a kollektív befektetési forma számára végzett befektetéskezelési tevékenység, valamint a kollektív befektetési forma létrehozatalához, működtetéséhez kapcsolódó feladatok ellátása;
 - 63a. kriptoeszköz-szolgáltatás: a kriptoeszközök piacairól, valamint az 1093/2010/EU és az 1095/2010/EU rendelet, továbbá a 2013/36/EU és az (EU) 2019/1937 irányelv módosításáról szóló, 2023. május 31-i (EU) 2023/1114 parlamenti és tanácsi rendeletben [a továbbiakban: (EU) 2023/1114 európai parlamenti és tanácsi rendelet] meghatározott fogalom,
 - 63b. központi értéktár: az Európai Unión belüli értékpapír-kiegyenlítés javításáról és a központi értéktárakról, valamint a 98/26/EK és a 2014/65/EU irányelv, valamint a 236/2012/EU rendelet módosításáról szóló 2014. július 23-i 909/2014/EU európai parlamenti és tanácsi rendelet 2. cikk (1) bekezdés 1. pontjában meghatározott fogalom;
+- 63c. központi szerződő fél: a Tpt.-ben meghatározott fogalom;
 - 64. különleges célú gazdasági egység: a Hpt.-ben meghatározott fogalom;
 - 65. lakossági befektető: nem szakmai befektetőnek minősülő befektető;
 - 66. leányvállalat: minden olyan vállalkozás, amelynek működésére egy másik vállalkozás ellenőrző befolyást gyakorol azzal, hogy a leányvállalat valamennyi leányvállalatát az anyavállalat leányvállalatának kell tekinteni;
@@ -245,7 +246,7 @@ a kollektív befektetési formákról és kezelőikről, valamint egyes pénzüg
   - bi) nyilvántartások vezetése;
 - c) kollektív befektetési értékpapír forgalmazása és az ÁÉKBV-alapkezelő által kezelt kollektív befektetési értékpapír forgalomba hozatala.
 
-(2) Az ÁÉKBV-alapkezelő a kollektív portfóliókezelési tevékenység mellett kizárólag az alábbi tevékenységeket végezheti rendszeres gazdasági tevékenysége keretében, az a)–c) pontban meghatározott tevékenységek esetén az adott tevékenységre előírt engedély birtokában és figyelemmel a (3) bekezdésre:
+(2) Az ÁÉKBV-alapkezelő a kollektív portfóliókezelési tevékenység mellett kizárólag az alábbi tevékenységeket végezheti rendszeres gazdasági tevékenysége keretében, az a)–d) pontban meghatározott tevékenységek esetén az adott tevékenységre előírt engedély birtokában és figyelemmel a (3) bekezdésre:
 
 - a) portfóliókezelés,
 - b) befektetési tanácsadás,
@@ -3659,6 +3660,7 @@ van összefüggésben.
 - i) az Európai Parlament és a Tanács 2021. december 15-i (EU) 2021/2261 irányelve a 2009/65/EK irányelvnek a kiemelt információkat tartalmazó dokumentumok átruházható értékpapírokkal foglalkozó kollektív befektetési vállalkozások (ÁÉKBV) alapkezelő társaságai általi használata tekintetében történő módosításáról.
 - j) az Európai Parlament és a Tanács (EU) 2022/2556 irányelve (2022. december 14.) a pénzügyi ágazat digitális működési rezilienciája tekintetében a 2009/65/EK, a 2009/138/EK. a 2011/61/EU, a 2013/36/EU, a 2014/59/EU, a 201465/EU, az (EU) 2015/2366 és az (EU) 2016/2341 irányelv módosításáról
 - k) Az Európai Parlament és a Tanács (EU) 2024/927 irányelve (2024. március 13.) a 2011/61/EU és a 2009/65/EK irányelvnek az átruházásra vonatkozó megállapodások, a likviditásikockázat-kezelés, a felügyeleti jelentéstétel, a letétkezelői és letéti őrzési szolgáltatások nyújtása, valamint az alternatív befektetési alapok általi hitelnyújtás tekintetében történő módosításáról.
+- m) a 2009/65/EK, a 2013/36/EU és az (EU) 2019/2034 irányelvnek a központi szerződő felekkel szembeni kitettségekből eredő koncentrációs kockázat és a központilag elszámolt származtatott ügyletekkel kapcsolatos partnerkockázat kezelése tekintetében történő módosításáról szóló, 2024. november 27-i (EU) 2024/2994 európai parlamenti és tanácsi irányelv.
 
 (2) E törvény
 

@@ -976,6 +976,7 @@ folytat le.
 
 - a) az MNB az eljárást felfüggesztheti, ha az ügyben külföldi szervet kell megkeresni,
 - b) az eljárás felfüggesztésének akkor is helye van, ha az ügy érdemi eldöntése olyan kérdés előzetes elbírálásától függ, amelyben az eljárás más szerv hatáskörébe tartozik, vagy az MNB-nek az adott üggyel szorosan összefüggő más hatósági döntése nélkül megalapozottan nem dönthető el.
+- c) folyamatban lévő büntetőeljárás esetén az MNB az adott cselekmény kapcsán a közigazgatási szankció kiszabását felfüggesztheti a büntetőeljárásnak a bíróság jogerős ügydöntő határozattal vagy véglegessé vált nem ügydöntő végzéssel történő befejezéséig, illetve az ügyészség vagy a nyomozó hatóság további jogorvoslattal nem támadható eljárást megszüntető határozatának meghozataláig.
 
 (10) Az Ákr. eljárás megszüntetésére vonatkozó esetein túl az MNB az eljárást megszüntetheti abban az esetben is, ha
 
@@ -1527,12 +1528,15 @@ rendelhet ki.
 - g) az intézkedéssel érintett személy jó- vagy rosszhiszeműségére, az általa a szabályszegéssel vagy a mulasztással elért vagyoni előnyre és az elkerült vagyoni hátrányra,
 - h) az intézkedés alapjául szolgáló adatok, tények, információk eltitkolására, illetve annak szándékára, valamint
 - i) a szabályok megsértésének ismétlődésére, és gyakoriságára.
+- j) a felelős személlyel szemben ugyanazon jogsértésért korábban megállapított büntetőjogi jogkövetkezményre.
 
 (5) Nem lehet intézkedést alkalmazni a mulasztásnak vagy kötelezettségszegésnek az MNB tudomásszerzésétől számított három év, illetve az elkövetésétől számított öt év elteltével. Az elkövetésétől számított ötéves határidő kezdő napja az a nap, amikor a jogsértő magatartás megvalósul, vagy jogellenes állapot fenntartása esetén az a nap, amikor ez az állapot megszűnik.
 
 (6) Az (5) bekezdésben meghatározott határidőkön belül intézkedés akkor is alkalmazható, ha az intézkedéssel érintett természetes személy az intézkedés alkalmazásakor már nem áll az ellenőrzött személyek és szervezetek alkalmazásában, megbízatása megszűnt vagy az ellenőrzött tevékenységet már nem végzi.
 
 (7) Ha a bíróság az MNB-t új eljárás lefolytatására kötelezi, intézkedést – a tudomásszerzés időpontjára tekintet nélkül – az elkövetéstől számított öt évig lehet alkalmazni. Ha a megismételt eljárás megindításakor az elkövetéstől számított öt év már eltelt vagy abból egy évnél kevesebb van hátra, az MNB a megismételt eljárás megindításától számított egy évig alkalmazhat intézkedést.
+
+(8) A büntetőjogi felelősség megállapítását követően ugyanazon cselekményért bírság és intézkedésként tevékenység végzésétől való eltiltás nem alkalmazható.
 
 76. § (1) Az ellenőrzött személlyel és szervezettel szemben kiszabható bírság összege százezer forinttól kétmilliárd forintig terjedhet.
 
@@ -3519,6 +3523,7 @@ való megfelelést szolgálja.
 - 22. a tőkepiacról szóló 2001. évi CXX. törvénnyel és a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvénnyel együtt az európai közösségi finanszírozási üzleti szolgáltatókról, valamint az (EU) 2017/1129 rendelet és az (EU) 2019/1937 irányelv módosításáról szóló, 2020. október 7-i (EU) 2020/1503 európai parlamenti és tanácsi rendelet
 - 23. a páneurópai egyéni nyugdíjtermékről (PEPP) szóló, 2019. június 20-i (EU) 2019/1238 európai parlamenti és tanácsi rendelet
 - 24. a Pénzmosás és Terrorizmusfinanszírozás Elleni Hatóság létrehozásáról, valamint az 1093/2010/EU, az 1094/2010/EU és az 1095/2010/EU rendelet módosításáról szóló, 2024. május 31-i (EU) 2024/1620 európai parlamenti és tanácsi rendelet
+- 25. az (EU) 2017/1129, az 596/2014/EU és a 600/2014/EU rendeletnek az uniós tőkepiacok vállalkozások számára vonzóbbá tétele, valamint a kis- és középvállalkozások tőkéhez jutásának megkönnyítése érdekében történő módosításáról szóló, 2024. október 23-i (EU) 2024/2809 európai parlamenti és tanácsi rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 

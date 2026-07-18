@@ -169,7 +169,7 @@ használnak,
   - a) természetes személy azonosító adatai: természetes személyazonosító adatok, állampolgárság, lakcím, személyazonosság igazolására alkalmas hatósági igazolvány típusa és száma;
   - b) vállalkozás azonosító adatai: név, rövidített név, székhely, külföldi székhelyű vállalkozás esetén magyarországi fióktelepének címe, cégjegyzékszám, a létrejöttéről (nyilvántartásba vételéről, bejegyzéséről) szóló határozat száma, nyilvántartási száma, képviseletre jogosultak neve és beosztása,
 - 7. befektetési hitel: pénzügyi eszköz vásárlásához nyújtott hitel, ha a hitelt nyújtó részt vesz az ügylet lebonyolításában,
-- 8. befektetési elemzés: pénzügyi eszközre vagy annak kibocsátójára vonatkozó, a Tpt. szerinti befektetési ajánlás, ide nem értve a befektetési tanácsadást,
+- 8. befektetési kutatás: pénzügyi eszközre vagy annak kibocsátójára vonatkozó, a piaci visszaélésekről (piaci visszaélésekről szóló rendelet), valamint a 2003/6/EK európai parlamenti és tanácsi irányelv és a 2003/124/EK, a 2003/125/EK és a 2004/72/EK bizottsági irányelv hatályon kívül helyezéséről szóló, 2014. április 16-i 596/2014/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 596/2014/EU rendelet) 3. cikk (1) bekezdés 35. pontja szerinti befektetési ajánlás, ide nem értve a befektetési tanácsadást,
 - 9. befektetési tanácsadás: pénzügyi eszközre vonatkozó ügylethez kapcsolódó, személyre szóló ajánlás nyújtása, ide nem értve a nyilvánosság számára közölt tény, adat, körülmény, tanulmány, riport, elemzés és hirdetés közzétételét, továbbá a befektetési vállalkozás által az ügyfél részére adott, e törvény szerinti előzetes és utólagos tájékoztatást,
 - 10. befektetési vállalkozás: az, aki e törvény szerinti, tevékenység végzésére jogosító engedély alapján, harmadik személy részére, ellenérték fejében, rendszeres gazdasági tevékenysége keretében befektetési szolgáltatást nyújt vagy befektetési tevékenységet végez, ide nem értve a 3. §-ban meghatározottakat,
 - 10a. befektetési vállalkozás-csoport: az (EU) 2019/2033 rendelet 4. cikk (1) bekezdés 25. pontjában meghatározott fogalom,
@@ -216,7 +216,7 @@ használnak,
 - 34a. kereskedési helyszín: bármely szabályozott piac, multilaterális kereskedési rendszer vagy szervezett kereskedési rendszer,
 - 34b. keresztértékesítés gyakorlata (cross-selling): egy befektetési szolgáltatás felajánlása egy másik szolgáltatással vagy termékkel együtt, egy csomag részeként vagy ugyanazon megállapodás vagy csomag feltételeként,
 - 34c. kis- és középvállalkozás: olyan vállalkozás, amelynek az előző három naptári évben az év végi jegyzések alapján az átlagos piaci tőkeértéke 200 000 000 eurónál kevesebb volt,
-- 34d. kkv-tőkefinanszírozási piac: olyan multilaterális kereskedési rendszer, amelyet kkv-tőkefinanszírozási piacként vettek nyilvántartásba, a 154/A. §-nak megfelelően,
+- 34d. kkv-tőkefinanszírozási piac: olyan multilaterális kereskedési rendszer vagy multilaterális kereskedési rendszernek olyan szegmense, amelyet kkv-tőkefinanszírozási piacként vettek nyilvántartásba, a 154/A. §-nak megfelelően,
 - 34e. kiegészítési záradék: olyan záradék, amely a befektető védelmére irányul annak biztosítása révén, hogy a kötvény lejárat előtti visszaváltása esetén a kibocsátó köteles a kötvényt birtokló befektetőnek kifizetni – a visszaváltott kötvény tőkeösszege mellett – azon kamatszelvények nettó jelenértékét, amelyekre akkor lett volna jogosult, ha a kötvény lejárat előtti beváltására nem kerül sor,
 - 34f. keretszerződés: a Bizottság (EU) 2017/565 felhatalmazáson alapuló rendeletének 58. cikkében meghatározott alapmegállapodás,
 - 35. kis méretű és össze nem kapcsolt befektetési vállalkozás: az (EU) 2019/2033 rendelet 12. cikk (1) bekezdésében meghatározott fogalom,
@@ -371,7 +371,7 @@ használnak,
 - c) a befektetési hitel nyújtása,
 - d) a tőkeszerkezettel, üzleti stratégiával és az ezekkel összefüggő kérdésekkel, valamint az egyesüléssel és a vállalatfelvásárlással kapcsolatos tanácsadás és szolgáltatás,
 - e) a befektetési szolgáltatási tevékenységhez kapcsolódó valutával és devizával történő kereskedés,
-- f) a befektetési elemzés és pénzügyi elemzés,
+- f) a befektetési kutatás és pénzügyi elemzés,
 - g) jegyzési garanciavállaláshoz kapcsolódó szolgáltatás,
 - h) a 6. § e)–g), j) és k) pontjaiban foglalt származtatott ügyletek alapjául szolgáló eszközhöz kapcsolódó befektetési szolgáltatási tevékenység vagy kiegészítő szolgáltatás.
 
@@ -386,7 +386,7 @@ használnak,
 - g) az f) pont alá nem tartozó, más származtatott pénzügyi eszköz jellemzőivel rendelkező, áruhoz kapcsolódó opció, tőzsdei és tőzsdén kívüli határidős ügylet, csereügylet, valamint bármely más származtatott ügylet, amely fizikai leszállítással teljesíthető, és a Bizottság (EU) 2017/565 felhatalmazáson alapuló rendeletében meghatározottaknak megfelelően nem kereskedelmi célt szolgál,
 - h) a hitelkockázat átruházását célzó származtatott ügylet,
 - i) a különbözetre vonatkozó pénzügyi megállapodás,
-- j) az éghajlati, időjárási változóhoz, fuvardíjhoz, inflációs rátához vagy más hivatalos gazdasági statisztikához kapcsolódó opció, tőzsdei határidős ügylet, csereügylet, tőzsdén kívüli határidős kamatláb-megállapodás vagy bármely más származtatott ügylet, amelyet pénzben kell kiegyenlíteni vagy amely az ügyletben résztvevő felek valamelyikének választása szerint – nem a teljesítési határidő lejárta vagy más megszűnési ok miatt – pénzben kiegyenlíthető,
+- j) az éghajlati, időjárási változóhoz, fuvardíjhoz, inflációs rátához vagy más hivatalos gazdasági statisztikához kapcsolódó opció, tőzsdei határidős ügylet, csereügylet, tőzsdén kívüli határidős kamatláb-megállapodás vagy bármely más származtatott ügylet, amelyet pénzben kell kiegyenlíteni vagy amely az ügyletben résztvevő felek valamelyikének választása szerint – nem a teljesítési határidő lejárta vagy más megszűnési ok miatt – pénzben kiegyenlíthető, tekintettel többek között arra, hogy valamely szabályozott piacon, OTF-en vagy MTF-en kereskednek vele,
 - k) egyéb, az a)–j) pontban nem említett eszközhöz, joghoz, kötelezettséghez, indexhez, intézkedéshez kapcsolódó származtatott ügylet, amely rendelkezik a többi származtatott eszköz valamelyikének jellemzőivel, ideértve azt, hogy valamely szabályozott piacon vagy multilaterális kereskedési rendszerben kereskednek vele, valamint a Bizottság (EU) 2017/565 felhatalmazáson alapuló rendelete 8. cikkében meghatározott származtatott ügylet,
 - l) az üvegházhatású gáz kibocsátási egység és a légszennyező anyag kibocsátási jog, amely olyan részegységekből áll, amelyek az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló 2012. évi CCXVII. törvény előírásainak megfelelnek.
 
@@ -546,9 +546,9 @@ induló tőkével kell rendelkeznie.
 - a) a szervezeti felépítését belső szabályzatban áttekinthetően rögzíti,
 - b) a felelősségi köröket, feladatokat egymástól elhatárolja és egyértelműen meghatározza,
 - c) a szervezeten belüli összeférhetetlenséget ellenőrzi, megelőzi és kiküszöböli,
-- d) a felmerülő kockázatok azonosítására, mérésére, kezelésére, nyomon követésére és jelentésére szolgáló hatékony eljárásokat alkalmaz,
+- d) a felmerülő olyan kockázatok azonosítására, mérésére, kezelésére, nyomon követésére és jelentésére szolgáló hatékony eljárásokat alkalmaz, amelyeknek a befektetési vállalkozások ki vannak vagy ki lehetnek téve, vagy amelyek másokra nézve jelentenek vagy jelenthetnek kockázatot, beleértve a központi szerződő felekkel szembeni kitettségekből eredő koncentrációs kockázatot is, figyelembe véve a tőzsdén kívüli származtatott ügyletekről, a központi szerződő felekről és a kereskedési adattárakról szóló, 2012. július 4-ei 648/2012/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 648/2012/EU rendelet) 7a. cikkében meghatározott feltételeket,
 - e) a jogszabályoknak megfelelő belső ellenőrzési mechanizmusokat, adminisztratív és számviteli eljárásokat alkalmaz,
-- f) a befektetési vállalkozás a hatékony és eredményes kockázatkezeléssel összhangban álló, annak alkalmazását előmozdító, a 4. mellékletben meghatározott elveknek megfelelő, a nemek szempontjából semleges javadalmazási politikát és gyakorlatot valósít meg,
+- f) a befektetési vállalkozás a hatékony és eredményes kockázatkezeléssel összhangban álló, annak alkalmazását előmozdító, a 4. mellékletben meghatározott elveknek megfelelő, a nemek szempontjából semleges, az ügyfeleknek való szolgáltatásnyújtásban részt vevő személyekre vonatkozó javadalmazási politikát és gyakorlatot valósít meg,
 - g) elősegíti a szervezet zavartalan és eredményes működését, az intézménnyel szembeni bizalom fenntartását, a tulajdonosok és az ügyfelek intézménnyel összefüggő gazdasági érdekeinek és társadalmi céljainak védelmét.
 
 (4) A befektetési vállalkozás a (3) bekezdés d) és e) pontjában rögzítettek, ezáltal a belső kontroll funkciók teljesítése érdekében belső eljárásrendjében egyértelműen meghatározza a belső kontroll funkciók ellátásáért felelős szervezeti egységet vagy egységeket.
@@ -869,7 +869,7 @@ tisztségviselőként vagy alkalmazottként befektetési vagy pénzügyi szakter
 - a) reziliensek legyenek, és elegendő kapacitással rendelkezzenek,
 - b) megfelelő kereskedési küszöbértékek és limitek hatálya alá tartozzanak,
 - c) a hibás megbízások kiküldését vagy a rendszerek egyéb, potenciálisan rendellenes piaci helyzetet eredményező vagy ilyen helyzet kialakulását elősegítő működését megakadályozzák,
-- d) ne legyenek felhasználhatók olyan célra, amely ellentétes a piaci visszaélésekről (piaci visszaélésekről szóló rendelet), valamint a 2003/6/EK európai parlamenti és tanácsi irányelv és a 2003/124/EK, a 2003/125/EK és a 2004/72/EK bizottsági irányelv hatályon kívül helyezéséről szóló, 2014. április 16-i 596/2014/EU európai parlamenti és tanácsi rendelettel (a továbbiakban: 596/2014/EU rendelet) vagy annak a kereskedési helyszínnek a szabályaival, amelyhez kapcsolódnak.
+- d) ne legyenek felhasználhatók olyan célra, amely ellentétes az 596/2014/EU rendelet vagy annak a kereskedési helyszínnek a szabályaival, amelyhez kapcsolódnak.
 
 (2) Az algoritmikus kereskedést folytató befektetési vállalkozás
 
@@ -1286,7 +1286,7 @@ gyakorolhatja az általa kezelt portfólióhoz kapcsolódó szavazati jogot.
 
 38. § (1) A Felügyelet a teljességi igazolás kiállításától számított hatvan munkanapon belül (a továbbiakban: ügyintézési határidő) dönt a befolyásszerzési szándékról abból a szempontból, hogy annak megvalósulását követően az e törvényben foglaltak teljesítése biztosítható-e. Ha a Felügyelet az értékelés alapján a minősített befolyás megszerzését vagy a minősített befolyás mértékének növelését megtagadja, akkor erről az értékelés befejezését követő két munkanapon belül, de legkésőbb az ügyintézési határidőn belül írásban értesíti a kérelmezőt, megadva a döntés indokait.
 
-(2) A Felügyelet a 37/B. § (2) bekezdésében meghatározott információk hiányos vagy nem megfelelő módon való benyújtása esetén a teljességi igazolás kiállításától számított ötven munkanapon belül, az értékelés befejezéséhez szükséges információk megjelölésével, írásban további tájékoztatást és a hiányok pótlását kérheti (a továbbiakban: hiánypótlás).
+(2) A Felügyelet a 37. § (2) bekezdésében és a 37/B. § (2) bekezdésében meghatározott információk hiányos vagy nem megfelelő módon való benyújtása esetén a teljességi igazolás kiállításától számított ötven munkanapon belül, az értékelés befejezéséhez szükséges információk megjelölésével, írásban további tájékoztatást és a hiányok pótlását kérheti (a továbbiakban: hiánypótlás).
 
 (3) A hiánypótlásra biztosított határidő húsz munkanap.
 
@@ -1315,7 +1315,7 @@ akkor a Felügyelet a 171. §-ban foglaltak szerinti konzultációt folytat a be
 
 (2) A minősített befolyás megszerzésének vagy a minősített befolyás mértéke növelésének engedélyezése esetén a kérelmezőnek hat hónapon belül kell lebonyolítania az ügyletet.
 
-(3) Ha a minősített befolyás megszerzésére vonatkozó engedélyezési feltétel már nem áll fenn, a Felügyelet a jogellenes állapot megszüntetéséig vagy az engedélyezési feltétel teljesítésének igazolásáig a minősített befolyással rendelkező szavazati jogának gyakorlását felfüggeszti.
+(3) Ha a minősített befolyás megszerzésére vonatkozó engedélyezési feltétel már nem áll fenn, a Felügyelet a jogellenes állapot megszüntetéséig vagy az engedélyezési feltétel teljesítésének igazolásáig a minősített befolyással rendelkező szavazati jogának gyakorlását felfüggeszti és gondoskodik a leadott szavazatok érvénytelenségéről, vagy érvénytelenítésének lehetőségéről.
 
 (4) A befektetési vállalkozás a tudomásszerzéstől számított két munkanapon belül bejelenti a Felügyeletnek a befektetési vállalkozásban minősített befolyással rendelkező személy azonosító adatait, részesedésének mértékét és annak módosulását.
 
@@ -1343,7 +1343,21 @@ akkor a Felügyelet a 171. §-ban foglaltak szerinti konzultációt folytat a be
 
 (3) A befektetési vállalkozás – értelmezve az általa kínált vagy ajánlott pénzügyi eszközöket – a végső ügyfeleknek a 17/A. § (2) bekezdésében meghatározott azonosított célpiacát is figyelembe véve felméri a pénzügyi eszközök azon ügyfelek igényeivel való összeegyeztethetőségét, akik számára befektetési szolgáltatásokat nyújt, és gondoskodik arról, hogy csak abban az esetben kerüljön sor pénzügyi eszközök felkínálására vagy ajánlására, ha az az ügyfél érdekében áll.
 
-(4) A befektetési vállalkozás a leendő szerződő fél vagy az ügyfél tájékoztatása során – ideértve a befektetési elemzést és a marketingközleményt is – a Bizottság (EU) 2017/565 felhatalmazáson alapuló rendelete 44. cikkében foglaltaknak megfelelő világos, egyértelmű, kiegyensúlyozott és pontos tájékoztatást ad, a leendő szerződő felet, illetőleg az ügyfelet nem téveszti meg. A marketingközlemény marketing jellegét egyértelműen fel kell tüntetni.
+(4) A befektetési vállalkozás a leendő szerződő fél vagy az ügyfél tájékoztatása során – ideértve a befektetési kutatást és a marketingközleményt is – a Bizottság (EU) 2017/565 felhatalmazáson alapuló rendelete 44. cikkében foglaltaknak megfelelő világos, egyértelmű, kiegyensúlyozott és pontos tájékoztatást ad, a leendő szerződő felet, illetőleg az ügyfelet nem téveszti meg. A marketingközlemény marketing jellegét egyértelműen fel kell tüntetni.
+
+(4a) A befektetési vállalkozás által vagy harmadik fél által elkészített, valamint a befektetési vállalkozás, ügyfele vagy potenciális ügyfele által felhasznált vagy részükre értékesített kutatás tisztességes, egyértelmű, és nem félrevezető. A Bizottság (EU) 2017/565 felhatalmazáson alapuló rendeletében meghatározott feltételek teljesülése esetén a kutatásra a befektetési kutatás megnevezés vagy ahhoz hasonló kifejezés használata szükséges.
+
+(4b) A portfóliókezelést, egyéb befektetési szolgáltatási tevékenységet vagy kiegészítő szolgáltatást nyújtó befektetési vállalkozás biztosítja, hogy az ügyfelei vagy potenciális ügyfelei részére értékesített kutatást kizárólag abban az esetben jelöli meg a kibocsátó által támogatottként, ha azt részben vagy egészben a kibocsátó fizeti, és azt a kibocsátó által támogatott kutatás uniós magatartási kódexének megfelelően készítették el.
+
+(4c) Annak biztosítására, hogy a kutatást a kibocsátó által támogatott kutatás uniós magatartási kódexének, valamint a (4a), (4b) és (4d) bekezdésben foglaltaknak megfelelően készítsék el, az azt elkészítő vagy értékesítő befektetési vállalkozás erre vonatkozó szabályzatot és eljárást fogad el.
+
+(4d) A kibocsátó benyújtja a (4b) bekezdés szerinti kutatást a pénzügyi szolgáltatások, a tőkepiacok és a fenntarthatóság szempontjából lényeges, nyilvánosan elérhető információkhoz központosított hozzáférést biztosító egységes európai hozzáférési pont létrehozásáról szóló, 2023. december 13-i (EU) 2023/2859 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2023/2859 európai parlamenti és tanácsi rendelet] 2. cikk 2. pontjában meghatározott gyűjtőszervezetnek, a kutatásnak (EU) 2023/2859 európai parlamenti és tanácsi rendelet alapján létrehozott egységes európai hozzáférési ponton való hozzáférhetővé tétele céljából.
+
+(4e) A (4d) bekezdés szerinti kutatásnak az egységes európai hozzáférési ponton való hozzáférhetővé tétele céljából gyűjtőszervezetként a Felügyelet jár el.
+
+(4f) A (4d) bekezdés szerinti kutatásnak a Felügyelethez történő benyújtásakor a kibocsátó biztosítja, hogy olyan metaadatokat mellékel hozzá, amelyek jelzik, hogy az információ megfelel a kibocsátó által támogatott kutatás uniós magatartási kódexének. Az ilyen kutatás nem minősül sem a Tpt.-ben meghatározott szabályozott információnak, sem pedig az e törvény szerinti befektetési kutatásnak, és ezért nem tartozik ugyanolyan szintű szabályozási ellenőrzés alá.
+
+(4g) A kibocsátó által támogatott kutatásként megjelölt kutatás kezdőlapján egyértelműen és jól láthatóan szükséges feltüntetni, hogy az a kibocsátó által támogatott kutatás uniós magatartási kódexének megfelelően készült. Minden egyéb, részben vagy egészben a kibocsátó által fizetett, de nem a kibocsátó által támogatott kutatás uniós magatartási kódexének megfelelően elkészített kutatási anyagot marketingközleményként szükséges megjelölni.
 
 (5) A befektetési vállalkozás – figyelemmel a 41–43. §-ban foglaltakra – kellő időben tájékoztatja a leendő szerződő felet vagy az ügyfelet a befektetési vállalkozásról és annak szolgáltatásairól, a pénzügyi eszközökről és a javasolt befektetési stratégiákról, a végrehajtás helyszíneiről, valamint az összes költségről és kapcsolódó díjról. E tájékoztatás a következőket foglalja magában:
 
@@ -1393,16 +1407,25 @@ akkor a Felügyelet a 171. §-ban foglaltak szerinti konzultációt folytat a be
 
 (7) Nem tartoznak az (5) bekezdésben meghatározott követelmények hatálya alá azok a kifizetések vagy díjak, amelyek a befektetési szolgáltatási tevékenységek vagy kiegészítő szolgáltatások nyújtását lehetővé teszik, vagy ahhoz szükségesek – pl. őrzési díjak, elszámolási és átváltási díjak, igazgatási illetékek vagy jogi költségek –, és amelyek természetüknél fogva nem eredményezhetnek konfliktusokat a befektetési vállalkozásnak ügyfele érdekében végzett becsületes, tisztességes és szakszerű tevékenységére vonatkozó kötelezettségével kapcsolatban.
 
-(7a) Az ügyfeleknek portfóliókezelési vagy egyéb befektetési szolgáltatási tevékenységet vagy kiegészítő szolgáltatást nyújtó befektetési vállalkozás részére harmadik fél által végzett elemzés akkor tekintendő a 40. § (1) bekezdés szerinti kötelezettségek teljesítésének, ha:
+(7a) Az ügyfeleknek portfóliókezelési vagy egyéb befektetési szolgáltatási tevékenységet vagy kiegészítő szolgáltatást nyújtó befektetési vállalkozás részére harmadik felek által végzett befektetési kutatás akkor tekintendő a 40. § (1) bekezdés szerinti kötelezettségek teljesítésének, ha:
 
-- a) a végrehajtási vagy elemzési szolgáltatások nyújtását megelőzően a befektetési vállalkozás és az elemzés szolgáltatója megállapodást kötött, amely azonosítja, hogy a végrehajtási szolgáltatásokhoz és elemzéshez kapcsolódó bármely összevont költség vagy közös kifizetés mely része tulajdonítható az elemzésnek;
-- b) a befektetési vállalkozás tájékoztatja ügyfeleit az elemzés szolgáltatója részére teljesített, végrehajtási szolgáltatásokhoz és elemzéshez kapcsolódó közös kifizetésekről; valamint
-- c) az összevont költségek vagy a közös kifizetés tárgyát képező elemzést olyan kibocsátókat érintően végzik, amelyek piaci kapitalizációja az elemzést megelőző 36 hónapos időszakban – az év végi jegyzésekben kifejezettek alapján, azokban az években, amikor tőzsdén vannak vagy voltak jegyezve vagy a saját tőkéjük alapján, azokban a pénzügyi években, amikor nincsenek vagy nem voltak tőzsdén jegyezve – nem haladta meg az 1 milliárd eurót.
+- a) az igénybe vett szolgáltatások vagy a kutatási szolgáltatások nyújtását megelőzően a befektetési vállalkozás és a kutatás szolgáltatója megállapodást kötött, amely azonosítja, hogy az igénybe vett szolgáltatásokhoz és kutatáshoz kapcsolódó bármely összevont költség vagy közös kifizetés mely része tulajdonítható a befektetési kutatásnak,
+- b) a befektetési vállalkozás tájékoztatja ügyfeleit arról, hogy az igénybe vett szolgáltatásokért és a befektetési kutatásért járó díjakat együttesen vagy elkülönítetten fizeti, valamint rendelkezésükre bocsátja a díjfizetésre vonatkozó szabályzatát, amely meghatározza a választott fizetési módtól függően nyújtott információk körét, továbbá – együttes díjfizetés esetén – ismerteti a 110. § szerinti összeférhetetlenségek megelőzésére és kezelésére szolgáló eljárásait,
+- c) a befektetési vállalkozás legalább évente értékeli a felhasznált kutatás minőségét, felhasználhatóságát és értékét, valamint azt, hogy a felhasznált kutatás mennyire járul hozzá a jobb befektetési döntésekhez, vagy
+- d) a befektetési vállalkozás az igénybe vett szolgáltatásokért és a harmadik fél által végzett befektetési kutatásért járó fizetés elkülönített módjának választása esetén, a befektetési vállalkozás részére harmadik felek által nyújtott kutatást kizárólag
+  - da) a befektetési vállalkozás saját forrásaiból finanszírozza, vagy
+  - db) a befektetési vállalkozás által ellenőrzött külön kutatási fizetési számláról finanszírozza.
 
 (7b) A (7a) bekezdés alkalmazásában elemzés alatt olyan elemzési anyagok vagy szolgáltatások értendők, amelyek egy vagy több pénzügyi eszközre vagy egyéb eszközökre, illetve pénzügyi eszközök kibocsátóira vagy potenciális kibocsátóira vonatkoznak, vagy amelyek szorosan kapcsolódnak egy konkrét iparághoz vagy piachoz oly módon, hogy az ezen iparághoz vagy piachoz tartozó pénzügyi eszközökkel, egyéb eszközökkel vagy kibocsátókkal kapcsolatos nézetekről nyújtanak tájékoztatást. Az elemzés magában foglalja az olyan anyagokat vagy szolgáltatásokat is, amelyek
 
 - a) kifejezetten vagy implicit módon egy befektetési stratégiát ajánlanak vagy javasolnak, és megalapozott véleményt adnak pénzügyi eszközök vagy egyéb eszközök jelenlegi vagy jövőbeni értékéről vagy áráról, vagy
 - b) egyéb jellegű elemzést, eredeti megállapításokat tartalmaznak, és új vagy meglévő információk alapján olyan következtetéseket vonnak le, amelyek használhatók a befektetési stratégiához, valamint relevánsak és hozzáadott értéket tudnak biztosítani a befektetési vállalkozás azon döntéseihez, amelyeket az adott elemzésért fizető ügyfelek nevében hoz.
+
+(7c) E fejezet alkalmazásában a pénzügyi eszközökkel végzett ügylet végrehajtásához szervesen kapcsolódó kereskedési megjegyzések és az egyéb személyre szabott kereskedési tanácsadási szolgáltatások nem tekinthetők kutatásnak.
+
+(7d) Ha egy befektetési vállalkozás olyan kutatási szolgáltatótól kap kutatást, amely nem engedélyezett szolgáltató, és nem része olyan pénzügyi szolgáltató csoportnak, amelytől igénybe vett szolgáltatásokat vagy befektetési szolgáltatásokat kínáló befektetési vállalkozás tagja is van, akkor a befektetési vállalkozás számára végzett befektetési kutatás úgy tekintendő, hogy megfelel a 40. § (1) bekezdésben foglalt előírásoknak, és a befektetési vállalkozás eleget tesz a (7a) bekezdés c) pontjában foglalt követelménynek.
+
+(7e) A befektetési vállalkozás nyilvántartást vezet a harmadik fél által részére végzett kutatással kapcsolatban felmerülő összes, általa ismert költségről, és azokat a befektetési vállalkozás az ügyfelei kérésére évente rendelkezésre bocsátja.
 
 (8) Az olyan befektetési vállalkozásnak, amely befektetési szolgáltatási tevékenységet vagy kiegészítő szolgáltatást végez ügyfelek számára, biztosítania kell, hogy alkalmazottait ne díjazza, illetve teljesítményüket ne értékelje oly módon, amely ütközik azzal a kötelezettségével, hogy az ügyfelei érdekeinek leginkább megfelelő módon járjon el. A befektetési vállalkozás mindenekelőtt nem alakíthat ki díjazás, értékesítési célok révén vagy más módon olyan mechanizmust, amely arra ösztönözhetné alkalmazottait, hogy egy bizonyos pénzügyi eszközt ajánljanak lakossági ügyfelüknek, amikor a befektetési vállalkozás más, az ügyfél igényeinek jobban megfelelő pénzügyi eszközt is ajánlhatna.
 
@@ -1749,9 +1772,9 @@ helyezi el.
 
 (3) A (2) bekezdés b) pontja alkalmazásában a pénzpiaci eszköz akkor tekinthető magas minősítésűnek, ha az ÁÉKBV-alapkezelő a pénzpiaci eszköz hitelminőségét illetően olyan dokumentált, saját értékelést végez, amelyre alapozva az adott pénzpiaci eszközt magas minőségűnek minősíti. Amennyiben az Európai Értékpapír-piaci Hatóság által nyilvántartásba vett és felügyelt, egy vagy több hitelminősítő intézet minősítette a pénzpiaci eszközt, az ÁÉKBV-alapkezelő saját belső értékelésének figyelemmel kell lennie többek között az ilyen hitelminősítésekre is.
 
-(4) Ha a befektetési vállalkozás az ügyfél pénzeszközét nem az (1) bekezdés a) pontja szerinti központi bankban helyezi el, akkor az (1) bekezdés b)–d) pontja szerinti intézményt a tőle elvárható gondossággal választja ki és rendszeresen, de legalább évente felülvizsgálja a pénzeszköz kezelésével megbízott intézménynél a pénzeszközök kezelésére vonatkozó előírások betartását.
+(4) Ha a befektetési vállalkozás az ügyfél pénzeszközét nem az (1) bekezdés a) pontja szerinti központi bankban helyezi el, akkor az (1) bekezdés b)–d) pontja szerinti intézményt a tőle elvárható gondossággal választja ki figyelemmel a pénzeszközök esetleges diverzifikációjára és rendszeresen, de legalább évente felülvizsgálja a pénzeszköz kezelésével megbízott intézménynél a pénzeszközök kezelésére vonatkozó előírások betartását.
 
-(5) A befektetési vállalkozás a (4) bekezdésben meghatározottak szerint az ügyfél pénzeszközének kezelésére azzal az intézménnyel köt megállapodást, amely
+(5) A befektetési vállalkozás a (4) bekezdésben meghatározottak szerint az ügyfél pénzeszközének kezelésére azzal az intézménnyel köt megállapodást – figyelembe véve az ügyfél pénzeszközeinek tartásához kapcsolódó, az ügyfél jogait esetleg hátrányosan befolyásoló piaci gyakorlatokat is – amely
 
 - a) szakértelemmel és jó hírnévvel rendelkezik, és
 - b) megfelel az 57. § (1)–(3) bekezdésében foglaltaknak.
@@ -1916,9 +1939,9 @@ kell mérni.
 
 #### 75. §
 
-### A befektetési elemzés
+### A befektetési kutatás
 
-76. § Ha a befektetési vállalkozás befektetési elemzést végez, a Bizottság (EU) 2017/565 felhatalmazáson alapuló rendelete 36. és 37. cikkében meghatározott rendelkezéseknek megfelelően jár el.
+76. § Ha a befektetési vállalkozás befektetési kutatást végez, a Bizottság (EU) 2017/565 felhatalmazáson alapuló rendelete 36. és 37. cikkében meghatározott rendelkezéseknek megfelelően jár el.
 
 #### 77. §
 
@@ -2203,8 +2226,9 @@ megfelelés
 
 - a) az ügyfeleket érintő kockázat jelentős forrásai és hatásai, valamint a szavatoló tőkére esetlegesen gyakorolt jelentős hatásai,
 - b) a piaci kockázatok jelentős forrásai és hatásai, valamint a szavatoló tőkére esetlegesen gyakorolt jelentős hatásai,
-- c) a befektetési vállalkozást érintő kockázat jelentős forrásai és hatásai, különösen azok, amelyek a rendelkezésre álló szavatoló tőke jelentős csökkenéséhez vezetnek, valamint
-- d) a megfelelő időtávokon belüli – ideértve a napon belüli – likviditási kockázat annak biztosítása céljából, hogy a befektetési vállalkozás megfelelő szintű likviditást tartson fenn, többek között az a)–c) pont szerinti jelentős kockázati források fedezése érdekében.
+- c) a befektetési vállalkozást érintő kockázat jelentős forrásai és hatásai, különösen azok, amelyek a rendelkezésre álló szavatoló tőke jelentős csökkenéséhez vezetnek,
+- d) a megfelelő időtávokon belüli – ideértve a napon belüli – likviditási kockázat annak biztosítása céljából, hogy a befektetési vállalkozás megfelelő szintű likviditást tartson fenn, többek között az a)–c) pont szerinti jelentős kockázati források fedezése érdekében, valamint
+- e) a központi szerződő felekkel szembeni kitettségekből eredő koncentrációs kockázat jelentős forrásai és hatásai, valamint a szavatolótőkére gyakorolt bármely jelentős hatás, azzal, hogy a vezető testület konkrét terveket és számszerűsíthető célokat dolgoz ki a 648/2012/EU rendelet 7a. cikkében meghatározott követelményekkel összhangban az Európai Unió, vagy egy vagy több tagállama számára rendszerszinten jelentős szolgáltatásokat nyújtó központi szerződő felekkel szembeni kitettségekből eredő koncentrációs kockázat nyomon követésére és kezelésére.
 
 (2) A stratégiáknak, eljárásrendeknek és szabályzatoknak arányban kell állniuk a befektetési vállalkozás méretével, tevékenységének jellegével, összetettségével, kockázati profiljával és tevékenységi körével, az irányítási jogkörrel rendelkező vezető testület által meghatározott kockázatvállalási limitjeivel, valamint a befektetési vállalkozás azon EGT-államban megállapítható rendszerszintű jelentőségével, amelyben befektetési szolgáltatási tevékenységet, kiegészítő szolgáltatást végez.
 
@@ -2576,7 +2600,7 @@ szemben.
 
 szemben.
 
-(4) Nem jelenti az üzleti titok sérelmét az 596/2014/EU rendeletben és annak kiegészítő jogszabályaiban foglalt, a piaci visszaélés megelőzését és felderítését szolgáló bejelentési kötelezettség, valamint a nyilvántartásba vett vagy elismert kereskedési adattárnak való, a tőzsdén kívüli származtatott ügyletekről, a központi szerződő felekről és a kereskedési adattárakról szóló, 2012. július 4-i 648/2012/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 648/2012/EU európai parlamenti és tanácsi rendelet) szerinti bejelentési kötelezettség teljesítése.
+(4) Nem jelenti az üzleti titok sérelmét az 596/2014/EU rendeletben és annak kiegészítő jogszabályaiban foglalt, a piaci visszaélés megelőzését és felderítését szolgáló bejelentési kötelezettség, valamint a nyilvántartásba vett vagy elismert kereskedési adattárnak való, a 648/2012/EU rendelet szerinti bejelentési kötelezettség teljesítése.
 
 (5) Nem lehet üzleti titokra hivatkozással visszatartani az információt a közérdekű adatok nyilvánosságára és a közérdekből nyilvános adatra vonatkozó, külön törvényben meghatározott adatszolgáltatási és tájékoztatási kötelezettség esetén.
 
@@ -2811,7 +2835,7 @@ legalább naponta rendelkezésre bocsátja az általa, ügyfelei által, valamin
 - e) az eredményt terhelő adókat, valamint
 - f) a kapott állami támogatást.
 
-(2) Az (1) bekezdés szerinti információkat a számviteli jogszabályokban foglaltakkal összhangban ellenőrizni kell, és – ha rendelkezésre áll – azokat mellékelni kell a befektetési vállalkozás éves beszámolójához vagy az összevont (konszolidált) éves pénzügyi beszámolójához.
+(2) Az (1) bekezdés szerinti információkat a számviteli jogszabályokban foglaltakkal összhangban ellenőrizni kell, és – ha rendelkezésre áll – azokat mellékelni kell a befektetési vállalkozás éves beszámolójához vagy az összevont (konszolidált) éves beszámolójához.
 
 (3) A Felügyelet megkövetelheti, hogy a kis méretű és össze nem kapcsolt befektetési vállalkozásnak nem minősülő befektetési vállalkozás, valamint a kiegészítő alapvető tőkeinstrumentumokat kibocsátó, kis méretű és össze nem kapcsolt befektetési vállalkozásnak minősülő befektetési vállalkozás legalább évente kétszer hozza nyilvánosságra honlapján az (EU) 2019/2033 rendelet 46. cikke szerinti információkat a Felügyelet által meghatározott a nyilvánosságra hozatali határidőn belül.
 
@@ -3254,16 +3278,22 @@ feltárására.
 - f) a piac kibocsátóira vonatkozó szabályozási információkat tárolják és közzéteszik,
 - g) hatékony rendszerek és ellenőrző mechanizmusok működnek, amelyek célja a piacon előforduló piaci visszaélések megakadályozása és feltárása az 596/2014/EU rendelettel összhangban.
 
-(4) A (3) bekezdésben foglalt feltételek nem érintik az MTF-et működtető befektetési vállalkozásnak vagy piacműködtetőnek más, e törvény szerinti, az MTF-ek működésére vonatkozó követelményeinek való megfelelést.
+(3a) Az MTF érintett szegmensére olyan hatékony szabályzatok, rendszerek és eljárások vonatkoznak, amelyek biztosítják a (3) bekezdésben foglalt feltételek és az alábbi feltételek teljesülését:
+
+- a) az MTF kkv-tőkefinanszírozási piacként bejegyzett szegmense egyértelműen elkülönül az MTF-et működtető befektetési vállalkozás vagy piacműködtető által működtetett többi piaci szegmenstől, amit különösen eltérő név, eltérő szabályzat, eltérő marketingstratégia és eltérő reklámtevékenység, valamint a kkv-tőkefinanszírozási piaci szegmensként bejegyzett szegmenséhez rendelt egyedi piaci azonosító kód határoz meg;
+- b) az érintett kkv-tőkefinanszírozási piac szegmensben végrehajtott ügyletek egyértelműen elkülönülnek az MTF többi szegmensén belül végzett egyéb piaci tevékenységektől; és
+- c) az MTF rendelkezésre bocsátja a Felügyelet kérésére az érintett kkv-tőkefinanszírozási piac szegmensben bevezetett eszközök teljes listáját, valamint a kkv-tőkefinanszírozási piac szegmens működésére vonatkozó minden információt.
+
+(4) A (3) és (3a) bekezdésben foglalt feltételek nem érintik az MTF-et működtető befektetési vállalkozásnak vagy piacműködtetőnek más, e törvény szerinti, az MTF-ek működésére vonatkozó követelményeinek való megfelelést. A (7) bekezdés sérelme nélkül, az MTF-et működtető befektetési vállalkozás vagy piacműködtető további követelményeket írhat elő.
 
 (5) A Felügyelet törli nyilvántartásából az MTF-et kkv-tőkefinanszírozási piaci minőségében, ha
 
 - a) a kkv-tőkefinanszírozási piacot működtető befektetési vállalkozás vagy piacműködtető kérelmezi a kivezetést;
-- b) az MTF a (3) bekezdésben szereplő előírásoknak többé nem felel meg.
+- b) az MTF a (3) vagy (3a) bekezdésben szereplő előírásoknak többé nem felel meg.
 
 (6) Ha a Felügyelet egy MTF-et kkv-tőkefinanszírozási piacként bejegyez vagy kivezet, erről a bejegyzésről vagy kivezetésről haladéktalanul értesíti az Európai Értékpapír-piaci Hatóságot.
 
-(7) Ha egy kibocsátó pénzügyi eszközét egy kkv-tőkefinanszírozási piac kereskedésébe bevezetik, a pénzügyi eszköz egyidejűleg csak akkor vehet részt a kereskedésben egy másik kkv-tőkefinanszírozási piacon, ha a kibocsátót erről tájékoztatták, és nem volt ellene kifogása. Ilyen esetben azonban a kibocsátónak nincs semmilyen kötelezettsége a vállalatirányítással vagy az induló, folyamatos és alkalmankénti közzétételekkel kapcsolatban az utóbbi kkv- tőkefinanszírozási piac tekintetében.
+(7) Ha egy kibocsátó pénzügyi eszközét egy kkv-tőkefinanszírozási piac kereskedésébe bevezetik, a pénzügyi eszköz egyidejűleg csak akkor vehet részt a kereskedésben egy másik kkv-tőkefinanszírozási piacon, ha a kibocsátót erről tájékoztatták, és nem volt ellene kifogása. Ilyen esetben azonban a kibocsátónak nincs semmilyen kötelezettsége a vállalatirányítással vagy az induló, folyamatos és alkalmankénti közzétételekkel kapcsolatban az utóbbi kkv-tőkefinanszírozási piac tekintetében. Ha a másik kereskedési helyszín nem kkv-tőkefinanszírozási piac, akkor a kibocsátót tájékoztatni szükséges a másik kereskedési helyszín tekintetében a vállalatirányítással, illetve az induló, folyamatos vagy alkalmankénti közzététellel kapcsolatos, minden rá vonatkozó kötelezettségről.
 
 ### XXV/B. Fejezet — AZ OTF MŰKÖDÉSÉNEK SPECIÁLIS SZABÁLYAI
 
@@ -3705,7 +3735,7 @@ a székhelye van, vagy amely EGT-államban olyan befektetési vállalkozás lét
 
 (6) Az (5) bekezdés alkalmazása során a Felügyelet figyelembe veszi, hogy a befektetési vállalkozás rendelkezik-e a 101. § (3) bekezdés szerinti szakmai felelősségbiztosítással.
 
-(7)
+(7) Az (5) bekezdés a) pontjának alkalmazása során a Felügyelet értékeli és nyomon követi a befektetési vállalkozás által a központi szerződő felekkel szembeni kitettségekből eredő koncentrációs kockázat kezelésére alkalmazott gyakorlatok alakulását, beleértve a 101. § (1) bekezdésével összhangban kidolgozott terveket, valamint üzleti modelljeiknek a 648/2012/EU rendelet 7a. cikkében meghatározott követelményekhez való hozzáigazítása terén elért eredményeket.
 
 (8)
 
@@ -3900,8 +3930,10 @@ a székhelye van, vagy amely EGT-államban olyan befektetési vállalkozás lét
   - zsf) felfüggesztheti az olyan pénzügyi eszközök vagy strukturált betétek kereskedését vagy eladását, amelyek esetében a befektetési vállalkozás nem fejlesztett ki, illetve nem alkalmazott hatékony termék-jóváhagyási rendszert, vagy más módon nem felelt meg a 17/A. §-nak,
   - zsg) előírhatja valamely természetes személy elmozdítását a befektetési vállalkozás vezető testületéből,
   - zsh) ideiglenesen vagy – ismételt súlyos jogsértés esetén – tartósan eltilthatja a befektetési vállalkozás vezető testülete bármely tagját vagy bármely természetes személyt, akit felelősnek tartanak, a befektetési vállalkozáson belüli vezetői feladatok ellátásától,
-  - zsi) ideiglenesen eltilthatja a befektetési vállalkozást a szabályozott piacon való részvételtől, az MTF-ekben való tagságtól, illetve az OTF-ekben ügyfélként való részvételtől, valamint
-  - zsj) felfüggesztheti a befektetési vállalkozás érintett részvényeihez fűződő szavazati jogok gyakorlását, amennyiben a befektetési vállalkozásban gyakorolt minősített befolyás hátrányosan érinti a befektetési vállalkozás megalapozott és megbízható irányítását, illetve amennyiben a befektetési vállalkozásban minősített befolyást szerző személy nem teljesíti a minősített befolyás megszerzésével vagy mértékének növelésével kapcsolatos, 37. § és 37/B. § szerinti kérelem-benyújtási kötelezettségét.
+  - zsi) ideiglenesen eltilthatja a befektetési vállalkozást a szabályozott piacon való részvételtől, az MTF-ekben való tagságtól, illetve az OTF-ekben ügyfélként való részvételtől,
+  - zsj) felfüggesztheti a befektetési vállalkozás érintett részvényeihez fűződő szavazati jogok gyakorlását és gondoskodik a leadott szavazatok érvénytelenségéről, vagy érvénytelenítésének lehetőségéről, amennyiben a befektetési vállalkozásban gyakorolt minősített befolyás hátrányosan érinti a befektetési vállalkozás megalapozott és megbízható irányítását, illetve amennyiben a befektetési vállalkozásban minősített befolyást szerző személy nem teljesíti a minősített befolyás megszerzésével vagy mértékének növelésével kapcsolatos, 37. § és 37/B. § szerinti kérelem-benyújtási kötelezettségét,
+  - zsk) a befektetési vállalkozás által elkészített vagy értékesített, kibocsátó által támogatott kutatás uniós magatartási kódexnek meg nem felelése esetén felfüggesztheti a kibocsátó által támogatott kutatások befektetési vállalkozások általi értékesítését, valamint
+  - zsl) figyelmeztetheti a zsk) alpontban foglaltakról a nyilvánosságot.
 
 (1a) A Felügyelet – a fokozatosság és arányosság figyelembevételével – az (EU) 2019/2033 rendelet és e törvény alkalmazása során
 
@@ -3913,6 +3945,7 @@ a székhelye van, vagy amely EGT-államban olyan befektetési vállalkozás lét
 - f) a jogszabályban előírt adatszolgáltatást kiegészítő vagy annál gyakoribb adatszolgáltatást írhat elő, beleértve a tőke- és likviditási pozíciókra vonatkozó adatszolgáltatást,
 - g) kiegészítő nyilvánosságra hozatalt követelhet meg, vagy
 - h) megkövetelheti, hogy a befektetési vállalkozás csökkentse a hálózati és információs rendszerei biztonságát fenyegető kockázatokat a vállalkozások eljárásai, adatai és eszközei bizalmas jellegének, integritásának és rendelkezésre állásának biztosítása érdekében.
+- i) előírhatja a befektetési vállalkozás számára, hogy csökkentse a központi szerződő féllel szembeni kitettségeket, vagy igazítsa ki a kitettségeket azokon a számlákon, amelyeken az elszámolások történnek a 648/2012/EU rendelet 7a. cikkével összhangban, amennyiben a Felügyelet úgy ítéli meg, hogy az adott központi szerződő féllel szembeni kitettségekből eredően túlzott koncentrációs kockázat áll fenn.
 
 (2) A Felügyelet az (1) bekezdés oa) alpontjában foglalt intézkedést akkor alkalmazhatja, ha az osztalék kifizetése esetén a befektetési vállalkozás vagy az árutőzsdei szolgáltató e törvényben foglalt tőkekövetelményeknek való megfelelése nem biztosított.
 
@@ -4425,6 +4458,8 @@ foglalt követelményeknek.
 - p) a pénzügyi ágazat digitális működési rezilienciája tekintetében a 2009/65/EK, a 2009/138/EK, a 2011/61/EU, a 2013/36/EU, a 2014/59/EU, a 2014/65/EU, az (EU) 2015/2366 és az (EU) 2016/2341 irányelv módosításáról szóló, 2022. december 14-i (EU) 2022/2556 európai parlamenti és tanácsi irányelv.
 - q) pénzügyi eszközök piacairól szóló 2014/65/EU irányelv módosításáról szóló, 2024. február 28-i (EU) 2024/790 európai parlamenti és tanácsi irányelv.
 - r) a 2013/36/EU irányelvnek a felügyeleti hatáskörök, a szankciók, a harmadik országbeli vállalathoz tartozó fióktelepek, valamint a környezeti, társadalmi és irányítási kockázatok tekintetében történő módosításáról szóló, 2024. május 31-i (EU) 2024/1619 európai parlamenti és tanácsi irányelv.
+- t) a 2014/65/EU irányelvnek az uniós nyilvános tőkepiacok vállalkozások számára vonzóbbá tétele, továbbá a kis- és középvállalkozások tőkéhez jutásának megkönnyítése érdekében történő módosításáról és a 2001/34/EK irányelv hatályon kívül helyezéséről szóló, 2024. október 23-i (EU) 2024/2811 európai parlamenti és tanácsi irányelv.
+- u) a 2009/65/EK, a 2013/36/EU és az (EU) 2019/2034 irányelvnek a központi szerződő felekkel szembeni kitettségekből eredő koncentrációs kockázat és a központilag elszámolt származtatott ügyletekkel kapcsolatos partnerkockázat kezelése tekintetében történő módosításáról szóló, 2024. november 27-i (EU) 2024/2994 európai parlamenti és tanácsi irányelv.
 
 (2) Ez a törvény
 

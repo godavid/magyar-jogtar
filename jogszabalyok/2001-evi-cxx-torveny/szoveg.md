@@ -115,6 +115,7 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 - 46. értékpapírszámla: a dematerializált értékpapírról és a hozzá kapcsolódó jogokról az értékpapír-tulajdonos javára vezetett nyilvántartás,
 - 47.
 - 48. felügyeleti hatóság: a külföldi befektetési vállalkozás, árutőzsdei szolgáltató, pénzügyi intézmény, befektetési alapkezelő, szabályozott piac, tőzsde, központi értéktár, elszámolóház, központi szerződő fél tevékenységi felügyeletét ellátó külföldi szervezet,
+- 48a. felügyelt adatszolgáltató: a pénzügyi eszközökben és pénzügyi ügyletekben referenciamutatóként vagy a befektetési alapok teljesítményének méréséhez felhasznált indexekről, valamint a 2008/48/EK és a 2014/17/EU irányelv, továbbá az 596/2014/EU rendelet módosításáról szóló, (EU) 2016/1011 európai parlamenti és tanácsi rendeletben [a továbbiakban: (EU) 2016/1011 rendelet] ekként meghatározott fogalom,
 - 49. fogadó tagállam: az V. Fejezet alkalmazásában az a – 140. pont b) alpontjában meghatározott székhely szerinti tagállamtól eltérő – tagállam, amelynek szabályozott piacára az értékpapírt bevezették,
 - 50. forgalomba hozatal: az értékpapír tulajdonjogának első ízben történő keletkeztetésére irányuló eljárás,
 - 51. forgalmazó: az értékpapír forgalomba hozatalában közreműködő befektetési vállalkozás, hitelintézet,
@@ -141,10 +142,9 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 - 66. kibocsátási program: egy kibocsátótól származó, hitelviszonyt megtestesítő értékpapírok, illetve zártvégű befektetési alapra forgalomba hozott befektetési jegyek egymást követő nyilvános értékpapírkibocsátás-összessége, amelynek alapfeltételeit a kibocsátó, illetve az alapkezelő a program indításakor rögzíti, és az egyes részkibocsátások során a kibocsátó, illetve az alapkezelő meghatározza a kibocsátás egyedi adatait,
 - 67. kibocsátó: az a személy, aki az értékpapírban megtestesített kötelezettség teljesítését a maga nevében vállalja,
 - 68. kiszervezés: olyan megállapodás a tőzsde, a központi értéktár, a központi szerződő fél és egy más személy között, amelynek keretében a kiszervezett tevékenységet végző olyan tevékenységet folytat, amelyet egyébként a tőzsde, a központi értéktár, a központi szerződő fél maga végezne,
-- 69. kis- és középvállalkozás: olyan vállalkozás, amely utolsó éves vagy konszolidált beszámolója szerint legalább két feltételnek megfelel az alábbiak közül:
-  - a) az összes foglalkoztatotti létszáma kettőszázötven főnél kevesebb,
-  - b) mérlegfőösszege nem haladja meg a negyvenhárommillió eurót, illetve a mérleg fordulónapján érvényes MNB által közzétett hivatalos devizaárfolyamon számítva az ennek megfelelő forintösszeget,
-  - c) éves árbevétele nem haladja meg az ötvenmillió eurót, illetve a mérleg fordulónapján érvényes MNB által közzétett hivatalos devizaárfolyamon számítva az ennek megfelelő forintösszeget,
+- 69. kis- és középvállalkozás: olyan vállalkozás, amelynek utolsó éves vagy konszolidált beszámolója szerint:
+  - a) az összes foglalkoztatotti létszáma kettőszázötven főnél kevesebb és
+  - b) mérlegfőösszege nem haladja meg a negyvenhárommillió eurót – illetve a mérleg fordulónapján érvényes, MNB által közzétett hivatalos devizaárfolyamon számítva az ennek megfelelő forintösszeget – vagy éves árbevétele nem haladja meg az ötvenmillió eurót, illetve a mérleg fordulónapján érvényes, MNB által közzétett hivatalos devizaárfolyamon számítva az ennek megfelelő forintösszeget,
 - 70. elszámolás: a tőzsdén, tőzsdén kívül árura, illetve pénzügyi eszközre kötött ügyletek elszámolására vonatkozó megbízások feldolgozásának, egyeztetésének és megerősítésének a folyamata, a teljesítés alapjául szolgáló végső elszámolandó pozíció kialakítása a teljesítést megelőzően (bruttó vagy nettó elven), valamint annak biztosítása, hogy megfelelő eszközök álljanak rendelkezésre a teljesítéshez,
 - 71–74.
 - 75. konszolidált beszámoló: az Szmt. szerint meghatározott beszámoló,
@@ -189,6 +189,7 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 - 107a. projektgazda: az (EU) 2020/1503 európai parlamenti és tanácsi rendeletben ekként meghatározott fogalom,
 - 108. referenciaadat: a központi hitelinformációs rendszerről szóló törvényben meghatározott fogalom,
 - 109. referenciaadat-szolgáltató: a befektetési hitel nyújtására vonatkozó engedéllyel rendelkező, illetve értékpapír-kölcsönzési tevékenységet végző szervezet (befektetési vállalkozás, kollektív befektetési forma, befektetési alapkezelő, központi értéktár, pénzügyi intézmény, önkéntes kölcsönös biztosító pénztár, magánnyugdíjpénztár, biztosító),
+- 109a. referenciamutató-kezelő: az (EU) 2016/1011 rendeletben ekként meghatározott fogalom,
 - 110. repó- és fordított repóügylet: minden olyan megállapodás, amely értékpapír vagy áru tulajdonjogának, illetve az értékpapír vagy áru tulajdonjogához fűződő garantált jog átruházására vonatkozik – ha e garanciát olyan elismert tőzsde bocsátja ki, amely az értékpapírhoz vagy az áruhoz fűződő joggal rendelkezik –, és a megállapodás nem teszi lehetővé az eladó számára, hogy az adott értékpapírt vagy árut adott időpontban egyszerre több félnek ruházza át, illetőleg más ügylethez adja biztosítékul. A szerződéskötéssel egyidejűleg az értékpapírra vagy árura az eladó visszavásárlási kötelezettséget, a vevő az eladó részére történő viszonteladási kötelezettséget vállal a szerződésben meghatározott vagy az eladó által meghatározandó jövőbeli időpontban történő meghatározott visszavásárlási, illetve viszonteladási áron. A felek közötti megállapodás rendelkezhet úgy is, hogy az ügylet tárgyát képező és biztosítékul szolgáló értékpapír vagy áru más, egyenértékű értékpapírra vagy árura kicserélhető. Az ügylet az értékpapír vagy áru eladója szempontjából repóügyletnek, az értékpapír vagy áru vevője szempontjából fordított repóügyletnek tekintendő,
 - 111. részesedési viszony: egy személy és egy vállalkozás között létrejött olyan – ellenőrző befolyásnak nem minősülő – kapcsolat, amelynek alapján a személy – közvetlenül vagy közvetett módon – a szavazati jogok vagy a tagi részesedés legalább húsz százalékát birtokolja. A szavazati jogok figyelembevételénél az Szmt. vonatkozó előírásai szerint kell eljárni, függetlenül attól, hogy a személy az Szmt. hatálya alá tartozik-e,
 - 112. rövid pozíció: minden olyan pozíció, amely esetében az érdekeltség az alapul szolgáló eszköz árváltozását tekintve, árcsökkenés hatására értéknövekedésben nyilvánul meg,
@@ -552,13 +553,17 @@ együtt kell alkalmazni.
 
 21. § (1) Ha e törvény, illetve az (EU) 2017/1129 rendelet másként nem rendelkezik, értékpapírra történő nyilvános ajánlattétel, illetve értékpapír szabályozott piacra történő bevezetése esetén a kibocsátó, az ajánlattevő, az értékpapír szabályozott piacra történő bevezetését kezdeményező személy az (EU) 2017/1129 rendelet szerinti kibocsátási tájékoztatót (a továbbiakban: tájékoztató) köteles közzétenni. A tájékoztató közzétételéhez a Felügyelet – (EU) 2017/1129 rendelet szerinti – jóváhagyása szükséges.
 
-(1a) Tájékoztató közzététele helyett a 3. számú melléklet szerinti tartalommal kell minimum tájékoztatót készíteni értékpapírra vonatkozó olyan nyilvános ajánlattétel esetén, amikor az értékpapír ajánlattételi ellenértéke tizenkét hónapon belül európai uniós szinten egymillió eurónál vagy annak megfelelő összegnél kisebb, és az értékpapírra vonatkozó nyilvános ajánlattétel nem feleltethető meg az (EU) 2017/1129 rendelet 1. cikk (4) bekezdése szerinti esetek egyikének sem. Jelentős új tényezők, lényeges hibák vagy lényeges pontatlanságok esetén a minimum tájékoztatóhoz indokolatlan késedelem nélkül kiegészítést kell fűzni.
+(1a) Tájékoztató közzététele helyett az (EU) 2017/1129 rendelet 7. cikk (3) bekezdése szerinti terjedelemben és a 7. cikk (4)–(10) bekezdése szerinti tartalommal kell minimum tájékoztatót készíteni értékpapírra vonatkozó olyan nyilvános ajánlattétel esetén, ha
 
-(1b) A kibocsátó, illetve az ajánlattevő az (1a) bekezdés szerinti minimum tájékoztatót a Felügyelet jóváhagyását követően észszerű időn belül elérhetővé teszi a kibocsátó, illetve az ajánlattevő honlapján.
+- a) az értékpapír ajánlattételi ellenértéke tizenkét hónapon belül európai uniós szinten ötmillió eurónál vagy annak megfelelő összegnél kisebb,
+- b) az értékpapírra vonatkozó nyilvános ajánlattétel nem feleltethető meg az (EU) 2017/1129 rendelet 1. cikk (4) bekezdése szerinti esetek egyikének sem, és
+- c) az ajánlattételre nem vonatkozik az (EU) 2017/1129 rendelet 25. cikke szerinti iratküldési eljárás kötelezettsége.
+
+(1b) Jelentős új tényezők, lényeges hibák vagy lényeges pontatlanságok esetén az (1a) bekezdés szerinti minimum tájékoztatóhoz indokolatlan késedelem nélkül kiegészítést kell fűzni. A kibocsátó, illetve az ajánlattevő a minimum tájékoztatót a Felügyeletnek történő benyújtással egyidejűleg közzéteszi az (EU) 2017/1129 rendelet 21. cikk (2) bekezdésének megfelelően.
 
 (1c) Az (EU) 2017/1129 rendelet
 
-- a) 1. cikke (4) bekezdésének a)–e) és j) pontjában foglalt nyilvános ajánlattétel esetén a 16. §-ban,
+- a) 1. cikke (4) bekezdésének a)–d), e) és j) pontjában foglalt nyilvános ajánlattétel esetén a 16. §-ban,
 - b) 1. cikke (4) bekezdésében foglalt nyilvános ajánlattétel és 1. cikke (5) bekezdésének a)–h) pontjában foglalt szabályozott piacra történő bevezetés esetén a 17. § (1) bekezdésében
 
 foglalt szabályokat kell megfelelően alkalmazni.
@@ -615,7 +620,7 @@ foglalt szabályokat kell megfelelően alkalmazni.
 
 (3) A másodlagos értékpapír forgalomba hozatalának időpontjától annak bevonásáig az elsődleges értékpapír által jog nem gyakorolható.
 
-25. § (1) Semmis az értékpapír jegyzése, illetve az adásvételére kötött szerződés, ha – az (EU) 2017/1129 rendelet 1. cikk (4) és (5) bekezdésében foglalt kivétellel – az értékpapírt a Felügyelet által jóváhagyott tájékoztató vagy minimum tájékoztató hiányában, illetve – a 23. § (1) bekezdésében meghatározott eset kivételével – befektetési szolgáltató igénybevétele nélkül hozták nyilvánosan forgalomba. Ugyancsak semmis az értékpapír jegyzése, illetve az adásvételére kötött szerződés, ha zártkörűen működő részvénytársaság részvénye a működési forma megváltoztatására vonatkozó közgyűlési határozat nélkül került nyilvános ajánlattételre, illetve kezdeményezték annak szabályozott piacra történő bevezetését.
+25. § (1) Semmis az értékpapír jegyzése, illetve az adásvételére kötött szerződés, ha – az (EU) 2017/1129 rendelet 1. cikk (4) és (5) bekezdésében foglalt kivétellel – az értékpapírt a Felügyelet által jóváhagyott tájékoztató vagy a Felügyeletnek benyújtott minimum tájékoztató hiányában, illetve – a 23. § (1) bekezdésében meghatározott eset kivételével – befektetési szolgáltató igénybevétele nélkül hozták nyilvánosan forgalomba. Ugyancsak semmis az értékpapír jegyzése, illetve az adásvételére kötött szerződés, ha zártkörűen működő részvénytársaság részvénye a működési forma megváltoztatására vonatkozó közgyűlési határozat nélkül került nyilvános ajánlattételre, illetve kezdeményezték annak szabályozott piacra történő bevezetését.
 
 (2) Az (1) bekezdés szerinti esetben a befektetőknek okozott kárért a kibocsátó, az ajánlattevő, az értékpapír szabályozott piacra történő bevezetését kezdeményező személy és a forgalmazó egyetemlegesen felel.
 
@@ -629,7 +634,7 @@ foglalt szabályokat kell megfelelően alkalmazni.
 
 (2) A tájékoztatót, minimum tájékoztatót az (1) bekezdés szerint felelős valamennyi személy köteles külön aláírt felelősségvállaló nyilatkozattal ellátni. A nyilatkozatnak tartalmaznia kell azt, hogy a tájékoztató, illetve a minimum tájékoztató a valóságnak megfelelő adatokat és állításokat tartalmazza, illetve nem hallgat el olyan tényeket és információkat, amelyek az értékpapír, valamint a kibocsátó és az értékpapírban foglalt kötelezettségért kezességet (garanciát) vállaló személy helyzetének megítélése szempontjából jelentőséggel bírnak.
 
-(3) Felelősség nem állapítható meg kizárólag az (EU) 2017/1129 rendelet 7. cikke szerinti összefoglaló vagy a növekvő vállalatok uniós tájékoztatójának az (EU) 2017/1129 rendelet 15. cikk (1) bekezdésének második albekezdése szerinti egyedi összefoglalója alapján – ideértve annak bármely nyelvre lefordított változatát is – kivéve, ha
+(3) Felelősség nem állapítható meg kizárólag az (EU) 2017/1129 rendelet 7. cikke szerinti összefoglaló alapján – ideértve annak bármely nyelvre lefordított változatát is – kivéve, ha
 
 - a) az félrevezető, pontatlan vagy a tájékoztatóban foglalt információnak nem megfelelő információt tartalmaz, vagy
 - b) – a tájékoztatóban foglalt információkkal összevetve – nem tartalmaz kiemelt információkat annak érdekében, hogy segítsen a befektetőknek megállapítani, érdemes-e befektetniük az adott értékpapírokba.
@@ -3140,6 +3145,14 @@ azzal, hogy a tőzsde szabályzatában megkülönböztetés-mentes alapon meghat
 
 (6) Az (1) és (3) bekezdésnek való megfelelés lehetővé tétele érdekében a szabályozott piac tagjai a piacműködtetőnek legalább naponta bejelentik saját maguk, valamint ügyfeleik által és azok ügyfelei által – a végső ügyfél eléréséig – az adott szabályozott piacon végrehajtott ügyletek révén tartott pozíciók adatait.
 
+317/C. § (1) Azon vállalkozás piaci tőkeértéke, amelynek részvényeit a szabályozott piacra kívánják bevezetni, vagy ha ezt nem lehet felmérni, a vállalkozás saját tőkéje – az eredményt is beleértve – a részvények bevezetését megelőző pénzügyi évben legalább 1 000 000 eurót vagy az eurótól eltérő nemzeti pénznemben kifejezett, azzal egyenértékű összeget eléri.
+
+(2) Az (1) bekezdés nem alkalmazandó a már bevezetett részvényekkel helyettesíthető részvények szabályozott piacra történő bevezetésére.
+
+(3) A szabályozott piacon a piacműködtető szabályzatban rögzíti, hogy azon részvényosztály által képviselt jegyzett tőke legalább 10%-a, amelyre a szabályozott piaci bevezetés iránti kérelem vonatkozik, a szabályozott piacra történő bevezetés időpontjában közkézhányadként jelenjen meg.
+
+(4) Ha a szabályozott piacra a már bevezetett részvényekkel helyettesíthető részvényeket kívánnak bevezetni, akkor a piacműködtető meghatározza a (3) bekezdés tekintetében a már bevezetett részvényekkel helyettesíthető részvényekhez és az összes kibocsátott részvényhez viszonyított közkézhányad arányát.
+
 318. § (1) A tőzsde szabályzatainak érvényességéhez – a 317. § (4) bekezdésének j) pontja szerinti szabályzat kivételével – a Felügyelet jóváhagyása szükséges.
 
 (2) A Felügyelet a jóváhagyást akkor tagadja meg, ha a szabályzat nem felel meg e törvény vagy más jogszabály, illetve más tőzsdei szabályzat rendelkezésének, vagy ellentétes a központi szerződő fél, illetve a központi értéktár szabályzatával.
@@ -4034,8 +4047,17 @@ gyakorolt hatásának, veszélyességi fokának figyelembevételével választja
 - b) kötelez a jogsértésből származó nyereség vagy az amiatt elkerült veszteség összegének ellentételezésére, ha az összegszerűen meghatározható,
 - c) nyilvános figyelmeztetést alkalmaz, amelyben megnevezi a jogsértésért felelős személyt és a jogsértés jellegét,
 - d) visszavonja vagy felfüggeszti a befektetési vállalkozás befektetési szolgáltatás végzésére, kiegészítő szolgáltatás nyújtására jogosító engedélyét,
-- e) ideiglenesen eltiltja befektetési vállalkozás vezetői feladatainak ellátásától, illetve a sajátszámlás kereskedéstől a befektetési vállalkozás vezető testülete bármely olyan tagját vagy bármely olyan természetes személyt, akinek a jogsértésért való felelősségét megállapították,
-- f) véglegesen eltiltja befektetési vállalkozás vezetői feladatainak ellátásától a befektetési vállalkozás vezető testülete bármely olyan tagját vagy bármely olyan természetes személyt, akinek az 596/2014/EU rendelet 14. és 15. cikkében foglalt jogsértések többszöri elkövetéséért való felelősségét megállapították.
+- e) ideiglenesen eltiltja befektetési vállalkozás, referenciamutató-kezelő vagy felügyelt adatszolgáltató vezetői feladatainak ellátásától a befektetési vállalkozás vezető állású személyét vagy bármely olyan természetes személyt, akinek a jogsértésért való felelősségét megállapították,
+- f) ideiglenesen eltiltja a sajátszámlás kereskedéstől a befektetési vállalkozás, referenciamutató-kezelő vagy felügyelt adatszolgáltató bármely vezető állású személyét vagy bármely olyan természetes személyt, akinek a jogsértésért való felelősségét megállapították,
+- g) legalább tíz évre eltiltja befektetési vállalkozás, referenciamutató-kezelő vagy felügyelt adatszolgáltató vezetői feladatainak ellátásától a befektetési vállalkozás, referenciamutató-kezelő vagy felügyelt adatszolgáltató vezető állású személyét, bármely olyan természetes személyt, akinek az 596/2014/EU rendelet 14. és 15. cikkében foglalt jogsértések többszöri elkövetéséért való felelősségét megállapították.
+
+(2a) Az 596/2014/EU rendelet megsértése esetén alkalmazható szankcionálási hatáskörök gyakorlása során az intézkedés típusának és mértékének a meghatározásakor a Felügyelet figyelembe vesz minden lényeges körülményt, így különösen az MNBtv. 75. § (4) bekezdése szerinti szempontokat és az alábbi körülményeket:
+
+- a) a jogsértés időtartama,
+- b) a jogsértésért felelős természetes vagy jogi személy felelősségének mértéke,
+- c) a felelős természetes vagy jogi személynek elsősorban a felelős jogi személy teljes árbevételében vagy a felelős természetes személy éves jövedelmében kifejezett pénzügyi ereje,
+- d) a felelős természetes vagy jogi személy Felügyelettel való együttműködésének mértéke, amitől függetlenül gondoskodni kell az adott személy által – nyereség elérésével vagy veszteség elkerülésével – szerzett haszon visszaszolgáltatásáról, valamint
+- e) a felelős személy által a jogsértés megismétlődésének megelőzése érdekében hozott intézkedések.
 
 (3) A Felügyelet a 909/2014/EU rendelet
 
@@ -4602,82 +4624,6 @@ alakul át.
 
 ### 3. számú melléklet a 2001. évi CXX. törvényhez
 
-A minimum tájékoztató kötelező tartalmi elemei
-
-A minimum tájékoztatónak legalább a következő adatokat kell tartalmaznia:
-
-a) Az (EU) 2017/1129 európai parlamenti és tanács rendelet szerinti összefoglaló
-
-b) Alapvető információk
-
-A cél a vállalkozás pénzügyi helyzetére, tőkeszerkezetére és a vállalkozáshoz kapcsolódó kockázati tényezőkre vonatkozó alapvető információk összesítése. Ha a dokumentumban foglalt pénzügyi kimutatásokat a vállalkozás csoportstruktúrájában vagy számviteli politikájában bekövetkezett lényeges változások tükrözése érdekében módosítják, a fő pénzügyi információkat is módosítani kell.
-
-1. Fő pénzügyi információk
-
-2. Tőkeellátottság és kötelezettségek (kizárólag tulajdonviszonyt megtestesítő értékpapírok esetében)
-
-3. Az ajánlattétel indokai és az abból befolyó bevételek felhasználása
-
-4. Kockázati tényezők
-
-c) A vállalkozásra vonatkozó információk
-
-A cél információk szolgáltatása a vállalkozás üzleti tevékenységéről, az általa előállított termékekről vagy nyújtott szolgáltatásokról, valamint az üzletmenetet befolyásoló tényezőkről. Az is célja, hogy információkkal szolgáljon a vállalkozás ingatlanvagyonának, gépeinek és berendezéseinek megfelelő és alkalmas voltáról, valamint jövőbeli kapacitásbővítési vagy szűkítési terveiről.
-
-1. A vállalkozás múltja és fejlődése
-
-2. Üzleti áttekintés
-
-3. Szervezeti felépítés
-
-4. Ingatlanvagyon, gépek és berendezések
-
-d) Működési és pénzügyi áttekintés és kilátások
-
-E szakasz célja, hogy ismertesse a vállalatvezetés magyarázatát azon tényezőkre vonatkozóan, amelyek befolyásolják a vállalkozás pénzügyi helyzetét és a pénzügyi kimutatások által lefedett múltbeli pénzügyi helyzetét és működési eredményeit, továbbá bemutassa az azon tényezőkre és trendekre vonatkozó értékelését, amelyek az elkövetkezendő időszakokban várhatóan lényeges hatással lesznek a vállalkozás pénzügyi helyzetére és működési eredményeire.
-
-1. Üzleti eredmények
-
-2. Likviditás és tőkeforrások
-
-3. Kutatás és fejlesztés, szabadalmak és engedélyek stb.
-
-4. Trendek
-
-e) Igazgatók, vezető tisztségviselők és munkavállalók
-
-A cél információk szolgáltatása a vállalkozás igazgatóiról és vezető tisztségviselőiről, ami lehetővé teszi a befektetők számára, hogy értékeljék azok szakértelmét, képesítését és javadalmazásuk szintjét, valamint a vállalkozáshoz fűződő viszonyukat.
-
-1. Igazgatók és vezető tisztségviselők
-
-2. Javadalmazás
-
-3. A vezető testületekre vonatkozó információk
-
-4. Munkavállalók
-
-5. Részvénytulajdonlás
-
-f) Az ajánlattétel részletes adatai
-
-A cél információk szolgáltatása az értékpapírokra vonatkozó ajánlattételről, az értékpapírok forgalomba hozatali tervéről és a kapcsolódó kérdésekről.
-
-1. Ajánlattétel
-
-2. Forgalomba hozatali terv
-
-3. Piacok
-
-4. Eladó értékpapírokkal rendelkezők
-
-5. Felhígítás (kizárólag tulajdonviszonyt megtestesítő értékpapíroknál)
-
-6. A kibocsátás költségei
-
-7. A nyilvánosan felajánlott értékpapírok fajtája és osztálya
-
-8. Az értékpapírokban megtestesített jogok ismertetése, ideértve e jogok bármely korlátozását és a gyakorlásukra vonatkozó eljárást
-
 ### 4. számú melléklet a 2001. évi CXX. törvényhez
 
 A helyi önkormányzatok kötvénykibocsátásához készített tájékoztató kötelező tartalmi elemei
@@ -5002,7 +4948,7 @@ E törvény és az e törvény felhatalmazása alapján kiadott jogszabályok al
 Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
 - 1. Az Európai Parlament és a Tanács 1997. március 3-i 97/9/EK irányelve a befektetővédelmi rendszerekről.
-- 2. Az Európai Parlament és a Tanács 2001. május 28-i, 2001/34/EK irányelve az értékpapírok hivatalos tőzsdei jegyzésre történő bevezetéséről és az ilyen értékpapírokról közzéteendő információról.
+- 2.
 - 3. Az Európai Parlament és a Tanács 2002. június 6-i 2002/47/EK irányelve a pénzügyi biztosítékokról szóló megállapodásokról.
 - 4. Az Európai Parlament és a Tanács 2002. december 16-i 2002/87/EK irányelve a pénzügyi konglomerátumhoz tartozó hitelintézetek, biztosítók és befektetési vállalkozások kiegészítő felügyeletéről, valamint a 73/239/EGK, a 79/267/EGK, a 92/96/EGK, a 93/6/EGK és a 93/22/EGK tanácsi, továbbá a 98/78/EK és a 2000/12/EK európai parlamenti és tanácsi irányelv módosításáról.
 - 5. Az éves és összevont (konszolidált) éves beszámolók jog szerinti könyvvizsgálatáról szóló 2006/43/EK irányelv módosításáról szóló, 2014. április 16-i 2014/56/EU európai parlamenti és tanácsi irányelv.
@@ -5039,5 +4985,7 @@ Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálj
 - 36. A pénzügyi eszközök piacairól szóló 2014/65/EU irányelv módosításáról szóló, 2024. február 28-i (EU) 2024/790 európai parlamenti és tanácsi irányelv.
 - 37. Az egyes irányelveknek az egységes európai hozzáférési pont létrehozása és működése tekintetében történő módosításáról szóló, 2023. december 13-i (EU) 2023/2864 európai parlamenti és tanácsi irányelv.
 - 38. A pénzügyi szolgáltatások, a tőkepiacok és a fenntarthatóság szempontjából lényeges, nyilvánosan elérhető információkhoz központosított hozzáférést biztosító egységes európai hozzáférési pont létrehozásáról szóló, 2023. december 13-i (EU) 2023/2859 európai tanácsi és parlamenti rendelet.
+- 39. a 2014/65/EU irányelvnek az uniós nyilvános tőkepiacok vállalkozások számára vonzóbbá tétele, továbbá a kis- és középvállalkozások tőkéhez jutásának megkönnyítése érdekében történő módosításáról és a 2001/34/EK irányelv hatályon kívül helyezéséről szóló 2024. október 23-i (EU) 2024/2811 európai parlamenti és tanácsi irányelv,
+- 40. az (EU) 2017/1129, az 596/2014/EU és a 600/2014/EU rendeletnek az uniós tőkepiacok vállalkozások számára vonzóbbá tétele, valamint a kis- és középvállalkozások tőkéhez jutásának megkönnyítése érdekében történő módosításáról szóló, 2024. október 23-i (EU) 2024/2809 európai parlamenti és tanácsi rendelet.
 
 ### 26. számú melléklet a 2001. évi CXX. törvényhez
