@@ -12,7 +12,7 @@ a következő törvényt alkotja:
 
 1. § (1) Az MFB Zrt. egyszemélyes, zártkörű részvénytársaság formájában működő szakosított hitelintézet.
 
-(2) Az MFB Zrt. részvényeinek száz százaléka az állam tulajdonában van, az MFB Zrt.-ben az államot mint egyszemélyes tulajdonost az állami vagyon felügyeletéért felelős miniszter (a továbbiakban: miniszter) képviseli. A részvények elidegenítése, biztosítékul adása semmis.
+(2) Az MFB Zrt. részvényeinek száz százaléka az állam tulajdonában van, az MFB Zrt.-ben az államot mint egyszemélyes tulajdonost a gazdaságfejlesztésért felelős miniszter (a továbbiakban: miniszter) képviseli. A részvények elidegenítése, biztosítékul adása semmis.
 
 (3) Az MFB Zrt. jegyzett tőkéje legalább 100.000.000.000,– Ft, azaz százmilliárd forint.
 
@@ -28,25 +28,25 @@ a következő törvényt alkotja:
 
 ### II. Fejezet — AZ MFB ZRT. FELADATAI, TEVÉKENYSÉGI KÖRE
 
-2. § Az MFB Zrt. feladata, hogy a 3. §-ban meghatározott tevékenységi körében – az átláthatóság, a célszerűség, a gazdaságosság, a hatékonyság és a prudencia követelményeinek megfelelően – a Kormány közép- és hosszú távú gazdaságstratégiája által meghatározott gazdaságfejlesztési célok megvalósításához szükséges fejlesztési források, a fővárosi önkormányzat csődjének elkerülését szolgáló hitel nyújtásáról szóló törvény szerinti források biztosítása érdekében, részben önállóan, részben más hazai és nemzetközi szervezetekkel közösen részt vegyen
+2. § Az MFB Zrt. feladata, hogy a 3. §-ban meghatározott tevékenységi körében – az átláthatóság, a célszerűség, a gazdaságosság, a hatékonyság és a prudencia követelményeinek megfelelően – a Kormány közép- és hosszú távú gazdaságstratégiája által meghatározott gazdaságfejlesztési célok megvalósításához szükséges fejlesztési források biztosítása érdekében, részben önállóan, részben más hazai és nemzetközi szervezetekkel közösen részt vegyen
 
 - a) a gazdaságfejlesztési célok megvalósításához szükséges közép- és hosszú lejáratú hazai és külföldi források, illetőleg támogatások bevonásában és közvetítésében;
 - b) a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény hatálya alá tartozó, kiemelt jelentőségű üggyel összefüggő beruházások, valamint egyéb állami, önkormányzati fejlesztések és beruházások (így különösen az infrastrukturális, agrár, környezetvédelmi, munkahelyteremtő, oktatási, turisztikai, sport és szabadidős célú, valamint a strukturális és regionális különbségek kiegyenlítését, illetőleg vidékfejlesztést, a térség- és településfelzárkóztatást szolgáló), továbbá az ezekhez kapcsolódó más fejlesztések, beruházások és mindezek bővítéséhez szükséges fejlesztések, beruházások hitel- és tőkefinanszírozásában;
 - c) a magyarországi székhelyű gazdálkodó szervezetek (ezen belül elsődlegesen a kis- és középvállalkozások), egyházi jogi személyek, valamint törvénnyel létrehozott – elkülönített állami pénzalapnak nem minősülő – vagyonkezelést is végző pénzalapok, továbbá a mezőgazdasági őstermelők és az őstermelők családi gazdasága tevékenységének hitel- és tőkefinanszírozásában, továbbá az ezekben egyéb módon történő fejlesztési célú részesedésszerzésben;
 - d) az európai uniós tagsághoz kapcsolódó állami és önkormányzati fejlesztések, beruházások pénzügyi lebonyolításában, valamint – külön jogszabályban szabályozott eljárás szerint – az Európai Közösség pénzeszközeinek igénybevételéhez kapcsolódó feladatok (ideértve a támogatás közvetítést, illetve a nemzetközi gazdasági vagy pénzügyi intézménytől történő forrásbevonást és közvetítést is) ellátásában;
 - e) az egyes állami, közösségi, illetőleg nemzetközi fejlesztési kifizetésekhez kapcsolódó feladatok (így különösen a fejlesztési célú kiadások, illetőleg támogatások közvetítésének, felhasználásának előkészítését, összehangolását, a kapcsolódó közreműködői feladatok ellátását, valamint a kifizetések felhasználásának elszámolását és értékelését) ellátásában;
-- f) a Kormány határozata alapján 1. az állami és a helyi önkormányzati tulajdonban lévő vagyon értékesítése során, annak megvásárlásához, 2. a lakóépület felújításához a lakásszövetkezet, illetőleg a társasház tulajdonostársainak közössége részére, 3. a magyar állampolgárok, illetőleg legalább egy éve életvitelszerűen Magyarországon tartózkodó természetes személyek fejlesztési beruházásaihoz szükséges hitelek refinanszírozásában;
-- g) a Kormány határozata alapján az elemi kárt szenvedett térségben a gazdálkodó szervezetek, önkormányzatok és természetes személyek részére a kár következményeinek felszámolását szolgáló beruházások finanszírozásához szükséges hitel, illetve kölcsön formájában történő biztosításában;
+- f)
+- g)
 - h) az európai uniós források, valamint az ezek felhasználásáról szóló jogszabályok által meghatározott források közvetítésében és ezen feladatához kapcsolódó hitel- és tőkefinanszírozásban, garancia nyújtásában és kezesség vállalásában, vissza nem térítendő támogatás nyújtásában;
-- i) a Kormány határozata alapján a Magyar Vállalkozásfejlesztési Alapítvány, valamint a vármegyei és fővárosi vállalkozásfejlesztési alapítványok mikrohitelezési tevékenységéhez szükséges hitelek, illetve kölcsönök finanszírozásában;
+- i)
 - j) jogszabályban meghatározottak szerint kötelező intézményvédelmi szervezetben és a kötelező intézményvédelmi szervezet vagyoni eszközökkel való ellátásában;
 - k) az MFB Zrt., valamint az állam közvetlen vagy közvetett tulajdoni részesedésével működő gazdálkodó szervezetek hitel- és tőkefinanszírozásában, valamint az érdekükben történő garancia nyújtásában és fizetési kötelezettségeikért kezesség vállalásában;
 - l) az állam nevében a tulajdonosi jogok gyakorlásában törvényben meghatározott állami tulajdonú gazdálkodó szervezetek esetében nemzetgazdasági szempontból jelentős fejlesztések, beruházások megvalósítása, bővítése, hatékonyságának növelése, valamint a versenyképesség javítása érdekében,;
 - m) az MFB Zrt. tulajdonosi joggyakorlása alatt álló, valamint az MFB Zrt. közvetlen vagy közvetett tulajdoni részesedésével működő gazdálkodó szervezetek, valamint e gazdálkodó szervezetek közvetlen vagy közvetett tulajdonában álló gazdálkodó szervezetek részére a tevékenységük megfelelő színvonalú ellátását, az átlátható és prudens működésüket, annak jogszerűségét biztosító szolgáltatások nyújtásában;
 - m)
-- n) a Kormány egyedi határozata alapján a fővárosi önkormányzat csődjének elkerülését szolgáló hitel nyújtásáról szóló törvény szerinti hitel, illetve kölcsön nyújtásában;
+- n)
 - o) szerződés alapján a 2014. évi XXIV. törvénnyel kihirdetett az Oroszországi Föderáció Kormánya és Magyarország Kormánya között a Magyarország Kormányának a magyarországi atomerőmű építésének finanszírozásához nyújtandó állami hitel folyósításáról szóló megállapodás 1. cikk 2. pontja és 2. cikk 2. pontja végrehajtásának elősegítése érdekében iratvizsgálati feladatok ellátásában,
-- p) kormányrendeletben meghatározott kiemelt nemzeti emlékhely és településkép-védelmi környezet megóvását, kialakítását, az épített és a természeti környezet egységes védelmét szolgáló – ingatlanok fenntartásához, helyreállításához, felújításához vagy átalakításához kapcsolódó – beruházások finanszírozásához szükséges hitel, illetve kölcsön formájában történő biztosításában,
+- p)
 - q)
 
 3. § (1) Az MFB Zrt. kizárólag a 2. §-ban felsorolt feladataihoz közvetlenül kapcsolódó üzletszerű tevékenységet végezhet.
@@ -72,7 +72,7 @@ a következő törvényt alkotja:
 
 - a) támogatott pályázatok kezelését;
 - b) döntés-előkészítést;
-- c) pénzügyi lebonyolítást;
+- c) pénzügyi lebonyolítást, ideértve a forrás kiutalása keretében a devizanemek közötti átváltást is;
 - d) monitoring végzését;
 - e) a forrásfelhasználás és a támogatott cél megvalósításának vizsgálatát;
 - f) visszatérítendő, valamint vissza nem térítendő európai uniós források jogszabálysértő, nem rendeltetésszerű vagy szerződésellenes felhasználásából származó követelések érvényesítését, ide nem értve az adók módjára történő behajtást;
@@ -121,7 +121,10 @@ a következő törvényt alkotja:
 
 (5b) Az MFB Zrt. Magyarországon létrehozott, magyarországi székhelyű befektetési alapkezelő által kezelt befektetési alap által kibocsátott befektetési jegyet a 2. §-ban meghatározott feladatai ellátása érdekében végzett pénzügyi szolgáltatási tevékenységéhez kapcsolódóan biztosítékok érvényesítése céljából is szerezhet azzal, hogy ebben az esetben az (5) bekezdésben meghatározott, a befektetés minél magasabb mértékű megtérülésére vonatkozó feltétel nem alkalmazandó.
 
-(6) Az MFB Zrt. kizárólag olyan személy, illetve szervezet részére nyújthat hitelt, illetve kölcsönt, valamint csak olyan személy, illetve szervezet érdekében vállalhat kezességet, garanciát, továbbá egyéb bankári kötelezettséget, amely a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 3. § (1) bekezdés 1) pontja szerint átlátható szervezetnek minősül, kivéve a természetes személyeket (ideértve a mezőgazdasági őstermelőket és az őstermelők családi gazdaságának tagját is) és a társasházakat.
+(6) Az MFB Zrt. kizárólag olyan személy, illetve szervezet részére nyújthat hitelt, illetve kölcsönt, valamint csak olyan személy, illetve szervezet érdekében vállalhat kezességet, garanciát, továbbá egyéb bankári kötelezettséget, amely
+
+- a) a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 3. § (1) bekezdés 1. pontja szerint átlátható szervezetnek minősül, kivéve a természetes személyeket (ideértve a mezőgazdasági őstermelőket és az őstermelők családi gazdaságának tagját is) és a társasházakat, továbbá
+- b) a tényleges tulajdonos vagy tulajdonosok személye a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvény 3. § 38. pontja szerint beazonosítható.
 
 ### III. Fejezet — AZ MFB ZRT. KÖLTSÉGVETÉSI
 
@@ -170,9 +173,9 @@ a következő törvényt alkotja:
 
 (10) Az állam a központi költségvetés terhére a (11) bekezdésben meghatározott megállapodás szerint biztosítja a 4. § (5) és (5b) bekezdésében meghatározott befektetési alap által kibocsátott befektetési jegyekbe fektetett tőke, valamint az MFB Zrt. többségi befolyása alatt álló gazdasági társaság tulajdonában lévő befektetési jegyekbe fektetett tőke és a befektetési jegyek helyébe lépő pénzkövetelés különbözetét (a továbbiakban: tőkekiegyenlítés) az MFB Zrt. részére.
 
-(10a) Az állam a központi költségvetés terhére a (11) bekezdésben meghatározott megállapodás szerint biztosítja a 2. § szerint nyújtott hitelek vagy kölcsönök kamatai, valamint az e célt szolgáló finanszírozási költségek különbözetét (a továbbiakban: kamatkiegyenlítés) az MFB Zrt. részére.
+(10a)
 
-(11) A tőke- és kamatkiegyenlítés részletes szabályairól az állam nevében a nemzeti pénzügyi szolgáltatásokért felelős miniszter megállapodást köt az MFB Zrt.-vel.
+(11) A tőkekiegyenlítés részletes szabályairól az állam nevében a nemzeti pénzügyi szolgáltatásokért felelős miniszter megállapodást köt az MFB Zrt.-vel.
 
 ### Az MFB Zrt. kormányzati kapcsolatai
 
@@ -183,6 +186,13 @@ a következő törvényt alkotja:
 (2) A beszámolónak részletesen elemeznie kell az MFB Zrt. éves tevékenységét, a gazdálkodás célszerűségét és jövedelmezőségét. A beszámolónak tartalmaznia kell a pénzügyi, jövedelmi, vagyoni helyzet elemzését, az előző évben vállalt, a korábbi időszakról áthúzódó kötelezettségeket, valamint ezek esedékességének ismertetését és értékelését, továbbá a központi költségvetéssel való elszámolások eredményeit is.
 
 (3) A Kormány a beszámoló alapján áttekinti az MFB Zrt. pénzügyi, jövedelmi és vagyoni helyzetét.
+
+6/A. § (1) Az állam a központi költségvetés terhére a Kormány egyedi határozatával készfizető kezességet az MFB Zrt. javára abban az esetben vállalhat, ha
+
+- a) az adott ügylet vagy ügyletek nemzetgazdasági szempontból indokolt fejlesztési, beruházási feladatot valósítanak meg és
+- b) a fejlesztési, beruházási cél más módon nem érhető el.
+
+(2) A Kormánynak az MFB Zrt. javára vállalt készfizető kezességvállalásról szóló határozatai nyilvánosak.
 
 ### IV. Fejezet — AZ MFB ZRT. MŰKÖDÉSE
 
@@ -204,21 +214,15 @@ szabályok
 
 (1a) Az 575/2013/EU rendelet 4. cikk (1) bekezdés 39. pontjától eltérően az (1) bekezdés alkalmazása során az MFB Zrt. tekintetében nem minősül ügyfélcsoportnak azoknak az ügyfeleknek a köre, amely ügyfelek kizárólag az MFB Zrt.-vel fennálló kapcsolatukra tekintettel képeznének egyetlen kockázati tényezőt.
 
-(1b) Az 575/2013/EU rendelet 4. cikk (1) bekezdés 39. pontjától eltérően az MFB Zrt. tekintetében nem minősül ügyfélcsoportnak azoknak az ügyfeleknek a köre, amelyek
-
-- a) a befektetési jegy formájában részesedéssel rendelkező tulajdonosaikra, befektetési alap által kibocsátott befektetési jegy közvetett vagy közvetlen tulajdonosaira, befektetési alapot kezelő alapkezelőre, ezek keresztkapcsolataira, a bennük részesedéssel rendelkező befektetési alapra, a tulajdonukban lévő befektetési jegyekre, vagy
-- b) a befektetési alap befektetési jegyeinek lejegyzése vagy megvásárlása céljából az MFB Zrt. által nyújtott kölcsönre, továbbá a befektetési alap befektetési jegyeinek lejegyzéséhez vagy megvásárlásához nyújtott kölcsön biztosítékaként az MFB Zrt. által nyújtott garanciára vagy készfizető kezességvállalásra, vagy
-- c) a befektetési alap portfóliójában lévő eszközökkel kapcsolatos jogra vagy kötelezettségre
-
-tekintettel képeznének egyetlen kockázati tényezőt.
+(1b)
 
 (1c) Az (1) bekezdést nem kell alkalmazni az MFB Zrt. közvetlen többségi tulajdoni részesedésével működő gazdasági társaságokra, továbbá az MFB Zrt. tulajdonosi joggyakorlása alatt álló gazdasági társaságokra.
 
 (1d) Az 575/2013/EU rendelet 390. cikk (2) bekezdésében foglaltaktól eltérően az MFB Zrt.-nek az egyedi ügyfelekkel szembeni teljes kitettség kiszámítása során a kollektív befektetési formák befektetési jegyeinek formájában fennálló kitettségeket nem kell figyelembe vennie.
 
-(2) Az MFB Zrt. esetében a Hpt. 17/A. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy az MFB Zrt. mint a szerződésbe belépő pénzügyi intézmény húsz szerződésnél kevesebb szerződést vagy tízmilliárd forintnál kisebb tőketartozást vagy lízingdíj-követelést tartalmazó szerződéses állományt is átvehet a Magyar Nemzeti Bank felügyeleti engedélyével. Az MFB Zrt. esetében a Hpt. 79. § (2) bekezdés b) pontjában, 97. §-ában, 102. § (1) bekezdésében, 110. §, 112. §, és 117–121. §-ában, valamint az 575/2013/EU rendelet 89–91., 102–106. és 411–428. cikkében foglaltakat nem kell alkalmazni. A Hpt. 172–176. §-a és az 575/2013/EU rendelet 11–24. cikkének alkalmazásában az MFB Zrt. pénzügyi vállalkozásnak minősül.
+(2) Az MFB Zrt. esetében a Hpt. 17/A. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy az MFB Zrt. mint a szerződésbe belépő pénzügyi intézmény húsz szerződésnél kevesebb szerződést vagy tízmilliárd forintnál kisebb tőketartozást vagy lízingdíj-követelést tartalmazó szerződéses állományt is átvehet a Magyar Nemzeti Bank felügyeleti engedélyével. Az MFB Zrt. esetében a Hpt. 79. § (2) bekezdés b) pontjában, 97. §-ában, 102. § (1) bekezdésében, 112. §, és 117–121. §-ában, valamint az 575/2013/EU rendelet 89–91., 102–106. és 411–428. cikkében foglaltakat nem kell alkalmazni. A Hpt. 172–176. §-a és az 575/2013/EU rendelet 11–24. cikkének alkalmazásában az MFB Zrt. pénzügyi vállalkozásnak minősül.
 
-(2a)
+(2a) Az MFB Zrt. a Hpt. 110. §-a szerinti kockázatvállalási-kockázatkezelési bizottságot állít fel.
 
 (3) Az MFB Zrt.
 
@@ -255,6 +259,19 @@ szerezhet vagy tarthat fenn közvetlenül vagy közvetve részesedést.
 
 9/A. § A Hpt.-ben foglaltakon túl a Gazdasági Együttműködési és Fejlesztési Szervezet tagországán kívüli országban székhellyel rendelkező pénzügyi intézmény, amelyben az állam, területi közigazgatási szervezet vagy helyi hatóság – külön-külön vagy együttesen, közvetlenül vagy közvetve – többségi részesedéssel rendelkezik, az MFB Zrt. részére a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank (a továbbiakban: MNB) engedélye és magyarországi fióktelep létesítése nélkül is nyújthat hitelt és pénzkölcsönt.
 
+9/B. § Amennyiben az MFB Zrt. közvetlenül vagy pénzügyi intézményeken keresztül hitelt vagy kölcsönt nyújt több ügyfélnek, több ügyfél javára kezességet vagy garanciát vállal, vagy kollektív befektetési alapokba fektet (a továbbiakban: program) előre meghatározott feltételek mellett, akkor a program
+
+- a) szükségességét alátámasztó piaci hiányosságról szóló elemzését,
+- b) által biztosított ösztönző hatásra vonatkozó elemzését,
+- c) szükségességére és arányosságára vonatkozó elemzését, valamint
+- d) hatékonysága értékelésének módját és gyakoriságát
+
+a program bejelentésekor nyilvánosságra hozza.
+
+9/C. § Amennyiben a pénzügyi közvetítő vagy alapkezelő kiválasztása során az MFB Zrt. közbeszerzési eljárást nem köteles lefolytatni, a pénzügyi közvetítőt vagy az alapkezelőt az MFB Zrt. nyílt, nyilvános, az esélyegyenlőséget és az egyenlő bánásmódot biztosító kiválasztási folyamat során választja ki.
+
+9/D. § Az MFB Zrt. minden év június 15. napjáig könyvvizsgálót bíz meg a szervezeti integritását, az összeférhetetlenség feltárását, a kettős finanszírozás megelőzését, a jogszabályi megfelelést biztosító folyamatszabályozást, valamint a pénzügyi közvetítők és alapkezelők díjazásának átláthatóságát biztosító folyamatainak vizsgálatával.
+
 ### Az üzleti könyvek vezetése. Az éves beszámoló
 
 10. § (1) Az MFB Zrt. köteles a miniszter által elfogadott – a könyvvizsgálói záradékot vagy a záradék megadásának elutasítását is tartalmazó – éves beszámolót és az összevont (konszolidált) éves beszámolót az adott üzleti év mérlegfordulónapjától számított 180 napon belül cégbíróságnál letétbe helyezni ugyanolyan formában és tartalommal (szövegezésben), mint amelynek alapján a könyvvizsgáló az éves beszámolót és az összevont (konszolidált) éves beszámolót felülvizsgálta.
@@ -284,6 +301,14 @@ szerezhet vagy tarthat fenn közvetlenül vagy közvetve részesedést.
 ### V/A. Fejezet — AZ MFB ZRT. EURÓPAI UNIÓS FORRÁSKEZELÉSI TEVÉKENYSÉGE
 
 11/A. § Az MFB Zrt. 2. § h) pontja szerinti feladatköre, valamint a 3. § (3) bekezdése szerinti tevékenysége esetében az európai strukturális és beruházási alapokból finanszírozott pénzügyi eszközök végrehajtása során az 1. § (7) bekezdése, valamint a 4. §, 8. §, 8/A. §, 9. § és 11. § rendelkezései nem alkalmazandóak.
+
+11/B. § (1) Amennyiben az MFB Zrt.-ben tőkeemelésre a Helyreállítási és Rezilienciaépítési Eszköz létrehozásáról szóló, 2021. február 12-i (EU) 2021/241 európai parlamenti és tanács rendelet (a továbbiakban: 2021/241 EU rendelet) keretében, az Európai Unió Tanácsa végrehajtási határozatával jóváhagyott helyreállítási és rezilienciaépítési terv alapján biztosított forrásból (a továbbiakban: HET-forrás) kerül sor, a tőkeemelés összegének megfelelő összeg csak a 2021/241 EU rendelet szerinti céloknak megfelelő finanszírozásra fordítható.
+
+(2) A Kormány határozatban állapítja meg, hogy az MFB Zrt. tőkeemelésére fordított forrás mekkora részben minősül HET-forrásnak.
+
+(3) HET-forrás felhasználására kizárólag a kockázatvállalási-kockázatkezelési bizottság előzetes, a forrásfelhasználás jogszerűségét, a 2021/241 EU rendelet szerinti céloknak való megfelelőségét, valamint a forrásfelhasználás szakmai értékelését tartalmazó véleménye alapján kerülhet sor.
+
+(4) Az MFB Zrt. a HET-forrásból finanszírozott programok esetében minden esetben közzéteszi az ügyfél nevét, valamint az ügylet összegét.
 
 ### VI. Fejezet — AZ MFB ZRT. SZERVEZETE
 
@@ -326,7 +351,7 @@ szerezhet vagy tarthat fenn közvetlenül vagy közvetve részesedést.
 
 (3) Az igazgatóság tagja és az igazgatóság tagjának közeli hozzátartozója [Ptk. 8:1. § (1) bekezdés 1. pont] nem lehet európai parlamenti, országgyűlési vagy helyi önkormányzati képviselő, valamint nemzetiségi szószóló.
 
-(4) Az igazgatóság 5–9 tagból áll. Az igazgatóság tagjait a miniszter – öt éves időtartamra – nevezi ki és hívja vissza. Az igazgatóság élén az elnök áll. Az igazgatóság elnökét maga választja tagjai közül.
+(4) Az igazgatóság 5–9 tagból áll. Az igazgatóság tagjait a miniszter – ötéves időtartamra – nevezi ki és hívja vissza. Az igazgatóság tagjai egy alkalommal újra kinevezhetőek. Az igazgatóság élén az elnök áll. Az igazgatóság elnökét maga választja tagjai közül.
 
 15. § (1) Az MFB Zrt. munkaszervezetének élén a szakosított hitelintézettel munkaviszonyban álló vezérigazgató áll.
 
@@ -340,7 +365,7 @@ szerezhet vagy tarthat fenn közvetlenül vagy közvetve részesedést.
 
 (2)
 
-(3) A felügyelőbizottság elnökét és tagjait a miniszter választja meg és hívja vissza.
+(3) A felügyelőbizottság elnökét és tagjait a miniszter nevezi ki és hívja vissza. A felügyelőbizottság tagjai egy alkalommal újra kinevezhetőek.
 
 (4)
 
@@ -378,9 +403,34 @@ szerezhet vagy tarthat fenn közvetlenül vagy közvetve részesedést.
 
 (4b) A munkáltatói jogkör gyakorlója belső szabályzatban a (2) és (4) bekezdés szerinti előzetes engedély feltételeként a (4a) bekezdésben foglaltakon túl egyéb követelményeket is meghatározhat.
 
-(5) Az MFB Zrt. igazgatóságának, felügyelő bizottságának tagja, alkalmazottja köteles haladéktalanul írásban bejelenteni, ha vele szemben az (1)–(4) bekezdésben meghatározott összeférhetetlenségi ok merül fel, illetve, ha munkaviszonyának vagy munkavégzésre irányuló egyéb jogviszonyának fennállása alatt összeférhetetlen helyzetbe kerül. A bejelentésekről az MFB Zrt. köteles nyilvántartást vezetni.
+(4c) Nem lehet az MFB Zrt. igazgatóságának vagy felügyelő bizottságának tagja, valamint az MFB Zrt. tulajdonosi joggyakorlása alatt álló, vagy az MFB Zrt. közvetlen vagy közvetett többségi tulajdoni részesedésével működő vállalkozás (a továbbiakban: leányvállalat) vezető testületének tagja vagy ügyvezetője, aki
 
-(6) Az MFB Zrt. igazgatóságának, felügyelő bizottságának tagja által tett bejelentés esetén a miniszter, alkalmazott által tett bejelentés esetén a munkáltatói jogkör gyakorlója köteles írásban felszólítani az igazgatóság, felügyelő bizottság tagját, az alkalmazottat az összeférhetetlenség megszüntetésére. Ha a felszólított személy az összeférhetetlenséget a felszólítás kézbesítésétől számított 30 napon belül nem szünteti meg, akkor megbízása, munkaviszonya vagy munkavégzésre irányuló egyéb jogviszonya megszűnik.
+- a) politikai szolgálati jogviszonyban,
+- b) biztosi jogviszonyban,
+- c) kormányzati szolgálati jogviszonyban áll, vagy
+- d) közhatalmi döntés befolyásolását vagy a közhatalommal szemben érdekérvényesítést célzó tevékenységet üzletszerűen folytat megbízás alapján,
+
+a jogviszony fennállása alatt, valamint az annak megszűnését követő hat hónap elteltéig.
+
+(4d) Az igazgatóság tagját a miniszter csak a felügyelő bizottság írásbeli javaslata alapján hívhatja vissza, amennyiben a felügyelő bizottság hitelt érdemlően, az indok alapos feltárásával alátámasztja, hogy az igazgatóság tagja
+
+- a) piaci szereplőtől vagy külső szervezettől kapott utasításnak megfelelően járt el;
+- b) megszegte a szakmai etikai szabályokat, az MFB Zrt. magatartási és etikai szabályait, az igazgatósági tagsággal együtt járó kötelezettségeit, vagy piaci visszaélést követett el;
+- c) tartós egészségügyi okok vagy egyéb objektív körülmények miatt fizikailag vagy mentálisan képtelenné vált az igazgatósági tagsággal együtt járó kötelezettségei teljesítésére, vagy személyében a vezetői alkalmasság feltételei már nem állnak fenn;
+- d) összeférhetetlenségi ok áll fenn vele szemben, és az összeférhetetlenséget az összeférhetetlenség megszüntetésére vonatkozó felszólítás kézbesítésétől számított 30 napon belül nem szünteti meg;
+- e) nem működik együtt az igazgatóság tagjaival, megtagadja, hogy az előterjesztésekkel kapcsolatos álláspontját kifejtse, szakmailag alátámassza, és ezzel akadályozza az MFB Zrt. feladatainak teljesítését.
+
+(4e) A felügyelő bizottság tagját a miniszter csak abban az esetben hívhatja vissza, ha
+
+- a) megszegte a szakmai etikai szabályokat, az MFB Zrt. magatartási és etikai szabályait, a felügyelő bizottsági tagsággal együtt járó kötelezettségeit vagy piaci visszaélést követett el;
+- b) tartós egészségügyi okok vagy egyéb objektív körülmények miatt fizikailag vagy mentálisan képtelenné vált a felügyelőbizottsági tagsággal együtt járó kötelezettségei teljesítésére, vagy személyében a vezetői alkalmasság feltételei már nem állnak fenn;
+- c) összeférhetetlenségi ok áll fenn vele szemben, és az összeférhetetlenséget az összeférhetetlenség megszüntetésére vonatkozó felszólítás kézbesítésétől számított 30 napon belül nem szünteti meg.
+
+(4f) Az MFB Zrt. a vezetői alkalmassági és összeférhetetlenségi követelményeket szabályzatban rögzíti, és a szabályzat rendelkezéseit az MFB Zrt. a leányvállalatok vezető testületének tagjaira vagy ügyvezetőjére is alkalmazni rendeli. A vezetői alkalmassági és értékelési szabályzatot a miniszter hagyja jóvá.
+
+(5) Az MFB Zrt. igazgatóságának, felügyelő bizottságának tagja, alkalmazottja köteles haladéktalanul írásban bejelenteni, ha vele szemben összeférhetetlenségi ok merül fel, illetve, ha munkaviszonyának vagy munkavégzésre irányuló egyéb jogviszonyának fennállása alatt összeférhetetlen helyzetbe kerül. A bejelentésekről az MFB Zrt. köteles nyilvántartást vezetni.
+
+(6) Az MFB Zrt. igazgatóságának, felügyelő bizottságának tagja személyében fennálló összeférhetetlenség esetén a miniszter írásban felszólítja az igazgatóság, vagy a felügyelő bizottság tagját az összeférhetetlenség megszüntetésére. Alkalmazott személyében fennálló összeférhetetlenség esetén a munkáltatói jogkör gyakorlója írásban felszólítja az alkalmazottat az összeférhetetlenség megszüntetésére. Ha az alkalmazott az összeférhetetlenséget a felszólítás kézbesítésétől számított 30 napon belül nem szünteti meg, munkaviszonya megszűnik.
 
 ### Titoktartás
 

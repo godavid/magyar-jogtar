@@ -620,7 +620,7 @@ egészségügyi szolgáltatások
 
 - a) a Magyarországon szakmailag elfogadott, de a finanszírozásba még be nem fogadott eljárások, a befogadott egészségügyi szolgáltatás befogadástól eltérő alkalmazása, illetve a biztosított által részleges, illetve kiegészítő térítési díj megfizetése mellett az egészségbiztosítás terhére igénybe vehető egészségügyi szolgáltatások térítési díját vagy annak egy részét átvállalhatja,
 - b)
-- c) támogatást nyújthat valamely indikációba már befogadott, ugyanakkor a kérelmezett indikációban társadalombiztosítási támogatással nem rendelhető allopátiás gyógyszer, különleges táplálkozási igényt kielégítő tápszer, a 26/D. § (3) bekezdésében foglaltak kivételével társadalombiztosítási támogatással nem rendelhető gyógyászati segédeszköz árához,
+- c) támogatást nyújthat a társadalombiztosítási támogatással nem rendelhető allopátiás gyógyszer, különleges táplálkozási igényt kielégítő tápszer, gyógyászati segédeszköz árához,
 - d) támogatást nyújthat méltányosságból már támogatott gyógyászati segédeszköz javítási díjához,
 - e) támogatást nyújthat már támogatott, egyedi méretvétel alapján gyártott gyógyászati segédeszköz alkatrészének cseréjéhez, amennyiben a cserét a beteg testi állapotában bekövetkezett változás indokolja.
 
@@ -693,23 +693,7 @@ méltányosságból a (2)–(7) bekezdésben foglaltaknak megfelelően támogath
 
 26/C. § A kapcsolattartás formáját az egészségbiztosító határozza meg. Az eljárás során az ügyfél a kapcsolattartás – egészségbiztosító által meghatározott – módjáról másik módra nem térhet át.
 
-26/D. § (1) Az Országgyűlés felhívja a Kormányt az államháztartásról szóló 1992. évi XXXVIII. törvény és egyes kapcsolódó törvények módosításáról szóló 2006. évi LXV. törvény 1. § (1a) bekezdésében biztosított jogkörében a Batthyány-Strattmann László Alapítvány A Gyógyításért (a továbbiakban: Alapítvány) létrehozására.
-
-(2) Az Alapítvány alapítása során az állam képviseletében az egészségbiztosításért felelős miniszter jár el.
-
-(3) Az Alapítvány méltányosságból támogatást nyújthat – a 26. § (1) bekezdés c) pontjában foglaltak kivételével – a Magyarországon szakmailag elfogadott, de társadalombiztosítási támogatással nem rendelhető gyógyszerek térítési díjához, valamint a Magyarországon társadalombiztosítási támogatással nem rendelhető azon gyógyászati segédeszközök árhoz, amelyek árajánlatban szereplő egy mennyiségi egységre vetített bruttó ára meghaladja a mindenkori bruttó minimálbér havi összegének kétszeresét. Az Alapítvány jogköre nem terjed ki a 26. § (3) és (4) bekezdésében foglaltakra. Az Alapítvány döntéseit az emberi élet és egészség védelme, valamint a társadalmi és gazdasági felelősségvállalás szellemében hozza meg.
-
-(4) Az Alapítvány vagyonának biztosításáról a Kormány gondoskodik, és működéséhez 2025-től kezdődően évente támogatást nyújt.
-
-(5) Az Alapítvány (3) bekezdés szerinti feladatára rendelt vagyon a központi költségvetésből az Alapítvány céljainak finanszírozására elkülönített összeg, amelyet az Alapítvány a (3) bekezdés szerinti célból továbbadhat. Az Alapítvány az ezen forráson túl egyéb bevételeit is a (3) bekezdés szerinti célra fordítja.
-
-(6) A támogatás elszámolása során, a Kormány rendeletében meghatározott feltételeknek megfelelő elszámoló szervezet igénybevétele esetén az Alapítvány (3) bekezdés szerinti célja teljesítése során az általa megítélt támogatást az elszámoló szervezet felé a vele kötött megállapodásban és a Kormány rendeletében meghatározottak szerint megtéríti. Az Alapítványnak az általa megítélt támogatásról szóló döntése közokirat, amelynek tartalmát – a felhasználáshoz, elszámoláshoz szükséges mértékben és ideig – a biztosított mellett az elszámoló szervezet, valamint az Alapítvány méltányossági döntésével érintett gyógyszertár és egészségügyi szolgáltató ismerheti meg
-
-(7) Az Alapítvány közhasznú jogállással rendelkezik.
-
-(8) A személyi jövedelemadó meghatározott részének az adózó rendelkezése szerinti felhasználásáról szóló 1996. évi CXXVI. törvény (a továbbiakban: 1996. évi CXXVI. törvény) 4. § (1) bekezdés a) pont ab) alpontjától eltérően az Alapítvány a 2025. évben már kedvezményezettnek minősül, azzal, hogy az 1996. évi CXXVI. törvény 4. § (6) bekezdése szerinti regisztrációt az Alapítvány a bejegyzésétől számított 15 napon belül teljesíti.
-
-(9) Az Alapítvány a (3) bekezdés szerinti feladata ellátása érdekében, a támogatás megítélhetőségének vizsgálata, kifizetése és felhasználásának ellenőrzése érdekében jogosult kezelni az érintett beteg személyazonosító és egészségügyi adatait. Az Alapítványt e törvény szerinti feladatai ellátásával összefüggésben történő adatkezelése – ide értve az adatok igénylését és továbbítását – tekintetében egészségbiztosítási szervnek kell tekinteni.
+#### 26/D. §
 
 ### 5. CÍM — Külföldön történő gyógykezelés
 
@@ -2271,16 +2255,7 @@ foglalt rendelkezések helyett a 2021. december 31-én hatályos 5/B. § f) pont
 - d) önkormányzati fenntartású egészségügyi szolgáltató,
 - e) hiánypótló állami szolgáltatást nyújtó magántulajdonú egészségügyi szolgáltató, feltéve, hogy az egészségügyi szolgáltató CT-MRI vizsgálati tevékenységének vonatkozásában – ideértve a közreműködői szerződés alapján történő ellátást is – az egészségbiztosításért felelős miniszter a 82. § (26) bekezdése szerint az ellátási érdek fennállását megállapította.
 
-82/Z. § (1) A 26/D. § (1) bekezdése szerinti Batthyány-Strattmann László Alapítvány A Gyógyításért a 26/D. § (3) bekezdése alapján a Batthyány-Strattmann László Alapítvány A Gyógyításért bírósági bejegyzését követő 31. naptól (a továbbiakban: Kezdőnap) benyújtott kérelmek alapján jár el.
-
-(2) A 26/D. § (3), (5), (6) és (9) bekezdésében foglaltakat a Kezdőnaptól kell alkalmazni.
-
-(3) A Kezdőnapot megelőző napon a 26. § (1) bekezdés c) pontja alapján a kezdőnapon folyamatban levő ügyekben az egészségbiztosító jár el.
-
-(4) A (3) bekezdés alkalmazásában folyamatban levő ügynek kell tekinteni a kérelmet,
-
-- a) ha a forgalomba hozatali engedély jogosultja kérelmére a kérelem tárgyát képező gyógyszerről az egészségbiztosító befogadó döntést hozott,
-- b) ha a kérelmező olyan gyógyszer vonatkozásában nyújt be hosszabbítási kérelmet, amellyel kapcsolatban az egészségbiztosító korábban már engedélyező döntést hozott.
+82/Z. § A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény módosításáról szóló 2026. évi XXXI. törvény (a továbbiakban: Módtv2.) hatálybalépésének napját megelőző napon hatályos 26/D. § (3) bekezdése szerinti, 2026. június 1. napját követően beérkezett és el nem bírált kérelmeket a Batthyány-Strattmann László Alapítvány A Gyógyításért a Módtv2. hatálybalépését követő három napon belül átteszi az egészségbiztosítóhoz, ezen kérelmek tekintetében az egészségbiztosító ügyintézési határidejének kezdő napja a Batthyány-Strattmann László Alapítvány A Gyógyításért által a folyamatban lévő kérelmek átadásának a napja.
 
 ### Záró rendelkezések
 
@@ -2355,7 +2330,7 @@ meghatározására.
 
 (2p) Felhatalmazást kap a Kormány, hogy a 82/Y. § (2) bekezdése szerinti használati díj megállapítására vonatkozó részletes szabályokat rendeletben határozza meg.
 
-(2q) Felhatalmazást kap a Kormány, hogy a 26/D. § (6) bekezdése szerinti megtérítés részletszabályait, valamint az elszámoló szervezetre vonatkozó feltételeket rendeletben határozza meg.
+(2q)
 
 (3) Felhatalmazást kap az egészségbiztosításért felelős miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben rendeletben határozza meg
 
