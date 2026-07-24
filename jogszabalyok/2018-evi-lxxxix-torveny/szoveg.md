@@ -155,6 +155,8 @@ Az Országgyűlés a nemzeti köznevelésről szóló törvényben, a szakképz�
 
 (5b) Az oktatási nyilvántartás működéséért felelős szerv az (1) bekezdés c) pontja szerinti szakrendszerből statisztikai adatgyűjtés keretében álnevesített formában statisztikai adatbázist hozhat létre, és adhat át a Központi Statisztikai Hivatalnak szakmai feladatellátásához, valamint az oktatásért felelős miniszternek a felsőoktatási intézmények állami finanszírozásával és ágazati irányítással összefüggő feladatai ellátásához.
 
+(5c) A tanulói jogviszonyhoz kapcsolódó juttatás szakpolitikai stratégiai döntés-előkészítése, elemzése, tervezése céljából az oktatási nyilvántartásban szereplő adatok álnevesített formában átadhatók a központi családtámogatási szerv részére.
+
 (6) Az oktatási nyilvántartásban kezelt személyes adatok körét
 
 - a) a köznevelés információs rendszere tekintetében az 1. melléklet,
@@ -553,7 +555,7 @@ A tanulói nyilvántartás a gyermek, tanuló alábbi személyes adatait tartalm
 
 a) természetes személyazonosító adatait, oktatási azonosító számát, társadalombiztosítási azonosító jelét, lakcím adatait, állampolgárságát, menekült, oltalmazott, menedékes vagy befogadott jogállású státuszára vonatkozó adatait,
 
-b) sajátos nevelési igénye, beilleszkedési, tanulási és magatartási nehézsége tényét, hátrányos és halmozottan hátrányos helyzetének tényét és hatályát,
+b) sajátos nevelési igénye, beilleszkedési, tanulási és magatartási nehézsége tényét, hátrányos és halmozottan hátrányos helyzetének tényét és hatályát, rendszeres gyermekvédelmi kedvezményre jogosultságának tényét és hatályát,
 
 c) jogviszonyával kapcsolatban azt, hogy egyéni munkarenddel rendelkezik-e, tanköteles-e, jogviszonya szünetelésének kezdetét és befejezésének idejét,
 
@@ -1172,7 +1174,7 @@ A nyilvántartásból a munkajogi jogviszony megszűnését követő 30 napon be
   - g) szakképző intézményének nevét, címét, OM-azonosítóját, nevelés-oktatásának helyét és évfolyamát,
   - h) az oktatás munkarendjével kapcsolatos adatokat,
   - i) jogviszonyával kapcsolatban azt, hogy egyéni munkarenddel rendelkezik-e, tanköteles-e, jogviszonya szünetelésének jogcímét, kezdő és záró időpontját, mulasztására vonatkozó adatokat,
-  - j) sajátos nevelési igénye, beilleszkedési, tanulási és magatartási nehézsége tényét, hátrányos és halmozottan hátrányos helyzetének tényét és hatályát,
+  - j) sajátos nevelési igénye, beilleszkedési, tanulási és magatartási nehézsége tényét, hátrányos és halmozottan hátrányos helyzetének tényét és hatályát, rendszeres gyermekvédelmi kedvezményre jogosultságának tényét és hatályát,
   - k) melyik évfolyamon, mely országban vett részt határon túli kiránduláson, illetve külföldi tanulmányúton,
   - l) a szakmai oktatás, illetve a szakmai képzés teljesítésére vonatkozó adatokat, ennek keretében a tanuló tudásának értékelésével és minősítésével, valamint a tanuló által tett vizsgákkal és az évfolyamismétléssel kapcsolatos adatokat,
   - m)
