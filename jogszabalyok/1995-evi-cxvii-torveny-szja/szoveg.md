@@ -3386,7 +3386,7 @@ b) jövedelempótló kártérítési járadék, feltéve, hogy a rá irányadó 
 
 1.4. az intézeti vagy állami nevelésbe vett kiskorú családban való gondozásáért, neveléséért, valamint a gyógyintézet által ápolásra kihelyezett beteg gondozásáért a gyógyintézettől kapott díj, illetve térítés;
 
-1.5.
+1.5. az iskolakezdési támogatásról szóló kormányrendelet szerinti iskolakezdési támogatás;
 
 1.6. a fogvatartottnak a fogvatartás ideje alatt a büntetés-végrehajtási szervezetről szóló törvény szerint a büntetés-végrehajtási szerv által biztosított foglalkoztatásából származó bevétele, továbbá a büntetés-végrehajtási szerv által – szakfeladatai körében – a fogvatartott részére adott juttatás, valamint a szociálisan rászoruló szabadult részére nyújtott szociális segély.
 

@@ -428,6 +428,8 @@ fennállásáról, szüneteléséről és megszűnéséről.
 
 40. § Az ellátás iránti igény érvényesítésével kapcsolatos valamennyi eljárás illeték- és költségmentes.
 
+40/A. § Az iskolakezdési támogatásról szóló kormányrendelet szerinti iskolakezdési támogatás megállapításáról a központi családtámogatási szerv, – a pénzben történő kifizetésre kerülő iskolakezdési támogatás esetében – a családtámogatási kifizetőhely külön határozat meghozatala nélkül, hivatalból dönt.
+
 ### Jogalap nélkül igénybe vett ellátás
 
 41. § (1) Jogalap nélkül veszi igénybe az ellátást az a személy, aki
@@ -527,6 +529,24 @@ fennállásáról, szüneteléséről és megszűnéséről.
 (2) A központi családtámogatási szerv megkeresésére az Egészségbiztosítási Alap kezeléséért felelős szerv, továbbá az egészségbiztosítási szerv a családtámogatási ellátásra való jogosultság fennállásának ellenőrzése céljából TAJ-számon csoportos adatszolgáltatást teljesít nyilvántartásából az egészségbiztosítás pénzbeli ellátásaiban részesülő személyekről.
 
 (3) Az egészségbiztosítás pénzbeli ellátásaira való jogosultság fennállásának ellenőrzése céljából a központi családtámogatási szerv az Egészségbiztosítási Alap kezeléséért felelős szerv, továbbá az egészségbiztosítási szerv megkeresésére a 45. § szerinti nyilvántartásból TAJ-számon csoportos adatszolgáltatást teljesít a gyermekgondozási támogatásban részesülő személyekről.
+
+48/A. § (1) A központi családtámogatási szerv és a családtámogatási kifizetőhely az iskolakezdési támogatásról szóló kormányrendelet szerinti iskolakezdési támogatásra való jogosultság megállapítása és folyósítása céljából kezelheti a 45. § (2) bekezdésében foglalt adatokat, továbbá az alábbi személyes adatokat:
+
+- a) az iskolakezdési támogatásra jogosító gyermek, tanuló rendszeres gyermekvédelmi kedvezményre való jogosultságára vonatkozó adat,
+- b) az iskolakezdési támogatásra jogosító gyermek, tanuló sajátos nevelési igénye tényére vonatkozó adat,
+- c) az iskolakezdési támogatásra jogosító gyermek, tanuló dobbantó programban vagy műhelyiskolai képzésben való részvételére vonatkozó adat,
+- d) a következő tanévre az általános iskola első évfolyamára beiratkozott tanulók jogviszonyára vonatkozó adat,
+- e) az iskolakezdési támogatásra jogosító gyermek, tanuló 11. § (1) bekezdés j) pontja szerinti körülményeire vonatkozó adat és
+- f) az iskolakezdési támogatásra jogosító gyermek, tanuló árvaellátásban részesülésére vonatkozó adat.
+
+(2) A központi családtámogatási szerv és a családtámogatási kifizetőhely a rendszeres gyermekvédelmi kedvezményre való jogosultság fennállásának tényét az Szt. 18/B. §-a szerinti nyilvántartás adatai alapján állapítja meg.
+
+(3) A központi családtámogatási szerv és a családtámogatási kifizetőhely részére az iskolakezdési támogatásról szóló kormányrendelet szerinti iskolakezdési támogatás jogosultsági feltételeinek megállapítása érdekében adatot szolgáltat
+
+- a) a köznevelés információs rendszere adatkezelői feladatainak ellátására kijelölt szerv a köznevelési intézmény tanulója tanulói jogviszonyának és a sajátos nevelési igény tényének fennállásáról, évfolyamáról, dobbantó programban vagy műhelyiskolai képzésben való részvételéről és
+- b) a szakképzési államigazgatási szerv a szakképzés információs rendszeréből a szakképző intézmény tanulója tanulói jogviszonyának és a sajátos nevelési igény tényének fennállásáról, évfolyamáról, dobbantó programban vagy műhelyiskolai képzésben való részvételéről.
+
+(4) A központi családtámogatási szerv és a családtámogatási kifizetőhely az (1)–(3) bekezdés szerinti adatokat az iskolakezdési támogatás folyósítását követő öt évig kezelheti.
 
 49. § (1) A központi családtámogatási szerv ellenőrzése kiterjed az igényelbíráló szervek hatáskörébe tartozó ellátások megállapítására, folyósítására, továbbá az ezekkel összefüggő ügyviteli feladatok ellátására, valamint az ellátásra való jogosultságot megalapozó igazolás jogszabályi követelményeknek való megfelelőségének vizsgálatára.
 

@@ -1309,6 +1309,7 @@ ismételten benyújtja.
 - b) a biztosítási összeg, a lefoglalt ingóságért járó összeg kivételével,
 - c) a szakszervezet sztrájkalapjába helyezett összeg.
 - d) a sportról szóló 2004. évi I. törvény 15. § (1) bekezdése szerinti sportszervezet részére nyújtott, működési célú állami támogatás teljes összege.
+- e) az iskolakezdési támogatásról szóló kormányrendelet szerinti iskolakezdési támogatás teljes összege.
 
 92/A. § (1) A (2) bekezdés szerinti eset kivételével mentes a végrehajtás alól az Otthontámogatásra jogosult személyek körét, az Otthontámogatás mértékét, juttatásának részletes feltételeit és eljárási szabályait, továbbá a folyósítás és a visszafizetés szabályait megállapító kormányrendelet szerint nyújtott Otthontámogatás (a továbbiakban: Otthontámogatás) teljes összege.
 
