@@ -1319,7 +1319,7 @@ végzés ellen.
 
 - a) a döntés módosítása vagy visszavonása a hatóság saját hatáskörében,
 - b) a felügyeleti eljárás,
-- c) az ügyészségről szóló törvény szerinti ügyészi felhívás és fellépés nyomán indított eljárás.
+- c) az ügyészségről szóló törvény szerinti ügyészi vagy a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH) általi felhívás és fellépés nyomán indított eljárás.
 
 #### 60. Közigazgatási per
 
@@ -1327,7 +1327,7 @@ végzés ellen.
 
 (1) Az ügyfél – az önálló jogorvoslattal nem támadható végzések kivételével – a véglegessé vált döntés ellen közigazgatási pert indíthat. Fellebbezéssel támadható döntés esetén közigazgatási per akkor indítható, ha az arra jogosultak valamelyike fellebbezett és a fellebbezést elbírálták.
 
-(2) Ha a jogsértés megszüntetésére felszólító ügyészi felhívásban megállapított határidő eredménytelenül eltelt, az ügyész közigazgatási pert indíthat a hatóság véglegessé vált döntése ellen, vagy a hatóság eljárási kötelezettségének elmulasztása esetén a hatóság eljárásra kötelezése iránt.
+(2) Ha a jogsértés megszüntetésére felszólító ügyészi felhívásban, NVVH általi felhívásban megállapított határidő eredménytelenül eltelt, az ügyész, az NVVH közigazgatási pert indíthat a hatóság véglegessé vált döntése ellen, vagy a hatóság eljárási kötelezettségének elmulasztása esetén a hatóság eljárásra kötelezése iránt.
 
 #### 61. A döntés módosítása vagy visszavonása a keresetlevél alapján
 
@@ -1431,11 +1431,13 @@ hozta.
 
 (4) A felügyeleti eljárásban hozott döntés közigazgatási bíróság előtt támadható meg.
 
-#### 65. Ügyészi felhívás és fellépés
+#### 65. Ügyészi és az NVVH általi felhívás és fellépés
 
-#### 122. § [Az ügyészi felhívás és fellépés]
+#### 122. § [Az ügyészi és az NVVH általi felhívás és fellépés]
 
-Ha az ügyész az ügyészségről szóló törvény alapján felhívással él, vagy sikertelen felhívás esetén fellép, a hatóság az ügyész által kifogásolt döntését korlátozás nélkül módosíthatja (megváltoztathatja), illetve visszavonhatja (megsemmisítheti), akkor is, ha a közigazgatási hatósági eljárásra vonatkozó jogszabály ezt egyébként korlátozza, vagy nem teszi lehetővé.
+(1) Ha az ügyész az ügyészségről szóló törvény alapján felhívással él, vagy sikertelen felhívás esetén fellép, a hatóság az ügyész által kifogásolt döntését korlátozás nélkül módosíthatja (megváltoztathatja), illetve visszavonhatja (megsemmisítheti), akkor is, ha a közigazgatási hatósági eljárásra vonatkozó jogszabály ezt egyébként korlátozza, vagy nem teszi lehetővé.
+
+(2) Ha az NVVH törvény alapján felhívással él, vagy sikertelen felhívás esetén fellép, a hatóság az NVVH által kifogásolt döntését korlátozás nélkül módosíthatja (megváltoztathatja), illetve visszavonhatja (megsemmisítheti), akkor is, ha a közigazgatási hatósági eljárásra vonatkozó jogszabály ezt egyébként korlátozza, vagy nem teszi lehetővé.
 
 #### 66. Semmisség
 

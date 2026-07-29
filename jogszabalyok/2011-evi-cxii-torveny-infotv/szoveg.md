@@ -793,7 +793,7 @@ nincs helye.
 
 (2) A 37. § szerinti közzétételi listákon meghatározott adatait saját honlapján – ha törvény másként nem rendelkezik – közzéteszi
 
-- a) a Sándor-palota, az Országgyűlés Hivatala, az Alkotmánybíróság Hivatala, az Alapvető Jogok Biztosának Hivatala, az Állami Számvevőszék, a Magyar Tudományos Akadémia, a Magyar Művészeti Akadémia, az Országos Bírósági Hivatal, a Legfőbb Ügyészség,
+- a) a Sándor-palota, az Országgyűlés Hivatala, az Alkotmánybíróság Hivatala, az Alapvető Jogok Biztosának Hivatala, az Állami Számvevőszék, a Magyar Tudományos Akadémia, a Magyar Művészeti Akadémia, az Országos Bírósági Hivatal, a Legfőbb Ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal,
 - b)
 - c) a központi államigazgatási szerv a kormánybizottság kivételével, továbbá az országos kamara, valamint
 - d) a fővárosi és vármegyei kormányhivatal.
@@ -1260,7 +1260,7 @@ szerint kiszabott bírság esetén.
 
 (6) A határozat megtámadására nyitva álló keresetindítási határidő lejártáig, illetve közigazgatási per indítása esetén a bíróság jogerős határozatáig a vitatott adatkezeléssel érintett adatok nem törölhetők, illetve nem semmisíthetők meg.
 
-(7) A Hatóság döntésének végrehajtását a döntésben foglalt, meghatározott cselekmény elvégzésére, meghatározott magatartásra, tűrésre vagy abbahagyásra irányuló kötelezés vonatkozásában a Hatóság foganatosítja. A Hatóság végleges, illetve közigazgatási per esetén a közigazgatási bíróság által jogerősen elbírált döntésében megállapított jogellenes adatkezeléssel érintett adatok – a bíróság, ügyészség vagy a más hatóság eltérő rendelkezése hiányában – nem törölhetők és nem semmisíthetők meg az ezen adatokat érintő büntetőeljárás vagy más hatósági, illetve bírósági eljárás esetén a büntetőeljárás kezdő időpontjától a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezéséig, vagy az ügyészség vagy a nyomozó hatóság további jogorvoslattal nem támadható eljárást megszüntető határozata meghozataláig, továbbá más hatósági, illetve bírósági eljárás esetén ennek kezdő időpontjától a végleges, illetve jogerős befejezéséig.
+(7) A Hatóság döntésének végrehajtását a döntésben foglalt, meghatározott cselekmény elvégzésére, meghatározott magatartásra, tűrésre vagy abbahagyásra irányuló kötelezés vonatkozásában a Hatóság foganatosítja. A Hatóság végleges, illetve közigazgatási per esetén a közigazgatási bíróság által jogerősen elbírált döntésében megállapított jogellenes adatkezeléssel érintett adatok – a bíróság, ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal vagy a más hatóság eltérő rendelkezése hiányában – nem törölhetők és nem semmisíthetők meg az ezen adatokat érintő büntetőeljárás vagy más hatósági, illetve bírósági eljárás esetén a büntetőeljárás kezdő időpontjától a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezéséig, vagy az ügyészség vagy a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal vagy a nyomozó hatóság további jogorvoslattal nem támadható eljárást megszüntető határozata meghozataláig, továbbá más hatósági, illetve bírósági eljárás esetén ennek kezdő időpontjától a végleges, illetve jogerős befejezéséig.
 
 (8) A Hatóság döntésében megállapított fizetési kötelezettség mérséklésének (a továbbiakban: mérséklés) a kötelezett kérelmére nincs helye. A kötelezett kérheti a fizetési kötelezettség, valamint a (7) bekezdésben meghatározott kötelezettség teljesítésére halasztás vagy részletekben történő teljesítés (a továbbiakban együtt: teljesítési kedvezmény) engedélyezését. A kérelemben a kötelezett igazolja, hogy rajta kívül álló ok lehetetlenné teszi a határidőben való teljesítést vagy az számára aránytalan nehézséget jelentene.
 
@@ -1314,7 +1314,7 @@ szerint kiszabott bírság esetén.
 (3) Az ideiglenes hozzáférhetetlenné tételt a Hatóság végzéssel megszünteti, ha
 
 - a) az elrendelés oka megszűnt, vagy
-- b) a büntetőügyben eljáró bíróság, ügyészség vagy nyomozó hatóság, illetve az NMHH tájékoztatása alapján az elektronikus adattal kapcsolatban elektronikus adat ideiglenes hozzáférhetetlenné tétele kényszerintézkedést, illetve elektronikus adat végleges hozzáférhetetlenné tétele intézkedést elrendelték vagy végrehajtása van folyamatban.
+- b) a büntetőügyben eljáró bíróság, ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal vagy nyomozó hatóság, illetve az NMHH tájékoztatása alapján az elektronikus adattal kapcsolatban elektronikus adat ideiglenes hozzáférhetetlenné tétele kényszerintézkedést, illetve elektronikus adat végleges hozzáférhetetlenné tétele intézkedést elrendelték vagy végrehajtása van folyamatban.
 
 (4) Az e § szerinti végzésre a 61/B. § (3) bekezdésében foglaltakat megfelelően alkalmazni kell.
 

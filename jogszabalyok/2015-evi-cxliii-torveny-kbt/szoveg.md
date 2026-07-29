@@ -538,10 +538,11 @@ Az e bekezdés szerinti választás nem irányulhat e törvény alkalmazásának
 - e) a legfőbb ügyész,
 - f) az Alkotmánybíróság elnöke,
 - g) az Állami Számvevőszék elnöke,
-- h) a Közbeszerzési Hatóság, a Gazdasági Versenyhivatal, a Nemzeti Adatvédelmi és Információszabadság Hatóság, a Nemzeti Választási Iroda, a Központi Statisztikai Hivatal, az Országos Atomenergia Hivatal, a Szellemi Tulajdon Nemzeti Hivatala, a Nemzeti Adó- és Vámhivatal, a Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal, a Nemzeti Média- és Hírközlési Hatóság, a Magyar Energetikai és Közmű-szabályozási Hivatal vezetője, vagy
-- i) a Magyar Nemzeti Bank elnöke
+- h) a Közbeszerzési Hatóság, a Gazdasági Versenyhivatal, a Nemzeti Adatvédelmi és Információszabadság Hatóság, a Nemzeti Választási Iroda, a Központi Statisztikai Hivatal, az Országos Atomenergia Hivatal, a Szellemi Tulajdon Nemzeti Hivatala, a Nemzeti Adó- és Vámhivatal, a Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal, a Nemzeti Média- és Hírközlési Hatóság, a Magyar Energetikai és Közmű-szabályozási Hivatal vezetője,
+- i) a Magyar Nemzeti Bank elnöke vagy
+- j) a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal elnöke és elnökhelyettesei
 
-tulajdonában, vagy az a)–i) pont szerinti személy hozzátartozója tulajdonában álló szervezet.
+tulajdonában, vagy az a)–j) pont szerinti személy hozzátartozója tulajdonában álló szervezet.
 
 (7) A közbeszerzési eljárás előkészítésében vagy lefolytatásában az ajánlatkérő részéről nem vehet részt olyan személy, akinek a részvétele összeférhetetlenséget eredményezne. Összeférhetetlenség fennállása esetén az ajánlatkérő köteles megvizsgálni, hogy az összeférhetetlenség az adott közbeszerzési eljárás tekintetében hogyan érintette a verseny tisztasága és az egyenlő bánásmód elveinek érvényesülését, és köteles mindazon intézkedéseket megtenni, amelyek szükségesek az összeférhetetlenség megszüntetéséhez és az eljárás jogszerűségének helyreállításához. A 62. § (1) bekezdés m) pontja akkor alkalmazható, ha az egyenlő bánásmód és a verseny tisztaságának sérelme más módon nem orvosolható.
 
@@ -909,7 +910,7 @@ feltéve, hogy az a), b) vagy a c) pont alkalmazása kapcsán az ajánlatkérő 
 (4b) A közbeszerzésekért felelős miniszter az EKR-ben az érintett közbeszerzés, szerződés, illetve ezek teljesítése és módosítása során keletkezett és rögzített adatot a törvényben meghatározott feladatkörében eljáró
 
 - a) bíróságnak az előtte folyamatban lévő eljárás lefolytatása;
-- b) ügyészségnek és nyomozó hatóságnak a büntetőeljárás lefolytatása;
+- b) ügyészségnek, Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalnak és nyomozó hatóságnak a büntetőeljárás lefolytatása;
 - c) a nemzetbiztonsági szolgálatoknak a törvényben meghatározott bűncselekmények felderítése, nemzetbiztonsági védelmi és elhárítási, információszerzési feladatai ellátása
 - d) a rendőrségről szóló törvény szerinti belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervnek a hatáskörébe tartozó bűncselekmények megelőzése, felderítése;
 - e) a Gazdasági Versenyhivatalnak a gazdasági verseny védelme érdekében a versenyjogsértések, így különösen a versenyt korlátozó megállapodások, felderítése, az ügy tényállásának tisztázása;
@@ -2925,6 +2926,7 @@ Ha a kérelmező a hiánypótlási felhívásban foglaltaknak nem tesz eleget, a
 - m) a közbeszerzésekért felelős miniszter;
 - n) az európai uniós források felhasználásáért felelős miniszter.
 - o) az Integritás Hatóság.
+- p) a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal.
 
 (2) A Közbeszerzési Döntőbizottság hivatalból való eljárását az (1) bekezdés szerinti szervezet vagy személy
 
@@ -3014,7 +3016,7 @@ számított kilencven napon belül kezdeményezheti.
 
 (2) A Közbeszerzési Döntőbizottság a kérelem visszavonása esetén az eljárást folytatja, ha a rendelkezésre álló adatok alapján súlyos jogsértés valószínűsíthető.
 
-(3) Ha a Közbeszerzési Döntőbizottság az eljárás során más jogszabály megsértésére utaló körülményt észlel, köteles azt jelezni a hatáskörrel rendelkező szervnek, így különösen a nyomozó hatóságnak, az ügyészségnek, az Állami Számvevőszéknek, a kormányzati ellenőrzési szervnek vagy a Gazdasági Versenyhivatalnak.
+(3) Ha a Közbeszerzési Döntőbizottság az eljárás során más jogszabály megsértésére utaló körülményt észlel, köteles azt jelezni a hatáskörrel rendelkező szervnek, így különösen a nyomozó hatóságnak, az ügyészségnek, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalnak, az Állami Számvevőszéknek, a kormányzati ellenőrzési szervnek vagy a Gazdasági Versenyhivatalnak.
 
 (4) A Közbeszerzési Döntőbizottság az eljárását felfüggesztheti, ha az előkérdés eldöntése más szerv hatáskörébe tartozik.
 

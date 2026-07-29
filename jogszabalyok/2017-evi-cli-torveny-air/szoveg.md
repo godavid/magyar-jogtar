@@ -414,7 +414,7 @@ az az adóhatóság jár el, amelyikkel szemben kizárási ok áll fenn.
 - b) a természetes személyazonosító adatokat és a lakcímet az ügy iratai között elkülönítve, zártan kezeli és
 - c) biztosítja, hogy a zártan kezelt adatok az eljárási cselekmények során ne váljanak megismerhetővé.
 
-(4) A zártan kezelt adatok megismerésére csak az adóhatóság, a nyomozó hatóság, a felügyeleti szerv, valamint a fellebbezés elbírálására jogosult felettes szerv, az illetékes ügyész, a bíróság és a Nemzeti Adatvédelmi és Információszabadság Hatóság jogosult.
+(4) A zártan kezelt adatok megismerésére csak az adóhatóság, a nyomozó hatóság, a felügyeleti szerv, valamint a fellebbezés elbírálására jogosult felettes szerv, az illetékes ügyész, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, a bíróság és a Nemzeti Adatvédelmi és Információszabadság Hatóság jogosult.
 
 #### 14. A kiskorú, a cselekvőképtelen és a cselekvőképességében részlegesen korlátozott nagykorú, valamint a fogyatékossággal élő személy eljárási védelme
 
@@ -1124,17 +1124,18 @@ Az adóhatóság az adótörvényekben és más jogszabályokban előírt kötel
   - aa) a kockázatos adózónál, ha végelszámolását rendelték el,
   - ab) az Állami Számvevőszék elnökének megkeresése alapján,
   - ac) az állami adó- és vámhatóságot irányító miniszter utasítása alapján,
-  - ad)
+  - ad) a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal törvény szerint kijelölt vezetője megkeresése alapján,
 - b) az önkormányzati adóhatóság hatáskörébe tartozó adóellenőrzés esetén
   - ba) az önkormányzat képviselő-testületének határozata alapján,
   - bb) az Állami Számvevőszék elnökének megkeresése alapján
   - bc) az adópolitikáért felelős miniszter utasítása alapján.
+  - bd) a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal törvény szerint kijelölt vezetője megkeresése alapján.
 
 (1a)
 
 (1b)
 
-(2) Az Állami Számvevőszék elnöke, az önkormányzati adóhatóság hatáskörébe tartozó adók esetében az önkormányzat képviselő-testülete akkor kezdeményezhet ellenőrzést, ha a rendelkezésére álló adatok, körülmények arra utalnak, hogy az adóhatóság a megkülönböztetés nélküli eljárás elvének megsértésével mellőzi valamely adózó vagy adózói csoport vizsgálatát, illetve a lefolytatott ellenőrzések eredménytelensége mögött a megkülönböztetés nélküli eljárás elvének megsértése áll.
+(2) Az Állami Számvevőszék elnöke, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal törvény szerint kijelölt vezetője, az önkormányzati adóhatóság hatáskörébe tartozó adók esetében az önkormányzat képviselő-testülete akkor kezdeményezhet ellenőrzést, ha a rendelkezésére álló adatok, körülmények arra utalnak, hogy az adóhatóság a megkülönböztetés nélküli eljárás elvének megsértésével mellőzi valamely adózó vagy adózói csoport vizsgálatát, illetve a lefolytatott ellenőrzések eredménytelensége mögött a megkülönböztetés nélküli eljárás elvének megsértése áll.
 
 #### 87/A. § [Az Európai Unió tagállamai között a hozzáadottérték-adó területén történő közigazgatási együttműködés keretében végzett ellenőrzés egyes szabályai]
 
@@ -1204,7 +1205,7 @@ Adóellenőrzéssel lezárt bevallási időszak tekintetében az adó, költség
 
 (1) Felülellenőrzést folytat le a felettes szerv, ha
 
-- a) az állami adó- és vámhatóság hatáskörébe tartozó ellenőrzés esetén az állami adó- és vámhatóságot irányító miniszter, az önkormányzati adóhatóság hatáskörébe tartozó ellenőrzés esetén az adópolitikáért felelős miniszter ellenőrzéssel már lezárt időszak ellenőrzését rendelte el, vagy az Állami Számvevőszék elnöke, az önkormányzati adóhatóság hatáskörébe tartozó adó esetén az önkormányzat képviselő-testülete ellenőrzéssel már lezárt időszak ellenőrzését kezdeményezte,
+- a) az állami adó- és vámhatóság hatáskörébe tartozó ellenőrzés esetén az állami adó- és vámhatóságot irányító miniszter, az önkormányzati adóhatóság hatáskörébe tartozó ellenőrzés esetén az adópolitikáért felelős miniszter ellenőrzéssel már lezárt időszak ellenőrzését rendelte el, vagy az Állami Számvevőszék elnöke, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal törvény szerint kijelölt vezetője, az önkormányzati adóhatóság hatáskörébe tartozó adó esetén az önkormányzat képviselő-testülete ellenőrzéssel már lezárt időszak ellenőrzését kezdeményezte,
 - b) az állami adó- és vámhatóság vezetője erre utasítást ad, amely alapján a felettes szerv ellenőrzi a korábban lefolytatott ellenőrzés szakszerűségét és törvényességét,
 - c) ha az adóhatóság olyan, az adó megállapítását befolyásoló új tényről, adatról, bizonyítékról szerez tudomást, amely a korábbi adóellenőrzéskor nem volt ismert, és az ellenőrzés lefolytatására az állami adó- és vámhatóság vezetője, az önkormányzati adóhatóság hatáskörébe tartozó adó esetén az önkormányzati adóhatóság döntései elleni fellebbezések elbírálására jogosult hatóság vezetője utasítást ad.
 
@@ -1463,8 +1464,9 @@ Az adóhatóság határozata ellen önálló jogorvoslatnak van helye. Az adóha
 (2) Hivatalból induló jogorvoslati eljárások:
 
 - a) a döntés módosítása vagy visszavonása az adóhatóság saját hatáskörében,
-- b) az ügyészségről szóló törvény szerinti ügyészi felhívás és fellépés nyomán indított, és
+- b) az ügyészségről szóló törvény szerinti ügyészi felhívás és fellépés nyomán indított eljárás,
 - c) a felügyeleti eljárás.
+- d) a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalról szóló törvény szerinti, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal általi felhívás és fellépés nyomán indított eljárás.
 
 #### 46. A döntés módosítása vagy visszavonása
 
@@ -1657,15 +1659,17 @@ Ha törvény eltérően nem rendelkezik, a fellebbezésnek a döntés végrehajt
 
 (1) Az adózó – az önálló fellebbezéssel nem támadható végzések kivételével – a véglegessé vált döntés ellen indíthat közigazgatási pert. Fellebbezéssel támadható döntés esetén közigazgatási per akkor indítható, ha az arra jogosultak valamelyike fellebbezett és a fellebbezést elbírálták.
 
-(2) Ha a jogsértés megszüntetésére felszólító ügyészi felhívásban megállapított határidő eredménytelenül eltelt, az ügyész közigazgatási pert indíthat az adóhatóság véglegessé vált döntése ellen, vagy az adóhatóság eljárási kötelezettségének elmulasztása esetén az adóhatóság eljárásra kötelezése iránt.
+(2) Ha a jogsértés megszüntetésére felszólító ügyészi felhívásban, Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal általi felhívásban megállapított határidő eredménytelenül eltelt, az ügyész, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal közigazgatási pert indíthat az adóhatóság véglegessé vált döntése ellen, vagy az adóhatóság eljárási kötelezettségének elmulasztása esetén az adóhatóság eljárásra kötelezése iránt.
 
 (3) Az adóhatósági döntés elleni közigazgatási perben egyezségnek nincs helye.
 
-#### 51. Ügyészi felhívás és fellépés
+#### 51. Ügyészi és a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal általi felhívás és fellépés
 
-#### 131. § [Az ügyészi felhívás és fellépés]
+#### 131. § [Az ügyészi és a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal általi felhívás és fellépés]
 
-Ha az ügyész az ügyészségről szóló törvény alapján felhívással él, vagy sikertelen felhívás esetén fellép, az adóhatóság az ügyész által kifogásolt döntését korlátozás nélkül módosíthatja (megváltoztathatja), illetve visszavonhatja (megsemmisítheti), akkor is, ha jogszabály ezt egyébként korlátozza, vagy nem teszi lehetővé.
+(1) Ha az ügyész az ügyészségről szóló törvény alapján felhívással él, vagy sikertelen felhívás esetén fellép, az adóhatóság az ügyész által kifogásolt döntését korlátozás nélkül módosíthatja (megváltoztathatja), illetve visszavonhatja (megsemmisítheti), akkor is, ha jogszabály ezt egyébként korlátozza, vagy nem teszi lehetővé.
+
+(2) Ha a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal törvény alapján felhívással él, vagy sikertelen felhívás esetén fellép, az adóhatóság a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal által kifogásolt döntését korlátozás nélkül módosíthatja (megváltoztathatja), illetve visszavonhatja (megsemmisítheti), akkor is, ha jogszabály ezt egyébként korlátozza, vagy nem teszi lehetővé.
 
 #### 52. Semmisség
 
@@ -1675,7 +1679,7 @@ Ha az ügyész az ügyészségről szóló törvény alapján felhívással él,
 
 - a) – az ideiglenes intézkedést kivéve – az ügy nem tartozik az eljáró adóhatóság hatáskörébe,
 - b) annak tartalmát bűncselekmény befolyásolta, feltéve, hogy a bűncselekmény elkövetését jogerős ügydöntő határozat megállapította, vagy ilyen határozat meghozatalát nem a bizonyítottság hiánya zárja ki,
-- c) annak tartalmát bűncselekmény befolyásolta, feltéve, hogy az ügyészség feltételes ügyészi felfüggesztést alkalmazott, és annak tartama eredményesen telt el,
+- c) annak tartalmát bűncselekmény befolyásolta, feltéve, hogy az ügyészség vagy a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal feltételes ügyészi felfüggesztést alkalmazott, és annak tartama eredményesen telt el,
 - d) a tartalma a közigazgatási bíróság adott ügyben hozott jogerős határozatával ellentétes, vagy
 - e) annak meghozatala során törvényben semmisségi oknak minősített súlyos eljárási jogszabálysértést követtek el.
 
@@ -1694,7 +1698,7 @@ Ha az ügyész az ügyészségről szóló törvény alapján felhívással él,
 
 - a) a bíróság jogerős ügydöntő határozatában megállapított költségvetési csalás, adócsalás, munkáltatással összefüggésben elkövetett adócsalás, illetve az adókötelezettség teljesítésével összefüggésben elkövetett csalás esetén,
 - b) a felettes szerv által a felülellenőrzési eljárásban, illetve a bíróság által elrendelt új eljárás esetén,
-- c) ha az ellenőrzést az adópolitikáért felelős miniszter vagy az Állami Számvevőszék elnöke – önkormányzati adóhatóság hatáskörébe tartozó adó esetében az önkormányzati képviselő-testület határozata – rendelte el,
+- c) ha az ellenőrzést az adópolitikáért felelős miniszter, az Állami Számvevőszék elnöke vagy a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal törvény szerint kijelölt vezetője – önkormányzati adóhatóság hatáskörébe tartozó adó esetében az önkormányzati képviselő-testület határozata – rendelte el,
 - d) ha az ismételt ellenőrzés eredménye ellátási jogosultságot teremt,
 - e) ha az adóhatóság olyan, az adó megállapítását befolyásoló új tényről, adatról, bizonyítékról szerez tudomást, amely a korábbi ellenőrzéskor nem volt ismert, és az ellenőrzés lefolytatására az állami adó- és vámhatóság vezetője, az önkormányzati adóhatóság hatáskörébe tartozó adó esetén az önkormányzati adóhatóság döntései elleni fellebbezések elbírálására jogosult hatóság vezetője utasítást ad.
 

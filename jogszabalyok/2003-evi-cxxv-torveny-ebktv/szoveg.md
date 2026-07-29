@@ -157,7 +157,7 @@ miatt részesül kedvezőtlenebb bánásmódban, mint amelyben más, összehason
 
 (2) A hatóság a közvélemény folyamatos tájékoztatása érdekében jelentéseit, javaslatait, valamint a működésével kapcsolatos részletes információkat honlapján rendszeresen közzéteszi.
 
-(3) A hatóság nem vizsgálhatja az Országgyűlés, a köztársasági elnök, az Alkotmánybíróság, az Állami Számvevőszék, valamint a bíróságok és az ügyészség közhatalmi döntéseit és intézkedéseit.
+(3) A hatóság nem vizsgálhatja az Országgyűlés, a köztársasági elnök, az Alkotmánybíróság, az Állami Számvevőszék, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, valamint a bíróságok és az ügyészség közhatalmi döntéseit és intézkedéseit.
 
 (4) Az eljárásban az ügyintézési határidő hetvenöt nap.
 
