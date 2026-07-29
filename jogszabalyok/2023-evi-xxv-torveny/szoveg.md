@@ -271,8 +271,9 @@ belső visszaélés-bejelentési rendszert hozhat létre.
 - f) a Magyar Nemzeti Bank,
 - g) a Nemzeti Adatvédelmi és Információszabadság Hatóság,
 - h) a Nemzeti Média- és Hírközlési Hatóság,
-- i) az Országos Atomenergia Hivatal és
+- i) az Országos Atomenergia Hivatal,
 - j) a Szabályozott Tevékenységek Felügyeleti Hatósága.
+- k) a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal.
 
 (2) A Kormány rendeletével a Kormány vagy a Kormány tagja irányítása vagy felügyelete alatt álló szervet is kijelölhet elkülönített visszaélés-bejelentési rendszer létrehozására.
 

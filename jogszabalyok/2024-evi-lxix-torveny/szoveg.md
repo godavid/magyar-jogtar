@@ -630,7 +630,7 @@ a 13. §-ban foglaltak helyett e § rendelkezései az irányadóak.
 
 (5) A legfelső szintű doménnév-nyilvántartó a központi doménnév-nyilvántartásban szereplő adatokat – a személyes adatok kivételével – nyilvánosan hozzáférhetővé teszi.
 
-(6) A legfelső szintű doménnév-nyilvántartó a központi doménnév-nyilvántartásban szereplő adatokhoz az ügyészség, a nemzetbiztonsági szolgálatok, a nyomozó hatóságok és a büntetőeljárásról szóló törvény szerinti előkészítő eljárást folytató szervezetek, a kiberbiztonsági hatóság és a kiberbiztonsági incidenskezelő központ részére közvetlen hozzáférést biztosít.
+(6) A legfelső szintű doménnév-nyilvántartó a központi doménnév-nyilvántartásban szereplő adatokhoz az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, a nemzetbiztonsági szolgálatok, a nyomozó hatóságok és a büntetőeljárásról szóló törvény szerinti előkészítő eljárást folytató szervezetek, a kiberbiztonsági hatóság és a kiberbiztonsági incidenskezelő központ részére közvetlen hozzáférést biztosít.
 
 ### III. Fejezet — A KIBERBIZTONSÁGI FELÜGYELET
 
@@ -975,7 +975,7 @@ határozza meg.
 (10) Az ideiglenes hozzáférhetetlenné tételt a kiberbiztonsági hatóság annak megszűnése előtt megszünteti, ha
 
 - a) az elrendelés oka megszűnt,
-- b) a büntetőügyben eljáró bíróság, ügyészség vagy nyomozó hatóság, illetve az NMHH tájékoztatása alapján az elektronikus adattal kapcsolatban elektronikus adat ideiglenes hozzáférhetetlenné tétele kényszerintézkedés, illetve elektronikus adat végleges hozzáférhetetlenné tétele intézkedés elrendelése vagy végrehajtása van folyamatban, vagy
+- b) a büntetőügyben eljáró bíróság, ügyészség, Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal vagy nyomozó hatóság, illetve az NMHH tájékoztatása alapján az elektronikus adattal kapcsolatban elektronikus adat ideiglenes hozzáférhetetlenné tétele kényszerintézkedés, illetve elektronikus adat végleges hozzáférhetetlenné tétele intézkedés elrendelése vagy végrehajtása van folyamatban, vagy
 - c) a rendelkezés elektronikus hírközlési szolgáltatók általi végrehajtása a megadott adattartalommal kétséges lehet.
 
 (11) Ha a kiberbiztonsági hatóság az (1) vagy (2) bekezdés alapján elektronikus adat hozzáférhetetlenné tételét rendelte el, és a határozat véglegessé válását követően megállapítja, hogy a határozatban foglalt elektronikus adat közzétételével megvalósult jogellenes tevékenység a jogellenesség megállapítása szempontjából azonos tartalommal más elektronikus adat – így különösen más IP-cím, domain-domain vagy domain-aldomain – hozzáférhetővé tételével vagy közzétételével is megvalósul, akkor ismételt hatósági eljárás és – a (3) bekezdés szerinti – döntéshozatal mellőzésével a hozzáférhetetlenné tételhez szükséges adatok megküldésével elektronikus úton, biztonságos kézbesítési szolgáltatás útján értesíti az NMHH-t (a továbbiakban: egyszerűsített utánkövetés), amely ezen adatokat kizárólag elektronikus úton közli a hozzáférést biztosító elektronikus hírközlési szolgáltatókkal. Az egyszerűsített utánkövetésre tekintettel megküldött, a hozzáférhetetlenné tételhez szükséges adatok szerinti elektronikus adat hozzáférhetetlenné tételét az elektronikus hírközlési szolgáltatók a kapcsolódó, (3) bekezdés szerint hozott határozat végrehajthatósága fennállásáig kötelesek biztosítani.
@@ -2000,6 +2000,7 @@ E törvény értelmében közigazgatási ágazathoz tartozó szervezetnek a köv
 - 6. az ügyészségek,
 - 7. az Alapvető Jogok Biztosának Hivatala,
 - 8. az Állami Számvevőszék,
+- 8a. a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal,
 - 9. a Magyar Nemzeti Bank,
 - 10. a Magyar Honvédség,
 - 11. a fővárosi és vármegyei kormányhivatalok, a vármegyei közgyűlések hivatalai,

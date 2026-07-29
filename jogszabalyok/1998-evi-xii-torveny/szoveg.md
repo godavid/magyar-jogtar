@@ -175,7 +175,7 @@ Az Országgyűlés az Alaptörvényben foglalt rendelkezésekre figyelemmel – 
 
 - a) a köztársasági elnök, az Alkotmánybíróság elnöke, valamint a Kúria elnöke;
 - b) az országgyűlési képviselő, a nemzetiségi szószóló és az Európai Parlament magyarországi képviselője;
-- c) az alapvető jogok biztosa és helyettese, a Kúria elnökhelyettese, a legfőbb ügyész és helyettesei, az Alkotmánybíróság tagja, a Nemzeti Adatvédelmi és Információszabadság Hatóság elnöke és elnökhelyettese, a Nemzeti Média- és Hírközlési Hatóság elnöke és elnökhelyettese, az Állami Számvevőszék elnöke és alelnökei, a Magyar Nemzeti Bank elnöke és alelnökei, az Országos Bírói Tanács elnöke és elnökhelyettese;
+- c) az alapvető jogok biztosa és helyettese, a Kúria elnökhelyettese, a legfőbb ügyész és helyettesei, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH) elnöke és elnökhelyettesei, az Alkotmánybíróság tagja, a Nemzeti Adatvédelmi és Információszabadság Hatóság elnöke és elnökhelyettese, a Nemzeti Média- és Hírközlési Hatóság elnöke és elnökhelyettese, az Állami Számvevőszék elnöke és alelnökei, a Magyar Nemzeti Bank elnöke és alelnökei, az Országos Bírói Tanács elnöke és elnökhelyettese;
 - d) a miniszterelnök, a miniszterelnök politikai igazgatója, a miniszterelnök nemzetbiztonsági főtanácsadója, a miniszter, az államtitkár, a közigazgatási államtitkár és a helyettes államtitkár;
 - e) a külpolitikáért felelős miniszter által vezetett minisztérium diplomáciai vagy konzuli ranggal rendelkező munkatársa, az európai uniós ügyek koordinációjáért felelős miniszter által vezetett minisztérium – európai uniós feladatokat ellátó – diplomáciai ranggal rendelkező munkatársa, Magyarország diplomáciai képviselete diplomáciai személyzetének tagja, Magyarország hivatásos konzuli képviselete konzuli tisztviselője, nemzetközi jogon alapuló diplomáciai kiváltságot és mentességet élvező egyéb személy, diplomáciai és konzuli futár;
 - f) a Honvéd Vezérkar főnöke és helyettese, a Katonai Nemzetbiztonsági Szolgálat főigazgatója és helyettesei, a katonai külképviseletek vezetői és helyettesei; valamint
@@ -202,7 +202,7 @@ Az Országgyűlés az Alaptörvényben foglalt rendelkezésekre figyelemmel – 
 
 14. § (1) Az irányítást (felügyeletet) gyakorló miniszter, ennek hiányában a szerv vagy hivatal vezetője, az Országgyűlési Őrség tekintetében az Országgyűlés elnöke javaslatára szolgálati útlevelet kaphatnak hivatalos célú utazásuk, illetőleg kiküldetésük idejére
 
-- a) a központi államigazgatási szerveknél, a Sándor-palotánál, az Országgyűlés Hivatalánál, az Országgyűlési Őrségnél, az Alkotmánybíróság Hivatalánál, az Alapvető Jogok Biztosának Hivatalánál, az Állami Számvevőszéknél, a Nemzeti Adatvédelmi és Információszabadság Hatóságnál, a Nemzeti Média- és Hírközlési Hatóságnál foglalkoztatottak;
+- a) a központi államigazgatási szerveknél, a Sándor-palotánál, az Országgyűlés Hivatalánál, az Országgyűlési Őrségnél, az Alkotmánybíróság Hivatalánál, az Alapvető Jogok Biztosának Hivatalánál, az Állami Számvevőszéknél, az NVVH-nál, a Nemzeti Adatvédelmi és Információszabadság Hatóságnál, a Nemzeti Média- és Hírközlési Hatóságnál foglalkoztatottak;
 - b) a bírák és az ügyészek;
 - c) a Magyar Nemzeti Bank vezető munkatársai;
 - d) a szomszédos államokkal fennálló vízügyi együttműködés keretében vízi munka elvégzése, vízkár vagy jégveszély elhárítása érdekében határvízen közlekedő vízügyi dolgozók.
@@ -238,9 +238,9 @@ Az Országgyűlés az Alaptörvényben foglalt rendelkezésekre figyelemmel – 
 - a) az ügyész vagy
 - b) ha nincs ügyész jelen, illetve az (1) bekezdés f) pontjában meghatározott esetben a bíróság elveszi az úti okmányt annak visszatartása érdekében.
 
-(3) Amennyiben az úti okmányt az (1) bekezdésben meghatározott kényszerintézkedés, büntetés, intézkedés vagy egyéb korlátozás elrendelésekor vagy kiszabásakor nem lehetett elvenni, az ügyészség a büntetőeljárás során gondoskodik annak későbbi elvételéről.
+(3) Amennyiben az úti okmányt az (1) bekezdésben meghatározott kényszerintézkedés, büntetés, intézkedés vagy egyéb korlátozás elrendelésekor vagy kiszabásakor nem lehetett elvenni, az ügyészség vagy az NVVH a büntetőeljárás során gondoskodik annak későbbi elvételéről.
 
-(4) Az elvett úti okmányt az ügyészség vagy bíróság továbbítja az (5) bekezdésben meghatározott, az úti okmány visszatartását végrehajtó szervnek.
+(4) Az elvett úti okmányt az ügyészség, az NVVH, vagy bíróság továbbítja az (5) bekezdésben meghatározott, az úti okmány visszatartását végrehajtó szervnek.
 
 (5) Külföldre utazási korlátozás esetén az úti okmány visszatartását
 
@@ -268,13 +268,13 @@ hajtja végre.
 
 #### 16/B. §
 
-16/C. § (1) Ha az érintett személy külföldi – a (2) és (3) bekezdésben foglaltak figyelembevételével – a bűnügyi nyilvántartási rendszer egyes nyilvántartásai részére adatközlésre kötelezett bíróság, illetve ügyészség az idegenrendészeti hatóságot értesíti a külföldi érintett személy külföldi állam által kiállított úti okmányának visszatartása érdekében.
+16/C. § (1) Ha az érintett személy külföldi – a (2) és (3) bekezdésben foglaltak figyelembevételével – a bűnügyi nyilvántartási rendszer egyes nyilvántartásai részére adatközlésre kötelezett bíróság, illetve ügyészség vagy az NVVH az idegenrendészeti hatóságot értesíti a külföldi érintett személy külföldi állam által kiállított úti okmányának visszatartása érdekében.
 
-(2) Ha az érintett személy huzamos tartózkodási jogosultsággal rendelkezik, valamint hontalan külföldi terhelt esetében a bűnügyi nyilvántartási rendszer egyes nyilvántartásai részére adatközlésre kötelezett bíróság, illetve ügyészség az idegenrendészeti hatóságot értesíti a külföldi érintett személy magyar hatóság által kiállított úti okmányának visszavonása érdekében.
+(2) Ha az érintett személy huzamos tartózkodási jogosultsággal rendelkezik, valamint hontalan külföldi terhelt esetében a bűnügyi nyilvántartási rendszer egyes nyilvántartásai részére adatközlésre kötelezett bíróság, illetve ügyészség vagy az NVVH az idegenrendészeti hatóságot értesíti a külföldi érintett személy magyar hatóság által kiállított úti okmányának visszavonása érdekében.
 
-(3) Ha az érintett személy menekültként, oltalmazottként vagy menedékesként elismert külföldi terhelt esetében a bűnügyi nyilvántartási rendszer egyes nyilvántartásai részére adatközlésre kötelezett bíróság, illetve ügyészség a menekültügyi hatóságot értesíti a külföldi érintett személy magyar hatóság által kiállított úti okmányának visszavonása érdekében.
+(3) Ha az érintett személy menekültként, oltalmazottként vagy menedékesként elismert külföldi terhelt esetében a bűnügyi nyilvántartási rendszer egyes nyilvántartásai részére adatközlésre kötelezett bíróság, illetve ügyészség vagy az NVVH a menekültügyi hatóságot értesíti a külföldi érintett személy magyar hatóság által kiállított úti okmányának visszavonása érdekében.
 
-(4) Ha az érintett személytől a 16. § (2) bekezdése alapján diplomata vagy külügyi szolgálati útlevél kerül elvételre, a bűnügyi nyilvántartási rendszer egyes nyilvántartásai részére adatközlésre kötelezett bíróság, illetve ügyészség a külpolitikáért felelős minisztert értesíti az érintett személy úti okmányának visszatartása érdekében.
+(4) Ha az érintett személytől a 16. § (2) bekezdése alapján diplomata vagy külügyi szolgálati útlevél kerül elvételre, a bűnügyi nyilvántartási rendszer egyes nyilvántartásai részére adatközlésre kötelezett bíróság, illetve ügyészség vagy az NVVH a külpolitikáért felelős minisztert értesíti az érintett személy úti okmányának visszatartása érdekében.
 
 16/D. § (1) A 16. § (1) bekezdés a) és b) pontja szerinti kényszerintézkedésről a bíróság adatot szolgáltat a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerinti kijelölt kormányhivatal (a továbbiakban: kijelölt kormányhivatal) részére akkor, ha a kényszerintézkedés elrendelésére
 
@@ -372,7 +372,7 @@ meghatározott bűncselekmények elkövetése gyanúja miatt került sor.
 
 (3)
 
-23. § (1) Az érvénytelen úti okmányt – a 20. § (1) bekezdés a) pontjában meghatározott kivétellel – az útlevélhatóság, továbbá a bíróság, az ügyészség a nyomozó hatóság, a rendőrség, a Nemzeti Adó- és Vámhivatal vámszerve, a büntetés-végrehajtási intézet intézkedésre feljogosított tagja, az anyakönyvvezető, továbbá a magyar külképviselet intézkedésre feljogosított konzuli tisztviselője vagy tiszteletbeli konzuli tisztviselője hivatalos eljárása során elveszi.
+23. § (1) Az érvénytelen úti okmányt – a 20. § (1) bekezdés a) pontjában meghatározott kivétellel – az útlevélhatóság, továbbá a bíróság, az ügyészség, az NVVH, a nyomozó hatóság, a rendőrség, a Nemzeti Adó- és Vámhivatal vámszerve, a büntetés-végrehajtási intézet intézkedésre feljogosított tagja, az anyakönyvvezető, továbbá a magyar külképviselet intézkedésre feljogosított konzuli tisztviselője vagy tiszteletbeli konzuli tisztviselője hivatalos eljárása során elveszi.
 
 (2) Az elvett úti okmányt haladéktalanul meg kell küldeni az útlevélhatóságnak.
 
@@ -500,7 +500,7 @@ meghatározott bűncselekmények elkövetése gyanúja miatt került sor.
 - a) az utazást elrendelő vagy az útlevél kiadására javaslatot tevő szerv, hajós szolgálati útlevél esetében a hajón teljesítendő szolgálatot igazoló gazdálkodó szervezet értesíti az útlevélhatóságot, hogy a hivatalos útlevél használatára jogosult személy jogosultsága megszűnt,
 - b) az útlevélhatóság és a járási hivatal adatot kérhet a 11. § (3) bekezdésében meghatározott szervtől vagy gazdálkodó szervezettől.
 
-27. § (1) Az adatkezelő szerv – a törvényben meghatározott feladatai ellátása céljából – a 24. § (1) bekezdés g) pontjában meghatározott adatok kivételével a büntetőügyekben eljáró hatóságoknak, a bíróságnak, az ügyészségnek, a rendőrségnek, a nemzetbiztonsági szolgálatoknak, az állami adó- és vámhatóságnak, a bűnügyi nyilvántartó szervnek, a nyugdíjbiztosítási igazgatási szervnek, a Magyar Honvédség központi nyilvántartó szervének, az állampolgársági ügyekért felelős miniszternek, az állampolgársági ügyekben eljáró szervnek, az idegenrendészeti hatóságnak, menekültügyi hatóságnak, valamint a törvénnyel kihirdetett nemzetközi szerződés által meghatározott tartalmú közokiratot kiállító szervnek adhat át adatot.
+27. § (1) Az adatkezelő szerv – a törvényben meghatározott feladatai ellátása céljából – a 24. § (1) bekezdés g) pontjában meghatározott adatok kivételével a büntetőügyekben eljáró hatóságoknak, a bíróságnak, az ügyészségnek, az NVVH-nak, a rendőrségnek, a nemzetbiztonsági szolgálatoknak, az állami adó- és vámhatóságnak, a bűnügyi nyilvántartó szervnek, a nyugdíjbiztosítási igazgatási szervnek, a Magyar Honvédség központi nyilvántartó szervének, az állampolgársági ügyekért felelős miniszternek, az állampolgársági ügyekben eljáró szervnek, az idegenrendészeti hatóságnak, menekültügyi hatóságnak, valamint a törvénnyel kihirdetett nemzetközi szerződés által meghatározott tartalmú közokiratot kiállító szervnek adhat át adatot.
 
 (1a) Az adatkezelő szerv a 24. § (1) bekezdés d) és h)–k) pontjában meghatározott adatok kivételével a szabálysértési, illetve az előkészítő eljárást folytató hatóságnak adhat át adatot a szabálysértési eljárás alá vont személy személyazonosságának ellenőrzéséhez.
 
@@ -595,7 +595,7 @@ az adatkezelő szerv az (5) bekezdés szerint gondoskodik a schengeni figyelmezt
 
 29. § (1) Az útlevélhatóság és az adatkezelő szerv köteles biztosítani, hogy az állampolgár megismerhesse, hogy mely adatszolgáltatás alanya volt.
 
-(2) Az (1) bekezdésben meghatározott tájékoztatás a bíróság, az ügyészség, a nyomozó hatóság, az előkészítő eljárást folytató szerv és a nemzetbiztonsági szolgálatok részére teljesített adatszolgáltatás esetén – külön törvényben meghatározottak szerint – korlátozható, vagy kizárható.
+(2) Az (1) bekezdésben meghatározott tájékoztatás a bíróság, az ügyészség, az NVVH, a nyomozó hatóság, az előkészítő eljárást folytató szerv és a nemzetbiztonsági szolgálatok részére teljesített adatszolgáltatás esetén – külön törvényben meghatározottak szerint – korlátozható, vagy kizárható.
 
 (3) Az útlevélhatóság, valamint az adatkezelő szerv az e törvény alapján teljesített adatszolgáltatásról nyilvántartást vezet, amelyet az adatszolgáltatástól számított öt évig köteles megőrizni.
 

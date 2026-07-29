@@ -8,7 +8,7 @@ Az Országgyűlés Magyarország címerének és zászlajának használatát a n
 
 #### 1. A címer
 
-1. § (1) Magyarország címerét (a továbbiakban: címer) az Országgyűlés, az országgyűlési képviselő, a nemzetiségi szószóló, a köztársasági elnök, az Alkotmánybíróság, az Alkotmánybíróság tagja, az alapvető jogok biztosa és helyettese, az Állami Számvevőszék, a Magyar Nemzeti Bank, a Költségvetési Tanács, a Kormány tagja, a központi államigazgatási szervek, a Magyar Honvédség, a bíróság, az Országos Bírósági Hivatal, az Országos Bírói Tanács, az ügyészség és a közigazgatási feladatot ellátó szervek, továbbá ezek hivatalai, a helyi önkormányzat, a nemzetiségi önkormányzat, a köztestületek, Közszolgálati Döntőbizottság, valamint a felsoroltak képviseletére jogosult személyek a hivatali feladataik ellátása során engedély nélkül használhatják, továbbá helyezhetik el az épületeiken és helyiségeikben.
+1. § (1) Magyarország címerét (a továbbiakban: címer) az Országgyűlés, az országgyűlési képviselő, a nemzetiségi szószóló, a köztársasági elnök, az Alkotmánybíróság, az Alkotmánybíróság tagja, az alapvető jogok biztosa és helyettese, az Állami Számvevőszék, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, a Magyar Nemzeti Bank, a Költségvetési Tanács, a Kormány tagja, a központi államigazgatási szervek, a Magyar Honvédség, a bíróság, az Országos Bírósági Hivatal, az Országos Bírói Tanács, az ügyészség és a közigazgatási feladatot ellátó szervek, továbbá ezek hivatalai, a helyi önkormányzat, a nemzetiségi önkormányzat, a köztestületek, Közszolgálati Döntőbizottság, valamint a felsoroltak képviseletére jogosult személyek a hivatali feladataik ellátása során engedély nélkül használhatják, továbbá helyezhetik el az épületeiken és helyiségeikben.
 
 (2) A köztársasági elnök a két angyallal mint pajzstartóval ellátott, a miniszterelnök és az Országgyűlés elnöke a cserfaággal és olajággal övezett címer használatára is jogosult.
 
@@ -44,7 +44,7 @@ Az Országgyűlés Magyarország címerének és zászlajának használatát a n
 
 - a) az Országgyűlés,
 - b) a köztársasági elnök,
-- c) az Alkotmánybíróság, a bíróságok, az Országos Bírósági Hivatal és az ügyészségek,
+- c) az Alkotmánybíróság, a bíróságok, az Országos Bírósági Hivatal, az ügyészségek és a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal,
 - d) az Állami Számvevőszék, a Magyar Nemzeti Bank, az alapvető jogok biztosa,
 - e) a központi államigazgatási szervek,
 - f) a Magyar Honvédség,
@@ -145,7 +145,7 @@ tesz javaslatot a miniszterelnöknek az előterjesztésre.
 
 22. § (1) A feladatkörével összefüggő egyes kiemelkedő tevékenységek, teljesítmények elismerésére kitüntető címet, díjat, oklevelet, plakettet vagy más elismerést (a továbbiakban: elismerés) alapíthat és adományozhat
 
-- a) a köztársasági elnök, az Alkotmánybíróság elnöke, az Országgyűlés elnöke, az alapvető jogok biztosa, az Országos Bírói Tanács, az Állami Számvevőszék elnöke, a legfőbb ügyész, az autonóm államigazgatási szerv vezetője,
+- a) a köztársasági elnök, az Alkotmánybíróság elnöke, az Országgyűlés elnöke, az alapvető jogok biztosa, az Országos Bírói Tanács, az Állami Számvevőszék elnöke, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal elnöke, a legfőbb ügyész, az autonóm államigazgatási szerv vezetője,
 - b) a Kormány tagja,
 - c) a Magyar Nemzeti Bank elnöke, az önálló szabályozó szerv vezetője,
 - d) a helyi önkormányzat képviselő-testülete,

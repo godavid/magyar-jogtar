@@ -37,7 +37,7 @@ Az Országgyűlés a hatékonyan működő, költségtakarékos, az adminisztrat
 - o) az Országos Atomenergia Hivatal.
 - p) az Integritás Hatóság.
 - q) az Európai Támogatásokat Auditáló Főigazgatóság.
-- r)
+- r) Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal.
 
 (2) A különleges jogállású szervek szervezetét a szervet létrehozó törvény, vagy annak felhatalmazása alapján a különleges jogállású szerv alapító okirata vagy a különleges jogállású szerv szervezeti és működési szabályzata határozza meg.
 
@@ -1906,7 +1906,7 @@ Az időtartam elteltével a fegyelmi büntetést minden nyilvántartásból tör
 
 (10) A munkáltató megrovás fegyelmi büntetést fegyelmi eljárás lefolytatása nélkül is kiszabhat, ha a tényállás megítélése egyszerű és a kötelezettségszegést a köztisztviselő elismeri.
 
-(11) Ha a kötelezettségszegés miatt büntető- vagy szabálysértési eljárás indult és az anélkül fejeződött be, hogy megállapították volna a köztisztviselő felelősségét, a három hónapos határidőt szabálysértési eljárásban az eljárás befejezéséről szóló jogerős határozat, illetve büntetőeljárásban a bíróság jogerős vagy véglegessé vált határozatának, valamint az ügyészség, illetve a nyomozó hatóság további jogorvoslattal nem támadható határozatának különleges jogállású szerv részére történő közlésétől, a hároméves határidőt szabálysértési eljárásban az eljárás jogerős befejezésétől, illetve büntetőeljárásban a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezésétől, vagy az ügyészségnek vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozatalától kell számítani.
+(11) Ha a kötelezettségszegés miatt büntető- vagy szabálysértési eljárás indult és az anélkül fejeződött be, hogy megállapították volna a köztisztviselő felelősségét, a három hónapos határidőt szabálysértési eljárásban az eljárás befejezéséről szóló jogerős határozat, illetve büntetőeljárásban a bíróság jogerős vagy véglegessé vált határozatának, valamint az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, illetve a nyomozó hatóság további jogorvoslattal nem támadható határozatának különleges jogállású szerv részére történő közlésétől, a hároméves határidőt szabálysértési eljárásban az eljárás jogerős befejezésétől, illetve büntetőeljárásban a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezésétől, vagy az ügyészségnek, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalnak vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozatalától kell számítani.
 
 (12) Külföldön elkövetett kötelezettségszegés esetén a határidőket a belföldre történő visszaérkezéstől kell számítani.
 
@@ -2074,7 +2074,7 @@ Ha a felfüggesztés indoka megszűnik, a vizsgálóbiztos javaslatára a munká
 
 (18) A köztisztviselő a leltárfelvétel során, illetve a leltárfelvétel után a leltározással kapcsolatban észrevételt tehet.
 
-(19) A leltárhiányért fennálló felelősség megállapítására a (26) és (27) bekezdésben foglaltak az irányadók azzal az eltéréssel, hogy a felelősséget a leltárfelvétel befejezését követő hatvan napon belül el kell bírálni. Büntetőeljárás esetén e határidő harminc nap és a bíróság büntetőeljárást befejező jogerős vagy véglegessé vált határozatának, vagy az ügyészség, illetve a nyomozó hatóság további jogorvoslattal nem támadható eljárást megszüntető határozatának a kézbesítését követő nappal kezdődik. A határidő eltelte után a leltárhiányért kinevezési okmánya alapján felelős köztisztviselőt kártérítésre nem lehet kötelezni.
+(19) A leltárhiányért fennálló felelősség megállapítására a (26) és (27) bekezdésben foglaltak az irányadók azzal az eltéréssel, hogy a felelősséget a leltárfelvétel befejezését követő hatvan napon belül el kell bírálni. Büntetőeljárás esetén e határidő harminc nap és a bíróság büntetőeljárást befejező jogerős vagy véglegessé vált határozatának, vagy az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, illetve a nyomozó hatóság további jogorvoslattal nem támadható eljárást megszüntető határozatának a kézbesítését követő nappal kezdődik. A határidő eltelte után a leltárhiányért kinevezési okmánya alapján felelős köztisztviselőt kártérítésre nem lehet kötelezni.
 
 (20) Ha a kárt többen együttesen okozták, azt vétkességük arányában, ha ez nem állapítható meg, közrehatásuk arányában viselik. A kárt a köztisztviselők egyenlő arányban viselik, ha a vétkesség vagy a közrehatás arányát nem lehet megállapítani.
 
@@ -2228,7 +2228,7 @@ kezdődik.
 - d) a törvényességi ellenőrzést végző vagy törvényességi felügyeletet gyakorló;
 - e) a fegyelmi eljárást lefolytató testület vagy személy;
 - f) közszolgálati jogvita kapcsán az eljáró bíróság;
-- g) törvényben meghatározott célból, feladatkörükben eljárva a nemzetbiztonsági szolgálatok, valamint büntetőeljárásban a bíróság, az ügyészség és a nyomozó hatóság;
+- g) törvényben meghatározott célból, feladatkörükben eljárva a nemzetbiztonsági szolgálatok, valamint büntetőeljárásban a bíróság, az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal és a nyomozó hatóság;
 - h) törvényességi ellenőrzési feladatkörében eljárva az ügyész;
 - i) a személyes adatok kezelésével összefüggésben a Nemzeti Adatvédelmi és Információszabadság Hatóság elnöke;
 - j) a személyzeti, munkaügyi és illetményszámfejtési feladatokat ellátó szerv e feladattal megbízott munkatársa feladatkörén belül, a 3. melléklet I/A., I/B., II., IV., V., VII., VIII. és X. pontjában foglalt adatkörökből a köztisztviselő illetményének számfejtése, illetve annak ellenőrzése céljából;
@@ -2455,7 +2455,7 @@ kapcsolatos ügyekben. Egyéb esetekben a köztisztviselő az igény érvényes�
 
 #### 98. § [A közszolgálati munkaszerződés]
 
-(1) A Sándor-palota, az Alkotmánybíróság Hivatala, a Magyar Energetikai és Közmű-szabályozási Hivatal, a Nemzeti Média- és Hírközlési Hatóság, a Szabályozott Tevékenységek Felügyeleti Hatósága, a Gazdasági Versenyhivatal, az Országos Atomenergia Hivatal, az Integritás Hatóság, a Közbeszerzési Hatóság és az Európai Támogatásokat Auditáló Főigazgatóság köztisztviselőjének közszolgálati jogviszonya a különleges jogállású szerv mint munkáltató és a köztisztviselő mint foglalkoztatott között közszolgálati munkaszerződéssel jön létre.
+(1) A Sándor-palota, az Alkotmánybíróság Hivatala, a Magyar Energetikai és Közmű-szabályozási Hivatal, a Nemzeti Média- és Hírközlési Hatóság, a Szabályozott Tevékenységek Felügyeleti Hatósága, a Gazdasági Versenyhivatal, az Országos Atomenergia Hivatal, az Integritás Hatóság, a Közbeszerzési Hatóság, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal és az Európai Támogatásokat Auditáló Főigazgatóság köztisztviselőjének közszolgálati jogviszonya a különleges jogállású szerv mint munkáltató és a köztisztviselő mint foglalkoztatott között közszolgálati munkaszerződéssel jön létre.
 
 (1a) Az (1) bekezdés szerinti különleges jogállású szerv vezetőjének és helyettesének közszolgálati jogviszonya a különleges jogállású szervet létrehozó törvényben meghatározottak szerint jön létre.
 

@@ -87,7 +87,7 @@ Az Országgyűlés a demokratikus jogállam, az alkotmányos rend és az Alaptö
 
 (3) Az Alkotmánybíróság tagjának őrizetét csak tettenérés esetén lehet elrendelni, és ellene csak az Alkotmánybíróság előzetes hozzájárulásával lehet büntetőeljárást, valamint szabálysértési eljárást indítani vagy folytatni, továbbá büntető eljárásjogi kényszerintézkedést alkalmazni.
 
-(4) A mentelmi jog felfüggesztésére irányuló indítványt a vádemelés előtt a legfőbb ügyész, a vádemelés után, illetve magánvádas vagy pótmagánvádas eljárásban a bíróság terjeszti elő az elnökhöz. Az indítványt az Alkotmánybíróság tagjának tettenérése esetén haladéktalanul elő kell terjeszteni. Szabálysértési ügyben a mentelmi jog felfüggesztésére irányuló indítványt – a szabálysértési hatóság megkeresése alapján – a legfőbb ügyész terjeszti elő az elnökhöz.
+(4) A mentelmi jog felfüggesztésére irányuló indítványt a vádemelés előtt a legfőbb ügyész, illetve a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, a vádemelés után, illetve magánvádas vagy pótmagánvádas eljárásban a bíróság terjeszti elő az elnökhöz. Az indítványt az Alkotmánybíróság tagjának tettenérése esetén haladéktalanul elő kell terjeszteni. Szabálysértési ügyben a mentelmi jog felfüggesztésére irányuló indítványt – a szabálysértési hatóság megkeresése alapján – a legfőbb ügyész terjeszti elő az elnökhöz.
 
 (5) A mentelmi jog felfüggesztése tárgyában hozott döntés csak arra az ügyre vonatkozik, amelyre az indítványt előterjesztették.
 
@@ -298,6 +298,8 @@ Az Országgyűlés a demokratikus jogállam, az alkotmányos rend és az Alaptö
 
 (3) A legfőbb ügyész az Alkotmánybírósághoz fordulhat az ügyész részvételével lefolytatott egyedi ügyben alkalmazott jogszabály Alaptörvényben biztosított jogok sérelmét okozó alaptörvény-ellenességének vizsgálata érdekében, ha a jogosult maga nem képes jogainak védelmére, vagy a jogsérelem a személyek nagyobb csoportját érinti.
 
+(4) A Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal elnöke az Alkotmánybírósághoz fordulhat a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal részvételével lefolytatott egyedi ügyben alkalmazott jogszabály Alaptörvényben biztosított jogok sérelmét okozó alaptörvény-ellenességének vizsgálata érdekében, ha a jogosult maga nem képes jogainak védelmére, vagy a jogsérelem a személyek nagyobb csoportját érinti.
+
 27. § (1) Az Alaptörvény 24. cikk (2) bekezdés d) pontja alapján alaptörvény-ellenes bírói döntéssel szemben az egyedi ügyben érintett személy vagy szervezet alkotmányjogi panasszal fordulhat az Alkotmánybírósághoz, ha az ügy érdemében hozott döntés vagy a bírósági eljárást befejező egyéb döntés
 
 - a) az indítványozó Alaptörvényben biztosított jogát sérti, és
@@ -329,7 +331,7 @@ Az Országgyűlés a demokratikus jogállam, az alkotmányos rend és az Alaptö
 
 32. § (1) Az Alkotmánybíróság az Alaptörvény 24. cikk (2) bekezdés f) pontja alapján a jogszabályok vizsgálatát az indítványozók kezdeményezésére, illetve bármely eljárása során hivatalból végzi.
 
-(2) Az eljárást az országgyűlési képviselők egynegyede, a Kormány, a Kúria elnöke, a legfőbb ügyész, valamint az alapvető jogok biztosa indítványozhatja. A bíró – a bírósági eljárás felfüggesztése mellett – az Alkotmánybíróság eljárását kezdeményezi, ha az előtte folyamatban levő egyedi ügy elbírálása során olyan jogszabályt kell alkalmazni, amelynek nemzetközi szerződésbe ütközését észleli.
+(2) Az eljárást az országgyűlési képviselők egynegyede, a Kormány, a Kúria elnöke, a legfőbb ügyész, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal elnöke, valamint az alapvető jogok biztosa indítványozhatja. A bíró – a bírósági eljárás felfüggesztése mellett – az Alkotmánybíróság eljárását kezdeményezi, ha az előtte folyamatban levő egyedi ügy elbírálása során olyan jogszabályt kell alkalmazni, amelynek nemzetközi szerződésbe ütközését észleli.
 
 #### 11. Az Országgyűlés népszavazás elrendelésével összefüggő határozatának vizsgálata
 
@@ -479,7 +481,7 @@ indítványa alapján elvi véleményt nyilvánít.
 
 (5) A jogszabály megsemmisítése nem érinti a megsemmisített jogszabályon alapuló, Alkotmánybíróság előtti eljárásban nem felülvizsgálható, vagy felül nem vizsgált bírói döntéseket, kivéve, ha az Alkotmánybíróság a megsemmisítésről szóló határozatában ettől eltérően rendelkezik.
 
-(6) Az Alkotmánybíróság az alaptörvény-ellenes jogszabály alkalmazása alapján a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével vagy az ügyészség vagy a nyomozó hatóság további jogorvoslattal nem támadható eljárást megszüntető határozatával befejezett büntetőeljárás és a jogerős határozattal befejezett szabálysértési eljárás felülvizsgálatát rendeli el, ha az eljárásban alkalmazott jogszabály vagy jogszabályi rendelkezés semmisségéből a büntetés, illetve az intézkedés csökkentése vagy mellőzése, valamint a büntetőjogi, illetve a szabálysértési felelősség alóli mentesülés vagy annak korlátozása következne.
+(6) Az Alkotmánybíróság az alaptörvény-ellenes jogszabály alkalmazása alapján a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével vagy az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal vagy a nyomozó hatóság további jogorvoslattal nem támadható eljárást megszüntető határozatával befejezett büntetőeljárás és a jogerős határozattal befejezett szabálysértési eljárás felülvizsgálatát rendeli el, ha az eljárásban alkalmazott jogszabály vagy jogszabályi rendelkezés semmisségéből a büntetés, illetve az intézkedés csökkentése vagy mellőzése, valamint a büntetőjogi, illetve a szabálysértési felelősség alóli mentesülés vagy annak korlátozása következne.
 
 (7) A (6) bekezdésben meghatározott felülvizsgálat során a büntetőeljárásról, illetve a szabálysértésekről szóló törvény szabályait kell alkalmazni.
 

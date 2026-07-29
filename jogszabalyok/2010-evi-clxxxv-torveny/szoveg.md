@@ -655,7 +655,7 @@ figyelemfelhívás.
 (2) Nem lehet továbbá lineáris médiaszolgáltatásra jogosult személy:
 
 - a) a bíró, az ügyész,
-- b) a közigazgatási szerv, a Magyar Nemzeti Bank, a Gazdasági Versenyhivatal, a Magyar Nemzeti Vagyonkezelő Zrt. vezető beosztású tisztségviselője, az Állami Számvevőszék elnöke, alelnöke, főtitkára, vezető beosztású munkavállalója, számvevője, valamint a Gazdasági Versenytanács tagja,
+- b) a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal elnöke, elnökhelyettese, személyi állományának tagja, a közigazgatási szerv, a Magyar Nemzeti Bank, a Gazdasági Versenyhivatal, a Magyar Nemzeti Vagyonkezelő Zrt. vezető beosztású tisztségviselője, az Állami Számvevőszék elnöke, alelnöke, főtitkára, vezető beosztású munkavállalója, számvevője, valamint a Gazdasági Versenytanács tagja,
 - c) a Hatóság Elnöke, elnökhelyettese, főigazgatója, főigazgató-helyettese, a Hatósággal munkavégzésre irányuló jogviszonyban álló személy,
 - d) a 118. § (1) bekezdés a)–b) pont, illetve e bekezdés b)–c) pont alá eső személyek közeli hozzátartozója.
 

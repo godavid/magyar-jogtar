@@ -344,11 +344,12 @@ szervezetét és működését, tevékenységét, valamint cselekvési programj�
 - c) az (1) bekezdés b) pontja szerinti központi államigazgatási szerv kivételével a központi államigazgatási szerv vezetője,
 - d) az Országos Bírósági Hivatal elnöke,
 - e) a legfőbb ügyész,
-- f) az alapvető jogok biztosa,
-- g) a Magyar Nemzeti Bank elnöke,
-- h) az Állami Számvevőszék elnöke,
-- i) a fővárosi és vármegyei kormányhivatal vezetője, valamint
-- j) a polgármester, a főpolgármester, a vármegyei közgyűlés elnöke (a továbbiakban együtt: polgármester) és a jegyző
+- f) a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal elnöke,
+- g) az alapvető jogok biztosa,
+- h) a Magyar Nemzeti Bank elnöke,
+- i) az Állami Számvevőszék elnöke,
+- j) a fővárosi és vármegyei kormányhivatal vezetője, valamint
+- k) a polgármester, a főpolgármester, a vármegyei közgyűlés elnöke (a továbbiakban együtt: polgármester) és a jegyző
 
 a vezetése, az irányítása vagy a felügyelete alá tartozó szervek szervezetét és működését, valamint tevékenységét.
 
@@ -440,7 +441,7 @@ hivatali szervezetének vezetője, amely a szerv állományába tartozó személ
 
 28/B. § (1) A Magyar Közlöny mellékletét képező Hivatalos Értesítő tartalmazza
 
-- a) a 23. § (4) bekezdés a)–h) pontjában és (5) bekezdésében megjelölt személyek minősített adatot nem tartalmazó normatív utasításait,
+- a) a 23. § (4) bekezdés a)–i) pontjában és (5) bekezdésében megjelölt személyek minősített adatot nem tartalmazó normatív utasításait,
 - b) azokat a közleményeket, amelyeknek a Magyar Közlönyben, illetve más hivatalos lapban való közzétételét jogszabály elrendeli vagy a közzététel kezdeményezésére jogszabály által feljogosított személy kezdeményezi, és
 - c) azokat a hirdetményeket, amelyek a Magyar Közlöny hivatalos jellegéhez igazodnak és erre tekintettel azok Magyar Közlönyben való közzétételére a Magyar Közlöny felelős szerkesztője engedélyt adott.
 

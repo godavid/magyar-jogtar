@@ -300,7 +300,7 @@ miatt nem, vagy a polgári védelmi szolgálat teljesítésével elérhető elő
 
 16. § Mentes a szolgáltatás alól:
 
-- a) az Országgyűlés, az Alkotmánybíróság, a Sándor-palota, az Állami Számvevőszék, az Alapvető Jogok Biztosának munkaszervezete, a minisztériumok, az Országos Bírósági Hivatal, a Kúria, a Legfőbb Ügyészség, az Országgyűlés Hivatala, a Magyar Nemzeti Bank és alapítványai, az autonóm államigazgatási szervek, továbbá az önálló szabályozó szervek,
+- a) az Országgyűlés, az Alkotmánybíróság, a Sándor-palota, az Állami Számvevőszék, az Alapvető Jogok Biztosának munkaszervezete, a minisztériumok, az Országos Bírósági Hivatal, a Kúria, a Legfőbb Ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, az Országgyűlés Hivatala, a Magyar Nemzeti Bank és alapítványai, az autonóm államigazgatási szervek, továbbá az önálló szabályozó szervek,
 - b) a honvédelmi törvény szerinti honvédelmi szervezetek, valamint a védelmi és biztonsági szervezetek,
 - c) az a) pontban foglaltakon kívül a közigazgatási, bírósági és ügyészségi szervek alaprendeltetésük, valamint védelmi és biztonsági feladataik ellátásához szükséges mértékben,
 - d) a vallási közösségek azon dolgok és jogok tekintetében, amelyek közvetlenül a hitéleti feladatokat szolgálják,
@@ -1653,6 +1653,7 @@ sarkalatosnak minősül.
 - 5. Magyar Nemzeti Bank,
 - 6. Országos Bírósági Hivatal,
 - 7. Legfőbb Ügyészség,
+- 7a. Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal,
 - 8. Nemzeti Média- és Hírközlési Hatóság,
 - 9. Állami Számvevőszék,
 - 10. Országos Atomenergia Hivatal.

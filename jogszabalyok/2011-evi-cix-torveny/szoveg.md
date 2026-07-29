@@ -420,7 +420,7 @@ az MMA Titkársága látja el.
 
 (2) A díj megosztva vagy posztumusz nem adományozható.
 
-(3) A díj nem adományozható a köztársasági elnök, országgyűlési képviselő, európai parlamenti képviselő, az Alkotmánybíróság tagja, a Kúria elnöke és elnökhelyettese, a legfőbb ügyész és helyettese, az Állami Számvevőszék elnöke és alelnöke, a Magyar Nemzeti Bank elnöke és alelnöke, az alapvető jogok biztosa és helyettesei, valamint állami vezető részére.
+(3) A díj nem adományozható a köztársasági elnök, országgyűlési képviselő, európai parlamenti képviselő, az Alkotmánybíróság tagja, a Kúria elnöke és elnökhelyettese, a legfőbb ügyész és helyettese, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal elnöke és elnökhelyettesei, az Állami Számvevőszék elnöke és alelnöke, a Magyar Nemzeti Bank elnöke és alelnöke, az alapvető jogok biztosa és helyettesei, valamint állami vezető részére.
 
 28/D. § (1) A díjat az MMA elnöke az MMA megalakulásának évfordulója (november 5.) alkalmából adományozza. A díjat az MMA elnöke és a miniszterelnök vagy az általuk kijelölt egy-egy személy adja át.
 

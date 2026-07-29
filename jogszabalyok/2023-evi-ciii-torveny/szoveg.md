@@ -179,10 +179,11 @@ Az Országgyűlés – felismerve azt, hogy az információs és kommunikációs
 - d) az Országos Bírósági Hivatal és a bíróság,
 - e) az alapvető jogok biztosa,
 - f) az ügyészség,
-- g) a közjegyző,
-- h) a bírósági végrehajtó és az önálló bírósági végrehajtó iroda,
-- i) a hegyközségek kivételével a köztestület, valamint
-- j) a törvénnyel vagy kormányrendelettel az e törvény szerinti digitális szolgáltatás nyújtására kötelezett közfeladatot ellátó vagy közszolgáltatást nyújtó jogalany.
+- g) a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH),
+- h) a közjegyző,
+- i) a bírósági végrehajtó és az önálló bírósági végrehajtó iroda,
+- j) a hegyközségek kivételével a köztestület, valamint
+- k) a törvénnyel vagy kormányrendelettel az e törvény szerinti digitális szolgáltatás nyújtására kötelezett közfeladatot ellátó vagy közszolgáltatást nyújtó jogalany.
 
 (3) Digitális szolgáltatás biztosítására kötelezett szervezet az Ötödik Részben meghatározott szervezet.
 
@@ -288,6 +289,7 @@ szerepel, akkor a nyilvántartást vezető szerv a 43. § (2) bekezdése szerint
 - d) a nemzetbiztonsági szolgálatoknak feladataik teljesítése céljából,
 - e) a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó, kormányrendeletben kijelölt szerv a belső bűnmegelőzési és bűnfelderítési feladatai ellátása céljából,
 - f) a rendőrségről szóló törvényben meghatározott terrorizmust elhárító szervnek a hatáskörébe tartozó bűncselekmények megelőzése, felderítése, illetve megszakítása, továbbá elhárítási, információszerzési, személyvédelmi és létesítménybiztosítási feladatai ellátása céljából.
+- g) az NVVH-nak bűncselekmények felderítése, büntetőeljárás lefolytatása vagy büntetés és intézkedés végrehajtása céljából.
 
 13/A. § A közhiteles nyilvántartást vezető szervezet, valamint a digitális szolgáltatást biztosító szervezet a digitális állampolgár azonosítót a felhasználó azonosítása, valamint az általa a digitális térben nyújtott szolgáltatások biztosítása céljából kezelheti.
 
@@ -389,7 +391,7 @@ szerepel, akkor a nyilvántartást vezető szerv a 43. § (2) bekezdése szerint
 
 (3) Törvény vagy kormányrendelet az elektronikus ügyintézés lehetőségét csak annyiban korlátozhatja, ha az eljárás során a felhasználó személyes jelenléte vagy valamely okirat másként nem pótolható benyújtása elengedhetetlen.
 
-(4) A digitális szolgáltatást biztosító szervezet – önállóan vagy más digitális szolgáltatást biztosító szervezetekkel együttműködve – telefonon és más elektronikus úton is elérhető ügyfélszolgálatot működtet a fogyasztóvédelemről szóló törvénynek a közszolgáltatási tevékenységet folytató vállalkozásokra vonatkozó szabályai szerint azzal az eltéréssel, hogy az ügyfélszolgálatnak hetente legalább 40 órában elérhetőnek kell lennie. A 9. § (2) bekezdés a)–i) pontja szerinti szervek külön megállapodás alapján a Kormány rendeletében kijelölt országos telefonos ügyfélszolgálat útján is biztosíthatják az e bekezdés szerinti feladatok ellátását.
+(4) A digitális szolgáltatást biztosító szervezet – önállóan vagy más digitális szolgáltatást biztosító szervezetekkel együttműködve – telefonon és más elektronikus úton is elérhető ügyfélszolgálatot működtet a fogyasztóvédelemről szóló törvénynek a közszolgáltatási tevékenységet folytató vállalkozásokra vonatkozó szabályai szerint azzal az eltéréssel, hogy az ügyfélszolgálatnak hetente legalább 40 órában elérhetőnek kell lennie. A 9. § (2) bekezdés a)–j) pontja szerinti szervek külön megállapodás alapján a Kormány rendeletében kijelölt országos telefonos ügyfélszolgálat útján is biztosíthatják az e bekezdés szerinti feladatok ellátását.
 
 (5) Az e törvény szerinti szolgáltatás esetén annak igénybevételéhez feltételként a felhasználó életkorára vonatkozó megkötés állapítható meg. Az életkori feltétel teljesülését az adott szolgáltatás erre szolgáló funkciója, illetve a szolgáltatás biztosításához szükséges nyilvántartás vizsgálja.
 
@@ -575,7 +577,7 @@ a digitális szolgáltatást biztosító szervezet az (1) bekezdés szerinti ren
 
 útján azonosítja magát, amely biztosítja, hogy a felhasználó neve a digitális szolgáltatást biztosító szervezet, az azonosításhoz szükséges további adatai pedig az elektronikus azonosítási szolgáltató rendelkezésére álljanak.
 
-(3) A felhasználó hozzájárulása esetén a 9. § (2) bekezdés a)–i) pontja szerinti szervek az elektronikus azonosítási szolgáltatás a 43. § (1) bekezdése szerinti ügyfél-regisztrációs nyilvántartását vagy egyéb, a (2) bekezdés szerinti elektronikus azonosítási eszközhöz vagy megoldáshoz kapcsolódóan a felhasználó adatait tároló nyilvántartást kezelő szervtől az ügy intézéséhez szükséges és a digitális szolgáltatást biztosító szervezet által kezelhető azonosító adatokat igényelhetnek.
+(3) A felhasználó hozzájárulása esetén a 9. § (2) bekezdés a)–j) pontja szerinti szervek az elektronikus azonosítási szolgáltatás a 43. § (1) bekezdése szerinti ügyfél-regisztrációs nyilvántartását vagy egyéb, a (2) bekezdés szerinti elektronikus azonosítási eszközhöz vagy megoldáshoz kapcsolódóan a felhasználó adatait tároló nyilvántartást kezelő szervtől az ügy intézéséhez szükséges és a digitális szolgáltatást biztosító szervezet által kezelhető azonosító adatokat igényelhetnek.
 
 (4) A digitális szolgáltatást biztosító szervezetet a (3) bekezdés szerinti adatigénylés és adatkezelés jogosultsága a felhasználó ügyintézési szándékának a digitális szolgáltatást biztosító szervezet tudomására jutásától megilleti.
 
@@ -603,7 +605,7 @@ követően végezhet elektronikus azonosításhoz kötött eljárási cselekmén
 
 #### 19. Azonosítók és adatok igazolásának kötelezettsége
 
-36. § (1) A felhasználó azonosításához szükséges adatok kivételével a 9. § (2) bekezdés a)–i) pontja szerinti digitális szolgáltatást biztosító szervezet a felhasználótól nem kérheti olyan adat igazolását, amelyet az érintett szerv az információs önrendelkezési jogról és az információszabadságról szóló törvényben előírt kötelezettsége alapján közzétett, vagy amelyet jogszabállyal rendszeresített közhiteles nyilvántartásnak tartalmaznia kell.
+36. § (1) A felhasználó azonosításához szükséges adatok kivételével a 9. § (2) bekezdés a)–j) pontja szerinti digitális szolgáltatást biztosító szervezet a felhasználótól nem kérheti olyan adat igazolását, amelyet az érintett szerv az információs önrendelkezési jogról és az információszabadságról szóló törvényben előírt kötelezettsége alapján közzétett, vagy amelyet jogszabállyal rendszeresített közhiteles nyilvántartásnak tartalmaznia kell.
 
 (2) Ha a digitális szolgáltatást biztosító szervezet az (1) bekezdés szerinti adatot információátadás útján szerzi be, az ügyintézési határidőbe – az általános közigazgatási rendtartásról szóló törvény hatálya alá tartozó hatósági eljárások kivételével – nem számít bele a megkeresés teljesítésének időtartama, de legfeljebb 3 munkanap.
 
@@ -670,10 +672,10 @@ tehető vagy módosítható.
 - h) a legalább fokozott biztonságú és közigazgatási követelményeknek megfelelő elektronikus aláírással ellátott, illetve elektronikus bélyegzővel ellátott elektronikus dokumentumok feldolgozását,
 - i) e törvény szerint hitelesített dokumentumok előállítását,
 - j) a felhasználó részére kézbesítendő iratok kézbesítését a 26. § szerint valamennyi típusú kézbesítés útján,
-- k) a 9. § (2) bekezdés a)–i) pontjában foglalt szervek esetében az eljárásért fizetendő terhek elektronikus fizetését, és
+- k) a 9. § (2) bekezdés a)–j) pontjában foglalt szervek esetében az eljárásért fizetendő terhek elektronikus fizetését, és
 - l) az elektronikus űrlapkitöltés-támogatási szolgáltatással létrehozott elektronikus űrlapok kezelését.
 
-(3) A 9. § (2) bekezdés a), b), d)–f) pontja, valamint a 80. § (1) bekezdés a)–h) pontja szerinti szervek kötelesek az (1) bekezdés szerinti információs rendszer folyamatos elérhetőségét biztosítani.
+(3) A 9. § (2) bekezdés a), b), d)–g) pontja, valamint a 80. § (1) bekezdés a)–h) pontja szerinti szervek kötelesek az (1) bekezdés szerinti információs rendszer folyamatos elérhetőségét biztosítani.
 
 (4) A digitális szolgáltatást biztosító szervezet a felhasználó számára az elektronikus ügyintézést a teljes ügyintézési folyamatot támogató elektronikus ügyintézési megoldások útján biztosítja, ha azt törvény vagy az ügyfél ügyintézési rendelkezése nem zárja ki, és a teljes ügyintézési folyamat megvalósítható elektronikus ügyintézési megoldások útján.
 
@@ -773,6 +775,7 @@ tartalmazza. Az ügyfél-regisztrációs nyilvántartás tartalmazhatja az elekt
 - c) az ügyészségnek az ügyészségről szóló törvényben meghatározott közérdekvédelmi és törvényességi felügyeleti feladatainak ellátása, valamint a bűncselekmények megelőzése, felderítése, büntetőeljárás lefolytatása vagy büntetés és intézkedés végrehajtása céljából,
 - d) a nemzetbiztonsági szolgálatoknak feladataik teljesítése céljából,
 - e) a rendőrségről szóló törvényben meghatározott terrorizmust elhárító szervnek a hatáskörébe tartozó bűncselekmények megelőzése, felderítése illetve megszakítása, továbbá elhárítási, információszerzési személyvédelmi és létesítménybiztosítási feladatai ellátása céljából.
+- f) az NVVH-nak bűncselekmények felderítése, büntetőeljárás lefolytatása vagy büntetés és intézkedés végrehajtása céljából.
 
 (8) A természetes személy adatait az ügyfél-regisztrációs szerv a regisztráció megszűnését követő 5 év elteltével zárolja, ezt követően azokat kizárólag az elektronikus azonosítás hitelességének visszavezethetősége, a polgárok jogai és jogos érdekeinek védelme érdekében, az általános szerződési feltételeiben meghatározott időpontig, de legalább a regisztráció megszűnését követő 10 évig, legfeljebb a regisztráció megszűnését követő 50 évig kezeli.
 
@@ -1166,6 +1169,7 @@ kormányrendelet állapítja meg.
 - c) az ügyészségnek az ügyészségről szóló törvényben meghatározott közérdekvédelmi és törvényességi felügyeleti feladatainak ellátása, valamint a bűncselekmények megelőzése, felderítése, büntetőeljárás lefolytatása vagy büntetés és intézkedés végrehajtása céljából,
 - d) a nemzetbiztonsági szolgálatoknak feladataik teljesítése céljából,
 - e) a rendőrségről szóló törvényben meghatározott terrorizmust elhárító szervnek a terrorcselekmények vagy azzal összefüggésben elkövetett más bűncselekmények megelőzése, felderítése és megszakítása, továbbá elhárítási, információszerzési, valamint kiemelt személyvédelmi és létesítménybiztosítási feladatai ellátása céljából.
+- f) az NVVH-nak bűncselekmények felderítése, büntetőeljárás lefolytatása vagy büntetés és intézkedés végrehajtása céljából.
 
 70. § (1) A 69. § (3)–(5) bekezdése szerinti szervek a külföldi személyek nyilvántartásából díjmentesen igényelhetnek adatot.
 
@@ -1526,7 +1530,7 @@ kell alkalmazni.
 
 ### XVII. Fejezet — A BIZALMI SZOLGÁLTATÓ ADATSZOLGÁLTATÁSI KÖTELEZETTSÉGE
 
-94. § (1) A bizalmi szolgáltató az általa nyújtott bizalmi szolgáltatások felhasználásával elkövetett bűncselekményekkel kapcsolatos büntetőeljárás lefolytatása céljából, vagy nemzetbiztonsági érdekből – az érintett személyazonosságát igazoló, valamint a 85. § alapján egyeztetett adatok tekintetében – az adatigénylés feltételeinek teljesülése esetén díjmentesen adatokat továbbít a nyomozó hatóságnak, az ügyészségnek, a bíróságnak, a nemzetbiztonsági szolgálatoknak és a rendőrségről szóló törvény szerinti terrorizmust elhárító szervnek. Az adatátadás tényét rögzíteni kell, az adatátadásról a bizalmi szolgáltató az igénybe vevőt nem tájékoztathatja.
+94. § (1) A bizalmi szolgáltató az általa nyújtott bizalmi szolgáltatások felhasználásával elkövetett bűncselekményekkel kapcsolatos büntetőeljárás lefolytatása céljából, vagy nemzetbiztonsági érdekből – az érintett személyazonosságát igazoló, valamint a 85. § alapján egyeztetett adatok tekintetében – az adatigénylés feltételeinek teljesülése esetén díjmentesen adatokat továbbít a nyomozó hatóságnak, az ügyészségnek, az NVVH-nak, a bíróságnak, a nemzetbiztonsági szolgálatoknak és a rendőrségről szóló törvény szerinti terrorizmust elhárító szervnek. Az adatátadás tényét rögzíteni kell, az adatátadásról a bizalmi szolgáltató az igénybe vevőt nem tájékoztathatja.
 
 (2) A bizalmi szolgáltató az (1) bekezdésben meghatározott kötelezettségeknek haladéktalanul köteles eleget tenni, és az adatok továbbítását nem kötheti egyéb feltételhez, így különösen az adatszolgáltatás költségeiben való megállapodáshoz vagy a költségek előlegezéséhez.
 
@@ -1776,7 +1780,7 @@ kell biztosítani.
 
 (5) A központi tárhely használatára kötelezettek a (4) bekezdésben meghatározott kormányrendelet szerinti feltételekkel vehetik igénybe a központi tárhelyet.
 
-112/B. § (1) Ha a rendőrség, a nemzetbiztonsági szolgálat, a hivatásos katasztrófavédelmi szerv, illetve büntetőeljárásban a bíróság, az ügyészség, a nyomozó hatóság és az előkészítő eljárást folytató szerv (a továbbiakban együtt: adatmegismerésre jogosult) törvényben meghatározottak szerint a központi tárhely használatára kötelezett által készített felvételt és adatot átveheti, az adattovábbítást a központi tárhely használatára kötelezett – ha a központi tárhelyet igénybe veszi – a tárhelyszolgáltató által működtetett informatikai alkalmazás segítségével biztosítja.
+112/B. § (1) Ha a rendőrség, a nemzetbiztonsági szolgálat, a hivatásos katasztrófavédelmi szerv, illetve büntetőeljárásban a bíróság, az ügyészség, az NVVH, a nyomozó hatóság és az előkészítő eljárást folytató szerv (a továbbiakban együtt: adatmegismerésre jogosult) törvényben meghatározottak szerint a központi tárhely használatára kötelezett által készített felvételt és adatot átveheti, az adattovábbítást a központi tárhely használatára kötelezett – ha a központi tárhelyet igénybe veszi – a tárhelyszolgáltató által működtetett informatikai alkalmazás segítségével biztosítja.
 
 (2) A tárhelyszolgáltatótól a központi tárhely használatára kötelezett által készített felvétel vagy adat nem igényelhető, az adatok átadása az ágazati törvényben meghatározott adatátadási szabályok szerint történik.
 
@@ -1823,7 +1827,7 @@ kell biztosítani.
 (3) Az adatmegismerési nyilvántartásból adatokat igényelhet
 
 - a) a Nemzeti Adatvédelmi és Információszabadság Hatóság,
-- b) az adatokkal való visszaélésre utaló bűncselekmények megelőzése, felderítése, valamint büntetőeljárás lefolytatása céljából a bíróság, az ügyészség, a nyomozó hatóság, az előkészítő eljárást folytató szerv,
+- b) az adatokkal való visszaélésre utaló bűncselekmények megelőzése, felderítése, valamint büntetőeljárás lefolytatása céljából a bíróság, az ügyészség, az NVVH, a nyomozó hatóság, az előkészítő eljárást folytató szerv,
 - c) törvényben meghatározott feladataik ellátása céljából a nemzetbiztonsági szolgálatok és a rendvédelmi szervek.
 
 #### 57/B. Az európai digitális személyiadat-tárca

@@ -620,7 +620,7 @@ a munkáltatói jogkör gyakorlója – mérlegelése alapján – a foglalkozta
 
 (5) A munkáltatói jogkör gyakorlójának és a személyügyi igazgatási feladatokat ellátó szervezeti egységnek kizárólag az alkalmasság minősítésére vonatkozó adat továbbítható. Ha az alkalmassági vizsgálatot a munkáltatói jogkör gyakorlója kezdeményezi, akkor az alkalmassági vizsgálat megindulása előtt tudomására jutott egészségügyi adatot is jogosult kezelni, és az egészségügyi adatot az eljárásban részt vevő orvos és pszichológus, valamint felülvizsgáló bizottság részére továbbíthatja.
 
-(6) A (2) bekezdésben meghatározott adat szolgálati jogviszonnyal összefüggő jogvitában, valamint büntetőügyben az eljáró bíróság, ügyészség, valamint nyomozó hatóság részére, megkeresésére, illetve adatkérésére, továbbá a szolgálati jogviszonnyal összefüggő jogvitában vagy büntetőeljárásban hivatalból – a tényállás tisztázásához szükséges mértékig – továbbítható.
+(6) A (2) bekezdésben meghatározott adat szolgálati jogviszonnyal összefüggő jogvitában, valamint büntetőügyben az eljáró bíróság, ügyészség, Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, valamint nyomozó hatóság részére, megkeresésére, illetve adatkérésére, továbbá a szolgálati jogviszonnyal összefüggő jogvitában vagy büntetőeljárásban hivatalból – a tényállás tisztázásához szükséges mértékig – továbbítható.
 
 (7) Az (1) bekezdésben meghatározott célból az egészségi, pszichológiai vagy fizikai állapotra vonatkozó vizsgálati adat, egészségügyi adat az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló törvényben foglaltaknak megfelelően kezelhető.
 
@@ -977,6 +977,30 @@ kirendelheti, vezényelheti.
 
 (4) A foglalkoztatott oktatói, tudományos ismereteinek fejlesztése érdekében vagy a Nemzeti Közszolgálati Egyetem nemzetközi kapcsolatai keretében – a Nemzeti Közszolgálati Egyetem rektorának kezdeményezésére – külföldi szolgálatra ideiglenesen kirendelhető, vezényelhető. A külföldi szolgálatra történő ideiglenes kirendelés, vezénylés tartamára az e törvény alapján járó, a NAV költségvetését terhelő költségtérítést a Nemzeti Közszolgálati Egyetem saját költségvetéséből kiegészítheti.
 
+#### 59/A. § [Kirendelés, vezénylés a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalhoz]
+
+(1) A foglalkoztatott – beleegyezésével – a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal elnökének és a NAV elnökének megállapodása alapján a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalhoz kirendelhető, vezényelhető. A megállapodás alapján a kirendelésről, vezénylésről a NAV elnöke külön okmányban intézkedik. A kirendelt, vezényelt státusza változatlan, a NAV-nál munkakört nem tölt be, de a jogok és kötelezettségek tekintetében úgy minősül, mintha a közvetlenül a kirendelés, vezénylés előtti munkakört töltené be.
+
+(2) A kirendelés, vezénylés határozott vagy határozatlan időre szól. Ha a kirendelés, vezénylés határozatlan időre szól, vagy ha annak tartama a 30 napot meghaladja, a 77. § (1) bekezdése szerint kell eljárni.
+
+(3) A kirendelt, vezényelt illetményét és a szolgálati jogviszonyhoz kapcsolódó egyéb járandóságait, az ezekkel járó közterheket és a kirendeléssel, vezényléssel felmerülő költségeket a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal viseli, továbbá ha a kirendelés vagy a vezénylés tartama határozatlan idejű, vagy az egy évet meghaladja, a pénzügyőri státuszú foglalkoztatott ruházati ellátmányát, továbbá a jubileumi jutalmát a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal a saját költségvetésének terhére biztosítja.
+
+(4) A kirendelés, vezénylés megszűnik
+
+- a) a határozott idő lejártával,
+- b) ha a foglalkoztatott szolgálati jogviszonya megszűnik, vagy megszüntetésre kerül,
+- c) ha a foglalkoztatott vagy a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal elnöke a kirendelés, vezénylés megszüntetését kezdeményezi, és ez alapján a NAV elnöke a kirendelést, vezénylést megszünteti.
+
+(5) A kirendelésről, vezénylésről szóló megállapodás aláírásától a kirendelés, vezénylés megszűnéséig a szolgálati jogviszony nem szüntethető meg a 67. § d) pontja, a 70. § (1) bekezdés a)–c) pontjában meghatározott jogcímen.
+
+(6) A kirendelés, vezénylés megszüntetését – a megszüntetés hatályának megjelölésével – a foglalkoztatott és a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal elnöke indokolás nélkül kezdeményezheti a NAV elnökénél. A NAV elnöke a kezdeményezésben meghatározott nap hatályával a kirendelést, vezénylést megszünteti, feltéve, ha a megszüntetés kérelmezett hatálya a kezdeményezés kézbesítésétől számított tíz napon túli időpontra esik, ellenkező esetben a kirendelést, vezénylést a kezdeményezés kézbesítésétől számított tizedik nap hatállyal szünteti meg. Szolgálati érdekből a kirendelés, vezénylés megszüntetését a NAV elnöke is kezdeményezheti, de azt végrehajtani csak akkor lehet, ha a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal elnöke ahhoz előzetesen hozzájárul.
+
+(7) A kirendelés, vezénylés megszűnését követően a foglalkoztatott részére végzettségének megfelelő új munkakört kell felajánlani a NAV bármely szervénél azzal, hogy a kirendelés, vezénylés előtti szolgálati jogviszony státusza nem változhat. Az érintett a felajánlott munkakör elfogadásáról vagy elutasításáról a felajánlástól számított öt munkanapon belül írásban nyilatkozik.
+
+(8) Ha a foglalkoztatott a felajánlott munkakört nem fogadja el, a nyilatkozattétel időpontjától kezdődően jogviszonyát felmentéssel meg kell szüntetni, azzal, hogy a jogviszony megszüntetésére a NAV elnöke jogosult. Ebben az esetben a kirendelést, vezénylést megelőzően betöltött korábbi munkakörben megállapított illetményt kell alapul venni a felmentési időre járó illetménynek, távolléti díjnak, a végkielégítés összegének, valamint az egyéb kifizetések összegének meghatározásakor. A kirendelés, vezénylés megszűnését követően a foglalkoztatott az új munkakörbe helyezéséig vagy a felmentéséig a kirendelést, vezénylést megelőzően betöltött korábbi munkakörben megállapított illetményre jogosult.
+
+(9) A Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalhoz való kirendelés, vezénylés esetén alkalmazni kell az 50. § (1)–(3) bekezdését, az 54. § (3) bekezdését és az 55. § rendelkezéseit.
+
 #### 60. § [Külföldre vezénylés]
 
 (1) A pénzügyőrt beleegyezésével
@@ -1157,7 +1181,7 @@ igénylése vagy igénybevétele miatt került sor.
 - e) a Tny. 18. § (2a) bekezdésében foglalt feltételt a felmentési idő leteltekor teljesítő foglalkoztatott kérelmezi;
 - f) a 32. § (4) és (4a) bekezdése, valamint a 35. § (5) bekezdése szerinti esetben;
 - g) a foglalkoztatást kizáró ok jut a munkáltatói jogkör gyakorlója tudomására;
-- h) az 54. §, 57. §–60. § szerinti kirendelés, vezénylés megszűnése után a foglalkoztatott részére az 56. § (2) bekezdése szerinti végzettségének, képzettségének megfelelő munkakör nem biztosítható, vagy a részére az 56. § (3) bekezdése alapján felajánlott alacsonyabb munkakört nem fogadja el.
+- h) az 54. §, 57. §–60. § szerinti kirendelés, vezénylés megszűnése után a foglalkoztatott részére az 56. § (2) bekezdése szerinti végzettségének, képzettségének megfelelő munkakör nem biztosítható, vagy a részére az 56. § (3) bekezdése vagy az 59/A. § (7)–(8) bekezdése alapján felajánlott munkakört nem fogadja el.
 
 (3) A Tny. 18. § (2a) bekezdésében foglalt feltétel megállapításához szükséges jogosultsági időt a nyugdíjbiztosítási igazgatási szerv jogszabály szerinti határozatával kell igazolni.
 
@@ -1953,7 +1977,7 @@ A foglalkoztatott alap-, pót-, szülési, apasági, szülői és illetmény né
 - e) a hozzátartozó ápolása miatt kapott, harminc napot meg nem haladó illetmény nélküli szabadság időtartama,
 - f) a tényleges önkéntes tartalékos katonai szolgálatteljesítés három hónapot meg nem haladó időtartama,
 - g) a 85. § (1) bekezdés b)–e) és g)–k) pontjában meghatározott időtartam,
-- h) az állásból való felfüggesztés időtartama, ha a fegyelmi eljárást a 194. § b)–f) pontjában foglalt okból szüntették meg, illetve, a büntetőeljárás a bíróság jogerős vagy véglegessé vált, illetve az ügyészség vagy a nyomozó hatóság további jogorvoslattal nem támadható eljárást megszüntető határozatával, illetve felmentéssel zárult.
+- h) az állásból való felfüggesztés időtartama, ha a fegyelmi eljárást a 194. § b)–f) pontjában foglalt okból szüntették meg, illetve, a büntetőeljárás a bíróság jogerős vagy véglegessé vált, illetve az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal vagy a nyomozó hatóság további jogorvoslattal nem támadható eljárást megszüntető határozatával, illetve felmentéssel zárult.
 
 (3) Az (1) és (2) bekezdésben foglaltakon túl szabadságra jogosító időnek minősül továbbá a szoptató anya részére biztosított, a szoptatás első hat hónapjában naponta kétszer egy óra, ezt követően a kilencedik hónap végéig naponta egy óra időtartam, amely ikrek esetében – az előzőek figyelembevételével – az ikrek számához igazodik.
 
@@ -3083,7 +3107,7 @@ követte el. Az a)–e) pont szerinti kizáró okok értelmezésére a Büntető
 
 (1) Fegyelmi vétség elkövetésének alapos gyanúja esetén – ide nem értve a méltatlanság miatti felmentést, valamint a hivatásetikai elvek megsértését – a fegyelmi jogkör gyakorlója – a 191. § szerinti esetet kivéve – köteles az eljárást megindítani. Nem lehet fegyelmi eljárást indítani, ha a kötelezettségszegés felfedezése óta három hónap, illetve a fegyelmi vétség elkövetése óta három év eltelt.
 
-(2) Ha a kötelezettségszegés miatt büntető- vagy szabálysértési eljárás indult és az anélkül fejeződött be, hogy megállapították volna a foglalkoztatott felelősségét, a három hónapos határidőt szabálysértési eljárásban az eljárás jogerős befejezéséről, illetve büntetőeljárásban a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezéséről, vagy az ügyészség vagy a nyomozó hatóság további jogorvoslattal nem támadható eljárást megszüntető határozata meghozataláról való NAV általi tudomásszerzést követő naptól, a hároméves határidőt szabálysértési eljárásban az eljárás jogerős befejezésétől, illetve büntetőeljárásban a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezésétől, vagy az ügyészség vagy a nyomozó hatóság további jogorvoslattal nem támadható eljárást megszüntető határozata meghozatalától kell számítani.
+(2) Ha a kötelezettségszegés miatt büntető- vagy szabálysértési eljárás indult és az anélkül fejeződött be, hogy megállapították volna a foglalkoztatott felelősségét, a három hónapos határidőt szabálysértési eljárásban az eljárás jogerős befejezéséről, illetve büntetőeljárásban a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezéséről, vagy az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal vagy a nyomozó hatóság további jogorvoslattal nem támadható eljárást megszüntető határozata meghozataláról való NAV általi tudomásszerzést követő naptól, a hároméves határidőt szabálysértési eljárásban az eljárás jogerős befejezésétől, illetve büntetőeljárásban a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezésétől, vagy az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal vagy a nyomozó hatóság további jogorvoslattal nem támadható eljárást megszüntető határozata meghozatalától kell számítani.
 
 (3) A hároméves határidő kezdő napja:
 
@@ -3268,7 +3292,7 @@ Ha a foglalkoztatott a 31. § (2) bekezdésében meghatározott bűncselekmény,
 
 (7) Az érintett, illetve akadályoztatása esetén képviselője a leltárfelvétel során, illetve a leltárfelvétel után a leltározással kapcsolatban észrevételt tehet.
 
-(8) A leltárhiányért fennálló felelősséget a leltárfelvétel befejezését követő hatvan napon belül el kell bírálni. Büntetőeljárás esetén e határidő a bíróság jogerős vagy véglegessé vált határozatáról, valamint az ügyészség, illetve a nyomozó hatóság további jogorvoslattal nem támadható határozatáról való NAV általi tudomásszerzést követő nappal kezdődik. A határidő eltelte után a leltárhiányért a (2) bekezdés szerinti okirat alapján felelőst kártérítésre nem lehet kötelezni.
+(8) A leltárhiányért fennálló felelősséget a leltárfelvétel befejezését követő hatvan napon belül el kell bírálni. Büntetőeljárás esetén e határidő a bíróság jogerős vagy véglegessé vált határozatáról, valamint az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, illetve a nyomozó hatóság további jogorvoslattal nem támadható határozatáról való NAV általi tudomásszerzést követő nappal kezdődik. A határidő eltelte után a leltárhiányért a (2) bekezdés szerinti okirat alapján felelőst kártérítésre nem lehet kötelezni.
 
 #### 203. § [Kártérítés együttes károkozásnál]
 
@@ -3553,7 +3577,7 @@ kapcsolatos ügyekben.
 - e) a fegyelmi eljárást lefolytató testület vagy személy,
 - f) feladatkörében eljárva a NAV biztonsági feladatokat ellátó szervezeti egységének munkatársa,
 - g) közszolgálati jogvita kapcsán az eljáró bíróság,
-- h) törvényben meghatározott célból, feladatkörükben eljárva a nemzetbiztonsági szolgálatok, valamint büntetőeljárásban a bíróság, az ügyészség és a nyomozó hatóság,
+- h) törvényben meghatározott célból, feladatkörükben eljárva a nemzetbiztonsági szolgálatok, valamint büntetőeljárásban a bíróság, az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal és a nyomozó hatóság,
 - i) törvényességi ellenőrzési feladatkörében eljárva az ügyész,
 - j) a személyes adatok kezelésével összefüggésben a Nemzeti Adatvédelmi és Információszabadság Hatóság elnöke,
 - k) a személyzeti, munkaügyi és illetményszámfejtési feladatokat ellátó szerv e feladattal megbízott munkatársa feladatkörén belül, a 10. melléklet I/A., I/B., II., IV., V., VII., VIII. és X. pontjában foglalt adatkörökből a foglalkoztatott illetményének számfejtése, illetve annak ellenőrzése céljából,
@@ -4001,7 +4025,7 @@ Felhatalmazást kap a Kormány, hogy rendeletben határozza meg
 
 - a) belföldi kiküldetésen lévő foglalkoztatott többletköltségei fedezetére és a napidíjára vonatkozó részletes szabályokat;
 - b) a foglalkoztatott ideiglenes – három hónapot meg nem haladó – külföldi kiküldetésére vonatkozó részletes szabályokat;
-- c) a más szervhez kirendelésre, vezénylésre, a miniszter által vezetett minisztériumba vagy a miniszter által irányított szervhez kirendelésre, vezénylésre, az ügyészi szervezethez kirendelésre, vezénylésre, valamint a Nemzeti Közszolgálati Egyetemre kirendelésre, vezénylésre vonatkozó szabályokat, továbbá a kirendelt, vezényelt foglalkoztatásával, jogaival és kötelezettségeivel összefüggő rendelkezéseket;
+- c) a más szervhez kirendelésre, vezénylésre, a miniszter által vezetett minisztériumba vagy a miniszter által irányított szervhez kirendelésre, vezénylésre, az ügyészi szervezethez kirendelésre, vezénylésre, a Nemzeti Közszolgálati Egyetemre, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalhoz kirendelésre, vezénylésre vonatkozó szabályokat, továbbá a kirendelt, vezényelt foglalkoztatásával, jogaival és kötelezettségeivel összefüggő rendelkezéseket;
 - d) a külföldre vezénylésre vonatkozó szabályokat, a külföldre vezényelt juttatásaira, többletjuttatásaira, költségtérítésére, ellátmányára vonatkozó rendelkezéseket, valamint a külföldre vezényelt közeli hozzátartozóira tekintettel e törvényben nem szabályozott pénzbeli és természetbeni ellátást, továbbá az összekötő tiszti szolgálat teljesítése céljából tartós külszolgálat céljából külföldre vezénylés feltételeit, rendjét és az érintettet megillető juttatásokat;
 - e) a kifogástalan életvitel ellenőrzése végrehajtásának szabályait;
 - f) a nemzetközi közigazgatási szakértői tevékenység tartalmát, típusát, ellátásának feltételrendszerét, a nemzetközi közigazgatási szakértői tevékenység engedélyezésére és a célfeladattal kapcsolatos megállapodásra vonatkozó részletszabályokat;
@@ -4479,7 +4503,7 @@ a szolgálati jogviszonyt létesítő személy kifogástalan életvitele ellenő
 | a mentesülés időpontja: |  |  |
 | 2. Áll-e jelenleg büntetőeljárás alatt? | igen – nem |  |
 | Az eljárás alapjául szolgáló bűncselekmény megnevezése és az elkövetés ideje: |  |  |
-| Eljáró bíróság, ügyészség, nyomozó hatóság, ügyszám: |  |  |
+| Eljáró bíróság, ügyészség, Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, nyomozó hatóság, ügyszám: |  |  |
 | Az eljárás jelentkezéskori szakasza: | nyomozás – bírósági eljárás |  |
 | Az eljárás során hozott érdemi határozat, végzés, ítélet tartalma, kelte: |  |  |
 | 3. A jelentkezést megelőző két éven belül szabálysértés miatt marasztalták-e el? (büntetés vagy intézkedés) | igen – nem |  |

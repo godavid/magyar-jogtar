@@ -111,6 +111,7 @@ A 2009. évtől kezdődő két európai parlamenti ciklus időtartama alatti ké
 - k) igazságügyi alkalmazott, közigazgatási szerv köztisztviselője, munkavállalója,
 - l) a Magyar Honvédség hivatásos és szerződéses állományú tagja, a rendőrség és a polgári nemzetbiztonsági szolgálatok hivatásos állományú tagja,
 - m) a Nemzeti Adatvédelmi és Információszabadság Hatóság elnöke és elnökhelyettese.
+- n) a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal elnöke és elnökhelyettese.
 
 (3) Szakmai vagy üzleti ügyben az európai parlamenti képviselői minőségre hivatkozni nem lehet.
 

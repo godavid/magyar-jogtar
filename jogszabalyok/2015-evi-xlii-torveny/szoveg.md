@@ -126,7 +126,7 @@ is alkalmazni kell.
 (3) Írásbeliséghez kötött
 
 - a) a szolgálati viszony létesítésére, szünetelésére és megszüntetésére vonatkozó nyilatkozat,
-- b) a hivatásos állomány tagjának kinevezésére, előléptetésére, előresorolására, elismerésére, áthelyezésére, átrendelésére, más szervhez vezénylésére, a miniszter által vezetett minisztériumba vagy a miniszter által irányított szervhez vezénylésére, ügyészi szervezethez vezénylésére, a Nemzeti Közszolgálati Egyetemre vezénylésére, külföldre vezénylésére, helyettesítésre megbízására, valamint alkalmasságára vonatkozó nyilatkozat,
+- b) a hivatásos állomány tagjának kinevezésére, előléptetésére, előresorolására, elismerésére, áthelyezésére, átrendelésére, más szervhez vezénylésére, a miniszter által vezetett minisztériumba vagy a miniszter által irányított szervhez vezénylésére, ügyészi szervezethez vezénylésére, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalhoz (a továbbiakban: NVVH) vezénylésére, a Nemzeti Közszolgálati Egyetemre vezénylésére, külföldre vezénylésére, helyettesítésre megbízására, valamint alkalmasságára vonatkozó nyilatkozat,
 - c) a teljesítményértékelés és minősítés,
 - d) a fegyelmi, méltatlansági, kártérítési és személyiségi jogsértés tárgyában hozott határozat, a Becsületbíróság által hozott határozat, valamint a szolgálati beosztásból történő felfüggesztés, továbbá
 - e) a baleset vagy betegség szolgálattal való összefüggését minősítő határozat.
@@ -732,15 +732,18 @@ meghatározott munkakör, álláshely vagy feladat ellátásával, szolgálati b
 
 - a) a Nemzeti Közszolgálati Egyetem,
 - b) az ügyészi szervezet,
-- c) a (2) bekezdésen kívüli közigazgatási vagy államigazgatási szerv,
-- d) a Sándor-palota,
-- e) a Magyar Honvédség,
-- f) a Nemzeti Közszolgálati Egyetemen kívüli más, állami fenntartású felsőoktatási intézmény,
-- g) tudományos intézmény,
-- h) rendvédelmi célú tevékenységet folytató állami tulajdonban levő gazdálkodó szerv,
-- i) egészségügyi intézmény,
-- j) a bíróságok igazgatási feladatait ellátó szervezet, valamint
-- k) rendészeti adatfeldolgozást végző szerv [a c)–k) pontban meghatározott szervek a továbbiakban együtt: más szerv].
+- c) az NVVH,
+- d) a (2) bekezdésen kívüli közigazgatási vagy államigazgatási szerv,
+- e) a Sándor-palota,
+- f) a Magyar Honvédség,
+- g) a Nemzeti Közszolgálati Egyetemen kívüli más, állami fenntartású felsőoktatási intézmény,
+- h) tudományos intézmény,
+- i) rendvédelmi célú tevékenységet folytató, állami tulajdonban levő gazdálkodó szerv,
+- j) egészségügyi intézmény,
+- k) a bíróságok igazgatási feladatait ellátó szervezet,
+- l) rendészeti adatfeldolgozást végző szerv
+
+[a d)–l) pontban meghatározott szervek a továbbiakban együtt: más szerv].
 
 (3a) A szolgálatteljesítésre sor kerülhet kormányzati igazgatási szervhez történő hatósági vezényléssel is (a továbbiakban: hatósági vezénylés), amennyiben a rendvédelmi szerv által ellátott hatósági hatáskör törvény vagy kormányrendelet rendelkezése alapján a kormányzati igazgatásról szóló törvény hatálya alá tartozó kormányzati igazgatási szervhez kerül. Hatósági vezényléssel a hivatásos állomány azon tagja vezényelhető, aki a hatáskör telepítés napját megelőző napon olyan szolgálati beosztást töltött be, amelyben a megváltozó hatáskörbe tartozó feladatot, vagy ahhoz kapcsolódó feladatot, illetve a hatósági vezényléssel érintett beosztáshoz, munkakörhöz kapcsolódó funkcionális feladatot látott el.
 
@@ -773,6 +776,7 @@ meghatározott munkakör, álláshely vagy feladat ellátásával, szolgálati b
 - m) nyugdíj előtti rendelkezési állományba helyezés,
 - n) könnyített szolgálatban foglalkoztatás.
 - o) hatósági vezénylés.
+- p) vezénylés az NVVH-hoz.
 
 #### 33. Szolgálati beosztás módosítása
 
@@ -1048,6 +1052,51 @@ a Nemzeti Közszolgálati Egyetemre vezényelhető. A vezénylésre a 63. § (1)
 (4a) Az (1) bekezdés b) pontja szerinti feladatra vezényelt a (3) bekezdésben foglaltaktól eltérően a Nemzeti Közszolgálati Egyetem foglalkoztatottjaira irányadó besorolásnak megfelelő illetményre, juttatásokra, támogatásokra és költségtérítésre jogosult, amelyeket a Nemzeti Közszolgálati Egyetem folyósít. A kizárólag a vezénylő rendvédelmi szerv által megállapítható illetményelemeket, az erről szóló megállapodás alapján, a vezénylő rendvédelmi szerv folyósítja. A vezényelt rendészeti felsőoktatási illetménykiegészítésre nem jogosult.
 
 (5) A vezényelt oktatói, tudományos ismereteinek fejlesztése érdekében vagy a Nemzeti Közszolgálati Egyetem nemzetközi kapcsolatai keretében – a Nemzeti Közszolgálati Egyetem rektorának kezdeményezésére – külföldi szolgálatra ideiglenesen vezényelhető. A külföldi szolgálatra történő ideiglenes vezénylés tartamára az e törvény vagy a végrehajtására kiadott rendelet alapján járó, a vezénylő rendvédelmi szerv költségvetését terhelő költségtérítést a Nemzeti Közszolgálati Egyetem saját költségvetéséből kiegészítheti.
+
+#### 40/A. Vezénylés az NVVH-hoz
+
+68/A. § (1) A hivatásos állomány tagja közvagyonvédelmi érdekből – beleegyezésével – a miniszter és az NVVH elnökének megállapodása alapján az NVVH-hoz vezényelhető.
+
+(2) A vezénylés határozott vagy határozatlan időre szól.
+
+(3) A hivatásos állomány vezényelt tagja (ezen alcím alkalmazásában a továbbiakban: vezényelt) az NVVH illetékes vezetőjének rendelkezései szerint teljesíti szolgálatát.
+
+(4) A vezényelt illetményére és illetményjellegű juttatásaira az NVVH-nak az ellátott munkakör szerinti foglalkoztatottaira vonatkozó szabályok irányadóak. A vezénylés időtartama alatt a hivatásos állomány tagjának a szolgálati viszonyán alapuló egyéb járandóságait kormányrendeletben foglaltak szerint kell biztosítani.
+
+(5) Az NVVH-nak az ellátott munkakör szerinti foglalkoztatottaira vonatkozó szabályok irányadóak a vezényelt
+
+- a) tevékenységére,
+- b) munkarendjére,
+- c) teljesítményértékelésére, minősítésére,
+- d) pihenőidejére,
+- e) kártérítési felelősségére,
+- f) tekintetében a személyiségi jogi jogsértés jogkövetkezményeire,
+- g) tekintetében az NVVH-nál rendszeresített címek és egyéb elismerések elnyerésére és viselésére.
+
+(6) E törvény szabályait kell alkalmazni
+
+- a) a jubileumi jutalomra,
+- b) a természetbeni juttatásra,
+- c) keresőképtelensége esetén, ekkor a 147. és 148. § szerinti szabályok alkalmazásával jogosult az NVVH elnöke által megállapított illetményre,
+- d) képzésre, továbbképzésre,
+- e) előmenetelre.
+
+(7) A vezényelt fegyelmi felelősségre vonására a rendvédelmi szervnél szolgálatot teljesítő hivatásos állomány tagjára vonatkozó szabályok az irányadóak.
+
+(8) A vezényelt a vezénylés ideje alatt a vezénylést megelőzően viselt rendfokozatának viselésére jogosult.
+
+(9) A vezényelt foglalkoztatásával kapcsolatos költségek – ha jogszabály vagy a miniszter eltérően nem rendelkezik – az NVVH-t terhelik.
+
+(10) A vezénylés megszüntetését a vezényelt, illetve az NVVH elnöke indokolás nélkül kezdeményezheti.
+
+(11) A vezénylés megszüntetését követően a vezényelt részére a rendvédelmi szerv valamely szervezeti egységénél – lehetőség szerint a vezénylést megelőző szolgálati helyen – a végzettségének, képzettségének megfelelő, de legalább a vezénylést megelőző szolgálati beosztásával azonos besorolású szolgálati beosztást kell felajánlani. A felajánlott szolgálati beosztás elfogadásáról vagy elutasításáról a vezényelt a felajánlástól számított öt munkanapon belül írásban nyilatkozik. Ha a vezényelt a szolgálati beosztás elfogadása vonatkozásában öt munkanapon belül nem nyilatkozik, azt úgy kell tekinteni, mintha a felajánlott szolgálati beosztást elutasította volna.
+
+(12) Ha a vezényelt elutasítja a (11) bekezdés szerint felajánlott, végzettségének, képzettségének megfelelő szolgálati beosztást,
+
+- a) azt a szolgálati viszonyról történő lemondásnak kell tekinteni, ha a felajánlott szolgálati beosztás elfogadásával a szolgálatteljesítési hely nem változott volna,
+- b) a szolgálati viszony felmentéssel történő megszüntetésére kell intézkedni, ha a felajánlott szolgálati beosztás elfogadásával a szolgálatteljesítési hely megváltozott volna.
+
+(13) A vezénylés megszüntetését követően az NVVH-nál fennálló korábbi beosztása vagy az NVVH-nál folytatott tevékenysége miatt tilos a vezényelt szolgálati viszonyát megszüntetni vagy vele szemben bármilyen megkülönböztetést alkalmazni.
 
 #### 41. Külföldre vezénylés
 
@@ -1997,7 +2046,7 @@ alkalmasságvizsgálat során felállított, a kiválasztási döntést támogat
 
 (6) Az állományilletékes parancsnoknak és a személyügyi szervnek az alkalmasság minősítésére vonatkozó adat, továbbá a rangsor továbbítható. Ha az alkalmassági vizsgálatot az állományilletékes parancsnok kezdeményezi, akkor az alkalmassági vizsgálat megindulása előtt tudomására jutott egészségügyi, pszichológiai adatot is jogosult kezelni, és az egészségügyi valamint a pszichológiai adatot az eljárásban részt vevő orvos és pszichológus, az orvosi bizottság, valamint pszichológusokból álló háromfős bizottság részére továbbíthatja.
 
-(7) A (2) bekezdésben meghatározott adat szolgálati viszonnyal összefüggő jogvitában, valamint büntetőeljárásban az eljáró bíróság, ügyészség vagy nyomozó hatóság részére,
+(7) A (2) bekezdésben meghatározott adat szolgálati viszonnyal összefüggő jogvitában, valamint büntetőeljárásban az eljáró bíróság, ügyészség, az NVVH vagy nyomozó hatóság részére,
 
 - a) megkeresése vagy adatkérése alapján, továbbá
 - b) hivatalból – a tényállás tisztázásához szükséges mértékig –
@@ -2212,7 +2261,7 @@ besorolási kategóriába kell besorolni.
 - a) a rendfokozatot érintő fegyelmi fenyítés vagy bírósági ítélet végrehajtásának tartama alatt, vagy
 - b) ha ellene büntetőeljárás – ide nem értve a magánvádas eljárást vagy azt a pótmagánvádas eljárást, amelyet munkáltatói intézkedéssel összefüggésben indítottak meg –, méltatlansági vagy fegyelmi eljárás van folyamatban.
 
-(2) Ha a hivatásos állomány tagját az (1) bekezdés b) pontja miatt nem léptették elő rendfokozatban, illetve nem sorolták előre a fizetési fokozatban és az eljárás nem végződött rendfokozatot érintő büntetés, fenyítés kiszabásával vagy a szolgálati viszony megszüntetésével, a hivatásos állomány tagja büntetőeljárás esetén a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezésekor, illetve az ügyészség vagy a nyomozó hatóság további jogorvoslattal nem támadható eljárást megszüntető határozata meghozatalakor vagy a fegyelmi, méltatlansági eljárás jogerős befejezésekor léptethető elő vagy sorolható előre, a feltételek teljesítésének idejére visszamenőleges hatállyal.
+(2) Ha a hivatásos állomány tagját az (1) bekezdés b) pontja miatt nem léptették elő rendfokozatban, illetve nem sorolták előre a fizetési fokozatban és az eljárás nem végződött rendfokozatot érintő büntetés, fenyítés kiszabásával vagy a szolgálati viszony megszüntetésével, a hivatásos állomány tagja büntetőeljárás esetén a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezésekor, illetve az ügyészség, az NVVH vagy a nyomozó hatóság további jogorvoslattal nem támadható eljárást megszüntető határozata meghozatalakor vagy a fegyelmi, méltatlansági eljárás jogerős befejezésekor léptethető elő vagy sorolható előre, a feltételek teljesítésének idejére visszamenőleges hatállyal.
 
 124. § (1) Az állományilletékes parancsnok a szervezeti egységénél betölthető szolgálati beosztás esetén kiválasztási eljárás vagy pályáztatás keretében köteles megvizsgálni, hogy a szervezeti egységnél a szolgálati beosztás betöltésére van-e alkalmas személy.
 
@@ -3123,7 +3172,7 @@ megfelelő – a 154. § (2) bekezdése szerinti egyéb pótléknak minősülő 
 
 (3) A büntetőeljárásról szóló 2017. évi XC. törvény (a továbbiakban: Be.) 710. §-ában meghatározott esetben a hivatásos állomány azon tagjának, aki a büntető jogszabályok alkalmazása szempontjából a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) 127. § (1) bekezdése alapján katonának tekintendő, katonai vétségét fegyelmi eljárásban kell elbírálni.
 
-(4) Ha a folyamatban lévő fegyelmi eljárás tárgyát képező cselekmény katonai vétséget is megvalósít, és a katonai ügyész, illetve a legfőbb ügyész által katonai büntetőeljárásra kijelölt ügyész határozata ellen nem jelentettek be panaszt, – a Be. 710. §-ának szabályaira figyelemmel – a fegyelmi eljárást a katonai vétség tárgyában kell továbbfolytatni, és az érdemi döntést meghozni. Ebben az esetben a büntetőeljárás során végrehajtott eljárási cselekményeket a fegyelmi eljárásban nem kell megismételni.
+(4) Ha a folyamatban lévő fegyelmi eljárás tárgyát képező cselekmény katonai vétséget is megvalósít, és a katonai ügyész, az NVVH, illetve a legfőbb ügyész által katonai büntetőeljárásra kijelölt ügyész határozata ellen nem jelentettek be panaszt, – a Be. 710. §-ának szabályaira figyelemmel – a fegyelmi eljárást a katonai vétség tárgyában kell továbbfolytatni, és az érdemi döntést meghozni. Ebben az esetben a büntetőeljárás során végrehajtott eljárási cselekményeket a fegyelmi eljárásban nem kell megismételni.
 
 182. § (1) A fenyítés célja a szolgálati rend és fegyelem védelme, az eljárás alá vont személynek és másoknak a fegyelemsértéstől való visszatartása.
 
@@ -3559,7 +3608,7 @@ rendfokozati állománycsoportok vonatkozásában összevontan is vezetheti. Ebb
 
 (4) A raktáros a leltározással kapcsolatban a leltárfelvétel során és azt követően is észrevételt tehet.
 
-(5) A leltárhiányért való felelősséget a leltárfelvétel befejezését követő hatvan napon belül el kell bírálni, és a határozatot a raktárossal írásban közölni kell. Büntetőeljárás esetén a határidő a bíróság jogerős vagy véglegessé vált határozatának, valamint az ügyészség, illetve a nyomozó hatóság további jogorvoslattal nem támadható határozatának kézbesítését követő nappal kezdődik. A határidő eltelte után a raktárost kártérítésre nem lehet kötelezni.
+(5) A leltárhiányért való felelősséget a leltárfelvétel befejezését követő hatvan napon belül el kell bírálni, és a határozatot a raktárossal írásban közölni kell. Büntetőeljárás esetén a határidő a bíróság jogerős vagy véglegessé vált határozatának, valamint az ügyészség, az NVVH, illetve a nyomozó hatóság további jogorvoslattal nem támadható határozatának kézbesítését követő nappal kezdődik. A határidő eltelte után a raktárost kártérítésre nem lehet kötelezni.
 
 233. § (1) A leltárhiány a kezelésre átvett anyagban, áruban, leltári készletben ismeretlen okból keletkezett, a természetes mennyiségi csökkenés és a kezeléssel járó veszteség mértékét meghaladó hiány.
 
@@ -3609,7 +3658,7 @@ kell – a számvitelről szóló törvény szerinti értékcsökkenésre is tek
 
 (6) A hivatásos állomány tagja a kártérítési eljárásban érdekeinek védelmével megbízhatja az érdek-képviseleti szervét, valamint ügyvédet hatalmazhat meg.
 
-238. § (1) A kártérítési eljárás megindítását követő hatvan napon belül az állományilletékes parancsnok indokolt határozattal dönt a kártérítésre kötelezésről vagy annak mellőzéséről. A határidőbe a kártérítési eljárás felfüggesztésének időtartama nem számít be. Ha a károkozóval szemben a kárigénnyel összefüggően büntetőeljárás, szabálysértési vagy fegyelmi eljárás indult, a határidő az eljárás jogerős befejezésekor, illetve a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezésekor, valamint az ügyészségnek vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozatalakor veszi kezdetét.
+238. § (1) A kártérítési eljárás megindítását követő hatvan napon belül az állományilletékes parancsnok indokolt határozattal dönt a kártérítésre kötelezésről vagy annak mellőzéséről. A határidőbe a kártérítési eljárás felfüggesztésének időtartama nem számít be. Ha a károkozóval szemben a kárigénnyel összefüggően büntetőeljárás, szabálysértési vagy fegyelmi eljárás indult, a határidő az eljárás jogerős befejezésekor, illetve a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezésekor, valamint az ügyészségnek, az NVVH-nak vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozatalakor veszi kezdetét.
 
 (2) Az állományilletékes parancsnok a kártérítési eljárás megindításának mellőzésével kiadott határozatban rendelkezhet a kár megtérítéséről, ha a keletkezett kár összege a rendvédelmi illetményalap kétszeresét nem haladta meg, a károkozó a felelősségét írásban elismerte és kötelezettséget vállalt a kár harminc napon belüli megtérítésére.
 
@@ -3742,7 +3791,7 @@ kezdődik.
 
 (2) A határozat keresettel nem érintett részei jogerőre emelkednek.
 
-(3) Ha a kártérítési igény elbírálása olyan előzetes kérdéstől függ, amelynek tárgyában közigazgatási vagy polgári per, illetve szolgálati panasz elbírálására irányuló eljárás van folyamatban, a kártérítési eljárás ennek az eljárásnak a jogerős befejezéséig, vagy ha a perben felülvizsgálati eljárást kezdeményeztek, e felülvizsgálati eljárás befejezéséig felfüggeszthető. Ha az előzetes kérdés tárgyában büntetőeljárás van folyamatban, a kártérítési eljárás ennek a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezéséig, valamint az ügyészségnek vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozatának meghozataláig felfüggeszthető.
+(3) Ha a kártérítési igény elbírálása olyan előzetes kérdéstől függ, amelynek tárgyában közigazgatási vagy polgári per, illetve szolgálati panasz elbírálására irányuló eljárás van folyamatban, a kártérítési eljárás ennek az eljárásnak a jogerős befejezéséig, vagy ha a perben felülvizsgálati eljárást kezdeményeztek, e felülvizsgálati eljárás befejezéséig felfüggeszthető. Ha az előzetes kérdés tárgyában büntetőeljárás van folyamatban, a kártérítési eljárás ennek a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezéséig, valamint az ügyészségnek, az NVVH-nak vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozatának meghozataláig felfüggeszthető.
 
 (4) Ha a kártérítési eljárás során a kár mértéke vitatott és emiatt a kár összegének vizsgálatára szakértő kirendelése válik szükségessé, a szakértői vizsgálat időtartamára az eljárás felfüggeszthető.
 
@@ -3983,13 +4032,13 @@ igénylése vagy igénybevétele miatt szüntették meg, a rendvédelmi szerv k�
 - e) a szervezeti egység, az országos parancsnokság, valamint a miniszter által vezetett minisztérium személyügyi szervének vezetője és az arra feljogosított beosztottja, valamint a fegyelmi ügyben eljáró személy,
 - f) a teljesítményértékelést vagy minősítést végző személy,
 - g) a törvényességi ellenőrzéssel megbízott személy,
-- h) a bíróság, az ügyészség és a nyomozó hatóság,
+- h) a bíróság, az ügyészség, az NVVH és a nyomozó hatóság,
 - i) az illetményszámfejtést végző szerv az illetményszámfejtéshez szükséges mértékig,
 - j) a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv előzetes véleményalkotási eljárás keretében.
 
 (1a) A hivatásos állomány tagja a saját adatai tekintetében a személyügyi alapnyilvántartásába és az annak alapjául szolgáló iratokba jogosult betekinteni.
 
-(2) A hivatásos állomány tagjának az 51. § (2) bekezdés a) pontja vagy (3) bekezdés c) pontja szerinti, a kormányzati igazgatásról szóló 2018. évi CXXV. törvény hatálya alá tartozó szervhez történő
+(2) A hivatásos állomány tagjának az 51. § (2) bekezdés a) pontja vagy (3) bekezdés d) pontja szerinti, a kormányzati igazgatásról szóló 2018. évi CXXV. törvény hatálya alá tartozó szervhez történő
 
 - a) más szervhez vezénylése, vagy
 - b) a miniszter által vezetett minisztériumba vagy a miniszter által irányított szervhez vezénylése
@@ -4282,7 +4331,7 @@ kell érteni.
 - a) az ellenőrzés befejezéséig kezelheti, az ellenőrzést követően az adatokat törli, majd az ellenőrzés irataira az ellenőrzés tényét és időpontját feljegyzi, vagy
 - b) ha az iskolaőr szolgálati igazolványának visszavonására eljárást indított, az eljárás végleges befejezéséig, vagy – ha az általános rendőrségi feladatok ellátására létrehozott szerv döntését közigazgatási perben megtámadták – a közigazgatási per jogerős lezárásáig kezelheti.
 
-(20) Ha az iskolaőrrel szemben szándékos bűncselekmény elkövetése miatt büntetőeljárás indul, az általános rendőrségi feladatok ellátására létrehozott szerv az iskolaőrt a szolgálatellátás alól ideiglenesen – a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezéséig, illetve az ügyészségnek vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozataláig tartó – felfüggeszti.
+(20) Ha az iskolaőrrel szemben szándékos bűncselekmény elkövetése miatt büntetőeljárás indul, az általános rendőrségi feladatok ellátására létrehozott szerv az iskolaőrt a szolgálatellátás alól ideiglenesen – a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezéséig, illetve az ügyészségnek, az NVVH-nak vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozataláig tartó – felfüggeszti.
 
 (21) Az iskolaőrrel akkor létesíthető jogviszony, ha
 
@@ -4913,7 +4962,7 @@ távolléti díjnak megfelelő összeg.
 
 (5) A munkáltatói jogkör gyakorlónak kizárólag az alkalmasság minősítésére vonatkozó adat továbbítható.
 
-(6) A (4) bekezdésben meghatározott adat a jogviszonnyal összefüggő jogvitában, valamint büntetőügyben az eljáró bíróság, ügyészség, valamint nyomozó hatóság részére, megkeresésére, illetve adatkérésére, továbbá a jogviszonnyal összefüggő jogvitában vagy büntetőeljárásban hivatalból – a tényállás tisztázásához szükséges mértékig – továbbítható.
+(6) A (4) bekezdésben meghatározott adat a jogviszonnyal összefüggő jogvitában, valamint büntetőügyben az eljáró bíróság, ügyészség, az NVVH, valamint nyomozó hatóság részére, megkeresésére, illetve adatkérésére, továbbá a jogviszonnyal összefüggő jogvitában vagy büntetőeljárásban hivatalból – a tényállás tisztázásához szükséges mértékig – továbbítható.
 
 (7) Az (1) bekezdésben meghatározott célból az egészségi állapotra vonatkozó vizsgálati adat, egészségügyi adat az igazgatási jogviszony létesítését célzó alkalmassági vizsgálatot vagy az igazgatási jogviszony megszűnését követő tizedik év december 31-ig kezelhető. Ha az igazgatási jogviszony létesítésére nem kerül sor, az igazgatási jogviszony létesítését célzó alkalmassági vizsgálat során az egészségi állapotra vonatkozóan keletkezett vizsgálati adatot vagy egészségügyi adatot a vizsgálattól számított két éven belül meg kell semmisíteni.
 
@@ -6192,7 +6241,7 @@ az általános rendőrségi feladatok ellátására létrehozott szerv a hátral
 
 (10) Az állományilletékes parancsnoknak és a személyügyi szervnek az alkalmasság minősítésére vonatkozó adat továbbítható.
 
-(11) A (8) bekezdésben meghatározott adat a szerződéses jogviszonnyal összefüggő jogvitában, valamint büntetőeljárásban az eljáró bíróság, ügyészség vagy nyomozó hatóság részére továbbítható.
+(11) A (8) bekezdésben meghatározott adat a szerződéses jogviszonnyal összefüggő jogvitában, valamint büntetőeljárásban az eljáró bíróság, ügyészség, NVVH vagy nyomozó hatóság részére továbbítható.
 
 (12) A (6) bekezdésben meghatározott célból az egészségi, pszichológiai vagy fizikai állapotra vonatkozó vizsgálati adat és az egészségügyi adat a szerződéses jogviszony megszűnését követő tizedik év december 31-ig kezelhető. Ha a szerződéses jogviszony létesítésére nem kerül sor, a szerződéses jogviszony létesítését célzó alkalmassági vizsgálat során az egészségi, pszichológiai és fizikai állapotra vonatkozóan keletkezett vizsgálati adatot vagy egészségügyi adatot a vizsgálattól számított két éven belül meg kell semmisíteni.
 
@@ -6569,7 +6618,7 @@ kell érteni.
 - 2. megállapítsa a miniszter, az országos parancsnok, az országos főigazgató, valamint az állományilletékes parancsnok alárendeltségébe tartozó vezető munkáltatói jogköreit,
 - 3. meghatározza a kormányzati szolgálati, közszolgálati, közalkalmazotti, egészségügyi szolgálati, rendvédelmi igazgatási, adó- és vámhatósági szolgálati, igazságügyi alkalmazotti szolgálati jogviszonyba történő áthelyezésre, a más rendvédelmi szervhez történő áthelyezésre, valamint a rendvédelmi szervek és a Magyar Honvédség közötti áthelyezésre vonatkozó eljárási szabályokat és az áthelyezett foglalkoztatásával, jogaival és kötelezettségeivel összefüggő kérdéseket,
 - 4. meghatározza a kifogástalan életvitel ellenőrzése végrehajtásának szabályait,
-- 5. megállapítsa a más szervhez vezénylésre, a miniszter által vezetett minisztériumba vagy a miniszter által irányított szervhez vezénylésre, a hatósági vezénylésre, a hatósági kirendelésre, az ügyészi szervezethez vezénylésre, valamint a Nemzeti Közszolgálati Egyetemre vezénylésre vonatkozó szabályokat, továbbá a vezényelt foglalkoztatásával, jogaival és kötelezettségeivel összefüggő kérdéseket, és a rendészeti felsőoktatási illetménykiegészítésre, valamint az illetménypótlékra jogosultság és megállapításának általános feltételeit,
+- 5. megállapítsa a más szervhez vezénylésre, a miniszter által vezetett minisztériumba vagy a miniszter által irányított szervhez vezénylésre, a hatósági vezénylésre, a hatósági kirendelésre, az ügyészi szervezethez vezénylésre, a Nemzeti Közszolgálati Egyetemre vezénylésre, valamint az NVVH-hoz vezénylésre vonatkozó szabályokat, továbbá a vezényelt foglalkoztatásával, jogaival és kötelezettségeivel összefüggő kérdéseket, és a rendészeti felsőoktatási illetménykiegészítésre, valamint az illetménypótlékra jogosultság és megállapításának általános feltételeit,
 - 6. megállapítsa a külföldre vezénylésre vonatkozó szabályokat, a külföldre vezényelt juttatásaira, többletjuttatásaira, költségtérítésére, ellátmányára vonatkozó rendelkezéseket, valamint a külföldre vezényelt közeli hozzátartozóira tekintettel e törvényben nem szabályozott pénzbeli és természetbeni ellátást,
 - 7. megállapítsa az összekötő tiszti szolgálat teljesítése céljából tartós külszolgálat céljából külföldre vezénylés feltételeit, rendjét és az érintettet megillető juttatásokat,
 - 8. meghatározza a nemzeti szakértőként az Európai Unió intézményeiben alkalmazott hivatásos állomány tagja jelölési eljárásának rendjét, a részére nyújtható juttatások, többletjuttatások, költségtérítések, ellátmány fajtáit, mértékét, azok megállapításának, kifizetésének, elszámolásának rendjét,
@@ -7576,7 +7625,7 @@ a hivatásos szolgálati viszonyt létesítő személy kifogástalan életvitele
 | a mentesülés időpontja: |  |  |  |
 | 2. Áll-e jelenleg büntetőeljárás alatt? |  | igen – nem |  |
 | Az eljárás alapjául szolgáló bűncselekmény megnevezése és az elkövetés ideje: |  |  |  |
-| Eljáró bíróság, ügyészség, nyomozó hatóság, ügyszám: |  |  |  |
+| Eljáró bíróság, ügyészség, NVVH, nyomozó hatóság, ügyszám: |  |  |  |
 | Az eljárás jelentkezéskori szakasza: |  | nyomozás-bírósági eljárás |  |
 | Az eljárás során hozott érdemi határozat, végzés, ítélet tartalma, kelte: |  |  |  |
 | 3. A jelentkezést megelőző két éven belül szabálysértés miatt marasztalták-e el? (büntetés vagy intézkedés) |  | igen – nem |  |

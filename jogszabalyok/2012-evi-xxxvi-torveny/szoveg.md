@@ -482,7 +482,7 @@ bírságot köteles fizetni az Országgyűlés Hivatala részére.
 
 #### 10/B. Beszámoló vagy jelentés bizottsági tárgyalása
 
-27/B. § Ha az Alaptörvény, törvény vagy országgyűlési határozat az Országgyűlésnek történő beszámolási vagy jelentéstételi kötelezettséget ír elő, az Országgyűlés a Házbizottság javaslatára – az alapvető jogok biztosa, a legfőbb ügyész, az Állami Számvevőszék elnöke, a Magyar Nemzeti Bank elnöke beszámolója, a Kormánynak a nemzetiségek helyzetéről és a honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény 6/D. § (1) bekezdése szerinti beszámolója, valamint országgyűlési bizottság jelentése kivételével – a beszámolóról vagy a jelentésről történő határozathozatalra állandó bizottságát felkérheti.
+27/B. § Ha az Alaptörvény, törvény vagy országgyűlési határozat az Országgyűlésnek történő beszámolási vagy jelentéstételi kötelezettséget ír elő, az Országgyűlés a Házbizottság javaslatára – az alapvető jogok biztosa, a legfőbb ügyész, az Állami Számvevőszék elnöke, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal elnöke, a Magyar Nemzeti Bank elnöke beszámolója, a Kormánynak a nemzetiségek helyzetéről és a honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény 6/D. § (1) bekezdése szerinti beszámolója, valamint országgyűlési bizottság jelentése kivételével – a beszámolóról vagy a jelentésről történő határozathozatalra állandó bizottságát felkérheti.
 
 #### 10/C. A határozatképesség, tanácskozóképesség
 
@@ -626,7 +626,7 @@ utasíthat.
 
 (3) A nemzetiségi szószóló a nemzetiségeket képviselő bizottság munkájában szavazati joggal vesz részt, az állandó bizottságok, illetve a törvényalkotási bizottság ülésein – az állandó bizottság, illetve a törvényalkotási bizottság elnökének döntése alapján, vagy ha a Házbizottság arról a (2) bekezdés szerinti döntése körében határoz – tanácskozási joggal vehet részt.
 
-(4) A nemzetiségi szószóló kérdést intézhet a Kormányhoz és a Kormány tagjához, az alapvető jogok biztosához, az Állami Számvevőszék elnökéhez és a legfőbb ügyészhez a feladatkörükbe tartozó, a nemzetiségek érdekeit, jogait érintő ügyben.
+(4) A nemzetiségi szószóló kérdést intézhet a Kormányhoz és a Kormány tagjához, az alapvető jogok biztosához, az Állami Számvevőszék elnökéhez, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal elnökéhez és a legfőbb ügyészhez a feladatkörükbe tartozó, a nemzetiségek érdekeit, jogait érintő ügyben.
 
 29/A. § (1) A nemzetiségi szószólót mentelmi jog illeti meg. A mentelmi jogra a képviselők mentelmi jogára vonatkozó szabályokat kell alkalmazni.
 
@@ -715,7 +715,7 @@ utasíthat.
 
 #### 15. Az Országgyűlés és országgyűlési bizottság ülésén részt vevő más személyek
 
-39. § (1) A köztársasági elnök, a Kormány tagja, az Alkotmánybíróság elnöke, a Kúria elnöke, a legfőbb ügyész, az alapvető jogok biztosa, az Állami Számvevőszék elnöke, a központi költségvetésről szóló törvényjavaslat és a központi költségvetés módosításáról szóló törvényjavaslat vitája során a Költségvetési Tanács elnöke, továbbá az általa benyújtott beszámoló országgyűlési vitája során az Országgyűlés előtt beszámolásra kötelezett, valamint európai uniós kérdéssel összefüggő napirend országgyűlési vitája során az Európai Parlament magyarországi képviselője (a továbbiakban együtt: tanácskozási joggal rendelkező személy) részt vehet és – az ülés lefolytatásával kapcsolatos házszabályi rendelkezések keretei között – bármikor felszólalhat az Országgyűlés ülésén.
+39. § (1) A köztársasági elnök, a Kormány tagja, az Alkotmánybíróság elnöke, a Kúria elnöke, a legfőbb ügyész, az alapvető jogok biztosa, az Állami Számvevőszék elnöke, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal elnöke, a központi költségvetésről szóló törvényjavaslat és a központi költségvetés módosításáról szóló törvényjavaslat vitája során a Költségvetési Tanács elnöke, továbbá az általa benyújtott beszámoló országgyűlési vitája során az Országgyűlés előtt beszámolásra kötelezett, valamint európai uniós kérdéssel összefüggő napirend országgyűlési vitája során az Európai Parlament magyarországi képviselője (a továbbiakban együtt: tanácskozási joggal rendelkező személy) részt vehet és – az ülés lefolytatásával kapcsolatos házszabályi rendelkezések keretei között – bármikor felszólalhat az Országgyűlés ülésén.
 
 (2) A napirenden lévő önálló indítvány előterjesztője vagy a helyettesítésére jogosult személy távollétében az indítványt – a (2a) bekezdésben foglalt kivétellel – az Országgyűlés nem tárgyalja.
 
@@ -725,7 +725,7 @@ utasíthat.
 
 (4) Az Országgyűlés a tanácskozási joggal rendelkező személyt – a köztársasági elnök, az Alkotmánybíróság elnöke, a Kúria elnöke és az Európai Parlament magyarországi képviselője kivételével – kötelezheti az Országgyűlés ülésén való megjelenésre.
 
-40. § (1) Az előterjesztő, a köztársasági elnök, a házelnök, az alapvető jogok biztosa, az Állami Számvevőszék elnöke, a központi költségvetésről szóló törvényjavaslat és a központi költségvetés módosításáról szóló törvényjavaslat tárgyalása során a Költségvetési Tanács elnöke, európai uniós kérdéssel összefüggő napirendi pontként meghatározott indítványok tárgyalása során az Európai Parlament magyarországi képviselője, az adott országgyűlési bizottságban tagsági hellyel nem rendelkező képviselőcsoport vezetője, külön törvényben erre feljogosított személyek, valamint – ha a tárgyalt napirendi pont feladatkörét érinti – a Kormány tagja a 14. § (1) bekezdés a) pontja szerinti bizottság ülésének összehívásával egyidejűleg meghívást kap az ülésre. Az Európai Parlament magyarországi képviselője az európai uniós ügyekkel foglalkozó állandó bizottság valamennyi ülésére meghívást kap.
+40. § (1) Az előterjesztő, a köztársasági elnök, a házelnök, az alapvető jogok biztosa, az Állami Számvevőszék elnöke, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal elnöke, a központi költségvetésről szóló törvényjavaslat és a központi költségvetés módosításáról szóló törvényjavaslat tárgyalása során a Költségvetési Tanács elnöke, európai uniós kérdéssel összefüggő napirendi pontként meghatározott indítványok tárgyalása során az Európai Parlament magyarországi képviselője, az adott országgyűlési bizottságban tagsági hellyel nem rendelkező képviselőcsoport vezetője, külön törvényben erre feljogosított személyek, valamint – ha a tárgyalt napirendi pont feladatkörét érinti – a Kormány tagja a 14. § (1) bekezdés a) pontja szerinti bizottság ülésének összehívásával egyidejűleg meghívást kap az ülésre. Az Európai Parlament magyarországi képviselője az európai uniós ügyekkel foglalkozó állandó bizottság valamennyi ülésére meghívást kap.
 
 (2) Az (1) bekezdés alapján meghívott személyek tanácskozási joggal vesznek részt az ülésen, illetve a napirendi pont tárgyalásán. Az ülésen a meghívottat a helyettesítésére jogosult személy is képviselheti. Az ülésen az országgyűlési bizottságban tagsági hellyel nem rendelkező képviselőcsoport vezetőjét – egy alkalomra szóló vagy visszavonásig érvényes megbízással – a képviselőcsoport egy tagja is képviselheti. Az országgyűlési bizottság ülésén a Kormány döntésre felhatalmazott képviselője vesz részt.
 
@@ -786,7 +786,7 @@ utasíthat.
 
 44. § (1) Az Országgyűlés által választott közjogi tisztségviselő megválasztásánál – az Alaptörvény vagy törvény eltérő rendelkezése hiányában – a házelnök nyújtja be a javaslatot a közjogi tisztségviselő személyére. A javaslatról az Országgyűlés – az (1a) bekezdésben és a 6. § (1) bekezdésében foglalt kivétellel – nyílt szavazással határoz.
 
-(1a) Az Országgyűlés a köztársasági elnököt, az Alkotmánybíróság elnökét és tagját, a Kúria elnökét, az Országos Bírósági Hivatal elnökét, a legfőbb ügyészt, az alapvető jogok biztosát és helyetteseit, valamint az Állami Számvevőszék elnökét titkos szavazással választja meg.
+(1a) Az Országgyűlés a köztársasági elnököt, az Alkotmánybíróság tagját, a Kúria elnökét, az Országos Bírósági Hivatal elnökét, a legfőbb ügyészt, az alapvető jogok biztosát és helyetteseit, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal elnökét és elnökhelyetteseit, valamint az Állami Számvevőszék elnökét titkos szavazással választja meg.
 
 (2) Ha törvény Országgyűlés által választott közjogi tisztségviselő megválasztása vagy más megbízatást, tisztséget betöltő személy kinevezése előtt a jelölt országgyűlési bizottság előtt történő meghallgatását írja elő, a feladatkörrel rendelkező országgyűlési bizottság a jelöltet meghallgatja és a személyi javaslatot véleményezi. A miniszteri tisztségre javasolt személy miniszterré történő kinevezésének támogatásáról az országgyűlési bizottság nyílt szavazással határoz.
 
@@ -808,6 +808,7 @@ utasíthat.
 - 6. az Országos Bírósági Hivatal elnöke,
 - 7. az alapvető jogok biztosa és helyettesei,
 - 8. az Állami Számvevőszék elnöke,
+- 8a. a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal elnöke és elnökhelyettesei,
 - 9. a Nemzeti Választási Bizottság elnöke és tagja,
 - 10. a Nemzeti Emlékezet Bizottságának elnöke és tagjai,
 - 11. a Médiatanács elnöke és tagja,
@@ -1141,6 +1142,7 @@ megegyező mértékben csökkentheti.
 - i) a legfőbb ügyész megbízatása – a legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény 22. § (1) bekezdés b) pontja szerinti – megszűnésének kimondásához a legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény 23. § (2) bekezdésében foglalt esetben, illetve a legfőbb ügyész megbízatása – a legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény 22. § (1) bekezdés g) pontja szerinti – megszűnésének kimondásához a legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény 23. § (7) bekezdésében foglalt esetben,
 - j) az alapvető jogok biztosa megbízatása – az alapvető jogok biztosáról szóló 2011. évi CXI. törvény 16. § (1) bekezdés d)–g) pontja szerinti – megszűnésének kimondásához az alapvető jogok biztosáról szóló 2011. évi CXI. törvény 16. § (2) bekezdésében foglalt esetben,
 - k) az alapvető jogok biztosa helyettesének megbízatása – az alapvető jogok biztosáról szóló 2011. évi CXI. törvény 17. § (1) bekezdés d)–g) pontja szerinti – megszűnésének kimondásához az alapvető jogok biztosáról szóló 2011. évi CXI. törvény 17. § (2) bekezdésében foglalt esetben.
+- l) a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal elnöke, illetve elnökhelyettesei megbízatása megszűnése tekintetében – a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalról szóló törvény szerint – az Országgyűlés feladat- és hatáskörébe tartozó döntéshez.
 
 (2) A jelen lévő képviselők kétharmadának szavazata szükséges
 
@@ -1163,6 +1165,7 @@ megegyező mértékben csökkentheti.
 - q) a Nemzeti Emlékezet Bizottsága elnökének és két tagjának megválasztásához a Nemzeti Emlékezet Bizottságáról szóló 2013. évi CCXLI. törvény 7. § (1) bekezdésében foglaltak szerint,
 - r) a Nemzeti Emlékezet Bizottsága tagja megbízatása – a Nemzeti Emlékezet Bizottságáról szóló 2013. évi CCXLI. törvény 16. § (1) bekezdésének e)–g) pontja szerinti – megszűnésének megállapításához a Nemzeti Emlékezet Bizottságáról szóló 2013. évi CCXLI. törvény 16. § (4) bekezdésében foglaltak szerint.
 - s) a honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény 6/A. § (1) bekezdése szerinti döntéshez.
+- t) a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal elnöke, illetve elnökhelyettesei mentelmi jogának felfüggesztéséhez.
 
 ### VI. Fejezet — AZ ORSZÁGGYŰLÉS ÉS A KORMÁNY EURÓPAI UNIÓS ÜGYEKBEN TÖRTÉNŐ EGYÜTTMŰKÖDÉSE
 
@@ -1298,7 +1301,7 @@ megegyező mértékben csökkentheti.
 - a) bűncselekmény elkövetésének tettenérésekor lehet őrizetbe venni, vagy vele szemben más büntetőeljárásjogi kényszerintézkedést alkalmazni,
 - b) szabálysértés elkövetésének tettenérésekor lehet – ha a szabálysértési őrizet elrendelésének törvényben meghatározott feltételei fennállnak – szabálysértési őrizetbe venni, vagy vele szemben más szabálysértési kényszerintézkedést alkalmazni.
 
-(3) A mentelmi jog felfüggesztésére irányuló indítványt a vádemelés előtt a legfőbb ügyész, azt követően, illetve magánvádas, pótmagánvádas ügyben a bíróság terjeszti elő a házelnökhöz. Az indítványt a képviselő tettenérése esetén haladéktalanul elő kell terjeszteni.
+(3) A mentelmi jog felfüggesztésére irányuló indítványt a vádemelés előtt a legfőbb ügyész vagy az NVVH törvény szerint kijelölt vezetője, azt követően, illetve magánvádas, pótmagánvádas ügyben a bíróság terjeszti elő a házelnökhöz. Az indítványt a képviselő tettenérése esetén haladéktalanul elő kell terjeszteni.
 
 (4) Szabálysértési ügyben a szabálysértési hatóság közvetlenül a képviselőt keresi meg azzal, hogy mentelmi jogáról önként lemondhat. A képviselő mentelmi jogáról történő nyolc napon belüli önkéntes lemondása esetén a szabálysértési hatóság az eljárás jogerős befejezésekor a mentelmi jogról történt lemondás tényéről, valamint az eljárás eredményéről a legfőbb ügyész útján tájékoztatja a házelnököt. A tájékoztatást a házelnök a Mentelmi Bizottság részére megküldi. A Mentelmi Bizottság elnöke a tájékoztatást a bizottság soron következő ülésén ismerteti. Ha a képviselő a szabálysértési ügyben a megkeresés kézhezvételétől számított nyolc napon belül mentelmi jogáról nem mond le, a mentelmi jog felfüggesztésére irányuló indítványt – a szabálysértési hatóság megkeresése alapján – a legfőbb ügyész terjeszti elő a házelnökhöz. Az eljárás lefolytatása alatt a képviselő bármelyik eljáró hatóság előtt, bármikor – legkésőbb az országgyűlési határozat meghozataláig – lemondhat mentelmi jogáról.
 
@@ -2354,7 +2357,7 @@ céljából, az országgyűlési képviselői megbízatás keletkezésétől kez
 
 (10) A beléptető rendszer, valamint a Kossuth tér felszín alatti mélygarázsba behajtást nyilvántartó rendszer a be- és kilépő személyről, illetve a be- és kihajtó gépjárműről a belépési, illetve a behajtási jogosultság ellenőrzése, a be- és kilépő személy vagy a be- és kihajtó gépjármű azonosságának megállapítása, és az ezzel kapcsolatos visszaélések megelőzése vagy megszüntetése érdekében a be- és kilépés vagy be- és kihajtás időpontjában pillanatfelvételt készít. A pillanatfelvételt a (3) bekezdés b) pontjában és a (8) bekezdés b) pontjában meghatározott határidő elteltével törölni kell.
 
-(11) Az (1), (2), (4), (7) és (10) bekezdésben meghatározott adatokból – jogszabályban meghatározott szabálysértési, bűnüldözési, igazságszolgáltatási, valamint nemzetbiztonsági célból – a nyomozó hatóság, a Rendőrségről szóló törvényben meghatározott terrorizmust elhárító szerv vagy a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv, a szabálysértési hatóság, a körözési eljárást folytató szerv, az ügyészség, a bíróság, a nemzetbiztonsági szolgálatok, nemzetközi jogsegély keretében külföldi hatóság, jogainak gyakorlása érdekében az érintett, valamint jogszabály alapján eljárás kezdeményezésére irányuló jogának gyakorlása érdekében harmadik személy igényelhet adatot.
+(11) Az (1), (2), (4), (7) és (10) bekezdésben meghatározott adatokból – jogszabályban meghatározott szabálysértési, bűnüldözési, igazságszolgáltatási, valamint nemzetbiztonsági célból – a nyomozó hatóság, a Rendőrségről szóló törvényben meghatározott terrorizmust elhárító szerv vagy a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv, a szabálysértési hatóság, a körözési eljárást folytató szerv, az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, a bíróság, a nemzetbiztonsági szolgálatok, nemzetközi jogsegély keretében külföldi hatóság, jogainak gyakorlása érdekében az érintett, valamint jogszabály alapján eljárás kezdeményezésére irányuló jogának gyakorlása érdekében harmadik személy igényelhet adatot.
 
 (12) Az Országgyűlés Hivatala az (1) bekezdésben meghatározott épületekbe belépni szándékozó személy személyazonosságának megállapítása és a beléptetés végrehajtása céljából közvetlen hozzáférést biztosít az Országgyűlési Őrség részére a beléptető rendszerben az adott naptári napon belépő személy nevéhez, születési idejéhez, a személyazonosításra alkalmas hatósági igazolvány okmányazonosítójához, a belépésre jogosító igazolvány számához, valamint azon személy arcképmásához, akinél ezt a beléptető rendszer kezeli.
 
@@ -2510,11 +2513,11 @@ céljából használhatja fel.
 - c) körözött személy vagy tárgy azonosítása érdekében, vagy
 - d) az érintett személy jogainak gyakorlása érdekében
 
-továbbítható a megkereső, illetve adatszolgáltatást kérő, az eljárásra feladat- és hatáskörrel rendelkező nyomozó hatóság, szabálysértési hatóság, ügyészség, bíróság vagy más közigazgatási hatósági eljárást lefolytató szerv, a nemzetbiztonsági szolgálatok, a terrorizmust elhárító szerv, továbbá az érintett személy részére.
+továbbítható a megkereső, illetve adatszolgáltatást kérő, az eljárásra feladat- és hatáskörrel rendelkező nyomozó hatóság, szabálysértési hatóság, ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, bíróság vagy más közigazgatási hatósági eljárást lefolytató szerv, a nemzetbiztonsági szolgálatok, a terrorizmust elhárító szerv, továbbá az érintett személy részére.
 
 (10) A (4) bekezdésben foglaltak alapján működtetett elektronikus megfigyelő rendszer által rögzített közterületi képfelvételekhez az Országgyűlési Őrség közvetlen elérést biztosít a rendezvénybiztosítási feladatok támogatása céljából, a rendezvénybiztosítási feladatokat ellátó általános rendőrségi feladatok ellátására létrehozott szerv, valamint a terrorizmust elhárító szerv részére.
 
-(11) A (6) bekezdés alapján készített hangfelvétel, illetve az abban szereplő személyes adat a hívással elkövetett, vagy a hívás során említett bűncselekmény vagy szabálysértés miatt indult büntető- vagy szabálysértési eljárás során, vagy a hívást követő intézkedés jogszerűségének közigazgatási eljárásban történő vizsgálata céljából, illetve az érintett személy jogainak gyakorlása érdekében a megkereső, illetve adatszolgáltatást kérő, az eljárásra feladat- és hatáskörrel rendelkező nyomozó hatóság, szabálysértési hatóság, ügyészség, bíróság vagy más közigazgatási hatósági eljárást lefolytató szerv, továbbá az érintett személy részére továbbítható.
+(11) A (6) bekezdés alapján készített hangfelvétel, illetve az abban szereplő személyes adat a hívással elkövetett, vagy a hívás során említett bűncselekmény vagy szabálysértés miatt indult büntető- vagy szabálysértési eljárás során, vagy a hívást követő intézkedés jogszerűségének közigazgatási eljárásban történő vizsgálata céljából, illetve az érintett személy jogainak gyakorlása érdekében a megkereső, illetve adatszolgáltatást kérő, az eljárásra feladat- és hatáskörrel rendelkező nyomozó hatóság, szabálysértési hatóság, ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, bíróság vagy más közigazgatási hatósági eljárást lefolytató szerv, továbbá az érintett személy részére továbbítható.
 
 (11a) A (2a) bekezdés b) pontja alapján készített felvétel az abban szereplő személyes adat felismerhetetlenné tételét követően továbbítható az Országgyűlés Hivatala részére, a kiemelt nemzeti emlékhely és környezete megóvásával kapcsolatos feladatok ellátása céljából.
 

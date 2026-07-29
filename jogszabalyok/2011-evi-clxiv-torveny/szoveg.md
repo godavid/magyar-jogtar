@@ -473,7 +473,7 @@ véleményét a pályázóról.
 
 28. § (1) A legfőbb ügyész az ügyészt – hozzájárulásával és az igazságügyért felelős miniszter egyetértése esetén – beoszthatja az igazságügyért felelős miniszter által vezetett minisztériumba a jogszabályok előkészítésében való részvétel vagy más ügyészi munkatapasztalatot igénylő feladat ellátása céljából.
 
-(2) Az igazságügyért felelős miniszter által vezetett minisztériumba beosztott ügyész (a továbbiakban: minisztériumba beosztott ügyész) megtartja ügyészi tisztségét, de ügyészi jogkört nem gyakorolhat. Javadalmazására az ügyészre vonatkozó szabályokat kell alkalmazni.
+(2) Az igazságügyért felelős miniszter által vezetett minisztériumba beosztott ügyész (a továbbiakban: minisztériumba beosztott ügyész) megtartja ügyészi tisztségét, de ügyészi jogkört nem gyakorolhat. Ha a minisztériumba beosztott ügyész az ügyészségen vezetői megbízással vagy vezetői kinevezéssel rendelkezik, e vezetői megbízása, illetve kinevezése az igazságügyért felelős minisztériumba történő beosztása kezdőnapját megelőző nappal e törvény erejénél fogva megszűnik. A minisztériumba beosztott ügyész javadalmazására az ügyészre vonatkozó szabályokat kell alkalmazni.
 
 (3) A minisztériumba beosztott ügyész köteles a vezetői intézkedéseket, utasításokat teljesíteni, érvényesülésüket elősegíteni.
 
@@ -490,6 +490,35 @@ véleményét a pályázóról.
 (2) Az ügyész a beosztás megszüntetésének közlését követően további 30 napig köteles az igazságügyért felelős miniszter által vezetett minisztériumban a feladatait ellátni, ettől azonban a felek közös megegyezéssel eltérhetnek.
 
 (3) Az igazságügyért felelős miniszter által vezetett minisztériumba történt beosztása megszűnését követően az ügyészt tényleges ügyészi álláshelyre kell – pályázat nélkül – kinevezni, az igazságügyért felelős miniszter által vezetett minisztériumba való beosztását megelőző vagy azzal legalább azonos szintű, lehetőleg az ügyész lakóhelye szerinti, illetve korábbi szolgálati helyével azonos városban lévő szolgálati helyre. Hozzájárulásával az ügyész más szolgálati helyre is kinevezhető.
+
+#### 12/A. A Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalba beosztott ügyész
+
+29/A. § (1) A Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH) elnöke kezdeményezheti a legfőbb ügyésznél az ügyész beosztását az NVVH-ba.
+
+(2) A legfőbb ügyész az ügyészt – hozzájárulása esetén – beosztja az NVVH-ba.
+
+(3) Ha az (1) bekezdés szerinti kezdeményezés teljesítése az ügyészség feladatainak ellátását veszélyeztetné, a legfőbb ügyész jelzéssel élhet az NVVH elnöke felé. Ha az NVVH elnöke a kezdeményezést fenntartja, a legfőbb ügyész az ügyészt a (2) bekezdésben foglaltak szerint beosztja az NVVH-ba.
+
+(4) Az NVVH-ba beosztott ügyész (a továbbiakban: NVVH-ba beosztott ügyész) megtartja ügyészi tisztségét, ügyészi jogköröket nem gyakorol, kizárólag az NVVH törvényben meghatározott jogköreit gyakorolhatja. Ha az NVVH-ba beosztott ügyész az ügyészségen vezetői megbízással vagy vezetői kinevezéssel rendelkezik, e vezetői megbízása, illetve kinevezése az NVVH-ba történő beosztása kezdőnapját megelőző nappal e törvény erejénél fogva megszűnik. Az elnökhelyettes beosztott ügyész javadalmazására a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalról szóló törvény rendelkezéseit kell alkalmazni, az egyéb beosztott ügyész javadalmazására az ügyészre vonatkozó szabályokat kell alkalmazni, kivéve, ha a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalról szóló törvény szerint meghatározott javadalmazás kedvezőbb a számára.
+
+(5) Az NVVH-ba beosztott ügyész törvényben meghatározott kivétellel köteles a vezetői intézkedéseket, utasításokat teljesíteni, érvényesülésüket elősegíteni.
+
+(6) Az NVVH-ba beosztott ügyész jogállására a 44–48. §, a 49. § (1) bekezdése, az 55. §, valamint a 79. § rendelkezéseit kell megfelelően alkalmazni.
+
+(7) Az NVVH-ba beosztott ügyész felett a fegyelmi jogkört a legfőbb ügyész gyakorolja a X. fejezet rendelkezései szerint azzal, hogy a fegyelmi eljárás megindítását az NVVH elnöke kezdeményezheti. Ha a fegyelmi eljárás lefolytatása a törvény rendelkezései szerint kötelező, az NVVH elnöke a fegyelmi eljárást kezdeményezi.
+
+29/B. § (1) A legfőbb ügyész az ügyész NVVH-ba való beosztását megszünteti:
+
+- a) az ügyész kérelmére,
+- b) az NVVH elnöke indítványára.
+
+(2) A legfőbb ügyész az ügyész NVVH-ba való beosztását hivatalból nem szüntetheti meg.
+
+(3) Az ügyész a beosztás megszüntetésének közlését követően további 30 napig köteles az NVVH-ban a feladatait ellátni, ettől azonban a felek közös megegyezéssel eltérhetnek.
+
+(4) Az NVVH-ba történt beosztása megszűnését követően az ügyészt tényleges ügyészi álláshelyre kell – pályázat nélkül – kinevezni, az NVVH-ba való beosztását megelőző vagy azzal legalább azonos szintű, lehetőleg az ügyész lakóhelye szerinti, illetve korábbi szolgálati helyével azonos városban lévő szolgálati helyre. Hozzájárulásával az ügyész más szolgálati helyre is kinevezhető.
+
+29/C. § Ha az ügyészt az NVVH elnökhelyettesévé választja meg az Országgyűlés, a megválasztásával az ügyészt a legfőbb ügyész az NVVH-ba beosztja. Az NVVH-ba beosztás kizárólag akkor szűnik meg, ha az ügyész NVVH elnökhelyettesi megbízatása megszűnik. Az NVVH ügyészségi szolgálati viszonyban álló elnökhelyettese jogállására egyebekben ezen alcímet az NVVH-ról szóló törvényben meghatározott eltérésekkel kell alkalmazni.
 
 #### 13. Nemzetközi szervezetnél vagy az Európai Unió keretében külföldön munkát végző ügyész
 
@@ -727,7 +756,7 @@ azon személyes adatait, amelyeket az e célból a bűnügyi nyilvántartó szer
 
 (3) A (2) bekezdés b) és c) pontjában meghatározott esetben a soron kívüli minősítés elrendelését az ügyésszel írásban közölni kell.
 
-(4) A minősítés a munkáltatói jogkör gyakorlójának feladata. A minisztériumba beosztott ügyész hivatali munkáját az igazságügyért felelős miniszter a kormánytisztviselőkre vonatkozó szabályok szerint értékeli.
+(4) A minősítés a munkáltatói jogkör gyakorlójának feladata. A minisztériumba beosztott ügyész hivatali munkáját az igazságügyért felelős miniszter a kormánytisztviselőkre vonatkozó szabályok szerint értékeli. Az NVVH-ba beosztott ügyész munkáját az NVVH elnöke az NVVH személyi állományára vonatkozó szabályok szerint értékeli.
 
 (5) A minősítés célja az ügyész szakmai tevékenységének megítélése, az ezt befolyásoló ismeretek, képességek, személyiségjegyek értékelése, továbbá a szakmai fejlődés elősegítése.
 
@@ -831,6 +860,8 @@ köteles foglalkoztatni. Ezt követően az ügyész munkaidejét a kérelem beny
 - b) készenlét: az ügyész által megjelölt helyen, a munkavégzés helyére tekintettel elérhetően történő rendelkezésre állás. Az ügyelet és a készenlét időtartama alatt az ügyész köteles gondoskodni a munkára képes állapotának megőrzéséről, és a munkáltató utasítása alapján munkát végezni.
 
 (7) A minisztériumba beosztott ügyészt ügyeleti és készenléti díj nem illeti meg, rendkívüli munkavégzéséért a kormánytisztviselőkre vonatkozó szabályok szerint szabadidő-átalány állapítható meg.
+
+(8) Az NVVH-ba beosztott ügyész rendkívüli munkavégzésére az NVVH személyi állományára vonatkozó szabályokat kell alkalmazni.
 
 57. § (1) A munkáltatói jogkör gyakorlója a szolgálati hely szerinti településen kívüli munkavégzésre kötelezheti az ügyészt (kiküldetés). Ennek feltétele, hogy az ügyész a kiküldetés időtartama alatt is a munkáltató irányítása és utasítása alapján végezze a munkát. A kiküldetésnél az ügyész méltányos érdekeit figyelembe kell venni.
 
@@ -1096,16 +1127,16 @@ A fenti adatokban bekövetkezett változásokról az ügyész haladéktalanul k�
 
 (3) A munkáltató viseli az illetmény fizetési számlára történő átutalásának vagy a pénzforgalmi számláról történő készpénzkifizetés kézbesítésének a költségét.
 
-77. § (1) A minisztériumba beosztott ügyészre az 57–76. §-okban foglalt rendelkezéseket a (2)–(4) bekezdések szerinti eltéréssel kell alkalmazni.
+77. § (1) A minisztériumba beosztott ügyészre és az NVVH-ba beosztott ügyészre – az NVVH elnökhelyettese kivételével – az 57–76. §-ban foglalt rendelkezéseket a (2)–(4) bekezdés szerinti eltéréssel kell alkalmazni. Az NVVH elnökhelyettesére az 57. §-ban, a 64. § (3) bekezdésében, valamint a 70–76. §-ban foglalt rendelkezéseket kell alkalmazni.
 
-(2) Az ügyész a beosztási pótlékára a korábbi beosztásának megfelelően jogosult. A legfőbb ügyészségi ügyész a korábbi illetményére jogosult. Ha az ügyész korábban járási ügyészségen működött, részére a főügyészségi ügyészre vonatkozó mértékű beosztási pótlékot kell megállapítani, és a minisztériumba beosztott ügyészként eltöltött szolgálati idő tartamát főügyészségen eltöltött időnek kell tekinteni. A minisztériumba beosztott ügyész a beosztási pótlékon felül az ügyészi illetményalap összegének harminc százalékára jogosult. Ez az összeg a legfőbb ügyészségi ügyészt nem illeti meg.
+(2) Az ügyész a beosztási pótlékára a korábbi beosztásának megfelelően jogosult. A legfőbb ügyészségi ügyész a korábbi illetményére jogosult. Ha az ügyész korábban járási ügyészségen működött, részére a főügyészségi ügyészre vonatkozó mértékű beosztási pótlékot kell megállapítani, és a minisztériumba, valamint az NVVH-ba beosztott ügyészként eltöltött szolgálati idő tartamát főügyészségen eltöltött időnek kell tekinteni. A minisztériumba, valamint az NVVH-ba beosztott ügyész a beosztási pótlékon felül az ügyészi illetményalap összegének harminc százalékára jogosult. Ez az összeg a legfőbb ügyészségi ügyészt nem illeti meg.
 
-(3) Az igazságügyért felelős miniszter által vezetett minisztériumban szakmai vezetői álláshelyen foglalkoztatott ügyész – a legfőbb ügyészségi magasabb vezető állású és vezető állású ügyész kivételével – vezetői pótlékra a következők szerint jogosult:
+(3) Az igazságügyért felelős miniszter által vezetett minisztériumban és az NVVH-ban szakmai vezetői álláshelyen foglalkoztatott ügyész – a legfőbb ügyészségi ügyész kivételével – vezetői pótlékra a következők szerint jogosult:
 
 - a) a főosztályvezető vezetői pótléka az ügyészi illetményalap száz százaléka,
 - b) az osztályvezető vezetői pótléka az ügyészi illetményalap hatvan százaléka.
 
-(4) Az ügyész soron kívüli előresorolására és részére cím adományozására – a minisztériumba beosztott ügyész esetén az igazságügyért felelős miniszter javaslatára – a legfőbb ügyész jogosult.
+(4) Az ügyész soron kívüli előresorolására és részére cím adományozására – a minisztériumba beosztott ügyész esetén az igazságügyért felelős miniszter javaslatára, az NVVH-ba beosztott ügyész esetén az NVVH elnöke javaslatára – a legfőbb ügyész jogosult.
 
 78. § (1) A tartós külszolgálatra kirendelt ügyész – e törvény szerint járó javadalmazáson felül – a legfőbb ügyész döntése szerint jogosult a külszolgálati tevékenységgel összefüggésben felmerülő, a nemzetközi szervezet vagy az Európai Unió által nem viselt vagy nem fedezett költségei megtérítésére.
 
@@ -1350,7 +1381,7 @@ lehet adatot továbbítani.
 
 (5) A személyi adatlapon a 3. mellékletben meghatározott, valamint a (4) bekezdés szerinti iratokban szereplő adatok rögzíthetők.
 
-(6) A személyi nyilvántartás központi feladatait a Legfőbb Ügyészség, helyi feladatait az ügyész szolgálati helye szerinti fellebbviteli főügyészség, illetve főügyészség látja el. A minisztériumba beosztott ügyész adatait a minisztériumban kell nyilvántartani.
+(6) A személyi nyilvántartás központi feladatait a Legfőbb Ügyészség, helyi feladatait az ügyész szolgálati helye szerinti fellebbviteli főügyészség, illetve főügyészség látja el. A minisztériumba beosztott ügyész adatait a minisztériumban kell nyilvántartani. Az NVVH-ba beosztott ügyész adatait az NVVH-ban kell nyilvántartani.
 
 (7) A személyi nyilvántartást – ideértve a (4) bekezdésben szereplő iratokat is – az ügyész ügyészségi szolgálati viszonyának megszűnését követően – a 49. § (4) bekezdésében meghatározott kivétellel – ötven évig kell megőrizni.
 

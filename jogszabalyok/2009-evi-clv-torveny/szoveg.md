@@ -80,8 +80,9 @@ részes felek által képviselt államokkal Magyarországnak van-e a ba) alpontb
 - r) az Országgyűlési Őrség parancsnoka,
 - s) az idegenrendészeti hatóság vezetője, a menekültügyi hatóság vezetője,
 - t) a Nemzeti Biztonsági Felügyelet vezetője,
-- u) Magyarország külképviseletének vezetője, valamint a nemzetközi szerződésben meghatározott kötelezettségvállalás teljesítése érdekében más államhoz, nemzetközi szervezethez vagy regionális együttműködés központjába delegált önálló képviseleti hatáskörrel rendelkező személy, és
+- u) Magyarország külképviseletének vezetője, valamint a nemzetközi szerződésben meghatározott kötelezettségvállalás teljesítése érdekében más államhoz, nemzetközi szervezethez vagy regionális együttműködés központjába delegált önálló képviseleti hatáskörrel rendelkező személy,
 - v) törvény által minősítésre feljogosított személy.
+- w) a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal elnöke.
 
 (2) Az (1) bekezdés szerinti minősítők minősítői jogkörüket írásban
 
@@ -89,6 +90,8 @@ részes felek által képviselt államokkal Magyarországnak van-e a ba) alpontb
 - b) „Titkos!”, „Bizalmas!” és „Korlátozott terjesztésű!” minősítési szintű adat vonatkozásában az irányításuk alatt álló, közhatalmi jogosítványokkal felruházott szervben vezetői megbízással rendelkezőkre, illetve vezetői beosztásba kinevezettekre átruházhatják.
 
 (3) A honvédelemért felelős miniszter, a minősített adatok védelmének szakmai felügyeletéért felelős miniszter, a külpolitikáért felelős miniszter, a polgári hírszerzési tevékenység irányításáért felelős miniszter, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, valamint az (1) bekezdés p)–s) pontjában meghatározott vezető a honvédelmi, a nemzetbiztonsági, a külügyi és a nemzetközi kapcsolatokkal összefüggő, a minősített adat védelmének szakmai felügyeletével kapcsolatos, továbbá a bűnüldözési feladatok körében minősítési jogkörét belső szabályzatban az alárendeltségébe tartozó, vezetői megbízással rendelkező, illetve vezetői beosztásba kinevezett más személyre és a minősített adat felülvizsgálatába bevont felülvizsgálati szakértőre írásban átruházhatja. A bűnüldözési feladatok körében ez a jogosítvány a legfőbb ügyészt és az ügyészség vezetőjét is megilleti.
+
+(3a) A törvényben meghatározott feladatkörében a (3) bekezdés szerinti jogosítvány a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal elnökét is megilleti.
 
 (4) A minősítő a feladat- és hatáskörébe tartozó minősített adat esetén jogosult:
 
@@ -284,6 +287,7 @@ biztonsági feltételeket.
 - g) az alapvető jogok biztosa,
 - h) a Nemzeti Adatvédelmi és Információszabadság Hatóság elnöke,
 - i) az Állami Számvevőszék elnöke
+- j) a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal elnöke, elnökhelyettesei
 
 – az Nbtv.-ben meghatározott – nemzetbiztonsági ellenőrzés (a továbbiakban: nemzetbiztonsági ellenőrzés), személyi biztonsági tanúsítvány, valamint titoktartási nyilatkozat nélkül jogosult a feladat- és hatáskörébe tartozó minősített adatra vonatkozó állami vagy közfeladat végrehajtása érdekében történő ügyintézésre, feldolgozásra, valamint a minősített adat nyilvántartásával kapcsolatos valamennyi tevékenységre.
 

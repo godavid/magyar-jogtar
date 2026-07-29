@@ -85,9 +85,9 @@ bűncselekményekre vonatkozóan;
 
 (2) Az Alkotmányvédelmi Hivatal az 5/C. § (1) bekezdésében meghatározott szervek foglalkoztatottjai esetében megbízhatósági vizsgálatot folytat.
 
-(3) Ha az Alkotmányvédelmi Hivatal a feladatai ellátása során bűncselekmény gyanúját – ideértve a kísérlet, valamint ha a törvény az előkészületet büntetni rendeli, az előkészület gyanúját is – észleli, a 44. § (2a) bekezdése szerinti kivétellel feljelentést tesz a nyomozás lefolytatására hatáskörrel és illetékességgel rendelkező nyomozó hatóságnál vagy ügyészségnél, és átadja az általa összegyűjtött adatokat.
+(3) Ha az Alkotmányvédelmi Hivatal a feladatai ellátása során bűncselekmény gyanúját – ideértve a kísérlet, valamint ha a törvény az előkészületet büntetni rendeli, az előkészület gyanúját is – észleli, a 44. § (2a) bekezdése szerinti kivétellel feljelentést tesz a nyomozás lefolytatására hatáskörrel és illetékességgel rendelkező nyomozó hatóságnál, ügyészségnél vagy a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalnál (a továbbiakban: NVVH), és átadja az általa összegyűjtött adatokat.
 
-(4) Ha az Alkotmányvédelmi Hivatal olyan információt szerez meg, amely alapján a büntetőeljárásról szóló törvényben meghatározott előkészítő eljárás lefolytatásának lehet helye – a 44. § (2a) bekezdése szerinti kivétellel – előkészítő eljárást kezdeményezhet a hatáskörrel és illetékességgel rendelkező ügyészségnél, nyomozó hatóságnál, illetve a terrorizmust elhárító szervnél, és átadja az általa összegyűjtött adatokat.
+(4) Ha az Alkotmányvédelmi Hivatal olyan információt szerez meg, amely alapján a büntetőeljárásról szóló törvényben meghatározott előkészítő eljárás lefolytatásának lehet helye – a 44. § (2a) bekezdése szerinti kivétellel – előkészítő eljárást kezdeményezhet a hatáskörrel és illetékességgel rendelkező ügyészségnél, NVVH-nál, nyomozó hatóságnál, illetve a terrorizmust elhárító szervnél, és átadja az általa összegyűjtött adatokat.
 
 5/C. § (1) Az Alkotmányvédelmi Hivatal elvégzi a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervet irányító miniszter által vezetett minisztérium vagy munkaszervezet, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervet irányító miniszter által irányított vagy felügyelt költségvetési szervek, a honvédelmi szervezetek, valamint a területi kormányzati igazgatási szervek kivételével a központi kormányzati igazgatási szervek és központi kormányzati igazgatási szervek területi, helyi szervei foglalkoztatottjának a megbízhatósági vizsgálatát.
 
@@ -166,7 +166,7 @@ bűncselekményekre vonatkozóan, felderíti továbbá mindazon bűncselekménye
 - e) szakértői, szaktanácsadói, illetve – külön jogszabály rendelkezései szerint – igazságügyi szakértői tevékenységet végez,
 - f) ellátja az objektumai műveleti védelmének és személyi állománya, valamint a hatáskörébe tartozó más személyek nemzetbiztonsági ellenőrzésének feladatait.
 - g) elvégezheti a saját minősített beszerzései tekintetében a védelmi és biztonsági célú beszerzésekről szóló törvény szerinti kiegészítő ellenőrzést,
-- h) az ügyészség, a nyomozó hatóság, az előkészítő eljárást folytató szerv, a titkos információgyűjtés folytatására feljogosított szerv, valamint a nemzetbiztonsági szolgálatok megkeresése alapján közreműködik az adatkérő által jogszerűen kezelhető adat igénylésében,
+- h) az ügyészség, az NVVH, a nyomozó hatóság, az előkészítő eljárást folytató szerv, a titkos információgyűjtés folytatására feljogosított szerv, valamint a nemzetbiztonsági szolgálatok megkeresése alapján közreműködik az adatkérő által jogszerűen kezelhető adat igénylésében,
 - i) jogszabály rendelkezései szerint ellátja az elektronikus információbiztonsággal kapcsolatos feladatokat,
 - j) jogszabály rendelkezései szerint ellátja a minősített adat védelmével kapcsolatos hatósági feladatokat, valamint a telephelyi iparbiztonsági hatósági feladatokat.
 - k) saját állománya tekintetében ellátja a belső biztonsági és bűnmegelőzési célú ellenőrzési feladatokat, továbbá a kifogástalan életvitel ellenőrzését.
@@ -194,16 +194,16 @@ bűncselekményekre vonatkozóan, felderíti továbbá mindazon bűncselekménye
 8/A. § (1) A Nemzeti Információs Központ
 
 - a) kormányzati tájékoztató és döntés-előkészítő tevékenységet végez, amelynek keretén belül – az e törvényben meghatározott kivételekkel – kizárólagos hatáskörrel teljesíti a hírigényeket;
-- b) nyílt információgyűjtést és -feldolgozást végző szolgáltató és támogató szervet működtet a kormányzati tájékoztató tevékenységének ellátása, valamint az együttműködő szervek és az ügyészség tevékenységének elősegítése céljából;
-- c) Magyarország biztonsági, nemzetbiztonsági, terrorfenyegetettségi és bűnügyi helyzetével, konkrét kockázatokkal vagy bűncselekményekkel kapcsolatos tájékoztatókat, kockázatelemzéseket készít az együttműködő szervek részére a hatáskörükbe tartozó, illetve az ügyészség esetében az ügyészség által folytatott titkos információgyűjtés, leplezetteszköz-alkalmazás, illetve a büntetőeljárásról szóló törvényben meghatározott előkészítő eljárás és nyomozás törvényes, szakszerű és eredményes ellátásának elősegítése céljából;
-- d) az együttműködő szerveket és az ügyészséget visszatájékoztatja az információik felhasználásáról, valamint az annak kapcsán szükséges további feladatokról, információszerzési irányokról;
-- e) feltárja az együttműködő szervek, valamint az együttműködő szervek és az ügyészség által ugyanazon bűncselekmény, személy vagy egyéb tárgykör vonatkozásában párhuzamosan folytatott eljárásokat és ezekről tájékoztatja az érintett ügyészséget, illetve együttműködő szervet;
-- f) amennyiben olyan információt szerez, amely megalapozza az együttműködő szerv, valamint az ügyészség eljárását, intézkedését, úgy erre vonatkozó kezdeményezéssel él, vagy javaslatot tesz, amelynek elfogadásáról vagy elutasításáról az együttműködő szerv nyolc munkanapon belül tájékoztatja az irányító minisztert és a Nemzeti Információs Központot;
+- b) nyílt információgyűjtést és -feldolgozást végző szolgáltató és támogató szervet működtet a kormányzati tájékoztató tevékenységének ellátása, valamint az együttműködő szervek, az ügyészség és az NVVH tevékenységének elősegítése céljából;
+- c) Magyarország biztonsági, nemzetbiztonsági, terrorfenyegetettségi és bűnügyi helyzetével, konkrét kockázatokkal vagy bűncselekményekkel kapcsolatos tájékoztatókat, kockázatelemzéseket készít az együttműködő szervek részére a hatáskörükbe tartozó, illetve az ügyészség esetében az ügyészség által folytatott titkos információgyűjtés, leplezetteszköz-alkalmazás, továbbá az NVVH által folytatott leplezetteszköz-alkalmazás, illetve a büntetőeljárásról szóló törvényben meghatározott előkészítő eljárás és nyomozás törvényes, szakszerű és eredményes ellátásának elősegítése céljából;
+- d) az együttműködő szerveket, az ügyészséget és az NVVH-t visszatájékoztatja az információik felhasználásáról, valamint az annak kapcsán szükséges további feladatokról, információszerzési irányokról;
+- e) feltárja az együttműködő szervek, valamint az együttműködő szervek és az ügyészség, illetve az NVVH által ugyanazon bűncselekmény, személy vagy egyéb tárgykör vonatkozásában párhuzamosan folytatott eljárásokat és ezekről tájékoztatja az érintett ügyészséget, az NVVH-t, illetve együttműködő szervet;
+- f) amennyiben olyan információt szerez, amely megalapozza az együttműködő szerv, valamint az ügyészség, illetve az NVVH eljárását, intézkedését, úgy erre vonatkozó kezdeményezéssel él, vagy javaslatot tesz, amelynek elfogadásáról vagy elutasításáról az együttműködő szerv nyolc munkanapon belül tájékoztatja az irányító minisztert és a Nemzeti Információs Központot;
 - g) a Magyarország terrorhelyzetére vonatkozó információk értékelése alapján javaslatot tesz a terrorfenyegetettség szintjének meghatározására;
 - h) országos jelentőségű, több szervet érintő ügyekben elemző-értékelő és koordinációs tevékenységet lát el;
 - i) összehangolt védelmi tevékenység, valamint különleges jogrend kihirdetését megalapozó helyzet vagy esemény kezelésével összefüggésben, a nemzetbiztonságot érintően kiemelt kockázatot jelentő biztonsági fenyegetésekkel kapcsolatos kérdések vonatkozásában a hatáskörébe és illetékességébe tartozó szakmai koordinációs tevékenységet lát el az érintett szervezetek bevonásával, továbbá kockázatelemzést végez;
 - j) ellátja az utasadat-információs egység feladatait, e feladatkörében a rendelkezésére álló utasadatok és információk tekintetében elemző-értékelő tevékenység keretében kockázatelemzést végezhet;
-- k) koordinációs, elemző-értékelő tevékenységet végez, amely kiterjed az együttműködő szervek hatáskörébe és illetékességébe utalt valamennyi információra, valamint az 52/A. § (3) bekezdése szerinti megállapodásban meghatározott körben az ügyészség által folytatott titkos információgyűjtés, leplezetteszköz-alkalmazás, illetve büntetőeljárásról szóló törvényben meghatározott előkészítő eljárás és nyomozás keretében kezelt adatra, információra.
+- k) koordinációs, elemző-értékelő tevékenységet végez, amely kiterjed az együttműködő szervek hatáskörébe és illetékességébe utalt valamennyi információra, valamint az 52/A. § (3) bekezdése szerinti megállapodásban meghatározott körben az ügyészség által folytatott titkos információgyűjtés, leplezetteszköz-alkalmazás, továbbá az NVVH által folytatott leplezetteszköz-alkalmazás, illetve a büntetőeljárásról szóló törvényben meghatározott előkészítő eljárás és nyomozás keretében kezelt adatra, információra.
 
 (2)
 
@@ -213,7 +213,7 @@ bűncselekményekre vonatkozóan, felderíti továbbá mindazon bűncselekménye
 
 (5) Az együttműködő szerv a Nemzeti Információs Központ (3) és (4) bekezdésben meghatározott megkeresését köteles a Nemzeti Információs Központ által meghatározott határidőben teljesíteni. Az együttműködő szerv a teljesítés akadályáról, valamint ennek okáról a Nemzeti Információs Központot a megkeresés megérkezését követő 24 órán belül tájékoztatja.
 
-(6) Az (1) bekezdés e) pontjában meghatározott esetben, ha a párhuzamos adatkezelést végző egyik szerv az ügyészség, a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve, az Információs Hivatal vagy a Katonai Nemzetbiztonsági Szolgálat, akkor a Nemzeti Információs Központ a párhuzamos adatkezelésről csak a legfőbb ügyész, illetve a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve, az Információs Hivatal, vagy a Katonai Nemzetbiztonsági Szolgálat főigazgatójának hozzájárulásával tájékoztathatja a másik együttműködő szervet.
+(6) Az (1) bekezdés e) pontjában meghatározott esetben, ha a párhuzamos adatkezelést végző egyik szerv az ügyészség, az NVVH, a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve, az Információs Hivatal vagy a Katonai Nemzetbiztonsági Szolgálat, akkor a Nemzeti Információs Központ a párhuzamos adatkezelésről csak a legfőbb ügyész, az NVVH törvény szerint kijelölt vezetője, illetve a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve, az Információs Hivatal, vagy a Katonai Nemzetbiztonsági Szolgálat főigazgatójának hozzájárulásával tájékoztathatja a másik együttműködő szervet.
 
 (7) A Nemzeti Információs Központ ellátja a belső biztonsági és bűnmegelőzési célú ellenőrzési feladatokat, továbbá a kifogástalan életvitel ellenőrzését
 
@@ -876,7 +876,7 @@ kapcsolatos adatok.
 
 (2)
 
-(3) A Nemzeti Információs Központ és a Legfőbb Ügyészség megállapodásban rögzíti a megállapodás megkötését követően indult, az ügyészség és az együttműködő szervek által párhuzamosan folytatott titkos információgyűjtések, leplezett eszköz-alkalmazások, illetve a büntetőeljárásról szóló törvényben meghatározott előkészítő eljárások és nyomozások Nemzeti Információs Központ általi feltárása, illetve ezen tevékenységek támogatása érdekében elektronikus úton átadható adatok, tájékoztatás, illetve iratok körét, valamint az adatszolgáltatás részletes rendjét.
+(3) A Nemzeti Információs Központ és a Legfőbb Ügyészség, illetve az NVVH megállapodásban rögzíti a megállapodás megkötését követően indult, az ügyészség és az együttműködő szervek által párhuzamosan folytatott titkos információgyűjtések, leplezett eszköz-alkalmazások, illetve a büntetőeljárásról szóló törvényben meghatározott előkészítő eljárások és nyomozások Nemzeti Információs Központ általi feltárása, illetve ezen tevékenységek támogatása érdekében elektronikus úton átadható adatok, tájékoztatás, illetve iratok körét, valamint az adatszolgáltatás részletes rendjét.
 
 52/B. § (1) A Nemzeti Információs Központ az együttműködő szerv által kezelt, a Nemzeti Információs Központ 8/A. § (1) bekezdésében meghatározott feladat- és hatáskörének gyakorlásához szükséges adatot
 
@@ -1007,7 +1007,7 @@ indokolt megkeresése alapján csak akkor adhatja át a teljes – személyazono
 
 (2) A büntetőeljárás során eljáró bíróság megkeresése esetén az ügyészség engedélyét nem kell kérni, az utasadat-információs egység az 52/K. §-ban meghatározott feltételek esetén átadja a teljes – személyazonosításra alkalmas adatokat is tartalmazó – légiutas-adatot.
 
-(3) Az engedélyezésről a legfőbb ügyész által kijelölt ügyészi szerv dönt.
+(3) Az engedélyezésről a legfőbb ügyész által kijelölt ügyészi szerv vagy NVVH eljárása során az NVVH dönt.
 
 (4) Az (1) bekezdésben meghatározott megkeresés esetén a megkeresésben kért, az adatelemek elrejtésével személyazonosításra alkalmatlanná tett légiutas-adatokat az utasadat-információs egység az engedélyezés érdekében, ideiglenesen személyazonosításra újból alkalmassá teszi.
 
@@ -1155,6 +1155,8 @@ Katonai Nemzetbiztonsági Szolgálat és – a 8. § (1) bekezdésének f) pontj
 
 (7) A bírói engedélyhez kötött eszköz alkalmazásának tényét igazoló, a büntetőeljárásról szóló 2017. évi XC. törvény (a továbbiakban: Be.) 257. § (2) bekezdése szerinti igazolás beszerzéséről a titkos információgyűjtést folytató szerv vezetője a büntetőeljárás kezdeményezését megelőzően gondoskodik. A törvényszék elnöke a Be. 257. § (2) bekezdése szerinti igazolást az erre irányuló kérelem érkezésétől számított három munkanapon belül állítja ki, amelyet a titkos információgyűjtést folytató szerv vezetője megküld a büntetőeljárás megindítására jogosult szervnek.
 
+(8) Ha a bírói engedélyhez kötött eszköz alkalmazása során olyan adat keletkezik, amely alapján a Be. 817/A. § (1) bekezdése szerinti, közhatalom gyakorlásával vagy közvagyon kezelésével kapcsolatos kiemelt bűncselekmény miatt büntetőeljárás megindításának lehet helye, a titkos információgyűjtést folytató szerv vezetője a büntetőeljárásban felhasználni kívánt adat megszerzését követő nyolc napon belül a büntetőeljárás megindítását az NVVH-nál kezdeményezi.
+
 ### Kivételes engedélyezés
 
 59. § (1) A nemzetbiztonsági szolgálatok főigazgatói az 56. §-ban felsorolt titkos információgyűjtés folytatását legfeljebb az engedélyező döntéséig engedélyezhetik, ha a titkos információgyűjtés külső engedélyeztetése olyan késedelemmel járna, amely az adott ügyben nyilvánvalóan sértené a nemzetbiztonsági szolgálat eredményes működéséhez fűződő érdeket.
@@ -1295,8 +1297,9 @@ jogosult.
 - f) a legfőbb ügyész,
 - g) az alapvető jogok biztosa és helyettesei,
 - h) a Nemzeti Adatvédelmi és Információszabadság Hatóság elnöke,
-- i) az Európai Parlament Magyarországon megválasztott képviselője és – e törvény eltérő rendelkezése hiányában – az országgyűlési képviselő, valamint
+- i) az Európai Parlament Magyarországon megválasztott képviselője és – e törvény eltérő rendelkezése hiányában – az országgyűlési képviselő,
 - j) a nemzetiségi szószóló
+- k) az NVVH elnöke, elnökhelyettesei
 
 nemzetbiztonsági ellenőrzését.
 
@@ -1717,6 +1720,7 @@ rendeletben előírhatja.
   - ip) a telephely biztonsági tanúsítvány kiadására irányuló eljárást kezdeményező vagy telephely biztonsági tanúsítvánnyal rendelkező gazdálkodó szervezet ügyvezetését ellátó valamennyi személy, a cégvezető, a gazdálkodó szervezet legalább 5%-ot meghaladó vagyoni hozzájárulással rendelkező tagja, részvényese, alapítvány esetén az alapítói jogokat gyakorló természetes személy, a kijelölésre kerülő biztonsági vezető, valamint a titkos ügykezelő, a rendszerbiztonsági felügyelő, a rendszeradminisztrátor, továbbá a minősített szerződés előkészítésében és végrehajtásában érintett valamennyi személy;
   - iq) az egyszerűsített telephely biztonsági tanúsítvány kiadására irányuló eljárást kezdeményező vagy egyszerűsített telephely biztonsági tanúsítvánnyal rendelkező gazdálkodó szervezet ügyvezetését ellátó valamennyi személy, a cégvezető, a gazdálkodó szervezet legalább 5%-ot meghaladó vagyoni hozzájárulással rendelkező tagja, részvényese, alapítvány esetén az alapítói jogokat gyakorló természetes személy, a kijelölésre kerülő biztonsági vezető, valamint a minősített szerződés előkészítésében és végrehajtásában érintett valamennyi személy;
   - ir) a Minősített Iratok Felülvizsgálatát Segítő Tanácsadó Bizottság elnöke, tagja.
+  - is) az NVVH teljes személyi állománya;
 - j) elemző-értékelő tevékenység: a nemzetbiztonsági szolgálat birtokába került adatnak a nemzetbiztonság, illetve Magyarország szuverenitásának védelme, bűncselekmény elkövetésének megelőzése, felderítése, megszakítása, az elkövető kilétének megállapítása, elfogása, körözött személy felkutatása, tartózkodási helyének megállapítása, bizonyítékok megszerzése céljából történő feldolgozása, a feldolgozott adatból következtetések levonása;
 - k) együttműködő szervek: a 30/A. §-ban meghatározott szervek;
 - l) légiutas-adat: a légiközlekedésről szóló törvényben meghatározott, az utastól vagy megbízottjától, illetve a személyszállítást végző légifuvarozó megbízásából jegyértékesítést végző szolgáltatótól származó adat;
@@ -1895,26 +1899,27 @@ rendeletben előírhatja.
 
 ### 1. számú melléklet az 1995. évi CXXV. törvényhez
 
-A védelem alá eső tisztségek:
+#### A védelem alá eső személyek
 
-- 1. a köztársasági elnök,
-- 2. a miniszterelnök,
-- 3. az Országgyűlés elnöke, alelnökei,
-- 4. az Alkotmánybíróság elnöke és tagjai,
-- 5. a Kúria elnöke és elnökhelyettesei,
-- 6. a miniszterek,
-- 7. a legfőbb ügyész és helyettesei,
-- 8. az Állami Számvevőszék elnöke és alelnökei,
-- 9. az alapvető jogok biztosa és helyettese,
-- 10. az Országgyűlés Nemzetbiztonsági és Honvédelmi Bizottságának tagjai,
-- 11. a titkos információgyűjtést engedélyező bírók,
-- 12. a legfőbb ügyész által az 55. § alapján kijelölt ügyész,
-- 13. a Magyar Nemzeti Bank elnöke és alelnökei,
-- 14. a Gazdasági Versenyhivatal elnöke és elnökhelyettesei
-- 15. a Nemzeti Adatvédelmi és Információszabadság Hatóság elnöke és elnökhelyettese
-- 16. a Honvéd Vezérkar főnöke,
-- 17. a nemzetbiztonsági szolgálatok felügyeletével, illetve tevékenységük összehangolásával kapcsolatos feladatokat ellátó politikai és szakmai felsővezetők,
-- 18. a miniszteri kabinetet vezető kabinetfőnökök.
+- 1. a köztársasági elnök
+- 2. a miniszterelnök
+- 3. az Országgyűlés elnöke és alelnökei
+- 4. az Alkotmánybíróság elnöke és tagjai
+- 5. a Kúria elnöke és elnökhelyettesei
+- 6. a miniszterek
+- 7. a legfőbb ügyész és helyettesei
+- 8. az NVVH elnöke és elnökhelyettesei
+- 9. az Állami Számvevőszék elnöke és alelnökei
+- 10. az alapvető jogok biztosa és helyettesei
+- 11. az Országgyűlés Nemzetbiztonsági és Honvédelmi Bizottságának tagjai
+- 12. a titkos információgyűjtést engedélyező bírók
+- 13. a legfőbb ügyész által az 55. § alapján kijelölt ügyész
+- 14. a Magyar Nemzeti Bank elnöke és alelnökei
+- 15. a Gazdasági Versenyhivatal elnöke és elnökhelyettesei
+- 16. a Nemzeti Adatvédelmi és Információszabadság Hatóság elnöke és elnökhelyettese
+- 17. a Honvéd Vezérkar főnöke
+- 18. a nemzetbiztonsági szolgálatok felügyeletével, illetve tevékenységük összehangolásával kapcsolatos feladatokat ellátó politikai és szakmai felsővezetők
+- 19. a Kormány tagjának kabinetét vezető kabinetfőnök
 
 ### 2. számú melléklet az 1995. évi CXXV. törvényhez
 

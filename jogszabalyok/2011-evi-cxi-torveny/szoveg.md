@@ -222,7 +222,7 @@ a védelmére.
 - e) a Magyar Honvédség,
 - f) rendvédelmi szerv vagy polgári nemzetbiztonsági szolgálat,
 - g) közigazgatási jogkörben eljáró egyéb szerv e jogkörében,
-- h) nyomozó hatóság vagy az ügyészség nyomozást végző szerve,
+- h) nyomozó hatóság, az ügyészség nyomozást végző szerve, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal,
 - i) közjegyző,
 - j)
 - k) önálló bírósági végrehajtó vagy
@@ -251,6 +251,8 @@ A közszolgáltatást végző szerv kizárólag e tevékenységével összefügg
 - f) az ügyészség nyomozást végző szerve kivételével az ügyészség
 
 tevékenységét.
+
+(3a) Az alapvető jogok biztosa nem vizsgálhatja a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal vádképviseleti tevékenységét.
 
 (4) Az alapvető jogok biztosa a hatóságok tevékenysége során felmerült, az alapvető jogokkal kapcsolatos visszásság megszüntetése érdekében hivatalból eljárást folytathat. A hivatalból indított eljárás természetes személyek pontosan meg nem határozható, nagyobb csoportját érintő visszásság kivizsgálására vagy egy alapvető jog érvényesülésének átfogó vizsgálatára irányulhat.
 
@@ -361,13 +363,15 @@ tevékenységét.
 - c) az ügyészség nyomozást végző szervének a titkos információgyűjtés folytatására, illetve a leplezett eszközök alkalmazására feljogosított szervekkel történő együttműködésével kapcsolatos, és az abból származó vagy arra vonatkozó minden, a (2)–(4) bekezdésben a titkos információgyűjtést folytató, illetve leplezett eszközt alkalmazó szervekkel kapcsolatban meghatározott iratba,
 - d) a rendőrséggel titkosan együttműködő magánszemélyek azonosítását lehetővé tevő iratba, kivéve, ha a jogsérelem az együttműködő személyt érte, és a kivizsgálást maga kéri.
 
+(5a) Az (5) bekezdés megfelelően alkalmazandó a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal nyomozási tevékenységét érintő vizsgálatra.
+
 (6) Az alapvető jogok biztosa a Nemzeti Biztonsági Felügyeletnek a minősített adat védelméről szóló törvényben meghatározott feladatait érintő vizsgálata során nem tekinthet be a rejtjeltevékenység szakirányításával és hatósági engedélyezésével, felügyeletével kapcsolatos iratba.
 
 (7) Ha az alapvető jogok biztosa az ügy teljes körű feltárása érdekében az (1)–(6) bekezdésben meghatározott iratok megvizsgálását is szükségesnek tartja, a feladatkörrel rendelkező minisztertől kérheti azok megvizsgálását. A feladatkörrel rendelkező miniszter köteles az alapvető jogok biztosa által megkívánt vizsgálatot elvégezni vagy elvégeztetni, és a vizsgálat eredményéről az alapvető jogok biztosát az általa megállapított határidőn belül tájékoztatni. A határidő nem lehet rövidebb harminc napnál.
 
 24. § (1) Ha alappal tehető fel, hogy az alapvető jogok biztosa intézkedésének késedelme esetén természetes személyek nagyobb csoportjának alapvető jogai súlyosan sérülnének, az alapvető jogok biztosának a felhatalmazása alapján vizsgálatot végző munkatársa a jogsérelem veszélyét a vizsgált hatóság vezetőjének jelezheti, egyidejűleg az alapvető jogok biztosának az intézkedését kezdeményezi. A jelzést az ügyiraton rögzíteni kell.
 
-(2) Ha az alapvető jogok biztosa vizsgálata során olyan körülményt észlel, amelyből a kényszerintézkedés elrendelésének jogszerűtlenségére lehet következtetni, erről a legfőbb ügyész útján haladéktalanul értesíti az ügyészséget. Ha a kényszerintézkedést az ügyészség rendelte el, az alapvető jogok biztosa a bíróságot is értesíti.
+(2) Ha az alapvető jogok biztosa vizsgálata során olyan körülményt észlel, amelyből a kényszerintézkedés elrendelésének jogszerűtlenségére lehet következtetni, erről a legfőbb ügyész útján haladéktalanul értesíti az ügyészséget, illetve a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal által elrendelt kényszerintézkedés esetén a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalt. Ha a kényszerintézkedést az ügyészség vagy a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal rendelte el, az alapvető jogok biztosa a bíróságot is értesíti.
 
 25. § (1) Az alapvető jogok biztosa vizsgálatainak lefolytatása, illetve a vizsgálat megtervezése érdekében a vizsgált hatóság, a vizsgált hatóság vezetője, a vizsgált hatóság felügyeleti szervének vezetője, a kért vizsgálat lefolytatására jogszabály által egyébként feljogosított szerv vezetője, valamint a vizsgált hatóság munkatársa a 21. § (1) bekezdésében meghatározott esetekben az alapvető jogok biztosával együttműködik.
 
@@ -418,6 +422,8 @@ tevékenységét.
 (4) A felügyeleti szerv, illetve az alapvető jogok biztosa további eljárására a 31. § (1)–(3) bekezdésében foglaltak megfelelően irányadóak azzal, hogy az alapvető jogok biztosa arról értesíti a felügyeleti szervet, hogy a kezdeményezést változatlan vagy módosított formában ajánlásként tartja-e fenn.
 
 33. § (1) Az alapvető jogok biztosa a feltárt alapvető joggal összefüggő visszásság orvoslása érdekében a legfőbb ügyész útján kezdeményezheti az ügyész fellépését. Az ügyész a fellépés kezdeményezésével kapcsolatos álláspontjáról, esetleges intézkedéséről hatvan napon belül értesíti az alapvető jogok biztosát.
+
+(1a) Az alapvető jogok biztosa a feltárt alapvető joggal összefüggő visszásság orvoslása érdekében a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal fellépését is kezdeményezheti. A Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal a fellépés kezdeményezésével kapcsolatos álláspontjáról, esetleges intézkedéséről hatvan napon belül értesíti az alapvető jogok biztosát.
 
 (2) Ha az alapvető jogok biztosa vizsgálata során alapvető joggal összefüggő visszásságot nem állapít meg, de jogszabálysértésre utaló körülményt észlel, a beadványt a legfőbb ügyész útján megküldheti az ügyésznek.
 
