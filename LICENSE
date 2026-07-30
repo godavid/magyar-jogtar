@@ -1,0 +1,8 @@
+A magyar jogszabályok szövege a szerzői jogról szóló 1999. évi LXXVI. törvény
+1. § (4) bekezdése alapján nem áll szerzői jogi védelem alatt — közkincs.
+
+A repó saját hozzáadott rétege (könyvtárszerkezet, metaadatok, index-fájlok,
+commit-üzenetek) a CC0 1.0 Universal (közkincsbe adás) alatt áll:
+https://creativecommons.org/publicdomain/zero/1.0/deed.hu
+
+A feldolgozó kód külön repóban él (github.com/godavid/gitjog), MIT licenc alatt.
