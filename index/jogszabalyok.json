@@ -1,0 +1,261 @@
+[
+  {
+    "slug": "magyarorszag-alaptorvenye",
+    "documentId": "2011-4301-02-00",
+    "megjeloles": "Magyarország Alaptörvénye",
+    "cim": "(2011. április 25.)",
+    "rovidites": null
+  },
+  {
+    "slug": "2013-evi-v-torveny-ptk",
+    "documentId": "2013-5-00-00",
+    "megjeloles": "2013. évi V. törvény",
+    "cim": "a Polgári Törvénykönyvről",
+    "rovidites": "Ptk."
+  },
+  {
+    "slug": "2012-evi-c-torveny-btk",
+    "documentId": "2012-100-00-00",
+    "megjeloles": "2012. évi C. törvény",
+    "cim": "a Büntető Törvénykönyvről",
+    "rovidites": "Btk."
+  },
+  {
+    "slug": "2012-evi-i-torveny-mt",
+    "documentId": "2012-1-00-00",
+    "megjeloles": "2012. évi I. törvény",
+    "cim": "a munka törvénykönyvéről",
+    "rovidites": "Mt."
+  },
+  {
+    "slug": "2016-evi-cl-torveny-akr",
+    "documentId": "2016-150-00-00",
+    "megjeloles": "2016. évi CL. törvény",
+    "cim": "az általános közigazgatási rendtartásról",
+    "rovidites": "Ákr."
+  },
+  {
+    "slug": "2016-evi-cxxx-torveny-pp",
+    "documentId": "2016-130-00-00",
+    "megjeloles": "2016. évi CXXX. törvény",
+    "cim": "a polgári perrendtartásról",
+    "rovidites": "Pp."
+  },
+  {
+    "slug": "2017-evi-xc-torveny-be",
+    "documentId": "2017-90-00-00",
+    "megjeloles": "2017. évi XC. törvény",
+    "cim": "a büntetőeljárásról",
+    "rovidites": "Be."
+  },
+  {
+    "slug": "2011-evi-cxii-torveny-infotv",
+    "documentId": "2011-112-00-00",
+    "megjeloles": "2011. évi CXII. törvény",
+    "cim": "az információs önrendelkezési jogról és az információszabadságról",
+    "rovidites": "Infotv."
+  },
+  {
+    "slug": "2017-evi-cl-torveny-art",
+    "documentId": "2017-150-00-00",
+    "megjeloles": "2017. évi CL. törvény",
+    "cim": "az adózás rendjéről",
+    "rovidites": "Art."
+  },
+  {
+    "slug": "2017-evi-cli-torveny-air",
+    "documentId": "2017-151-00-00",
+    "megjeloles": "2017. évi CLI. törvény",
+    "cim": "az adóigazgatási rendtartásról",
+    "rovidites": "Air."
+  },
+  {
+    "slug": "2007-evi-cxxvii-torveny-afa",
+    "documentId": "2007-127-00-00",
+    "megjeloles": "2007. évi CXXVII. törvény",
+    "cim": "az általános forgalmi adóról",
+    "rovidites": "Áfa tv."
+  },
+  {
+    "slug": "1995-evi-cxvii-torveny-szja",
+    "documentId": "1995-117-00-00",
+    "megjeloles": "1995. évi CXVII. törvény",
+    "cim": "a személyi jövedelemadóról",
+    "rovidites": "Szja tv."
+  },
+  {
+    "slug": "1996-evi-lxxxi-torveny-tao",
+    "documentId": "1996-81-00-00",
+    "megjeloles": "1996. évi LXXXI. törvény",
+    "cim": "a társasági adóról és az osztalékadóról",
+    "rovidites": "Tao tv."
+  },
+  {
+    "slug": "2012-evi-cxlvii-torveny-katv",
+    "documentId": "2012-147-00-00",
+    "megjeloles": "2012. évi CXLVII. törvény",
+    "cim": "a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról",
+    "rovidites": "Katv."
+  },
+  {
+    "slug": "1990-evi-xciii-torveny-itv",
+    "documentId": "1990-93-00-00",
+    "megjeloles": "1990. évi XCIII. törvény",
+    "cim": "az illetékekről",
+    "rovidites": "Itv."
+  },
+  {
+    "slug": "2000-evi-c-torveny-szamv",
+    "documentId": "2000-100-00-00",
+    "megjeloles": "2000. évi C. törvény",
+    "cim": "a számvitelről",
+    "rovidites": "Számv. tv."
+  },
+  {
+    "slug": "2006-evi-v-torveny-ctv",
+    "documentId": "2006-5-00-00",
+    "megjeloles": "2006. évi V. törvény",
+    "cim": "a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról",
+    "rovidites": "Ctv."
+  },
+  {
+    "slug": "2013-evi-clxxvii-torveny-ptke",
+    "documentId": "2013-177-00-00",
+    "megjeloles": "2013. évi CLXXVII. törvény",
+    "cim": "a Polgári Törvénykönyvről szóló 2013. évi V. törvény hatálybalépésével összefüggő átmeneti és felhatalmazó rendelkezésekről",
+    "rovidites": "Ptké."
+  },
+  {
+    "slug": "2013-evi-ccxxxvii-torveny-hpt",
+    "documentId": "2013-237-00-00",
+    "megjeloles": "2013. évi CCXXXVII. törvény",
+    "cim": "a hitelintézetekről és a pénzügyi vállalkozásokról",
+    "rovidites": "Hpt."
+  },
+  {
+    "slug": "2015-evi-cxliii-torveny-kbt",
+    "documentId": "2015-143-00-00",
+    "megjeloles": "2015. évi CXLIII. törvény",
+    "cim": "a közbeszerzésekről",
+    "rovidites": "Kbt."
+  },
+  {
+    "slug": "1997-evi-clv-torveny-fgytv",
+    "documentId": "1997-155-00-00",
+    "megjeloles": "1997. évi CLV. törvény",
+    "cim": "a fogyasztóvédelemről",
+    "rovidites": "Fgytv."
+  },
+  {
+    "slug": "1994-evi-liii-torveny-vht",
+    "documentId": "1994-53-00-00",
+    "megjeloles": "1994. évi LIII. törvény",
+    "cim": "a bírósági végrehajtásról",
+    "rovidites": "Vht."
+  },
+  {
+    "slug": "2011-evi-cxcv-torveny-aht",
+    "documentId": "2011-195-00-00",
+    "megjeloles": "2011. évi CXCV. törvény",
+    "cim": "az államháztartásról",
+    "rovidites": "Áht."
+  },
+  {
+    "slug": "2011-evi-clxxxix-torveny-motv",
+    "documentId": "2011-189-00-00",
+    "megjeloles": "2011. évi CLXXXIX. törvény",
+    "cim": "Magyarország helyi önkormányzatairól",
+    "rovidites": "Mötv."
+  },
+  {
+    "slug": "2011-evi-cxc-torveny-nkt",
+    "documentId": "2011-190-00-00",
+    "megjeloles": "2011. évi CXC. törvény",
+    "cim": "a nemzeti köznevelésről",
+    "rovidites": "Nkt."
+  },
+  {
+    "slug": "2011-evi-cciv-torveny-nftv",
+    "documentId": "2011-204-00-00",
+    "megjeloles": "2011. évi CCIV. törvény",
+    "cim": "a nemzeti felsőoktatásról",
+    "rovidites": "Nftv."
+  },
+  {
+    "slug": "1997-evi-cliv-torveny-eutv",
+    "documentId": "1997-154-00-00",
+    "megjeloles": "1997. évi CLIV. törvény",
+    "cim": "az egészségügyről",
+    "rovidites": "Eütv."
+  },
+  {
+    "slug": "2019-evi-cxxii-torveny-tbj",
+    "documentId": "2019-122-00-00",
+    "megjeloles": "2019. évi CXXII. törvény",
+    "cim": "a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről",
+    "rovidites": "Tbj."
+  },
+  {
+    "slug": "1997-evi-lxxxi-torveny-tny",
+    "documentId": "1997-81-00-00",
+    "megjeloles": "1997. évi LXXXI. törvény",
+    "cim": "a társadalombiztosítási nyugellátásról",
+    "rovidites": "Tny."
+  },
+  {
+    "slug": "1998-evi-lxxxiv-torveny-cst",
+    "documentId": "1998-84-00-00",
+    "megjeloles": "1998. évi LXXXIV. törvény",
+    "cim": "a családok támogatásáról",
+    "rovidites": "Cst."
+  },
+  {
+    "slug": "1993-evi-iii-torveny-szoctv",
+    "documentId": "1993-3-00-00",
+    "megjeloles": "1993. évi III. törvény",
+    "cim": "a szociális igazgatásról és szociális ellátásokról",
+    "rovidites": "Szoctv."
+  },
+  {
+    "slug": "2012-evi-ii-torveny-szabstv",
+    "documentId": "2012-2-00-00",
+    "megjeloles": "2012. évi II. törvény",
+    "cim": "a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről",
+    "rovidites": "Szabs. tv."
+  },
+  {
+    "slug": "1988-evi-i-torveny-kkt",
+    "documentId": "1988-1-00-00",
+    "megjeloles": "1988. évi I. törvény",
+    "cim": "a közúti közlekedésről",
+    "rovidites": "Kkt."
+  },
+  {
+    "slug": "1993-evi-lxxviii-torveny-lakastv",
+    "documentId": "1993-78-00-00",
+    "megjeloles": "1993. évi LXXVIII. törvény",
+    "cim": "a lakások és helyiségek bérletére, valamint az elidegenítésükre vonatkozó egyes szabályokról",
+    "rovidites": "Lakástv."
+  },
+  {
+    "slug": "2013-evi-cxxii-torveny-foldforgalmi",
+    "documentId": "2013-122-00-00",
+    "megjeloles": "2013. évi CXXII. törvény",
+    "cim": "a mező- és erdőgazdasági földek forgalmáról",
+    "rovidites": "Földforgalmi tv."
+  },
+  {
+    "slug": "2011-evi-clxxv-torveny-civiltv",
+    "documentId": "2011-175-00-00",
+    "megjeloles": "2011. évi CLXXV. törvény",
+    "cim": "az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról",
+    "rovidites": "Civil tv."
+  },
+  {
+    "slug": "2003-evi-cxxv-torveny-ebktv",
+    "documentId": "2003-125-00-00",
+    "megjeloles": "2003. évi CXXV. törvény",
+    "cim": "az egyenlő bánásmódról és az esélyegyenlőség előmozdításáról",
+    "rovidites": "Ebktv."
+  }
+]
