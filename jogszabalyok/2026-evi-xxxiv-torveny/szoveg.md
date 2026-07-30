@@ -725,7 +725,7 @@ kell érteni.
 
 #### 35. A köziratokról, a közlevéltárakról és a magánlevéltári anyag védelméről szóló 1995. évi LXVI. törvény módosítása
 
-88. § A köziratokról, a közlevéltárakról és a magánlevéltári anyag védelméről szóló 1995. évi LXVI. törvény 17. § (1a) bekezdés a) pontjában az „Ügyészség, az” szövegrész helyébe az „Ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, az” szöveg lép.
+#### 88. §
 
 #### 36.
 
@@ -737,46 +737,17 @@ kell érteni.
 
 #### 38. A nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény módosítása
 
-91. § A nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 58. §-a a következő (8) bekezdéssel egészül ki:
+#### 91. §
 
-„(8) Ha a bírói engedélyhez kötött eszköz alkalmazása során olyan adat keletkezik, amely alapján a Be. 817/A. § (1) bekezdése szerinti, közhatalom gyakorlásával vagy közvagyon kezelésével kapcsolatos kiemelt bűncselekmény miatt büntetőeljárás megindításának lehet helye, a titkos információgyűjtést folytató szerv vezetője a büntetőeljárásban felhasználni kívánt adat megszerzését követő nyolc napon belül a büntetőeljárás megindítását az NVVH-nál kezdeményezi.”
+#### 92. §
 
-92. § A nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 70. § (4) bekezdése a következő k) ponttal egészül ki:
+#### 93. §
 
-(Nem kell kezdeményezni)
+#### 94. §
 
-„k) az NVVH elnöke, elnökhelyettesei”
+#### 95. §
 
-(nemzetbiztonsági ellenőrzését.)
-
-93. § A nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 74. § i) pontja a következő is) alponttal egészül ki:
-
-(E törvény alkalmazásában
-
-nemzetbiztonsági ellenőrzés alá eső személy:)
-
-  - „is) az NVVH teljes személyi állománya;”
-
-94. § A nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 1. számú melléklete helyébe az 1. melléklet lép.
-
-95. § A nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény
-
-- a) 5/B. § (3) bekezdésében a „vagy ügyészségnél” szövegrész helyébe az „ , ügyészségnél vagy a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalnál (a továbbiakban: NVVH)” szöveg,
-- b) 5/B. § (4) bekezdésében az „ügyészségnél, nyomozó” szövegrész helyébe az „ügyészségnél, NVVH-nál, nyomozó” szöveg,
-- c) 8. § (1) bekezdés h) pontjában az „ügyészség, a” szövegrész helyébe az „ügyészség, az NVVH, a” szöveg,
-- d) 8/A. § (1) bekezdés b) pontjában a „szervek és” szövegrész helyébe a „szervek, az ügyészség és” szöveg és az „ügyészség” szövegrész helyébe a „NVVH” szöveg,
-- e) 8/A. § (1) bekezdés c) pontjában a „leplezetteszköz-alkalmazás, illetve” szövegrész helyébe a „leplezetteszköz-alkalmazás, továbbá az NVVH által folytatott leplezetteszköz-alkalmazás, illetve” szöveg,
-- f) 8/A. § (1) bekezdés d) pontjában a „szerveket és” szövegrész helyébe a „szerveket, az ügyészséget és” szöveg és az „ügyészséget” szövegrész helyébe a „NVVH-t” szöveg,
-- g) 8/A. § (1) bekezdés e) pontjában az „ügyészség által” szövegrész helyébe az „ügyészség, illetve az NVVH által” szöveg és az „ügyészséget, illetve” szövegrész helyébe az „ügyészséget, az NVVH-t, illetve” szöveg,
-- h) 8/A. § (1) bekezdés f) pontjában az „ügyészség eljárását” szövegrész helyébe az „ügyészség, illetve az NVVH eljárását” szöveg,
-- i) 8/A. § (1) bekezdés k) pontjában az „illetve” szövegrész helyébe a „továbbá az NVVH által folytatott leplezetteszköz-alkalmazás, illetve a” szöveg,
-- j) 8/A. § (6) bekezdésében az „ügyészség, a” szövegrész helyébe az „ügyészség, az NVVH, a” szöveg és a „legfőbb ügyész, illetve” szövegrész helyébe a „legfőbb ügyész, az NVVH törvény szerint kijelölt vezetője, illetve” szöveg,
-- k) 52/A. § (3) bekezdésében az „Ügyészség megállapodásban” szövegrész helyébe az „Ügyészség, illetve az NVVH megállapodásban” szöveg,
-- l) 52/L. § (3) bekezdésében a „szerv dönt” szövegrész helyébe a „szerv vagy NVVH eljárása során az NVVH dönt” szöveg
-
-lép.
-
-96. § Hatályát veszti a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 70. § (4) bekezdés i) pontjában a „valamint” szövegrész.
+#### 96. §
 
 #### 39.
 
@@ -834,21 +805,7 @@ lép.
 
 #### 52. A külföldre utazásról szóló 1998. évi XII. törvény módosítása
 
-111. § A külföldre utazásról szóló 1998. évi XII. törvény
-
-- a) 12. § (1) bekezdés c) pontjában a „helyettesei, az” szövegrész helyébe a „helyettesei, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH) elnöke és elnökhelyettesei, az” szöveg,
-- b) 14. § (1) bekezdés a) pontjában a „Számvevőszéknél, a” szövegrész helyébe a „Számvevőszéknél, az NVVH-nál, a” szöveg,
-- c) 16. § (3) bekezdésében az „ügyészség a” szövegrész helyébe az „ügyészség vagy az NVVH a” szöveg,
-- d) 16. § (4) bekezdésében az „ügyészség vagy” szövegrész helyébe az „ügyészség, az NVVH, vagy” szöveg,
-- e) 16/C. § (1) bekezdésében az „ügyészség az” szövegrész helyébe az „ügyészség vagy az NVVH az” szöveg,
-- f) 16/C. § (2) bekezdésében az „ügyészség az” szövegrész helyébe az „ügyészség vagy az NVVH az” szöveg,
-- g) 16/C. § (3) bekezdésében az „ügyészség a” szövegrész helyébe az „ügyészség vagy az NVVH a” szöveg,
-- h) 16/C. § (4) bekezdésében az „ügyészség a” szövegrész helyébe az „ügyészség vagy az NVVH a” szöveg,
-- i) 23. § (1) bekezdésében az „ügyészség a” szövegrész helyébe az „ügyészség, az NVVH, a” szöveg,
-- j) 27. § (1) bekezdésében az „ügyészségnek, a” szövegrész helyébe az „ügyészségnek, az NVVH-nak, a” szöveg,
-- k) 29. § (2) bekezdésében az „ügyészség, a” szövegrész helyébe az „ügyészség, az NVVH, a” szöveg
-
-lép.
+#### 111. §
 
 #### 53.
 
@@ -916,7 +873,7 @@ lép.
 
 #### 69. Az egyenlő bánásmódról és az esélyegyenlőség előmozdításáról szóló 2003. évi CXXV. törvény módosítása
 
-128. § Az egyenlő bánásmódról és az esélyegyenlőség előmozdításáról szóló 2003. évi CXXV. törvény 14. § (3) bekezdésében a „Számvevőszék, valamint” szövegrész helyébe a „Számvevőszék, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, valamint” szöveg lép.
+#### 128. §
 
 #### 70.
 
@@ -932,11 +889,7 @@ lép.
 
 #### 73. Az Európai Parlament magyarországi képviselőinek jogállásáról szóló 2004. évi LVII. törvény módosítása
 
-132. § Az Európai Parlament magyarországi képviselőinek jogállásáról szóló 2004. évi LVII. törvény 8. § (2) bekezdése a következő n) ponttal egészül ki:
-
-(Az európai parlamenti képviselő nem lehet továbbá)
-
-„n) a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal elnöke és elnökhelyettese.”
+#### 132. §
 
 #### 74.
 
@@ -1046,25 +999,11 @@ lép.
 
 #### 96. A minősített adat védelméről szóló 2009. évi CLV. törvény módosítása
 
-164. § (1) A minősített adat védelméről szóló 2009. évi CLV. törvény 4. § (1) bekezdése a következő w) ponttal egészül ki:
+#### 164. §
 
-(Feladat- és hatáskörében minősítésre jogosult)
+#### 165. §
 
-„w) a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal elnöke.”
-
-(2) A minősített adat védelméről szóló 2009. évi CLV. törvény 4. §-a a következő (3a) bekezdéssel egészül ki:
-
-„(3a) A törvényben meghatározott feladatkörében a (3) bekezdés szerinti jogosítvány a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal elnökét is megilleti.”
-
-165. § A minősített adat védelméről szóló 2009. évi CLV. törvény 13. § (3) bekezdése a következő j) ponttal egészül ki:
-
-(Állami vagy közfeladata ellátásához)
-
-„j) a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal elnöke, elnökhelyettesei”
-
-[– az Nbtv.-ben meghatározott – nemzetbiztonsági ellenőrzés (a továbbiakban: nemzetbiztonsági ellenőrzés), személyi biztonsági tanúsítvány, valamint titoktartási nyilatkozat nélkül jogosult a feladat- és hatáskörébe tartozó minősített adatra vonatkozó állami vagy közfeladat végrehajtása érdekében történő ügyintézésre, feldolgozásra, valamint a minősített adat nyilvántartásával kapcsolatos valamennyi tevékenységre.]
-
-166. § Hatályát veszti a minősített adat védelméről szóló 2009. évi CLV. törvény 4. § (1) bekezdés u) pontjában az „és” szövegrész.
+#### 166. §
 
 #### 97.
 
@@ -1082,29 +1021,13 @@ lép.
 
 #### 100. A jogalkotásról szóló 2010. évi CXXX. törvény módosítása
 
-171. § A jogalkotásról szóló 2010. évi CXXX. törvény 23. § (4) bekezdése helyébe a következő rendelkezés lép:
+#### 171. §
 
-„(4) Normatív utasításban szabályozhatja
-
-- a) a köztársasági elnök,
-- b) a miniszterelnök,
-- c) az (1) bekezdés b) pontja szerinti központi államigazgatási szerv kivételével a központi államigazgatási szerv vezetője,
-- d) az Országos Bírósági Hivatal elnöke,
-- e) a legfőbb ügyész,
-- f) a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal elnöke,
-- g) az alapvető jogok biztosa,
-- h) a Magyar Nemzeti Bank elnöke,
-- i) az Állami Számvevőszék elnöke,
-- j) a fővárosi és vármegyei kormányhivatal vezetője, valamint
-- k) a polgármester, a főpolgármester, a vármegyei közgyűlés elnöke (a továbbiakban együtt: polgármester) és a jegyző
-
-a vezetése, az irányítása vagy a felügyelete alá tartozó szervek szervezetét és működését, valamint tevékenységét.”
-
-172. § A jogalkotásról szóló 2010. évi CXXX. törvény 28/B. § (1) bekezdés a) pontjában az „a)–h)” szövegrész helyébe az „a)–i)” szöveg lép.
+#### 172. §
 
 #### 101. A médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény módosítása
 
-173. § A médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény 43. § (2) bekezdés b) pontjában az „a közigazgatási” szövegrész helyébe az „a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal elnöke, elnökhelyettese, személyi állományának tagja, a közigazgatási” szöveg lép.
+#### 173. §
 
 #### 102.
 
@@ -1120,43 +1043,21 @@ a vezetése, az irányítása vagy a felügyelete alá tartozó szervek szerveze
 
 #### 105. A Magyar Művészeti Akadémiáról szóló 2011. évi CIX. törvény módosítása
 
-177. § A Magyar Művészeti Akadémiáról szóló 2011. évi CIX. törvény 28/C. § (3) bekezdésében a „helyettese, az” szövegrész helyébe a „helyettese, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal elnöke és elnökhelyettesei, az” szöveg lép.
+#### 177. §
 
 #### 106. Az alapvető jogok biztosáról szóló 2011. évi CXI. törvény módosítása
 
-178. § (1) Az alapvető jogok biztosáról szóló 2011. évi CXI. törvény 18. § (1) bekezdés h) pontja helyébe a következő rendelkezés lép:
+#### 178. §
 
-(Az alapvető jogok biztosához bárki fordulhat, ha megítélése szerint)
+#### 179. §
 
-„h) nyomozó hatóság, az ügyészség nyomozást végző szerve, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal,”
+#### 180. §
 
-[(a továbbiakban együtt: hatóság) tevékenysége vagy mulasztása a beadványt tevő személy alapvető jogát sérti vagy annak közvetlen veszélyével jár (a továbbiakban együtt: visszásság), feltéve, hogy a rendelkezésre álló közigazgatási jogorvoslati lehetőségeket – ide nem értve a közigazgatási pert – már kimerítette, vagy jogorvoslati lehetőség nincs számára biztosítva.]
-
-(2) Az alapvető jogok biztosáról szóló 2011. évi CXI. törvény 18. §-a a következő (3a) bekezdéssel egészül ki:
-
-„(3a) Az alapvető jogok biztosa nem vizsgálhatja a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal vádképviseleti tevékenységét.”
-
-179. § Az alapvető jogok biztosáról szóló 2011. évi CXI. törvény 23. §-a a következő (5a) bekezdéssel egészül ki:
-
-„(5a) Az (5) bekezdés megfelelően alkalmazandó a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal nyomozási tevékenységét érintő vizsgálatra.”
-
-180. § Az alapvető jogok biztosáról szóló 2011. évi CXI. törvény 24. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Ha az alapvető jogok biztosa vizsgálata során olyan körülményt észlel, amelyből a kényszerintézkedés elrendelésének jogszerűtlenségére lehet következtetni, erről a legfőbb ügyész útján haladéktalanul értesíti az ügyészséget, illetve a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal által elrendelt kényszerintézkedés esetén a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalt. Ha a kényszerintézkedést az ügyészség vagy a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal rendelte el, az alapvető jogok biztosa a bíróságot is értesíti.”
-
-181. § Az alapvető jogok biztosáról szóló 2011. évi CXI. törvény 33. §-a a következő (1a) bekezdéssel egészül ki:
-
-„(1a) Az alapvető jogok biztosa a feltárt alapvető joggal összefüggő visszásság orvoslása érdekében a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal fellépését is kezdeményezheti. A Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal a fellépés kezdeményezésével kapcsolatos álláspontjáról, esetleges intézkedéséről hatvan napon belül értesíti az alapvető jogok biztosát.”
+#### 181. §
 
 #### 107. Az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény módosítása
 
-182. § Az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény
-
-- a) 33. § (2) bekezdés a) pontjában az „Ügyészség,” szövegrész helyébe az „Ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal,” szöveg,
-- b) 61. § (7) bekezdésében az „ügyészség vagy a más” szövegrész helyébe az „ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal vagy a más” szöveg és az „a nyomozó” szövegrész helyébe az „a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal vagy a nyomozó” szöveg,
-- c) 61/C. § (3) bekezdés b) pontjában az „ügyészség vagy” szövegrész helyébe az „ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal vagy” szöveg
-
-lép.
+#### 182. §
 
 #### 108.
 
@@ -1168,19 +1069,13 @@ lép.
 
 #### 110. Az Alkotmánybíróságról szóló 2011. évi CLI. törvény módosítása
 
-185. § Az Alkotmánybíróságról szóló 2011. évi CLI. törvény 14. § (4) bekezdése helyébe a következő rendelkezés lép:
+#### 185. §
 
-„(4) A mentelmi jog felfüggesztésére irányuló indítványt a vádemelés előtt a legfőbb ügyész, illetve a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, a vádemelés után, illetve magánvádas vagy pótmagánvádas eljárásban a bíróság terjeszti elő az elnökhöz. Az indítványt az Alkotmánybíróság tagjának tettenérése esetén haladéktalanul elő kell terjeszteni. Szabálysértési ügyben a mentelmi jog felfüggesztésére irányuló indítványt – a szabálysértési hatóság megkeresése alapján – a legfőbb ügyész terjeszti elő az elnökhöz.”
+#### 186. §
 
-186. § Az Alkotmánybíróságról szóló 2011. évi CLI. törvény 26. §-a a következő (4) bekezdéssel egészül ki:
+#### 187. §
 
-„(4) A Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal elnöke az Alkotmánybírósághoz fordulhat a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal részvételével lefolytatott egyedi ügyben alkalmazott jogszabály Alaptörvényben biztosított jogok sérelmét okozó alaptörvény-ellenességének vizsgálata érdekében, ha a jogosult maga nem képes jogainak védelmére, vagy a jogsérelem a személyek nagyobb csoportját érinti.”
-
-187. § Az Alkotmánybíróságról szóló 2011. évi CLI. törvény 32. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Az eljárást az országgyűlési képviselők egynegyede, a Kormány, a Kúria elnöke, a legfőbb ügyész, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal elnöke, valamint az alapvető jogok biztosa indítványozhatja. A bíró – a bírósági eljárás felfüggesztése mellett – az Alkotmánybíróság eljárását kezdeményezi, ha az előtte folyamatban levő egyedi ügy elbírálása során olyan jogszabályt kell alkalmazni, amelynek nemzetközi szerződésbe ütközését észleli.”
-
-188. § Az Alkotmánybíróságról szóló 2011. évi CLI. törvény 45. § (6) bekezdésében az „ügyészség vagy” szövegrész helyébe az „ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal vagy” szöveg lép.
+#### 188. §
 
 #### 111.
 
@@ -1194,68 +1089,19 @@ lép.
 
 #### 113. A legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény módosítása
 
-192. § A legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény 28. § (2) bekezdése helyébe a következő rendelkezés lép:
+#### 192. §
 
-„(2) Az igazságügyért felelős miniszter által vezetett minisztériumba beosztott ügyész (a továbbiakban: minisztériumba beosztott ügyész) megtartja ügyészi tisztségét, de ügyészi jogkört nem gyakorolhat. Ha a minisztériumba beosztott ügyész az ügyészségen vezetői megbízással vagy vezetői kinevezéssel rendelkezik, e vezetői megbízása, illetve kinevezése az igazságügyért felelős minisztériumba történő beosztása kezdőnapját megelőző nappal e törvény erejénél fogva megszűnik. A minisztériumba beosztott ügyész javadalmazására az ügyészre vonatkozó szabályokat kell alkalmazni.”
+#### 193. §
 
-193. § A legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény a következő alcímmel egészül ki:
+#### 194. §
 
-#### „12/A. A Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalba beosztott ügyész
+#### 195. §
 
-29/A. § (1) A Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH) elnöke kezdeményezheti a legfőbb ügyésznél az ügyész beosztását az NVVH-ba.
+#### 196. §
 
-(2) A legfőbb ügyész az ügyészt – hozzájárulása esetén – beosztja az NVVH-ba.
+#### 197. §
 
-(3) Ha az (1) bekezdés szerinti kezdeményezés teljesítése az ügyészség feladatainak ellátását veszélyeztetné, a legfőbb ügyész jelzéssel élhet az NVVH elnöke felé. Ha az NVVH elnöke a kezdeményezést fenntartja, a legfőbb ügyész az ügyészt a (2) bekezdésben foglaltak szerint beosztja az NVVH-ba.
-
-(4) Az NVVH-ba beosztott ügyész (a továbbiakban: NVVH-ba beosztott ügyész) megtartja ügyészi tisztségét, ügyészi jogköröket nem gyakorol, kizárólag az NVVH törvényben meghatározott jogköreit gyakorolhatja. Ha az NVVH-ba beosztott ügyész az ügyészségen vezetői megbízással vagy vezetői kinevezéssel rendelkezik, e vezetői megbízása, illetve kinevezése az NVVH-ba történő beosztása kezdőnapját megelőző nappal e törvény erejénél fogva megszűnik. Az elnökhelyettes beosztott ügyész javadalmazására a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalról szóló törvény rendelkezéseit kell alkalmazni, az egyéb beosztott ügyész javadalmazására az ügyészre vonatkozó szabályokat kell alkalmazni, kivéve, ha a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalról szóló törvény szerint meghatározott javadalmazás kedvezőbb a számára.
-
-(5) Az NVVH-ba beosztott ügyész törvényben meghatározott kivétellel köteles a vezetői intézkedéseket, utasításokat teljesíteni, érvényesülésüket elősegíteni.
-
-(6) Az NVVH-ba beosztott ügyész jogállására a 44–48. §, a 49. § (1) bekezdése, az 55. §, valamint a 79. § rendelkezéseit kell megfelelően alkalmazni.
-
-(7) Az NVVH-ba beosztott ügyész felett a fegyelmi jogkört a legfőbb ügyész gyakorolja a X. fejezet rendelkezései szerint azzal, hogy a fegyelmi eljárás megindítását az NVVH elnöke kezdeményezheti. Ha a fegyelmi eljárás lefolytatása a törvény rendelkezései szerint kötelező, az NVVH elnöke a fegyelmi eljárást kezdeményezi.
-
-29/B. § (1) A legfőbb ügyész az ügyész NVVH-ba való beosztását megszünteti:
-
-- a) az ügyész kérelmére,
-- b) az NVVH elnöke indítványára.
-
-(2) A legfőbb ügyész az ügyész NVVH-ba való beosztását hivatalból nem szüntetheti meg.
-
-(3) Az ügyész a beosztás megszüntetésének közlését követően további 30 napig köteles az NVVH-ban a feladatait ellátni, ettől azonban a felek közös megegyezéssel eltérhetnek.
-
-(4) Az NVVH-ba történt beosztása megszűnését követően az ügyészt tényleges ügyészi álláshelyre kell – pályázat nélkül – kinevezni, az NVVH-ba való beosztását megelőző vagy azzal legalább azonos szintű, lehetőleg az ügyész lakóhelye szerinti, illetve korábbi szolgálati helyével azonos városban lévő szolgálati helyre. Hozzájárulásával az ügyész más szolgálati helyre is kinevezhető.
-
-29/C. § Ha az ügyészt az NVVH elnökhelyettesévé választja meg az Országgyűlés, a megválasztásával az ügyészt a legfőbb ügyész az NVVH-ba beosztja. Az NVVH-ba beosztás kizárólag akkor szűnik meg, ha az ügyész NVVH elnökhelyettesi megbízatása megszűnik. Az NVVH ügyészségi szolgálati viszonyban álló elnökhelyettese jogállására egyebekben ezen alcímet az NVVH-ról szóló törvényben meghatározott eltérésekkel kell alkalmazni.”
-
-194. § A legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény 50. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) A minősítés a munkáltatói jogkör gyakorlójának feladata. A minisztériumba beosztott ügyész hivatali munkáját az igazságügyért felelős miniszter a kormánytisztviselőkre vonatkozó szabályok szerint értékeli. Az NVVH-ba beosztott ügyész munkáját az NVVH elnöke az NVVH személyi állományára vonatkozó szabályok szerint értékeli.”
-
-195. § A legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény 56. §-a a következő (8) bekezdéssel egészül ki:
-
-„(8) Az NVVH-ba beosztott ügyész rendkívüli munkavégzésére az NVVH személyi állományára vonatkozó szabályokat kell alkalmazni.”
-
-196. § (1) A legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény 77. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A minisztériumba beosztott ügyészre és az NVVH-ba beosztott ügyészre – az NVVH elnökhelyettese kivételével – az 57–76. §-ban foglalt rendelkezéseket a (2)–(4) bekezdés szerinti eltéréssel kell alkalmazni. Az NVVH elnökhelyettesére az 57. §-ban, a 64. § (3) bekezdésében, valamint a 70–76. §-ban foglalt rendelkezéseket kell alkalmazni.”
-
-(2) A legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény 77. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) Az igazságügyért felelős miniszter által vezetett minisztériumban és az NVVH-ban szakmai vezetői álláshelyen foglalkoztatott ügyész – a legfőbb ügyészségi ügyész kivételével – vezetői pótlékra a következők szerint jogosult:
-
-- a) a főosztályvezető vezetői pótléka az ügyészi illetményalap száz százaléka,
-- b) az osztályvezető vezetői pótléka az ügyészi illetményalap hatvan százaléka.”
-
-197. § A legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény
-
-- a) 77. § (2) bekezdésében a „minisztériumba beosztott” szövegrészek helyébe a „minisztériumba, valamint az NVVH-ba beosztott” szöveg,
-- b) 77. § (4) bekezdésében a „javaslatára –” szövegrész helyébe a „javaslatára, az NVVH-ba beosztott ügyész esetén az NVVH elnöke javaslatára –” szöveg
-
-lép.
-
-198. § A legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény 107. § (6) bekezdésében a „nyilvántartani.” szövegrész helyébe a „nyilvántartani. Az NVVH-ba beosztott ügyész adatait az NVVH-ban kell nyilvántartani.” szöveg lép.
+#### 198. §
 
 #### 114.
 
@@ -1267,12 +1113,7 @@ lép.
 
 #### 116. A nemzetiségek jogairól szóló 2011. évi CLXXIX. törvény módosítása
 
-201. § A nemzetiségek jogairól szóló 2011. évi CLXXIX. törvény
-
-- a) 106. § (1) bekezdésében a „számvevője, politikai” szövegrész helyébe a „számvevője, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal elnöke, elnökhelyettesei, a politikai” szöveg,
-- b) 106. § (3) bekezdésében a „számvevője, politikai” szövegrész helyébe a „számvevője, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal elnöke, elnökhelyettesei, a politikai” szöveg
-
-lép.
+#### 201. §
 
 #### 117.
 
@@ -1288,12 +1129,7 @@ lép.
 
 #### 120. Az államháztartásról szóló 2011. évi CXCV. törvény módosítása
 
-205. § Az államháztartásról szóló 2011. évi CXCV. törvény
-
-- a) 1. § 11. pontjában az „a Bíróságok” szövegrész helyébe az „a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, a Bíróságok” szöveg,
-- b) 106/D. § (3) bekezdésében a „Számvevőszékkel, önálló” szövegrész helyébe a „Számvevőszékkel, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatallal, önálló” szöveg
-
-lép.
+#### 205. §
 
 #### 121.
 
@@ -1301,13 +1137,7 @@ lép.
 
 #### 122. A Magyarország címerének és zászlajának használatáról, valamint állami kitüntetéseiről szóló 2011. évi CCII. törvény módosítása
 
-207. § A Magyarország címerének és zászlajának használatáról, valamint állami kitüntetéseiről szóló 2011. évi CCII. törvény
-
-- a) 1. § (1) bekezdésében az „a Magyar Nemzeti” szövegrész helyébe az „a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, a Magyar Nemzeti” szöveg,
-- b) 7. § (1) bekezdés c) pontjában a „Hivatal és az ügyészségek,” szövegrész helyébe a „Hivatal, az ügyészségek és a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal,” szöveg,
-- c) 22. § (1) bekezdés a) pontjában az „a legfőbb” szövegrész helyébe az „a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal elnöke, a legfőbb” szöveg
-
-lép.
+#### 207. §
 
 #### 123.
 
@@ -1323,54 +1153,21 @@ lép.
 
 #### 126. Az Országgyűlésről szóló 2012. évi XXXVI. törvény módosítása
 
-211. § Az Országgyűlésről szóló 2012. évi XXXVI. törvény 27/B. §-a helyébe a következő rendelkezés lép:
+#### 211. §
 
-„27/B. § Ha az Alaptörvény, törvény vagy országgyűlési határozat az Országgyűlésnek történő beszámolási vagy jelentéstételi kötelezettséget ír elő, az Országgyűlés a Házbizottság javaslatára – az alapvető jogok biztosa, a legfőbb ügyész, az Állami Számvevőszék elnöke, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal elnöke, a Magyar Nemzeti Bank elnöke beszámolója, a Kormánynak a nemzetiségek helyzetéről és a honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény 6/D. § (1) bekezdése szerinti beszámolója, valamint országgyűlési bizottság jelentése kivételével – a beszámolóról vagy a jelentésről történő határozathozatalra állandó bizottságát felkérheti.”
+#### 212. §
 
-212. § Az Országgyűlésről szóló 2012. évi XXXVI. törvény 29. § (4) bekezdése helyébe a következő rendelkezés lép:
+#### 213. §
 
-„(4) A nemzetiségi szószóló kérdést intézhet a Kormányhoz és a Kormány tagjához, az alapvető jogok biztosához, az Állami Számvevőszék elnökéhez, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal elnökéhez és a legfőbb ügyészhez a feladatkörükbe tartozó, a nemzetiségek érdekeit, jogait érintő ügyben.”
+#### 214. §
 
-213. § Az Országgyűlésről szóló 2012. évi XXXVI. törvény 39. § (1) bekezdése helyébe a következő rendelkezés lép:
+#### 215. §
 
-„(1) A köztársasági elnök, a Kormány tagja, az Alkotmánybíróság elnöke, a Kúria elnöke, a legfőbb ügyész, az alapvető jogok biztosa, az Állami Számvevőszék elnöke, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal elnöke, a központi költségvetésről szóló törvényjavaslat és a központi költségvetés módosításáról szóló törvényjavaslat vitája során a Költségvetési Tanács elnöke, továbbá az általa benyújtott beszámoló országgyűlési vitája során az Országgyűlés előtt beszámolásra kötelezett, valamint európai uniós kérdéssel összefüggő napirend országgyűlési vitája során az Európai Parlament magyarországi képviselője (a továbbiakban együtt: tanácskozási joggal rendelkező személy) részt vehet és – az ülés lefolytatásával kapcsolatos házszabályi rendelkezések keretei között – bármikor felszólalhat az Országgyűlés ülésén.”
+#### 216. §
 
-214. § Az Országgyűlésről szóló 2012. évi XXXVI. törvény 40. § (1) bekezdése helyébe a következő rendelkezés lép:
+#### 217. §
 
-„(1) Az előterjesztő, a köztársasági elnök, a házelnök, az alapvető jogok biztosa, az Állami Számvevőszék elnöke, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal elnöke, a központi költségvetésről szóló törvényjavaslat és a központi költségvetés módosításáról szóló törvényjavaslat tárgyalása során a Költségvetési Tanács elnöke, európai uniós kérdéssel összefüggő napirendi pontként meghatározott indítványok tárgyalása során az Európai Parlament magyarországi képviselője, az adott országgyűlési bizottságban tagsági hellyel nem rendelkező képviselőcsoport vezetője, külön törvényben erre feljogosított személyek, valamint – ha a tárgyalt napirendi pont feladatkörét érinti – a Kormány tagja a 14. § (1) bekezdés a) pontja szerinti bizottság ülésének összehívásával egyidejűleg meghívást kap az ülésre. Az Európai Parlament magyarországi képviselője az európai uniós ügyekkel foglalkozó állandó bizottság valamennyi ülésére meghívást kap.”
-
-215. § Az Országgyűlésről szóló 2012. évi XXXVI. törvény 44. § (1a) bekezdése helyébe a következő rendelkezés lép:
-
-„(1a) Az Országgyűlés a köztársasági elnököt, az Alkotmánybíróság tagját, a Kúria elnökét, az Országos Bírósági Hivatal elnökét, a legfőbb ügyészt, az alapvető jogok biztosát és helyetteseit, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal elnökét és elnökhelyetteseit, valamint az Állami Számvevőszék elnökét titkos szavazással választja meg.”
-
-216. § Az Országgyűlésről szóló 2012. évi XXXVI. törvény 44/A. § (1) bekezdése a következő 8a. ponttal egészül ki:
-
-(A házelnök)
-
-„8a. a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal elnöke és elnökhelyettesei,”
-
-[részére a közjogi tisztség betöltésének igazolása céljából igazolványt (a továbbiakban: közjogi tisztségviselői igazolvány) állít ki.]
-
-217. § (1) Az Országgyűlésről szóló 2012. évi XXXVI. törvény 61/A. § (1) bekezdése a következő l) ponttal egészül ki:
-
-(A képviselők kétharmadának szavazata szükséges)
-
-„l) a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal elnöke, illetve elnökhelyettesei megbízatása megszűnése tekintetében – a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalról szóló törvény szerint – az Országgyűlés feladat- és hatáskörébe tartozó döntéshez.”
-
-(2) Az Országgyűlésről szóló 2012. évi XXXVI. törvény 61/A. § (2) bekezdése a következő t) ponttal egészül ki:
-
-(A jelen lévő képviselők kétharmadának szavazata szükséges)
-
-„t) a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal elnöke, illetve elnökhelyettesei mentelmi jogának felfüggesztéséhez.”
-
-218. § Az Országgyűlésről szóló 2012. évi XXXVI. törvény
-
-- a) 74. § (3) bekezdésében a „legfőbb ügyész” szövegrész helyébe a „legfőbb ügyész vagy az NVVH törvény szerint kijelölt vezetője” szöveg,
-- b) 124/V. § (11) bekezdésében a „bíróság, a” szövegrész helyébe a „Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, a bíróság, a” szöveg,
-- c) 137. § (9) bekezdés záró szövegrészében az „ügyészség, bíróság” szövegrész helyébe az „ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, bíróság” szöveg,
-- d) 137. § (11) bekezdésében az „ügyészség, bíróság” szövegrész helyébe az „ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, bíróság” szöveg
-
-lép.
+#### 218. §
 
 #### 127.
 
@@ -1484,97 +1281,13 @@ lép.
 
 #### 152. A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény módosítása
 
-249. § A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 51. § (3) bekezdése helyébe a következő rendelkezés lép:
+#### 249. §
 
-„(3) Hivatásos szolgálat kormányzati, rendvédelmi érdekből a rendvédelmi szerven kívül a következő szerveknél is teljesíthető:
+#### 250. §
 
-- a) a Nemzeti Közszolgálati Egyetem,
-- b) az ügyészi szervezet,
-- c) az NVVH,
-- d) a (2) bekezdésen kívüli közigazgatási vagy államigazgatási szerv,
-- e) a Sándor-palota,
-- f) a Magyar Honvédség,
-- g) a Nemzeti Közszolgálati Egyetemen kívüli más, állami fenntartású felsőoktatási intézmény,
-- h) tudományos intézmény,
-- i) rendvédelmi célú tevékenységet folytató, állami tulajdonban levő gazdálkodó szerv,
-- j) egészségügyi intézmény,
-- k) a bíróságok igazgatási feladatait ellátó szervezet,
-- l) rendészeti adatfeldolgozást végző szerv
+#### 251. §
 
-[a d)–l) pontban meghatározott szervek a továbbiakban együtt: más szerv].”
-
-250. § A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 52. § (2) bekezdése a következő p) ponttal egészül ki:
-
-(A módosítás esetei különösen:)
-
-„p) vezénylés az NVVH-hoz.”
-
-251. § A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény a következő alcímmel egészül ki:
-
-#### „40/A. Vezénylés az NVVH-hoz
-
-68/A. § (1) A hivatásos állomány tagja közvagyonvédelmi érdekből – beleegyezésével – a miniszter és az NVVH elnökének megállapodása alapján az NVVH-hoz vezényelhető.
-
-(2) A vezénylés határozott vagy határozatlan időre szól.
-
-(3) A hivatásos állomány vezényelt tagja (ezen alcím alkalmazásában a továbbiakban: vezényelt) az NVVH illetékes vezetőjének rendelkezései szerint teljesíti szolgálatát.
-
-(4) A vezényelt illetményére és illetményjellegű juttatásaira az NVVH-nak az ellátott munkakör szerinti foglalkoztatottaira vonatkozó szabályok irányadóak. A vezénylés időtartama alatt a hivatásos állomány tagjának a szolgálati viszonyán alapuló egyéb járandóságait kormányrendeletben foglaltak szerint kell biztosítani.
-
-(5) Az NVVH-nak az ellátott munkakör szerinti foglalkoztatottaira vonatkozó szabályok irányadóak a vezényelt
-
-- a) tevékenységére,
-- b) munkarendjére,
-- c) teljesítményértékelésére, minősítésére,
-- d) pihenőidejére,
-- e) kártérítési felelősségére,
-- f) tekintetében a személyiségi jogi jogsértés jogkövetkezményeire,
-- g) tekintetében az NVVH-nál rendszeresített címek és egyéb elismerések elnyerésére és viselésére.
-
-(6) E törvény szabályait kell alkalmazni
-
-- a) a jubileumi jutalomra,
-- b) a természetbeni juttatásra,
-- c) keresőképtelensége esetén, ekkor a 147. és 148. § szerinti szabályok alkalmazásával jogosult az NVVH elnöke által megállapított illetményre,
-- d) képzésre, továbbképzésre,
-- e) előmenetelre.
-
-(7) A vezényelt fegyelmi felelősségre vonására a rendvédelmi szervnél szolgálatot teljesítő hivatásos állomány tagjára vonatkozó szabályok az irányadóak.
-
-(8) A vezényelt a vezénylés ideje alatt a vezénylést megelőzően viselt rendfokozatának viselésére jogosult.
-
-(9) A vezényelt foglalkoztatásával kapcsolatos költségek – ha jogszabály vagy a miniszter eltérően nem rendelkezik – az NVVH-t terhelik.
-
-(10) A vezénylés megszüntetését a vezényelt, illetve az NVVH elnöke indokolás nélkül kezdeményezheti.
-
-(11) A vezénylés megszüntetését követően a vezényelt részére a rendvédelmi szerv valamely szervezeti egységénél – lehetőség szerint a vezénylést megelőző szolgálati helyen – a végzettségének, képzettségének megfelelő, de legalább a vezénylést megelőző szolgálati beosztásával azonos besorolású szolgálati beosztást kell felajánlani. A felajánlott szolgálati beosztás elfogadásáról vagy elutasításáról a vezényelt a felajánlástól számított öt munkanapon belül írásban nyilatkozik. Ha a vezényelt a szolgálati beosztás elfogadása vonatkozásában öt munkanapon belül nem nyilatkozik, azt úgy kell tekinteni, mintha a felajánlott szolgálati beosztást elutasította volna.
-
-(12) Ha a vezényelt elutasítja a (11) bekezdés szerint felajánlott, végzettségének, képzettségének megfelelő szolgálati beosztást,
-
-- a) azt a szolgálati viszonyról történő lemondásnak kell tekinteni, ha a felajánlott szolgálati beosztás elfogadásával a szolgálatteljesítési hely nem változott volna,
-- b) a szolgálati viszony felmentéssel történő megszüntetésére kell intézkedni, ha a felajánlott szolgálati beosztás elfogadásával a szolgálatteljesítési hely megváltozott volna.
-
-(13) A vezénylés megszüntetését követően az NVVH-nál fennálló korábbi beosztása vagy az NVVH-nál folytatott tevékenysége miatt tilos a vezényelt szolgálati viszonyát megszüntetni vagy vele szemben bármilyen megkülönböztetést alkalmazni.”
-
-252. § A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény
-
-- a) 6. § (3) bekezdés b) pontjában a „Nemzeti Közszolgálati” szövegrész helyébe a „Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalhoz (a továbbiakban: NVVH) vezénylésére, a Nemzeti Közszolgálati” szöveg,
-- b) 107. § (7) bekezdés nyitó szövegrészében az „ügyészség vagy” szövegrész helyébe az „ügyészség, az NVVH vagy” szöveg,
-- c) 123. § (2) bekezdésében az „ügyészség vagy” szövegrész helyébe az „ügyészség, az NVVH vagy” szöveg,
-- d) 181. § (4) bekezdésében az „ügyész, illetve” szövegrész helyébe az „ügyész, az NVVH, illetve” szöveg,
-- e) 232. § (5) bekezdésében az „ügyészség, illetve” szövegrész helyébe az „ügyészség, az NVVH, illetve” szöveg,
-- f) 238. § (1) bekezdésében az „ügyészségnek vagy” szövegrész helyébe az „ügyészségnek, az NVVH-nak vagy” szöveg,
-- g) 255. § (3) bekezdésében az „ügyészségnek vagy” szövegrész helyébe az „ügyészségnek, az NVVH-nak vagy” szöveg,
-- h) 275. § (1) bekezdés h) pontjában az „ügyészség és” szövegrész helyébe az „ügyészség, az NVVH és” szöveg,
-- i) 275. § (2) bekezdés nyitó szövegrészében a „c) pontja” szövegrész helyébe a „d) pontja” szöveg,
-- j) 287/C. § (20) bekezdésében az „ügyészségnek vagy” szövegrész helyébe az „ügyészségnek, az NVVH-nak vagy” szöveg,
-- k) 288/N. § (6) bekezdésében az „ügyészség, valamint” szövegrész helyébe az „ügyészség, az NVVH, valamint” szöveg,
-- l) 319/I. § (11) bekezdésében az „ügyészség vagy” szövegrész helyébe az „ügyészség, NVVH vagy” szöveg,
-- m) 340. § 5. pontjában a „valamint a Nemzeti Közszolgálati Egyetemre vezénylésre vonatkozó” szövegrész helyébe az „a Nemzeti Közszolgálati Egyetemre vezénylésre, valamint az NVVH-hoz vezénylésre vonatkozó” szöveg,
-- n) 1. melléklet 2. pont d) alpontjában az „ügyészség, illetve” szövegrész helyébe az „ügyészség, az NVVH, illetve” szöveg,
-- o) 3. mellékletében az „ügyészség, nyomozó” szövegrész helyébe az „ügyészség, NVVH, nyomozó” szöveg
-
-lép.
+#### 252. §
 
 #### 153.
 
@@ -1588,33 +1301,15 @@ lép.
 
 #### 155. A közbeszerzésekről szóló 2015. évi CXLIII. törvény módosítása
 
-256. § A közbeszerzésekről szóló 2015. évi CXLIII. törvény 25. § (6) bekezdése a következő j) ponttal egészül ki:
+#### 256. §
 
-(A nyilvánosan működő részvénytársaság kivételével összeférhetetlen és nem vehet részt az eljárásban ajánlattevőként, részvételre jelentkezőként, alvállalkozóként vagy az alkalmasság igazolásában részt vevő szervezetként)
+#### 257. §
 
-„j) a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal elnöke és elnökhelyettesei”
+#### 258. §
 
-[tulajdonában, vagy az a)–i) pont szerinti személlyel közös háztartásban élő hozzátartozója tulajdonában álló szervezet.]
+#### 259. §
 
-257. § A közbeszerzésekről szóló 2015. évi CXLIII. törvény 152. § (1) bekezdése a következő p) ponttal egészül ki:
-
-(A Közbeszerzési Döntőbizottság hivatalból indított eljárását a következő szervezetek vagy személyek kezdeményezhetik, ha a feladatkörük ellátása során a közbeszerzésekről szóló törvénybe, illetve a közbeszerzésekről szóló törvény felhatalmazása alapján alkotott rendeletbe ütköző magatartás vagy mulasztás jut tudomásukra:)
-
-„p) a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal.”
-
-258. § A közbeszerzésekről szóló 2015. évi CXLIII. törvény 158. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) Ha a Közbeszerzési Döntőbizottság az eljárás során más jogszabály megsértésére utaló körülményt észlel, köteles azt jelezni a hatáskörrel rendelkező szervnek, így különösen a nyomozó hatóságnak, az ügyészségnek, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalnak, az Állami Számvevőszéknek, a kormányzati ellenőrzési szervnek vagy a Gazdasági Versenyhivatalnak.”
-
-259. § A közbeszerzésekről szóló 2015. évi CXLIII. törvény
-
-- a) 25. § (6) bekezdés i) pontjában az „elnöke” szövegrész helyébe az „elnöke vagy” szöveg,
-- b) 25. § (6) bekezdés záró szövegrészében az „a)–i) pont” szövegrész helyébe az „a)–j) pont” szöveg,
-- c) 46. § (4b) bekezdés b) pontjában az „ügyészségnek és” szövegrész helyébe az „ügyészségnek, Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalnak és” szöveg
-
-lép.
-
-260. § Hatályát veszti a közbeszerzésekről szóló 2015. évi CXLIII. törvény 25. § (6) bekezdés h) pontjában a „vagy” szövegrész.
+#### 260. §
 
 #### 156.
 
@@ -1626,22 +1321,11 @@ lép.
 
 #### 158. A védelmi és biztonsági célú beszerzésekről szóló 2016. évi XXX. törvény módosítása
 
-263. § A védelmi és biztonsági célú beszerzésekről szóló 2016. évi XXX. törvény 9. § (4) bekezdése a következő k) ponttal egészül ki:
+#### 263. §
 
-[A (3) bekezdésben foglaltak mellett – a nyilvánosan működő részvénytársaság kivételével – összeférhetetlen és nem vehet részt az eljárásban ajánlattevőként, részvételre jelentkezőként, alvállalkozóként vagy az alkalmasság igazolásában részt vevő szervezetként]
+#### 264. §
 
-„k) a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal elnöke, elnökhelyettesei”
-
-[tulajdonában, vagy az a)–j) pont szerinti személlyel közös háztartásban élő, a Ptk. 8:1. § (1) bekezdés 2. pontja szerinti hozzátartozója tulajdonában álló szervezet.]
-
-264. § A védelmi és biztonsági célú beszerzésekről szóló 2016. évi XXX. törvény
-
-- a) 9. § (4) bekezdés j) pontjában az „elnöke” szövegrész helyébe az „elnöke vagy” szöveg,
-- b) 9. § (4) bekezdés záró szövegrészében az „az a)–j) pont” szövegrész helyébe az „az a)–k) pont” szöveg
-
-lép.
-
-265. § Hatályát veszti a védelmi és biztonsági célú beszerzésekről szóló 2016. évi XXX. törvény 9. § (4) bekezdés i) pontjában a „vagy” szövegrész.
+#### 265. §
 
 #### 159.
 
@@ -1657,27 +1341,13 @@ lép.
 
 #### 161. Az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény módosítása
 
-270. § Az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény 113. § (2) bekezdés c) pontja helyébe a következő rendelkezés lép:
+#### 270. §
 
-(Hivatalból induló jogorvoslati eljárások)
+#### 271. §
 
-„c) az ügyészségről szóló törvény szerinti ügyészi vagy a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH) általi felhívás és fellépés nyomán indított eljárás.”
+#### 272. §
 
-271. § Az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény 114. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Ha a jogsértés megszüntetésére felszólító ügyészi felhívásban, NVVH általi felhívásban megállapított határidő eredménytelenül eltelt, az ügyész, az NVVH közigazgatási pert indíthat a hatóság véglegessé vált döntése ellen, vagy a hatóság eljárási kötelezettségének elmulasztása esetén a hatóság eljárásra kötelezése iránt.”
-
-272. § Az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény 65. alcím címe helyébe a következő rendelkezés lép:
-
-#### „65. Ügyészi és az NVVH általi felhívás és fellépés”
-
-273. § Az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény 122. §-a helyébe a következő rendelkezés lép:
-
-#### „122. § [Az ügyészi és az NVVH általi felhívás és fellépés]
-
-(1) Ha az ügyész az ügyészségről szóló törvény alapján felhívással él, vagy sikertelen felhívás esetén fellép, a hatóság az ügyész által kifogásolt döntését korlátozás nélkül módosíthatja (megváltoztathatja), illetve visszavonhatja (megsemmisítheti), akkor is, ha a közigazgatási hatósági eljárásra vonatkozó jogszabály ezt egyébként korlátozza, vagy nem teszi lehetővé.
-
-(2) Ha az NVVH törvény alapján felhívással él, vagy sikertelen felhívás esetén fellép, a hatóság az NVVH által kifogásolt döntését korlátozás nélkül módosíthatja (megváltoztathatja), illetve visszavonhatja (megsemmisítheti), akkor is, ha a közigazgatási hatósági eljárásra vonatkozó jogszabály ezt egyébként korlátozza, vagy nem teszi lehetővé.”
+#### 273. §
 
 #### 162.
 
@@ -1751,67 +1421,21 @@ lép.
 
 #### 168. Az adóigazgatási rendtartásról szóló 2017. évi CLI. törvény módosítása
 
-303. § (1) Az adóigazgatási rendtartásról szóló 2017. évi CLI. törvény 87. § (1) bekezdés a) pontja a következő ad) alponttal egészül ki:
+#### 303. §
 
-(Kötelező az adóellenőrzést lefolytatni
+#### 304. §
 
-az állami adó- és vámhatóság hatáskörébe tartozó adóellenőrzés esetén)
+#### 305. §
 
-  - „ad) a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal törvény szerint kijelölt vezetője megkeresése alapján,”
+#### 306. §
 
-(2) Az adóigazgatási rendtartásról szóló 2017. évi CLI. törvény 87. § (1) bekezdés b) pontja a következő bd) alponttal egészül ki:
+#### 307. §
 
-(Kötelező az adóellenőrzést lefolytatni
+#### 308. §
 
-az önkormányzati adóhatóság hatáskörébe tartozó adóellenőrzés esetén)
+#### 309. §
 
-  - „bd) a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal törvény szerint kijelölt vezetője megkeresése alapján.”
-
-(3) Az adóigazgatási rendtartásról szóló 2017. évi CLI. törvény 87. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Az Állami Számvevőszék elnöke, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal törvény szerint kijelölt vezetője, az önkormányzati adóhatóság hatáskörébe tartozó adók esetében az önkormányzat képviselő-testülete akkor kezdeményezhet ellenőrzést, ha a rendelkezésére álló adatok, körülmények arra utalnak, hogy az adóhatóság a megkülönböztetés nélküli eljárás elvének megsértésével mellőzi valamely adózó vagy adózói csoport vizsgálatát, illetve a lefolytatott ellenőrzések eredménytelensége mögött a megkülönböztetés nélküli eljárás elvének megsértése áll.”
-
-304. § Az adóigazgatási rendtartásról szóló 2017. évi CLI. törvény 93. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
-
-(Felülellenőrzést folytat le a felettes szerv, ha)
-
-„a) az állami adó- és vámhatóság hatáskörébe tartozó ellenőrzés esetén az állami adó- és vámhatóságot irányító miniszter, az önkormányzati adóhatóság hatáskörébe tartozó ellenőrzés esetén az adópolitikáért felelős miniszter ellenőrzéssel már lezárt időszak ellenőrzését rendelte el, vagy az Állami Számvevőszék elnöke, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal törvény szerint kijelölt vezetője, az önkormányzati adóhatóság hatáskörébe tartozó adó esetén az önkormányzat képviselő-testülete ellenőrzéssel már lezárt időszak ellenőrzését kezdeményezte,”
-
-305. § Az adóigazgatási rendtartásról szóló 2017. évi CLI. törvény 119. § (2) bekezdése a következő d) ponttal egészül ki:
-
-(Hivatalból induló jogorvoslati eljárások:)
-
-„d) a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalról szóló törvény szerinti, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal általi felhívás és fellépés nyomán indított eljárás.”
-
-306. § Az adóigazgatási rendtartásról szóló 2017. évi CLI. törvény 130. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Ha a jogsértés megszüntetésére felszólító ügyészi felhívásban, Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal általi felhívásban megállapított határidő eredménytelenül eltelt, az ügyész, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal közigazgatási pert indíthat az adóhatóság véglegessé vált döntése ellen, vagy az adóhatóság eljárási kötelezettségének elmulasztása esetén az adóhatóság eljárásra kötelezése iránt.”
-
-307. § Az adóigazgatási rendtartásról szóló 2017. évi CLI. törvény 51. alcím címe helyébe a következő rendelkezés lép:
-
-#### „51. Ügyészi és a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal általi felhívás és fellépés”
-
-308. § Az adóigazgatási rendtartásról szóló 2017. évi CLI. törvény 131. §-a helyébe a következő rendelkezés lép:
-
-#### „131. § [Az ügyészi és a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal általi felhívás és fellépés]
-
-(1) Ha az ügyész az ügyészségről szóló törvény alapján felhívással él, vagy sikertelen felhívás esetén fellép, az adóhatóság az ügyész által kifogásolt döntését korlátozás nélkül módosíthatja (megváltoztathatja), illetve visszavonhatja (megsemmisítheti), akkor is, ha jogszabály ezt egyébként korlátozza, vagy nem teszi lehetővé.
-
-(2) Ha a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal törvény alapján felhívással él, vagy sikertelen felhívás esetén fellép, az adóhatóság a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal által kifogásolt döntését korlátozás nélkül módosíthatja (megváltoztathatja), illetve visszavonhatja (megsemmisítheti), akkor is, ha jogszabály ezt egyébként korlátozza, vagy nem teszi lehetővé.”
-
-309. § Az adóigazgatási rendtartásról szóló 2017. évi CLI. törvény 133. § (2) bekezdés c) pontja helyébe a következő rendelkezés lép:
-
-[Az (1) bekezdésben foglaltakat nem kell alkalmazni]
-
-„c) ha az ellenőrzést az adópolitikáért felelős miniszter, az Állami Számvevőszék elnöke vagy a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal törvény szerint kijelölt vezetője – önkormányzati adóhatóság hatáskörébe tartozó adó esetében az önkormányzati képviselő-testület határozata – rendelte el,”
-
-310. § Az adóigazgatási rendtartásról szóló 2017. évi CLI. törvény
-
-- a) 37. § (4) bekezdésében az „a bíróság” szövegrész helyébe az „a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, a bíróság” szöveg,
-- b) 119. § (2) bekezdés b) pontjában az „indított, és” szövegrész helyébe az „indított eljárás,” szöveg,
-- c) 132. § (1) bekezdés c) pontjában az „ügyészség feltételes” szövegrész helyébe az „ügyészség vagy a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal feltételes” szöveg
-
-lép.
+#### 310. §
 
 #### 169.
 
@@ -1839,20 +1463,9 @@ lép.
 
 #### 174. A különleges jogállású szervekről és az általuk foglalkoztatottak jogállásáról szóló 2019. évi CVII. törvény módosítása
 
-318. § A különleges jogállású szervekről és az általuk foglalkoztatottak jogállásáról szóló 2019. évi CVII. törvény 2. § (1) bekezdése a következő r) ponttal egészül ki:
+#### 318. §
 
-(E törvény alkalmazásában különleges jogállású szerv:)
-
-„r) Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal.”
-
-319. § A különleges jogállású szervekről és az általuk foglalkoztatottak jogállásáról szóló 2019. évi CVII. törvény
-
-- a) 84. § (11) bekezdésében az „ügyészség, illetve” szövegrész helyébe az „ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, illetve” szöveg és az „ügyészségnek vagy” szövegrész helyébe az „ügyészségnek, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalnak vagy” szöveg,
-- b) 86. § (19) bekezdésében az „ügyészség, illetve” szövegrész helyébe az „ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, illetve” szöveg,
-- c) 89. § (8) bekezdés g) pontjában az „ügyészség és” szövegrész helyébe az „ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal és” szöveg,
-- d) 98. § (1) bekezdésében a „Hatóság és” szövegrész helyébe a „Hatóság, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal és” szöveg
-
-lép.
+#### 319. §
 
 #### 175.
 
@@ -1864,49 +1477,11 @@ lép.
 
 #### 177. A Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló 2020. évi CXXX. törvény módosítása
 
-322. § A Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló 2020. évi CXXX. törvény a következő 59/A. §-sal egészül ki:
+#### 322. §
 
-#### „59/A. § [Kirendelés, vezénylés a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalhoz]
+#### 323. §
 
-(1) A foglalkoztatott – beleegyezésével – a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal elnökének és a NAV elnökének megállapodása alapján a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalhoz kirendelhető, vezényelhető. A megállapodás alapján a kirendelésről, vezénylésről a NAV elnöke külön okmányban intézkedik. A kirendelt, vezényelt státusza változatlan, a NAV-nál munkakört nem tölt be, de a jogok és kötelezettségek tekintetében úgy minősül, mintha a közvetlenül a kirendelés, vezénylés előtti munkakört töltené be.
-
-(2) A kirendelés, vezénylés határozott vagy határozatlan időre szól. Ha a kirendelés, vezénylés határozatlan időre szól, vagy ha annak tartama a 30 napot meghaladja, a 77. § (1) bekezdése szerint kell eljárni.
-
-(3) A kirendelt, vezényelt illetményét és a szolgálati jogviszonyhoz kapcsolódó egyéb járandóságait, az ezekkel járó közterheket és a kirendeléssel, vezényléssel felmerülő költségeket a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal viseli, továbbá ha a kirendelés vagy a vezénylés tartama határozatlan idejű, vagy az egy évet meghaladja, a pénzügyőri státuszú foglalkoztatott ruházati ellátmányát, továbbá a jubileumi jutalmát a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal a saját költségvetésének terhére biztosítja.
-
-(4) A kirendelés, vezénylés megszűnik
-
-- a) a határozott idő lejártával,
-- b) ha a foglalkoztatott szolgálati jogviszonya megszűnik, vagy megszüntetésre kerül,
-- c) ha a foglalkoztatott vagy a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal elnöke a kirendelés, vezénylés megszüntetését kezdeményezi, és ez alapján a NAV elnöke a kirendelést, vezénylést megszünteti.
-
-(5) A kirendelésről, vezénylésről szóló megállapodás aláírásától a kirendelés, vezénylés megszűnéséig a szolgálati jogviszony nem szüntethető meg a 67. § d) pontja, a 70. § (1) bekezdés a)–c) pontjában meghatározott jogcímen.
-
-(6) A kirendelés, vezénylés megszüntetését – a megszüntetés hatályának megjelölésével – a foglalkoztatott és a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal elnöke indokolás nélkül kezdeményezheti a NAV elnökénél. A NAV elnöke a kezdeményezésben meghatározott nap hatályával a kirendelést, vezénylést megszünteti, feltéve, ha a megszüntetés kérelmezett hatálya a kezdeményezés kézbesítésétől számított tíz napon túli időpontra esik, ellenkező esetben a kirendelést, vezénylést a kezdeményezés kézbesítésétől számított tizedik nap hatállyal szünteti meg. Szolgálati érdekből a kirendelés, vezénylés megszüntetését a NAV elnöke is kezdeményezheti, de azt végrehajtani csak akkor lehet, ha a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal elnöke ahhoz előzetesen hozzájárul.
-
-(7) A kirendelés, vezénylés megszűnését követően a foglalkoztatott részére végzettségének megfelelő új munkakört kell felajánlani a NAV bármely szervénél azzal, hogy a kirendelés, vezénylés előtti szolgálati jogviszony státusza nem változhat. Az érintett a felajánlott munkakör elfogadásáról vagy elutasításáról a felajánlástól számított öt munkanapon belül írásban nyilatkozik.
-
-(8) Ha a foglalkoztatott a felajánlott munkakört nem fogadja el, a nyilatkozattétel időpontjától kezdődően jogviszonyát felmentéssel meg kell szüntetni, azzal, hogy a jogviszony megszüntetésére a NAV elnöke jogosult. Ebben az esetben a kirendelést, vezénylést megelőzően betöltött korábbi munkakörben megállapított illetményt kell alapul venni a felmentési időre járó illetménynek, távolléti díjnak, a végkielégítés összegének, valamint az egyéb kifizetések összegének meghatározásakor. A kirendelés, vezénylés megszűnését követően a foglalkoztatott az új munkakörbe helyezéséig vagy a felmentéséig a kirendelést, vezénylést megelőzően betöltött korábbi munkakörben megállapított illetményre jogosult.
-
-(9) A Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalhoz való kirendelés, vezénylés esetén alkalmazni kell az 50. § (1)–(3) bekezdését, az 54. § (3) bekezdését és az 55. § rendelkezéseit.”
-
-323. § A Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló 2020. évi CXXX. törvény
-
-- a) 38. § (6) bekezdésében az „ügyészség, valamint” szövegrész helyébe az „ügyészség, Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, valamint” szöveg,
-- b) 70. § (2) bekezdés h) pontjában a „bekezdése alapján” szövegrész helyébe a „bekezdése vagy az 59/A. § (7)–(8) bekezdése alapján” szöveg,
-- c) 109. § (2) bekezdés h) pontjában az „ügyészség vagy” szövegrész helyébe az „ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal vagy” szöveg,
-- d) 190. § (2) bekezdésében az „ügyészség vagy” szövegrészek helyébe az „ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal vagy” szöveg,
-- e) 202. § (8) bekezdésében az „ügyészség, illetve” szövegrész helyébe az „ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, illetve” szöveg,
-- f) 219. § (1) bekezdés h) pontjában az „ügyészség és” szövegrész helyébe az „ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal és” szöveg,
-- g) 246. § c) pontjában az „Egyetemre kirendelésre” szövegrész helyébe az „Egyetemre, valamint a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalhoz kirendelésre” szöveg,
-- h) 2. mellékletében foglalt táblázat „Eljáró bíróság, ügyészség, nyomozó hatóság, ügyszám:” sor 1. mezőjében az „ügyészség, nyomozó” szövegrész helyébe az „ügyészség, Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, nyomozó” szöveg
-
-lép.
-
-324. § Hatályát veszti a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló 2020. évi CXXX. törvény
-
-- a) 70. § (2) bekezdés h) pontjában az „alacsonyabb” szövegrész,
-- b) 246. § c) pontjában a „valamint” szövegrész.
+#### 324. §
 
 #### 178.
 
@@ -1918,9 +1493,9 @@ lép.
 
 #### 180. A védelmi és biztonsági tevékenységek összehangolásáról szóló 2021. évi XCIII. törvény módosítása
 
-327. § A védelmi és biztonsági tevékenységek összehangolásáról szóló 2021. évi XCIII. törvény 1. melléklete a 2. melléklet szerint módosul.
+#### 327. §
 
-328. § A védelmi és biztonsági tevékenységek összehangolásáról szóló 2021. évi XCIII. törvény 16. § a) pontjában az „Ügyészség, az” szövegrész helyébe az „Ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, az” szöveg lép.
+#### 328. §
 
 #### 181.
 
@@ -1932,7 +1507,7 @@ lép.
 
 #### 183. A honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény módosítása
 
-331. § A honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény 1. melléklete a 3. melléklet szerint módosul.
+#### 331. §
 
 #### 184.
 
@@ -1958,13 +1533,9 @@ lép.
 
 #### 188. A panaszokról, a közérdekű bejelentésekről, valamint a visszaélések bejelentésével összefüggő szabályokról szóló 2023. évi XXV. törvény módosítása
 
-339. § A panaszokról, a közérdekű bejelentésekről, valamint a visszaélések bejelentésével összefüggő szabályokról szóló 2023. évi XXV. törvény 32. § (1) bekezdése a következő k) ponttal egészül ki:
+#### 339. §
 
-(Elkülönített visszaélés-bejelentési rendszert hoz létre)
-
-„k) a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal.”
-
-340. § A panaszokról, a közérdekű bejelentésekről, valamint a visszaélések bejelentésével összefüggő szabályokról szóló 2023. évi XXV. törvény 32. § (1) bekezdés i) pontjában a „Hivatal és” szövegrész helyébe a „Hivatal,” szöveg lép.
+#### 340. §
 
 #### 189.
 
@@ -1976,63 +1547,21 @@ lép.
 
 #### 191. A digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény módosítása
 
-343. § A digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény 9. § (2) bekezdése helyébe a következő rendelkezés lép:
+#### 343. §
 
-„(2) Digitális szolgáltatás nyújtására köteles szerv:
+#### 344. §
 
-- a) az államigazgatási szerv,
-- b) a helyi önkormányzat,
-- c) a törvény vagy kormányrendelet által közigazgatási hatósági jogkör gyakorlására feljogosított egyéb jogalany,
-- d) az Országos Bírósági Hivatal és a bíróság,
-- e) az alapvető jogok biztosa,
-- f) az ügyészség,
-- g) a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH),
-- h) a közjegyző,
-- i) a bírósági végrehajtó és az önálló bírósági végrehajtó iroda,
-- j) a hegyközségek kivételével a köztestület, valamint
-- k) a törvénnyel vagy kormányrendelettel az e törvény szerinti digitális szolgáltatás nyújtására kötelezett közfeladatot ellátó vagy közszolgáltatást nyújtó jogalany.”
+#### 345. §
 
-344. § A digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény 13. § (5) bekezdése a következő g) ponttal egészül ki:
+#### 346. §
 
-(A nyilvántartást vezető szerv az érintett hozzájárulása nélkül a következő szervek részére adhatja meg a felhasználó általa kezelt adatait:)
-
-„g) az NVVH-nak bűncselekmények felderítése, büntetőeljárás lefolytatása vagy büntetés és intézkedés végrehajtása céljából.”
-
-345. § A digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény 43. § (7) bekezdése a következő f) ponttal egészül ki:
-
-(Az ügyfél-regisztrációs szerv a felhasználó hozzájárulása nélkül a következő szervek részére adhatja meg a felhasználó általa kezelt adatait:)
-
-„f) az NVVH-nak bűncselekmények felderítése, büntetőeljárás lefolytatása vagy büntetés és intézkedés végrehajtása céljából.”
-
-346. § A digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény 69. § (5) bekezdése a következő f) ponttal egészül ki:
-
-[Az (1) bekezdés szerinti nyilvántartást vezető szerv ah felhasználó hozzájárulása nélkül a következő szervek részére adhatja meg a felhasználó általa kezelt adatait:]
-
-„f) az NVVH-nak bűncselekmények felderítése, büntetőeljárás lefolytatása vagy büntetés és intézkedés végrehajtása céljából.”
-
-347. § A digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény
-
-- a) 18. § (4) bekezdésében a „9. § (2) bekezdés a)–i) pontja” szövegrész helyébe a „9. § (2) bekezdés a)–j) pontja” szöveg,
-- b) 34. § (3) bekezdésében a „9. § (2) bekezdés a)–i) pontja” szövegrész helyébe a „9. § (2) bekezdés a)–j) pontja” szöveg,
-- c) 36. § (1) bekezdésében a „9. § (2) bekezdés a)–i) pontja” szövegrész helyébe a „9. § (2) bekezdés a)–j) pontja” szöveg,
-- d) 39. § (2) bekezdés k) pontjában a „9. § (2) bekezdés a)–i) pontjában” szövegrész helyébe a „9. § (2) bekezdés a)–j) pontjában” szöveg,
-- e) 39. § (3) bekezdésében a „9. § (2) bekezdés a), b), d)–f) pontja” szövegrész helyébe a „9. § (2) bekezdés a), b), d)–g) pontja” szöveg,
-- f) 94. § (1) bekezdésében az „ügyészségnek, a bíróságnak” szövegrész helyébe az „ügyészségnek, az NVVH-nak, a bíróságnak” szöveg,
-- g) 112/B. § (1) bekezdésében az „ügyészség, a nyomozó” szövegrész helyébe az „ügyészség, az NVVH, a nyomozó” szöveg,
-- h) 112/E. § (3) bekezdés b) pontjában az „ügyészség, a nyomozó” szövegrész helyébe az „ügyészség, az NVVH, a nyomozó” szöveg
-
-lép.
+#### 347. §
 
 #### 192. A Magyarország kiberbiztonságáról szóló 2024. évi LXIX. törvény módosítása
 
-348. § A Magyarország kiberbiztonságáról szóló 2024. évi LXIX. törvény 1. melléklete a 4. melléklet szerint módosul.
+#### 348. §
 
-349. § A Magyarország kiberbiztonságáról szóló 2024. évi LXIX. törvény
-
-- a) 20. § (6) bekezdésében az „a nemzetbiztonsági” szövegrész helyébe az „a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, a nemzetbiztonsági” szöveg,
-- b) 33. § (10) bekezdés b) pontjában az „ügyészség vagy” szövegrész helyébe az „ügyészség, Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal vagy” szöveg
-
-lép.
+#### 349. §
 
 #### 193.
 
@@ -2060,43 +1589,8 @@ lép.
 
 ### 1. melléklet a 2026. évi XXXIV. törvényhez
 
-„1. számú melléklet az 1995. évi CXXV. törvényhez
-
-A védelem alá eső személyek
-
-- 1. a köztársasági elnök
-- 2. a miniszterelnök
-- 3. az Országgyűlés elnöke és alelnökei
-- 4. az Alkotmánybíróság elnöke és tagjai
-- 5. a Kúria elnöke és elnökhelyettesei
-- 6. a miniszterek
-- 7. a legfőbb ügyész és helyettesei
-- 8. az NVVH elnöke és elnökhelyettesei
-- 9. az Állami Számvevőszék elnöke és alelnökei
-- 10. az alapvető jogok biztosa és helyettesei
-- 11. az Országgyűlés Nemzetbiztonsági és Honvédelmi Bizottságának tagjai
-- 12. a titkos információgyűjtést engedélyező bírók
-- 13. a legfőbb ügyész által az 55. § alapján kijelölt ügyész
-- 14. a Magyar Nemzeti Bank elnöke és alelnökei
-- 15. a Gazdasági Versenyhivatal elnöke és elnökhelyettesei
-- 16. a Nemzeti Adatvédelmi és Információszabadság Hatóság elnöke és elnökhelyettese
-- 17. a Honvéd Vezérkar főnöke
-- 18. a nemzetbiztonsági szolgálatok felügyeletével, illetve tevékenységük összehangolásával kapcsolatos feladatokat ellátó politikai és szakmai felsővezetők
-- 19. a Kormány tagjának kabinetét vezető kabinetfőnök”
-
 ### 2. melléklet a 2026. évi XXXIV. törvényhez
-
-- 1. A védelmi és biztonsági tevékenységek összehangolásáról szóló 2021. évi XCIII. törvény 1. melléklete a következő 7a. ponttal egészül ki:
-- „7a. Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal,”
 
 ### 3. melléklet a 2026. évi XXXIV. törvényhez
 
-- 1. A honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény 1. melléklet 1. pontja a következő 1.6a. ponttal egészül ki:
-- „1.6a. a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal elnöke és elnökhelyettesei,”
-- 2. A honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény 1. melléklet 2. pontja a következő 2.9a. ponttal egészül ki:
-- „2.9a. a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal,”
-
 ### 4. melléklet a 2026. évi XXXIV. törvényhez
-
-- 1. A Magyarország kiberbiztonságáról szóló 2024. évi LXIX. törvény 1. melléklete a következő 8a. ponttal egészül ki:
-- „8a. a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal,”
