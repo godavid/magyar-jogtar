@@ -1,0 +1,57 @@
+# Napi delta — az aznap hatályba lépő új időállapotok commitolása.
+# Ez a fájl a magyar-jogtar adat-repo .github/workflows/ könyvtárában él;
+# a feldolgozó kód a godavid/gitjog repóból jön. Titok nem kell: a beépített
+# GITHUB_TOKEN commitol (contents: write) és riaszt issue-val (issues: write).
+name: Napi delta
+
+on:
+  schedule:
+    - cron: "30 3 * * *" # 03:30 UTC = kora hajnal magyar idő szerint
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: napi-delta
+  cancel-in-progress: false
+
+jobs:
+  delta:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - name: Adat-repo checkout
+        uses: actions/checkout@v4
+        with:
+          path: adat
+          fetch-depth: 0 # az index SHA-térképéhez teljes history kell
+
+      - name: Pipeline-kód checkout (gitjog)
+        uses: actions/checkout@v4
+        with:
+          repository: godavid/gitjog
+          path: kod
+
+      - uses: pnpm/action-setup@v4
+        with:
+          version: 11
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: pnpm
+          cache-dependency-path: kod/pnpm-lock.yaml
+
+      - name: Függőségek
+        working-directory: kod
+        run: pnpm install --frozen-lockfile --filter @nyilt-jogtar/pipeline
+
+      - name: Delta futtatása
+        working-directory: kod
+        run: pnpm --filter @nyilt-jogtar/pipeline delta
+        env:
+          NYILT_ADAT_REPO_DIR: ${{ github.workspace }}/adat
+          NYILT_CACHE_DIR: ${{ runner.temp }}/njt-cache
+          GITHUB_TOKEN: ${{ github.token }}
