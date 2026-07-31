@@ -1732,9 +1732,9 @@ kell elkészíteni.
 - b) a magasépítmény elhelyezését jogszabály nem tiltja, és
 - c) a magasépítmény terepcsatlakozásához, lejtős terepen a lejtőoldali legalacsonyabb terepcsatlakozásához mért legmagasabb pontja nem haladja meg a 130 métert.
 
-(10a) A (10) bekezdés c) pontjától eltérően, ha a szélerőmű a villamos energiáról szóló törvény szerinti könnyített térségben valósul meg, akkor a szélerőmű terepcsatlakozásához, lejtős terepen a szélerőmű lejtőoldali legalacsonyabb terepcsatlakozásához mért legmagasabb pontja nem haladhatja meg a 199 métert.
+(10a) A (10) bekezdés c) pontjától eltérően szélerőmű terepcsatlakozásához, lejtős terepen a szélerőmű lejtőoldali legalacsonyabb terepcsatlakozásához mért legmagasabb pontja nem haladhatja meg a 199 métert.
 
-(11) A (10) bekezdésben foglaltakat nem kell alkalmazni a katonai, honvédelmi és nemzetbiztonsági célú és rendeltetésű építményekre, a mezőgazdasági rendeltetésű építményekre, a víziközművekre, villamos távvezeték tartóoszlopaira és az elektronikus hírközlési építményekre. Az épületekre a (7)–(9) bekezdésben foglaltak az irányadóak. A szélerőművek esetében a (10) bekezdés c) pontja és a (10a) bekezdés szerinti magasságot a szélerőmű oszlopmagasságára kell érteni.
+(11) A (10) bekezdésben foglaltakat nem kell alkalmazni a katonai, honvédelmi és nemzetbiztonsági célú és rendeltetésű építményekre, a mezőgazdasági rendeltetésű építményekre, a víziközművekre, villamos távvezeték tartóoszlopaira és az elektronikus hírközlési építményekre. Az épületekre a (7)–(9) bekezdésben foglaltak az irányadóak. A szélerőművek esetében a (10a) bekezdés szerinti magasságot a szélerőmű oszlopmagasságára kell érteni.
 
 (12) Külterületen magasépítmény elhelyezésének lehetőségét biztosító helyi építési szabályzat készítése vagy módosítása esetén az állami főépítész az egyeztetés záró szakaszában a helyi építési szabályzat, illetve módosítása tervezetét köteles véleményezésre megküldeni az országos főépítésznek. Az országos főépítész a véleménykérés kézhezvételét követő 15 napon belül adja ki a nyilatkozatát, a határidő jogvesztő. Az állami főépítészi vélemény kiadására meghatározott határidőbe nem számít bele az országos főépítész nyilatkozatának kiadására rendelkezésre álló határidő.
 

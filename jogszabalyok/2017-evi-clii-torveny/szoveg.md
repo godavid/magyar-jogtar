@@ -988,13 +988,12 @@ céljából használható fel.
 
 (1) A vámhatóság az (1a) bekezdésben foglaltak kivételével az ügy érdemében határozatot hoz, Vámjegyet ad ki, továbbá az eljárás során felmerült minden más kérdésben végzést bocsát ki.
 
-(1a) Ha a közös hozzáadottértékadó-rendszerről szóló 2006. november 28-i 2006/112/EK tanácsi irányelv hatálya alá tartozó harmadik országból beszállított termékek tekintetében kezdeményezett szabad forgalomba bocsátás vámeljárás során
+(1a) Ha a közös hozzáadottértékadó-rendszerről szóló, 2006. november 28-i 2006/112/EK tanácsi irányelv hatálya alá tartozó harmadik országból beszállított termékek tekintetében kezdeményezett szabad forgalomba bocsátás vámeljárás során
 
-- a) a küldemény szabad forgalomba bocsátása a vámmentességi rendelet 23–24. cikke alapján vámmentesen történik,
-- b) az általános forgalmi adó alanyának nem minősülő természetes személy a vám-árunyilatkozatot saját nevében és érdekében eljárva nyújtja be, és
-- c) az általános forgalmi adó alanyának nem minősülő természetes személy által benyújtott vám-árunyilatkozat alapján a vámhatóság a szabad forgalomba bocsátás vámeljárást az ügyfél által benyújtott vám-árunyilatkozatban foglaltakkal megegyezően folytatja le,
+- a) az általános forgalmi adó alanyának nem minősülő természetes személy a vám-árunyilatkozatot saját nevében és érdekében eljárva nyújtja be, és
+- b) az általános forgalmi adó alanyának nem minősülő természetes személy által benyújtott vám-árunyilatkozat alapján a vámhatóság a szabad forgalomba bocsátás vámeljárást az ügyfél által benyújtott vám-árunyilatkozatban foglaltakkal megegyezően folytatja le,
 
-akkor a vámhatóság a fizetendő általános forgalmi adó összegéről nem hoz határozatot.
+akkor a vámhatóság a fizetendő vám és általános forgalmi adó összegéről nem hoz határozatot.
 
 (1b) Az (1a) bekezdésben meghatározott feltételek teljesülése és az általános forgalmi adó megfizetése vagy biztosítása esetén a vámhatóság az áru átengedéséről elektronikus üzenetben értesíti a nyilatkozattevőt.
 
@@ -2323,9 +2322,7 @@ amelyet követően a biztosíték felszabadítása felől haladéktalanul intéz
 
 A Vámkódex 101. cikk (3) bekezdés harmadik albekezdése alkalmazásában a fizetendő behozatali vagy kiviteli vám összegét 100 forintra kerekítve kell megállapítani.
 
-#### 156/A. § [A vámmentességi rendelet 23–24. cikke alapján vámmentesen beszállított küldemények tekintetében kezdeményezett szabad forgalomba bocsátás eljárásban felmerült általános forgalmi adó összegének meghatározása]
-
-A vámmentességi rendelet 23–24. cikke alapján vámmentes vámeljárásban felmerült általános forgalmi adó összegét kerekítés nélkül, pontos összegben kell meghatározni.
+#### 156/A. §
 
 #### 43. A Vámkódex 102. cikkéhez
 
@@ -2333,20 +2330,25 @@ A vámmentességi rendelet 23–24. cikke alapján vámmentes vámeljárásban f
 
 (1) A Vámkódex 102. cikk (1) bekezdése alkalmazásában a vám-árunyilatkozat benyújtásával kezdeményezett eljárások esetén – a Vámjegy alkalmazásának esetét kivéve – a vám és egyéb terhek összegét a vámhatóság határozattal közli. A könyv szerinti nyilvántartásba vett vámösszegről és egyéb terhekről szóló, a kérelemnek helyt adó döntés egyszerűsített határozatba foglalható.
 
-(2) Az adatfeldolgozási technika alkalmazásával benyújtott árunyilatkozatok esetében, ha a technikai feltételek adottak, a vámhatóság a vám és egyéb terhek összegét közlő határozatát elektronikus dokumentum formájában hozhatja meg. Az e bekezdésben meghatározott döntések kiadmányozása személy által felügyelt automatizált aláírással, elektronikus formában történik.
+(2) Az adatfeldolgozási technika alkalmazásával benyújtott árunyilatkozatok esetében, ha a technikai feltételek adottak, a vámhatóság a vám és egyéb terhek összegét közlő határozatát elektronikus dokumentum formájában hozhatja meg.
 
-(3) A vámhatóság az FJA 88. cikk (2) bekezdésében meghatározott esetben eltekint a vámtartozás közlésétől. Ebben az esetben a 2. § 6. ponttól eltérően nem keletkezik vámhiány.
+(3) A (2) bekezdésben meghatározott döntések kiadmányozása
 
-#### 157/A. § [A vámmentességi rendelet 23–24. cikke alapján vámmentesen beszállított küldemények tekintetében természetes személy által kezdeményezett szabad forgalomba bocsátás eljárásban felmerült általános forgalmi adó közlése]
+- a) személy által felügyelt automatizált aláírással, vagy
+- b) a 66. § (2) bekezdés f) és g) pontjától eltérően a „Nemzeti Adó- és Vámhivatal” megjelölést tartalmazó minősített vagy minősített tanúsítványon alapuló fokozott biztonságú elektronikus bélyegzővel és minősített elektronikus időbélyegzővel, elektronikus formában történik.
 
-(1) A 66. § (1a) bekezdése szerinti szabad forgalomba bocsátás vámeljárásban felmerült általános forgalmi adó összegét a vámhatóság elektronikus értesítés formájában közli.
+(4) A vámhatóság az FJA 88. cikk (2) bekezdésében meghatározott esetben eltekint a vámtartozás közlésétől. Ebben az esetben a 2. § 6. pontjától eltérően nem keletkezik vámhiány.
+
+#### 157/A. § [A természetes személy által kezdeményezett szabad forgalomba bocsátás eljárásban felmerült vám és általános forgalmi adó közlése]
+
+(1) A 66. § (1a) bekezdése szerinti szabad forgalomba bocsátás vámeljárásban felmerült vám és általános forgalmi adó összegét a vámhatóság elektronikus értesítés formájában közli.
 
 (2) Az (1) bekezdés szerinti értesítés legalább az alábbi adatokat tartalmazza:
 
 - a) az iktatószámot,
 - b) a benyújtott vám-árunyilatkozat azonosítására vonatkozó adatokat,
 - c) a nyilatkozattevő egyedi azonosítására alkalmas adatait,
-- d) a kiszámított általános forgalmi adó összegét,
+- d) a kiszámított vám és általános forgalmi adó összegét,
 - e) a vámhatóság bevételi számlaszámát és
 - f) a fizetési kötelezettséghez tartozó pénzügyi azonosító számot.
 
@@ -3240,6 +3242,7 @@ rendeletben állapítsa meg.
 - 6. a közös agrárpolitika finanszírozásáról, irányításáról és monitoringjáról , valamint az 1306/2013/EU rendelet hatályon kívül helyezéséről szóló, 2021. december 2-i (EU) 2021/2116 európai parlamenti és tanácsi rendelet IV.cím III. fejezetének,
 - 7. az Uniós Vámkódex értelmében történő információcserét és információtárolást szolgáló elektronikus rendszerek kifejlesztésének, fenntartásának és alkalmazásának technikai szabályairól szóló 2017. november 14-i (EU) 2017/2089 bizottsági végrehajtási rendeletnek
 - 8. az erdőirtáshoz és az erdőpusztuláshoz kapcsolódó egyes áruk és termékek uniós piacon történő forgalmazásáról és Unióból történő kiviteléről, valamint a 995/2010/EU rendelet hatályon kívül helyezéséről szóló 2023. május 31-i (EU) 2023/1115 európai parlamenti és tanácsi rendeletnek
+- 9. az 1186/2009/EK rendeletnek a küszöbértéken alapuló vámmentesség eltörlése tekintetében történő módosításáról szóló 2026. február 11-i 2026/382 tanácsi rendeletnek
 
 a végrehajtásához szükséges rendelkezéseket állapít meg.
 

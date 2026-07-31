@@ -32,9 +32,10 @@ a személyszállítási szolgáltatásokról
 
 - a) a Magyarország területén végzett belföldi és nemzetközi közúti és vasúti személyszállítási szolgáltatásra, valamint az azzal összefüggő jogokra és kötelezettségekre,
 - b) a saját számlás személyszállításra,
-- c) a víziközlekedésről szóló 2000. évi XLII. törvény (a továbbiakban: Vkt.) 3. § (1) bekezdés a) pontjában és 2/A. §-ában foglalt személyszállítási közszolgáltatásokra, valamint
+- c) a víziközlekedésről szóló 2000. évi XLII. törvény (a továbbiakban: Vkt.) 3. § (1) bekezdés a) pontjában és 2/A. §-ában foglalt személyszállítási közszolgáltatásokra,
 - d) a Vkt. 3. § (2) bekezdésében foglalt személyszállítási közszolgáltatásokra, amennyiben azok a helyi vagy az elővárosi személyszállítási közszolgáltatások részét képezik,
-- e) az iskolabusszal vagy közösségi busszal végzett személyszállítási szolgáltatásokra.
+- e) az iskolabusszal vagy közösségi busszal végzett személyszállítási szolgáltatásokra, valamint
+- f) a Vkt. 2. § (4a) és (6) bekezdésében foglalt személyszállítási közszolgáltatásokra.
 
 (2) A törvény hatálya nem terjed ki:
 
@@ -48,6 +49,8 @@ a személyszállítási szolgáltatásokról
 (5) A vasúti személyszállítási szolgáltatásra a vasúti személyszállítást igénybe vevő utasok jogairól és kötelezettségeiről szóló 2021. április 29-i (EU) 2021/782 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2021/782 rendelet] e törvénnyel és a 49. § (1) bekezdés c) pontja alapján kiadott jogszabályokkal együttesen alkalmazandó.
 
 (6) Az autóbuszos személyszállítási szolgáltatásra az autóbusszal közlekedő utasok jogairól és a 2006/2004/EK rendelet módosításáról szóló, 2011. február 16-ai 181/2011/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 181/2011/EU rendelet) e törvénnyel és a 49. § (1) bekezdés d) pontja alapján megalkotott jogszabályokkal, az autóbusszal végzett személyszállítás nemzetközi piacához való hozzáférés közös szabályairól és az 561/2006/EK rendelet módosításáról szóló, 2009. október 21-ei 1073/2009/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 1073/2009/EK rendelet) e törvénnyel és az autóbusszal díj ellenében végzett személyszállítási és saját számlás személyszállítási tevékenységről szóló jogszabállyal együttesen alkalmazandó.
+
+(7) Ha e törvény lehetővé teszi, rendeleti kijelölés esetén az e törvényben a közlekedésszervezőre meghatározott feladatok vonatkozásában a közlekedésért felelős miniszter hatáskörébe tartozó feladatok tekintetében az országos közlekedésszervező, az önkormányzat hatáskörébe tartozó feladatok tekintetében a közlekedésszervező (a továbbiakban együtt: közlekedésszervező) jár el.
 
 #### 2. Értelmező rendelkezések
 
@@ -627,9 +630,9 @@ amely nem felel meg a Kormány rendeletében meghatározott diszpécserszolgála
 
 (3) A közlekedési szolgáltató a közforgalmú személyszállítási szolgáltatás körében a közforgalmú menetrendben meghatározott vonalon az ott meghirdetett járatokat közlekedteti.
 
-(4) A közforgalmú vasúti és a közforgalmú menetrend szerinti autóbuszos személyszállítási szolgáltatást végző közlekedési szolgáltató – kivéve a taxi és a személygépkocsis személyszállító szolgáltatást végző szolgáltató – a közforgalmú személyszállítási szolgáltatására vonatkozó általános szerződési feltételeket tartalmazó személyszállítási üzletszabályzatot készít. A közlekedésszervező a személyszállítási tevékenységhez kapcsolódóan, a 22. § (2) bekezdése szerinti kijelölő jogszabály alapján végzett feladatai ellátására vonatkozó személyszállítási üzletszabályzatot készít.
+(4) A közforgalmú vasúti és a közforgalmú menetrend szerinti autóbuszos személyszállítási szolgáltatást végző közlekedési szolgáltató – kivéve a taxi és a személygépkocsis személyszállító szolgáltatást végző szolgáltató – a közforgalmú személyszállítási szolgáltatására vonatkozó általános szerződési feltételeket tartalmazó személyszállítási üzletszabályzatot készít. A közlekedésszervező a személyszállítási tevékenységhez kapcsolódóan, a 21. § (1b) bekezdése vagy a 22. § (2) bekezdése szerinti kijelölő jogszabály alapján végzett feladatai ellátására vonatkozó személyszállítási üzletszabályzatot készít.
 
-(5) A vasúti társaság személyszállítási üzletszabályzatát, a közlekedésszervezőnek a személyszállítási tevékenységhez kapcsolódó, a 22. § (2) bekezdése szerinti kijelölő jogszabály alapján végzett feladatai ellátására vonatkozó személyszállítási üzletszabályzatot és annak módosítását a vasúti igazgatási szerv e törvényben, a Vtv.-ben, az országos működési engedély alapján végzett vasúti személyszállítás részletes feltételeiről szóló kormányrendeletben és a térségi, az elővárosi, a városi és a helyi működési engedély alapján, valamint a kisvasút és múzeumvasút által végzett vasúti személyszállítás részletes feltételeiről szóló kormányrendeletben meghatározottak szerint hagyja jóvá. A jóváhagyás nem tagadható meg, ha a vasúti személyszállítási üzletszabályzat, vagy a közlekedésszervező személyszállítási üzletszabályzata az e törvényben, a Vtv.-ben, az országos működési engedély alapján végzett vasúti személyszállítás részletes feltételeiről szóló kormányrendeletben és a térségi, az elővárosi, a városi és a helyi működési engedély alapján, valamint a kisvasút és a múzeumvasút által végzett vasúti személyszállítás részletes feltételeiről szóló kormányrendeletben meghatározott feltételeknek megfelel.
+(5) A vasúti társaság személyszállítási üzletszabályzatát, a közlekedésszervezőnek a személyszállítási tevékenységhez kapcsolódó, a 21. § (1b) bekezdése vagy a 22. § (2) bekezdése szerinti kijelölő jogszabály alapján végzett feladatai ellátására vonatkozó személyszállítási üzletszabályzatot és annak módosítását a vasúti igazgatási szerv e törvényben, a Vtv.-ben, az országos működési engedély alapján végzett vasúti személyszállítás részletes feltételeiről szóló kormányrendeletben és a térségi, az elővárosi, a városi és a helyi működési engedély alapján, valamint a kisvasút és múzeumvasút által végzett vasúti személyszállítás részletes feltételeiről szóló kormányrendeletben meghatározottak szerint hagyja jóvá. A jóváhagyás nem tagadható meg, ha a vasúti személyszállítási üzletszabályzat, vagy a közlekedésszervező személyszállítási üzletszabályzata az e törvényben, a Vtv.-ben, az országos működési engedély alapján végzett vasúti személyszállítás részletes feltételeiről szóló kormányrendeletben és a térségi, az elővárosi, a városi és a helyi működési engedély alapján, valamint a kisvasút és a múzeumvasút által végzett vasúti személyszállítás részletes feltételeiről szóló kormányrendeletben meghatározott feltételeknek megfelel.
 
 (6) A közúti személyszállítási szolgáltatást végző szolgáltatók személyszállítási üzletszabályzatát, annak módosítását az autóbuszos személyszállítási szolgáltatás 181/2011/EU rendeletben nem szabályozott részletes feltételeire, valamint a személyszállítási üzletszabályzat tartalmára és jóváhagyására vonatkozó jogszabály alapján az autóbuszos hatóság hagyja jóvá. Ha a bevételek beszedését a közlekedésszervező végzi, az üzletszabályzat elkészítésére vonatkozó kötelezettség a közlekedésszervezőre is kiterjed.
 
@@ -659,17 +662,102 @@ amely nem felel meg a Kormány rendeletében meghatározott diszpécserszolgála
 
 #### 16. Közlekedésszervező
 
-21. § (1) Az önkormányzat a 4. § (4) bekezdés c–e) pontjában, az 5. §-ában, 12. § (7) bekezdésében, 23–31. §-ában, és a 35. §-ában szabályozott feladatokat a feladat ellátásához szükséges forrásokkal együtt – az állam vagy az önkormányzat kizárólagos tulajdonában, vagy kizárólag az állam és az önkormányzat közös tulajdonában álló korlátolt felelősségű társaság vagy részvénytársaság, vagy irányítása alatt álló költségvetési szerv formájában működő – közlekedésszervezőnek adhatja át. A közlekedésszervező működése alatt az állam vagy az önkormányzat kizárólagos tulajdonjogának, vagy az állam és az önkormányzat közös kizárólagos tulajdonjogának fennállását folyamatosan biztosítani szükséges.
+21. § (1) Az önkormányzat a 4. § (4) bekezdés c)–e) pontjában, az 5. §-ában, a 12. § (7) bekezdésében, 23–31. §-ában, és a 35. §-ában szabályozott feladatokat – a feladat ellátásához szükséges forrásokkal együtt –
 
-(1a)
+- a) olyan korlátolt felelősségű társaság vagy részvénytársaság részére, mely
+  - aa) az állam vagy az önkormányzat 100%-os tulajdonában,
+  - ab) kizárólag az állam és az önkormányzat közös tulajdonában, vagy
+  - ac) kizárólag az országos közlekedésszervező és az önkormányzat közös tulajdonában
+
+áll, vagy
+
+- b) az állam vagy az önkormányzat irányítása, illetve az állam és az önkormányzat közös irányítása alatt álló költségvetési szerv részére,
+
+mint közlekedésszervező részére adhatja át. A közlekedésszervező működése alatt az a), illetve a b) pont szerinti tulajdonosi szerkezet, illetve irányítási jogkör fennállását folyamatosan biztosítani szükséges.
+
+(1a) A miniszter a 4. § (3) bekezdésében, az 5. §-ban, a 23–32. §-ban, és a 35. §-ban szabályozott közfeladatait a magyar állam kizárólagos tulajdonában álló, a Ptk. 3:4. § (5) bekezdése szerint határozatlan időre alapított, közfeladatot ellátó gazdasági társaság formájában működő, a miniszter által rendeletben kijelölt országos közlekedésszervező, mint állandó jelleggel működő, kizárólagos köztulajdonban álló, közfeladatot ellátó szerv (a továbbiakban: országos közlekedésszervező) útján – a miniszteri rendeletben meghatározott feladatmegosztás szerint – látja el, figyelemmel az 51. § (19) bekezdésében foglaltakra is. A feladatok ellátásához szükséges forrásokat az országos közlekedésszervező részére átadja. Az országos közlekedésszervező feladatait – e törvényben meghatározott kivételekkel – más szervezet részére nem adhatja át, az országos közlekedésszervezőben fennálló állami tulajdonú társasági részesedés nem idegeníthető el és nem ruházható át.
+
+(1b) A miniszter az országos közlekedésszervezőt az e törvényben meghatározott közfeladatok átadására vonatkozó rendeletben jelöli ki, amelyben rendelkezik az országos közlekedésszervező működésének részletes feltételeiről, továbbá az (1a) és (1c) bekezdésben, valamint a 21/A. §-ban meghatározott feladatok teljesítésének, és a döntési jogok megosztásának módjáról, feltételeiről és felelősségi rendjéről.
+
+(1c) Az országos közlekedésszervező az (1a) bekezdés szerinti feladatköréhez kapcsolódóan különösen
+
+- a) kezeli a személyszállítási közszolgáltatást nyújtó közlekedési szolgáltatókkal kötött közszolgáltatási szerződéseket,
+- b) lebonyolítja a közszolgáltatási szerződések odaítélésére irányuló versenyeztetési eljárásokat,
+- c) jogosult – az 1370/2007/EK rendelet rendelkezéseivel összhangban – közszolgáltatási kötelezettségek előírására, valamint a közszolgáltatási szerződések versenyeztetés útján történő odaítélésére,
+- d) ellátja a közösségi közlekedés tervezésével kapcsolatos feladatokat,
+- e) koordinálja a jegyrendszerek átjárhatóságára vonatkozó előírásokat, az utastájékoztatási feladatok ellátását, valamint a valós idejű utastájékoztatási rendszerek kialakítását és működtetését.
+
+(1d) Az (1b) bekezdés szerinti kijelölő rendelet rendelkezik
+
+- a) az országos közlekedésszervező kijelöléséről, működésének feltételeiről,
+- b) a feladatátadás céljáról,
+- c) az átadott feladatokról, valamint azok részletes szabályairól,
+- d) az átadott feladatokon túl önként ellátható feladatokkal összefüggő szabályokról,
+- e) a feladat ellátásához szükséges döntési jogkörökről, a jogkörök gyakorlásának módjáról, valamint az ahhoz kapcsolódó eljárásokról,
+- f) a döntési jogkörök megosztása esetén az együttműködési keretekről,
+- g) a feladatok ellátásához, valamint az országos közlekedésszervező működéséhez szükséges források átadásának módjáról,
+- h) az országos közlekedésszervező felett gyakorolt szakmai felügyeleti jogkör gyakorlásának módjáról,
+- i) a területileg érintett ellátásért felelőssel történő együttműködés kereteiről,
+- j) a feladatok ellátásával kapcsolatos további szükséges feltételekről,
+- k) az országos közlekedésszervező és a gördülőállomány-kezelő társaság közötti információmegosztási kötelezettség részletes szabályairól, valamint
+- l) az (1e) bekezdésben meghatározott feladatellátásról.
+
+(1e) Az 5. § (3) bekezdésében meghatározott megrendelői együttműködés teljesítése érdekében az országos közlekedésszervező a helyi személyszállítási közszolgáltatások megrendelőjével közös közlekedésszervezőt hozhat létre a helyi és elővárosi, illetve regionális személyszállítási közszolgáltatások közös megrendelésére, a megkötött közszolgáltatási szerződések megrendelői képviseletére, valamint a szolgáltatások összehangolására.
+
+(1f) Az országos közlekedésszervező irányítását igazgatóság, működésének ellenőrzését legalább 3 tagú felügyelőbizottság látja el.
+
+(1g) Az országos közlekedésszervező vezető tisztségviselőjének, vezető állású munkavállalójának és vezető testületei tagjának a megfelelő döntési jogkör, valamint az ahhoz tartozó felelősség telepítésével olyan személy nevezhető ki, aki
+
+- a) megfelel az integritásra, a feddhetetlenségre, a szakmai felkészültségre és a függetlenségre vonatkozó követelményeknek, és
+- b) rendelkezik a feladata – különösen a stratégiai irányítás, a kockázatkezelés felügyelete és a vezetési tevékenység ellenőrzése – ellátásához szükséges döntési jogkörrel, szakértelemmel, kompetenciákkal és tárgyilagossággal.
+
+(1h) Az országos közlekedésszervező vezető tisztségviselője, vezető állású munkavállalója és vezető testületeinek tagja tevékenysége során a feddhetetlenség elvének megfelelően jár el.
+
+(1i) A vezető tisztségviselőkre és a vezető testületek tagjaira vonatkozó szakmai és személyi feltételeket a miniszter rendeletben határozza meg.
 
 (2) Az önkormányzat az átadott feladatok tekintetében szakmai felügyeletet gyakorol a közlekedésszervező felett, ennek során az ellátásért felelős a közlekedésszervező által az (1) bekezdésben meghatározott rendelkezések alapján ellátott feladatok tekintetében hozott döntéseit megváltoztathatja vagy megsemmisítheti. A szakmai felügyelet körében az önkormányzat évente legalább egy alkalommal értékeli a közlekedésszervező tevékenységét és a következő időszakra tervezett stratégiai intézkedéseit.
 
-(2a)
+(2a) A miniszter az átadott feladatok tekintetében szakmai felügyeletet gyakorol az országos közlekedésszervező felett, ennek során az ellátásért felelős az országos közlekedésszervező által az (1a) bekezdésben és a 21/A. §-ban meghatározott rendelkezések alapján ellátott feladatok tekintetében hozott döntéseit megváltoztathatja vagy megsemmisítheti a feladatellátási szerződésben meghatározott eljárásrend szerint. A szakmai felügyelet körében az országos közlekedésszervező legalább évente beszámol a szakmai tevékenységéről, és a miniszter évente legalább egy alkalommal értékeli a közlekedésszervező tevékenységét és a következő időszakra tervezett stratégiai intézkedéseit.
 
-(3) Amennyiben a közlekedésszervező valamely közszolgáltatási tevékenysége gazdasági tevékenységnek minősül akkor azt kizárólag az Európai Unió által az Európai Unió működéséről szóló szerződés 106. cikk (2) bekezdésének alkalmazása érdekében kiadott kötelező jogi aktusnak és az 1370/2007/EK rendeletnek megfelelő közszolgáltatási szerződés alapján végezheti.
+(3) A közlekedésszervező és az országos közlekedésszervező alapvetően az Európai Unió működéséről szóló szerződés szerinti közfeladatot lát el. Ha a közlekedésszervező vagy az országos közlekedésszervező valamely közfeladat ellátásához kapcsolódó közszolgáltatási tevékenysége gazdasági tevékenységnek minősül, akkor azt kizárólag az Európai Unió által az Európai Unió működéséről szóló szerződés 106. cikk (2) bekezdésének alkalmazása érdekében kiadott kötelező jogi aktusnak és az 1370/2007/EK rendeletnek megfelelő közszolgáltatási szerződés alapján végezheti.
 
-#### 21/A. §
+21/A. § (1) Az országos közlekedésszervező a 21. § (1a) bekezdésében meghatározott feladatokon túl a 21. § (1b) bekezdése szerinti kijelölő rendeletben foglaltaknak megfelelően elláthatja:
+
+- 1. az országos, elővárosi és regionális személyszállítási közszolgáltatások közül a nyílt hozzáférésű vasúthálózatokon zajló közszolgáltatások menetrendi koncepciójának és pályakapacitás-igényének meghatározását, az egyéb közlekedési hálózatok esetében a menetrend előkészítésével és meghatározásával kapcsolatos feladatokat, a személyzeti vezénylés, továbbá a vasúti pályakapacitás elosztási feladatok kivételével,
+- 2. a 35/A–35/C. §-ban meghatározott feladatokat,
+- 3. az országos, elővárosi és regionális személyszállítási közszolgáltatások tekintetében felmerülő jegy- és bérletértékesítéssel, a bevételek beszedésével kapcsolatos feladatokat, amelyek végrehajtásába a közlekedési szolgáltatókat is bevonhatja a 21. § (1b) bekezdése szerinti kijelölő rendeletben meghatározottak szerint,
+- 4. a 3. pontban meghatározott bevételekhez kapcsolódó szociálpolitikai menetdíj-támogatás igénybevételével kapcsolatos feladatokat,
+- 5. az országos, elővárosi és regionális személyszállítási közszolgáltatások tekintetében felmerülő jegy- és bérletellenőrzési feladatokat, meghatározza azok egységes műszaki feltételeit, amelyek megvalósításába a közlekedési szolgáltatókat is bevonhatja,
+- 6. az országos, elővárosi és regionális személyszállítási közszolgáltatások tekintetében felmerülő utastájékoztatási feladatokat, amelyek végrehajtásába a közlekedési szolgáltatókat, továbbá a vasúti pályahálózat-működtetőket is bevonhatja,
+- 7. az országos, elővárosi és regionális személyszállítási közszolgáltatások, valamint pályaműködtetési szolgáltatások arculati, utastájékoztatási, utaskommunikációs, utaskapcsolati és utaskezelési szabályainak, valamint egyéb átjárhatósági feladatmegosztásának és rendjének, valamint technikai standardjainak meghatározását, amelyek végrehajtásába a közlekedési szolgáltatókat, valamint a vasúti pályahálózat-működtetőket is bevonhatja,
+- 8. a menetrend megtartását kizáró, előre nem látható esemény esetére a menetrendi és utastájékoztatási intézkedések, ideértve a valós idejű utastájékoztatási intézkedések rendjének meghatározását,
+- 9. a megrendelt közszolgáltatás teljesítése során jelentkező zavarok elhárítása és a rendkívüli igények teljesítése céljából az operatív lebonyolítás módját, az alkalmazandó intézkedések meghatározását, amelyek végrehajtását a közlekedési szolgáltató csak abban az esetben tagadhatja meg, ha a rendelkezés az emberi életet, egészséget vagy a vasútüzem biztonságát sérti vagy veszélyezteti,
+- 10. az országos, elővárosi, regionális autóbusszal végzett személyszállítási közszolgáltatással érintett autóbusz-állomások fenntartásával és működtetésével, valamint a hozzáférési jog biztosításával kapcsolatos tevékenységeket, amelyek végrehajtásába a közlekedési szolgáltatókat is bevonhatja,
+- 11. a közösségi közlekedés összehangolásával, a közlekedésimód-váltással, az egyéni közlekedési módok közösségi közlekedésre történő átváltásának elősegítésével kapcsolatos koordinációs és utaskommunikációs feladatokat,
+- 12. a tiszta és kibocsátásmentes járművek beszerzésének koordinációjával kapcsolatos feladatokat,
+- 13. a 20. § (4) bekezdésében meghatározott feladatokat,
+- 14. a Vtv. 24/D. § (2) bekezdésében meghatározott együttműködési feladatokat,
+- 15. a Vtv. 28. § (1) bekezdésében meghatározott feladatokat,
+- 16. a közúti közlekedésről szóló 1988. évi I. törvény 9. § (1b) bekezdésében meghatározott feladatokat,
+- 17. a Vkt. 2. § (4a) bekezdésében meghatározott feladatokat.
+
+(2) Az országos közlekedésszervező közlekedésszervezői feladatellátásának finanszírozásával, valamint az országos közlekedésszervező gazdálkodási felügyeletével, bevételeinek és indokolt költségeinek elszámolásával összefüggő részletes szabályokat a miniszter és az országos közlekedésszervező között az államháztartásért felelős miniszter egyetértésével 20 évre kötött közfeladat-ellátási szerződés (a továbbiakban: közfeladat-ellátási szerződés) tartalmazza.
+
+(3) A közfeladat-ellátási szerződés – éves gördülőtervezéssel történő felülvizsgálat mellett – legalább 3 éves, ha a közfeladat-ellátási szerződés hatályának időtartama ennél rövidebb, akkor a közfeladat-ellátási szerződés időbeli hatályával megegyező időszakra vonatkozó éven túli kötelezettségvállalásként – keret jelleggel – tartalmazza az országos közlekedésszervező által biztosítandó személyszállítási közszolgáltatások, valamint pályaműködtetési szolgáltatások
+
+- a) mennyiségi és minőségi előírásait,
+- b) az a) pontban meghatározott előírásokhoz kapcsolódó pénzügyi és gazdálkodási kereteket és eljárásrendeket, valamint
+- c) a b) pontban meghatározott keretektől történő eltérések kezelésének eljárási és finanszírozási felelősségi rendjét.
+
+(4) Az országos közlekedésszervező feladatai ellátásának finanszírozásával, valamint a források átadásával kapcsolatos részletes szabályokat a közfeladat-ellátási szerződés tartalmazza.
+
+(5) Az országos közlekedésszervező éven túli kötelezettségvállalást – a miniszter jóváhagyásával – a közfeladat-ellátási szerződésben meghatározott teljesítményszint 75%-ának megfelelő költségszintig vállalhat.
+
+(6) Az országos közlekedésszervező köteles számvitelében elkülönített nyilvántartást vezetni a 21. § (1a) bekezdésében, valamint az (1)–(5) bekezdésben meghatározott tevékenységével összefüggésben, a tevékenységhez kapcsolódó eszközökről és forrásokról, bevételekről és ráfordításokról a számvitelről szóló 2000. évi C. törvény (a továbbiakban: számvitelről szóló törvény) alapján meghatározott számviteli politikában rögzített, az átcsoportosítás lehetőségét kizáró elszámolási rendnek megfelelően. Az országos közlekedésszervezőnek az elkülönített elszámolást a számvitelről szóló törvény szerinti bizonylatmegőrzési határidőig meg kell őriznie, kivéve, ha az európai uniós állami támogatási szabályok ennél hosszabb határidőt állapítanak meg. Az országos közlekedésszervező által a közszolgáltatások nyújtása érdekében e törvény szerint megrendelt közlekedési szolgáltatásokat az üzletszabályzatban meghatározott módon a számvitelről szóló törvény szerinti közvetített szolgáltatásként nyújtja az utasok és az igénybe vevők számára.
+
+(7) Az országos közlekedésszervező a Vtv. 24/B. § (1) bekezdésében meghatározott gördülőállomány-kezelő társaság (a továbbiakban: gördülőállomány-kezelő társaság) által biztosított, a Helyreállítási és Ellenállóképességi Eszközből beszerzett vasúti járműveket kizárólag vasúti személyszállítási közszolgáltatások ellátására, versenyeztetési eljárás keretében bocsáthatja rendelkezésre a közlekedési szolgáltatók számára.
+
+(8) Az országos közlekedésszervező a gördülőállomány-kezelő társaságtól átveszi és kezeli a gördülőállomány beszerzésével, finanszírozásával, amortizációjával, fenntartásával és karbantartásával kapcsolatos költségadatokat, amennyiben azok a közszolgáltatási szerződések előkészítéséhez, a közszolgáltatási ellentételezés meghatározásához vagy a közszolgáltatási szerződések odaítélésére irányuló eljárások előkészítéséhez szükségesek.
 
 22. § (1) Az önkormányzat a közlekedésszervezőt az e törvényben meghatározott feladatok átadására vonatkozó jogszabályban (a továbbiakban: kijelölő jogszabály) jelöli ki.
 
@@ -846,6 +934,8 @@ közfeladatainak egységes ellátására – az ellátásért felelős előzetes
 - c) a szomszédos vármegyeszékhelyek közötti közvetlen eljutási lehetőség, valamint
 - d) a főváros és a vármegyeszékhelyek közötti közvetlen eljutási lehetőség.
 
+(4a) Az alapellátásban részesülő települési önkormányzattal egyeztetve a (4) bekezdés a) pontjában foglalt közvetlen eljutási lehetőséget a megrendelő eltérő járásközpontba vagy a gyakorlatban kialakult vonzáskörzeti központba is biztosíthatja.
+
 (5) Az országos, regionális és elővárosi személyszállítási közszolgáltatásokat igénybe vevőknek naponta legalább három alkalommal a (4) bekezdés a) pontjában és naponta legalább két alkalommal a (4) bekezdés b)–d) pontjában meghatározott viszonylatokon nyújtott alapellátást kell biztosítani településenként, a települési önkormányzattal az egységes egyeztetési eljárás keretében történő egyeztetések eredményének figyelembevételével kialakított menetrend szerint közlekedő járattal.
 
 (6) A lakosság mobilitásának elősegítése érdekében a (4) és (5) bekezdésben foglaltakon felül e törvény felhatalmazása alapján a közlekedésért felelős miniszter rendeletben az országos, regionális és elővárosi személyszállítási közszolgáltatásokra vonatkozóan a személyszállítási közszolgáltatások keretében nyújtandó alapellátás részeként további kötelező eljutási lehetőségek biztosítását határozhatja meg.
@@ -964,7 +1054,7 @@ alapján meghatározott számviteli politikában rögzített, az átcsoportosít
 
 (4) Az országos, regionális és elővárosi közlekedési szolgáltató a bevételeket időponthoz, járatokhoz, menetjegyhez, árkategóriákhoz, valamint indulási és érkezési állomáshoz rendelhető adatstruktúrában köteles nyilvántartani.
 
-(5) Ha a bevételek beszedését a 22. § (5) bekezdése szerint a közlekedésszervező végzi, akkor a (3) és (6) bekezdésben foglalt kötelezettségek a közlekedésszervezőt terhelik.
+(5) Ha a bevételek beszedését a 21. § (1b) bekezdése vagy a 22. § (5) bekezdése szerint a közlekedésszervező végzi, akkor a (3) és (6) bekezdésben foglalt kötelezettségek a közlekedésszervezőt terhelik.
 
 (6) Az ellátásért felelős a főváros és elővárosa tekintetében a fővárosi személyszállítási közszolgáltatás és az elővárosi személyszállítási közszolgáltatások igénybevételére jogosító egységes jegy- és bérletrendszert működtet, a megyei jogú város tekintetében a helyi személyszállítási közszolgáltatások és az elővárosi személyszállítási közszolgáltatások igénybevételére vonatkozó egységes jegy- és bérletrendszert működtethet.
 
@@ -974,9 +1064,9 @@ alapján meghatározott számviteli politikában rögzített, az átcsoportosít
 
 (2) A személyszállítási közszolgáltatási utazási kedvezmények ellentételezésére szociálpolitikai menetdíj-támogatás vehető igénybe – az e törvényben meghatározott feltételek szerint – személyszállítási közszolgáltatás tevékenység közszolgáltatási szerződés alapján történő nyújtása esetén.
 
-(3) Szociálpolitikai menetdíj-támogatást a közlekedési szolgáltató, más közlekedési szolgáltató által saját nevében történő továbbértékesítés esetén – a szolgáltatást nyújtó közlekedési szolgáltatóval történő elszámolási kötelezettség mellett – a szolgáltatást nyújtó közlekedési szolgáltató jogosult igényelni. A közlekedésszervező jogosult a szociálpolitikai menetdíj-támogatás igénylésére, amennyiben a közszolgáltatással összefüggő díjakból származó bevételek beszedését a 22. § (5) bekezdése alapján a közlekedésszervező végzi.
+(3) Szociálpolitikai menetdíj-támogatást a közlekedési szolgáltató, más közlekedési szolgáltató által saját nevében történő továbbértékesítés esetén – a szolgáltatást nyújtó közlekedési szolgáltatóval történő elszámolási kötelezettség mellett – a szolgáltatást nyújtó közlekedési szolgáltató jogosult igényelni. A közlekedésszervező jogosult a szociálpolitikai menetdíj-támogatás igénylésére, amennyiben a közszolgáltatással összefüggő díjakból származó bevételek beszedését a 21. § (1b) bekezdése vagy a 22. § (5) bekezdése alapján a közlekedésszervező végzi.
 
-(3a) Szociálpolitikai menetdíj-támogatást kedvezményes összekapcsolt és kedvezményes integrált díjtermékek vonatkozásában a személyszállítási közszolgáltatást nyújtó közlekedési szolgáltató vagy a – közszolgáltatással összefüggő díjakból származó bevételek beszedését a 22. § (5) bekezdése alapján végző – közlekedésszervező az 5. § (3) és (4) bekezdés, vagy a 32. § (2) bekezdés alapján kötött megállapodásban rögzített díjrészesedés szerinti arányban, a szociálpolitikai menetdíj-támogatás megállapításának és igénybevételének szabályairól szóló jogszabály szerint igényelhet.
+(3a) Szociálpolitikai menetdíj-támogatást kedvezményes összekapcsolt és kedvezményes integrált díjtermékek vonatkozásában a személyszállítási közszolgáltatást nyújtó közlekedési szolgáltató vagy a – közszolgáltatással összefüggő díjakból származó bevételek beszedését a 21. § (1b) bekezdése vagy a 22. § (5) bekezdése alapján végző – közlekedésszervező az 5. § (3) és (4) bekezdés, vagy a 32. § (2) bekezdés alapján kötött megállapodásban rögzített díjrészesedés szerinti arányban, a szociálpolitikai menetdíj-támogatás megállapításának és igénybevételének szabályairól szóló jogszabály szerint igényelhet.
 
 (4) Nem vehető igénybe szociálpolitikai menetdíj-támogatás
 
@@ -1074,13 +1164,13 @@ szolgáltatásokat nyújt.
 
 #### 26. Menetkedvezmények
 
-37. § (1) Az országos, regionális vagy elővárosi vasúti személyszállítási közszolgáltatást végző, valamint az országos vasúti pályahálózatot működtető vasúti társaság, az országos, regionális vagy elővárosi vasúti személyszállítási közszolgáltatást és az országos, regionális vagy elővárosi autóbusszal végzett személyszállítási közszolgáltatást együttesen végző társaság, továbbá ezen szervezetek kapcsolt vállalkozásai (e § alkalmazásában a továbbiakban együtt: vasúti társaság) munkavállalóját, azt a volt munkavállalóját, aki legkésőbb a munkaviszony megszűnését követő naptól kezdődően nyugellátásban, korhatár előtti ellátásban, szolgálati járandóságban, átmeneti bányászjáradékban vagy megváltozott munkaképességű személyek ellátásában részesül (a továbbiakban: nyugdíjas) és igényjogosult hozzátartozóikat, továbbá a vasúti dolgozók menetkedvezményeiről szóló jogszabályban meghatározott személyeket utazási kedvezmény illeti meg (a továbbiakban: menetkedvezmény). Az egyes társaságok munkavállalóit megillető, igénybe vehető menetkedvezményekre, azok elismerésére, elszámolásának módjára és megtérítésére az érintett társaságok megállapodása irányadó. Az elkülönült vasútegészségügyi szervezet munkavállalóját a menetkedvezmények szempontjából az országos vasúti személyszállítási közszolgáltatást végző vasúti társaság munkavállalójának kell tekinteni.
+37. § (1) Az országos, regionális vagy elővárosi vasúti személyszállítási közszolgáltatást végző, valamint az országos vasúti pályahálózatot működtető vasúti társaság, az országos, regionális vagy elővárosi vasúti személyszállítási közszolgáltatást és az országos, regionális vagy elővárosi autóbusszal végzett személyszállítási közszolgáltatást együttesen végző társaság, továbbá ezen szervezetek kapcsolt vállalkozásai (e § alkalmazásában a továbbiakban együtt: vasúti társaság) munkavállalóját, azt a volt munkavállalóját, aki legkésőbb a munkaviszony megszűnését követő naptól kezdődően nyugellátásban, korhatár előtti ellátásban, szolgálati járandóságban, átmeneti bányászjáradékban vagy megváltozott munkaképességű személyek ellátásában részesül (a továbbiakban: nyugdíjas) és igényjogosult hozzátartozóikat, továbbá a vasúti dolgozók menetkedvezményeiről szóló jogszabályban meghatározott személyeket utazási kedvezmény illeti meg (a továbbiakban: menetkedvezmény). Az egyes társaságok munkavállalóit megillető, igénybe vehető menetkedvezményekre, azok elismerésére, elszámolásának módjára és megtérítésére az országos közlekedésszervező és az érintett vasúti társaságok megállapodása irányadó. Az elkülönült vasútegészségügyi szervezet és az országos közlekedésszervező munkavállalóját a menetkedvezmények szempontjából az országos vasúti személyszállítási közszolgáltatást végző vasúti társaság munkavállalójának kell tekinteni.
 
-(2) A vasúti társaság, valamint a vasúti dolgozók menetkedvezményeiről szóló jogszabályban meghatározott kedvezményre jogosultak munkáltatója (e § alkalmazásában a továbbiakban: munkáltató) az (1) bekezdés szerinti menetkedvezményre jogosult (5) bekezdésben meghatározott adatait kezeli.
+(2) A vasúti társaság, illetve a 21. § (1b) bekezdése szerinti rendeletben a 21/A. § (1) bekezdés 3. pontjában foglalt feladatra vonatkozó kijelölése esetén az országos közlekedésszervező, valamint a vasúti dolgozók menetkedvezményeiről szóló jogszabályban meghatározott kedvezményre jogosultak munkáltatója (e § alkalmazásában a továbbiakban: munkáltató) az (1) bekezdés szerinti menetkedvezményre jogosult (5) bekezdésben meghatározott adatait kezeli.
 
-(3) A munkáltató a menetkedvezményre jogosult (5) bekezdésben meghatározott adatait az országos, regionális vagy elővárosi vasúti személyszállítási közszolgáltatást végző vasúti társaság, illetve az országos, regionális vagy elővárosi vasúti személyszállítási közszolgáltatást és az országos, regionális vagy elővárosi autóbusszal végzett személyszállítási közszolgáltatást együttesen végző társaság részére továbbítja.
+(3) A munkáltató a menetkedvezményre jogosult (5) bekezdésben meghatározott adatait az országos, regionális vagy elővárosi vasúti személyszállítási közszolgáltatást végző vasúti társaság, a 21. § (1b) bekezdése szerinti rendeletben a 21/A. § (1) bekezdés 3. pontjában foglalt feladatra vonatkozó kijelölése esetén az országos közlekedésszervező, illetve az országos, regionális vagy elővárosi vasúti személyszállítási közszolgáltatást és az országos, regionális vagy elővárosi autóbusszal végzett személyszállítási közszolgáltatást együttesen végző társaság részére továbbítja.
 
-(4) A menetkedvezményre való jogosultság biztosítása céljából a menetkedvezményt biztosító országos, regionális vagy elővárosi vasúti személyszállítási közszolgáltatást végző vasúti társaság, illetve az országos, regionális vagy elővárosi vasúti személyszállítási közszolgáltatást és az országos, regionális vagy elővárosi autóbusszal végzett személyszállítási közszolgáltatást együttesen végző társaság az utazási kedvezményre jogosult munkavállaló, kormánytisztviselő, köztisztviselő, közalkalmazott, egészségügyi szolgálati jogviszonyban álló személy rendvédelmi igazgatási alkalmazott, honvédelmi alkalmazott, nyugdíjas, valamint ezek igényjogosult hozzátartozója (5) bekezdésben meghatározott adatait a menetkedvezményre való jogosultság megszűnéséig, illetve a kedvezmény igénybevételére jogosító igazolvány vasúti társaság részére történő visszaszolgáltatásáig kezeli.
+(4) A menetkedvezményre való jogosultság biztosítása céljából a menetkedvezményt biztosító országos, regionális vagy elővárosi vasúti személyszállítási közszolgáltatást végző vasúti társaság, illetve az országos, regionális vagy elővárosi vasúti személyszállítási közszolgáltatást és az országos, regionális vagy elővárosi autóbusszal végzett személyszállítási közszolgáltatást együttesen végző társaság, valamint az országos közlekedésszervező az utazási kedvezményre jogosult munkavállaló, kormánytisztviselő, köztisztviselő, közalkalmazott, egészségügyi szolgálati jogviszonyban álló személy rendvédelmi igazgatási alkalmazott, honvédelmi alkalmazott, nyugdíjas, valamint ezek igényjogosult hozzátartozója (5) bekezdésben meghatározott adatait a menetkedvezményre való jogosultság megszűnéséig, illetve a kedvezmény igénybevételére jogosító igazolvány vasúti társaság részére történő visszaszolgáltatásáig kezeli.
 
 (5) Az adatkezelés a következő adatokra terjed ki:
 
@@ -1269,7 +1359,7 @@ rendeletben állapítsa meg.
 - g) a 45. § szerinti, az új nemzetközi vasúti személyszállítási szolgáltatások eljárásainak díjait
 - h) az autóbuszos hatóság eljárásáért fizetendő igazgatási szolgáltatási díj mértékét, valamint a díj megfizetésére kezelésére, nyilvántartására és visszatérítésére vonatkozó részletes szabályokat az adópolitikáért felelős miniszterrel egyetértésben
 - i) a 35. § (4) bekezdésében meghatározott szervezet kijelölését, az országos, regionális és elővárosi személyszállítási közszolgáltatások vonatkozásában a szervezet feladataira, a személyszállítási közszolgáltatások teljesítése mennyiségi és minőségi ellenőrzésének tárgyára, tartalmára és eljárására vonatkozó, valamint az ellenőrzési feladat ellentételezését biztosító díjazásával összefüggő feltételeket és részletes szabályokat
-- j)
+- j) az országos közlekedésszervező kijelölését, működési feltételeinek, a 21. § (1a) és (1c) bekezdésében, valamint a 21/A. §-ban meghatározott feladatátadás céljának, a feladatok teljesítésének, feltételeinek és megosztásának, a döntési jogok megosztása módjának, feltételeinek és felelősségi rendjének, az együttműködés kereteinek, a források átadása módjának, az országos közlekedésszervező feletti szakmai felügyeleti jogkör gyakorlása módjának, az országos közlekedésszervező és a gördülőállomány-kezelő társaság közötti információ megosztási kötelezettségnek, a 21. § (1e) bekezdésében meghatározott feladatellátásnak a részletes szabályait, az önként ellátható feladatokkal összefüggő szabályokat, valamint a feladatok ellátásával kapcsolatos további szükséges feltételeket, az országos közlekedésszervező vezető tisztségviselőjével, valamint vezető testületének tagjaival kapcsolatos szakmai és személyi feltételekre vonatkozó részletes szabályokat
 - k)
 
 rendeletben állapítsa meg.
@@ -1328,6 +1418,26 @@ vonatkozó önkormányzati rendelet kiadására.
 (15) A 2025/2026. évi menetrend hatálybalépéséig a Módtv. hatálybalépése előtt hatályos, még elégséges szolgáltatás mértékére vonatkozó rendelkezések szerint köteles a szolgáltató sztrájk esetén a közszolgáltatást ellátni.
 
 (16) Az e törvény szerinti kiemelt közszolgáltatói közreműködő a helyi adókról szóló 1990. évi C. törvény (a továbbiakban: Htv.) alkalmazása során az e törvény szerinti közlekedésszervezővel esik egy megítélés alá. A kiemelt közszolgáltatói közreműködő a Htv. 3. § (3) bekezdésében meghatározott nyilatkozatot első alkalommal 2025. évben 2025. július 31-ig teheti meg.
+
+(17) Az országos közlekedésszervező 2026. december 31-ig megkezdi a 23. § (2a) bekezdése alapján megkötött vasúti személyszállítási közszolgáltatási szerződésekben meghatározott kizárólagos jogok versenyeztetési eljárás keretében történő odaítéléséhez szükséges eljárások előkészítését és lefolytatását. Ennek érdekében a közszolgáltatási jogok odaítélésére vonatkozó versenyeztetési eljárások ütemezésével kapcsolatos programot alakít ki, amelyben a vasúti személyszállítási közszolgáltatásokat a közszolgáltatási szerződések versenyeztetésére alkalmas csomagokba szervezi, és azok versenyeztetésére többéves programot készít. A program meghatározza a versenyeztetési eljárás keretében odaítélendő közszolgáltatási szerződési csomagok versenyeztetésének sorrendjét is.
+
+(18) Az országos közlekedésszervező a (17) bekezdésben meghatározott versenyeztetési eljárás során előírhatja a Vtv. 24/B. § (1) bekezdésében meghatározott gördülőállomány-kezelő társaság által rendelkezésre bocsátott vasúti járművek kötelező igénybevételét.
+
+(19) Az országos közlekedésszervező 2026. augusztus 30-ig az 5. § (5) és (6) bekezdésében foglalt, a KTI részére meghatározott szakmai háttértámogatást és a szakmai előkészítésben való közreműködést végzi, valamint a 35. § (4) bekezdése szerinti ellenőrzési szervezetként jár el.
+
+(20) 2026. augusztus 31-től az 5. § (3) bekezdése szerint létrejött együttműködési megállapodásokban a minisztert megillető jogok és kötelezettségek az országos közlekedésszervezőre szállnak át.
+
+(21) A 24. § (5) és (5a) bekezdése alapján létrejött közszolgáltatási megbízásokban vagy elrendelésekben rögzített, valamint a 25. § (1) bekezdése alapján országos, elővárosi és regionális személyszállítási közszolgáltatást ellátó közszolgáltató társaságok közszolgáltatási szerződéseikben meghatározott, a közszolgáltatásokat megrendelő minisztert megillető jogok és kötelezettségek 2026. augusztus 31-től az országos közlekedésszervezőre szállnak át.
+
+(22) A KTI menetrend szerinti személyszállítással, valamint a tiszta és kibocsátásmentes járművek beszerzésének koordinációjával kapcsolatos közfeladatait 2026. augusztus 31-ig az országos közlekedésszervező veszi át. Az e bekezdés szerinti feladatok ellátásával összefüggő jogosultságok és kötelezettségek tekintetében az országos közlekedésszervező 2026. augusztus 31-től a KTI helyébe lép. A KTI e bekezdés szerinti feladatai ellátásához szükséges állami tulajdonban és a KTI vagyonkezelésében álló vagyonelemek és vagyoni értékű jogok tulajdonosi joggyakorlója a közösségi közlekedés versenyképességének és hatékonyságának javításával összefüggő intézkedések, valamint az országos közlekedésszervező és az országos gördülőállomány-kezelő társaság létrehozása érdekében szükséges törvénymódosításokról szóló 2026. évi XXXVII. törvény hatálybalépésétől a miniszter. Az e bekezdés szerinti vagyonelemeket nem pénzbeli vagyoni hozzájárulásként az országos közlekedésszervező tulajdonába kell adni, amely során az állam képviseletében a miniszter jár el.
+
+(23) Az országos közlekedésszervező jogszabályban foglalt feladatainak teljesítése érdekében – átadás-átvételi jegyzőkönyvben rögzített módon – közfeladatért felelős jogutódként átveszi a MÁV Magyar Államvasutak Zártkörűen Működő Részvénytársaságtól (a továbbiakban: MÁV Zrt.), a MÁV Személyszállítási Zártkörűen Működő Részvénytársaságtól (a továbbiakban: MÁV Személyszállítási Zrt.), a MÁV Pályaműködtetési Zártkörűen Működő Részvénytársaságtól (a továbbiakban: MÁV Pályaműködtetési Zrt.), valamint a MÁV SZK-tól a feladatok teljesítéséhez szükséges vagyonelemeket, vagyoni értékű jogokat, egyéb erőforrásokat, valamint a részére átadásra kerülő közfeladatokhoz kapcsolódó jogokat és kötelezettségeket térítésmentesen, olyan módon, hogy ez az országos közlekedésszervező, valamint az e bekezdésben meghatározott társaságok számára közteherfizetési kötelezettséget nem keletkeztet. Az országos közlekedésszervező jogszabályban foglalt feladatainak teljesítéséhez szükséges, ezen jogviszonyok tekintetében az országos közlekedésszervező jogutódként az átadó, e bekezdésben meghatározott társaságok helyébe lép.
+
+(24) A (23) bekezdésben foglalt vagyonelemek, vagyoni értékű jogok, egyéb erőforrások, valamint a MÁV Zrt.-t, a MÁV Személyszállítási Zrt.-t, a MÁV Pályaműködtetési Zrt.-t és a MÁV SZK-t megillető jogok és kötelezettségek átadására nem kell alkalmazni a társasági adóról szóló 1996. évi LXXXI. törvény 18. §-ának rendelkezéseit.
+
+(25) A (23) bekezdés szerinti vagyonátadás elszámolása olyan módon történik, hogy a MÁV Zrt., a MÁV Személyszállítási Zrt., a MÁV Pályaműködtetési Zrt. és a MÁV SZK az országos közlekedésszervező részére átadott vagyonelemeket a számvitelről szóló törvény 36. § (2) bekezdés e) pontja alapján a tőketartalék terhére, tőketartalék hiányában a számvitelről szóló törvény 37. § (2) bekezdés g) pontja alapján az eredménytartalék terhére, az országos közlekedésszervező a MÁV Zrt.-től, a MÁV Személyszállítási Zrt.-től, a MÁV Pályaműködtetési Zrt.-től és a MÁV SZK-tól átvett vagyonelemeket pedig a számvitelről szóló törvény 36. § (1) bekezdés f) pontja szerint a tőketartalék javára számolja el. Az elszámolás során az eszközöket, vagyonelemeket nyilvántartási értéken kell figyelembe venni.
+
+(26) A közlekedésszervező és a közlekedési szolgáltató között kötött, a közszolgáltatás ellátására vonatkozó megállapodás vagy kijelölés alapján végzett tevékenységéből szerzett nettó árbevétel a gépjárműadóról szóló 1991. évi LXXXII. törvény 5. § c) pontja tekintetében közúti tömegközlekedés folytatásából származó nettó árbevételnek minősül.
 
 #### 36. Az Európai Unió jogának való megfelelés
 

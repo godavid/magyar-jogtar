@@ -37,7 +37,7 @@ SZERVEN BELÜLI VEZETŐI IRÁNYÍTÁSA ÉS FELADATAI
 
 ### A Nemzeti Adó- és Vámhivatal vezetői
 
-6. § (1) A NAV-ot az elnök vezeti. A NAV elnökének feladat- és hatáskörét a kijelölt miniszter irányítása alá tartozó, a Kormány eredeti jogalkotói hatáskörben kiadott rendeletében kijelölt államtitkár gyakorolja. A NAV elnöke képviseli a NAV-ot, közvetlenül vezeti a Központi Irányítást, továbbá ellátja mindazokat a feladatokat, amelyeket jogszabály a NAV vezetőjének feladat- és hatáskörébe utal.
+6. § (1) A NAV-ot az elnök vezeti. A NAV elnökét határozatlan időtartamra a kijelölt miniszter nevezi ki, és menti fel. A NAV elnöke képviseli a NAV-ot, közvetlenül vezeti a Központi Irányítást, továbbá ellátja mindazokat a feladatokat, amelyeket jogszabály a NAV vezetőjének feladat- és hatáskörébe utal.
 
 (2) A NAV elnöke feladat- és hatáskörében minősítésre jogosult.
 
@@ -53,7 +53,7 @@ SZERVEN BELÜLI VEZETŐI IRÁNYÍTÁSA ÉS FELADATAI
 
 (2) A vármegyei igazgatóságok kirendeltségének operatív vezetését főosztályvezető látja el, aki a kirendeltséghez telepített feladat- és hatáskör gyakorlója.
 
-10. § (1) A NAV elnökhelyettesei felett a kinevezési és felmentési jogkör kivételével a munkáltatói jogkört a NAV elnöke gyakorolja.
+10. § (1) A NAV elnöke felett a munkáltatói jogkört a kijelölt miniszter gyakorolja. A NAV elnökhelyettesei felett a kinevezési és felmentési jogkör kivételével a munkáltatói jogkört a NAV elnöke gyakorolja.
 
 (2) A Bűnügyi Főigazgatóság főigazgatója, valamint főigazgató-helyettesei felett a munkáltatói jogkört a NAV elnöke gyakorolja.
 

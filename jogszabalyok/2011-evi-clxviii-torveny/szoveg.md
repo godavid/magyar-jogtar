@@ -121,7 +121,7 @@ megjelölésével nyújtanak be egységes kérelmet, az elemi káresemények mia
 - e) a társasági adó alanya által a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 7. § (1) bekezdés z) pontjában foglaltak alapján adott támogatás, juttatás, valamint
 - f) a Magyarország 2023–2027 évekre vonatkozó KAP Stratégiai Tervéből nyújtott támogatás.
 
-(2) A mezőgazdasági kockázatkezelési pénzeszközből – törvény eltérő rendelkezése hiányában – kizárólag kárenyhítő juttatás céljára és a (6) bekezdés szerinti célokra teljesíthető kifizetés.
+(2) A mezőgazdasági kockázatkezelési pénzeszközből – törvény eltérő rendelkezése hiányában – kizárólag kárenyhítő juttatás, kárenyhítő juttatás előrehozott kifizetése (a továbbiakban: kárenyhítési előleg) céljára és a (6) bekezdés szerinti célokra teljesíthető kifizetés.
 
 (3) Az (1) bekezdés a) pontja szerinti pénzforrás a miniszter által vezetett minisztérium költségvetési fejezet fejezeti kezelésű előirányzatának bevételét képezi.
 
@@ -169,9 +169,23 @@ fedezetére használható fel.
 
 (3a) Ha a kárenyhítési hozzájárulás-fizetési kötelezettség összegéről szóló döntés adott tárgyév augusztus 16. után kerül közlésre a 6. § (5) bekezdése szerinti örökös részére, úgy ebben az esetben az örökös általi kárenyhítési hozzájárulás megfizetése kizárólag akkor tekinthető határidőben történő befizetésnek, ha az agrárkár-enyhítési szerv e törvény végrehajtására kiadott rendeletben meghatározott számláján a teljes összeg jóváírásra került a kárenyhítési hozzájárulás-fizetési kötelezettség összegéről szóló határozat véglegessé válástól számított 15 napon belül.
 
-(4) A kárenyhítési hozzájárulás összegét kizárólag átutalási megbízással, a befizető azonosítására alkalmas módon, a Közös Agrárpolitikából és a nemzeti költségvetésből biztosított agrártámogatások eljárási rendjéről szóló 2022. évi LXV. törvény 10. § (2) bekezdés b) pontja szerinti támogatási azonosító (a továbbiakban: támogatási azonosító) megadásával kell befizetni az agrárkár-enyhítési szerv e törvény végrehajtásáról szóló rendeletben meghatározott számlájára.
+(4) A kárenyhítési hozzájárulás összegét átutalási megbízással vagy on-line bankkártyás fizetéssel, a befizető azonosítására alkalmas módon, a Közös Agrárpolitikából és a nemzeti költségvetésből biztosított agrártámogatások eljárási rendjéről szóló 2022. évi LXV. törvény 10. § (2) bekezdés b) pontja szerinti támogatási azonosító (a továbbiakban: támogatási azonosító) megadásával kell befizetni az agrárkár-enyhítési szerv e törvény végrehajtásáról szóló rendeletben meghatározott számlájára.
 
 (5) A meg nem fizetett kárenyhítési hozzájárulás adók módjára behajtandó köztartozásnak minősül. A kárenyhítési hozzájárulás megfizetésének elmulasztása esetén a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény (a továbbiakban: eljárási tv.) 59–62. §-ában foglaltakat kell alkalmazni.
+
+#### 1/A. A kárenyhítési előleg
+
+10/A. § (1) A mezőgazdasági kockázatkezelési pénzeszközből kárenyhítési előleget igényelhet az a mezőgazdasági termelő,
+
+- a) aki a mezőgazdasági káresemény bekövetkezésének kárenyhítési évében a kockázatközösségben tagsággal rendelkezik,
+- b) akinek a káresemény bekövetkezésének kárenyhítési évében benyújtott egységes kérelme tartalmaz legalább 1 ha termő szőlő-, gyümölcsültetvényt, amely részben vagy egészben az e törvény végrehajtására kiadott rendeletben meghatározott mezőgazdasági káresemény okán kárt szenvedett, és
+- c) akinek a bekövetkezett kárt az agrárkár-megállapító szerv a 14. § (1) bekezdés szerinti döntése igazolja.
+
+(2) Az előlegfizetési kérelem benyújtására és elbírálására vonatkozó részletes szabályokat, valamint a kárenyhítési előleg mértékét az e törvény végrehajtására kiadott rendelet állapítja meg.
+
+(3) Amennyiben a kárenyhítési előleg összege meghaladja a kárenyhítési előleg igénybevételével érintett kárenyhítési év vonatkozásában megállapított kárenyhítő juttatás összegét, a különbözet kárenyhítési hozzájárulásnak minősül, amelyet a termelőnek a kárenyhítési hozzájárulás-fizetési kötelezettségről szóló döntés véglegessé válásától számított 15 napon belül kell megfizetni, azzal, hogy a határidő megtartásának vonatkozásában a 11. § (1) bekezdés g) pontja szerinti előírást nem kell alkalmazni.
+
+(4) A (3) bekezdés szerint megfizetett kárenyhítési hozzájárulás összege nem vehető figyelembe a 7. § (1) bekezdés f) pontja szerinti támogatás igénybevételekor.
 
 #### 2. A kárenyhítő juttatás igénybevételének jogosultsági feltételei
 
@@ -198,7 +212,7 @@ fedezetére használható fel.
 
 (5) Az e törvény szerinti kockázatközösségben tag mezőgazdasági termelő – jogszabály eltérő rendelkezése hiányában – a neki járó kárenyhítő juttatás felére jogosult, amennyiben az egységes kérelem, valamint a kárenyhítő juttatás iránti kérelem adatai alapján számított üzemi szintű referencia hozamértékének legalább felére kiterjedően nem rendelkezik – az adott kárenyhítési évre vonatkozóan – a hozamcsökkenést kiváltó káresemény bekövetkezése előtt megkötött és biztosítási szerződés szerint díjrendezett, az adott növénykultúrára jellemző, e törvény szerinti aszály, belvíz, felhőszakadás, jégeső, mezőgazdasági árvíz, tavaszi fagy, őszi fagy, téli fagy vagy vihar miatt bekövetkező káreseményre kiterjedő hatályú mezőgazdasági biztosítással, ilyen mezőgazdasági biztosítás hiányában pedig nem rendelkezik a mezőgazdasági krízisbiztosítási rendszerben a krízisbiztosítási hozzájárulási kötelezettség határidőben történő teljesítéséhez kapcsolódó tárgyévi tagsággal.
 
-12. § (1) Az e törvény szerinti kockázatközösségben tag mezőgazdasági termelő legfeljebb a hozamérték-csökkenésnek 80%-os mértéke szerinti kárenyhítő juttatásra jogosult, amely mértékbe bele kell számítani az ugyanazon elszámolható költségek tekintetében megállapított, bármely egyéb – állami vagy uniós társfinanszírozású – támogatást és az e törvény szerinti aszály, belvíz, felhőszakadás, jégeső, mezőgazdasági árvíz, tavaszi fagy, őszi fagy, téli fagy vagy vihar miatt bekövetkező káresemény után a biztosító által megállapított kártérítési összeget is.
+12. § (1) Az e törvény szerinti kockázatközösségben tag mezőgazdasági termelő legfeljebb a hozamérték-csökkenésnek 80%-os mértéke szerinti kárenyhítő juttatásra jogosult, amely mértékbe bele kell számítani az ugyanazon elszámolható költségek tekintetében megállapított, bármely egyéb – állami vagy uniós társfinanszírozású – támogatást, kárenyhítési előleget és az e törvény szerinti aszály, belvíz, felhőszakadás, jégeső, mezőgazdasági árvíz, tavaszi fagy, őszi fagy, téli fagy vagy vihar miatt bekövetkező káresemény után a biztosító által megállapított kártérítési összeget is.
 
 (2) A kárenyhítő juttatás (1) bekezdés szerinti összegének megállapítása során a termelő hozamérték-csökkenését az elemi káresemény bekövetkeztéből adódóan fel nem merült költség értékével mérsékelni kell.
 
@@ -464,7 +478,7 @@ feladatokat.
 
 (3) A krízisbiztosítási rendszerben tag mezőgazdasági termelő krízisbiztosítási hozzájárulást fizet, amelynek alapja a mezőgazdasági termelő által használt termőföld területe, illetve az átlagos állatállomány.
 
-(4) A krízisbiztosítási rendszerben tag mezőgazdasági termelő a krízisbiztosítási hozzájárulást tárgyév október 15-éig, átutalási megbízással, a befizető azonosítására alkalmas módon, a támogatási azonosító megadásával köteles megfizetni azzal, hogy határidőben történő befizetésnek kizárólag a krízisbiztosítási szerv e törvény végrehajtásáról szóló rendeletben meghatározott számláján tárgyév október 15-éig jóváírt összeg tekinthető.
+(4) A krízisbiztosítási rendszerben tag mezőgazdasági termelő a krízisbiztosítási hozzájárulást tárgyév október 15-éig, átutalási megbízással vagy on-line bankkártyás fizetéssel, a befizető azonosítására alkalmas módon, a támogatási azonosító megadásával köteles megfizetni azzal, hogy határidőben történő befizetésnek kizárólag a krízisbiztosítási szerv e törvény végrehajtásáról szóló rendeletben meghatározott számláján tárgyév október 15-éig jóváírt összeg tekinthető.
 
 (5) A meg nem fizetett krízisbiztosítási hozzájárulás adók módjára behajtandó köztartozásnak minősül. A krízisbiztosítási hozzájárulás megfizetésének elmulasztása esetén az eljárási tv. 59., 60. és 62. §-ában foglaltakat kell alkalmazni.
 
@@ -624,6 +638,7 @@ rendeletben jelölje ki.
 - s) az agrárgazdasági elemzésekkel foglalkozó intézmény által meghatározott ellenőrző adatok körét és azok felhasználásának részletes szabályait,
 - t) a krízisbiztosítási rendszer működésével kapcsolatos eljárási szabályokat,
 - u) a 2020 utáni Közös Agrárpolitika hazai végrehajtásához szükséges tervezés és a mezőgazdasági kockázatkezelési rendszer továbbfejlesztésének a 7. § (6) bekezdés szerinti pénzösszeg terhére finanszírozható költségeinek a meghatározását
+- v) a kárenyhítési előleg igénybevételét megalapozó mezőgazdasági káreseményeket, a kárenyhítési előleg iránti kérelem benyújtásának, elbírálásának részletes feltételeit, szabályait és a kárenyhítési előleg mértékét
 
 rendeletben állapítsa meg.
 

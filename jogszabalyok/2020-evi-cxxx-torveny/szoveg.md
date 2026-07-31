@@ -1069,13 +1069,7 @@ a NAV elnöke, tábornok esetén a miniszter külföldre vezényli a külföldi 
 
 (4) Az (1) bekezdésben meghatározott munkafeltételek változásáról a munkáltató a 41/A. § (3) bekezdésében foglaltak szerint tájékoztatja a foglalkoztatottat.
 
-#### 63. § [Szolgálati jogviszony szünetelése NAV elnökévé történő kinevezés esetén]
-
-(1) Ha a foglalkoztatottat a NAV elnökévé nevezik ki, a kinevezéstől e megbízatás megszűnéséig szünetel a szolgálati jogviszonya.
-
-(2) A szünetelés megszűnését követően a foglalkoztatott részére végzettségének megfelelő munkakört kell felajánlani. Az érintett a felajánlott munkakör elfogadásáról vagy elutasításáról a felajánlástól számított öt munkanapon belül írásban nyilatkozik.
-
-(3) Ha a foglalkoztatott a felajánlott munkakört nem fogadja el, a nyilatkozattétel időpontjától kezdődően jogviszonyát felmentéssel meg kell szüntetni. Ebben az esetben a szünetelést megelőzően betöltött korábbi munkakörben megállapított illetményt kell alapul venni a felmentési időre járó illetménynek, a végkielégítés összegének, valamint az egyéb kifizetések összegének meghatározásakor.
+#### 63. §
 
 #### 64. § [Szolgálati jogviszony szünetelése jelöltként történő nyilvántartásba vétel esetén]
 
@@ -2013,7 +2007,7 @@ A foglalkoztatott alap-, pót-, szülési, apasági, szülői és illetmény né
 - b) az igazgatóhelyettes, a központi szerv főosztályvezető-helyettese és a területi szerv főosztályvezetője esetében tizenhárom munkanap,
 - c) az igazgató, a központi szerv főosztályvezetője és a Bűnügyi Főigazgatóság főigazgató-helyettese esetében tizennégy munkanap,
 - d) a Bűnügyi Főigazgatóság főigazgatója esetében tizenöt munkanap,
-- e) az elnökhelyettes esetében tizenhat munkanap.
+- e) az elnök és az elnökhelyettes esetében tizenhat munkanap.
 
 #### 111. § [Gyermekek után járó pótszabadság]
 
@@ -2499,6 +2493,8 @@ kell megállapítani.
 
 (2) A foglalkoztatott illetménye a 145. § (1) bekezdése szerint megállapított alapilletményből, időpótlékból és – az e törvényben meghatározott feltételek esetén – munkaköri pótlékból, valamint egyéb illetménypótlékból áll.
 
+(2a) A (2) bekezdéstől eltérően a NAV elnökének illetményét a miniszter állapítja meg egy összegben személyi illetményként.
+
 (3) Az alapilletmény, az időpótlék és a munkaköri pótlék együttes összegének legalább a Kormány által meghatározott, garantált bérminimum összegét el kell érnie.
 
 (4) Havi illetmény esetén az egy órára járó illetmény meghatározása során a havi illetmény összegét osztani kell
@@ -2800,9 +2796,9 @@ indokoltan merültek fel.
 
 (2) Az (1) bekezdésben foglalt juttatás mértékét, feltételeit, az elbírálás és elszámolás rendjét, valamint a visszatérítés szabályait a NAV elnöke foglalkoztatási szabályzatban állapítja meg.
 
-#### 170/A. § [Az elnökhelyettes juttatásai]
+#### 170/A. § [Az elnök, elnökhelyettes juttatásai]
 
-Az elnökhelyettes az e törvény szerinti illetményén felül a helyettes államtitkári juttatásokkal azonos juttatásokra jogosult.
+Az e törvény szerinti illetményén felül az elnök az államtitkári, az elnökhelyettes a helyettes államtitkári juttatásokkal azonos juttatásokra jogosult.
 
 #### 171. § [Támogatás magántulajdonú lakás megszerzéséhez]
 

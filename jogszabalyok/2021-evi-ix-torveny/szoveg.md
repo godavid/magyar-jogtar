@@ -78,7 +78,7 @@ A közfeladatot ellátó közérdekű vagyonkezelő alapítványok kiemelkedő t
 
 (3) Az alapító okirat a kuratórium és a felügyelőbizottság elnökére, valamint tagjaira vonatkozóan képesítési, végzettségi és egyéb szakmai követelményeket állapíthat meg.
 
-(4) A kuratóriumi tagot, a felügyelőbizottsági tagot, illetve az alapítvány által létesített vagy fenntartott jogi személy vezető tisztviselőjét legfeljebb 4 évre lehet kijelölni. A kuratóriumi tag, a felügyelőbizottsági tag, illetve az alapítvány által létesített vagy fenntartott jogi személy vezető tisztviselője legfeljebb egy alkalommal jelölhető ki újra, legfeljebb további 4 évre. Az alapító a Ptk. 3:398. § (2) bekezdésétől eltérve a kuratóriumi, illetve a felügyelőbizottsági tagot megbízatásának lejárta előtt indokolás nélkül visszahívhatja. Az alapító okirat ezzel ellentétes rendelkezése semmis.
+(4) A kuratóriumi tagot, a felügyelőbizottsági tagot, illetve az alapítvány által létesített vagy fenntartott jogi személy vezető tisztségviselőjét legfeljebb 4 évre lehet kijelölni. A kuratóriumi tag, a felügyelőbizottsági tag, illetve az alapítvány által létesített vagy fenntartott jogi személy vezető tisztségviselője legfeljebb egy alkalommal jelölhető ki újra, legfeljebb további 4 évre. Az alapító a Ptk. 3:398. § (2) bekezdésétől eltérve a kuratóriumi, illetve a felügyelőbizottsági tagot megbízatásának lejárta előtt indokolás nélkül visszahívhatja. Az alapító okirat ezzel ellentétes rendelkezése semmis.
 
 #### 4. Az alapítói jogok gyakorlása
 
@@ -239,12 +239,14 @@ A közfeladatot ellátó közérdekű vagyonkezelő alapítványok kiemelkedő t
 - c) polgármester (főpolgármester) vagy vármegyei közgyűlés elnöke,
 - d) az Országgyűlés által választott vagy a köztársasági elnök által kinevezett tisztségviselő,
 - e) a kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbiakban: Kit.) szerinti politikai vagy biztosi szolgálati jogviszonyban álló tisztségviselő, vagy a Kit. szerinti szakmai felsővezető,
-- f) e törvény szerinti alapítványban a 6. § (4) bekezdése szerinti megbízása időpontjában – az újrakijelölés esetét ide nem értve, már – kuratóriumi tag, felügyelőbizottsági tag vagy az alapítvány által létesített vagy fenntartott, a Ptk. alapján létrehozott jogi személy felelős személye, vagy
-- g) – a 6. § (4) bekezdés szerinti újrakijelölés esetét ide nem értve – aki a kuratóriumi vagy felügyelőbizottsági megbízatását megelőző egy évben, illetve aki a vezető tisztségviselői megbízatásának kezdetét megelőző egy évben az a)–f) pont szerinti tisztséget töltötte be.
+- f) e törvény szerinti alapítványban a 6. § (4) bekezdése szerinti megbízása időpontjában – az újrakijelölés esetét ide nem értve, már – kuratóriumi tag, felügyelőbizottsági tag vagy az alapítvány által létesített vagy fenntartott, a Ptk. alapján létrehozott jogi személy vezető tisztségviselője, feltéve, hogy az a)–e) pont szerinti összeférhetetlenség nem áll fenn, vagy
+- g) aki a kuratóriumi vagy felügyelőbizottsági megbízatását megelőző egy évben, illetve aki a vezető tisztségviselői megbízatásának kezdetét megelőző egy évben az a)–e) pont szerinti tisztséget töltötte be.
 
 (1c) E törvény alkalmazásában az alapítvány által létesített vagy fenntartott jogi személy vezető tisztségviselője az alapítvány által létesített vagy fenntartott jogi személy európai uniós forrásokért felelős pénzügyi felsővezetőként eljáró vezető tisztségviselője.
 
 (1d) Kuratóriumi tag, felügyelőbizottsági tag, valamint vezető tisztségviselő akkor jelölhető ki, ha az (1a) bekezdés szerint megkövetelt függetlenségét, feddhetetlenségét, pártatlanságát és integritását az Állami Számvevőszék az alapítói jogok gyakorlójától érkezett megkeresés kézhezvételétől számított 15 napon belül kötelezően kiadott véleményével megállapítja.
+
+(1e) Az (1b) bekezdés f) pontja alkalmazásában a kuratóriumi tag, a felügyelőbizottsági tag, illetve az alapítvány által létesített vagy fenntartott jogi személy vezető tisztségviselője a 6. § (4) bekezdése alapján második alkalommal kizárólag egyetlen kuratóriumba vagy felügyelőbizottságba, illetve egyetlen, az alapítvány által létesített vagy fenntartott jogi személybe jelölhető ki újra.
 
 (2) Az alapítványi vagyonellenőr nem minősül az alapítvány törvény szerinti, illetve annak alapján megbízott tisztségviselőjének és – a 8. § (3) bekezdésében meghatározott kivételekkel – az alapítványi vagyonellenőri tisztség nem összeférhetetlen további munkaviszonnyal, illetve munkavégzésre irányuló más jogviszonnyal, valamint külön törvény szerinti egyéb megbízatással és tisztséggel.
 
@@ -262,11 +264,15 @@ A közfeladatot ellátó közérdekű vagyonkezelő alapítványok kiemelkedő t
 
 (5) A kuratóriumi tag, a felügyelőbizottsági tag, valamint az alapítvány által létesített vagy fenntartott jogi személy vezető tisztségviselője által tett, (1) bekezdés szerinti vagyonnyilatkozatot az Integritás Hatóság az európai uniós költségvetési források felhasználásának ellenőrzéséről szóló 2022. évi XXVII. törvény szerint ellenőrzi.
 
+(6) Ha az európai uniós költségvetési források felhasználásának ellenőrzéséről szóló törvény rendelkezései szerint az Integritás Hatóság jelentésében azt állapítja meg, hogy kuratóriumi tag, felügyelőbizottsági tag vagy az alapítvány által létesített vagy fenntartott jogi személy vezető tisztségviselője a vagyonnyilatkozatban lényeges adatot, tényt szándékosan valótlanul közölt, az alapítói jogok gyakorlójánál kezdeményezi a jogviszonyának megszüntetését.
+
 #### 10/B. Összeférhetetlenségi nyilatkozat tételére irányuló kötelezettség
 
 15/B. § (1) A kuratóriumi tag, a felügyelőbizottsági tag, valamint az alapítvány által létesített vagy fenntartott jogi személy vezető tisztségviselője köteles a kinevezését követő 30 napon belül, majd kétévente, valamint a megbízatásának megszűnését követő 30 napon belül összeférhetetlenségi nyilatkozatot tenni.
 
 (2) Az (1) bekezdés szerinti összeférhetetlenségi nyilatkozatokra nézve a 15/A. § (2)–(5) bekezdései megfelelően alkalmazandók.
+
+(3) Az összeférhetetlenségi nyilatkozatot az Integritás Hatóság a kézhezvételtől számított 15 napon belül ellenőrzi. Amennyiben az Integritás Hatóság az összeférhetetlenség fennállását állapítja meg, az alapítói jogok gyakorlójánál kezdeményezi az érintett személy jogviszonyának megszüntetését.
 
 ### III. Fejezet — AZ ALAPÍTVÁNY ÁLTAL ELLÁTOTT KÖZFELADAT
 
@@ -656,9 +662,13 @@ biztosítja az alapítványnak.
 
 31/D. § Az európai uniós forrásokhoz való hozzáférés érdekében szükséges egyes törvények módosításáról szóló 2026. évi XVIII. törvénnyel (a továbbiakban: Módtv3.) megállapított 6. § (4) bekezdés szerinti megbízatási időtartam a már kinevezett kuratóriumi tagra és felügyelőbizottsági tagra is alkalmazandó azzal, hogy amennyiben a megbízatása Módtv3.-mal megállapított e rendelkezés hatálybalépése napján 4 évnél hosszabb ideje tart, a megbízatása a 15. § (1a) bekezdése szerinti eljárás lefolytatását követő új tag kijelölésének napján megszűnik.
 
-31/E. § A 15/A. § (1) bekezdés szerinti vagyonnyilatkozat-tételi kötelezettség, valamint a 15/B. § (1) bekezdés szerinti összeférhetetlenségi nyilatkozat-tételi kötelezettség a már kinevezett kuratóriumi tagra, felügyelőbizottsági tagra, valamint az alapítvány által létesített vagy fenntartott jogi személy vezető tisztségviselőjére is alkalmazandó azzal, hogy amennyiben a megbízatása a Módtv3. hatálybalépése okán a 31/D. § szerinti időpontban megszűnik, köteles a megbízatásának megszűnését követő 30 napon belül nem nyilvános vagyonnyilatkozatot tenni az Országgyűlésről szóló 2012. évi XXXVI. törvény 1. melléklete szerinti tartalommal és formában, valamint köteles összeférhetetlenségi nyilatkozatot tenni.
+31/E. § (1) A 15/A. § (1) bekezdés szerinti vagyonnyilatkozat-tételi kötelezettség, valamint a 15/B. § (1) bekezdés szerinti összeférhetetlenségi nyilatkozattételére vonatkozó kötelezettség a Módtv3. hatálybalépésekor már kinevezett kuratóriumi tagra, felügyelőbizottsági tagra, valamint az alapítvány által létesített vagy fenntartott jogi személy vezető tisztségviselőjére is alkalmazandó. Amennyiben az ilyen személy megbízatása a Módtv3. hatálybalépése okán a 31/D. § szerinti időpontban megszűnik, köteles a megbízatásának megszűnését követő 30 napon belül nem nyilvános vagyonnyilatkozatot tenni az Országgyűlésről szóló 2012. évi XXXVI. törvény 1. melléklete szerinti tartalommal és formában, valamint köteles összeférhetetlenségi nyilatkozatot tenni.
 
-31/F. § Amennyiben az Állami Számvevőszék a 15. § (1d) bekezdése alapján megállapítja a Módtv3. hatálybalépésekor már kinevezett kuratóriumi tagra, felügyelőbizottsági tagra, valamint az alapítvány által létesített vagy fenntartott jogi személy vezető tisztségviselőjére vonatkozóan a függetlenségének, feddhetetlenségének, pártatlanságának vagy integritásának hiányát, az adott személy a tisztségéből eredő jogait nem gyakorolhatja, díjazásban nem részesülhet.
+(2) A Módtv3. hatálybalépésekor már kinevezett kuratóriumi tag, felügyelőbizottsági tag, valamint az alapítvány által létesített vagy fenntartott jogi személy vezető tisztségviselője köteles a Helyreállítási és Ellenállóképességi Terv végrehajtása érdekében szükséges adóintézkedésekről, valamint egyéb törvények módosításáról szóló 2026. évi XXXV. törvény (a továbbiakban: Módtv4.) hatálybalépését követő 5 napon belül a 15. § (1b) bekezdésére vonatkozóan összeférhetetlenségi nyilatkozatot tenni, amit a vagyonellenőr a kézhezvételt követő 5 napon belül megküld az Integritás Hatóságnak.
+
+31/F. § (1) Amennyiben az Állami Számvevőszék a 15. § (1d) bekezdése alapján megállapítja a Módtv3. hatálybalépésekor már kinevezett kuratóriumi tagra, felügyelőbizottsági tagra, valamint az alapítvány által létesített vagy fenntartott jogi személy vezető tisztségviselőjére vonatkozóan a függetlenségének, feddhetetlenségének, pártatlanságának vagy integritásának hiányát, az adott személy a tisztségéből eredő jogait nem gyakorolhatja, díjazásban nem részesülhet.
+
+(2) A 15. § (1a) bekezdés szerint megkövetelt függetlenség, feddhetetlenség, pártatlanság és integritás meglétének megállapítására vonatkozó eljárást a Módtv3. hatálybalépésekor már kinevezett kuratóriumi tag, felügyelőbizottsági tag, valamint az alapítvány által létesített vagy fenntartott jogi személy vezető tisztségviselője vonatkozásában az alapítói jogok gyakorlója a 15. § (1d) bekezdés szerinti eljárás megfelelő alkalmazásával a Módtv4. hatálybalépését követő 15 napon belül kezdeményezi. Amennyiben az Állami Számvevőszék az ilyen személy függetlenségének, feddhetetlenségének, pártatlanságának vagy integritásának hiányát állapítja meg, az alapítói jogok gyakorlójánál kezdeményezi az érintett személy jogviszonyának megszüntetését.
 
 31/G. § A 2. mellékletben felsorolt, azon közfeladatot ellátó közérdekű vagyonkezelő alapítványt, amely közfeladatként nem lát el felsőoktatási tevékenységet, az alapítói jogok gyakorlója 2026. augusztus 31-ig, a felsőoktatási tevékenységet közfeladatként ellátó közfeladatot ellátó közérdekű vagyonkezelő alapítványt 2027. augusztus 1. napjáig megszünteti. Törvény állapítja meg a felsőoktatási tevékenységet közfeladatként ellátó közfeladatot ellátó közérdekű vagyonkezelő alapítvány vagyoni viszonyai rendezésének, közfeladatai és egyéb feladatai ellátásának, illetve megszűnésének szabályait.
 
@@ -666,7 +676,7 @@ biztosítja az alapítványnak.
 
 31/I. § (1) A 6. § (4) bekezdése a Módtv3. hatálybalépésekor az alapítvány által létesített vagy fenntartott jogi személy vezető tisztségviselője tekintetében, a Módtv3. hatálybalépésekor fennálló megbízatására figyelemmel, 2027. augusztus 1. napjáig nem alkalmazható.
 
-(2) Az (1) bekezdés szerinti eltérés 2027. augusztus 2. napjától nem alkalmazható. Az e rendelkezés alapján 2027. augusztus 1. napján az alapítvány által létesített vagy fenntartott jogi személy vezető tisztviselőjének megbízatása 2027. augusztus 2. napján e törvény erejénél fogva megszűnik.
+(2) Az (1) bekezdés szerinti eltérés 2027. augusztus 2. napjától nem alkalmazható. Az e rendelkezés alapján 2027. augusztus 1. napján az alapítvány által létesített vagy fenntartott jogi személy vezető tisztségviselőjének megbízatása 2027. augusztus 2. napján e törvény erejénél fogva megszűnik.
 
 32. § (1)
 

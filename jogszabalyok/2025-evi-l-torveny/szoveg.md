@@ -684,65 +684,15 @@ ideje alatt létrehozott Operatív Törzs – ideértve annak munkacsoportját i
 
 91. § E Fejezet rendelkezéseit az e Fejezet hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
 
-### X. Fejezet — A JELENTŐS TÉRÍTÉSMENTES KIBOCSÁTÁSIEGYSÉG-KIOSZTÁSBAN RÉSZESÜLŐ LÉTESÍTMÉNY ÜZEMELTETŐJÉT ÉRINTŐ EGYES SZABÁLYOK
+### X. Fejezet
 
-92. § (1) E Fejezet alkalmazásában jelentős térítésmentes kibocsátásiegység-kiosztásban részesülő létesítmény üzemeltetőjének minősül az, akinek a létesítménye
+#### 92. §
 
-- a) rendelkezik a kibocsátási egységek harmonizált ingyenes kiosztására vonatkozó uniós szintű átmeneti szabályoknak a 2003/87/EK európai parlamenti és tanácsi irányelv 10a. cikke értelmében történő meghatározásáról szóló, 2018. december 19-i (EU) 2019/331 felhatalmazáson alapuló bizottsági rendelet 2. cikk 2. pontjában meghatározott termék-referenciaérték szerinti létesítményrésszel vagy a 2. cikk 10. pontjában meghatározott technológiai kibocsátások szerinti létesítményrésszel,
-- b) az a) pontban meghatározott létesítmények vonatkozásában
-  - ba) a tárgyévet megelőző három évben a hitelesített szén-dioxid-kibocsátásának éves átlaga meghaladta a 25 000 tonnát, és
-  - bb) a tárgyévet megelőző évben az azt megelőző három évben hitelesített szén-dioxid-összkibocsátása átlagának legalább 50%-ával megegyező mértékű térítésmentes kibocsátásiegység-kiosztásban részesült.
+#### 93. §
 
-(2) Ha az üzemeltető az (1) bekezdés a) pontja szerinti feltételnek megfelelő, több létesítménnyel rendelkezik, akkor
+#### 94. §
 
-- a) a tárgyévet megelőző három évben a hitelesített szén-dioxid-kibocsátásának éves átlagát létesítményenként össze kell számítani, és
-- b) az (1) bekezdés b) pont bb) alpontja szerinti feltétel teljesülésének vizsgálata során az egyes létesítmények tárgyévet megelőző évben az azt megelőző három évben hitelesített szén-dioxid-összkibocsátások átlagai, valamint az egyes létesítményekre kiosztott térítésmentes kibocsátási egységek létesítményenként összeadandók.
-
-93. § (1) A jelentős térítésmentes kibocsátásiegység-kiosztásban részesülő létesítmény üzemeltetője az uniós kibocsátásiegység-forgalmi jegyzékben vezetett üzemeltetői számláján lévő kibocsátási egységnek – a 2003/87/EK európai parlamenti és tanácsi irányelvnek az uniós kibocsátásiegység-forgalmi jegyzék működése tekintetében történő kiegészítéséről szóló, 2019. március 12-i (EU) 2019/1122 felhatalmazáson alapuló bizottsági rendelet (a továbbiakban: Rendelet) I. melléklet I-I. táblázat II. szerinti folyószámlára vagy III. szerinti kereskedési számlára történő, a Rendelet 55. cikkének megfelelő – átvezetése (e Fejezet alkalmazásában a továbbiakban: tranzakció) esetén tranzakciós díjat fizet az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában való részvételről szóló 2012. évi CCXVII. törvény végrehajtásának egyes szabályairól szóló 410/2012. (XII. 28.) Korm. rendelet (a továbbiakban: Ügkr. vhr.) 1. § (1a) bekezdésében meghatározott klímavédelmi hatóságnak (e Fejezet alkalmazásában a továbbiakban: klímavédelemért felelős hatóság).
-
-(2) A tranzakciósdíj-fizetési kötelezettség kiterjed a kibocsátási egységek olyan átvezetésére is, amelyeket ugyanazon üzemeltető az uniós kibocsátásiegység-forgalmi jegyzékben vezetett különböző létesítményéhez tartozó üzemeltetői számlái között végez.
-
-(3) A tranzakciósdíj-fizetési kötelezettség nem terjed ki arra a tranzakcióra, amelyet a jelentős térítésmentes kibocsátásiegység-kiosztásban részesülő létesítmény üzemeltetője a Rendelet 29. cikkében foglaltak szerinti lezárandó számlájáról kezdeményez.
-
-(4) A tranzakciós díj mértéke a tranzakcióval érintett kibocsátási egységeknek a tranzakció teljesülésének napján, vagy – ha a tranzakció teljesülésének napján nem történik tőzsdei árverés – az azt megelőző utolsó tőzsdei napon érvényes EEX-EUA tőzsdei árfolyama szerinti, a Magyar Nemzeti Bank által meghatározott napi középárfolyamon átszámított értékének 15%-a.
-
-(5) A jelentős térítésmentes kibocsátásiegység-kiosztásban részesülő létesítmény üzemeltetője a tranzakció teljesülésének napjától számított 10 napon belül bejelent a klímavédelemért felelős hatóságnak minden olyan tranzakciót, ami után az (1) bekezdés szerinti tranzakciósdíj-fizetési kötelezettsége keletkezik. A bejelentésnek tartalmaznia kell a tranzakcióval érintett üzemeltetői számla számát.
-
-(6) A klímavédelemért felelős hatóság a tranzakciósdíj-fizetési kötelezettség teljesítéséről elektronikus nyilvántartást vezet.
-
-(7) A tranzakciós díj összegéről a klímavédelemért felelős hatóság az (5) bekezdés szerinti bejelentést követően vagy hivatalból egyenlegértesítőt állít ki.
-
-(8) A tranzakciós díjat az egyenlegértesítő jelentős térítésmentes kibocsátásiegység-kiosztásban részesülő létesítmény üzemeltetője általi kézhezvételétől számított 30 napon belül az Ügkr. vhr. 17. § (7) bekezdésében meghatározottak szerint kell befizetni. A tranzakciós díjat átutalási megbízással kell teljesíteni, a befizetés jogcímeként a „tranzakciós díj” megjelölést feltüntetve, továbbá a forgalmi jegyzékben vezetett üzemeltetői számla számát megadva.
-
-(9) A tranzakciós díj határidőben történő megfizetésének elmulasztása esetén, a klímavédelemért felelős hatóság a határidő lejártát követően kötelezettség teljesítésének elmulasztását megállapító és a tranzakciós díj megfizetésére kötelező határozatot hoz. A véglegessé vált határozatban megállapított teljesítési határidő eredménytelen elteltét követően a klímavédelemért felelős hatóság a tranzakciós díj behajtása érdekében megkeresi az állami adó- és vámhatóság illetékes területi szervét.
-
-(10) A tranzakciós díj a klímavédelemért felelős hatóság bevétele, amelyet elkülönítetten tart nyilván, és a működésére, valamint a kibocsátási egységek kereskedelmi rendszerének működtetésével, a forgalmi jegyzék kezelésével kapcsolatos tevékenységének fedezetére fordít.
-
-94. § (1) A jelentős térítésmentes kibocsátásiegység-kiosztásban részesülő létesítmény üzemeltetője a (2)–(8) bekezdésben foglaltak szerinti szén-dioxid-kvóta adó alanya. Az adózó az adó alapját és az adót adóévenként állapítja meg és az adóévet követő év május 31-ig vallja be az állami adó- és vámhatóság által rendszeresített nyomtatványon.
-
-(2) A szén-dioxid-kvóta adó alapja az (1) bekezdés szerinti adóalanynak az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló 2012. évi CCXVII. törvény (a továbbiakban: Ügkr. tv.) 2. § 14. pontja szerinti kibocsátásának tCO2-ben számított mennyisége.
-
-(3) A szén-dioxid-kvóta adó mértéke 36 EUR/tCO2-vel egyenértékű magyar forintnak megfelelő összeg.
-
-(4) Az adózót adóelőleg-megállapítási, -bevallási és -fizetési kötelezettség terheli, amelyre negyedévente, a tárgynegyedévet követő második hónap 15. napjáig kötelezett a naptári negyedévre vonatkozó kibocsátási adatok megküldésével egyidejűleg. Az adóelőleg összege a (2) bekezdés szerinti adóalap tárgynegyedévre vonatkozóan számított összege, amelynek forintra történő átszámításánál a Magyar Nemzeti Bank által a tárgynegyedév utolsó napján közzétett hivatalos középárfolyamot kell alkalmazni.
-
-(5) Az (1) bekezdés szerinti adóalany az adóévre megállapított adót – az adóévben már megfizetett adóelőlegek beszámításával – a bevallás benyújtására előírt határidőig megfizeti. Ha az adóévre már megfizetett adóelőlegek összege meghaladja az adóévre megállapított adó összegét, a különbözetet az adóalany bevallásában, a bevallás beérkezésének napjától, de legkorábban a bevallás benyújtására előírt határidő napjától (esedékességtől) jogosult visszaigényelni. Az adóalanynak a bevallás adatait ezer forintra kerekítve, forintban kell feltüntetni és megfizetni. A bevallás adatainak forintra történő átszámításánál a Magyar Nemzeti Bank által a tárgyév utolsó napján közzétett hivatalos középárfolyamot kell alkalmazni.
-
-(6) Ha az (1) bekezdés szerinti adóalany Ügkr. tv. szerinti, tárgyévre vonatkozó hitelesített éves kibocsátási jelentése (a továbbiakban: éves kibocsátási jelentés) alapján
-
-- a) az adóalany szén-dioxid-kibocsátással járó termelésének szintje legalább az egységes környezethasználati engedélyben foglalt, a főtevékenységéhez tartozó kapacitásának 90%-át elérte vagy meghaladta,
-- b) az adóalanynak az e Fejezet hatálybalépésekor hatályos egységes környezethasználati engedélyében foglalt, a főtevékenységéhez tartozó kapacitása a tárgyévet megelőző évi egységes környezethasználati engedélyében foglalt kapacitásához képest nem csökkent, és
-- c) az adóalany fajlagos – egységnyi előállított termékre eső – szén-dioxid-kibocsátása legalább az Európai Unió emissziókereskedelmi rendszerében használt, az Európai Unió által elvárt – a tárgyévben hatályos – lineáris csökkentési tényezővel megegyező mértékben csökkent a tárgyévet megelőző második év hitelesített kibocsátásához képest,
-
-az adóalany jogosult az adó alapját adóbevallásában 50%-kal csökkenteni.
-
-(7) A klímavédelemért felelős hatóság az állami adó- és vámhatóság részére az éves kibocsátási jelentés adatairól elektronikus úton a tárgyévet követő év április 30. napjáig szolgáltat adatot.
-
-(8) Az e §-ban nem szabályozott kérdésekben az adóigazgatási rendtartásról szóló 2017. évi CLI. törvény és az adózás rendjéről szóló 2017. évi CL. törvény rendelkezései az irányadók.
-
-95. § (1) E Fejezet rendelkezéseit a folyamatban lévő ügyekben és eljárásokban is alkalmazni kell.
-
-(2) E Fejezet rendelkezéseit nem kell alkalmazni a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény; a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény, valamint a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény veszélyhelyzet ideje alatt történő eltérő alkalmazásáról szóló 521/2022. (XII. 13.) Korm. rendelet 4. §-a; a többségi befolyás alatt álló gazdálkodó szervezetek felszámolásának veszélyhelyzeti szabályairól szóló 64/2023. (III. 1.) Korm. rendelet 3. §-a alapján megindított eljárás alá vont, valamint a felszámolási eljárás során az adós gazdasági tevékenysége folytatása érdekében való értékesítés veszélyhelyzeti szabályairól szóló 129/2023. (IV. 17.) Korm. rendelet 3. §-a és 4. §-a alapján létrehozott gazdálkodó szervezetek tekintetében.
+#### 95. §
 
 ### XI. Fejezet — A ROZSDAÖVEZETI AKCIÓTERÜLETEN LÉTESÍTETT LAKÓINGATLANBAN KIALAKÍTOTT LAKÁSOK VÁSÁRLÁSÁHOZ KAPCSOLÓDÓ ADÓ-VISSZATÉRÍTÉSI TÁMOGATÁSSAL KAPCSOLATOS ÁTMENETI SZABÁLYOK
 
@@ -1008,6 +958,20 @@ tevékenységet végez, és
 (4) A 77. § (2) és (4) bekezdése a veszélyhelyzet megszűnésekor lép hatályba.
 
 (5) A 77. § (2) és (4) bekezdése hatálybalépésének naptári napját a miniszterelnök annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.
+
+#### 17/A. Átmeneti rendelkezések
+
+124/A. § (1) A jelentős térítésmentes kibocsátásiegység-kiosztásban részesülő létesítmény üzemeltetőjét érintő egyes veszélyhelyzeti szabályokról szóló 320/2023. (VII. 17.) Korm. rendelettel bevezetett és az Ukrajna területén fennálló fegyveres konfliktusra tekintettel kihirdetett veszélyhelyzeti rendeletek törvényi szintre emeléséről szóló 2025. évi L. törvény 94. §-ában foglalt szén-dioxid-kvóta adó 2023. október 7. napjától megszűnik.
+
+(2) A 2023. október 7. napjától a szén-dioxid-kvóta adó adónemben megfizetett adót és kamatait az állami adó- és vámhatóság az adózó kérelmére visszafizeti az adózó belföldi pénzforgalmi számlájára.
+
+(3) A kérelmet az adózó akkor jogosult előterjeszteni, ha a szén-dioxid-kvóta adóval és annak kamataival összefüggő követelését más úton nem érvényesítette.
+
+(4) A kérelmet az adózó e § hatálybalépését követő 90 napon belül terjesztheti elő. E határidő jogvesztő.
+
+(5) A szén-dioxid-kvóta adóval összefüggő (2) bekezdés szerinti kamatot az állami adó- és vámhatóság az adózás rendjéről szóló 2017. évi CL. törvény (a továbbiakban: Art.) 196. § (6) bekezdésében foglaltak szerint állapítja meg és fizeti vissza.
+
+(6) E §-ban nem szabályozott kérdésekben az Art. rendelkezései az irányadóak.
 
 #### 18. Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 

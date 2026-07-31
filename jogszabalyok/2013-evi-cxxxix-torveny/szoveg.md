@@ -2954,7 +2954,7 @@ pénzügyi intézményben, kiegészítő pénzügyi szolgáltatást végző jogi
 
 #### 45. Vagyonnyilatkozat
 
-157. § (1) Az MNB elnöke, alelnökei és a Monetáris Tanács 9. § (4) bekezdés c) pontjában meghatározott tagjai, valamint a felügyelőbizottság tagjai a kinevezésüket, illetve megválasztásukat követő harminc napon belül vagyonnyilatkozatot tesznek. A vagyonnyilatkozatra az országgyűlési képviselők vagyonnyilatkozatára vonatkozó szabályokat kell megfelelően alkalmazni. A nyilatkozattételre kötelezett saját vagyonnyilatkozatához csatolni köteles a vele közös háztartásban élő házas- vagy élettársának, valamint gyermekeinek (a továbbiakban együtt: családtag) az országgyűlési képviselők vagyonnyilatkozatával azonos tartalmú vagyonnyilatkozatát.
+157. § (1) Az MNB elnöke, alelnökei és a Monetáris Tanács 9. § (4) bekezdés c) pontjában meghatározott tagjai, valamint a felügyelőbizottság tagjai a kinevezésüket, illetve megválasztásukat követő harminc napon belül vagyonnyilatkozatot tesznek. A vagyonnyilatkozatra az országgyűlési képviselők vagyonnyilatkozatára vonatkozó szabályokat kell megfelelően alkalmazni. A nyilatkozattételre kötelezett saját vagyonnyilatkozatához csatolni köteles a vele közös háztartásban élő − a Polgári Törvénykönyvről szóló törvény szerinti – hozzátartozóinak (a továbbiakban együtt: családtag) az országgyűlési képviselők vagyonnyilatkozatával azonos tartalmú vagyonnyilatkozatát.
 
 (2) A vagyonnyilatkozatot az Országgyűlés mentelmi és összeférhetetlenségi ügyekkel foglalkozó állandó bizottsága tartja nyilván. A vagyonnyilatkozattal kapcsolatos eljárást bárki kezdeményezheti az Országgyűlés elnökénél.
 
@@ -3447,7 +3447,7 @@ azzal, hogy 2019. január 1-jétől az anticiklikus tőkepufferrátát a 33. §-
 
 (2) Az európai uniós költségvetési források felhasználásának ellenőrzésével összefüggő egyes, vagyonnyilatkozattal kapcsolatos törvények módosításáról szóló 2022. évi XXXI. törvény hatálybalépése napján folyamatban lévő vagyonnyilatkozattal kapcsolatos eljárásokban az eljárás megindulása napján hatályos szabályokat kell alkalmazni.
 
-(3) Az MNB elnöke, alelnökei és a Monetáris Tanács 9. § (4) bekezdés c) pontjában meghatározott tagjai, valamint a felügyelőbizottság tagjai az európai uniós forrásokhoz való hozzáférés érdekében szükséges egyes törvények módosításáról szóló 2026. évi XVIII. törvény által megállapított tartalommal és formában először – 2026. december 31. napján fennálló állapot szerint − 2027. január 31-ig tesznek vagyonnyilatkozatot, amelyhez csatolják a velük közös háztartásban élő hozzátartozójuk vagyonnyilatkozatát is.
+(3) Az MNB elnöke, alelnökei és a Monetáris Tanács 9. § (4) bekezdés c) pontjában meghatározott tagjai, valamint a felügyelőbizottság tagjai az európai uniós forrásokhoz való hozzáférés érdekében szükséges egyes törvények módosításáról szóló 2026. évi XVIII. törvény által megállapított tartalommal és formában először – 2026. december 31. napján fennálló állapot szerint − 2027. január 31-ig tesznek vagyonnyilatkozatot, amelyhez csatolják a velük közös háztartásban élő − a Polgári Törvénykönyvről szóló törvény szerinti – hozzátartozójuk vagyonnyilatkozatát is.
 
 (4) Az európai uniós forrásokhoz való hozzáférés érdekében szükséges egyes törvények módosításáról szóló 2026. évi XVIII. törvény hatálybalépése napján folyamatban lévő vagyonnyilatkozattal kapcsolatos eljárásokban az eljárás megindulása napján hatályos szabályokat kell alkalmazni.
 

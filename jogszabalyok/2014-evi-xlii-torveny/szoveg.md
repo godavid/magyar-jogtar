@@ -502,17 +502,17 @@ ii. a központi kormányzatnak vagy a közjog alapján létrehozott társadalomb
 
 iii. a Fél nevében bevezetett egyéb típusú adókra, kivéve a vámokat, nevezetesen:
 
-A. ingatlan-, öröklési- és ajándékozási adók;
+A. hagyatéki-, öröklési- és ajándékozási adók;
 
-B. ingóvagyont terhelő adók;
+B. ingatlanvagyont terhelő adók;
 
 C. általános fogyasztási adók, úgy mint a hozzáadott érték vagy forgalmi adók;
 
 D. az árukat és szolgáltatásokat terhelő speciális adók mint a fogyasztási adók;
 
-E. gépjárművek használatát vagy birtoklását terhelő adók;
+E. gépjárművek használatát vagy tulajdonlását terhelő adók;
 
-F. gépjárművektől különböző ingó vagyon használatát vagy birtoklását terhelő adók;
+F. gépjárművektől különböző ingó vagyon használatát vagy tulajdonlását terhelő adók;
 
 G. bármely más adók.
 
@@ -974,7 +974,7 @@ Article VIII
 
 The following paragraphs shall be added at the end of Article 28 of the Convention:
 
-“4. Any member State of the Council of Europe or any member country of OECD which becomes a Party to the Convention after the entry into force of the Protocol amending this Convention, opened for signature on 27th May 2010 (the “2010 Protocol”), shall be a Party to the Convention as amended by that Protocol, unless they express a different intention in a written communication to one of the Depositaries.
+“4. Any member State of the Council of Europe or any member country of OECD which becomes a Party to the Convention after the entry into force of the Protocol amending this Convention, opened for signature on 27th May 2010 (the “2010 Protocol”), shall be a Party to the Convention as amended by that Protocol, unless they express a different intention in a written communication to one of the Depositaries.”
 
 5. After the entry into force of the 2010 Protocol, any State which is not a member of the Council of Europe or of the OECD may request to be invited to sign and ratify this Convention as amended by the 2010 Protocol. Any request to this effect shall be addressed to one of the Depositaries, who shall transmit it to the Parties. The Depositary shall also inform the Committee of Ministers of the Council of Europe and the OECD Council. The decision to invite States which so request to become Party to this Convention shall be taken by consensus by the Parties to the Convention through the co-ordinating body. In respect of any State ratifying the Convention as amended by the 2010 Protocol in accordance with this paragraph, this Convention shall enter into force on the first day of the month following the expiration of a period of three months after the date of deposit of the instrument of ratification with one of the Depositaries.
 
@@ -984,7 +984,7 @@ The following paragraphs shall be added at the end of Article 28 of the Conventi
 
 2. The following subparagraph shall be added after subparagraph e of paragraph 1 of Article 30 of the Convention:
 
-“f) to apply paragraph 7 of Article 28 exclusively for administrative assistance related to taxable periods beginning on or after 1 January of the third year preceding the one in which the Convention, as amended by the 2010 Protocol, entered into force in respect of a Party, or where there is no taxable period, for administrative assistance related to charges to tax arising on or after 1 January of the third year preceding the one in which the Convention, as amended by the 2010 Protocol, entered into force in respect of a Party.”
+„“f) to apply paragraph 7 of Article 28 exclusively for administrative assistance related to taxable periods beginning on or after 1 January of the third year preceding the one in which the Convention, as amended by the 2010 Protocol, entered into force in respect of a Party, or where there is no taxable period, for administrative assistance related to charges to tax arising on or after 1 January of the third year preceding the one in which the Convention, as amended by the 2010 Protocol, entered into force in respect of a Party.”
 
 3. The words “and any Party to this Convention” shall be added after the words “member countries of the OECD” in paragraph 1 of Article 32 of the Convention.
 
@@ -1176,7 +1176,7 @@ Az Egyezmény 30. Cikk 1. c. albekezdésének értelmében Magyarország fenntar
 
 (2) Az egyoldalú nyilatkozat hiteles angol nyelvű szövege és annak hivatalos magyar nyelvű fordítása a következő:
 
-“DECLARATION ON THE EFFECTIVE DATE FOR EXCHANGES OF INFORMATION UNDER THE MULTILATERAL COMPETENT AUTHORITY AGREEMENT ON AUTOMATIC EXCHANGE OF FINANCIAL ACCOUNT INFORMATION
+„“DECLARATION ON THE EFFECTIVE DATE FOR EXCHANGES OF INFORMATION UNDER THE MULTILATERAL COMPETENT AUTHORITY AGREEMENT ON AUTOMATIC EXCHANGE OF FINANCIAL ACCOUNT INFORMATION
 
 Considering that Hungary has committed to automatically exchange information as of 2017 and that, in order to be able to automatically exchange information under Article 6 of the Convention on Mutual Administrative Assistance in Tax Matters as amended by the Protocol amending the Convention on Mutual Administrative Assistance in Tax Matters (hereafter the “amended Convention”) [in accordance with the timeline to which it has committed], Hungary has signed a Declaration on joining the Multilateral Competent Authority Agreement on Automatic Exchange of Financial Account Information (hereafter the “CRS MCAA”) on 29th October, 2014;
 
