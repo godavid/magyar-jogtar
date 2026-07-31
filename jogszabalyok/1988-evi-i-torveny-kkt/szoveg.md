@@ -105,6 +105,8 @@ kerül sor.
 
 (1a) A 8. § (1) bekezdés a)–c) pontjában meghatározott állami feladatok ellátását a közlekedésért felelős miniszter (a továbbiakban: miniszter) koordinálja.
 
+(1b) A személyszállítási szolgáltatásokról szóló 2012. évi XLI. törvény szerinti országos közlekedésszervező (a továbbiakban: országos közlekedésszervező) ellátja a 11. § (1) bekezdésében meghatározott, a közúti infrastruktúrát pótló, vízi átkelést szolgáló kompokkal összefüggő, a miniszter által rendeletben meghatározott közlekedésszervezői feladatokat.
+
 (2) A helyi önkormányzat képviselő-testülete vagy közgyűlése gondoskodik a közúti közlekedéssel összefüggő helyi önkormányzati feladatok ellátásáról, így különösen
 
 - a) a gyalogos-átkelőhelyek megvilágításáról a település belterületén,
@@ -2652,7 +2654,7 @@ során – adatrögzítés nélkül – elektronikus berendezéssel távoli kép
   - 21. a vonatkozó nemzetközi szerződések hatálya alá nem tartozó járművekkel történő veszélyes áru szállítás szabályait,
   - 22. a közúti járművek újrafelhasználható alkatrészei szakszerű kinyerésének (bontásának) feltételeit, és e tevékenység engedélyezésének személyi, dologi és szakmai feltételeit,
   - 23. a közutak forgalombiztonsági szempontjai felülvizsgálatának (auditálásának) szakmai szabályait,
-  - 24.
+  - 24. az országos közlekedésszervező közlekedésszervezői feladatai ellátásának részletes szabályait,
   - 25. az alagutak tervezésének, kivitelezésének, üzembe helyezésének és üzemeltetésének részletes műszaki szabályait,
   - 26. a 21. § (3) bekezdése szerinti eszközre vonatkozó követelményeket,
   - 27. a meghatározott össztömeget, tengelyterhelést és méretet, továbbá össztömeg-korlátozást meghaladó járművek közúti közlekedéséről, a közútkezelői feladatokról, a díjfizetés, a szakkíséret és kíséret személyi és tárgyi feltételeiről szóló, valamint az össztömeg és tengelysúlyméréssel összefüggő közlekedési szabályokat,
