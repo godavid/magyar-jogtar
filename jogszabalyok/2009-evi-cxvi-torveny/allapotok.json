@@ -1,0 +1,27 @@
+[
+  {
+    "datum": "2009-11-17",
+    "verzio": 1,
+    "sha": "d719f19b5d9b54619f55b75d5f551d1d5b5940bc"
+  },
+  {
+    "datum": "2011-01-02",
+    "verzio": 2,
+    "sha": "6be606173d3b57e94ebc77142c71df7d103bb328"
+  },
+  {
+    "datum": "2011-01-03",
+    "verzio": 3,
+    "sha": "c765058a94b68550a355a917a19a7c83803115e6"
+  },
+  {
+    "datum": "2015-01-01",
+    "verzio": 4,
+    "sha": "dccda31a5164e643318a6150bfa355dd68e56428"
+  },
+  {
+    "datum": "2017-01-01",
+    "verzio": 5,
+    "sha": "98596ae5182affd139a705ed80f4f0ff4fbeb88b"
+  }
+]

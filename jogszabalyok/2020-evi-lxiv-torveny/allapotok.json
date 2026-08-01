@@ -1,0 +1,32 @@
+[
+  {
+    "datum": "2020-07-01",
+    "verzio": 1,
+    "sha": "e225f36affa554e60f09175604020314e9f91020"
+  },
+  {
+    "datum": "2020-07-02",
+    "verzio": 2,
+    "sha": "31e50204d0c24b4e02e72dd17fe8cb93bfb4278a"
+  },
+  {
+    "datum": "2020-07-03",
+    "verzio": 3,
+    "sha": "57f128ca42c6ec9265b00fdd5bf4bd7074406137"
+  },
+  {
+    "datum": "2021-05-14",
+    "verzio": 4,
+    "sha": "c173e2d0da520cd3470c5ae9ed1183f4c9f9ec80"
+  },
+  {
+    "datum": "2021-05-28",
+    "verzio": 5,
+    "sha": "82e17f39253a28cbade95eee420aecb4e65a9754"
+  },
+  {
+    "datum": "2023-01-01",
+    "verzio": 6,
+    "sha": "f916a593dac26e8ec1ca0cacae3d83d09c830cd5"
+  }
+]

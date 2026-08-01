@@ -1,0 +1,62 @@
+[
+  {
+    "datum": "2009-12-31",
+    "verzio": 5,
+    "sha": "c11b247187c623656c51b0268c442609cfe1e772"
+  },
+  {
+    "datum": "2010-08-21",
+    "verzio": 6,
+    "sha": "49e62f86536b342388089d36f7b02dc8b5d986c3"
+  },
+  {
+    "datum": "2011-01-01",
+    "verzio": 7,
+    "sha": "f12cbb24b65426438441c736352b654af7aec101"
+  },
+  {
+    "datum": "2011-07-15",
+    "verzio": 8,
+    "sha": "af652fc6cb11390f9618606fecfb2512699f21fa"
+  },
+  {
+    "datum": "2012-01-01",
+    "verzio": 9,
+    "sha": "4b9f6b333bb7c60992313f96270ebc6bf71bfdc9"
+  },
+  {
+    "datum": "2012-03-23",
+    "verzio": 10,
+    "sha": "bcdff8fcf7c2d5c719d1a672c8da111e24a1297a"
+  },
+  {
+    "datum": "2012-10-28",
+    "verzio": 11,
+    "sha": "6cc6e668fca88f5e37492a795ab024fb0c5ccf50"
+  },
+  {
+    "datum": "2013-10-01",
+    "verzio": 12,
+    "sha": "dcd36a8a8e68a22115ee14113720e4894d7d345b"
+  },
+  {
+    "datum": "2014-01-01",
+    "verzio": 13,
+    "sha": "6c645b1fe5fa42a48e9f49d31f61a46d6c4435e4"
+  },
+  {
+    "datum": "2014-03-15",
+    "verzio": 14,
+    "sha": "79862265c4e6564c0c59de45a0105236bbc5d9a3"
+  },
+  {
+    "datum": "2014-07-21",
+    "verzio": 15,
+    "sha": "b1270c297d9fbe1ff048bf5d30aff8c83b331d9b"
+  },
+  {
+    "datum": "2015-01-01",
+    "verzio": 16,
+    "sha": "dccda31a5164e643318a6150bfa355dd68e56428"
+  }
+]

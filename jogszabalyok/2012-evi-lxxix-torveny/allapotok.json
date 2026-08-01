@@ -1,0 +1,67 @@
+[
+  {
+    "datum": "2012-06-28",
+    "verzio": 1,
+    "sha": "549cc87b6a1a49e39d8bb1ca97840ffcf811771d"
+  },
+  {
+    "datum": "2012-06-29",
+    "verzio": 2,
+    "sha": "80bfd793c186839df105d958ae554e59ef8c2172"
+  },
+  {
+    "datum": "2012-07-01",
+    "verzio": 3,
+    "sha": "627ba66aa75474e6ecd3b9e5ba2bd7c90bd610f2"
+  },
+  {
+    "datum": "2012-07-02",
+    "verzio": 4,
+    "sha": "c5ce0060f795ec3f493daf0666c9cbe192514bc2"
+  },
+  {
+    "datum": "2012-07-21",
+    "verzio": 5,
+    "sha": "68a7c05c7066ca60769ef3f7384d9ca42de95ecf"
+  },
+  {
+    "datum": "2012-07-22",
+    "verzio": 6,
+    "sha": "8de19b912a7e3d4f1649d897cab4c7bc66125e45"
+  },
+  {
+    "datum": "2012-07-23",
+    "verzio": 7,
+    "sha": "864db8295a25aec42e3d3c1521f52525a42ca986"
+  },
+  {
+    "datum": "2012-08-01",
+    "verzio": 8,
+    "sha": "3a6939ac9e712856bbdcf989df43b37c560590b8"
+  },
+  {
+    "datum": "2012-08-02",
+    "verzio": 9,
+    "sha": "27c790492e311fd8652bfd548fa046ef5e28b1b8"
+  },
+  {
+    "datum": "2012-09-01",
+    "verzio": 10,
+    "sha": "d68b50d011dde56eccff7b29c8c8e30ca32e42c2"
+  },
+  {
+    "datum": "2012-09-02",
+    "verzio": 11,
+    "sha": "d7b3ef7005c5d12397de1fe2b28642e247076667"
+  },
+  {
+    "datum": "2013-01-01",
+    "verzio": 12,
+    "sha": "5accdc1c39f1e831431b7d6c1df284dd26c33698"
+  },
+  {
+    "datum": "2013-01-02",
+    "verzio": 13,
+    "sha": "18dfe56428e3508ac88cbc687e302f9070955aa2"
+  }
+]

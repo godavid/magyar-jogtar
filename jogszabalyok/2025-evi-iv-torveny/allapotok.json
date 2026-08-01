@@ -1,0 +1,22 @@
+[
+  {
+    "datum": "2025-03-27",
+    "verzio": 1,
+    "sha": "b25c01ae6ef90c6efcb4a8846d1f01b1ffb2567a"
+  },
+  {
+    "datum": "2025-03-28",
+    "verzio": 2,
+    "sha": "d80947c18e73a40801b521305b3b6b70256536f6"
+  },
+  {
+    "datum": "2025-05-26",
+    "verzio": 3,
+    "sha": "a788c7e04a07a757fa8abee9afefca627e06ae95"
+  },
+  {
+    "datum": "2025-05-27",
+    "verzio": 4,
+    "sha": "d23c4d105a176bba14e44c526ad5ccb66db04f72"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "datum": "2019-04-19",
+    "verzio": 1,
+    "sha": "7fc9f282ac11a5f16b36a0b571972c8e7c89846d"
+  },
+  {
+    "datum": "2019-04-20",
+    "verzio": 2,
+    "sha": "3db9d8ec5b246f095b254941dc9eb58f7516f031"
+  },
+  {
+    "datum": "2025-12-24",
+    "verzio": 3,
+    "sha": "399edc4c22083711ae9308da6ad5b16ab87f595e"
+  }
+]

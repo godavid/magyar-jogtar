@@ -1,0 +1,402 @@
+[
+  {
+    "datum": "2010-01-01",
+    "verzio": 16,
+    "sha": "0a4e7c20168cd9a55e1e97413cb08486f66a25e7"
+  },
+  {
+    "datum": "2010-04-01",
+    "verzio": 17,
+    "sha": "3139e1e5885904519297e618cb24334b90a1a9e0"
+  },
+  {
+    "datum": "2010-09-01",
+    "verzio": 18,
+    "sha": "825bbe4928fc8d11e34657482f2405b0dad1e76e"
+  },
+  {
+    "datum": "2010-12-01",
+    "verzio": 19,
+    "sha": "4030e9748a68b65cb66abd8ec465becf85baf3b2"
+  },
+  {
+    "datum": "2010-12-31",
+    "verzio": 20,
+    "sha": "4225499d04c45ec96ed1fae731b9955831e43565"
+  },
+  {
+    "datum": "2011-01-01",
+    "verzio": 21,
+    "sha": "f12cbb24b65426438441c736352b654af7aec101"
+  },
+  {
+    "datum": "2011-07-13",
+    "verzio": 22,
+    "sha": "8b0e1dfeae5c8b05938ab5d07a2836041fd2f6e2"
+  },
+  {
+    "datum": "2011-08-01",
+    "verzio": 23,
+    "sha": "288b089c9994b8078dcbeed36996584e8c40e5d8"
+  },
+  {
+    "datum": "2012-01-01",
+    "verzio": 24,
+    "sha": "4b9f6b333bb7c60992313f96270ebc6bf71bfdc9"
+  },
+  {
+    "datum": "2012-01-05",
+    "verzio": 25,
+    "sha": "452858b35a578d03b2fa3b807e6028bcebfea09f"
+  },
+  {
+    "datum": "2012-03-01",
+    "verzio": 26,
+    "sha": "aa9a240c1fb272992588e8bcea5979cd3e982dea"
+  },
+  {
+    "datum": "2012-04-01",
+    "verzio": 27,
+    "sha": "078bce618e8631038b2242d325f276097349b10d"
+  },
+  {
+    "datum": "2012-06-30",
+    "verzio": 28,
+    "sha": "06268b4dbf62d1a9b8d2611ddfa0c50996c0f6af"
+  },
+  {
+    "datum": "2012-07-01",
+    "verzio": 29,
+    "sha": "627ba66aa75474e6ecd3b9e5ba2bd7c90bd610f2"
+  },
+  {
+    "datum": "2012-07-06",
+    "verzio": 30,
+    "sha": "94e88d2328b8d4171806d26054fb2bd576140bea"
+  },
+  {
+    "datum": "2012-08-07",
+    "verzio": 31,
+    "sha": "e12130703c2a9d001acec890e069feb519bea075"
+  },
+  {
+    "datum": "2012-08-23",
+    "verzio": 32,
+    "sha": "358b3e7d1d1ebd6d3e5718a123739fdcc01b24c6"
+  },
+  {
+    "datum": "2013-01-01",
+    "verzio": 33,
+    "sha": "5accdc1c39f1e831431b7d6c1df284dd26c33698"
+  },
+  {
+    "datum": "2013-07-01",
+    "verzio": 34,
+    "sha": "204deada5752f32fadd03bbf19ebbb4d522178cb"
+  },
+  {
+    "datum": "2014-02-25",
+    "verzio": 35,
+    "sha": "dc57e8b6da2533471e41f9e253f9bdadb156a651"
+  },
+  {
+    "datum": "2014-03-15",
+    "verzio": 36,
+    "sha": "79862265c4e6564c0c59de45a0105236bbc5d9a3"
+  },
+  {
+    "datum": "2014-11-21",
+    "verzio": 37,
+    "sha": "31cae31f749c53d91bf72dd6a446a4c48fa94e91"
+  },
+  {
+    "datum": "2015-01-01",
+    "verzio": 38,
+    "sha": "dccda31a5164e643318a6150bfa355dd68e56428"
+  },
+  {
+    "datum": "2015-07-03",
+    "verzio": 39,
+    "sha": "45ba7507a8c22d7affea4d7dbd5e679f0ec523d3"
+  },
+  {
+    "datum": "2015-07-18",
+    "verzio": 40,
+    "sha": "1bc36dd65d3731c11d4ca6f2a9d802d17e78d6fa"
+  },
+  {
+    "datum": "2015-08-03",
+    "verzio": 41,
+    "sha": "60ebb08bde33aa17eca186fdd24ad90203ccc09a"
+  },
+  {
+    "datum": "2015-12-31",
+    "verzio": 42,
+    "sha": "e41257200719be6f7b942ca20141e8d94a36f047"
+  },
+  {
+    "datum": "2016-01-01",
+    "verzio": 43,
+    "sha": "bd6a219dc99ae7160a48ca6617d7a272787bd011"
+  },
+  {
+    "datum": "2016-07-01",
+    "verzio": 44,
+    "sha": "c6a7d4ad72e0759e1f9fef602f5fdfc226e5c071"
+  },
+  {
+    "datum": "2016-12-22",
+    "verzio": 45,
+    "sha": "8aeb1ec3aacb157476ea53e73f3ddcf6f3551911"
+  },
+  {
+    "datum": "2017-01-01",
+    "verzio": 46,
+    "sha": "98596ae5182affd139a705ed80f4f0ff4fbeb88b"
+  },
+  {
+    "datum": "2017-06-02",
+    "verzio": 47,
+    "sha": "979dea6529c2fc0142d85e43c54068377752bb98"
+  },
+  {
+    "datum": "2017-06-23",
+    "verzio": 48,
+    "sha": "656abed97659b46a1670e78e024b1ca47588c8e0"
+  },
+  {
+    "datum": "2017-12-12",
+    "verzio": 49,
+    "sha": "4419105314264e2bbe2da96b3038ddb5005a29d5"
+  },
+  {
+    "datum": "2018-01-01",
+    "verzio": 50,
+    "sha": "aa6600340b9846bdd33cf8169646ba29f3da215f"
+  },
+  {
+    "datum": "2018-01-02",
+    "verzio": 51,
+    "sha": "a447e352a8e58455bd40e64fac97699bdcbb67df"
+  },
+  {
+    "datum": "2018-05-18",
+    "verzio": 52,
+    "sha": "247d5417742457e68f4e60892396d20bc957a82c"
+  },
+  {
+    "datum": "2018-07-01",
+    "verzio": 53,
+    "sha": "33d5ff37b6a0a0fa997b87f7b1ecaf4893f3dbe6"
+  },
+  {
+    "datum": "2018-12-25",
+    "verzio": 54,
+    "sha": "fa19ed22848cb6ffde556b4c36c8891cf80760f5"
+  },
+  {
+    "datum": "2019-03-15",
+    "verzio": 55,
+    "sha": "78aa95943054ce1b8e5e70dd1adda270709a43dd"
+  },
+  {
+    "datum": "2019-07-17",
+    "verzio": 56,
+    "sha": "f42cf44a23b08990970f999300087448406758ca"
+  },
+  {
+    "datum": "2019-07-25",
+    "verzio": 57,
+    "sha": "26883d2499bed576578df522a3739da8e35f40f1"
+  },
+  {
+    "datum": "2020-01-01",
+    "verzio": 58,
+    "sha": "e53454a62723b6252ae7a2c9ea5efcfb4b1a70b0"
+  },
+  {
+    "datum": "2020-01-16",
+    "verzio": 59,
+    "sha": "288734d3fbfc1d67fd56e281d145b2ab0e9ae926"
+  },
+  {
+    "datum": "2020-06-16",
+    "verzio": 60,
+    "sha": "decb1a78772a92070315f2782d1e24bedeff7546"
+  },
+  {
+    "datum": "2020-07-01",
+    "verzio": 61,
+    "sha": "77d6c185c2bcbb1bde15338d609ab2bb9b113dfd"
+  },
+  {
+    "datum": "2020-07-22",
+    "verzio": 62,
+    "sha": "5817aded7ff3bcefbbaa0548a5b54f30cc169918"
+  },
+  {
+    "datum": "2020-07-30",
+    "verzio": 63,
+    "sha": "230bd401c29a8af6c7c62593b91595039dcd6494"
+  },
+  {
+    "datum": "2020-10-31",
+    "verzio": 64,
+    "sha": "aff4c7d675d1d83e5540fe08d5da52672e01ac25"
+  },
+  {
+    "datum": "2020-12-19",
+    "verzio": 65,
+    "sha": "01032acd3b45896803144496437c34ae61fd2988"
+  },
+  {
+    "datum": "2020-12-25",
+    "verzio": 66,
+    "sha": "4f0f81f93edb0ca1cb8529ea5608241bfaf0de6f"
+  },
+  {
+    "datum": "2021-01-01",
+    "verzio": 67,
+    "sha": "13fcbca68f20abf6d8a9defcf6ae318e8d2bbb16"
+  },
+  {
+    "datum": "2021-03-01",
+    "verzio": 68,
+    "sha": "3b67383a649dfdc669a87a8a92d1ad6549dee9e7"
+  },
+  {
+    "datum": "2021-06-13",
+    "verzio": 69,
+    "sha": "7a9743180c54f9e93e86f5b8ccf9d0d5c687bada"
+  },
+  {
+    "datum": "2021-06-28",
+    "verzio": 70,
+    "sha": "a2e5fcc670052798e6187853bf7f9a00503637c7"
+  },
+  {
+    "datum": "2021-07-01",
+    "verzio": 71,
+    "sha": "eb77e61b743a7ea6e88140a4fd322b084eb8f1a0"
+  },
+  {
+    "datum": "2022-01-01",
+    "verzio": 72,
+    "sha": "6c9fcc8a6eaf4d174878883f81a8fd602c8c0e59"
+  },
+  {
+    "datum": "2022-05-25",
+    "verzio": 73,
+    "sha": "c068ddaa999c2abc0e6caab1424694b2f3aea7e8"
+  },
+  {
+    "datum": "2022-07-28",
+    "verzio": 74,
+    "sha": "36ee0c10e57fe3b31abe7997c7c5ea951dae7769"
+  },
+  {
+    "datum": "2023-01-01",
+    "verzio": 75,
+    "sha": "25f37d6986d2f9f89542e27b9cba8147659e7fce"
+  },
+  {
+    "datum": "2023-06-26",
+    "verzio": 77,
+    "sha": "7f24269f8da4777ef9c5da9a5096d8f3c815958f"
+  },
+  {
+    "datum": "2023-07-22",
+    "verzio": 78,
+    "sha": "63f40603aed2cfc4edaa33caf17a58cd2fc1e113"
+  },
+  {
+    "datum": "2023-09-01",
+    "verzio": 79,
+    "sha": "7ee4476661a42cb3e85a4d3604721ce1762cdc3d"
+  },
+  {
+    "datum": "2023-11-08",
+    "verzio": 80,
+    "sha": "98a72285cdaf97d4f688edcd78417ac950f1af6b"
+  },
+  {
+    "datum": "2023-12-27",
+    "verzio": 81,
+    "sha": "48482edc582f1238f276d1ee741a2754f5f19eb7"
+  },
+  {
+    "datum": "2024-01-01",
+    "verzio": 82,
+    "sha": "673b7cdd7b6728406946a365f382772065a003dd"
+  },
+  {
+    "datum": "2024-05-13",
+    "verzio": 84,
+    "sha": "82d2ccae7422bb1e4bb84327a8bf878800c95c8a"
+  },
+  {
+    "datum": "2024-09-01",
+    "verzio": 83,
+    "sha": "2a277056f4adc525d66904b2f81e1d13f6d070d0"
+  },
+  {
+    "datum": "2024-10-01",
+    "verzio": 85,
+    "sha": "56f95ca39c4d8a67cdc08f25926b59bdd37ce009"
+  },
+  {
+    "datum": "2024-12-23",
+    "verzio": 87,
+    "sha": "853eb7ad85bb30a81b78cc6634baba7fe723f44a"
+  },
+  {
+    "datum": "2025-01-01",
+    "verzio": 88,
+    "sha": "8e258dc6485f773dfff40eb247f6234c38b194ab"
+  },
+  {
+    "datum": "2025-01-05",
+    "verzio": 89,
+    "sha": "2ec7e1e12886eed8e3c70881f2e457b050c57ea1"
+  },
+  {
+    "datum": "2025-01-15",
+    "verzio": 86,
+    "sha": "727c77dd7eaff763abf2a3dec8ca252f0504fc00"
+  },
+  {
+    "datum": "2025-01-20",
+    "verzio": 90,
+    "sha": "0edc249d003e4337bdc1d07b37be7475d250d800"
+  },
+  {
+    "datum": "2025-06-24",
+    "verzio": 92,
+    "sha": "f537170ff2d6d5e5eed0386034b0bac520e2574e"
+  },
+  {
+    "datum": "2025-07-01",
+    "verzio": 93,
+    "sha": "807ce5f9967ce2c4fea57f4444878fe70c33fa9f"
+  },
+  {
+    "datum": "2025-07-20",
+    "verzio": 91,
+    "sha": "51355f93feff4705b3b7da547d45f78ff96e68c5"
+  },
+  {
+    "datum": "2025-12-23",
+    "verzio": 95,
+    "sha": "ae0524ec91241357ea80ac14caa7288638864c80"
+  },
+  {
+    "datum": "2026-01-01",
+    "verzio": 94,
+    "sha": "0dbc837346ba393025b8873580baa6c877b7d4db"
+  },
+  {
+    "datum": "2026-07-31",
+    "verzio": 97,
+    "sha": "92054fe8d285fd55cfd47956fba3a7d893c7c8c8"
+  }
+]

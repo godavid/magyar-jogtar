@@ -1,0 +1,22 @@
+[
+  {
+    "datum": "2021-11-11",
+    "verzio": 1,
+    "sha": "e6eb765aa2a6a68991642b584b5bfe7938857a7a"
+  },
+  {
+    "datum": "2021-11-12",
+    "verzio": 2,
+    "sha": "5fae6fc20cd1638428d0928747ac1c45717c3f48"
+  },
+  {
+    "datum": "2021-12-01",
+    "verzio": 3,
+    "sha": "dad2907faadbd9190689a241ffa12ed861b1606b"
+  },
+  {
+    "datum": "2021-12-02",
+    "verzio": 4,
+    "sha": "d61b33c8c649d001539b662c134a59be9c7f3a71"
+  }
+]

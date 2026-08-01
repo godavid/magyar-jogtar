@@ -1,0 +1,37 @@
+[
+  {
+    "datum": "2010-01-01",
+    "verzio": 8,
+    "sha": "0a4e7c20168cd9a55e1e97413cb08486f66a25e7"
+  },
+  {
+    "datum": "2010-05-29",
+    "verzio": 9,
+    "sha": "5ef45488365d0458ce0e7f3ef8ee6da021e0652d"
+  },
+  {
+    "datum": "2010-07-06",
+    "verzio": 10,
+    "sha": "c741d8270d4c56b94127ea76b278e45134878c0c"
+  },
+  {
+    "datum": "2010-08-06",
+    "verzio": 11,
+    "sha": "6d53f8922484caed0b009f3973d1d4dadd3cd337"
+  },
+  {
+    "datum": "2010-12-12",
+    "verzio": 12,
+    "sha": "458081c13e56cc3b294adecad879bcb9d617656c"
+  },
+  {
+    "datum": "2011-01-01",
+    "verzio": 13,
+    "sha": "f12cbb24b65426438441c736352b654af7aec101"
+  },
+  {
+    "datum": "2011-12-22",
+    "verzio": 14,
+    "sha": "e975cef30af45a14f69887d2041a13f6fbf324c4"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "datum": "2010-01-01",
+    "verzio": 22,
+    "sha": "0a4e7c20168cd9a55e1e97413cb08486f66a25e7"
+  },
+  {
+    "datum": "2010-06-17",
+    "verzio": 23,
+    "sha": "d5108cefc124ab2f115ac2b4c3b80e83923c5722"
+  },
+  {
+    "datum": "2010-06-30",
+    "verzio": 24,
+    "sha": "4e28977c33f489ccbdd594106ce2fbb87270d2ea"
+  },
+  {
+    "datum": "2010-07-06",
+    "verzio": 25,
+    "sha": "c741d8270d4c56b94127ea76b278e45134878c0c"
+  },
+  {
+    "datum": "2010-07-27",
+    "verzio": 26,
+    "sha": "f4cd80a43c3b4ed59a16a1aafee378592faea7c6"
+  },
+  {
+    "datum": "2010-08-15",
+    "verzio": 27,
+    "sha": "e99ff2fda05d4cf481163fb3df0d357359fab8bb"
+  },
+  {
+    "datum": "2010-09-01",
+    "verzio": 28,
+    "sha": "825bbe4928fc8d11e34657482f2405b0dad1e76e"
+  },
+  {
+    "datum": "2010-12-31",
+    "verzio": 29,
+    "sha": "4225499d04c45ec96ed1fae731b9955831e43565"
+  },
+  {
+    "datum": "2011-01-01",
+    "verzio": 30,
+    "sha": "f12cbb24b65426438441c736352b654af7aec101"
+  },
+  {
+    "datum": "2011-02-28",
+    "verzio": 31,
+    "sha": "c22bb251afcc2219ce53d90cf28218170e8dd9e7"
+  },
+  {
+    "datum": "2011-08-01",
+    "verzio": 32,
+    "sha": "288b089c9994b8078dcbeed36996584e8c40e5d8"
+  },
+  {
+    "datum": "2011-09-01",
+    "verzio": 33,
+    "sha": "2b08a44577c38c74bda1431907ba7fde022c4976"
+  },
+  {
+    "datum": "2011-10-18",
+    "verzio": 34,
+    "sha": "dd1a317147c909c7d747b15e3d17f4232e70f439"
+  },
+  {
+    "datum": "2011-12-22",
+    "verzio": 35,
+    "sha": "e975cef30af45a14f69887d2041a13f6fbf324c4"
+  },
+  {
+    "datum": "2012-01-01",
+    "verzio": 36,
+    "sha": "4b9f6b333bb7c60992313f96270ebc6bf71bfdc9"
+  },
+  {
+    "datum": "2012-07-01",
+    "verzio": 37,
+    "sha": "627ba66aa75474e6ecd3b9e5ba2bd7c90bd610f2"
+  },
+  {
+    "datum": "2012-07-24",
+    "verzio": 38,
+    "sha": "b5a5be4ce4379701d2e265b2c9d476586158eef0"
+  },
+  {
+    "datum": "2012-07-30",
+    "verzio": 39,
+    "sha": "d6b7a5a05bd6b7951c21733ec84b01809ad149ff"
+  }
+]
