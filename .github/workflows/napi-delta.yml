@@ -20,7 +20,9 @@ concurrency:
 jobs:
   delta:
     runs-on: ubuntu-latest
-    timeout-minutes: 60
+    # A réteges enumerálás (index/enumeralas.json) miatt egy normál futás
+    # ~20-25 perc; a tartalék a heti körforgás csúcsnapjaira és az njt lassulására megy.
+    timeout-minutes: 120
     steps:
       - name: Adat-repo checkout
         uses: actions/checkout@v4
