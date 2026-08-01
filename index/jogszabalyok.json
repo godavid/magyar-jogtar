@@ -805,6 +805,13 @@
     "rovidites": null
   },
   {
+    "slug": "1959-evi-iv-torveny",
+    "documentId": "1959-4-00-00",
+    "megjeloles": "1959. évi IV. törvény",
+    "cim": "a Magyar Köztársaság Polgári Törvénykönyvéről",
+    "rovidites": null
+  },
+  {
     "slug": "1962-evi-iii-torveny",
     "documentId": "1962-3-00-00",
     "megjeloles": "1962. évi III. törvény",
@@ -19506,6 +19513,13 @@
     "documentId": "2015-52-00-00",
     "megjeloles": "2015. évi LII. törvény",
     "cim": "a banki elszámolás során tapasztalt visszaélések elleni fellépéshez szükséges törvények módosításáról",
+    "rovidites": null
+  },
+  {
+    "slug": "2015-evi-liii-torveny",
+    "documentId": "2015-53-00-00",
+    "megjeloles": "2015. évi LIII. törvény",
+    "cim": "egyes energetikai tárgyú törvények módosításáról",
     "rovidites": null
   },
   {

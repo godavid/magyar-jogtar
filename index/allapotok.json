@@ -13765,6 +13765,123 @@
       "sha": "fe2696c8b23d969aabce54acebcdfdb9ac662389"
     }
   ],
+  "1959-evi-iv-torveny": [
+    {
+      "datum": "2010-01-01",
+      "verzio": 86,
+      "sha": "11d273beeff193c5f075c6c44efa780db8908ce9"
+    },
+    {
+      "datum": "2010-03-31",
+      "verzio": 87,
+      "sha": "d53b0a5d9106624545b7f2fb90234b7db4f8d19e"
+    },
+    {
+      "datum": "2010-06-17",
+      "verzio": 88,
+      "sha": "517aa07927cc4d26ce95d0bfe1ce6c06270c32fe"
+    },
+    {
+      "datum": "2010-08-14",
+      "verzio": 89,
+      "sha": "752df3caa0e13344ef216e7ee08be65a724625db"
+    },
+    {
+      "datum": "2011-01-01",
+      "verzio": 90,
+      "sha": "6287ae3a63ef756b4f8ed45389a8c92c717ce0c5"
+    },
+    {
+      "datum": "2011-06-30",
+      "verzio": 91,
+      "sha": "c6dcacc585716578921f66cbd7c5d1b39286b28c"
+    },
+    {
+      "datum": "2011-07-01",
+      "verzio": 92,
+      "sha": "d1f614ad2df501f43f296e8e057373578bbec52b"
+    },
+    {
+      "datum": "2011-08-10",
+      "verzio": 93,
+      "sha": "2c2cbaec003f1a7558d81b34dcdc279cd16940a8"
+    },
+    {
+      "datum": "2011-11-01",
+      "verzio": 94,
+      "sha": "e4b676fddd651ca12b0a0838a3af3a873669c53d"
+    },
+    {
+      "datum": "2011-12-22",
+      "verzio": 95,
+      "sha": "ffbf3eee965073bdad57dacb8cedf961122dd2aa"
+    },
+    {
+      "datum": "2012-01-01",
+      "verzio": 96,
+      "sha": "673b7706e59420b98ff387324466ecd22edb85ab"
+    },
+    {
+      "datum": "2012-04-01",
+      "verzio": 97,
+      "sha": "b3bfad549a071a04dfcaea9c0e92a9803ce72b62"
+    },
+    {
+      "datum": "2012-04-28",
+      "verzio": 98,
+      "sha": "afd4985a32169dba2f100b9458bad48d14d019c7"
+    },
+    {
+      "datum": "2012-05-26",
+      "verzio": 99,
+      "sha": "bf03bd08f58b054f689fbecd0c97f688ba4512a8"
+    },
+    {
+      "datum": "2012-06-13",
+      "verzio": 100,
+      "sha": "eb9faeee89a694953ba50cce9f85321a3b0a62ca"
+    },
+    {
+      "datum": "2012-06-27",
+      "verzio": 101,
+      "sha": "b5498bfbbc7116f637d0bebf643e3c143c7e0bff"
+    },
+    {
+      "datum": "2012-07-24",
+      "verzio": 102,
+      "sha": "0649b0e983e2bcf127b8b4701563cef8503bf630"
+    },
+    {
+      "datum": "2013-01-01",
+      "verzio": 103,
+      "sha": "c6be991d8cff0806d49a318e1b9ab7e09403432e"
+    },
+    {
+      "datum": "2013-05-03",
+      "verzio": 104,
+      "sha": "5bee1fec6135d306033c2cbce75676f8008d0cba"
+    },
+    {
+      "datum": "2013-06-21",
+      "verzio": 105,
+      "sha": "cc60fef61f3ba621cc74b2f2e5e6d9f5ac6cf0b8"
+    },
+    {
+      "datum": "2013-07-01",
+      "verzio": 106,
+      "sha": "42e22b4d8fe05b27ac9f5a89f9ee970e4aae85eb"
+    },
+    {
+      "datum": "2013-08-01",
+      "verzio": 107,
+      "sha": "a0215002418169ac3d42b0a82af2eb6d2632fc1f"
+    },
+    {
+      "datum": "2014-01-01",
+      "verzio": 108,
+      "sha": "254e974ccd051e326699de8af32b275a9cabe5b8"
+    }
+  ],
   "1962-evi-iii-torveny": [
     {
       "datum": "1990-12-31",
@@ -100762,6 +100879,23 @@
       "sha": "9552c85e7fce7b564bbb147bb37decb4a388f0a8"
     }
   ],
+  "2015-evi-liii-torveny": [
+    {
+      "datum": "2015-05-09",
+      "verzio": 1,
+      "sha": "60444c418867798f5f0039428b4a22817badef4a"
+    },
+    {
+      "datum": "2015-05-10",
+      "verzio": 2,
+      "sha": "ce26040829eda99d5e34a7891ded34b7d1d911f5"
+    },
+    {
+      "datum": "2015-07-01",
+      "verzio": 3,
+      "sha": "512b372dbb8d9cc96255374f9f92c61c46b10109"
+    }
+  ],
   "2015-evi-liv-torveny": [
     {
       "datum": "2015-05-16",
@@ -112550,7 +112684,7 @@
     {
       "datum": "2026-08-01",
       "verzio": 32,
-      "sha": "35eec7ec5686d34b5210ccabdb0f79f13fb6b932"
+      "sha": "018888056b77021066d9b9f6af2c445b5e49b0e8"
     }
   ],
   "2017-evi-cliii-torveny": [
