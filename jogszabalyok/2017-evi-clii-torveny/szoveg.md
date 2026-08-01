@@ -2410,9 +2410,9 @@ Az egyéb terhek és a hitelkamat, a vámhatósági eljárások után fizetendő
 
 (4) Az állami adó- és vámhatóságnál nyilvántartott, vámhatósági jogkörben előírt kötelezettségre, de téves bevételi számlára, illetve nem azonosítható módon teljesített befizetést – ideértve a túlfizetést is – addig meg nem fizetettnek kell tekinteni, ameddig az adós a tartozást előíró vámhatóságtól a befizetés számlák közötti átvezetését, beazonosítását nem kéri, illetve a tétel hivatalból való beazonosítása meg nem történt, függetlenül attól, hogy a fizetés egyébként határidőben történt. Ez esetben a vámhatóság az adós rendelkezése alapján a számlák közötti átvezetésről, beazonosításról kamatmentesen intézkedik.
 
-(5) Az (5a) bekezdésben meghatározott kivétellel a vámhatóság által kiszabott, illetve visszautalandó, jogcímenként kis összegű, 10 EUR-nál vagy az ezzel megegyező, a 138. § (2) bekezdése szerinti árfolyamon átszámított forintösszegnél kevesebb egyéb terhek összegét – kivéve a jövedéki termék után kiszabott egyéb terheket – nem kell megfizetni, illetve visszafizetni. Az így meg nem fizetett összeget a vámigazgatási eljárás lezárásával egyidejűleg törölni kell, a vissza nem térítendő összeget pedig bevételként köteles elszámolni a vámhatóság. Nem kell megfizetni, illetve visszafizetni azt a 10 EUR alatti, egyéb teher különbözetet, valamint visszafizetni azt a 10 EUR alatti vámtúlfizetést, amely az egy határozatban egy vagy több jogcímen kiszabott és megfizetett összeg különbségéből keletkezett. Az így keletkezett tartozást a vámhatóság utólag törli, a túlfizetést pedig köteles bevételként adónemenként belső bizonylattal előírni és elszámolni.
+(5)
 
-(5a) Az (5) bekezdésben foglaltakat a vámmentességi rendelet 23–24. cikke alapján szabad forgalomba bocsátás vámeljárásban a vámhatóság által kiszabott, illetve visszautalandó általános forgalmi adó tekintetében nem lehet alkalmazni.
+(5a)
 
 (6) A túlfizetésként vagy tartozatlan befizetésként nyilvántartott pénzösszeg visszafizetését az állami adó- és vámhatóság a kérelem benyújtásától számított 30 napon belül kamatmentesen teljesítheti.
 
@@ -3225,6 +3225,8 @@ rendeletben állapítsa meg.
 (16) E törvénynek a Magyarország 2023. évi központi költségvetésének megalapozásáról szóló 2022. évi XXIV. törvénnyel megállapított 2. § 6. pontját a Magyarország 2023. évi központi költségvetésének megalapozásáról szóló 2022. évi XXIV. törvény hatálybalépésekor folyamatban levő ügyekben is alkalmazni kell.
 
 (17) E törvények a légitársaságok hozzájárulásáról és egyes adótörvények módosításáról szóló 2023. évi LIX. törvénnyel megállapított 85. § (3) bekezdését a légitársaságok hozzájárulásáról és egyes adótörvények módosításáról szóló 2023. évi LIX. törvény hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
+
+(18) A Helyreállítási és Ellenállóképességi Terv végrehajtása érdekében szükséges adóintézkedésekről, valamint egyéb törvények módosításáról szóló 2026. évi XXXV. törvény 35. § b) pontjának hatálybalépésének napját megelőzően elfogadott vám-árunyilatkozatokkal kapcsolatban indult vámigazgatási eljárásokban a Vtv. 2026. július 31-én hatályos 162. § (5) és (5a) bekezdését kell alkalmazni.
 
 ### XXXVIII. Fejezet
 
