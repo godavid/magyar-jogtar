@@ -1,5 +1,10 @@
 [
   {
+    "datum": "1930-11-08",
+    "verzio": 1,
+    "sha": "f297ecd6508d5e58e4fbcc8a0749a3552b10cd3f"
+  },
+  {
     "datum": "2017-12-12",
     "verzio": 2,
     "sha": "4419105314264e2bbe2da96b3038ddb5005a29d5"

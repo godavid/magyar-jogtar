@@ -12951,8 +12951,20 @@
       "sha": "78f0a6a41a1ae27188002995d54a40a6da78c718"
     }
   ],
-  "1902-evi-xviii-torveny": [],
-  "1908-evi-xviii-torveny": [],
+  "1902-evi-xviii-torveny": [
+    {
+      "datum": "1902-09-21",
+      "verzio": 0,
+      "sha": "ad3dafdfeadcf0de9c6348f4e13963d915661076"
+    }
+  ],
+  "1908-evi-xviii-torveny": [
+    {
+      "datum": "1908-05-22",
+      "verzio": 1,
+      "sha": "f519d260338cd520bb501571c98df48a4ffb3d2b"
+    }
+  ],
   "1909-evi-xiv-torveny": [
     {
       "datum": "1990-12-31",
@@ -12967,16 +12979,76 @@
       "sha": "78f0a6a41a1ae27188002995d54a40a6da78c718"
     }
   ],
-  "1912-evi-lxi-torveny": [],
-  "1913-evi-i-torveny": [],
-  "1913-evi-xliii-torveny": [],
-  "1913-evi-xlvii-torveny": [],
-  "1913-evi-xlviii-torveny": [],
-  "1916-evi-i-torveny": [],
-  "1921-evi-i-torveny": [],
-  "1921-evi-xxxiii-torveny": [],
-  "1921-evi-xlviii-torveny": [],
-  "1922-evi-xiii-torveny": [],
+  "1912-evi-lxi-torveny": [
+    {
+      "datum": "1912-10-05",
+      "verzio": 1,
+      "sha": "e8cf327c91630d436e8ded6482c493a7b7af65f8"
+    }
+  ],
+  "1913-evi-i-torveny": [
+    {
+      "datum": "1913-02-28",
+      "verzio": 1,
+      "sha": "0fe70f2f2ac6ab124430ff6a98db32f70d570cc4"
+    }
+  ],
+  "1913-evi-xliii-torveny": [
+    {
+      "datum": "1913-09-05",
+      "verzio": 1,
+      "sha": "b58d26d26242c9576b74477a31085fa80ec9daa0"
+    }
+  ],
+  "1913-evi-xlvii-torveny": [
+    {
+      "datum": "1913-09-05",
+      "verzio": 1,
+      "sha": "b58d26d26242c9576b74477a31085fa80ec9daa0"
+    }
+  ],
+  "1913-evi-xlviii-torveny": [
+    {
+      "datum": "1913-09-05",
+      "verzio": 1,
+      "sha": "b58d26d26242c9576b74477a31085fa80ec9daa0"
+    }
+  ],
+  "1916-evi-i-torveny": [
+    {
+      "datum": "1916-01-15",
+      "verzio": 1,
+      "sha": "35d4323b67f2181a161be42d7d8f66fe5c3cdb04"
+    }
+  ],
+  "1921-evi-i-torveny": [
+    {
+      "datum": "1921-03-30",
+      "verzio": 1,
+      "sha": "26456881606d37e803fd20835fc12f32810f7936"
+    }
+  ],
+  "1921-evi-xxxiii-torveny": [
+    {
+      "datum": "1921-07-31",
+      "verzio": 1,
+      "sha": "353f7c52b843e3bd0155e287f206048430d2c2d1"
+    }
+  ],
+  "1921-evi-xlviii-torveny": [
+    {
+      "datum": "1921-08-29",
+      "verzio": 1,
+      "sha": "bff03add5bd5bd5a1137cabdb3b6f7138aa68e06"
+    }
+  ],
+  "1922-evi-xiii-torveny": [
+    {
+      "datum": "1922-02-14",
+      "verzio": 1,
+      "sha": "a314a585a81ade1ca22a515575ada9bf40e83db3"
+    }
+  ],
   "1922-evi-xxix-torveny": [
     {
       "datum": "1990-12-31",
@@ -12984,13 +13056,55 @@
       "sha": "78f0a6a41a1ae27188002995d54a40a6da78c718"
     }
   ],
-  "1923-evi-xxii-torveny": [],
-  "1924-evi-xxiii-torveny": [],
-  "1925-evi-vii-torveny": [],
-  "1925-evi-xix-torveny": [],
-  "1925-evi-xxix-torveny": [],
-  "1925-evi-xxx-torveny": [],
-  "1925-evi-xli-torveny": [],
+  "1923-evi-xxii-torveny": [
+    {
+      "datum": "1923-06-02",
+      "verzio": 1,
+      "sha": "8bef2b3c78c7c5ce950a938cb30da9ab5782998b"
+    }
+  ],
+  "1924-evi-xxiii-torveny": [
+    {
+      "datum": "1924-12-06",
+      "verzio": 1,
+      "sha": "849dfe2fe0a50cdbd68e323c1ff5708fdb4b02a9"
+    }
+  ],
+  "1925-evi-vii-torveny": [
+    {
+      "datum": "1925-04-22",
+      "verzio": 1,
+      "sha": "b10f6d418039f14f564f1511653c9d12b808e54a"
+    }
+  ],
+  "1925-evi-xix-torveny": [
+    {
+      "datum": "1925-06-02",
+      "verzio": 1,
+      "sha": "1fef0047c0377b7973cb90f307c167a834aa82ea"
+    }
+  ],
+  "1925-evi-xxix-torveny": [
+    {
+      "datum": "1925-10-29",
+      "verzio": 1,
+      "sha": "c0edb4550eac8d42bfe3208264c99e81086cf5fa"
+    }
+  ],
+  "1925-evi-xxx-torveny": [
+    {
+      "datum": "1925-11-10",
+      "verzio": 1,
+      "sha": "347fa91e8b098053448fba0bdefbfdf5a35855bb"
+    }
+  ],
+  "1925-evi-xli-torveny": [
+    {
+      "datum": "1925-12-29",
+      "verzio": 1,
+      "sha": "8e7ccac04cf078637b16031554350615af117a36"
+    }
+  ],
   "1925-evi-xlv-torveny": [
     {
       "datum": "1990-12-31",
@@ -12998,10 +13112,34 @@
       "sha": "78f0a6a41a1ae27188002995d54a40a6da78c718"
     }
   ],
-  "1925-evi-xlix-torveny": [],
-  "1926-evi-xix-torveny": [],
-  "1927-evi-xxviii-torveny": [],
-  "1927-evi-xxix-torveny": [],
+  "1925-evi-xlix-torveny": [
+    {
+      "datum": "1925-12-30",
+      "verzio": 1,
+      "sha": "f1940245ac38bdd43a1ff046bc3be13f82aea9bf"
+    }
+  ],
+  "1926-evi-xix-torveny": [
+    {
+      "datum": "1926-10-02",
+      "verzio": 1,
+      "sha": "e9fb8f19dd1c4becf3bd35522f61f59febabb7ac"
+    }
+  ],
+  "1927-evi-xxviii-torveny": [
+    {
+      "datum": "1927-09-20",
+      "verzio": 1,
+      "sha": "1da9fb0a797b4bf8f005404544c65395ce6cac80"
+    }
+  ],
+  "1927-evi-xxix-torveny": [
+    {
+      "datum": "1927-10-29",
+      "verzio": 1,
+      "sha": "84b0a5e51cf7abb7433b08ab0be29ef6de298dc3"
+    }
+  ],
   "1927-evi-xxxi-torveny": [
     {
       "datum": "2007-07-01",
@@ -13016,26 +13154,146 @@
       "sha": "78f0a6a41a1ae27188002995d54a40a6da78c718"
     }
   ],
-  "1928-evi-xv-torveny": [],
-  "1928-evi-xviii-torveny": [],
-  "1928-evi-xxvi-torveny": [],
-  "1928-evi-xxix-torveny": [],
-  "1928-evi-xxx-torveny": [],
-  "1928-evi-xxxi-torveny": [],
-  "1928-evi-xxxii-torveny": [],
-  "1928-evi-xxxix-torveny": [],
-  "1929-evi-xiii-torveny": [],
-  "1929-evi-xxii-torveny": [],
-  "1929-evi-xxxvii-torveny": [],
-  "1929-evi-xxxix-torveny": [],
-  "1929-evi-xl-torveny": [],
-  "1929-evi-xliii-torveny": [],
-  "1930-evi-i-torveny": [],
-  "1930-evi-ix-torveny": [],
-  "1930-evi-x-torveny": [],
-  "1930-evi-xiv-torveny": [],
-  "1930-evi-xv-torveny": [],
-  "1930-evi-xxxiii-torveny": [],
+  "1928-evi-xv-torveny": [
+    {
+      "datum": "1928-04-29",
+      "verzio": 1,
+      "sha": "8e87f7d8a51f04deba5224a99b9d47e57aa38e28"
+    }
+  ],
+  "1928-evi-xviii-torveny": [
+    {
+      "datum": "1928-04-29",
+      "verzio": 1,
+      "sha": "8e87f7d8a51f04deba5224a99b9d47e57aa38e28"
+    }
+  ],
+  "1928-evi-xxvi-torveny": [
+    {
+      "datum": "1928-06-26",
+      "verzio": 1,
+      "sha": "48215cefab1bfa3b83b6f562ad3dfb865a887c5e"
+    }
+  ],
+  "1928-evi-xxix-torveny": [
+    {
+      "datum": "1928-06-26",
+      "verzio": 1,
+      "sha": "48215cefab1bfa3b83b6f562ad3dfb865a887c5e"
+    }
+  ],
+  "1928-evi-xxx-torveny": [
+    {
+      "datum": "1928-06-26",
+      "verzio": 1,
+      "sha": "48215cefab1bfa3b83b6f562ad3dfb865a887c5e"
+    }
+  ],
+  "1928-evi-xxxi-torveny": [
+    {
+      "datum": "1928-06-26",
+      "verzio": 1,
+      "sha": "48215cefab1bfa3b83b6f562ad3dfb865a887c5e"
+    }
+  ],
+  "1928-evi-xxxii-torveny": [
+    {
+      "datum": "1928-06-26",
+      "verzio": 1,
+      "sha": "48215cefab1bfa3b83b6f562ad3dfb865a887c5e"
+    }
+  ],
+  "1928-evi-xxxix-torveny": [
+    {
+      "datum": "1928-08-04",
+      "verzio": 1,
+      "sha": "f91233da44e70e93ce2506cc142f7697f59ccef3"
+    }
+  ],
+  "1929-evi-xiii-torveny": [
+    {
+      "datum": "1929-04-09",
+      "verzio": 1,
+      "sha": "58d9b148415eb6c19808e596cbccfbe99f0b7734"
+    }
+  ],
+  "1929-evi-xxii-torveny": [
+    {
+      "datum": "1929-06-02",
+      "verzio": 1,
+      "sha": "552e99a4b7d9ba5b3e3ad4ab55dbec52aaa0feda"
+    }
+  ],
+  "1929-evi-xxxvii-torveny": [
+    {
+      "datum": "1929-09-10",
+      "verzio": 1,
+      "sha": "794c7fd807488a10a58f64bb223692ca2a8db30d"
+    }
+  ],
+  "1929-evi-xxxix-torveny": [
+    {
+      "datum": "1929-09-19",
+      "verzio": 1,
+      "sha": "be41d8515a7d4acc35a01b43ae04b9045df0c2c9"
+    }
+  ],
+  "1929-evi-xl-torveny": [
+    {
+      "datum": "1929-09-28",
+      "verzio": 1,
+      "sha": "94ffc458c825e58635894b71f9b6c1ff11d13cdf"
+    }
+  ],
+  "1929-evi-xliii-torveny": [
+    {
+      "datum": "1929-10-17",
+      "verzio": 1,
+      "sha": "b5c7a834189073ad9ff2444d76c2feed828bf5fa"
+    }
+  ],
+  "1930-evi-i-torveny": [
+    {
+      "datum": "1930-06-14",
+      "verzio": 1,
+      "sha": "69c73fb3c55212f664cda68af03041bfffb146ec"
+    }
+  ],
+  "1930-evi-ix-torveny": [
+    {
+      "datum": "1930-02-16",
+      "verzio": 1,
+      "sha": "e0488bf2c8057d8f4c51df5700c6000a1aadfd39"
+    }
+  ],
+  "1930-evi-x-torveny": [
+    {
+      "datum": "1930-02-28",
+      "verzio": 1,
+      "sha": "75b83ea2b3c71c9ad60a78eeba2fc2ff34be890e"
+    }
+  ],
+  "1930-evi-xiv-torveny": [
+    {
+      "datum": "1930-09-10",
+      "verzio": 1,
+      "sha": "b8e423010b9a3e32a41da0a8d77f8ee3103ace80"
+    }
+  ],
+  "1930-evi-xv-torveny": [
+    {
+      "datum": "1930-04-17",
+      "verzio": 1,
+      "sha": "69f99201825e02e85411ef7d71d41dc4b403da92"
+    }
+  ],
+  "1930-evi-xxxiii-torveny": [
+    {
+      "datum": "1930-08-13",
+      "verzio": 1,
+      "sha": "713e1055db87952663fd204d62e83fcad0458094"
+    }
+  ],
   "1930-evi-xxxv-torveny": [
     {
       "datum": "1990-12-31",
@@ -13045,12 +13303,23 @@
   ],
   "1930-evi-xxxvii-torveny": [
     {
+      "datum": "1930-11-08",
+      "verzio": 1,
+      "sha": "f297ecd6508d5e58e4fbcc8a0749a3552b10cd3f"
+    },
+    {
       "datum": "2017-12-12",
       "verzio": 2,
       "sha": "4419105314264e2bbe2da96b3038ddb5005a29d5"
     }
   ],
-  "1931-evi-v-torveny": [],
+  "1931-evi-v-torveny": [
+    {
+      "datum": "1931-01-31",
+      "verzio": 1,
+      "sha": "e1698dd2bcde716096eb3d32d34982b1c4ef6c5f"
+    }
+  ],
   "1931-evi-vi-torveny": [
     {
       "datum": "2007-01-01",
@@ -13086,8 +13355,20 @@
       "sha": "78f0a6a41a1ae27188002995d54a40a6da78c718"
     }
   ],
-  "1931-evi-xxix-torveny": [],
-  "1931-evi-xxxi-torveny": [],
+  "1931-evi-xxix-torveny": [
+    {
+      "datum": "1931-09-13",
+      "verzio": 1,
+      "sha": "9aa9227765752dd59bae785d7131c33008bf52ef"
+    }
+  ],
+  "1931-evi-xxxi-torveny": [
+    {
+      "datum": "1931-11-21",
+      "verzio": 1,
+      "sha": "4ff243cbff7fee8210d3d7c1c9dea83caf91c979"
+    }
+  ],
   "1932-evi-xix-torveny": [
     {
       "datum": "2007-01-01",
@@ -13147,10 +13428,34 @@
       "sha": "78f0a6a41a1ae27188002995d54a40a6da78c718"
     }
   ],
-  "1935-evi-xix-torveny": [],
-  "1935-evi-xxii-torveny": [],
-  "1936-evi-xiii-torveny": [],
-  "1936-evi-xvi-torveny": [],
+  "1935-evi-xix-torveny": [
+    {
+      "datum": "1935-09-24",
+      "verzio": 1,
+      "sha": "62416ba1e685de5be7e30ca7f4aa23d5746d8b31"
+    }
+  ],
+  "1935-evi-xxii-torveny": [
+    {
+      "datum": "1935-10-26",
+      "verzio": 1,
+      "sha": "88ac6bd50aeff1292402f85d4d981c96ebd5c0cc"
+    }
+  ],
+  "1936-evi-xiii-torveny": [
+    {
+      "datum": "1936-01-01",
+      "verzio": 0,
+      "sha": "e62f9af714409ee5247cfc68ba6cc8ffe90db231"
+    }
+  ],
+  "1936-evi-xvi-torveny": [
+    {
+      "datum": "1936-06-13",
+      "verzio": 1,
+      "sha": "e97f7142fd41e74f5f8fa7126e3adc67b927d374"
+    }
+  ],
   "1936-evi-xx-torveny": [
     {
       "datum": "1990-12-31",
@@ -13179,7 +13484,13 @@
       "sha": "af97613d25ce8fe036032ad0779313495ac7ed63"
     }
   ],
-  "1937-evi-xxiii-torveny": [],
+  "1937-evi-xxiii-torveny": [
+    {
+      "datum": "1937-09-19",
+      "verzio": 0,
+      "sha": "35a0480150229dbbd9fe7c3463fe2c4af9424e12"
+    }
+  ],
   "1937-evi-xxvi-torveny": [
     {
       "datum": "2007-01-01",
@@ -13194,7 +13505,13 @@
       "sha": "78f0a6a41a1ae27188002995d54a40a6da78c718"
     }
   ],
-  "1938-evi-xxxiii-torveny": [],
+  "1938-evi-xxxiii-torveny": [
+    {
+      "datum": "1938-08-18",
+      "verzio": 1,
+      "sha": "b99678055b3e073a72daca9b07f57f3b41248280"
+    }
+  ],
   "1940-evi-i-torveny": [
     {
       "datum": "1990-12-31",
@@ -13242,7 +13559,13 @@
       "sha": "78f0a6a41a1ae27188002995d54a40a6da78c718"
     }
   ],
-  "1940-evi-xxxiii-torveny": [],
+  "1940-evi-xxxiii-torveny": [
+    {
+      "datum": "1940-12-29",
+      "verzio": 0,
+      "sha": "7314eb58704c59da4e126ff574dda290caac4168"
+    }
+  ],
   "1940-evi-xxxiv-torveny": [
     {
       "datum": "1990-12-30",
@@ -112694,7 +113017,7 @@
     {
       "datum": "2026-08-01",
       "verzio": 32,
-      "sha": "018888056b77021066d9b9f6af2c445b5e49b0e8"
+      "sha": "6df4db52048231eef7ec0fad87a93ad13e7a2dd4"
     }
   ],
   "2017-evi-cliii-torveny": [
@@ -141196,7 +141519,7 @@
     {
       "datum": "2026-08-02",
       "verzio": 3,
-      "sha": "7dd164a27f28349ef168cf802a119d1066c082ad"
+      "sha": "2139ff52a5564f5fa82b2c087f478248da49fa58"
     }
   ],
   "2025-evi-lxxvi-torveny": [
