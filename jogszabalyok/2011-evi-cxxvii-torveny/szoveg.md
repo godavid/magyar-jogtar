@@ -458,7 +458,7 @@ IZLAND RÉSZÉRŐL
 
 A NORVÉG KIRÁLYSÁG RÉSZÉRŐL”
 
-4. § Az Országgyűlés jóváhagyja a Kiegészítő Megállapodásnak e törvény hatálybalépésétől kezdődő ideiglenes alkalmazását.
+#### 4. §
 
 5. § (1) E törvény a kihirdetését követő napon lép hatályba.
 
