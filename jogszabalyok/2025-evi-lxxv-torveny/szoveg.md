@@ -40,7 +40,7 @@ az Európai Unió mesterséges intelligenciáról szóló rendeletének magyaror
 - a) az (EU) 2024/1689 európai parlamenti és tanácsi rendelet 28. cikke szerinti bejelentő hatóságot (a továbbiakban: MI bejelentő hatóság), és
 - b) az (EU) 2024/1689 európai parlamenti és tanácsi rendelet 70. cikke szerinti piacfelügyeleti hatóságot (a továbbiakban: MI piacfelügyeleti hatóság).
 
-(2)
+(2) Az MI piacfelügyeleti hatóság a 10. § szerinti MI szabályozói tesztkörnyezetet működtet.
 
 (3) Az MI piacfelügyeleti hatóság országos illetékességgel ellátja az (EU) 2024/1689 európai parlamenti és tanácsi rendelet 70. cikke szerinti egyedüli kapcsolattartó pont működtetésével kapcsolatos feladatokat.
 
@@ -150,7 +150,11 @@ az Európai Unió mesterséges intelligenciáról szóló rendeletének magyaror
 
 #### 7. Az MI szabályozói tesztkörnyezet
 
-#### 10. §
+10. § (1) Az MI piacfelügyeleti hatóság az (EU) 2024/1689 európai parlamenti és tanácsi rendelet 3. cikk 55. pontjában meghatározott, az 57. cikk szerinti MI szabályozói tesztkörnyezetet alakít ki és működtet.
+
+(2) Az MI szabályozói tesztkörnyezet működésének részletes szabályait – beleértve a más hatóságnak az MI szabályozói tesztkörnyezet működésében való közreműködésére vonatkozó szabályokat is – a miniszter rendeletben állapítja meg, összhangban az (EU) 2024/1689 európai parlamenti és tanácsi rendelet 58. cikkében foglalt rendelkezésekkel.
+
+(3) Az MI szabályozói tesztkörnyezet működtetése érdekében az állami fenntartásban lévő nagy teljesítményű számítástechnikai kapacitásból a mindenkori fenntartó elkülönített kapacitást biztosíthat a miniszter számára.
 
 #### 8. Záró rendelkezések
 
