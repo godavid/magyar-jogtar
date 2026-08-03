@@ -1465,7 +1465,7 @@ adatvédelmi tisztviselőt nevez ki.
 - h) a tévesen bejegyzett adatok helyesbítése esetén,
 - i) a korábbi állandó személyazonosító igazolvány tároló elemének nem működése esetén vagy, ha a tároló elem hibásan tartalmazza a törvényben meghatározott, a polgárnak vagy az igazolványnak a nyilvántartásban szereplő adatait, vagy
 - j) a korábbi állandó személyazonosító igazolvány 29. § (1) bekezdésében meghatározott elektronikus szolgáltatásainak nem megfelelő működésekor,
-- k)
+- k) az 52/J. § (1) bekezdésében foglaltak szerint érvényüket vesztő személyazonosító igazolványokkal rendelkező polgárok ideiglenes személyazonosító igazolványának kiállításakor.
 
 (2) A személyi azonosítót és lakcímet igazoló hatósági igazolvány kiállításáért, pótlásáért igazgatási szolgáltatási díjat kell fizetni, kivéve
 

@@ -12,7 +12,11 @@ a nyilvántartásokkal és digitalizációval összefüggő törvények módosí
 
 #### 2. §
 
-#### 3. §
+3. § Az Nytv. 36/A. § (1) bekezdése a következő k) ponttal egészül ki:
+
+(A személyazonosító igazolvány kiállításáért, pótlásáért igazgatási szolgáltatási díjat kell fizetni, kivéve)
+
+„k) az 52/J. § (1) bekezdésében foglaltak szerint érvényüket vesztő személyazonosító igazolványokkal rendelkező polgárok ideiglenes személyazonosító igazolványának kiállításakor.”
 
 #### 4. §
 
