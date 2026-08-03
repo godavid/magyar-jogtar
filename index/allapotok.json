@@ -19433,6 +19433,11 @@
       "datum": "2026-05-16",
       "verzio": 155,
       "sha": "fcee0ea0afa720ae54f1a6cc6cf44a2a61382951"
+    },
+    {
+      "datum": "2026-08-03",
+      "verzio": 156,
+      "sha": "0e43f9f8dbd528b64c2231a0aeac74e52f03e3e9"
     }
   ],
   "1992-evi-lxviii-torveny": [
@@ -142621,6 +142626,11 @@
       "datum": "2026-05-17",
       "verzio": 11,
       "sha": "996ec57751b12d004b94607101bf458d5b7b985b"
+    },
+    {
+      "datum": "2026-08-03",
+      "verzio": 12,
+      "sha": "0e43f9f8dbd528b64c2231a0aeac74e52f03e3e9"
     }
   ],
   "2025-evi-cxxiv-torveny": [
