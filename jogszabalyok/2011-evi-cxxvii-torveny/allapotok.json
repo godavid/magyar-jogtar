@@ -3,5 +3,10 @@
     "datum": "2011-10-01",
     "verzio": 1,
     "sha": "30ecfdd0c0eb01c49d6ed931be464faac534050b"
+  },
+  {
+    "datum": "2026-08-02",
+    "verzio": 2,
+    "sha": "a5826733d910a2c2282f27fead0f2f8d8ce13477"
   }
 ]
