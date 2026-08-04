@@ -64,7 +64,12 @@
     },
     {
       "datum": "2026-08-03",
-      "verzio": 12
+      "verzio": 12,
+      "sha": "0e43f9f8dbd528b64c2231a0aeac74e52f03e3e9"
+    },
+    {
+      "datum": "2026-08-04",
+      "verzio": 13
     }
   ]
 }
