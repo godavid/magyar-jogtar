@@ -5467,13 +5467,7 @@ vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
 
 (2) A büntetés bűntett miatt három évig terjedő szabadságvesztés, ha az (1) bekezdésben meghatározott bűncselekményt bűnszövetségben vagy üzletszerűen követik el.
 
-### Kriptoeszközzel visszaélés
-
-394/A. § (1) Aki jogosulatlan kriptoeszköz-átváltási szolgáltatás igénybevételével jelentős értékű kriptoeszközt pénzre vagy más kriptoeszközre átvált, ha súlyosabb bűncselekmény nem valósul meg, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
-
-(2) A büntetés bűntett miatt három évig terjedő szabadságvesztés, ha az (1) bekezdésben meghatározott bűncselekményt különösen nagy értékre követik el.
-
-(3) A büntetés bűntett miatt egy évtől öt évig terjedő szabadságvesztés, ha az (1) bekezdésben meghatározott bűncselekményt különösen jelentős értékre követik el.
+#### 394/A. §
 
 ### XXXIX. Fejezet — A KÖLTSÉGVETÉST KÁROSÍTÓ BŰNCSELEKMÉNYEK
 
@@ -5727,13 +5721,7 @@ tevékenységet végez, bűntett miatt három évig terjedő szabadságvesztéss
 
 vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
 
-### Jogosulatlan kriptoeszköz-átváltási szolgáltatás nyújtása
-
-408/A. § (1) Aki a kriptoeszközök piacáról szóló törvény szerinti validálási kötelezettség megsértésével jelentős értékben kriptoeszköz-átváltási szolgáltatási tevékenységet végez, bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
-
-(2) A büntetés bűntett miatt egy évtől öt évig terjedő szabadságvesztés, ha az (1) bekezdésben meghatározott bűncselekményt különösen nagy értékre követik el.
-
-(3) A büntetés bűntett miatt két évtől nyolc évig terjedő szabadságvesztés, ha az (1) bekezdésben meghatározott bűncselekményt különösen jelentős értékre követik el.
+#### 408/A. §
 
 ### Gazdasági adatszolgáltatási kötelezettség elmulasztása
 
