@@ -57,3 +57,5 @@ jobs:
           NYILT_ADAT_REPO_DIR: ${{ github.workspace }}/adat
           NYILT_CACHE_DIR: ${{ runner.temp }}/njt-cache
           GITHUB_TOKEN: ${{ github.token }}
+          # keresőindex-szinkron; ha nincs beállítva, a delta kihagyja
+          NYILT_DB_URL: ${{ secrets.NYILT_DB_URL }}
