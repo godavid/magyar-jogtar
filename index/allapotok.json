@@ -738,6 +738,11 @@
       "datum": "2026-07-01",
       "verzio": 78,
       "sha": "f9985910a3fcfcbc7d59d2a3e967eec32013e7cb"
+    },
+    {
+      "datum": "2026-08-07",
+      "verzio": 84,
+      "sha": "eaf54ff507a1c097fb3ca4d14305d63e208c03cd"
     }
   ],
   "2012-evi-i-torveny-mt": [
@@ -126330,6 +126335,11 @@
       "datum": "2026-06-11",
       "verzio": 44,
       "sha": "58913595d27f8e59dbebd87e18392097d63835bd"
+    },
+    {
+      "datum": "2026-08-07",
+      "verzio": 45,
+      "sha": "eaf54ff507a1c097fb3ca4d14305d63e208c03cd"
     }
   ],
   "2021-evi-xxxiii-torveny": [
@@ -136671,6 +136681,11 @@
       "datum": "2026-01-01",
       "verzio": 5,
       "sha": "751cb950ce6eaae8d168db35cd94add760c27f35"
+    },
+    {
+      "datum": "2026-08-07",
+      "verzio": 6,
+      "sha": "eaf54ff507a1c097fb3ca4d14305d63e208c03cd"
     }
   ],
   "2024-evi-viii-torveny": [
