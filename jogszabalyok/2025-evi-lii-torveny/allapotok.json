@@ -8,5 +8,15 @@
     "datum": "2025-06-28",
     "verzio": 2,
     "sha": "76188ca78ac2aa2b7489e702eed1e95c60ffc046"
+  },
+  {
+    "datum": "2026-05-01",
+    "verzio": 4,
+    "sha": "e26b7a77736590e4ce2b8847c110d6a60ba85c5a"
+  },
+  {
+    "datum": "2026-05-02",
+    "verzio": 3,
+    "sha": "889479ea06214e0886fec1dfd9ba0e75e3dd1736"
   }
 ]
