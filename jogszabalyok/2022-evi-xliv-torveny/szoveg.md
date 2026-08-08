@@ -516,11 +516,16 @@ kapcsolatos audithatósági feladatokat.
 
 #### 47. §
 
-#### 26.
+#### 26. A közbeszerzésekről szóló 2015. évi CXLIII. törvény módosítása
 
-#### 48. §
+48. § A közbeszerzésekről szóló 2015. évi CXLIII. törvény 62. § (2) bekezdése helyébe a következő rendelkezés lép:
 
-#### 49. §
+„(2) A gazdasági szereplő akkor sem lehet ajánlattevő, részvételre jelentkező, alvállalkozó, és nem vehet részt alkalmasság igazolásában az Integritás Hatóság által az Eufetv. 28. § (3) bekezdése szerint meghatározott időpontig, vagy ennek hiányában – ha a büntetett előélethez fűződő hátrányok alól hamarabb nem mentesült – az ügydöntő bírósági határozat jogerőre emelkedésétől számított négy évig, ha
+
+- a) vezető tisztségviselője vagy felügyelőbizottságának tagja, cégvezetője, vagy személyes joga szerinti hasonló ügyvezető vagy felügyelő szervének tagja, illetve személyes joga szerint az előbbieknek megfelelő döntéshozatali jogkörrel rendelkező személy, vagy a Pmt. 3. § 38. pontja szerinti tényleges tulajdonosa olyan személy, akivel szemben az (1) bekezdés a) pontjában meghatározott bűncselekmény miatt a bíróság jogerős ügydöntő határozatot hozott, vagy
+- b) az (1) bekezdés a) pontjában meghatározott bűncselekmény miatt a bíróság jogerős ügydöntő határozatot olyan személlyel szemben hozott, aki a bűncselekmény elkövetésekor a gazdasági szereplő vezető tisztségviselője vagy felügyelőbizottságának tagja, cégvezetője, vagy személyes joga szerinti hasonló ügyvezető vagy felügyelő szervének tagja, illetve személyes joga szerint az előbbieknek megfelelő döntéshozatali jogkörrel rendelkező személy, vagy a Pmt. 3. § 38. pontja szerinti tényleges tulajdonosa volt.”
+
+49. § A közbeszerzésekről szóló 2015. évi CXLIII. törvény 62. § (1) bekezdés k) pont kb) alpontjában a „törvény 3. § 38. pont a)–b)” szövegrész helyébe a „törvény (a továbbiakban: Pmt.) 3. § 38. pont a), b)” szöveg lép.
 
 #### 27. A büntetőeljárásról szóló 2017. évi XC. törvény módosítása
 
@@ -602,7 +607,7 @@ kapcsolatos audithatósági feladatokat.
 
 #### 84. §
 
-#### 85. §
+85. § Nem lép hatályba az európai uniós költségvetési források felhasználásának ellenőrzéséről szóló 2022. évi XXVII. törvény 85. §-a.
 
 #### 86. §
 

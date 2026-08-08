@@ -848,7 +848,11 @@ sarkalatosnak minősül.
 
 #### 85. §
 
-#### 86. §
+86. § A közbeszerzésekről szóló 2015. évi CXLIII. törvény 64. §-a helyébe a következő rendelkezés lép:
+
+„64. § (1) A 62. § (1) bekezdés b) és f) pontjában említett kizáró okok kivételével bármely egyéb kizáró ok fennállása ellenére – beleértve azokat az eseteket, amikor a törvényben meghatározott kötelességszegés vagy jogsértés az ajánlatkérő mérlegelése alapján vezet kizáráshoz – az ajánlattevő, részvételre jelentkező, alvállalkozó vagy alkalmasság igazolásában részt vevő gazdasági szereplő nem zárható ki a közbeszerzési eljárásból, amennyiben a 62. § (1) bekezdés a) pont aa)–ah) alpontjában említett kizáró okok vonatkozásában az Integritás Hatóság a gazdasági szereplő Eufetv. IV. Fejezete szerinti nyilvántartásból való törléséről döntött vagy arról döntött, hogy az öntisztázási intézkedésekre tekintettel a gazdasági szereplőt nem veszi fel a nyilvántartásba, egyéb kizáró okok vonatkozásában a Közbeszerzési Hatóság véglegessé vált határozata, vagy annak megtámadására irányuló közigazgatási per esetén a bíróság jogerős határozata kimondta, hogy az érintett gazdasági szereplő az ajánlat vagy részvételi jelentkezés benyújtását megelőzően olyan intézkedéseket hozott, amelyek a kizáró ok fennállásának ellenére kellőképpen igazolják a megbízhatóságát.
+
+(2) Ha az Integritás Hatóság a gazdasági szereplő Eufetv. IV. Fejezete szerinti nyilvántartásból való törléséről döntött vagy arról döntött, hogy a gazdasági szereplőt az öntisztázási intézkedésekre tekintettel nem veszi fel a nyilvántartásba vagy a Közbeszerzési Hatóság véglegessé vált határozata, vagy annak megtámadására irányuló közigazgatási per esetén a bíróság jogerős határozata kimondja az adott kizáró ok hatálya alatt álló gazdasági szereplő megbízhatóságát, az ajánlatkérő mérlegelés nélkül köteles azt elfogadni. A Közbeszerzési Hatóság jogerős határozatát a gazdasági szereplő az egységes európai közbeszerzési dokumentummal egyidejűleg köteles benyújtani.”
 
 #### 87. §
 
@@ -863,7 +867,7 @@ sarkalatosnak minősül.
 92. § A közbeszerzésekről szóló 2015. évi CXLIII. törvény
 
 - a)
-- b)
+- b) 62. § (1) bekezdés a) pont nyitó szövegrészében az „az elmúlt öt évben jogerős bírósági ítéletben megállapítást nyert, amíg a büntetett előélethez fűződő hátrányok alól nem mentesült:” szövegrész helyébe a „jogerős bírósági ügydöntő határozatban megállapítást nyert, az Integritás Hatóság által az Eufetv. 28. § (3) bekezdése szerint megállapított időpontig, vagy ennek hiányában – ha a büntetett előélethez fűződő hátrányok alól hamarabb nem mentesült – a bíróság ügydöntő határozata jogerőre emelkedésétől számított négy évig:” szöveg,
 - c)
 - d)
 - e)
