@@ -1,7 +1,14 @@
 # Magyar Jogtár — a magyar jogrendszer git-natív verziókövetése
 
-Ez a repó a legfontosabb magyar jogszabályok **konszolidált szövegét** tartalmazza
-Markdown formátumban, úgy, hogy **a git history maga a jogtörténet**:
+> **Hungarian legislation as a git repository.** 4,300+ acts in consolidated
+> Markdown; one commit = one point-in-time version (the commit date is the date of
+> entry into force), so `git diff` is literally the amendment. Updated daily.
+> Public domain (CC0) — but **not an authentic source of law**, see
+> [DISCLAIMER.md](DISCLAIMER.md). Browse it at
+> [jogtar.remenyfarm.hu](https://jogtar.remenyfarm.hu).
+
+Ez a repó a magyar törvények **konszolidált szövegét** tartalmazza Markdown
+formátumban, úgy, hogy **a git history maga a jogtörténet**:
 
 - **egy commit = egy időállapot** — a commit dátuma a hatálybalépés napja,
 - **a `git diff` = a törvénymódosítás** — szó szerint látszik, mit vettek ki és mit tettek be,
@@ -28,6 +35,12 @@ index/jogszabalyok.json         # az összes jogszabály listája
 index/allapotok.json            # időállapot → commit SHA térkép (a weboldal használja)
 ```
 
+Egyetlen szöveg letöltéséhez nem kell klónozni:
+
+```
+https://raw.githubusercontent.com/godavid/magyar-jogtar/main/jogszabalyok/<slug>/szoveg.md
+```
+
 ## ⚠️ Nem hiteles jogforrás
 
 Ez a repó **tájékozódási és kutatási célra** készült, automatikus feldolgozással a
@@ -46,4 +59,9 @@ lépő új időállapotokat commitolja. A feldolgozó kód nyílt:
 
 A jogszabályszöveg a szerzői jogról szóló 1999. évi LXXVI. törvény 1. § (4)
 bekezdése alapján nem áll szerzői jogi védelem alatt (közkincs). A repó saját
-metaadatai és szerkezete: [CC0](LICENSE).
+hozzáadott rétege — szerkezet, metaadatok, index-fájlok — [CC0 1.0](LICENSE)
+alatt áll; magyar magyarázat: [LICENSE-HU.md](LICENSE-HU.md). Röviden: bármire
+felhasználható, gépi feldolgozásra is, forrásmegjelölés nélkül.
+
+A feldolgozó kód külön repóban él ([godavid/gitjog](https://github.com/godavid/gitjog)),
+MIT licenc alatt.
