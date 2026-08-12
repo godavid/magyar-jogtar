@@ -256,11 +256,11 @@ meghatározott eltérésekkel összhangban kell értelmezni.
 
 (2) Azt az anyagot vagy tárgyat, amely az (1) bekezdésben meghatározott feltételek teljesülése esetén megszűnik hulladéknak lenni, hasznosítottnak kell tekinteni, és
 
-- a) a csomagolásról és a csomagolási hulladékkal kapcsolatos hulladékgazdálkodási tevékenységekről szóló kormányrendeletben,
+- a)
 - b) a hulladékká vált gépjárművekről szóló kormányrendeletben,
-- c) az elem- és akkumulátorhulladékkal kapcsolatos hulladékgazdálkodási tevékenységekről szóló kormányrendeletben,
+- c)
 - d) az elektromos és elektronikus berendezésekkel kapcsolatos hulladékgazdálkodási tevékenységekről szóló kormányrendeletben, és
-- e) a tárgykörbe tartozó további uniós jogi aktusok átültetését szolgáló vagy más hazai jogszabályban
+- e) a tárgykörbe tartozó további hazai jogszabályban, valamint az Európai Unió kötelező jogi aktusában
 
 meghatározott hasznosítási és újrafeldolgozási célok alkalmazásában is megszűnik hulladéknak lenni, amikor az ezekben a jogszabályokban előírt újrafeldolgozási, illetve hasznosítási követelmények teljesülnek.
 
@@ -513,30 +513,34 @@ igazolható módon tájékoztatja az átvevőt.
 
 #### 14. A gyártó kötelezettségei
 
-22. § (1) A gyártó a hulladékhierarchia helyes alkalmazásának elősegítése érdekében törekszik arra, hogy a terméket és csomagolását – ideértve a csomagolószer előállítását is – úgy tervezze meg, alakítsa ki, továbbá olyan technológia- és termékfejlesztést hajtson végre, amely az elérhető leghatékonyabb anyag- és energiafelhasználással jár, valamint elősegíti a hulladékképződés megelőzését, a többször használható, újrafeldolgozott anyagokat tartalmazó, műszaki szempontból tartós, egyszerűen javítható és a hulladékká válás után újrahasználatra való előkészítésre és újrafeldolgozásra alkalmassá váló termékek és alkatrészeik fejlesztésével, gyártásával és forgalmazásával – figyelembe véve a termék teljes életciklusa során jelentkező hatásokat – a hulladékhierarchiára vonatkozó előírásokat és az újrahasználat elvét.
+22. § (1) A gyártó a hulladékhierarchia helyes alkalmazásának elősegítése érdekében törekszik arra, hogy a terméket és csomagolását úgy tervezze meg, alakítsa ki, továbbá olyan technológia- és termékfejlesztést hajtson végre, amely az elérhető leghatékonyabb anyag- és energiafelhasználással jár, valamint elősegíti a hulladékképződés megelőzését, a többször használható, újrafeldolgozott anyagokat tartalmazó, műszaki szempontból tartós, egyszerűen javítható és a hulladékká válás után újrahasználatra való előkészítésre és újrafeldolgozásra alkalmassá váló termékek és alkatrészeik fejlesztésével, gyártásával és forgalmazásával – figyelembe véve a termék teljes életciklusa során jelentkező hatásokat – a hulladékhierarchiára vonatkozó előírásokat és az újrahasználat elvét.
 
-(2) A gyártó a nyers- és alapanyag, termék, valamint csomagolószer közül azt igyekszik előnyben részesíteni, amelynek előállítása és felhasználása alacsonyabb anyag- és energiaigénnyel, előállítása és használata kisebb környezeti hatással, kevesebb veszélyes hulladék képződésével jár, alacsonyabb a veszélyes jelleget előidéző összetevőinek mértéke, továbbá, amely tartósabb, többször használható, és hulladékká válását követően kevésbé terheli a környezetet.
+(2) A gyártó a nyers- és alapanyag, termék, valamint csomagolás közül azt igyekszik előnyben részesíteni, amelynek előállítása és felhasználása alacsonyabb anyag- és energiaigénnyel, előállítása és használata kisebb környezeti hatással, kevesebb veszélyes hulladék képződésével jár, alacsonyabb a veszélyes jelleget előidéző összetevőinek mértéke, továbbá, amely tartósabb, többször használható, és hulladékká válását követően kevésbé terheli a környezetet.
 
 (3) Az (1) és (2) bekezdés szerint eljáró gyártó törvényben vagy kormányrendeletben meghatározott feltételek teljesítése esetén – az abban meghatározott módon és mértékig – kedvezmény igénybevételére jogosult.
 
-23. § (1) A gyártó közérthető módon tájékoztatja a termék fogyasztóit a termék és csomagolása hulladékgazdálkodási szempontból lényeges tulajdonságairól, a termék és csomagolásának újrahasználhatóságáról, elhasználódása vagy hulladékká válása esetén annak feldolgozhatóságáról, valamint további kezelésének lehetőségeiről.
+23. § (1) A gyártó közérthető módon tájékoztatja a termék fogyasztóit a termék hulladékgazdálkodási szempontból lényeges tulajdonságairól, a termék újrahasználhatóságáról, elhasználódása vagy hulladékká válása esetén annak feldolgozhatóságáról, valamint további kezelésének lehetőségeiről.
 
-(2) A gyártó a terméken vagy annak csomagolásán, illetve a csomagolószeren jól látható és közérthető módon jelöli a termék és a csomagolásként felhasznált csomagolószer hulladékszegény, tartós vagy újrahasználható jellegét, hulladékgazdálkodási szempontból lényeges anyagösszetételét, visszaváltási díjas vagy letéti díjas forgalmazását, továbbá a 32/B. § szerinti kötelezően visszaváltási díjas termék esetén annak jogszabályban meghatározott azonosító jelét.
+(1a) A koncessziós társaság az (EU) 2025/40 európai parlamenti és tanácsi rendelet 55. cikkében foglaltak szerint tájékoztatja a végfelhasználókat – különösen a fogyasztókat – a csomagolási hulladék-megelőzésre és -gazdálkodásra vonatkozóan.
 
-(3) A fogyasztók tájékoztatására, valamint a terméken és a csomagolásra felhasznált csomagolószeren feltüntetendő információkra vonatkozóan az (1) és (2) bekezdésben előírt követelmények megsértése esetén a fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló törvényben (a továbbiakban: Fttv.) meghatározott hatóság jár el, ha a jogsértés az Fttv. értelmében vett fogyasztót érint. A hatóság az Fttv.-ben meghatározott szabályok szerint jár el.
+(2) A gyártó a terméken jól látható és közérthető módon jelöli a termék hulladékszegény, tartós vagy újrahasználható jellegét, hulladékgazdálkodási szempontból lényeges anyagösszetételét, továbbá visszaváltási díjas vagy letéti díjas forgalmazását.
 
-(4) A gyártó az általa előállított vagy forgalomba hozott termék és a termék csomagolására felhasznált csomagolószer újrahasználatának vagy újrahasználatra való előkészítésének elősegítése érdekében – ha törvény vagy kormányrendelet előírja – a termék vagy alkatrésze, valamint a csomagolásra felhasznált csomagolószer újrahasználatát biztosító hálózatot alakít ki és működtet.
+(2a) A gyártó a csomagoláson kormányrendeletben, valamint közvetlenül alkalmazandó uniós jogi aktusban meghatározott jelölést alkalmaz.
 
-24. § (1) A gyártó törvényben, kormányrendeletben vagy miniszteri rendeletben meghatározott termék vagy termékcsoport, továbbá a termék csomagolására felhasznált csomagolószer vonatkozásában
+(3) A fogyasztók tájékoztatására, valamint a terméken és a csomagoláson feltüntetendő információkra vonatkozóan az (1)–(2a) bekezdésben előírt követelmények megsértése esetén a fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló törvényben (a továbbiakban: Fttv.) meghatározott hatóság jár el, ha a jogsértés az Fttv. értelmében vett fogyasztót érint. A hatóság az Fttv.-ben meghatározott szabályok szerint jár el.
 
-- a) az általa előállított vagy forgalomba hozott termékcsoportból származó terméket, továbbá a csomagolására felhasznált csomagolószert a forgalmazótól, a fogyasztótól visszaváltja vagy visszaveszi annak újrahasználata, továbbá
-- b) az általa előállított vagy forgalomba hozott termékből, továbbá a termék csomagolását képező csomagolószerből származó hulladékot – a 32/B. § szerinti kötelezően visszaváltási díjas termékből származó hulladék kivételével – a hulladékbirtokostól átveszi annak újrahasználatra való előkészítése, hasznosítása, valamint ártalmatlanítása
+(4) A gyártó az általa előállított vagy forgalomba hozott termék és a csomagolás újrahasználatának vagy újrahasználatra való előkészítésének elősegítése érdekében – ha törvény, kormányrendelet vagy közvetlenül alkalmazandó uniós jogi aktus előírja – a termék vagy alkatrésze, valamint a csomagolás újrahasználatát biztosító hálózatot alakít ki és működtet.
+
+24. § (1) A gyártó törvényben, kormányrendeletben vagy miniszteri rendeletben meghatározott termék vagy termékcsoport, továbbá a termék csomagolása vonatkozásában
+
+- a) az általa előállított vagy forgalomba hozott termékcsoportból származó terméket, továbbá a csomagolását a forgalmazótól, a fogyasztótól visszaváltja vagy visszaveszi annak újrahasználata, továbbá
+- b) az általa előállított vagy forgalomba hozott termékből, továbbá a termék csomagolásából származó hulladékot – a 32/B. § szerinti kötelezően visszaváltási díjas termékből származó hulladék kivételével – a hulladékbirtokostól átveszi annak újrahasználatra való előkészítése, hasznosítása, valamint ártalmatlanítása
 
 érdekében.
 
 (2)
 
-25. § (1) A gyártó a terméke forgalomba hozatalát – a 32/B. § szerinti kötelezően visszaváltási díjas termék kivételével – megállapodás alapján ahhoz a feltételhez kötheti, hogy a forgalmazó kötelezettséget vállal a termék és a termék csomagolását képező csomagolószer visszaváltási díj – tartós fogyasztási cikk esetén letéti díj – ellenében történő visszavételére a visszaváltási díj alkalmazásának szabályairól szóló kormányrendeletben meghatározott feltételek szerint.
+25. § (1) A gyártó a terméke forgalomba hozatalát – a 32/B. § szerinti kötelezően visszaváltási díjas termék kivételével – megállapodás alapján ahhoz a feltételhez kötheti, hogy a forgalmazó kötelezettséget vállal a termék és a termék csomagolása visszaváltási díj – tartós fogyasztási cikk esetén letéti díj – ellenében történő visszavételére a visszaváltási díj alkalmazásának szabályairól szóló kormányrendeletben meghatározott feltételek szerint.
 
 (2) A gyártó azt az (1) bekezdés szerinti visszaváltási díjas vagy letéti díjas terméket, továbbá annak csomagolását, amely után a fogyasztó visszaváltási vagy letéti díjat fizetett, a forgalmazótól, a fogyasztótól visszaváltja vagy visszaveszi, és a visszaváltási vagy letéti díjat részére visszafizeti.
 
@@ -544,12 +548,12 @@ igazolható módon tájékoztatja az átvevőt.
 
 26. § (1) A forgalmazó – a 32/B. § szerinti kötelezően visszaváltási díjas termék kivételével – a gyártóval megállapodást köthet arról, hogy a forgalmazó gondoskodik
 
-- a) az általa forgalmazott termék, és a termék csomagolását képező csomagolószer fogyasztótól történő visszaváltásáról vagy visszavételéről, és a gyártónak történő átadásáról, valamint
-- b) az általa forgalmazott termékből, és a termék csomagolását képező csomagolószerből származó hulladék hulladékbirtokostól történő átvételéről, elkülönített gyűjtéséről és hulladékkezelőnek történő átadásáról.
+- a) az általa forgalmazott termék, és a termék csomagolása fogyasztótól történő visszaváltásáról vagy visszavételéről, és a gyártónak történő átadásáról, valamint
+- b) az általa forgalmazott termékből, és a termék csomagolásából származó hulladék hulladékbirtokostól történő átvételéről, elkülönített gyűjtéséről és hulladékkezelőnek történő átadásáról.
 
 (2) Törvény, kormányrendelet vagy miniszteri rendelet a forgalmazót a gyártótól függetlenül is kötelezheti az általa forgalmazott termék, termékcsoportból származó termék, továbbá a termék csomagolásának fogyasztótól történő visszaváltására vagy visszavételére, valamint a termékből és csomagolásából származó hulladék hulladékbirtokostól történő átvételére, elkülönített gyűjtésére, hulladékkezelőnek történő átadására.
 
-27. § A forgalmazó a fogyasztó által felajánlott terméket és a termék csomagolását képező csomagolószert, amely után a fogyasztó visszaváltási díjat vagy letéti díjat fizetett, a fogyasztótól visszaváltja vagy visszaveszi, és részére a díjat visszafizeti.
+27. § A forgalmazó a fogyasztó által felajánlott terméket és a termék csomagolását, amely után a fogyasztó visszaváltási díjat vagy letéti díjat fizetett, a fogyasztótól visszaváltja vagy visszaveszi, és részére a díjat visszafizeti.
 
 #### 16. A gyártóra és a forgalmazóra vonatkozó közös szabályok
 
@@ -568,7 +572,7 @@ megfizetéséhez kötheti.
 
 (5) A gyártó az általa előállított, a forgalmazó az általa forgalmazott termékcsoportba tartozó termékből, továbbá annak csomagolásából származó hulladékot a termék, illetve csomagolásának előállítása, forgalmazása helyén átveheti, és annak gyűjtését hulladékgazdálkodási engedély nélkül végezheti.
 
-(6) A gyártó és a forgalmazó a gyártói felelősség körébe tartozó termékcsoportba tartozó termékből, és a termék csomagolását képező csomagolószerből származó hulladék átvételéért ellenértéket nem kérhet.
+(6) A gyártó és a forgalmazó a gyártói felelősség körébe tartozó termékcsoportba tartozó termékből, és a termék csomagolásából származó hulladék átvételéért ellenértéket nem kérhet.
 
 (7)
 
@@ -1729,7 +1733,7 @@ részére adható át.
 
 (1a) Az OHT-nek és az OMP-nek meg kell felelnie
 
-- a) a 94/62/EK irányelv 14. cikkében a hulladékgazdálkodás tervezésével kapcsolatban meghatározott követelményeknek, a 2008/98/EK európai parlamenti és tanácsi irányelv 11. cikk (2) és (3) bekezdésében foglalt célértékeknek,
+- a) az (EU) 2025/40 európai parlamenti és tanácsi rendelet 42. cikkében a hulladékgazdálkodás tervezésével kapcsolatban meghatározott követelményeknek, a 2008/98/EK európai parlamenti és tanácsi irányelv 11. cikk (2) és (3) bekezdésében foglalt célértékeknek,
 - b) az 1999/31/EK irányelv 5. cikkében meghatározott követelményeknek, valamint
 - c) az elhagyott hulladék megelőzése érdekében a tengeri környezetvédelmi politika területén a közösségi fellépés kereteinek meghatározásáról szóló, 2008. június 17-i 2008/56/EK európai parlamenti és tanácsi irányelv 13. cikkében és a vízpolitika terén a közösségi fellépés kereteinek meghatározásáról szóló, 2000. október 23-i 2000/60/EK európai parlamenti és tanácsi irányelv 11. cikkében foglalt követelményeknek.
 
@@ -1742,7 +1746,7 @@ részére adható át.
 
 (3) Az OHT-t és az OMP-t a 92. § (1)–(3) bekezdésében meghatározott előírással összhangban kell kidolgozni.
 
-(4) A csomagolási hulladékra vonatkozó feladatokat, ösztönző rendszereket és tilalmakat – az (1) bekezdés szerinti tartalommal – az OHT önálló tervrészeként vagy külön tervben kell meghatározni.
+(4) A csomagolással és a csomagolási hulladékkal való gazdálkodásra vonatkozó feladatokat, ösztönző rendszereket és tilalmakat – ideértve az (EU) 2025/40 európai parlamenti és tanácsi rendelet 48., 50. és 52. cikke alapján meghozott intézkedéseket is – az OHT külön fejezetében kell meghatározni az (1) bekezdés szerinti tartalommal.
 
 (5) Az OMP-nek különösen az alábbiakat kell tartalmaznia:
 
@@ -2307,7 +2311,7 @@ kezeli.
 - 8. a hulladék külföldről történő behozatalát, az országból történő kivitelét és az ország területén történő átszállítását;
 - 9. a letéti díj, valamint a visszaváltási díj megállapításának és alkalmazásának részletes szabályait, továbbá a letéti díjjal és a visszaváltási díjjal kapcsolatban a fogyasztók tájékoztatására vonatkozó követelményeket;
 - 10. a visszavételi és visszaadási lehetőség alkalmazását, a használt termékek, illetve a hulladék átvételi, gyűjtési és hasznosítási arányait és azok teljesítésének határidejét;
-- 11. a csomagolás és a csomagolószer hulladékká válását megelőző tevékenységek, valamint a hulladékká vált csomagolással kapcsolatos hulladékgazdálkodási tevékenységek részletes szabályait;
+- 11. a csomagolás hulladékká válását megelőző tevékenységek, valamint a hulladékká vált csomagolással kapcsolatos hulladékgazdálkodási tevékenységek részletes szabályait;
 - 12. az elektromos és elektronikus berendezés hulladékká válását megelőző tevékenységek és a hulladékká vált elektromos és elektronikus berendezéssel kapcsolatos hulladékgazdálkodási tevékenységek részletes szabályait, valamint az elektromos és elektronikus berendezések vissza- és átvételi díját;
 - 13. az elem és akkumulátor hulladékká válását megelőző tevékenységek, valamint a hulladékká vált elemmel és akkumulátorral kapcsolatos hulladékgazdálkodási tevékenységek részletes szabályait;
 - 14. a gépjárművek hulladékká válását megelőző tevékenységek, valamint a hulladékká vált gépjárművekkel kapcsolatos hulladékgazdálkodási tevékenységek részletes szabályait;
@@ -2736,7 +2740,7 @@ teljesíti.
 - e) a 2008/98/EK európai parlamenti és tanácsi irányelvnek;
 - f) a 2008/98/EK európai parlamenti és tanácsi irányelv 11. cikkének (2) bekezdésében rögzített célok teljesítésének igazolására szolgáló szabályok és számítási módszerek megállapításáról szóló, 2011. november 18-i bizottsági határozatnak
 - g) a hulladékokról és egyes irányelvek hatályon kívül helyezéséről szóló 2008/98/EK európai parlamenti és tanácsi irányelv II. mellékletének módosításáról szóló, 2015. július 10-i 2015/1127/EU bizottsági irányelvnek;
-- h) a csomagolásról és a csomagolási hulladékról szóló, 1994. december 20-i 94/62/EK európai parlamenti és tanácsi irányelvnek
+- h)
 - i) a hulladékokról szóló 2008/98/EK irányelv módosításáról szóló, 2018. május 30-i (EU) 2018/851 európai parlamenti és tanácsi irányelvnek;
 - j) a hulladéklerakókról szóló 1999/31/EK irányelv módosításáról szóló, 2018. május 30-i (EU) 2018/850 európai parlamenti és tanácsi irányelvnek
 - k) az egyes műanyagtermékek környezetre gyakorolt hatásának csökkentéséről szóló, 2019. június 5-i (EU) 2019/904 európai parlamenti és tanácsi irányelvnek,
@@ -2750,6 +2754,7 @@ való megfelelést szolgálja.
 - a) a hulladékszállításról, az 1257/2013/EU és az (EU) 2020/1056 rendelet módosításáról, valamint az 1013/2006/EK rendelet hatályon kívül helyezéséről szóló, 2024. április 11-i (EU) 2024/1157 európai parlamenti és tanácsi rendelet,
 - b) a hulladékokról és egyes irányelvek hatályon kívül helyezéséről szóló 2008/98/EK európai parlamenti és tanácsi irányelv III. mellékletének felváltásáról szóló, 2014. december 18-i 1357/2014/EU bizottsági rendelet
 - c) a 2008/98/EK európai parlamenti és tanácsi irányelv III. mellékletének a HP 14 „környezetre veszélyes (ökotoxikus)” veszélyességi tulajdonság tekintetében történő módosításáról szóló, 2017. június 8-i 2017/997/EU tanácsi rendelet
+- d) a csomagolásról és a csomagolási hulladékról, az (EU) 2019/1020 rendelet és az (EU) 2019/904 irányelv módosításáról, valamint a 94/62/EK irányelv hatályon kívül helyezéséről szóló, 2024. december 19-i (EU) 2025/40 európai parlamenti és tanácsi rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 

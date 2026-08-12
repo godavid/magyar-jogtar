@@ -46,11 +46,7 @@ Az Országgyűlés, hogy hozzájáruljon a környezetszennyezés megelőzéséhe
 
 meg nem haladó tömegű termékdíjköteles terméket belföldi forgalomba hozó, saját célra felhasználó, vagy készletre vevő kötelezett;
 
-- 7. csomagolás: valamennyi olyan,
-  - a) bármilyen tulajdonságú anyagból készült termék, amelyet áru tartására, megóvására, átadására, átvételére, szállítására, valamint bemutatására használnak, beleértve minden terméket a nyersanyagoktól kezdve a feldolgozott árucikkekig, továbbá az ugyanilyen célra használt egyutas árucikkek; így: aa) a fogyasztói vagy elsődleges csomagolás, amely értékesítési egységet képez a fogyasztó számára az értékesítés helyszínén; ab) a gyűjtő- vagy másodlagos csomagolás, amely az értékesítés helyszínén meghatározott számú értékesítési egységet foglal magában, ha ezeket az egységeket a fogyasztó részére értékesítik, vagy ezek az egységek csupán a polcok feltöltésére szolgálnak, és a csomagolást a termékről a termék tulajdonságainak megváltoztatása nélkül el lehet távolítani, valamint ac) a szállítási vagy harmadlagos csomagolás, amely megkönnyíti a fogyasztói vagy gyűjtőcsomagolás átadását, átvételét és szállítását annak érdekében, hogy a fizikai átadásnál, átvételnél és szállításnál megóvja az árut a károsodástól, ide nem értve a közúti, vasúti, vízi és légi közlekedésben használatos tartályokat;
-  - b) árucikk, ha a csomagolás fogalom-meghatározásnak a csomagolás által még biztosított egyéb funkciók sérelme nélkül megfelel, kivéve, ha az adott árucikk a termék szerves részét képezi, és erre az árucikkre a termék tartásához vagy megőrzéséhez a termék teljes élettartama alatt szükség van, valamint az egyes alkotóelemeket együttes felhasználásra, fogyasztásra vagy értékesítésre szánták,
-  - c) az értékesítés helyén történő megtöltésre tervezett és szánt árucikk, továbbá az értékesítés helyén eladott, megtöltött vagy az értékesítés helyén történő megtöltésre tervezett és szánt egyszer használatos (eldobható) árucikk, ha azok csomagolási funkciót látnak el,
-  - d) a csomagolásba beépülő egyes alkotóelem és kiegészítő elem, amelyet azon csomagolás részének kell tekinteni, amelybe azok beépültek; továbbá a termékre közvetlenül ráakasztott vagy ahhoz rögzített, csomagolási funkciót ellátó kiegészítő elem kivéve, ha azok a termék szerves részét képezik, és minden alkotóelem, amelyet együttes fogyasztásra vagy értékesítésre szántak.
+- 7. csomagolás: az (EU) 2025/40 európai parlamenti és tanácsi rendelet szerinti csomagolás;
 - 7a.
 - 7b.
 - 7c.
@@ -87,13 +83,13 @@ ideértve a tulajdonjog más termék tartozékaként vagy alkotórészeként val
 - 20b. kézműipari termék: a kézműipari tevékenység keretében előállított termék;
 - 20c. kézműipari tevékenység: olyan termék-előállítási forma, amely során a termék lényeges jellegét a közvetlen emberi tevékenység, megmunkálás adja;
 - 21. kiskereskedelmi értékesítés: a kereskedelemről szóló törvény szerinti kiskereskedelmi tevékenység;
-- 22. könnyű műanyag hordtasak: olyan műanyag hordtasak, amelynek falvastagsága 50 mikronnál kevesebb;
+- 22. könnyű műanyag hordtasak: az (EU) 2025/40 európai parlamenti és tanácsi rendelet szerinti könnyű műanyag hordtasak;
 - 23.
 - 24. külföld: az Európai Közösség Magyarországon kívüli állama és a harmadik ország;
-- 24a. műanyag: a vegyi anyagok regisztrálásáról, értékeléséről, engedélyezéséről és korlátozásáról (REACH), az Európai Vegyianyag-ügynökség létrehozásáról, az 1999/45/EK irányelv módosításáról, valamint a 793/93/EGK tanácsi rendelet, az 1488/94/EK bizottsági rendelet, a 76/769/EGK tanácsi irányelv, a 91/155/EGK, a 93/67/EGK, a 93/105/EK és a 2000/21/EK bizottsági irányelv hatályon kívül helyezéséről szóló, 2006. december 18-i 1907/2006/EK európai parlamenti és tanácsi rendelet 3. cikk 5. pontja értelmében vett polimer, amelyhez esetleg adalékanyagokat vagy egyéb anyagokat is adtak és amely alkalmas az egyéb műanyag termék fő szerkezeti alkotóelemeként való felhasználásra, beleértve a biológiailag lebomló műanyagokat is;
-- 25. műanyag hordtasak: olyan, műanyagból készült, fogófüllel ellátott vagy fogófül nélküli hordtasak, amelyet az áruk vagy termékek értékesítési pontján biztosítanak a fogyasztók részére, a hajlékonyfalú műanyag hűtőtasak vagy hűtőtáska kivételével;
+- 24a. műanyag: az (EU) 2025/40 európai parlamenti és tanácsi rendelet szerinti műanyag;
+- 25. műanyag hordtasak: az (EU) 2025/40 európai parlamenti és tanácsi rendelet szerinti műanyag hordtasak;
 - 25a.
-- 25b. nagyon könnyű műanyag hordtasak: olyan műanyag hordtasak, amelynek falvastagsága 15 mikronnál kevesebb, és amelynek felhasználása higiéniai célokat szolgál, vagy amelyet ömlesztett élelmiszerek elsődleges csomagolására használnak azokban az esetekben, amikor az segít megelőzni az élelmiszer-pazarlást;
+- 25b. nagyon könnyű műanyag hordtasak: az (EU) 2025/40 európai parlamenti és tanácsi rendelet szerinti nagyon könnyű műanyag hordtasak;
 - 26.
 - 27.
 - 28. termékáram: az egyes termékek hulladékgazdálkodási szempontok alapján képzett termékcsoportonkénti összessége;
@@ -798,7 +794,7 @@ a termékdíjköteles terméket lefoglalja.
 
 #### 30/A. Európai Unió jogának való megfelelés
 
-40/H. § Ez a törvény a 94/62/EK irányelvnek a könnyű műanyag hordtasakok felhasználásának csökkentése tekintetében történő módosításáról szóló, 2015. április 29-i 2015/720 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+40/H. § Ez a törvény a csomagolásról és a csomagolási hulladékról, az (EU) 2019/1020 rendelet és az (EU) 2019/904 irányelv módosításáról, valamint a 94/62/EK irányelv hatályon kívül helyezéséről szóló, 2024. december 19-i (EU) 2025/40 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
 #### 31. Bejelentés az Európai Unió részére
 
