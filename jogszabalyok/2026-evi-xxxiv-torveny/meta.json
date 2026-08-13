@@ -9,11 +9,17 @@
   "allapotok": [
     {
       "datum": "2026-07-29",
-      "verzio": 1
+      "verzio": 1,
+      "sha": "b6206e52e237e6b3ae2b371ccdda5513fc9ffbdc"
     },
     {
       "datum": "2026-07-30",
-      "verzio": 2
+      "verzio": 2,
+      "sha": "64d649c95f725ad45caf27367ce0565bc933ecee"
+    },
+    {
+      "datum": "2026-08-13",
+      "verzio": 3
     }
   ]
 }
