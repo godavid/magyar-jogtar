@@ -442,6 +442,8 @@ de legfeljebb a 2003/87/EK európai parlamenti és tanácsi irányelv 3d. cikk (
 
 37. § Az európai uniós forrásból finanszírozott pénzügyi eszközök keretében nyújtott visszatérítendő támogatások kapcsán a kedvezményezett által hitel törlesztésként vagy részesedés ellenértékeként teljesített, ütemezett visszafizetésből eredő költségvetési bevételből, illetve az uniós forrásból az előirányzatnak átadott pénzeszközökből képződött maradvány nem elvonható.
 
+37/A. § Az Országgyűlés megállapítja, hogy a Helyreállítási és Ellenállóképességi Terv keretében a 2026. évben lehívott hitelből 688 338 565 eurónak megfelelő forint összegű tőkeemelésre kerül sor az MFB Zrt.-ben, amely tőkét az Európai Beruházási Bankkal együttműködve, az MFB Zrt. által az Európai Beruházási Bankkal kötendő társfinanszírozási megállapodás alapján kell felhasználni.
+
 ### III. Fejezet — A KÖZPONTI ALRENDSZEREN BELÜLI ELSZÁMOLÁSOK, KAPCSOLATOK
 
 38. § (1) A szociális hozzájárulási adó 2026-ban megfizetett összegének 82,81%-a az Ny. Alapot, 17,19%-a az E. Alapot illeti meg. A szociális hozzájárulási adó megfizetett összegéből az Ny. Alapot és az E. Alapot megillető részt a Nemzeti Adó- és Vámhivatal állapítja meg, és naponta utalja át a jogosult számlájára.
@@ -613,9 +615,9 @@ delegál.
 
 (2) Az Európai Beruházási Banktól, az Európai Újjáépítési és Fejlesztési Banktól, valamint az Európa Tanács Fejlesztési Banktól felveendő hitelekhez vállalható egyedi állami kezességek és állami garanciák nem terhelik az (1) bekezdés szerinti keretösszeget.
 
-(3) Az állam készfizető kezesként felel a Magyar Szénhidrogén Készletező Szövetség azon fizetési kötelezettségeiért, amelyek a jogszabályban meghatározott feladatainak érdekében belföldről, vagy külföldről felvett hiteleiből erednek.
+(3)
 
-(4) A Magyar Szénhidrogén Készletező Szövetség a (3) bekezdés szerinti kötelezettségei biztosítékaként az állami készfizető kezességvállaláson túl a hitelező további biztosítékot nem írhat elő.
+(4)
 
 52. § (1) A 2026. évben vállalt kiállítási garanciák és kiállítási viszontgaranciák együttes, a vállalás időpontjában forintra átszámított állománya az év egyetlen napján sem haladhatja meg az 1 400 000,0 millió forintot.
 
@@ -623,7 +625,7 @@ delegál.
 
 53. § (1) A Magyar Fejlesztési Bank Részvénytársaságról szóló 2001. évi XX. törvény (a továbbiakban: MFB tv.) 5. § (3) bekezdés a) pontja szerinti felső határ a 2026. évben 5 000 000,0 millió forint.
 
-(2) Az MFB tv. 5. § (3) bekezdés b) pontja szerinti felső határ a 2026. évben 2 000 000,0 millió forint.
+(2) Az MFB tv. 5. § (3) bekezdés b) pontja szerinti felső határ a 2026. évben 1 800 000,0 millió forint.
 
 (3) Az MFB tv. 5. § (3) bekezdés c) pontja szerinti felső határ a 2026. évben 2 000 000,0 millió forint.
 
@@ -631,11 +633,11 @@ delegál.
 
 54. § (1) A Magyar Export-Import Bank Részvénytársaságról és a Magyar Exporthitel Biztosító Részvénytársaságról szóló 1994. évi XLII. törvény (a továbbiakban: Etv.) 7. § (1) bekezdés a) pontja szerinti felső határ a 2026. évben 4 300 000,0 millió forint.
 
-(2) Az Etv. 7. § (1) bekezdés b) pontja szerinti felső határ a 2026. évben 200 000,0 millió forint.
+(2) Az Etv. 7. § (1) bekezdés b) pontja szerinti felső határ a 2026. évben 50 000,0 millió forint.
 
 (3) Az Etv. 7. § (1) bekezdés c) pontja szerinti felső határ a 2026. évben 1 200 000,0 millió forint.
 
-(4) Az Etv. 7. § (1) bekezdés f) pontja szerinti felső határ a 2026. évben 2 200 000,0 millió forint.
+(4) Az Etv. 7. § (1) bekezdés f) pontja szerinti felső határ a 2026. évben 1 950 000,0 millió forint.
 
 55. § (1) A Garantiqa Hitelgarancia Zrt. által vállalt készfizető kezesség mögött – jogszabályban meghatározott feltételek mellett – a (2)–(8) bekezdés szerint az állam visszavonhatatlan viszontgaranciája áll fenn.
 
@@ -695,7 +697,7 @@ delegál.
 - a) pénzügyi intézmény,
 - b) kötvény-tulajdonos.
 
-(6) A Start Garancia Pénzügyi Szolgáltató Zrt. által állami viszontgarancia mellett vállalt kezesség állománya 2026. december 31-én nem haladhatja meg a 3 000 000,0 millió forintot.
+(6) A Start Garancia Pénzügyi Szolgáltató Zrt. által állami viszontgarancia mellett vállalt kezesség állománya 2026. december 31-én nem haladhatja meg a 2 000 000,0 millió forintot.
 
 58. § (1) Az állam készfizető kezesként felel a Diákhitel Központ Zrt. azon fizetési kötelezettségeiért, amelyek a jogszabályban meghatározott feladatainak érdekében belföldről, vagy külföldről felvett hiteleiből, kölcsöneiből és kötvénykibocsátásaiból erednek.
 
@@ -1944,7 +1946,7 @@ kormányzati funkciókon elszámolt kiadások vehetők figyelembe.
 - 7.2. A támogatás havi összege az önkormányzat és az önkormányzat társulása által fenntartott óvodákban foglalkoztatottak részére előző hónapra számfejtett, tárgyhónapban kifizetendő havi esélyteremtési illetményrész szociális hozzájárulási adóval növelt bruttó összege. A támogatás folyósítása - a Kincstár tárgyhónap 5-éig a támogatás önkormányzatokat megillető összegével kapcsolatosan teljesített adatszolgáltatása alapján - havonta a nettó finanszírozás keretében történik.
 - 7.3. A támogatást az önkormányzat kizárólag a tárgyév január-december hónapokban kifizetendő esélyteremtési illetményrészre és ahhoz kapcsolódó szociális hozzájárulási adóra használhatja fel. A támogatás felhasználási határideje a tárgyév december 31-e. A támogatás szempontjából kizárólag a 091110 Óvodai nevelés, ellátás szakmai feladatai kormányzati funkción elszámolt kiadások vehetők figyelembe.
 - 8. 2.3.1. A települési önkormányzatok szociális célú tüzelőanyag vásárlásához kapcsolódó támogatása jogcím
-- 8.1. A jogcím az 5 000 fő lakosságszámot meg nem haladó önkormányzat szociális célú tüzelőanyag - tűzifa vagy barnakőszén - vásárlásának támogatására szolgál.
+- 8.1. A jogcím a 20 000 fő lakosságszámot meg nem haladó önkormányzat szociális célú tüzelőanyag - tűzifa vagy barnakőszén - vásárlásának támogatására szolgál.
 - 8.2. A támogatást az önkormányzatok pályázati úton igényelhetik. A pályázatot a helyi önkormányzatokért felelős miniszter, az államháztartásért felelős miniszter egyetértésével, írja ki.
 - 8.3. A támogatásról a helyi önkormányzatokért felelős miniszter dönt.
 - 8.4. A támogatás folyósítása előfinanszírozás keretében, egy összegben történik.
@@ -3004,12 +3006,33 @@ A helyi nemzetiségi önkormányzatok 2026. évi feladatalapú támogatásának 
 
 #### A települési önkormányzat helyi iparűzési többlete alapján meghatározandó fizetési kötelezettség szabályai
 
-- 1. A tárgyévben a 2. melléklet 62. pontja szerinti önkormányzati szolidaritási hozzájárulást teljesítő települési önkormányzat a tárgyévi befolyó és a tárgyévet megelőző évben befolyt helyi iparűzési adóbevétele közötti többletnek a tárgyévi és a tárgyévet megelőző szolidaritási hozzájárulás különbözetével korrigált összeg 70%-át (a továbbiakban: fizetési kötelezettség) a Területfejlesztési Alap részére a tárgyév május, november és a tárgyévet követő év március havi nettó finanszírozás keretében teljesíti. Önkormányzati szolidaritási hozzájárulást teljesítőként kell figyelembe venni az önkormányzatot abban az esetben is, ha a 2. melléklet 62. pontja szerint a szolidaritási hozzájárulás számított összege nem haladja meg az 50,0 millió forintot.
-- 2. A tárgyév május és november, továbbá a tárgyévet követő év március hónapokban teljesítendő fizetési kötelezettség önkormányzatonkénti összegét az államháztartásért felelős miniszter, a területfejlesztésért felelős miniszter egyetértésével, rendeletben határozza meg - az önkormányzatoknak az Áht. 108. § (1) bekezdés b) pontja szerinti, 3., 9. és 12. havi időközi költségvetési jelentésében (a továbbiakban: időközi költségvetési jelentés) jelzett helyi iparűzési adóbevétele összegének figyelembevételével - a 3. és 4. pontban meghatározottak szerint.
-- 3. SZHtárgyév = tárgyévi szolidaritási hozzájárulás összege, abban az esetben is, ha annak összege nem éri el az 50,0 millió forintot,
+- 1. A tárgyévben a 2. melléklet 62. pontja szerinti önkormányzati szolidaritási hozzájárulást teljesítő települési önkormányzat a tárgyévi befolyó és a tárgyévet megelőző évben befolyt helyi iparűzési adóbevétele közötti többletnek a tárgyévi és a tárgyévet megelőző szolidaritási hozzájárulás különbözetével korrigált összegének 70%-át (a továbbiakban: fizetési kötelezettség) a Területfejlesztési Alap részére a tárgyév november és a tárgyévet követő év március havi nettó finanszírozás keretében teljesíti. Önkormányzati szolidaritási hozzájárulást teljesítőként kell figyelembe venni az önkormányzatot abban az esetben is, ha a 2. melléklet 62. pontja szerint a szolidaritási hozzájárulás számított összege nem haladja meg az 50,0 millió forintot.
+- 2. A tárgyév november, továbbá a tárgyévet követő év március hónapokban teljesítendő fizetési kötelezettség önkormányzatonkénti összegét az államháztartásért felelős miniszter a területfejlesztésért felelős miniszter egyetértésével, rendeletben határozza meg – az önkormányzatoknak az Áht. 108. § (1) bekezdés b) pontja szerinti, 9. és 12. havi időközi költségvetési jelentésében (a továbbiakban: időközi költségvetési jelentés) jelzett helyi iparűzési adóbevétele összegének figyelembevételével – a 3. és 4. pontban meghatározottak szerint.
+- 3. A tárgyhónapra vonatkozó fizetési kötelezettség meghatározása
+
+Ei = {[ha (HIPAtárgyév/i > HIPAelőző év/i, akkor HIPAtárgyév/i – HIPAelőző év/i, egyébként 0) – (ha (SZHtárgyév > SZHelőző év, akkor SZHtárgyév/i – SZHelőző év/i, egyébként 0)]*0,7, egész számra kerekítve, de értéke legalább 0} – E∑i,
+
+ahol:
+
+Ei = tárgyhónapra (a 9. vagy 12. hónapra) vonatkozó fizetési kötelezettség,
+
+HIPAtárgyév/i = tárgyévi helyi iparűzési adóbevétel tárgyhónap utolsó napjáig befolyt összege,
+
+HIPAelőző év/i = tárgyévet megelőző évi helyi iparűzési adóbevétel tárgyévet megelőző év tárgyhónappal azonos hónap utolsó napjáig befolyt összege,
+
+SZHtárgyév = tárgyévi szolidaritási hozzájárulás összege, abban az esetben is, ha annak összege nem éri el az 50,0 millió forintot,
+
+SZHelőző év = tárgyévet megelőző évi szolidaritási hozzájárulás,
+
+SZHtárgyév/i = 9. hónapban a tárgyévi hozzájárulás összegének 90%-a, 12. hónapban a tárgyévi szolidaritási hozzájárulás összegének 100%-a,
+
+SZHelőző év/i = 9. hónapban a tárgyévet megelőző évi hozzájárulás összegének 90%-a, 12. hónapban a tárgyévet megelőző évi szolidaritási hozzájárulás összegének 100%-a,
+
+E∑i = tárgyhónapot megelőzően teljesült összes elvonás.
+
 - 4. A tárgyévben a tárgyhónapra vonatkozó fizetési kötelezettség mértékének korrigálása késedelmes adatszolgáltatás esetén:
 
-A HIPAtárgyév/i értéke az önkormányzat tárgyhónapra vonatkozó időközi költségvetési jelentésében meghatározott, a tárgyhónapot követő hónap 20-áig rögzített összege. Ha az önkormányzat e határdőig nem rögzít összeget, akkor az első késedelmes adatszolgáltatás esetén a HIPAtárgyév/i értéke megegyezik a HIPAelőző év/i 1,15-szeresének 0 tizedesre kerekített összegével. A második késedelmes adatszolgáltatás esetén a HIPAtárgyév/i értéke megegyezik a HIPAelőző év/i 1,2-szeresének 0 tizedesre kerekített összegével.
+A HIPAtárgyév/i értéke az önkormányzat tárgyhónapra vonatkozó időközi költségvetési jelentésében meghatározott, a tárgyhónapot követő hónap 20-áig rögzített összege. Ha az önkormányzat e határidőig nem rögzít összeget, akkor a késedelmes adatszolgáltatás esetén a HIPAtárgyév/i értéke megegyezik a HIPAelőző év/i 1,15-szeresének 0 tizedesre kerekített összegével.
 
 - 5. Ha a 3. és 4. pont szerinti számítási módszer alapján a tárgyhónapra vonatkozó fizetési kötelezettség értéke negatív szám, akkor az önkormányzatnak a tárgyhónapra vonatkozóan fizetési kötelezettsége nincs.
 - 6. A tárgyévi tényleges helyi iparűzési adóbevétel 12. havi időközi költségvetési jelentésben jelzett összege alapján a tárgyévet követő évben, a március havi nettó finanszírozás keretében történik a tárgyévi fizetési kötelezettség elszámolása. Ha a 3. pont szerint számítási módszer alapján, a 12. havi időközi költségvetési jelentés szerint a tárgyévi fizetési kötelezettség értéke negatív szám, akkor az önkormányzat annak abszolút értékét támogatásként a nettó finanszírozás keretében megkapja.

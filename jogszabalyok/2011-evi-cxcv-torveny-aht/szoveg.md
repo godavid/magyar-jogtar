@@ -476,7 +476,7 @@ látja el. E rendelkezést nem kell alkalmazni – kormányrendeletben meghatár
 
 #### 11. A központi költségvetés előkészítése
 
-13. § (1) Az államháztartásért felelős miniszter június 30-áig kidolgozza és az általa vezetett minisztérium honlapján közzéteszi a központi költségvetési tervezés részletes ütemtervét, kereteit, tartalmi követelményeit, így különösen a tervezés során érvényesítendő számszerű és szabályozási követelményeket, a tervezéshez használt dokumentumokat, módszertani elveket, feltevéseket és paramétereket, továbbá az előírt adatszolgáltatások teljesítésének módját.
+13. § (1) Az államháztartásért felelős miniszter augusztus 31-éig kidolgozza és az általa vezetett minisztérium honlapján közzéteszi a központi költségvetési tervezés részletes ütemtervét, kereteit, tartalmi követelményeit, így különösen a tervezés során érvényesítendő számszerű és szabályozási követelményeket, a tervezéshez használt dokumentumokat, módszertani elveket, feltevéseket és paramétereket, továbbá az előírt adatszolgáltatások teljesítésének módját. Ha a központi költségvetés tervezése során általános tartalékot kell képezni, annak célját, felhasználását, szükségességét és indokait részletesen be kell mutatni.
 
 (2) A fejezetet irányító szerv az (1) bekezdés szerint közzétett tájékoztatóban meghatározottak alapján – a fejezetre nézve megállapított tervezett kiadási főösszeg megtartásával – megtervezi és egyezteti az államháztartásért felelős miniszterrel az általa irányított fejezetbe sorolt költségvetési szerv, központi kezelésű előirányzat és fejezeti kezelésű előirányzat, valamint az elkülönített állami pénzalap és a társadalombiztosítás pénzügyi alapjai tervezett bevételeit és kiadásait.
 
@@ -545,7 +545,7 @@ költségvetési bevételeit és költségvetési kiadásait.
 
 (3)
 
-21. § (1) A központi költségvetésről szóló törvényben rendkívüli kormányzati intézkedésekre szolgáló tartalékot kell képezni az év közben meghozott kormányzati döntésekből következő feladatok finanszírozására és az előirányzott, de elháríthatatlan ok miatt elmaradó költségvetési bevételek pótlására. A rendkívüli kormányzati intézkedésekre szolgáló tartalék felhasználásáról a Kormány a 33. § (2) bekezdése szerint, egyedi határozatban rendelkezik.
+21. § (1) A központi költségvetésről szóló törvényben rendkívüli kormányzati intézkedésekre szolgáló tartalékot kell képezni az év közben meghozott kormányzati döntésekből következő feladatok finanszírozására és az előirányzott, de elháríthatatlan ok miatt elmaradó költségvetési bevételek pótlására. A rendkívüli kormányzati intézkedésekre szolgáló tartalék felhasználásáról a Kormány a 33. § (2) bekezdése szerint, nyilvános határozatban rendelkezik.
 
 (2)
 
@@ -565,7 +565,7 @@ költségvetési bevételeit és költségvetési kiadásait.
 
 22. § (1) A Kormány a központi költségvetésről szóló törvényjavaslatot a Gst. szerint egyezteti a Költségvetési Tanáccsal.
 
-(2) A Kormány október 15-éig – az országgyűlési képviselők általános választásának évében október 31-éig – benyújtja az Országgyűlésnek a központi költségvetésről szóló törvényjavaslatot.
+(2) A Kormány a központi költségvetésről szóló törvényjavaslatot október 1. és október 31. közötti időszakban nyújtja be az Országgyűlésnek.
 
 (3) A Kormány a központi költségvetésről szóló törvényjavaslat indokolásában
 
@@ -775,11 +775,11 @@ céljára használható fel olyan módon, hogy az államháztartásért felelős
 - g) adósságszolgálattal kapcsolatos kiadás,
 - h) a jegybanki alapkamat előző évi átlagától függő költségvetési kiadás.
 
-33. § (1) A fejezetet irányító szerv a Kormány rendeletében meghatározott esetekben a költségvetési évben a fejezeten belül új alcímet, jogcímcsoportot és jogcímet hozhat létre. Más esetben a fejezet címrendjének, valamint a címrend alá rendezett alcímek, jogcímcsoportok módosítására, kiegészítésére, valamint az előirányzat nevének módosítására a Kormány irányítása alá tartozó fejezetek esetén a Kormány, a Kormány irányítása alá nem tartozó fejezetek esetén az Országgyűlés egyedi határozatban jogosult.
+33. § (1) A fejezetet irányító szerv a Kormány rendeletében meghatározott esetekben a költségvetési évben a fejezeten belül új alcímet, jogcímcsoportot és jogcímet hozhat létre. Más esetben a fejezet címrendjének, valamint a címrend alá rendezett alcímek, jogcímcsoportok módosítására, kiegészítésére, valamint az előirányzat nevének módosítására a Kormány irányítása alá tartozó fejezetek esetén a Kormány nyilvános határozatban, a Kormány irányítása alá nem tartozó fejezetek esetén az Országgyűlés nyilvános, egyedi határozatban jogosult.
 
-(1a) Ha az Országgyűlés a központi költségvetésről szóló törvény elfogadását követően olyan központi költségvetési szervet alapított, amelynek költségvetési bevételei és költségvetési kiadásai a központi költségvetésben önálló fejezetet alkotnak, a Kormány irányítása alá tartozó fejezetek esetén a Kormány, a nem a Kormány irányítása alá tartozó fejezetek esetén az Országgyűlés egyedi határozatban jogosult a fejezetrend ezzel összefüggő kiegészítésére, valamint az előirányzat nevének módosítására.
+(1a) Ha az Országgyűlés a központi költségvetésről szóló törvény elfogadását követően olyan központi költségvetési szervet alapított, amelynek költségvetési bevételei és költségvetési kiadásai a központi költségvetésben önálló fejezetet alkotnak, a Kormány irányítása alá tartozó fejezetek esetén a Kormány nyilvános határozatban, a nem a Kormány irányítása alá tartozó fejezetek esetén az Országgyűlés nyilvános, egyedi határozatban jogosult a fejezetrend ezzel összefüggő kiegészítésére, valamint az előirányzat nevének módosítására.
 
-(2) A központi költségvetésről szóló törvény, valamint e törvény eltérő rendelkezése hiányában a központi költségvetésről szóló törvény által megállapított kiadási előirányzatok közötti előirányzat-átcsoportosításra a Kormány irányítása alá tartozó fejezet terhére történő előirányzat-átcsoportosítás esetén a Kormány, a nem a Kormány irányítása alá tartozó fejezet terhére történő előirányzat-átcsoportosítás esetén az Országgyűlés egyedi határozatban jogosult.
+(2) A központi költségvetésről szóló törvény, valamint e törvény eltérő rendelkezése hiányában a központi költségvetésről szóló törvény által megállapított kiadási előirányzatok közötti előirányzat-átcsoportosításra a Kormány irányítása alá tartozó fejezet terhére történő előirányzat-átcsoportosítás esetén a Kormány nyilvános határozatban, a nem a Kormány irányítása alá tartozó fejezet terhére történő előirányzat-átcsoportosítás esetén az Országgyűlés nyilvános, egyedi határozatban jogosult.
 
 (3) A központi költségvetésről szóló törvény eltérő rendelkezése hiányában a nem a Kormány irányítása alá tartozó fejezet esetében a fejezetet irányító szerv az általa irányított fejezetbe sorolt
 
@@ -855,9 +855,9 @@ terhére történő fejezeten belüli átcsoportosításhoz.
 
 36. § (1) A 32. §-ban meghatározott kivételekkel a költségvetési év kiadási előirányzatai és – ha jogszabály azt lehetővé teszi – a 49. § szerinti lebonyolító szerv számára a Kormány rendeletében meghatározottak szerint rendelkezésre bocsátott összeg terhére kötelezettségvállalásra az azokat terhelő korábbi kötelezettségvállalásokkal és más fizetési kötelezettségekkel csökkentett összegű eredeti vagy módosított kiadási előirányzatok (a továbbiakban: szabad előirányzat) mértékéig kerülhet sor. Más fizetési kötelezettségnek minősül a jogszabályon, jogerős vagy fellebbezésre tekintet nélkül végrehajtható bírósági, illetve véglegessé vált vagy azonnal végrehajtható hatósági döntésen, vagy más, a fizetési kötelezettség összegét vagy az összeg megállapításának módját, továbbá a felek valamennyi jogát és kötelezettségét megállapító kötelező előíráson alapuló fizetési kötelezettség.
 
-(2) A Kormány egyedi határozatban a szabad előirányzatot meghaladó mértékű vagy tárgyévi előirányzattal nem rendelkező közfeladathoz kapcsolódó tárgyévi kötelezettségvállalást engedélyezhet az ahhoz szükséges előirányzat mértékéről hozott döntésével egyidejűleg.
+(2)
 
-(3) Az (1) és (2) bekezdés szerinti kötelezettségvállalás esetén a pénzügyi teljesítésnek – a Kormány rendeletében meghatározott kivételekkel – legkésőbb a költségvetési év december 31-éig meg kell történnie.
+(3) Az (1) bekezdés szerinti kötelezettségvállalás esetén a pénzügyi teljesítésnek – a Kormány rendeletében meghatározott kivételekkel – legkésőbb a költségvetési év december 31-éig meg kell történnie.
 
 (4) A 20. § (1) bekezdése szerinti pénzeszközök terhére vállalt kötelezettségek kivételével az államháztartás központi alrendszerében a költségvetési évet követő év vagy évek kiadási előirányzatai terhére kötelezettség
 
@@ -874,9 +874,9 @@ vállalható.
 - a) alapja a következő évre szóló központi költségvetési törvény kihirdetett szövegében megállapított kiadási előirányzat összege,
 - b) a tárgyévet követő évre vonatkozó mértéke a következő évre megállapított kiadási előirányzat mértékének legfeljebb száz százaléka.
 
-(4b) A (4) bekezdés b) és c) pontja, valamint a (4a) bekezdés szerinti, ötmilliárd forintot elérő vagy azt meghaladó értékű kötelezettségvállalás megtételéhez a Kormány előzetes jóváhagyása szükséges.
+(4b) A (4) bekezdés b) és c) pontja, valamint a (4a) bekezdés szerinti, ötmilliárd forintot elérő vagy azt meghaladó értékű kötelezettségvállalás megtételéhez a Kormány jóváhagyása szükséges, amelyről nyilvános határozatban dönt.
 
-(4c) A Kormány egyedi határozatával, az érintett költségvetési évek szerinti bontásban
+(4c) A Kormány nyilvános határozatával, az érintett költségvetési évek szerinti bontásban
 
 - a) az irányítása alá tartozó fejezetek tekintetében a (4) bekezdés b) pontjában és a (4a) bekezdésben meghatározott értékhatártól eltérő összeget is megállapíthat,
 - b) – a központi költségvetésről szóló törvény eltérő rendelkezése hiányában – a tárgyévi kiadási előirányzattal nem rendelkező programok, beruházások és más fejlesztések esetén a több év vagy a költségvetési éven túli év kiadási előirányzatai terhére vállalható kötelezettségek összegét megállapíthatja.
@@ -1012,7 +1012,7 @@ a kirendeléssel egyidejűleg tájékoztatja.
 
 #### 28. Rendkívüli intézkedések
 
-40. § (1) A Kormány a központi költségvetés költségvetési egyenlegének, vagy a Gst. 4. § (1) bekezdése alapján a központi költségvetésről szóló törvényben megállapított értékeknek a tervezettől eltérő, kedvezőtlen alakulása esetén, vagy az év közben meghozott kormányzati döntésekből származó feladatok megvalósítása és a kiegyensúlyozott költségvetési gazdálkodás fenntartása érdekében a központi költségvetés költségvetési kiadási előirányzatait – a (2) bekezdésben foglalt kivételekkel – zárolhatja, csökkentheti, törölheti azon költségvetési kiadási előirányzatok kivételével, amelyek évközi módosításának, átcsoportosításának jogát az Országgyűlés magának tartotta fenn.
+40. § (1) A Kormány a központi költségvetés költségvetési egyenlegének, vagy a Gst. 4. § (1) bekezdése alapján a központi költségvetésről szóló törvényben megállapított értékeknek a tervezettől eltérő, kedvezőtlen alakulása esetén, vagy az év közben meghozott kormányzati döntésekből származó feladatok megvalósítása és a kiegyensúlyozott költségvetési gazdálkodás fenntartása érdekében a központi költségvetés költségvetési kiadási előirányzatait – a (2) bekezdésben foglalt kivételekkel – nyilvános határozatában zárolhatja, csökkentheti, törölheti azon költségvetési kiadási előirányzatok kivételével, amelyek évközi módosításának, átcsoportosításának jogát az Országgyűlés magának tartotta fenn.
 
 (2) A zárolás nem vonatkozhat a 32. § szerinti költségvetési kiadási előirányzatokra és az európai uniós forrásokból finanszírozott költségvetési kiadási előirányzatokra.
 
@@ -2034,7 +2034,7 @@ gyűjtő, nyilvántartó, feldolgozó és szolgáltató információs rendszer.
 
 (5) A Központi Költségvetés Végrehajtását Támogató Rendszer (a továbbiakban: KKVTR rendszer) a kincstár által fejlesztett és működtetett, az államháztartás információs rendszere részeként működő, integrált informatikai rendszer, amely a központi költségvetés végrehajtásához és ellenőrzéséhez szükséges adatokat tartalmazó nem közhiteles nyilvántartás. A KKVTR rendszer személyes adatokat nem tartalmaz.
 
-(6) A KKVTR rendszer nyilvántartja a központi költségvetés végrehajtása szempontjából az előirányzat-módosítást, az előirányzat-módosítási kötelezettség nélkül túlteljesíthető előirányzatokhoz kapcsolódó keretnövelés, a 36. § (2) bekezdése szerinti kormányhatározatokban meghatározott kötelezettségvállalások, valamint a kiadások és bevételek teljesítésének adatait.
+(6) A KKVTR rendszer nyilvántartja a központi költségvetés végrehajtása szempontjából az előirányzat-módosítást, az előirányzat-módosítási kötelezettség nélkül túlteljesíthető előirányzatokhoz kapcsolódó keretnövelés, valamint a kiadások és bevételek teljesítésének adatait.
 
 (7) Az államháztartás központi alrendszerébe tartozó költségvetési szerv – a polgári nemzetbiztonsági szolgálatokra és a Katonai Nemzetbiztonsági Szolgálatra vonatkozó adatok kivételével –, a fejezeti kezelésű előirányzatok fejezetet irányító szerve, valamint a központi kezelésű előirányzatok kezelő szerve – a kincstár által könyvelt központi kezelésű előirányzatok kivételével – a Kormány rendeletében meghatározottak szerint a KKVTR rendszerbe adatot szolgáltat a követelések, kötelezettségvállalások és más fizetési kötelezettségek adatairól.
 
@@ -2686,7 +2686,7 @@ rendeletben szabályozza.
 
 (39) Az 56/B. § (3) bekezdése szerinti bírság megállapítása a 2023. január 1. és 2023. augusztus 31-e között rögzítendő támogatási döntések tekintetében nem alkalmazható, amennyiben a támogató vagy a támogató nevében eljáró szervezet a kapcsolódó adatátadásnak 2023. augusztus 31-éig eleget tett.
 
-(40) A Kormány a Magyarország 2025. évi központi költségvetéséről szóló törvényjavaslatot – a 22. § (2) bekezdésétől eltérően – 2024. november 15-éig nyújtja be az Országgyűlésnek.
+(40) E törvénynek a közpénzügyi reformokkal összefüggésben egyes államháztartási szabályok módosításáról szóló 2026. évi XLV. törvénnyel módosított 13. § (1) bekezdését, valamint 22. § (2) bekezdését első alkalommal a Magyarország 2027. évi központi költségvetéséről szóló törvény tekintetében kell alkalmazni.
 
 (41) E törvénynek a pénzügyi közvetítőrendszert érintő és egyéb törvények módosításáról szóló 2024. évi XXXIX. törvénnyel megállapított 48/B. § (1) bekezdés e) pontját a folyamatban lévő ügyekben is alkalmazni kell.
 

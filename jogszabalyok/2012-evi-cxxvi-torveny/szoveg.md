@@ -626,7 +626,7 @@ felelős.
 - b) az agrárkamarán belüli szervezeti egységek létrehozására, azok feladatkörére vonatkozó szabályok elfogadása;
 - c) az agrárkamara más szervezetekhez való kapcsolódása és működési rendjének meghatározása;
 - d)
-- e) a választott tisztségviselők díjazásának jóváhagyása;
+- e)
 - f) az Agrárkamarai Választottbíróság választottbíráinak megválasztása;
 - g) az éves saját bevételt meghaladó kölcsön felvételéről való döntéshozatal;
 - h) az agrárkamara éves költségvetésének meghatározásáról, az elfogadott éves költségvetés módosításának szabályairól, az éves beszámoló és mérleg elfogadásáról való döntéshozatal;
@@ -745,7 +745,7 @@ felelős.
 
 27. § (1) A főigazgató az agrárkamara országos ügyintéző szervezetének a vezetője, aki az agrárkamarával munkaviszonyban áll.
 
-(2) Főigazgató csak az lehet, aki a kormányzati igazgatásról szóló törvény szerint kormányzati szolgálati viszonyba kinevezhető.
+(2) Főigazgató csak az lehet, aki a kormányzati igazgatásról szóló törvény szerint kormányzati szolgálati viszonyba kinevezhető. A főigazgató kinevezését megelőzően annak személyéről a miniszter véleményét ki kell kérni.
 
 (3) A főigazgató felett a munkáltatói jogokat az elnök gyakorolja, azzal, hogy a munkaviszony létesítéséről, megszüntetéséről csak az elnökség egyetértésével dönthet.
 
@@ -781,24 +781,30 @@ felelős.
 
 30. § (1) Agrárkamarai tisztségre választható a pártoló és a tiszteletbeli tag kivételével minden agrárkamarai tag, – valamint a gazdálkodó szervezet esetében a gazdálkodó szervezet nevében eljáró törvényes képviselő, – ha büntetlen előéletű és vele szemben összeférhetetlenségi ok nem áll fenn.
 
-(2) Összeférhetetlen az agrárkamarai tisztség viselésével, ha a tag politikai pártban vezető tisztséget tölt be.
+(2) Összeférhetetlen az agrárkamarai tisztség viselésével, ha a tag megválasztása napján vagy az agrárkamarai tisztség viselésének időtartama alatt
+
+- a) országgyűlési képviselők választásán országos listát állító jelölő szervezet listáján vagy az Európai Parlament tagjainak választásán listát állító párt listáján szerepel, egyéni országgyűlési képviselőjelölt, vármegyei közgyűlés elnöke vagy tagja, polgármester vagy politikai pártban tisztséget tölt be,
+- b) a kormányzati igazgatásról szóló törvény szerinti politikai felsővezető, vagy
+- c) az agrártámogatási rendszerben az államháztartásról szóló törvény szerinti támogatóként eljáró kormánytisztviselő.
+
+(2a) Összeférhetetlen az agrárkamarai tisztség viselésével továbbá, ha a (2) bekezdésben foglalt összeférhetetlenségi ok a tag agrárkamarai tisztségre történő megválasztását megelőző tíz éven belül állt fenn.
 
 (3) Nem viselhet tisztséget az agrárkamarában, aki
 
 - a) nem választható küldöttnek;
 - b) Magyarországon nem rendelkezik állandó lakóhellyel.
 
-(4) A (2) bekezdés szerinti összeférhetetlenségi ok fennállása kérdésében – amennyiben az kétséges – a politikai párt nyilatkozata az irányadó.
+(4) A (2) bekezdés c) pontja szerinti összeférhetetlenségi ok fennállása kérdésében – amennyiben az kétséges – az agrárpolitikáért felelős miniszter nyilatkozata az irányadó.
 
 (5) A tisztségviselő azonos agrárkamarai szervezeten belül egyidejűleg egy agrárkamarai tisztséget tölthet be és egy szavazati jog illeti meg. A területi szervezet elnöke nem lehet egyidejűleg az országos szervezet főigazgatója.
 
 (6) Az elnökségnek, az etikai és a felügyelő bizottságnak a tagjai nem lehetnek egymásnak közeli hozzátartozói és munkakörükben egymás alá- és fölérendeltjei.
 
-(7) A (2), (3), (5) és (6) bekezdésben megjelölt összeférhetetlenségi ok fennállásáról az érintett a megválasztása előtt köteles nyilatkozni. Nyilatkozatában egyúttal vállalja, hogy megválasztása esetén tizenöt napon belül az összeférhetetlenségi okot megszünteti. Amennyiben az összeférhetetlenség a választást követően merül fel, az érintett az attól számított tizenöt napon belül köteles az összeférhetetlenséget megszüntetni. Az összeférhetetlenség megszüntetéséről az érintett a választására jogosult testületet haladéktalanul tájékoztatja.
+(7) A (2), (2a), (3), (5) és (6) bekezdésben megjelölt összeférhetetlenségi ok fennállásáról, valamint annak 15 napon belül történő megszüntethetőségének lehetőségéről – ha a megszüntetés az összeférhetetlenséget megalapozó ok természete alapján lehetséges – az érintett a megválasztása előtt köteles nyilatkozni. Amennyiben az összeférhetetlenség a választást követően merül fel, az érintett az attól számított tizenöt napon belül köteles az összeférhetetlenséget megszüntetni. Az összeférhetetlenség 15 napon belüli megszüntetéséről az érintett a választására jogosult testületet haladéktalanul tájékoztatja.
 
-(8) Ha az érintett az összeférhetetlenségi okot a (7) bekezdésben foglalt határidőn belül nem szünteti meg, az összeférhetetlenség kimondásáról az elnökség, területi szervezet tisztségviselője esetében – ide nem értve a területi szervezet elnökét – a területi szervezet elnöke határoz bárki kezdeményezésére vagy hivatalból.
+(8) Ha az érintett az összeférhetetlenségi okot a (7) bekezdésben foglalt határidőn belül nem szünteti meg, vagy az összeférhetetlenséget megalapozó ok annak természete miatt nem szüntethető meg, az összeférhetetlenség kimondásáról az elnökség, területi szervezet tisztségviselője esetében – ide nem értve a területi szervezet elnökét – a területi szervezet elnöke határoz bárki kezdeményezésére vagy hivatalból.
 
-(9) A 29. § (1) bekezdés a)–c) valamint e) pontjai szerinti tisztségviselői jogviszony – amennyiben a tisztségviselő lemond a díjazásról – nem minősül munkavégzésre irányuló jogviszonynak, illetve kereső foglalkozásnak.
+(9) Az agrárkamara elnöke, alelnöke, az elnökség tagja, az országos kamarai osztályok elnökei, a területi szervezet elnöke, alelnöke e tevékenységével kapcsolatban kizárólag a tevékenysége ellátásával összefüggő, indokolt és számlával igazolt költségeinek megtérítésére jogosult, részére a költségtérítésen felül egyéb jogcímen személyi juttatást megállapítani nem lehet.
 
 ### Egyéb szervek, szervezeti egységek
 
@@ -816,32 +822,13 @@ felelős.
 
 ### VI. Fejezet — VÁLASZTÁSI SZABÁLYOK
 
-33. § (1) Az országos küldöttgyűlés által meghatározott időpontban a vármegyei küldöttek választása céljából vármegyénként választást kell tartani.
+33. § Az agrárkamarai választási eljárási szabályoknak biztosítani kell az agrár- és élelmiszer-gazdaság, valamint a vidékfejlesztés szereplőinek ágazatok szerinti, arányos képviseletét, egyéni jelöltek állításán keresztül.
 
-(2) A vármegyei küldöttgyűlési küldöttek választásának időpontja, és ennek alapján a vármegyei alakuló küldöttgyűlés, továbbá az országos alakuló küldöttgyűlés időpontja, a vármegyei küldöttek mandátumának lejártát legfeljebb hat hónappal megelőző időpontban is meghatározható.
+#### 34. §
 
-(3) Azt a vármegyei küldöttlistát kell megválasztottnak tekinteni, amelyik küldöttlista a szavazás alkalmával a legtöbb szavazatot kapta.
+#### 35. §
 
-(4) A vármegyei alakuló küldöttgyűlésen az adott vármegyei tisztségekre jelölt személyekre, valamint az adott vármegyei küldöttgyűlés által választható országos küldötteknek jelölt személyekre javaslatot az adott vármegyei küldöttválasztás során nyertes listát állító jelölő szervezet jogosult megtenni, az országos alakuló küldöttgyűlésen az országos tisztségekre jelölt személyekre, valamint a választottbíróság tagjainak jelölt személyekre javaslatot az országosan legtöbb nyertes vármegyei küldöttlistát állító jelölő szervezet jogosult megtenni.
-
-34. § Az országos küldöttgyűlésbe a vármegyei (fővárosi) küldöttgyűlések az alapszabályban rögzített arányban választhatnak tagokat és póttagokat.
-
-35. § (1) Az országos, illetve a vármegyei alakuló küldöttgyűlés megtartására, illetve az agrárkamarai választásra vonatkozó részletes szabályokat – a törvényben, valamint az agrárkamara alapszabályában foglaltakkal összhangban – az országos küldöttgyűlés által elfogadott eljárási szabályzat határozza meg a 19. § (4) bekezdésében foglaltaknak megfelelően.
-
-(1a) Az országos, illetve a vármegyei alakuló küldöttgyűlést
-
-- a) az alapszabályban foglaltak szerint megalakított Országos Kamarai Választási Bizottság (a továbbiakban: OKVB) hívja össze, továbbá
-- b) a nyertes vármegyei küldöttlistát, illetve országosan a legtöbb nyertes vármegyei küldöttlistát állító jelölő szervezet javaslata alapján az OKVB által felkért vármegyei, illetve országos küldött vezeti.
-
-(2) Az agrárkamarai választás eljárási szabályainak – az egyenlő szavazati jog kivételével – figyelemmel kell lenni a tagok és a küldöttek ágazati érdekeinek arányos és kiegyensúlyozott meghatározására.
-
-(3) A vármegyei küldöttválasztáson szavazásra jogosult kamarai tagok jegyzékét (a továbbiakban: választási tagjegyzék) a vármegyei küldöttgyűlési küldöttek választására vonatkozó szabályok szerint kell összeállítani. A választási tagjegyzék a kamara tagjegyzékén alapul. A választási tagjegyzék a vármegyei küldöttek mandátumának lejártát legfeljebb tizenkét hónappal megelőző időpontja szerinti tagjegyzék állapot alapján is meghatározható. A választási tagjegyzékre a 7/A. § rendelkezéseit kell alkalmazni.
-
-36. § (1) Az országos, illetve a vármegyei küldöttek, a testületi szervek tagjai, valamint a kamara elnöke, alelnökei és más választott tisztségviselői legfeljebb ötévi időtartamra választhatók meg, és – ha az alapszabály eltérően nem rendelkezik – újraválaszthatók.
-
-(1a) A vármegyei küldöttek mandátuma a 33. §-ban foglaltak szerint megtartott alakuló vármegyei küldöttgyűlés megalakulásával, az (1) bekezdésben foglaltak szerinti más tisztséget viselők, valamint a választottbíróság tagjainak a mandátuma az alakuló vármegyei, valamint az országos küldöttgyűlésnek az adott tisztségre történő új választás időpontjával szűnik meg.
-
-(2) Az országos, illetve a vármegyei küldöttet, a testületi szervek tagját, valamint az agrárkamara elnökét, alelnökeit és más választott tisztségviselőjét az őket megválasztó szerv visszahívhatja. A visszahívás feltételeit és eljárási szabályait az alapszabály határozza meg.
+#### 36. §
 
 37. § (1) Ha e törvény eltérően nem rendelkezik, országos, illetve vármegyei küldöttnek
 
@@ -904,26 +891,52 @@ felelős.
 
 ### IX. Fejezet — TÖRVÉNYESSÉGI ELLENŐRZÉS ÉS JOGORVOSLAT
 
-43. § (1) Az agrárkamara felett az ügyészség – az e törvényben foglalt kivételekkel – az ügyészségről szóló törvény rendelkezései szerint ellenőrzést gyakorol. Az ellenőrzés nem terjed ki az állandó választottbíróságra, továbbá az olyan ügyekre, amelyekben egyébként bírósági vagy közigazgatási hatósági eljárásnak van helye.
+43. § (1) Az agrárpolitikáért felelős miniszter (e fejezet tekintetében a továbbiakban: miniszter) törvényességi felügyeletet gyakorol az agrárkamara működése felett. A miniszter törvényességi felügyeleti jogkörében gondoskodik arról, hogy a kamara működése ne ütközzön jogszabályba, alapszabályba és az agrárkamara szabályzatába. A törvényességi felügyelet nem terjed ki az olyan ügyre, amelyben munkaügyi vitának, vagy egyébként bírósági vagy közigazgatási hatósági eljárásnak van helye.
 
-(2) Az ügyészség ellenőrzi, hogy az agrárkamara
+(2) Ha a miniszter azt állapítja meg, hogy az alapszabály jogszabálysértő, illetve más kamarai szabályzat vagy kamarai szerv, illetve tisztségviselő határozata jogszabálysértő vagy alapszabály-ellenes (a továbbiakban együtt: jogsértő), 30 napos határidő tűzésével felhívja az érintett kamarai szervet, tisztségviselőt a jogsértés megszüntetésére. A kamarai szerv vagy tisztségviselő köteles – a miniszter felhívásában megadott határidőn belül – a jogsértést megszüntetni, vagy egyet nem értéséről a minisztert tájékoztatni.
 
-- a) alapszabálya és más önkormányzati szabályzatai, illetve azok módosításai megfelelnek-e a jogszabályoknak;
-- b) működése, határozatai nem sértik-e a jogszabályokat, az alapszabályt vagy az egyéb önkormányzati szabályzatokat.
+(3) A miniszter törvényességi felügyeleti jogkörében vizsgálja az agrárkamara választásainak jogszerűségét, a vizsgálat keretében az ellenőrzéshez szükséges mértékben, az ellenőrzés lefolytatásának végéig jogosult kezelni az agrárkamara tagsági adatait, valamint a kamarai tagok természetes személyazonosító adatait és a választáshoz használt egyéb azonosító adatait.
 
-(3) Ha az agrárkamara működésének törvényessége másképpen nem biztosítható, az ügyészség törvényességi ellenőrzési jogkörében eljárva keresettel bírósághoz fordulhat. A bíróság a köztestületi felügyeleti per szabályai szerint jár el.
+(4) Az agrárkamara az alapszabály elfogadásáról vagy módosításáról hozott döntést hivatalból, az egyéb szabályzatot és határozatot pedig felhívásra – az elfogadástól, illetve a felhívástól számított 15 napon belül – törvényességi ellenőrzés céljából a miniszter rendelkezésére bocsátja.
+
+(5) Az agrárkamara ellenőrző bizottságába a miniszter egy – kizárólag tanácskozási jogkörrel rendelkező – állandó meghívottat delegál.
+
+(6) Az agrárkamara az előző évi költségvetésének végrehajtásáról minden év május 31-ig írásban beszámol a miniszternek.
 
 44. § Ha az agrárkamara tagja szerint az általa fizetendő tagdíjat és más pénzügyi kötelezettséget megállapító határozat e törvény rendelkezéseibe, más jogszabályba, az alapszabályba vagy más önkormányzati szabályzatba ütközik, az alapszabályban meghatározottak szerinti határidőben és módon jogorvoslattal élhet. A jogorvoslat kérdésében eljáró szerv 90 napon belül dönt. A tag a jogorvoslati kérelem elbírálásáról szóló döntés közlésétől, vagy a döntésre nyitva álló határidő eredménytelen elteltétől számított harminc napon belül közigazgatási pert indíthat. A határidő elmulasztása ellen igazolásnak nincs helye.
 
 ### X. Fejezet — ÁTMENETI RENDELKEZÉSEK
 
-#### 45. §
+45. § Az agrárkamara törvényes működésének helyreállítása érdekében, annak megvalósításáig az agrárpolitikáért felelős miniszter kamarai biztost nevez ki.
 
-#### 46. §
+46. § (1) A kamarai biztos a 45. § szerinti feladatát államtitkári, helyettes államtitkári vagy miniszteri biztosi jogviszonyban látja el.
 
-#### 47. §
+(2) A kamarai biztos megvizsgálja és felügyeli az agrárkamara közfeladatai ellátásának, valamint az erre biztosított hazai és európai uniós források felhasználásának jogszerűségét.
 
-#### 47/A. §
+(3) A kamarai biztos a (2) bekezdésben foglaltak szerinti feladatai ellátása érdekében, az agrárkamara közfeladat-ellátásával összefüggésben vizsgálatot folytathat, ennek keretében
+
+- a) az agrárkamarától jelentést, tájékoztatást kérhet;
+- b) az agrárkamara bármely iratát megtekintheti;
+- c) az agrárkamara által használt bármely helyiségbe beléphet;
+- d) az agrárkamarával bármilyen jogviszonyban levő harmadik személytől tájékoztatást kérhet.
+
+(4) A kamarai biztos összefoglalót készít az agrárpolitikáért felelős miniszter számára a (2) bekezdés szerinti vizsgálat eredményéről.
+
+(5) Abban az esetben, ha az országos elnökségi tagi tisztségek megszűnése miatt az országos elnökség határozatképtelenné válik, a kamarai biztos egy személyben gyakorolja az elnökség jogköreit az új országos tisztségviselők megválasztásáig.
+
+47. § Az agrárkamara 2026. szeptember 15-ig, 2026. július 31-i fordulónappal köteles a számvitelről szóló 2000. évi C. törvény szerint vagyonleltárral alátámasztott vagyonmérleget készíteni, amelyet a kamarai biztos ellenjegyez és haladéktalanul megküld az agrárpolitikáért felelős miniszternek.
+
+47/A. § (1) Az agrárkamara soron következő országos tisztségviselő-választását 2026. szeptember 1. napját követően lehet megtartani.
+
+(2) A kamarai biztos a feladatait az agrárkamara e törvénynek a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamaráról szóló 2012. évi CXXVI. törvény módosításáról szóló 2026. évi XLI. törvénnyel (a továbbiakban: Módtv2.) megállapított 33. §-sal összhangban álló választási szabályok értelmében lebonyolított eredményes országos tisztségviselő-választás lezárultát követő nyolcadik napig, de legfeljebb 2026. december 31. napjáig látja el.
+
+(3) A (2) bekezdés szerinti feltétel bekövetkezésének naptári napját az agrárpolitikáért felelős miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.
+
+(4) E törvénynek a Módtv2.-vel módosított 30. § (2) bekezdése alapján felmerülő összeférhetetlenségi okra vonatkozó nyilatkozatokat a Módtv2. hatálybalépését követő 15 napon belül kell megtenni.
+
+(5) E törvénynek a Módtv2.-vel módosított 30. § (2a) bekezdését a törvény hatályba lépését követően megválasztott agrárkamarai tisztségviselőkre kell alkalmazni.
+
+(6) E törvénynek a Módtv2.-vel módosított 43. §-ának hatálybalépése napján folyamatban lévő, a törvényességi ellenőrzést ellátó ügyészség által indított köztestületi felügyeleti perben az agrárpolitikáért felelős miniszter az ügyészség perbeli jogutódja.
 
 #### 48. §
 

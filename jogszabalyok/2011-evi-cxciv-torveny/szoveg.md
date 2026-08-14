@@ -74,7 +74,7 @@ olyan irányban tér el a központi költségvetésről szóló törvényben meg
 
 (2) A 4. § (1) bekezdése alkalmazásakor az (1) bekezdés szerinti tényezőket nem lehet figyelmen kívül hagyni.
 
-7. § (1) Az Alaptörvény 36. cikk (6) bekezdésében foglalt nemzetgazdaság tartós és jelentős visszaeséseként kell értelmezni minden olyan esetet, amikor az éves bruttó hazai termék reál értéke csökken.
+7. § (1) Az Alaptörvény 36. cikk (6) bekezdésében foglalt, a nemzetgazdaság tartós és jelentős visszaeséseként kell értelmezni minden olyan esetet, amikor az éves bruttó hazai termék reálértéke csökken, illetve amikor az éves bruttó hazai termék reálértéke a megelőző három évben nem emelkedett összességében egy százalékot meghaladó mértékben a tárgyévi költségvetési törvény vagy annak módosítása előkészítése során rendelkezésre álló adatok szerint.
 
 (2) Az (1) bekezdésben meghatározott esetben a 3/A. § (1) bekezdését és a 4. § (2a) bekezdését nem kell alkalmazni. Ha az (1) bekezdés szerinti eset a költségvetési év során következik be, a központi költségvetésről szóló törvény 5. § (1) bekezdése szerinti módosítása a 4. § (1) bekezdése alapján a központi költségvetésről szóló törvényben meghatározott érték teljesítési kötelezettségének felfüggesztésére irányul.
 
@@ -351,7 +351,7 @@ a Kormány hozzájárulásához kötött. A hozzájárulás iránti kérelmet az
 
 (7) A Tanács elnöke a társadalombiztosítás ellátásaira való jogosultság szempontjából közszolgálati jogviszonyban foglalkoztatott biztosítottnak minősül.
 
-(8) A Tanács és a Tanács titkársága működésének, valamint a Tanács elnöke illetményének és egyéb juttatásainak pénzügyi fedezetét az Országgyűlés Hivatalának költségvetésében kell megtervezni. A Tanács és a Tanács titkársága működésének biztosításával, az illetmény és az egyéb juttatások folyósításával kapcsolatos feladatokat az Országgyűlés Hivatala látja el.
+(8) A Tanács és a Tanács titkársága működésének, valamint a Tanács elnöke illetményének és egyéb juttatásainak pénzügyi fedezetét a központi költségvetés I. Országgyűlés fejezetén belül önálló alcímen, fejezeti kezelésű előirányzatként kell megtervezni. A Tanács és a Tanács titkársága működésének biztosításával, gazdálkodásával, az illetmény és az egyéb juttatások folyósításával kapcsolatos feladatokat az Országgyűlés Hivatala látja el.
 
 19. § A Tanács elnökének nem nevezhető ki olyan személy, aki tagja az Országgyűlésnek, a Kormánynak, illetve állami vezető, bíró, ügyész, kormánytisztviselő, állami tisztviselő vagy köztisztviselő, továbbá aki szolgálati jogviszonyban áll.
 
@@ -409,7 +409,7 @@ a Kormány hozzájárulásához kötött. A hozzájárulás iránti kérelmet az
   - aa) a költségvetési hiány mértékét,
   - ab) a 3/A. § (1) bekezdésének való megfelelést, továbbá
   - ac) a Magyar Nemzeti Bank tőkehelyzete tekintetében a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény 166. § (3) bekezdésében meghatározottnak való megfelelést,
-- b) dönt az Alaptörvény 44. cikk (3) bekezdése szerinti előzetes hozzájárulásról,
+- b)
 - c) félévente véleményt nyilvánít a központi költségvetésről szóló törvény végrehajtásának helyzetéről és az államadósság várható alakulásáról,
 - d) véleményt nyilváníthat a központi költségvetésről szóló törvényjavaslatban foglaltak megalapozásához szükséges törvénymódosításokat tartalmazó törvényjavaslatokról, ideértve a 28. § szerinti fizetési kötelezettségre vonatkozó törvényjavaslatot is,
 - e) véleményt nyilváníthat a központi költségvetés tervezésével, végrehajtásával, a közpénzek egyéb módon történő felhasználásával kapcsolatos bármely kérdésről,
@@ -453,23 +453,19 @@ a Kormány hozzájárulásához kötött. A hozzájárulás iránti kérelmet az
 
 #### 7. A Költségvetési Tanács eljárása az államadósság mértékének vizsgálatában
 
-25. § (1) A központi költségvetésről szóló törvényjavaslat tárgyalása során a Tanács az Országgyűlés elnökének a házszabályi rendelkezésekben meghatározottak szerinti tájékoztatása alapján vizsgálja a központi költségvetésről szóló törvényjavaslat az Alaptörvény 36. cikk (4) és (5) bekezdésének (a továbbiakban: államadósság-szabály) való megfelelését.
+25. § (1) A központi költségvetésről szóló törvényjavaslat tárgyalása során a Tanács az Országgyűlés elnökének a házszabályi rendelkezésekben meghatározottak szerinti tájékoztatása alapján véleményt nyilvánít a központi költségvetésről szóló törvényjavaslatnak az Alaptörvény 36. cikk (4) és (5) bekezdésének (a továbbiakban: államadósság-szabály) való megfeleléséről.
 
 (2) A Tanács véleményét az (1) bekezdés szerinti tájékoztatás kézhezvételét követő egy napon belül – a központi költségvetésről szóló törvényjavaslathoz benyújtott módosító javaslatról történő szavazást követő első tájékoztatás esetében három munkanapon belül – írásban közli az Országgyűlés elnökével.
 
-(3) A Tanács olyan véleményét, amelyben azt állapítja meg, hogy a központi költségvetésről szóló törvényjavaslat megfelel az államadósság-szabálynak, az elfogadáshoz szükséges előzetes hozzájárulásának kell tekinteni, ha annak a Tanács által véleményezetthez képest változatlan szöveggel való elfogadására kerül sor.
+(3) Ha a Tanács véleményében azt állapítja meg, hogy a költségvetési törvényjavaslat elfogadása az államadósság-szabály megsértését eredményezné, véleményét részletesen indokolja.
 
-(4) Ha a Tanács véleményében azt állapítja meg, hogy a költségvetési törvényjavaslat elfogadása az államadósság-szabály megsértését eredményezné, véleményét részletesen indokolja.
+(4) A Kormány a Tanács (3) bekezdés szerinti véleménye alapján a központi költségvetésről szóló törvényjavaslatot felülvizsgálja, amelynek eredményéről a vélemény kézhezvételét követő egy napon belül írásban tájékoztatja az Országgyűlés elnökét. A Kormány további két napon belül módosító javaslatot nyújthat be az Országgyűlésnek, amely szándékáról a felülvizsgálat eredményéről szóló levelében tájékoztatja az Országgyűlés elnökét.
 
-(5) A Tanács (4) bekezdés szerinti véleménye alapján a Kormány a központi költségvetésről szóló törvényjavaslat államadósság-szabálynak való megfelelését biztosító módosító javaslatot nyújt be az Országgyűlésnek a Tanács (4) bekezdés szerinti véleményének kézhezvételét követő három napon belül.
-
-(6) Az (1)–(5) bekezdés szerinti eljárást mindaddig folytatni kell, amíg a Tanács a központi költségvetésről szóló törvényjavaslat elfogadásához szükséges előzetes hozzájárulását meg nem adja. Az előzetes hozzájárulás megtagadása miatt megismételt eljárásban kizárólag a Kormány nyújthat be módosító javaslatot.
-
-25/A. § (1) A központi költségvetésről szóló törvény módosítását tartalmazó olyan törvényjavaslat elfogadásához, amely a központi költségvetés bevételi vagy kiadási főösszegét megváltoztatná vagy a költségvetési hiány mértékét növelné, a Tanács előzetes hozzájárulása szükséges.
+25/A. § (1) A Tanács véleményt nyilvánít a központi költségvetésről szóló törvény módosítását tartalmazó olyan törvényjavaslatról, amely a központi költségvetés bevételi vagy kiadási főösszegét megváltoztatná vagy a költségvetési hiány mértékét növelné.
 
 (2) A Tanács a központi költségvetésről szóló törvény módosítását tartalmazó, (1) bekezdés szerinti törvényjavaslat tárgyalása során történő tájékoztatására, az Országgyűlés és a Tanács eljárására, valamint a Kormány kötelezettségére a 25. §-t kell alkalmazni.
 
-26. § Ha a Tanács elnöke a Tanács előzetes hozzájárulására vonatkozó, 25. § és 25/A. § szerinti álláspontját határidőn belül írásban nem közli az Országgyűlés elnökével, a Tanács előzetes hozzájárulását megadottnak kell tekinteni.
+#### 26. §
 
 #### 8. A Költségvetési Tanács működése
 
@@ -769,6 +765,8 @@ a fizetési kötelezettségről szóló jogszabály alkalmazásában olyan tevé
 52/B. § E törvénynek a helyi önkormányzatok adósságrendezési eljárásával összefüggő törvények módosításáról szóló 2023. évi CXIV. törvénnyel (a továbbiakban: Módtv.) megállapított 10/B. § (5a) bekezdését a Módtv. hatálybalépése előtt jóváhagyott ügyletekre, illetve az azokhoz kapcsolódó fejlesztésekre is alkalmazni kell.
 
 52/C. § E törvénynek az államháztartási tárgyú törvényeknek a tagállamok költségvetési keretrendszerére vonatkozó követelményekről szóló 2011/85/EU irányelv módosításáról szóló, 2024. április 29-i (EU) 2024/1265 tanácsi irányelv átültetésével összefüggő módosításáról szóló 2025. évi XCI. törvénnyel megállapított 10/A. § c) pontját a hatálybalépést megelőzően keletkezett, a hatálybalépéskor már fennálló tartozások kiegyenlítéséhez szükséges adósságot keletkeztető ügyletek megkötése során is alkalmazni kell.
+
+52/D. § E törvénynek a közpénzügyi reformokkal összefüggésben egyes államháztartási szabályok módosításáról szóló 2026. évi XLV. törvénnyel megállapított 18. § (8) bekezdését első alkalommal a 2027. évi központi költségvetés tervezése során kell alkalmazni.
 
 #### 15. Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 
