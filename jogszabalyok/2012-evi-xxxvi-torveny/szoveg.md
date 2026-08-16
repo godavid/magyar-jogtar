@@ -324,7 +324,7 @@ létre.
 
 (3a) Az eseti bizottság képviselő tagja képviseleti megbízást képviselő bizottsági tagnak adhat.
 
-(4) Az eseti bizottságra a 15. § (2) és (4) bekezdését, a 17. § (1) és (4) bekezdését, a 18. § (2), (3), (5) és (6) bekezdését, a 18. § (4) bekezdésének személyi javaslatra vonatkozó rendelkezéseit, a 19–20. §-t, valamint a 21. § (1) és (3) bekezdését alkalmazni kell.
+(4) Az eseti bizottságra a 15. § (2) és (4) bekezdését, a 17. § (1) és (4) bekezdését, a 18. § (2)–(6) bekezdését, a 19–20. §-t, valamint a 21. § (1) és (3) bekezdését alkalmazni kell.
 
 (5)
 
@@ -2705,6 +2705,27 @@ továbbítható a megkereső, illetve adatszolgáltatást kérő, az eljárásra
 
 145/I. § Az Országgyűlés vizsgálóbizottságai munkájának hatékonyabbá tételével összefüggésben egyes törvények módosításáról szóló 2026. évi XXIII. törvénnyel (a továbbiakban: Módtv.7.) megállapított rendelkezéseket az azok hatálybalépésekor folyamatban lévő ügyekre és már felállított vizsgálóbizottságokra is alkalmazni kell.
 
+145/J. § (1) 2026. október 1. napjával az Országgyűlési Őrség
+
+- a) tűzbiztonsági feladatokat ellátó szervezeti eleme a Fővárosi Katasztrófavédelmi Igazgatóságba,
+- b) személyvédelmi feladatokat ellátó szervezeti eleme a rendőrség személyvédelmi feladatait ellátó területi szervébe,
+- c) az a) és b) pontba nem tartozó körben a Készenléti Rendőrségbe
+
+történő beolvadással megszűnik.
+
+(2) Az Országgyűlési Őrség által 2026. szeptember 30. napján ellátott közfeladatok közül
+
+- a) e törvény 2026. szeptember 30-án hatályos 125. § (2) bekezdés a)–c), valamint f)–i) pontjában meghatározott feladatot az általános rendőrségi feladatok ellátására létrehozott szerv 2026. október 1. napjától az általános rendőrségi feladatok ellátására létrehozott szerv szerveinek feladat- és hatáskörét megállapító kormányrendelet szerint,
+- b) e törvény 2026. szeptember 30-án hatályos 125. § (2) bekezdés d) pontjában meghatározott feladatot 2026. október 1. napjától a Fővárosi Katasztrófavédelmi Igazgatóság
+
+látja el.
+
+(3) Az Országgyűlési Őrség 2026. szeptember 30-ig vállalhat kötelezettséget. Ezen időtartamban kötelezettséget saját hatáskörben az Országgyűlési Őrség kizárólag a 2026. év tekintetében, a működéséhez kapcsolódó, elengedhetetlen feladatok vonatkozásában vállalhat. Az Országgyűlési Őrség a felhalmozási kiadások kiemelt előirányzatai terhére kötelezettséget vagy éven túli kötelezettséget – a jogszabályban meghatározott mértékig – az Országgyűlés Elnökének előzetes jóváhagyásával vállalhat.
+
+145/K. § (1) Az egyes törvényeknek a rendészeti feladatellátás racionalizálásával összefüggő módosításáról szóló 2026. évi XLVI. törvénnyel módosított 23. § (4) bekezdését az eseti bizottság létrehozására irányuló, e § hatálybalépésekor folyamatban lévő határozati javaslatra is alkalmazni kell.
+
+(2) Az (1) bekezdés szerinti határozati javaslathoz az e § hatálybalépése előtt benyújtott módosító javaslatról az Országgyűlés az (1) bekezdés szerinti határozati javaslat zárószavazását megelőzően, vita nélkül dönt.
+
 #### 52. Sarkalatossági záradék
 
 146. § (1) A 12. alcím és a 157. § az Alaptörvény 2. cikk (2) bekezdése alapján sarkalatosnak minősül.
@@ -2715,7 +2736,7 @@ továbbítható a megkereső, illetve adatszolgáltatást kérő, az eljárásra
 
 (4) A 10. és a 10/A. alcím, a 145/I. §, valamint a 147. § (1) bekezdése az Alaptörvény 7. cikk (3) bekezdése alapján sarkalatosnak minősül.
 
-(5) Az I–III. Fejezet, a 11. alcím, a 13. alcím, a 14/A–16. alcím, a 44. §, a 18–19. alcím, a IV–V/A. Fejezet, a VI/A. Fejezet, a 41. alcím, a 42. alcím, az 50. alcím, a 145. § (1)–(3), (7), (9), (11), (12) és (16) bekezdése, a 145/I. §, valamint a 2. melléklet az Alaptörvény 5. cikk (4) és (7) bekezdése alapján a jelen lévő országgyűlési képviselők kétharmadának szavazatával elfogadandó házszabályi rendelkezésnek minősül.
+(5) Az I–III. Fejezet, a 11. alcím, a 13. alcím, a 14/A–16. alcím, a 44. §, a 18–19. alcím, a IV–V/A. Fejezet, a VI/A. Fejezet, a 41. alcím, a 42. alcím, az 50. alcím, a 145. § (1)–(3), (7), (9), (11), (12) és (16) bekezdése, a 145/I. §, a 145/J. §, a 145/K. §, valamint a 2. melléklet az Alaptörvény 5. cikk (4) és (7) bekezdése alapján a jelen lévő országgyűlési képviselők kétharmadának szavazatával elfogadandó házszabályi rendelkezésnek minősül.
 
 (6) E törvény
 

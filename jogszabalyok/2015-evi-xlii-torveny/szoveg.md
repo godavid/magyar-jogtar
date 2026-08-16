@@ -1276,14 +1276,14 @@ az (1) bekezdésben foglaltaktól eltérően a miniszter helyett az országos pa
 
 (4) A hatáskört telepítő jogszabály hatálybalépésének napján a hivatásos állomány szülési szabadságon lévő vagy gyermekgondozás céljából igénybe vett illetmény nélküli szabadság miatt rendelkezési állományban lévő tagja esetében a gyermekgondozás céljából igénybe vett illetmény nélküli szabadság – vagy ha a szülési szabadság leteltét követően a hivatásos állomány tagja nem vesz igénybe illetmény nélküli szabadságot, akkor a szülési szabadság – megszűnését követő nappal kell a (2) vagy (3) bekezdés szerinti intézkedést meghozni, azzal, hogy hatósági vezénylés esetén
 
-- a) a hatósági vezénylés határideje a hatáskört telepítő jogszabály hatályba lépésének napjától számított legfeljebb két év lehet,
+- a) a hatósági vezénylés határideje 2026. december 31. napja,
 - b) a kormányzati igazgatási szerv a 138. § esetében a hivatásos állomány tagját rész-szolgálatteljesítési időben foglalkoztatja.
 
 (5) A hivatásos állomány tagja részére a hatósági vezénylés időtartama alatt a kormányzati igazgatási szerv olyan szolgálatteljesítési helyet biztosít, amelynek eléréséhez szükséges idő a tartózkodási helytől – tömegközlekedés igénybevételével – nem haladja meg irányonként a másfél órát, a hivatásos állomány tíz éven aluli gyermeket nevelő tagja esetében az egy órát, kivéve, ha a hivatásos állomány tagja nyilatkozatával vállalja a hosszabb utazási időt.
 
 (6) Ha az (5) bekezdés szerinti szolgálatteljesítési hely nem biztosítható, és a hivatásos állomány tagja nem vállalja a hosszabb utazási időt, a hivatásos állomány tagjának szolgálati viszonya a törvény erejénél fogva megszűnik azzal, hogy részére az e törvény szerinti felmentési időre és végkielégítésre vonatkozó szabályokat alkalmazni kell.
 
-(7) A hatósági vezénylés a hatáskört telepítő jogszabály hatálybalépésétől számított legfeljebb két évre szól.
+(7) A hatósági vezénylés 2026. december 31. napjáig szól.
 
 (8) A hivatásos állomány hatósági vezényléssel érintett tagja felett – a szolgálati viszony megszüntetése kivételével – a munkáltatói jogokat a kormányzati igazgatási szerv munkáltatói jogkört gyakorló vezetője gyakorolja.
 
@@ -4614,14 +4614,14 @@ létesíthető. A határozott idejű igazgatási jogviszony időtartamát naptá
 
 (16) A hatáskört telepítő jogszabály hatálybalépésének napján szülési szabadságon lévő vagy gyermekgondozás céljából igénybe vett illetmény nélküli szabadságon lévő rendvédelmi alkalmazott esetében az illetmény nélküli szabadság – vagy ha a szülési szabadság leteltét követően a rendvédelmi alkalmazott nem vesz igénybe illetmény nélküli szabadságot, akkor a szülési szabadság – megszűnését követő napon kell a (14) vagy (15) bekezdés alapján eljárni azzal, hogy hatósági kirendelés esetén
 
-- a) a hatósági kirendelés határideje a hatáskört telepítő jogszabály hatálybalépésének napjától számított legfeljebb két év lehet,
+- a) a hatósági kirendelés határideje 2026. december 31. napja,
 - b) a kormányzati igazgatási szerv a 138. § esetében a rendvédelmi alkalmazottat részmunkaidőben foglalkoztatja.
 
 (17) A rendvédelmi alkalmazott részére a hatósági kirendelés időtartama alatt a kormányzati igazgatási szerv olyan munkavégzési helyet biztosít, amelynek eléréséhez szükséges idő a tartózkodási helytől – tömegközlekedés igénybevételével – nem haladja meg irányonként a másfél órát, a rendvédelmi alkalmazott tíz éven aluli gyermeket nevelő tagja esetében az egy órát, kivéve, ha a rendvédelmi alkalmazott nyilatkozatával vállalja a hosszabb utazási időt.
 
 (18) Ha a (17) bekezdés szerinti munkavégzési hely nem biztosítható, és a rendvédelmi alkalmazott nem vállalja a hosszabb utazási időt, a rendvédelmi alkalmazott igazgatási jogviszonya a törvény erejénél fogva megszűnik azzal, hogy részére az e törvény szerinti felmentési időre és végkielégítésre vonatkozó szabályokat alkalmazni kell.
 
-(19) A hatósági kirendelésre a hatáskört telepítő jogszabály hatálybalépésének napjával kerül sor és a hatáskört telepítő jogszabály hatálybalépésétől számított legfeljebb két évre szól.
+(19) A hatósági kirendelés 2026. december 31. napjáig szól.
 
 (20) A kirendelt a hatósági kirendelés időtartama alatt rendelkezési állományba kerül.
 
@@ -7409,9 +7409,107 @@ alakul át.
 
 (3) A rendvédelmi tisztjelölti jogviszony (1) bekezdés szerinti átalakulásával összefüggésben a rendvédelmi tisztjelöltnek próbaidő nem köthető ki, egészségi, pszichikai és fizikai alkalmasságvizsgálatokat elvégezni nem kell.
 
-379. § A rendészeti feladatellátás hatékonyságát támogató törvények módosításáról szóló 2025. évi LXXI. törvénnyel megállapított 319/R. § hatálybalépésekor a terrorizmust elhárító szervnek a személyi állományába tartozó, a 319/R. § (4) bekezdésében meghatározott tagja a 319/R. § hatálybalépését követő hatvan napon belül nyilatkozik, hogy vállalja-e a 319/R. § (5) bekezdés b) pontja szerinti poligráfos vizsgálaton való részvétel lehetőségét. Aki a határidőn belül nem tesz nyilatkozatot vagy nemleges nyilatkozatot tesz, annak a szolgálati beosztását, munkakörét úgy kell módosítani, hogy a 319/R. § (4) bekezdése szerinti feladatkört a továbbiakban nem láthat el.
+379. § (1) A 2026. szeptember 30-án a terrorizmust elhárító szerv személyi állományába
+
+- a) az általános rendőrségi feladatok ellátására létrehozott szervnek a Rendőrségről szóló 1994. évi XXXIV. törvény 1. § (2) bekezdés 15a. pontjában meghatározott feladatokat, illetve a személyvédelmi feladatokat átvevő területi szervéhez kerülő feladatkört ellátó,
+  - aa) a rendőrségtől vezényelt tiszti vagy tiszthelyettesi besorolási osztályba tartozó hivatásos állomány esetében a vezénylés 2026. október 1-jén a törvény erejénél fogva megszűnik és egyidejűleg az 57. § (2) bekezdése alapján e területi szervhez, mint a rendvédelmi szerv más szervezeti egységéhez történő áthelyezés elrendelésére kell intézkedni,
+  - ab) a rendőrségtől vezényelt vezetői besorolási osztályba tartozó hivatásos állomány esetében 2026. október 1-jén a vezénylés megszüntetésére kell intézkedni,
+  - ac) más rendvédelmi szervtől vagy polgári nemzetbiztonsági szolgálattól vezényelt hivatásos állomány esetében 2026. október 1-jén a vezénylés módosítására vagy – ha a vezénylés fenntartása nem indokolt – a vezénylés megszüntetésére kell intézkedni,
+- b) az általános rendőrségi feladatok ellátására létrehozott szervnek az a) pontban meghatározott területi szerven kívüli szervéhez telepítésre kerülő feladatkört ellátó tagja esetében a vezénylés 2026. szeptember 30. napjával történő megszüntetésére kell intézkedni.
+
+(2) A végzettségének, képzettségének megfelelő szolgálati beosztást kell felajánlani
+
+- a) az (1) bekezdés b) pontja szerinti esetben, valamint
+- b) a 2026. szeptember 30-án a terrorizmust elhárító szerv személyi állományába vezényelt, azon tiszti vagy tiszthelyettesi besorolási osztályba tartozó személy esetében, aki 2026. szeptember 30-án nem a rendvédelmi szerv alapfeladatának ellátására létrehozott szolgálati beosztásban teljesít szolgálatot.
+
+(3) A (2) bekezdés szerinti szolgálati beosztás elfogadása esetén a hivatásos állomány tagja az e törvény szerinti illetményre jogosult.
+
+(4) Ha a (2) bekezdés szerint felajánlott szolgálati beosztással járó illetmény összege a 2026. szeptember 30-án érvényes rendszeres díjazás 85%-át nem éri el, a hivatásos állomány tagja kérheti a felmentését.
+
+(5) A szolgálati viszonyról történő lemondásnak kell tekinteni, ha a hivatásos állomány tagja a (2) bekezdés szerinti szolgálati beosztást nem a (4) bekezdésben meghatározott okból nem fogadja el.
+
+(6) Az (1) bekezdés a) pont ab) alpontja szerinti esetben
+
+- a) azonos besorolású vezetői beosztás felajánlása esetén a 2026. szeptember 30-án megállapított szabályok szerinti rendszeres díjazást kell részére 2026. október 1. napjától biztosítani,
+- b) az a) pont szerinti szolgálati beosztástól eltérő vezetői beosztás felajánlása esetén a vezetői kinevezés visszavonására kell intézkedni és az 59. § szerint kell eljárni, vagy
+- c) nem vezetői beosztás felajánlása esetén a vezetői kinevezés visszavonásra kell intézkedni és az 59. § szerint kell eljárni azzal, hogy
+  - ca) a 114. § (3) bekezdés a) pontja szerinti körben legalább „D” besorolási kategóriába tartozó,
+  - cb) a 114. § (3) bekezdés c) pontja szerinti körben legalább „C” besorolási kategóriába tartozó
+
+szolgálati beosztást kell felajánlani.
+
+(7) A Terrorelhárítási Központnál 2026. szeptember 30-ig kiadott szolgálati igazolvány 2026. október 1-jétől az általános rendőrségi feladatok ellátására létrehozott szervnél szolgálati beosztásba helyezett állomány esetében eredeti érvényességi idejéig érvényes, azt az érvényességi idő lejártáig tovább lehet használni, míg a szolgálati igazolványokkal összefüggésben nyilvántartott adatok átadására a hivatásos állomány tagjának 2026. október 1. utáni új szolgálati beosztása szerinti szervezeti egysége részére 2026. október 31-ig szükséges intézkedni.
+
+(8) A Terrorelhárítási Központnál 2026. szeptember 30-ig kiadott szolgálati jelvény visszavonására az (1) bekezdés szerinti változások okán nem kell intézkedni. A szolgálati jelvényekkel összefüggésben nyilvántartott adatok átadására a hivatásos állomány tagjának 2026. október 1. utáni új szolgálati beosztása szerinti szervezeti egysége részére 2026. október 31-ig szükséges intézkedni.
+
+(9) A Terrorelhárítási Központnál 2026. szeptember 30-ig rendszeresített egyenruházat 2027. március 31-ig megengedett öltözetként tovább viselhető. Ezen határidőig kell gondoskodni az új egyenruházati szabályok megállapításáról.
+
+(10) E § tekintetében rendszeres díjazásnak kell tekinteni az alapilletmény és a 168. § (2) bekezdése szerinti rendszeres illetménypótlék egy hónapra megállapított együttes összegét.
+
+379/A. § (1) Az egyes törvényeknek a rendészeti feladatellátás racionalizálásával összefüggő módosításáról szóló 2026. évi XLVI. törvény alapján 2026. szeptember 30-án az Országgyűlési Őrség hivatásos állományban álló tagjának (a továbbiakban: országgyűlési őr) szolgálati viszonya 2026. október 1. napjával jogutódlással
+
+- a) a tűzbiztonsági feladatokat ellátó területen történő szolgálatteljesítés esetén a hivatásos katasztrófavédelmi szervvel fennálló szolgálati viszonnyá,
+- b) az a) pontba nem tartozó esetben az általános rendőrségi feladatok ellátására létrehozott szervvel fennálló szolgálati viszonnyá
+
+alakul át azzal, hogy a szolgálati viszonyt az új rendvédelmi szervnél folyamatosnak kell tekinteni.
+
+(2) Az (1) bekezdés hatálya alá tartozó esetben, ha a 2026. szeptember 30-án állományban lévő, az Országgyűlési Őrség alapfeladatát ellátó, tiszti vagy tiszthelyettesi besorolási osztályba tartozó országgyűlési őr
+
+- a) az általános rendőrségi feladatok ellátására létrehozott szervnek a személyvédelmi feladatokat átvevő területi szerve állományába ezen feladatkörben kerül át,
+- b) az általános rendőrségi feladatok ellátására létrehozott szerv szervezeti egységének az Országház és az Országgyűlés Hivatala elhelyezésére szolgáló épületek létesítménybiztosítási feladatait ellátó elkülönített szervezeti eleméhez kerül át, vagy
+- c) a hivatásos katasztrófavédelmi szerv szervezeti egységének az Országház tűzbiztonsági feladatait ellátó elkülönített szervezeti eleméhez kerül át,
+
+őt a 318/A. § vagy a 327/A. § szabályai szerint kell besorolni.
+
+(3) A 2026. szeptember 30-án az Országgyűlési Őrség hivatásos állományába tartozó országgyűlési őr részére a végzettségének, képzettségének megfelelő szolgálati beosztást kell felajánlani
+
+- a) a (2) bekezdésbe nem tartozó, alapfeladatot ellátó, tiszti vagy tiszthelyettesi besorolású szolgálati beosztást betöltők esetében, valamint
+- b) azon tiszti vagy tiszthelyettesi besorolási osztályba tartozó személy esetében, aki 2026. szeptember 30-án nem a rendvédelmi szerv alapfeladatának ellátására létrehozott szolgálati beosztásban teljesít szolgálatot.
+
+(4) A (3) bekezdés szerinti szolgálati beosztás elfogadása esetén a hivatásos állomány tagja az e törvény szerinti illetményre jogosult.
+
+(5) Ha a (3) bekezdés szerint felajánlott szolgálati beosztással járó illetmény összege a 2026. szeptember 30-án érvényes rendszeres díjazás 85%-át nem éri el, a hivatásos állomány tagja kérheti a felmentését.
+
+(6) A szolgálati viszonyról történő lemondásnak kell tekinteni, ha a hivatásos állomány tagja a (3) bekezdés szerinti szolgálati beosztást nem az (5) bekezdésben meghatározott okból nem fogadja el.
+
+(7) A 2026. szeptember 30-án az Országgyűlési Őrségnél vezetői besorolású szolgálati beosztást betöltő személy esetén
+
+- a) azonos besorolású vezetői beosztás felajánlása esetén a 2026. szeptember 30-án megállapított szabályok szerinti rendszeres díjazást kell részére 2026. október 1. napjától biztosítani,
+- b) az a) pont szerinti szolgálati beosztástól eltérő vezetői beosztás felajánlása esetén a vezetői kinevezés visszavonására kell intézkedni és az 59. § szerint kell eljárni, vagy
+- c) nem vezetői beosztás felajánlása esetén a vezetői kinevezés visszavonására kell intézkedni és az 59. § szerint kell eljárni azzal, hogy
+  - ca) a 114. § (3) bekezdés a) pontja szerinti körben legalább „D” besorolási kategóriába tartozó,
+  - cb) a 114. § (3) bekezdés c) pontja szerinti körben legalább „C” besorolási kategóriába tartozó
+
+szolgálati beosztást kell felajánlani.
+
+(8) A rendvédelmi szerv az országgyűlési őrt 2026. október 7. napjáig személyzeti megbeszélés keretében tájékoztatja szolgálati beosztásáról, illetményéről és a szolgálati beosztáshoz kapcsolódó valamennyi lényeges elemről.
+
+(9) A 2026. október 1. napján folyamatban lévő
+
+- a) fegyelmi, kártérítési, méltatlansági ügyekben, jogvitákban az eljárás megindulásakor hatályos szabályok alapján kell eljárni azzal, hogy a jogkörgyakorló a 2026. október 1. napjától a hivatásos állomány tagja állományilletékes parancsnokának minősülő személy,
+- b) rendvédelmi egészségkárosodási ellátás megállapítása, nyugdíj előtti rendelkezési állományba helyezés, hivatásos állomány megváltozott egészségi állapotú tagja alkalmasságának felülvizsgálata iránti eljárás, illetve már megszűnt szolgálati viszonnyal kapcsolatos eljárás esetén az Országgyűlési Őrség parancsnoka által gyakorolt jogköröket az országos parancsnok gyakorolja,
+- c) ügyekben a 2026. szeptember 30-án hatályos 127. alcímben foglalt, az Országgyűlés elnöke által gyakorolt jogköröket a miniszter gyakorolja,
+- d) ügyekben a 2026. szeptember 30-án hatályos 127. alcímben foglalt, az Országgyűlési Őrség parancsnoka által gyakorolt jogköröket a miniszter gyakorolja,
+- e) próbaidő a szolgálati viszony létesítésekor kikötött időtartamban áll fenn.
+
+(10) Az Országgyűlési Őrségnél 2026. szeptember 30-ig megállapított rendvédelmi egészségkárosodási ellátást 2026. október 1. napjától az (1) bekezdés a) vagy b) pontja szerinti jogutód szerv folyósítja tovább.
+
+(11) Az Országgyűlési Őrségnél 2026. szeptember 30-ig kiadott szolgálati igazolvány és szolgálati jelvény 2027. március 31-ig használható, ezen határidőig kell gondoskodni az új szolgálati igazolványok és szolgálati jelvények kiadásáról.
+
+(12) Az Országgyűlési Őrségnél 2026. szeptember 30-ig rendszeresített egyenruházat 2027. március 31-ig megengedett öltözetként tovább viselhető. Ezen határidőig kell gondoskodni az új egyenruházati szabályok megállapításáról.
+
+(13) Az Országgyűlési Őrségnél 2026. szeptember 30-ig megállapított nyugdíj előtti rendelkezési állomány idejére járó illetményt 2026. október 1. napjától az (1) bekezdés a) vagy b) pontja szerinti jogutód szerv folyósítja tovább.
+
+(14) E § tekintetében rendszeres díjazásnak kell tekinteni az alapilletmény és a 168. § (2) bekezdése szerinti rendszeres illetménypótlék egy hónapra megállapított együttes összegét.
 
 380. § A büntetés-végrehajtási szervezet állományának a javítóintézeti munkakörökbe történő bevonását lehetővé tevő munkáltatói intézkedések veszélyhelyzeti szabályairól szóló 438/2025. (XII. 23.) Korm. rendelet alapján elrendelt, az Ukrajna területén fennálló fegyveres konfliktusra tekintettel kihirdetett veszélyhelyzeti rendeletek törvényi szintre emeléséről szóló 2026. évi XIV. törvény hatálybalépésének időpontjában fennálló javítóintézeti átrendelés új munkáltatói intézkedés meghozatala nélkül a 328/B. § szerint elrendelt javítóintézeti átrendelésnek minősül azzal, hogy a 328/B. § (3) bekezdése szerinti négy hónapos határidőt a javítóintézeti átrendelés elrendelésének eredeti időpontjától kell számítani, míg a 328/B. § (4) bekezdése szerinti kifogástalan életvitel ellenőrzést – ha a Gyvt. szerinti kifogástalan életvitel ellenőrzésre az átrendeléskor nem került sor – öt napon belül kezdeményezni kell.
+
+381. § Az egyes törvényeknek a rendészeti feladatellátás racionalizálásával összefüggő módosításáról szóló 2026. évi XLVI. törvény hatálybalépésének napján hatósági vezénylés vagy hatósági kirendelés hatálya alatt álló személy
+
+- a) hatósági vezénylésének hatálya a 79/A. § (4) és (7) bekezdése szerint, illetve
+- b) hatósági kirendelésének hatálya a 288. § (16) és (19) bekezdése szerint
+
+2026. december 31-ig külön erre irányuló munkáltatói intézkedés nélkül, a törvény erejénél fogva meghosszabbodik. E tényről a rendvédelmi szerv írásban tájékoztatja a hatósági vezénylés vagy hatósági kirendelés hatálya alatt álló személyt.
 
 ### 1. melléklet a 2015. évi XLII. törvényhez
 
