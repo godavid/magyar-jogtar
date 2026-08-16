@@ -577,6 +577,11 @@
   {
     "datum": "2026-08-03",
     "verzio": 156,
-    "sha": "0e43f9f8dbd528b64c2231a0aeac74e52f03e3e9"
+    "sha": "a3d8e8a67b41e99193cc121b55218d8632f44cc9"
+  },
+  {
+    "datum": "2026-08-16",
+    "verzio": 158,
+    "sha": "b0e0f23dee50cd264f8efd962ffd28b424ac6b7e"
   }
 ]
