@@ -141072,6 +141072,11 @@
       "datum": "2026-05-14",
       "verzio": 21,
       "sha": "c84bb08a061a860c37f1a5b046e430a1cc041b9d"
+    },
+    {
+      "datum": "2026-08-18",
+      "verzio": 22,
+      "sha": "8f1bf748ab6ccca5357f591034b43600a36b38e7"
     }
   ],
   "2025-evi-lv-torveny": [
@@ -143376,6 +143381,13 @@
       "datum": "2026-08-13",
       "verzio": 3,
       "sha": "39267b262d88dc514db3b3584ae0a751bc4e0d7f"
+    }
+  ],
+  "2026-evi-xxxii-torveny": [
+    {
+      "datum": "2026-08-18",
+      "verzio": 1,
+      "sha": "8f1bf748ab6ccca5357f591034b43600a36b38e7"
     }
   ]
 }
