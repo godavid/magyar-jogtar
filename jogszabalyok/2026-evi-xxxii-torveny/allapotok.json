@@ -2,6 +2,11 @@
   {
     "datum": "2026-08-18",
     "verzio": 1,
-    "sha": "8f1bf748ab6ccca5357f591034b43600a36b38e7"
+    "sha": "d95275ed06fa920b94b254b559f4caac97ca35e9"
+  },
+  {
+    "datum": "2026-08-19",
+    "verzio": 2,
+    "sha": "bc733d2d1243b82162be5ee67014e820449e6eb0"
   }
 ]
