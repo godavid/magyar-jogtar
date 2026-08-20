@@ -708,7 +708,7 @@ rendelkezik.
 
 (5) A (4) bekezdésben foglalt szabályok betartatásáért a nevelési-oktatási intézmény igazgatója felel azzal, hogy a Kormány rendeletében, valamint a házirendben meghatározottak szerint gondoskodik a szabályok betartásának ellenőrzéséről, a tárgy átvételéről, őrzéséről, a tanuló, vagy egyéb személy részére történő visszaadásának rendjéről. A tárgyak őrzésére – a tiltott tárgy kivételével – a Polgári Törvénykönyv általános, a szerződésen kívüli károkozásért való felelősségre vonatkozó szabályait kell alkalmazni. A tiltott tárgy őrzése során a tárgyban bekövetkezett kárért a nevelési-oktatási intézmény nem felel.
 
-25. § (1) A köznevelési intézmény működésére, belső és külső kapcsolataira vonatkozó rendelkezéseket a szervezeti és működési szabályzat (a továbbiakban: SZMSZ) határozza meg. Az SZMSZ-t az igazgató a nevelőtestület bevonásával készíti el és az intézmény honlapján közzéteszi. Az SZMSZ-t a fenntartó hagyja jóvá.
+25. § (1) A köznevelési intézmény működésére, belső és külső kapcsolataira vonatkozó rendelkezéseket a szervezeti és működési szabályzat (a továbbiakban: SZMSZ) határozza meg. Az SZMSZ-t nevelési-oktatási intézményben a nevelőtestület, más köznevelési intézményben a szakalkalmazotti értekezlet az óvodaszék, iskolaszék, kollégiumi szék, továbbá az iskolai vagy a kollégiumi diákönkormányzat véleményének kikérésével fogadja el. Az SZMSZ azon rendelkezéseinek hatálybalépéséhez, amelyekből a fenntartóra többletkötelezettség hárul, a fenntartó egyetértése szükséges. Az SZMSZ-t az igazgató az intézmény honlapján közzéteszi.
 
 (2) Az óvoda házirendje a gyermeki jogok és kötelességek gyakorlásával, a gyermek óvodai életrendjével kapcsolatos rendelkezéseket állapítja meg. Az iskola és a kollégium házirendje állapítja meg az e törvényben, továbbá a jogszabályokban meghatározott tanulói jogok gyakorlásának és – a tanulmányi kötelezettségek teljesítésén kívül – a kötelezettségek végrehajtásának módját, továbbá az iskola, kollégium által elvárt viselkedés szabályait.
 
@@ -746,7 +746,7 @@ kezeli.
 
 #### 21. A pedagógiai program
 
-26. § (1) A nevelő és oktató munka az óvodában, az iskolában, a kollégiumban pedagógiai program szerint folyik. A pedagógiai programot az igazgató a nevelőtestület bevonásával készíti el és a fenntartó hagyja jóvá. A pedagógiai programot nyilvánosságra kell hozni.
+26. § (1) A nevelő és oktató munka az óvodában, az iskolában, a kollégiumban pedagógiai program szerint folyik. A pedagógiai programot a nevelőtestület fogadja el és az igazgató hagyja jóvá. A fenntartó egyetértési jogot gyakorol a pedagógiai program azon elemei tekintetében, amelyekből a fenntartóra többletkötelezettség hárul. Az igazgató a pedagógiai programot az intézmény honlapján közzéteszi.
 
 (2) Az iskola pedagógiai programjának részeként, ha e törvény másként nem rendelkezik, a köznevelésért felelős miniszter által kiadott kerettanterveket kiegészítve helyi tantervet készít. A helyi tanterv megnevezi a köznevelésért felelős miniszter által kiadott kerettantervek közül választottat és rendelkezik a kerettantervben meghatározott, a kötelező és nem kötelező tanórai foglalkozások időkerete legfeljebb tíz százalékának felhasználásáról. A kollégium az érdekelt iskola pedagógiai programját figyelembe véve készíti el a pedagógiai programját.
 
@@ -766,7 +766,7 @@ kezeli.
 
 (2a) Az (1) bekezdésben meghatározott tantermen kívüli digitális munkarendben a nevelés-oktatás, a tanulási folyamat ellenőrzése és támogatása a pedagógusok és a tanulók online vagy más, személyes találkozást nem igénylő kapcsolatában – elsősorban tanulmányi rendszer által biztosított funkcionalitásokkal és digitális eszközök alkalmazásával – történik.
 
-(3) A tanév, ezen belül a tanítási év rendjét a köznevelésért felelős miniszter rendeletben állapítja meg. Az igazgató a nevelőtestület bevonásával éves munkatervet készít, amely tartalmazza a szabadon meghatározható tanítás nélküli munkanapokat. Az igazgató az éves munkatervet az intézmény honlapján közzéteszi. Az éves munkatervet a fenntartó hagyja jóvá.
+(3) A tanév, ezen belül a tanítási év rendjét a köznevelésért felelős miniszter rendeletben állapítja meg. Az igazgató éves munkatervet készít, amely tartalmazza a szabadon meghatározható tanítás nélküli munkanapokat. Az éves munkatervet a nevelőtestület fogadja el. A fenntartó egyetértési jogot gyakorol a munkaterv azon elemei tekintetében, amelyekből a fenntartóra többletkötelezettség hárul. Az igazgató az éves munkatervet az intézmény honlapján közzéteszi.
 
 (4) A tanuló heti finanszírozott tanóráinak számát a 6. melléklet határozza meg. Az iskola a tanuló NAT szerint meghatározott heti kötelező tanóráinak száma és az osztályok engedélyezett heti időkerete különbözetét tanórai foglalkozás, egyéb foglalkozás megtartásához és osztálybontáshoz veheti igénybe.
 
@@ -846,13 +846,13 @@ rendkívüli szünetet rendel el.
 
 31. § (1) Az egyházi köznevelési intézmények és a magán köznevelési intézmények az e törvényben foglalt, az általánostól eltérő szabályok szerint működhetnek és szervezhetik tevékenységüket.
 
-(2) Ha a nevelési-oktatási intézményt a 2. § (3) bekezdés b) pontjában meghatározott személy tartja fenn:
+(2) Ha a nevelési-oktatási intézményt a 2. § (3) bekezdés b) pontjában meghatározott személy vagy szervezet tartja fenn:
 
 - a) a nevelési-oktatási intézmény vallási, világnézeti tekintetben elkötelezett intézményként működhet, és ennek megfelelően a gyermekek vagy a tanulók felvételének előfeltételeként kikötheti valamely vallás, világnézet elfogadását, és ezt felvételi eljárás keretében vizsgálhatja,
 - b) nem kell alkalmazni a gyermekek, tanulók felvételével kapcsolatos rendelkezések közül a kötelező felvételre vonatkozó rendelkezéseket, valamint az osztály-, csoportlétszámokat meghatározó rendelkezéseket a maximális létszámra vonatkozó rendelkezések kivételével,
 - c) az óvodai, iskolai, kollégiumi felvétel, továbbá az óvodai elhelyezés, a tanulói jogviszony, a kollégiumi tagsági viszony fenntartása – írásbeli megállapodásban – fizetési kötelezettséghez köthető, az óvodai elhelyezés, a tanulói jogviszony és a kollégiumi tagsági viszony megszüntetésével kapcsolatosan – írásbeli megállapodásban – az 53. § (1)–(10) bekezdésében foglaltaktól el lehet térni,
-- d)
-- e) a nevelési-oktatási intézmény – a fenntartó, óvoda esetében a települési önkormányzattal, más köznevelési intézmény esetében a köznevelésért felelős miniszterrel kötött írásbeli szerződés (a továbbiakban: köznevelési szerződés) alapján – részt vehet az e törvényben meghatározott köznevelési közszolgálati feladatok megvalósításában,
+- d) a nevelési-oktatási intézmény SZMSZ-ének, – a 32. § (1) bekezdés i) pontban foglaltak kivételével – házirendjének és pedagógiai programjának hatálybalépéséhez a fenntartó egyetértése szükséges, ha erről e törvény vagy a fenntartó az adott dokumentum elfogadását vagy módosítását megelőzően írásban így rendelkezett,
+- e) a nevelési-oktatási intézmény – a fenntartó által óvoda esetében a települési önkormányzattal, más köznevelési intézmény esetében a köznevelésért felelős miniszterrel kötött írásbeli szerződés (a továbbiakban: köznevelési szerződés) alapján – részt vehet az e törvényben meghatározott köznevelési közszolgálati feladatok megvalósításában,
 - f) nem kell alkalmazni a 73. § (4) bekezdését.
 
 (2a) Nem kell alkalmazni a (2) bekezdés a), c) és d) pontjában foglaltakat a nemzetiségi önkormányzati fenntartó esetében.
@@ -1467,7 +1467,7 @@ továbbítható.
 
 (8)
 
-55. § (1) Az igazgató a tanulót kérelmére – kiskorú tanuló esetében a szülő kérelmére – felmentheti – a szakmai képzés kivételével – az iskolai kötelező tanórai foglalkozásokon való részvétel alól, ha a tanuló egyéni adottságai, sajátos nevelési igénye, továbbá sajátos helyzete ezt indokolttá teszi. Ha a kérelem az összes tanórai foglalkozás alóli felmentésre irányul, akkor a 45. § (6) bekezdése szerinti eljárást kell lefolytatni. Az igazgató a tanulót kérelmére mentesítheti a készségtárgyak tanulása alól, ha azt egyéni adottsága vagy sajátos helyzete indokolttá teszi. Az igazgató az általános iskolában a tizenhat óra előtt megszervezett egyéb foglalkozás alól a szülő kérelmére felmenti a tanulót, ha másik köznevelési intézménnyel is tanulói jogviszonyban vagy vendégtanulói jogviszonyban áll, az ott szervezett tanórai és egyéb foglalkozásokon történő részvétel érdekében, egyéb esetekben – kivéve, ha az intézmény e törvény rendelkezéseinek megfelelően egész napos iskolaként működik – felmentheti.
+55. § (1) Az igazgató a tanulót kérelmére – kiskorú tanuló esetében a szülő kérelmére – felmentheti – a szakmai képzés kivételével – az iskolai kötelező tanórai foglalkozásokon való részvétel alól, ha a tanuló egyéni adottságai, sajátos nevelési igénye, továbbá sajátos helyzete ezt indokolttá teszi. Ha a kérelem az összes tanórai foglalkozás alóli felmentésre irányul, akkor a 45. § (6) bekezdése szerinti eljárást kell lefolytatni. Az igazgató a tanulót kérelmére mentesítheti a készségtárgyak tanulása alól, ha azt egyéni adottsága vagy sajátos helyzete indokolttá teszi. Az igazgató az általános iskolában a 16 óra előtt megszervezett egyéb foglalkozás alól a szülő kérelmére felmenti a tanulót, ha másik köznevelési intézménnyel is tanulói jogviszonyban vagy vendégtanulói jogviszonyban áll, az ott szervezett tanórai és egyéb foglalkozásokon történő részvétel érdekében, egyéb esetekben – kivéve, ha az intézmény e törvény rendelkezéseinek megfelelően egész napos iskolaként működik – felmentheti.
 
 (2) Az egyéni munkarenddel rendelkezőt – az iskolában vagy azon kívül folyó szakmai képzés kivételével – az iskola valamennyi kötelező tanórai foglalkozása alól fel kell menteni.
 
@@ -1841,16 +1841,16 @@ fegyelmi büntetés szabható ki.
 
 (2) A nevelőtestület
 
-- a)
-- b)
-- c)
-- d)
+- a) a pedagógiai program elfogadásáról,
+- b) az SZMSZ elfogadásáról,
+- c) a nevelési-oktatási intézmény éves munkatervének elfogadásáról,
+- d) a nevelési-oktatási intézmény munkáját átfogó elemzések, értékelések, beszámolók elfogadásáról,
 - e) a pedagógus-továbbképzési intézményi program elfogadásáról,
 - f) a nevelőtestület képviseletében eljáró pedagógus kiválasztásáról,
 - g) a házirend elfogadásáról,
-- h) a tanulók magasabb évfolyamba lépésének megállapítása, a tanulók osztályozóvizsgára bocsátásáról,
+- h) a tanulók magasabb évfolyamba lépésének megállapításáról, a tanulók osztályozóvizsgára bocsátásáról,
 - i) a tanulók fegyelmi ügyeiben,
-- j)
+- j) az igazgatói pályázathoz készített vezetői programmal összefüggő szakmai vélemény tartalmáról,
 - k) jogszabályban meghatározott más ügyekben
 
 dönt.
@@ -2203,7 +2203,7 @@ vizsgálja, amely során az a)–d) pont szerinti feltételeket egyenként és �
 - d) meghatározza az adott nevelési évben indítható óvodai csoportok számát, az adott tanítási évben az iskolában indítható osztályok, a kollégiumban szervezhető csoportok számát,
 - e) ellenőrizheti a köznevelési intézmény gazdálkodását, működésének törvényességét, hatékonyságát, a szakmai munka eredményességét, nevelési-oktatási intézményben továbbá a gyermek- és ifjúságvédelmi tevékenységet, a tanuló- és gyermekbaleset megelőzése érdekében tett intézkedéseket; ha a fenntartó nem települési önkormányzat, a tanuló- és gyermekbalesetet jelenti a nevelési-oktatási intézmény székhelye szerint illetékes köznevelési feladatokat ellátó hatóságnak,
 - f)
-- g) jóváhagyja a köznevelési intézmény SZMSZ-ét, pedagógiai programját, éves munkatervét, pedagógus-továbbképzési intézményi programját, tantárgyfelosztását,
+- g) jóváhagyja a köznevelési intézmény pedagógus-továbbképzési intézményi programját, tantárgyfelosztását, és az e törvényben meghatározott módon egyetértési jogot gyakorol az intézmény SZMSZ-e, pedagógiai programja, éves munkaterve tekintetében,
 - h) értékeli a nevelési-oktatási intézmény pedagógiai programjában meghatározott feladatok végrehajtását, a pedagógiai-szakmai munka eredményességét,
 - i) ellenőrzi a házirendet.
 - j) dönt a nevelési-oktatási intézmény munkáját átfogó elemzések, értékelések, beszámolók elfogadásáról.
@@ -2333,7 +2333,7 @@ kapcsolatban.
 
 85. § (1) A a fenntartónak, ha egyetértési joga van a köznevelési intézmény házirendje tekintetében, az egyetértés kialakítására harminc nap áll rendelkezésre.
 
-(1a) A fenntartó a köznevelési intézmény pedagógiai programjának, éves munkatervének, valamint SZMSZ-ének jóváhagyásáról az igazgató általi felterjesztést követő harminc napon belül dönt.
+(1a) A fenntartó a köznevelési intézmény pedagógiai programjához, éves munkatervéhez, valamint SZMSZ-éhez az egyetértését az igazgató általi felterjesztést követő harminc napon belül adja meg.
 
 (2) A fenntartó tanévenként legfeljebb egy alkalommal kötelezheti az igazgatót arra, hogy az intézmény tevékenységéről átfogó módon beszámoljon.
 

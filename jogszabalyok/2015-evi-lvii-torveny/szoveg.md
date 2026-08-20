@@ -189,11 +189,19 @@ járó kiadások és bevételek értékelésére (a továbbiakban: költség-has
 
 #### 9. Energiahatékonysági célú beszerzés
 
-10. § (1) Ha a termékek, szolgáltatások és épületek minisztériumok, kormányhivatalok, központi hivatalok, a Közbeszerzési és Ellátási Főigazgatóság, a Katonai Nemzetbiztonsági Szolgálat, az országos hatáskörrel rendelkező rendvédelmi szervek, a polgári nemzetbiztonsági szolgálatok és honvédségi szervezetek (a továbbiakban együtt: energiahatékony beszerzések lefolytatására köteles szervezet) általi beszerzéséről szóló szerződés értéke eléri vagy meghaladja a közbeszerzésekről szóló törvényben meghatározott uniós értékhatárokat, az ajánlatkérők által kizárólag magas energiahatékonysági teljesítményű termékek, szolgáltatások és épületek szerezhetők be, ha ez összeegyeztethető a költséghatékonysággal, a gazdasági megvalósíthatósággal, a fenntarthatósággal, a műszaki alkalmassággal, valamint a verseny megfelelő érvényesülésével.
+10. § (1) A közbeszerzésekről szóló 2015. évi CXLIII. törvény (a továbbiakban: Kbt.) 5–7. §-a alapján ajánlatkérőnek minősülő szervezetek (a továbbiakban: energiahatékony beszerzések lefolytatására köteles szervezet) épület beszerzésére vagy épület bérletére irányuló, a Kbt. szerinti uniós értékhatárt elérő értékű beszerzés megvalósításakor csak olyan épület tekintetében köthetnek tulajdon megszerzésére irányuló vagy bérleti szerződést, amely megfelel az épületek energetikai jellemzőinek meghatározásáról szóló miniszteri rendeletben meghatározott, közel nulla energiaigényű épület követelményeinek. A követelményeknek való megfelelést energetikai tanúsítvánnyal kell igazolni.
 
-(2) Az (1) bekezdés csak olyan mértékben vonatkozik a katonai nemzetbiztonsági és az országos hatáskörrel rendelkező rendvédelmi szervekre, a polgári nemzetbiztonsági szolgálatokra, valamint a honvédségi szervezetekre, amennyiben az nem eredményez összeütközést ezen szervezetek alaptevékenységének céljával.
+(2) Az (1) bekezdésben foglalt rendelkezéseket nem kell alkalmazni, ha
 
-(3)
+- a) az energiahatékonysági követelmény előírása műszakilag nem megvalósítható,
+- b) az egészségügyről szóló 1997. évi CLIV. törvény 228. § (2) bekezdésében foglalt egészségügyi válsághelyzet elrendelésére okot adó körülmény elhárításához kapcsolódó beszerzést akadályozná,
+- c) az akadályozná a Magyarország külső vagy belső biztonságának védelméhez szükséges beszerzés megvalósítását,
+- d) a beszerzés célja
+  - da) mélyfelújítás vagy lebontás elvégzése;
+  - db) közintézmény esetében az épület viszonteladásra bocsátása anélkül, hogy a közintézmény azt saját céljaira használná, vagy
+  - dc) a műemlék, a helyi védelem alatt álló épület és azok épületelemei védetté nyilvánításának alapjául szolgáló műemléki érték megőrzése.
+
+(3) Az (1) bekezdés rendelkezései csak olyan mértékben alkalmazandók a honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény 3. § 14. pontja szerinti honvédelmi szervezet, valamint a nemzetbiztonsági szolgálatok szerződéseire, amennyiben alkalmazásuk nem eredményez összeütközést ezen szervezetek tevékenységének jellegével és elsődleges céljával.
 
 10/A. § Az energiapolitikáért felelős miniszter a közbeszerzésekért felelős miniszter, a gazdaságfejlesztésért felelős miniszter és az építésgazdaságért felelős miniszter bevonásával kétévente az integrált nemzeti energia- és klímaterv részeként jelentést nyújt be az Európai Bizottság részére az alábbi adatokról:
 
@@ -1461,6 +1469,8 @@ rendeletben állapítsa meg.
 (27) A 15. § (2c) és (2d) bekezdésében foglaltakat nem kell alkalmazni a 2026. január 1-jét megelőzően megkezdett intézkedésekre. Lakóépületek energiahatékonyságát javító beruházás megvalósításának európai uniós forrásból finanszírozott alternatív szakpolitikai intézkedéssel történő kombinálása esetén a 15. § (2c) abban az esetben alkalmazandó, ha az adott alternatív szakpolitikai intézkedésre vonatkozó pályázati felhívás a kulcstermékek beépítését kifejezetten előírja.
 
 (28) A Hivatal a 15/D. § (5) bekezdése szerinti, részben vagy egészben energiahatékonysági járulék megfizetését választó kötelezett felek listáját a 2025. évben az energiahatékonyságról szóló 2015. évi LVII. törvény módosításáról szóló 2025. évi XXV. törvény hatálybalépését követő 15 napon belül teszi közzé.
+
+(29) E törvénynek a Magyarország Helyreállítási és Ellenállóképességi Tervében szereplő energetikai tárgyú vállalások teljesítéséhez szükséges törvények módosításáról szóló 2026. évi XXXVI. törvénnyel megállapított rendelkezéseit 2026. augusztus 20. napja után megkötött szerződésekre kell alkalmazni.
 
 #### 29. Jogharmonizációs záradék
 

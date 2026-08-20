@@ -9,51 +9,67 @@
   "allapotok": [
     {
       "datum": "2022-06-01",
-      "verzio": 1
+      "verzio": 1,
+      "sha": "40d24ba38ac8a072282177bc81346df746215366"
     },
     {
       "datum": "2022-06-02",
-      "verzio": 2
+      "verzio": 2,
+      "sha": "f98470d430a8d9472110fe7c831e37069862bb7f"
     },
     {
       "datum": "2022-06-03",
-      "verzio": 3
+      "verzio": 3,
+      "sha": "26736031e859bd53a9010a1306e31e0dde573814"
     },
     {
       "datum": "2022-07-01",
-      "verzio": 4
+      "verzio": 4,
+      "sha": "9363aaa1ee71e535c18a62bf73225eaa667a9771"
     },
     {
       "datum": "2022-07-02",
-      "verzio": 5
+      "verzio": 5,
+      "sha": "6509aa334e3dc87a97153cc881cd82d651dbc958"
     },
     {
       "datum": "2022-09-01",
-      "verzio": 6
+      "verzio": 6,
+      "sha": "675765b7f0c48ed25f9a756e739671b37a07da69"
     },
     {
       "datum": "2022-09-02",
-      "verzio": 7
+      "verzio": 7,
+      "sha": "8cdfc9579090d10152fd2019b7a82578d169b649"
     },
     {
       "datum": "2023-06-30",
-      "verzio": 8
+      "verzio": 8,
+      "sha": "f0a55fe58096ab2eaf96b23cae4120379e54b615"
     },
     {
       "datum": "2023-07-01",
-      "verzio": 9
+      "verzio": 9,
+      "sha": "e766cd7c89cae42a4ef3c3362ba3823fad786922"
     },
     {
       "datum": "2023-12-30",
-      "verzio": 10
+      "verzio": 10,
+      "sha": "75c912284174540b848ec63a8b8f7df433378118"
     },
     {
       "datum": "2024-09-01",
-      "verzio": 11
+      "verzio": 11,
+      "sha": "f6383b9bfef4883705d5d27ce555791c951d3999"
     },
     {
       "datum": "2025-07-20",
-      "verzio": 12
+      "verzio": 12,
+      "sha": "712cd5251b97ebcb2803efb8d79c632a2937790e"
+    },
+    {
+      "datum": "2026-08-20",
+      "verzio": 13
     }
   ]
 }

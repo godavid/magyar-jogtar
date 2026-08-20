@@ -52,7 +52,7 @@ a közalkalmazottak jogállásáról
 
 (4) Az OKÉT működésének feltételeit a Kormány a foglalkoztatáspolitikáért felelős miniszter útján biztosítja.
 
-5. § (1) A Közalkalmazottak Országos Munkaügyi Tanácsa (a továbbiakban: KOMT) a közalkalmazotti jogviszonyt, valamint a köznevelési foglalkoztatotti jogviszonyt érintő munkaügyi, foglalkoztatási, bér- és jövedelempolitikai kérdések országos szintű, ágazatközi érdekegyeztetési fóruma.
+5. § (1) A Közalkalmazottak Országos Munkaügyi Tanácsa (a továbbiakban: KOMT) a közalkalmazotti jogviszonyt érintő munkaügyi, foglalkoztatási, bér- és jövedelempolitikai kérdések országos szintű, ágazatközi érdekegyeztetési fóruma.
 
 (2) A KOMT-ban a Kormány
 

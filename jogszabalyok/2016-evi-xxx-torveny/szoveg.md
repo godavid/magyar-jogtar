@@ -2559,6 +2559,8 @@ alkalmazni kell azzal az eltéréssel, hogy ahol az Itv. illetéket említ, azon
 
 (5) E törvénynek az európai uniós forrásokhoz való hozzáférés érdekében szükséges egyes törvények módosításáról szóló 2026. évi XVIII. törvénnyel (a továbbiakban: Módtv.) megállapított 7. § (1) bekezdés 4. pontját, 5. § (3) bekezdését, (6) bekezdés a) pontját, és 139. § (4) és (4a) bekezdését azon beszerzések tekintetében kell alkalmazni, amelyek tekintetében az Országgyűlés illetékes bizottságának döntésére a Módtv. hatálybalépését követően került sor.
 
+(5a) Az e törvénynek a Módtv. hatálybalépését megelőzően hatályos rendelkezései alapján az Országgyűlés illetékes bizottsága által meghozott, az e törvény alkalmazása alóli felmentést eredményező döntés tartalma a Közbeszerzési Döntőbizottságot az e törvény alkalmazása alóli kivételekkel kapcsolatos jogorvoslat elbírálása során nem köti, ha a felmentést eredményező döntés az Európai Unió jogával ellentétes.
+
 (6) E törvénynek a Módtv.-vel módosított 142. § (9) bekezdését az ezen rendelkezések hatálybalépését követően megvalósult jogsértések, valamint az ezen rendelkezések hatálybalépését megelőzően megvalósult jogsértések miatt kezdeményezett jogorvoslati eljárásokra is alkalmazni kell, ha az Integritás Hatóság tekintetében a Módtv. hatálybalépésekor a 142. § (3) bekezdése szerinti jogorvoslati határidő még nem járt le.
 
 #### 96. Módosító rendelkezések

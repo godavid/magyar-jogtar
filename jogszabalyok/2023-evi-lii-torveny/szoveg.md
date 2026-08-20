@@ -48,7 +48,7 @@ A nevelő-oktató munka és azt közvetlenül segítő feladatok elvégzése sor
 
 - a) – a gyermek mindenek felett álló érdekére figyelemmel – a köz szolgálatára irányuló jogviszony keretében az állam és az állam nevében eljáró munkáltató és a köznevelési foglalkoztatotti jogviszonyban álló, valamint a köznevelési dolgozó a jogait és kötelezettségeit az Alaptörvény XI. cikkében foglalt művelődéshez való jog és az Alaptörvény XVI. cikkében foglalt védelemhez és gondoskodáshoz való jog, valamint az Alaptörvény X. cikkében foglalt tanszabadsághoz való jog biztosítása és érvényre juttatása érdekében gyakorolják, illetve teljesítik,
 - b) a nevelésben-oktatásban kulcsszerepet játszó köznevelési foglalkoztatotti jogviszonyban álló feladata, hogy a gyermeknek és a tanulónak az Alaptörvény XI. cikke és XVI. cikke szerinti jogának mindenkori tiszteletben tartásával és biztosításával, a köznevelés folyamatos és zavartalan működése érdekében, az Alaptörvényben meghatározott általános jogi normákkal összhangban, a rábízott gyermekek, tanulók testi, lelki és szellemi fejlődését, jogait és érdekeit mindvégig szem előtt tartva – ismereteit, tudását folyamatosan megújítva és gyarapítva – hivatását akként végezze, hogy az általa nevelt és oktatott gyermekek, tanulók, a magyar nemzet elkötelezett, értékes tagjaivá válhassanak, és ennek eredményeképpen a köznevelésbe vetett közbizalom is erősödjék,
-- c) az érdekképviselettel egyeztetésre kötelezett a köznevelés-szakmai javaslatot a Nemzeti Pedagógus Karral, a foglalkoztatott munkaügyi és szociális érdekeit érintő javaslatot a szakszervezettel egyezteti.
+- c)
 
 #### 3. Értelmező rendelkezések
 
@@ -251,19 +251,9 @@ tartalmazhat.
 
 (1) A köznevelési intézményben a köznevelési intézmény igazgatója gyakorolja a munkáltatói jogokat, amelyek – a kinevezéssel, a munkaszerződés megkötésével, a köznevelési foglalkoztatotti jogviszony vagy a munkaviszony megszüntetésével, a besorolás és a havi illetmény vagy munkabér megállapításával, valamint a köznevelésben foglalkoztatottak egyéb juttatásai megállapításával kapcsolatos munkáltatói jogok kivételével – a köznevelési intézményen belül a szervezeti és működési szabályzatban meghatározott módon átruházhatók.
 
-(2) Az (1) bekezdésben foglaltaktól eltérően a tankerületi központ által, a tankerületi központ szervezeti egységeként működő köznevelési intézményben foglalkoztatottak tekintetében a munkáltatói jogokat a (3)–(7) bekezdés szerint kell gyakorolni.
+(2) A tankerületi központ fenntartásában működő köznevelési intézményben a kinevezéssel, a munkaszerződés megkötésével, a köznevelési foglalkoztatotti jogviszony vagy a munkaviszony megszüntetésével, a besorolás és a havi illetmény vagy munkabér megállapításával, valamint a köznevelésben foglalkoztatottak egyéb juttatásai megállapításával kapcsolatos munkáltatói jogokat az igazgató a tankerületi központ vezetőjének egyetértésével gyakorolja. A tankerületi központ vezetője az egyetértését csak akkor tagadhatja meg, ha a kinevezés, a munkaszerződés megkötése, a köznevelési foglalkoztatotti jogviszony vagy a munkaviszony megszüntetése, a besorolás és a havi illetmény vagy munkabér megállapítása, valamint a köznevelésben foglalkoztatottak egyéb juttatásai megállapítása jogszabályba ütközik vagy a költségvetési fedezet nem áll rendelkezésre. A tankerületi központ vezetője az igazgató munkáltatóijogkör-gyakorlás tartalmára vonatkozó írásbeli tájékoztatásától számított tizenöt napon belül közli nyilatkozatát az igazgatóval.
 
-(3) A kinevezéssel, a munkaszerződés megkötésével, a köznevelési foglalkoztatotti jogviszony vagy a munkaviszony megszüntetésével kapcsolatos munkáltatói jogokat – az igazgató javaslata alapján – a tankerületi központ vezetője gyakorolja. Ha a köznevelési intézmény igazgatója javaslatával a tankerületi központ vezetője nem ért egyet, a pedagógus és nevelő-oktató munkát közvetlenül segítő munkakörben alkalmazott kinevezéséről vagy jogviszonyának, munkaviszonyának megszüntetéséről az oktatási központ vezetője dönt. Ha a tankerületi központ által fenntartott köznevelési intézményben a pedagógus vagy a nevelő-oktató munkát közvetlenül segítő munkakörben alkalmazott a köznevelési foglalkoztatotti jogviszonyból eredő lényeges kötelezettségét szándékosan vagy súlyos gondatlansággal jelentős mértékben megszegi, vagy olyan magatartást tanúsít, amely a köznevelési foglalkoztatotti jogviszony fenntartását lehetetlenné teszi, rendkívüli felmentéséhez nincs szükség a köznevelési intézmény igazgatójának egyetértésére.
-
-(4) A tankerületi központ által fenntartott köznevelési intézményben a tankerületi központ vezetője határozza meg a munkavégzés helyét, valamint – ha a munkavégzés helyeként több, a tankerület fenntartása alá tartozó köznevelési intézmény került meghatározásra – a munkaidőnek az egyes köznevelési intézmények közötti megosztását.
-
-(5) Az igazgató gyakorolja a teljesítmény értékelésével és az annak alapján történő, az illetményeltérítés százalékos mértékére történő javaslattétellel kapcsolatos munkáltatói jogot.
-
-(6) A besorolás és a havi illetmény vagy a munkabér – ideértve az illetményeltérítést is – megállapítását, valamint a köznevelésben foglalkoztatottak egyéb juttatásai, jutalma megállapítását érintő munkáltatói jogkört a tankerületi központ vezetője az igazgató egyetértésével gyakorolja. Egyetértés hiányában a döntést az oktatási központ vezetője hozza meg.
-
-(7) A (3)–(4) és (6) bekezdésben foglaltakon kívüli munkáltatói jogokat a köznevelési intézmény igazgatója gyakorolja.
-
-(8) A tankerületi központ vezetője magához vonhatja a 81. § (2) bekezdésében meghatározott munkáltatói jogot.
+(3) Ha a munkavégzés helyeként több, ugyanazon tankerületi központ fenntartása alá tartozó köznevelési intézmény került meghatározásra, a tankerületi központ vezetője az érintett köznevelési intézmények igazgatóinak egyetértésével határozza meg a munkaidő intézmények közötti megosztását.
 
 #### 18. § [A köznevelési foglalkoztatotti jogviszonyban álló jognyilatkozatai]
 
@@ -608,6 +598,26 @@ személlyel létesíthető.
 
 (5) A munkáltató kezeli a pályázó személyes adatait a köznevelési foglalkoztatotti jogviszony létesítéséről szóló döntés meghozatalának időpontjáig, kivéve ha a pályázó adatai további kezeléséhez hozzájárul, abból a célból, hogy a későbbi pályázati lehetőségekről tájékoztatást kapjon.
 
+(6) Az igazgatói megbízásra benyújtott pályázat részét képező vezetői programot, illetve – ha pályázat kiírása nem kötelező – a jelölt által írásban benyújtott vagy a nevelőtestület értekezletén szóban bemutatott vezetői célokat (a továbbiakban együtt: vezetői program) a nevelési-oktatási intézményben működő szakmai munkaközösségek véleményezhetik, a nevelőtestület véleményezi.
+
+(7) Az igazgatói megbízásra irányuló döntés meghozatala előtt a fenntartó kikéri valamennyi, az intézményben pedagógus-munkakörben foglalkoztatott és nevelő-oktató munkát közvetlenül segítő munkakörben foglalkoztatott (e § alkalmazásában a továbbiakban együtt: alkalmazotti közösség) véleményét. Az alkalmazotti közösség abban a kérdésben foglal állást, hogy támogatja-e a jelölt igazgatói megbízását.
+
+(8) A fenntartó szabályzata, a munkáltató belső szabályzata vagy a nevelőtestület előzetes eseti döntése a nevelőtestület és az alkalmazotti közösség véleményének megalapozott kialakítása érdekében a szükséges szervezési, előkészítő feladatokat ellátó bizottságot vagy egyéb fórumot hozhat létre, és megállapíthatja ennek eljárását.
+
+(9) A (6)–(8) bekezdésben foglalt vélemények kialakításához – a pályázat, illetve a jelentkezés átvételétől számítva – összesen legalább harminc napot kell biztosítani. A véleményalkotásra megállapított határidő jogvesztő.
+
+(10) A nevelőtestület az alkalmazotti közösség értekezletét megelőzően titkos szavazással alakítja ki véleményét a jelölt által benyújtott vezetői programról. A nevelőtestületi értekezlet határozatképességéhez a nevelőtestület tagjai kétharmadának jelenléte szükséges. A nevelőtestület véleményét az alkalmazotti közösség értekezletén – a döntéshozatalt megelőzően – ismertetni kell. A nevelőtestület véleményét írásba kell foglalni, amelynek tartalmaznia kell a szakmai munkaközösség véleményét is.
+
+(11) Az alkalmazotti közösség értekezlete akkor határozatképes, ha az alkalmazotti közösség tagjainak legalább kétharmada jelen van. Az alkalmazotti közösség a jelölt támogatásáról titkos szavazással határoz.
+
+(12) Azt, akinek köznevelési foglalkoztatotti jogviszonya vagy munkaviszonya szünetel, és a meghívás ellenére sem jelent meg, a nevelőtestületi értekezlet, illetve az alkalmazotti közösségi értekezlet határozatképességének megállapításánál figyelmen kívül kell hagyni. Az óraadó tanár tanácskozási joggal vehet részt az alkalmazotti értekezleten, nevelőtestületi értekezleten, de a határozatképesség megállapításánál őt figyelmen kívül kell hagyni.
+
+(13) A nevelőtestületi értekezletre és az alkalmazotti közösség értekezletére meg kell hívni valamennyi jelöltet, kivéve, ha a benyújtott pályázata érvénytelen volt. A jelöltnek lehetőséget kell biztosítani, hogy a vélemény kialakítása előtt ismertesse a vezetői programját.
+
+(14) A jelölt nem vehet részt az alkalmazotti közösség, valamint a nevelőtestület véleményének kialakításában akkor, amikor személyéről, illetve a vezetői programjáról szavaznak. Ebben az esetben a jelöltet a határozatképesség magállapításánál is figyelmen kívül kell hagyni.
+
+(15) A vezetői programmal kapcsolatosan – az e törvény alapján véleményezésre jogosultak által – kialakított vélemény és a vélemény kialakításával kapcsolatos szavazás eredménye – ha a Magyarország helyi önkormányzatairól szóló törvény eltérően nem rendelkezik – közérdekből nyilvános adat, amelyet a köznevelési intézmény a honlapján, ennek hiányában a helyben szokásos módon nyilvánosságra hoz.
+
 #### 38. § [Egyházi intézményeknél foglalkoztatottakra vonatkozó sajátos szabályok]
 
 Ha a nevelési-oktatási intézményt egyházi jogi személy vagy a vallási egyesület tartja fenn
@@ -643,9 +653,9 @@ Ha a nevelési-oktatási intézményt egyházi jogi személy vagy a vallási egy
 
 (2) A határozott idejű köznevelési foglalkoztatotti jogviszony tartamát naptárilag vagy más alkalmas módon, megszüntető feltétel előírásával kell meghatározni. Ha a felek a köznevelési foglalkoztatotti jogviszony tartamát nem naptárilag határozták meg, a köznevelési foglalkoztatotti jogviszony megszűnésének időpontja nem függhet kizárólag az egyik fél akaratától. Ebben az esetben a munkáltató tájékoztatja a köznevelési foglalkoztatotti jogviszonyban állót a köznevelési foglalkoztatotti jogviszony várható tartamáról.
 
-(3) A határozott idejű köznevelési foglalkoztatotti jogviszony tartama a három évet nem haladhatja meg, beleértve a meghosszabbított és az előző határozott időre adott kinevezés megszűnésétől számított hat hónapon belül létesített újabb határozott tartamú köznevelési foglalkoztatotti jogviszony tartamát is. Kollektív szerződés a határozott idő leghosszabb tartamát három évnél rövidebb időtartamban is megállapíthatja.
+(3) A határozott idejű köznevelési foglalkoztatotti jogviszony tartama az öt évet nem haladhatja meg, beleértve a meghosszabbított és az előző határozott időre adott kinevezés megszűnésétől számított hat hónapon belül létesített újabb határozott tartamú köznevelési foglalkoztatotti jogviszony tartamát is. Kollektív szerződés a határozott idő leghosszabb tartamát öt évnél rövidebb időtartamban is megállapíthatja.
 
-(4) Ha a köznevelési foglalkoztatotti jogviszony létesítéséhez hatósági engedély szükséges, a köznevelési foglalkoztatotti jogviszony legfeljebb az engedélyben meghatározott tartamra létesíthető. Az engedély meghosszabbítása esetén az újabb határozott idejű köznevelési foglalkoztatotti jogviszony tartama – a korábban létesített köznevelési foglalkoztatotti jogviszony tartamával együtt – a három évet meghaladhatja.
+(4) Ha a köznevelési foglalkoztatotti jogviszony létesítéséhez hatósági engedély szükséges, a köznevelési foglalkoztatotti jogviszony legfeljebb az engedélyben meghatározott tartamra létesíthető. Az engedély meghosszabbítása esetén az újabb határozott idejű köznevelési foglalkoztatotti jogviszony tartama – a korábban létesített köznevelési foglalkoztatotti jogviszony tartamával együtt – az öt évet meghaladhatja.
 
 #### 41. § [Próbaidő]
 
@@ -2570,7 +2580,9 @@ E fejezet alkalmazásában
 
 #### 136. § [A munkaügyi kapcsolatok alapelve]
 
-A köznevelésben foglalkoztatottak szociális és gazdasági érdekeinek védelme érdekében e törvény szabályozza a szakszervezet és a munkáltatók, vagy érdekképviseleti szervezeteik kapcsolatrendszerét. Ennek keretében biztosítja a szervezkedés szabadságát, a köznevelési foglalkoztatotti jogviszonyban vagy munkaviszonyban állók részvételét a munkafeltételek alakításában, meghatározza a munkaügyi konfliktusok megelőzésére, feloldására irányuló eljárást.
+(1) A köznevelésben foglalkoztatottak szociális és gazdasági érdekeinek védelme érdekében e törvény szabályozza a szakszervezet és a munkáltatók, vagy érdekképviseleti szervezeteik kapcsolatrendszerét. Ennek keretében biztosítja a szervezkedés szabadságát, a köznevelési foglalkoztatotti jogviszonyban vagy munkaviszonyban állók részvételét a munkafeltételek alakításában, meghatározza a munkaügyi konfliktusok megelőzésére, feloldására irányuló eljárást.
+
+(2) A munkáltató a nála képviselettel rendelkező szakszervezetek között az őket megillető jogosultságok biztosítása tekintetében különbséget nem tehet.
 
 #### 137. § [Érdekképviseleti szervezetek]
 
@@ -2623,22 +2635,9 @@ A köznevelési ágazati, fenntartói, valamint tankerületi központi szintű �
 
 #### 144. § [Szakszervezet]
 
-(1) A köznevelési ágazati, fenntartói, valamint tankerületi központi szintű érdekegyeztetésben véleményezési, egyetértési és konzultációs joggal az a szakszervezet rendelkezik, amelynek
+(1) A köznevelési ágazati szintű érdekegyeztetésben véleményezési és konzultációs joggal a köznevelés területén működő szakszervezet rendelkezik.
 
-- a) ágazati szinten a köznevelési foglalkoztatotti jogviszonyban és munkaviszonyban álló tagjainak száma eléri a köznevelési ágazatban,
-- b) fenntartói szinten a köznevelési foglalkoztatotti jogviszonyban és munkaviszonyban álló tagjainak száma eléri – a tankerületi központ munkáltató kivételével – az állami, valamint a nem állami fenntartó által területi (vármegyei) vagy települési szinten fenntartott
-
-e törvény hatálya alá tartozó munkáltatóknál köznevelési foglalkoztatotti jogviszonyban álló és a köznevelésben foglalkoztatottak létszámának tíz százalékát.
-
-(2) Az (1) bekezdés b) pontjától eltérően a tankerületi központ munkáltató esetén véleményezési, egyetértési és konzultációs joggal az a szakszervezet rendelkezik, amelynek járási, vármegyei szinten a köznevelési foglalkoztatotti jogviszonyban álló vagy köznevelésben foglalkoztatott tagjainak száma eléri a tankerületi központ illetékességi területén köznevelési foglalkoztatotti jogviszonyban és a köznevelés területén munkaviszonyban foglalkoztatott létszámának tíz százalékát.
-
-(3) Az (1) bekezdés b) pontjától és a (2) bekezdéstől eltérően, ha fenntartói vagy munkáltatói szinten a tíz százalékos tagsági feltétellel rendelkező szakszervezet nem működik, az adott szinten a legnagyobb tagsággal rendelkező szakszervezet rendelkezik véleményezési, egyetértési és konzultációs joggal.
-
-(4) Az (1)–(3) bekezdés szerinti szakszervezet foglalkoztatotti létszámának megállapítása során a köznevelési foglalkoztatotti jogviszonyban és a munkaviszonyban állókat együttesen kell számításba venni.
-
-(5) Az (1)–(3) bekezdésben meghatározott létszámarány meglétét a szakszervezet igazolja azzal, hogy ennek érdekében jogosult a hivataltól a tagjai és az ágazati létszám megállapítása érdekében a tagjai tekintetében foglalkoztatási, valamint az ágazat tekintetében létszámadatokat igényelni és azt felhívásra az egyeztetésen résztvevők, valamint a fenntartók számára köteles bemutatni. A tagokra vonatkozó foglalkoztatási adatokat a szakszervezet a tagsági jogviszony megszűnésétől számított egy évig kezeli.
-
-(6) A munkavállalói érdekképviseleti tagdíjfizetés önkéntességéről szóló 1991. évi XXIX. törvénytől eltérően a köznevelés területén működő munkáltató a köznevelésben foglalkoztatottak illetményéből vagy munkabéréből szakszervezeti vagy egyéb érdekképviseleti tagdíjat nem vonhat le és nem utalhat tovább.
+(2) A fenntartói, tankerületi központi, valamint munkáltatói szintű érdekegyeztetésben véleményezési és konzultációs joggal az a szakszervezet rendelkezik, amely a munkáltatónál, vagy az adott fenntartóhoz tartozó valamely munkáltatónál képviselettel rendelkezik.
 
 #### 21. A köznevelés területén működő szakszervezetek
 
@@ -2658,6 +2657,8 @@ e törvény hatálya alá tartozó munkáltatóknál köznevelési foglalkoztato
 
 (2) A szakszervezet jogosult a köznevelésben foglalkoztatottakat a munkaügyi kapcsolatokkal vagy a köznevelési foglalkoztatotti jogviszonnyal, munkaviszonnyal összefüggő kérdésekben a 139. § keretei között tájékoztatni.
 
+(2a) A munkáltató – a szakszervezettel egyeztetve – biztosítja annak lehetőségét, hogy a szakszervezet a tevékenységével kapcsolatos tájékoztatást a munkáltatónál közzétegye.
+
 (3) A szakszervezet a munkáltatótól a köznevelésben foglalkoztatottak jogviszonyával összefüggő gazdasági és szociális érdekeivel kapcsolatban tájékoztatást kérhet.
 
 (4) A szakszervezet jogosult a munkáltatói intézkedéssel, döntéssel vagy annak tervezetével kapcsolatos véleményét a munkáltatóval közölni, ezzel összefüggésben konzultációt kezdeményezni.
@@ -2669,6 +2670,8 @@ e törvény hatálya alá tartozó munkáltatóknál köznevelési foglalkoztato
 (7) A szakszervezet – a munkáltatóval történt megállapodás szerint – jogosult arra, hogy munkaidő után vagy munkaidőben a munkáltató helyiségeit érdekképviseleti tevékenysége céljából használhassa.
 
 (8) A szakszervezet képviseletében eljáró, a munkáltatóval köznevelési foglalkoztatotti jogviszonyban vagy munkaviszonyban nem álló személy, ha a szakszervezetnek a munkáltatóval köznevelési foglalkoztatotti jogviszonyban vagy munkaviszonyban álló tagja van, a munkáltató területére beléphet. A belépés és a munkahelyen való tartózkodás során a munkáltató működési rendjére vonatkozó szabályokat meg kell tartani.
+
+(9) A munkáltató a munkavállalói érdekképviseleti tagdíjfizetés önkéntességéről szóló törvény alapján a szakszervezeti tagdíj levonásáért és a szakszervezet részére történő átutalásáért ellenértéket nem követelhet.
 
 #### 147. § [A szakszervezeti tisztségviselők munkajogi védelme]
 
@@ -2787,6 +2790,43 @@ köznevelésben foglalkoztatottak létszámának tíz százalékát.
 (1) A munkáltató személyében bekövetkező változás esetén az átvevő munkáltató az átvétel időpontjában a köznevelési foglalkoztatotti jogviszonyra, munkaviszonyra kiterjedő hatályú kollektív szerződésben meghatározott munkafeltételeket az átvétel időpontját követő egy évig köteles fenntartani.
 
 (2) Nem terheli az (1) bekezdésben foglalt kötelezettség a munkáltatót, ha a kollektív szerződés hatálya az átvétel időpontját követő egy évnél korábbi időpontban megszűnik, vagy a köznevelési foglalkoztatotti jogviszonyra, munkaviszonyra az átvételt követő időpontban kollektív szerződés hatálya terjed ki.
+
+#### 22/A. A még elégséges szolgáltatás a köznevelés területén
+
+#### 154/A. § [A még elégséges szolgáltatás tartalma]
+
+(1) Az Nkt. hatálya alá tartozó köznevelési intézmények tekintetében a sztrájkról szóló törvény szerinti még elégséges szolgáltatás körébe – a sztrájkkal érintett köznevelési intézménnyel jogviszonyban álló gyermek, tanuló vonatkozásában – az e §-ban meghatározott szolgáltatások tartoznak.
+
+(2) A gyermek, tanuló felügyeletét (a továbbiakban: gyermekfelügyelet) a sztrájkkal érintett munkanapon hét és tizenöt óra között kell biztosítani. Ettől eltérően a kollégiumban az ott-tartózkodás ideje alatt biztosítandó a gyermekfelügyelet.
+
+(3) A gyermekfelügyelet biztosítható a fenntartó által fenntartott más, azonos típusú köznevelési intézményben és – legfeljebb ötven főig – összevont csoportban, osztályban is. Ettől eltérően sajátos nevelési igényű vagy a beilleszkedési, tanulási, magatartási nehézséggel küzdő gyermek, tanuló esetében gyermekfelügyeletet a sztrájkot megelőzően fennállt körülmények között és helyszínen kell biztosítani.
+
+(4) A gyermekfelügyeletet csoportonként, osztályonként legalább egy pedagógus, óvodapedagógus, gyógypedagógus, kollégiumi nevelő, oktató vagy
+
+- a) óvodában dajka, pedagógiai, gyógypedagógiai asszisztens,
+- b) az iskola 1–4. évfolyamán pedagógiai, gyógypedagógiai asszisztens,
+- c) az iskola 5. évfolyamától felfelé nevelő-oktató munkát közvetlenül segítő munkakörben foglalkoztatott
+
+köznevelési foglalkoztatotti jogviszonyban álló vagy óraadó biztosíthatja.
+
+(5) A sztrájkkal érintett köznevelési intézményben a gyermekfelügyelet ideje alatt biztosítandó a gyermek, tanuló számára az étkeztetés, a kollégiumban elhelyezett tanuló számára továbbá a lakhatás és a felügyelet.
+
+(6) Az érettségiző középiskolai osztály tanulója számára a kötelező érettségi tantárgy tekintetében az érettségi vizsgáról szóló jogszabályban meghatározott felkészítési óraszám száz százaléka megtartandó, ha
+
+- a) a sztrájkra az érettségi vizsga tervezett időpontját megelőző kilencven napban kerül sor, és
+- b) a sztrájk időtartama egybefüggően, vagy harmincnapos időtartam alatt az öt munkanapot meghaladta.
+
+#### 154/B. § [A még elégséges szolgáltatás megszervezése]
+
+(1) A sztrájkban érintett köznevelési intézményben sztrájkot szervező helyi sztrájkbizottság, ennek hiányában a helyi sztrájkszervező (a továbbiakban együtt: helyi sztrájkbizottság) a tervezett sztrájkot megelőző ötödik munkanapon legkésőbb tizenhat óráig tájékoztatja a köznevelési intézmény igazgatóját a sztrájkszándékról, majd legkésőbb a tervezett sztrájk napját megelőző harmadik munkanapon tizenhat óráig a sztrájkban várhatóan részt vevő köznevelési foglalkoztatotti jogviszonyban állók létszámáról és személyéről.
+
+(2) Az igazgató a tervezett sztrájkot megelőző napon legkésőbb tizenhat óráig közli a sztrájk első napjára érvényes munkaidő-beosztást a még elégséges szolgáltatás biztosítása érdekében; a sztrájk esetleges további napjai tekintetében szintén előző nap tizenhat óráig tájékoztatja a helyi sztrájkbizottságot arról, hogy a sztrájk időtartama alatt a sztrájkkal érintett óvodai csoportban, iskolai osztályban, kollégiumi csoportban, valamint pedagógiai szakszolgálati intézményben, illetve a pedagógiai szakmai szolgáltatást nyújtó intézményben várhatóan hány fő gyermek, tanuló lesz jelen a tervezett sztrájk időtartama alatt.
+
+(3) A sztrájk időtartamáról, a sztrájkban részt vevők várható létszámáról, a sztrájknak a gyermekek, tanulók nevelése, felügyelete kapcsán releváns részleteiről az igazgató legkésőbb a sztrájkot megelőző második munkanapon tizenhat óráig tájékoztatja az érintett gyermekek, tanulók szüleit.
+
+(4) Az igazgató a még elégséges szolgáltatás biztosítása érdekében a sztrájkoló köznevelési foglalkoztatotti jogviszonyban állót munkavégzési kötelezettség teljesítésére kötelezheti. A még elégséges szolgáltatás biztosítása érdekében munkavégzésre utasított köznevelési foglalkoztatotti jogviszonyban álló erre az időszakra arányos illetményére, munkabérére jogosult.
+
+(5) Az (1)–(4) bekezdést egy napon legfeljebb összesen két órán át tartó figyelmeztető sztrájk esetén nem kell alkalmazni.
 
 ### VIII. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
@@ -3020,6 +3060,10 @@ együttes összege azzal, hogy annak az érintettnek, akinek a havi illetménye,
 #### 163/A. § [Átmeneti rendelkezés a teljesítményértékelés szabályainak alkalmazásához]
 
 A 2025/2026. tanév, óvoda esetében az ugyanezen időszakra eső nevelési év során a 98. § (3) bekezdése szerinti teljesítményértékelést a munkáltató nem folytatja le.
+
+#### 163/B. § [Átmeneti rendelkezés a határozott időre szóló köznevelési foglalkoztatotti jogviszonyhoz]
+
+E törvénynek a közneveléssel kapcsolatos egyes törvények módosításáról szóló 2026. évi XLVII. törvénnyel (a továbbiakban: Módtv.) módosított 40. § (3) és (4) bekezdését a Módtv. hatálybalépésekor fennálló határozott idejű köznevelési foglalkoztatotti jogviszonyokra is alkalmazni kell, továbbá a határozott időre szóló kinevezés öt éves időtartamába a Módtv. hatálybalépését megelőzően fennállt köznevelési foglalkoztatotti jogviszony idejét is be kell számítani.
 
 #### 26. Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 
