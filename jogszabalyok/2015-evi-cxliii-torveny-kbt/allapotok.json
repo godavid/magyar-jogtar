@@ -403,5 +403,10 @@
     "datum": "2026-08-08",
     "verzio": 84,
     "sha": "b668ec7511f2cf42d318516c16b4cb48db3de333"
+  },
+  {
+    "datum": "2026-08-20",
+    "verzio": 81,
+    "sha": "5e8258b93c43d6d5341cd59076beaeed215d033d"
   }
 ]

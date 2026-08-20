@@ -6492,6 +6492,11 @@
       "datum": "2026-08-08",
       "verzio": 84,
       "sha": "b668ec7511f2cf42d318516c16b4cb48db3de333"
+    },
+    {
+      "datum": "2026-08-20",
+      "verzio": 81,
+      "sha": "5e8258b93c43d6d5341cd59076beaeed215d033d"
     }
   ],
   "1997-evi-clv-torveny-fgytv": [
@@ -8922,6 +8927,11 @@
       "datum": "2026-05-14",
       "verzio": 88,
       "sha": "1a8a5052087fa52c22b23a55d088b7fe11a43732"
+    },
+    {
+      "datum": "2026-08-20",
+      "verzio": 90,
+      "sha": "5e8258b93c43d6d5341cd59076beaeed215d033d"
     }
   ],
   "2011-evi-cciv-torveny-nftv": [
@@ -18528,6 +18538,11 @@
       "datum": "2026-01-01",
       "verzio": 141,
       "sha": "0dbc837346ba393025b8873580baa6c877b7d4db"
+    },
+    {
+      "datum": "2026-08-20",
+      "verzio": 143,
+      "sha": "5e8258b93c43d6d5341cd59076beaeed215d033d"
     }
   ],
   "1992-evi-xxxv-torveny": [
@@ -101485,6 +101500,11 @@
       "datum": "2026-01-01",
       "verzio": 29,
       "sha": "751cb950ce6eaae8d168db35cd94add760c27f35"
+    },
+    {
+      "datum": "2026-08-20",
+      "verzio": 31,
+      "sha": "5e8258b93c43d6d5341cd59076beaeed215d033d"
     }
   ],
   "2015-evi-lviii-torveny": [
@@ -105829,6 +105849,11 @@
       "datum": "2026-07-29",
       "verzio": 24,
       "sha": "b6206e52e237e6b3ae2b371ccdda5513fc9ffbdc"
+    },
+    {
+      "datum": "2026-08-20",
+      "verzio": 25,
+      "sha": "5e8258b93c43d6d5341cd59076beaeed215d033d"
     }
   ],
   "2016-evi-xxxi-torveny": [
@@ -130423,6 +130448,11 @@
       "datum": "2025-07-20",
       "verzio": 12,
       "sha": "712cd5251b97ebcb2803efb8d79c632a2937790e"
+    },
+    {
+      "datum": "2026-08-20",
+      "verzio": 13,
+      "sha": "5e8258b93c43d6d5341cd59076beaeed215d033d"
     }
   ],
   "2022-evi-vi-torveny": [
@@ -134219,6 +134249,11 @@
       "datum": "2026-07-11",
       "verzio": 18,
       "sha": "707c26996d0bba64d7cd906a5da362034d8b5b71"
+    },
+    {
+      "datum": "2026-08-20",
+      "verzio": 19,
+      "sha": "5e8258b93c43d6d5341cd59076beaeed215d033d"
     }
   ],
   "2023-evi-liii-torveny": [
@@ -143171,6 +143206,11 @@
       "datum": "2026-07-16",
       "verzio": 4,
       "sha": "4af2815120a8297d053fdbbf2e2db7bd590fc286"
+    },
+    {
+      "datum": "2026-08-20",
+      "verzio": 5,
+      "sha": "5e8258b93c43d6d5341cd59076beaeed215d033d"
     }
   ],
   "2026-evi-xix-torveny": [
