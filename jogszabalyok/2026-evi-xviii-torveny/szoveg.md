@@ -230,17 +230,7 @@ az európai uniós forrásokhoz való hozzáférés érdekében szükséges egye
 
 #### 81. §
 
-82. § A közbeszerzésekről szóló 2015. évi CXLIII. törvény 43. § (2) bekezdése a következő g) ponttal egészül ki:
-
-(Az ajánlatkérő köteles az EKR-ben közzétenni)
-
-„g) az egy évnél hosszabb vagy határozatlan időre kötött szerződések tekintetében a szerződés megkötését követően 12 havonta, a 43. § (1) bekezdés c) pontja szerinti adatokon kívül
-
-ga) az adott időszakban teljesített szolgáltatások vagy szállítások rövid leírását,
-
-gb) az adott időszakban teljesített kifizetések összegét, és
-
-gc) a szerződéstől eltérő teljesítés esetén az erre vonatkozó információkat.”
+#### 82. §
 
 #### 83. §
 
@@ -248,9 +238,7 @@ gc) a szerződéstől eltérő teljesítés esetén az erre vonatkozó informác
 
 #### 85. §
 
-86. § A közbeszerzésekről szóló 2015. évi CXLIII. törvény 126. §-a a következő (8) bekezdéssel egészül ki:
-
-„(8) Az eljárás – az (5)–(7) bekezdésben foglaltak mellett – eredménytelen, ha kizárólag egy ajánlatot nyújtottak be, kivéve, ha az ajánlatkérő objektív módszerrel igazolja, hogy a verseny hiánya a piac tényleges szerkezetének következménye. Az eljárás eredményessé nyilvánítása esetén az ajánlatkérő az összegezésben ismerteti az e bekezdés szerinti vizsgálatának eredményét.”
+#### 86. §
 
 #### 87. §
 
@@ -266,13 +254,7 @@ gc) a szerződéstől eltérő teljesítés esetén az erre vonatkozó informác
 
 #### 93. §
 
-94. § (1) A közbeszerzésekről szóló 2015. évi CXLIII. törvény 197. §-a a következő (30) bekezdéssel egészül ki:
-
-„(30) E törvénynek az európai uniós forrásokhoz való hozzáférés érdekében szükséges egyes törvények módosításáról szóló 2026. évi XVIII. törvénnyel (a továbbiakban Mód9. tv.) megállapított 43. § (2) bekezdés g) pontját azon szerződések tekintetében is alkalmazni kell, amelyek teljesítése a Mód9. tv hatálybalépésekor még nem zárult le.”
-
-(2) A közbeszerzésekről szóló 2015. évi CXLIII. törvény 197. §-a a következő (31) bekezdéssel egészül ki:
-
-„(31) E törvénynek a Mód9. tv. által megállapított 9. § (1) bekezdés a) és b) pontját, 24. § (2) bekezdés a) pontját és (4) bekezdés a) pontját, valamint 145. § (6) és (6a) bekezdését azon beszerzések tekintetében kell alkalmazni, amelyek tekintetében az Országgyűlés illetékes bizottságának döntésére a Mód9. tv. hatálybalépését követően került sor.”
+#### 94. §
 
 #### 95. §
 
