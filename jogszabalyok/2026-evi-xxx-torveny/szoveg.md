@@ -16,7 +16,7 @@ a Magyar Köztársaság Kormánya és a Szlovák Köztársaság Kormánya közö
 
 (2) A Jegyzőkönyv hiteles angol nyelvű szövegét a 2. melléklet tartalmazza.
 
-4. § Az Országgyűlés jóváhagyja a Jegyzőkönyv ideiglenes alkalmazását.
+#### 4. §
 
 5. § (1) Ez a törvény a kihirdetését követő napon lép hatályba.
 
