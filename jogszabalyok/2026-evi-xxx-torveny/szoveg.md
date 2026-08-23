@@ -20,7 +20,7 @@ a Magyar Köztársaság Kormánya és a Szlovák Köztársaság Kormánya közö
 
 5. § (1) Ez a törvény a kihirdetését követő napon lép hatályba.
 
-(2) A 4. § a Jegyzőkönyv 3. cikk (2) bekezdésében meghatározott időpontban hatályát veszíti.
+(2)
 
 (3) A (2) bekezdésben meghatározott időpont naptári napját a külpolitikáért felelős miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.
 
