@@ -7,6 +7,11 @@
   {
     "datum": "2026-08-22",
     "verzio": 2,
-    "sha": "c0e466c79121f86c16f851ac9681b81baf39733a"
+    "sha": "d7210ba612710dac2c22a2aac5e9b9eef32f455c"
+  },
+  {
+    "datum": "2026-08-23",
+    "verzio": 3,
+    "sha": "ca453e598c6e4bfccca16ff05d3eec9f877ccd2e"
   }
 ]
