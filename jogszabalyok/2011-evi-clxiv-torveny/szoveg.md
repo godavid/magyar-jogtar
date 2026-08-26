@@ -686,7 +686,25 @@ véleményét a pályázóról.
 
 44. § (1) Az ügyész nem lehet országgyűlési, európai parlamenti, önkormányzati képviselő, nemzetiségi szószóló, polgármester és állami vezető.
 
-(2) Összeférhetetlenség miatt meg kell szüntetni a legfőbb ügyész, a legfőbb ügyész helyettes ügyészségi szolgálati jogviszonyát, ha vagyonnyilatkozat-tételi kötelezettségének teljesítését megtagadja, a teljesítést elmulasztja, vagy vagyonnyilatkozatában lényeges adatot, tényt valótlanul közöl.
+(2) Összeférhetetlenség miatt meg kell szüntetni a legfőbb ügyész, a legfőbb ügyész helyettes ügyészségi szolgálati jogviszonyát, ha vagyonnyilatkozat-tételi kötelezettségének teljesítését megtagadja, a teljesítést elmulasztja, vagy vagyonnyilatkozatában lényeges adatot, tényt valótlanul közöl. Az összeférhetetlenséget
+
+- a) a legfőbb ügyész esetében a köztársasági elnök javaslatára az Országgyűlés,
+- b) a legfőbb ügyész helyettes esetében a legfőbb ügyész javaslatára a köztársasági elnök
+
+állapítja meg.
+
+(3) Ha az európai uniós költségvetési források felhasználásának ellenőrzéséről szóló törvény rendelkezései szerint az Integritás Hatóság jelentésében azt állapítja meg, hogy a legfőbb ügyész vagy a legfőbb ügyész helyettese a vagyonnyilatkozat-tételi kötelezettségét elmulasztotta, illetve hogy abban lényeges adatot, tényt szándékosan valótlanul közölt, az összeférhetetlenség megállapítását – a (2) bekezdésben meghatározottak szerint – a köztársasági elnök, illetve a legfőbb ügyész kezdeményezi.
+
+(4) Ha az Integritás Hatóság a (3) bekezdés szerinti vizsgálata alapján hozott jelentésében a vagyonnyilatkozat kapcsán a (3) bekezdés alá nem tartozó – kizárólag adminisztratív jellegű, ugyanakkor csekély vagy elhanyagolható jelentőséget meghaladó – hiányosságot tárt fel, a jelentés megállapításainak figyelembevételével
+
+- a) a legfőbb ügyésszel szemben az (5)–(7) bekezdés szerint bírság kiszabását kezdeményezi az Országgyűlés Mentelmi Bizottságánál,
+- b) a legfőbb ügyész helyettesével szemben fegyelmi eljárást kezdeményez a legfőbb ügyésznél.
+
+(5) A bírság kiszabására az összeférhetetlenségi eljárásra vonatkozó rendelkezéseket az e §-ban meghatározott eltérésekkel kell alkalmazni. Ha az eljárás alapján megállapításra kerül, hogy az Integritás Hatóság (3) bekezdés szerinti vizsgálata alapján hozott jelentésében feltárt hiányosság megalapozott, – a felrótt mulasztás súlyának figyelembevételével – a Mentelmi Bizottság százezertől ötmillió forintig terjedő bírság megállapításáról dönt. A bírság teljesítését úgy kell biztosítani, hogy az a központi költségvetés ügyészségre vonatkozó fejezete működési költségvetésének bevételét képezze.
+
+(6) A legfőbb ügyész a bírságról szóló döntés írásbeli közlését követő nyolc napon belül kérheti az Országgyűléstől – a házelnökhöz benyújtott kérelemmel – a döntés hatályon kívül helyezését. A kérelemről az Országgyűlés vita nélkül, a kérelem benyújtását követő ülésén határoz, ha a kérelem legkésőbb az ülést megelőző hét utolsó munkanapján beérkezik. Ellenkező esetben az Országgyűlés a kérelemről az annak benyújtását követő második ülésén dönt.
+
+(7) Az Országgyűlés a (6) bekezdés szerinti kérelem esetén a Mentelmi Bizottság döntését hatályában fenntarthatja, vagy a kérelemnek helyt adva azt hatályon kívül helyezheti.
 
 45. § (1) Az ügyész a tisztsége ellátásán kívül nem folytathat kereső tevékenységet, kivéve a tudományos és oktatói (edzői, versenybírói, játékvezetői), művészi, szerzői jogi védelemben részesülő, továbbá a lektori és szerkesztői, műszaki alkotó munkát és a nevelőszülői foglalkoztatási jogviszony létesítését, feltéve, hogy ezzel nem veszélyezteti függetlenségét és pártatlanságát, valamint nem akadályozza hivatali kötelezettségei teljesítését.
 
@@ -706,7 +724,7 @@ véleményét a pályázóról.
 
 (2) Az ügyész az Alaptörvény 29. cikk (6) bekezdésében és az e törvény 44. § (1) bekezdésében meghatározott összeférhetetlenségi okot legkésőbb a kinevezésekor (megválasztásakor), a 45. § (1)–(2) bekezdésében meghatározott összeférhetetlenségi okot pedig a kinevezéstől (megválasztásától) számított tizenöt napon belül köteles megszüntetni. Ennek megtörténtéig az ügyész a tisztségéből eredő jogkörét nem gyakorolhatja.
 
-(3) Ha az ügyész a (2) bekezdésben írt kötelezettségének az előírt ideig nem tesz eleget, vagy tisztsége gyakorlása során vele szemben összeférhetetlenségi ok merül fel
+(3) Ha az ügyész a (2) bekezdésben írt kötelezettségének az előírt ideig nem tesz eleget, vagy tisztsége gyakorlása során vele szemben összeférhetetlenségi ok merül fel – a 44. § (2) bekezdésében foglalt eset kivételével –
 
 - a) a legfőbb ügyész esetében a köztársasági elnök,
 - b) a többi ügyész esetében pedig a legfőbb ügyész – az ügyészi tanács előzetes véleményét kikérve –
@@ -2201,6 +2219,10 @@ kerülhet sor.
 165/U. § (1) A legfőbb ügyész és a legfőbb ügyész helyettese az európai uniós költségvetési források felhasználásának ellenőrzésével összefüggő egyes, vagyonnyilatkozattal kapcsolatos törvények módosításáról szóló 2022. évi XXXI. törvénnyel megállapított rendelkezéseknek megfelelően, az Európai Bizottság kérésére egyes törvényeknek a kondicionalitási eljárás eredményes lezárása érdekében szükséges módosításáról szóló 2022. évi LVI. törvénnyel megállapított tartalommal és formában először – 2022. november 1. napján fennálló állapot szerint − 2023. január 31-ig tesz vagyonnyilatkozatot, amelyhez csatolja a vele közös háztartásban élő házas- vagy élettársának, gyermekeinek vagyonnyilatkozatát is.
 
 (2) Az európai uniós költségvetési források felhasználásának ellenőrzésével összefüggő egyes, vagyonnyilatkozattal kapcsolatos törvények módosításáról szóló 2022. évi XXXI. törvény hatálybalépése napján folyamatban lévő vagyonnyilatkozattal kapcsolatos eljárásokban az eljárás megindulása napján hatályos szabályokat kell alkalmazni.
+
+(3) A legfőbb ügyész és a legfőbb ügyész helyettese az európai uniós forrásokhoz való hozzáférés érdekében szükséges egyes törvények módosításáról szóló 2026. évi XVIII. törvény által megállapított tartalommal és formában először – 2026. december 31. napján fennálló állapot szerint − 2027. január 31-ig tesz vagyonnyilatkozatot, amelyhez csatolja a vele közös háztartásban élő − a Polgári Törvénykönyvről szóló törvény szerinti − hozzátartozója vagyonnyilatkozatát is.
+
+(4) Az európai uniós forrásokhoz való hozzáférés érdekében szükséges egyes törvények módosításáról szóló 2026. évi XVIII. törvény hatálybalépése napján folyamatban lévő vagyonnyilatkozattal kapcsolatos eljárásokban az eljárás megindulása napján hatályos szabályokat kell alkalmazni.
 
 165/V. § (1) E törvénynek az egyes foglalkoztatási tárgyú törvények módosításáról szóló 2022. évi LXXIV. törvénnyel (a továbbiakban: Módtv2.) megállapított rendelkezéseit – e törvény eltérő rendelkezése hiányában – a hatálybalépésekor fennálló jogviszonyokra is alkalmazni kell.
 

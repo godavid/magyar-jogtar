@@ -117,7 +117,7 @@ a védelmére.
 
 9. § (1) Az alapvető jogok biztosa és helyettese a megválasztását követő harminc napon belül vagyonnyilatkozatot tesz. A vagyonnyilatkozatra az országgyűlési képviselők vagyonnyilatkozatára vonatkozó szabályokat – az e törvényben meghatározott eltérésekkel – kell megfelelően alkalmazni.
 
-(2) Az alapvető jogok biztosa és helyettese a vagyonnyilatkozatához csatolni köteles a vele közös háztartásban élő házas- vagy élettársának, gyermekeinek (a továbbiakban együtt: családtag) az alapvető jogok biztosa és helyettese vagyonnyilatkozatával azonos tartalmú vagyonnyilatkozatát.
+(2) Az alapvető jogok biztosa és helyettese a vagyonnyilatkozatához csatolni köteles a vele közös háztartásban élő − a Polgári Törvénykönyvről szóló törvény szerinti – hozzátartozóinak (a továbbiakban együtt: családtag) az alapvető jogok biztosa és helyettese vagyonnyilatkozatával azonos tartalmú vagyonnyilatkozatát.
 
 (3) A vagyonnyilatkozat-tétel elmulasztása esetén – a vagyonnyilatkozat benyújtásáig – az alapvető jogok biztosa és helyettese megbízatását nem gyakorolhatja, javadalmazásban nem részesül.
 
@@ -189,6 +189,14 @@ a védelmére.
 
 (6) Tisztségtől való megfosztással szűnhet meg az alapvető jogok biztosának a megbízatása, ha az alapvető jogok biztosa neki felróható okból kilencven napon túlmenően nem tesz eleget megbízatásából eredő kötelezettségeinek, vagyonnyilatkozat-tételi kötelezettségét szándékosan elmulasztja, vagy a vagyonnyilatkozatban lényeges adatot, tényt szándékosan valótlanul közöl. A tisztségtől való megfosztást az arra alapot adó okok vizsgálatát követően az összeférhetetlenségi bizottság indítványozhatja.
 
+(7) Ha az európai uniós költségvetési források felhasználásának ellenőrzéséről szóló törvény rendelkezései szerint az Integritás Hatóság jelentésében azt állapítja meg, hogy az alapvető jogok biztosa a vagyonnyilatkozat-tételi kötelezettségét elmulasztotta, illetve hogy abban lényeges adatot, tényt szándékosan valótlanul közölt, a tisztségtől való megfosztást az arra alapot adó okok vizsgálatát követően az összeférhetetlenségi bizottság köteles indítványozni.
+
+(8) Ha az európai uniós költségvetési források felhasználásának ellenőrzéséről szóló törvény rendelkezései szerint az Integritás Hatóság jelentésében az alapvető jogok biztosának vagyonnyilatkozata kapcsán a (7) bekezdés alá nem tartozó – kizárólag adminisztratív jellegű, ugyanakkor csekély vagy elhanyagolható jelentőséget meghaladó – hiányosságot tárt fel, az összeférhetetlenségi bizottság a jelentés megállapításainak figyelembevételével az ellenőrzést haladéktalanul lefolytatja, és ha a hiányosság feltárása megalapozott, döntésében százezertől ötmillió forintig terjedő bírságot állapít meg. A bírság teljesítését úgy kell biztosítani, hogy az a központi költségvetés Alapvető Jogok Biztosának Hivatalára vonatkozó fejezete működési költségvetésének bevételét képezze.
+
+(9) Az alapvető jogok biztosa a bírságról szóló döntés írásbeli közlését követő nyolc napon belül kérheti az Országgyűléstől – a házelnökhöz benyújtott kérelemmel – a döntés hatályon kívül helyezését. A kérelemről az Országgyűlés vita nélkül, a kérelem benyújtását követő ülésén határoz, ha a kérelem legkésőbb az ülést megelőző hét utolsó munkanapján beérkezik. Ellenkező esetben az Országgyűlés a kérelemről az annak benyújtását követő második ülésén dönt.
+
+(10) Az Országgyűlés a (9) bekezdés szerinti kérelem esetén az összeférhetetlenségi bizottság döntését hatályában fenntarthatja, vagy a kérelemnek helyt adva azt hatályon kívül helyezheti.
+
 17. § (1) Az alapvető jogok biztosa helyettesének megbízatása megszűnik
 
 - a) a megbízatási időtartam leteltével,
@@ -207,7 +215,15 @@ a védelmére.
 
 (5) Felmentéssel szűnhet meg az alapvető jogok biztosa helyettesének a megbízatása, ha neki fel nem róható okból kilencven napon túlmenően nem képes eleget tenni megbízatásából eredő feladatainak. A felmentést az alapvető jogok biztosa, valamint bármely országgyűlési képviselő indítványozhatja. Felmentés esetén az alapvető jogok biztosának helyettese háromhavi külön illetményre jogosult.
 
-(6) Tisztségtől való megfosztással szűnhet meg az alapvető jogok biztosa helyettesének a megbízatása, ha az alapvető jogok biztosának helyettese neki felróható okból kilencven napon túlmenően nem tesz eleget megbízatásából eredő feladatainak, vagyonnyilatkozat-tételi kötelezettségét szándékosan elmulasztja, vagy a vagyonnyilatkozatban lényeges adatot, tényt szándékosan valótlanul közöl. A tisztségtől való megfosztást az arra alapot adó okok vizsgálatát követően az alapvető jogok biztosa vagy az összeférhetetlenségi bizottság indítványozhatja.
+(6) Tisztségtől való megfosztással szűnik meg az alapvető jogok biztosa helyettesének a megbízatása, ha az alapvető jogok biztosának helyettese neki felróható okból kilencven napon túlmenően nem tesz eleget megbízatásából eredő feladatainak, vagyonnyilatkozat-tételi kötelezettségét elmulasztja, vagy a vagyonnyilatkozatban lényeges adatot, tényt szándékosan valótlanul közöl. A tisztségtől való megfosztást az arra alapot adó okok vizsgálatát követően az alapvető jogok biztosa vagy az összeférhetetlenségi bizottság indítványozhatja.
+
+(7) Ha az európai uniós költségvetési források felhasználásának ellenőrzéséről szóló törvény rendelkezései szerint az Integritás Hatóság jelentésében azt állapítja meg, hogy az alapvető jogok biztosa helyettese a vagyonnyilatkozat-tételi kötelezettségét elmulasztotta, illetve hogy abban lényeges adatot, tényt szándékosan valótlanul közölt, a tisztségtől való megfosztást az arra alapot adó okok vizsgálatát követően az alapvető jogok biztosa vagy az összeférhetetlenségi bizottság köteles indítványozni.
+
+(8) Ha az európai uniós költségvetési források felhasználásának ellenőrzéséről szóló törvény rendelkezései szerint az Integritás Hatóság jelentésében az alapvető jogok biztosa helyettese vagyonnyilatkozata kapcsán a (7) bekezdés alá nem tartozó – kizárólag adminisztratív jellegű, ugyanakkor csekély vagy elhanyagolható jelentőséget meghaladó – hiányosságot tárt fel, a jelentés megállapításainak figyelembevételével az ellenőrzést a (7) bekezdés szerinti bizottság haladéktalanul lefolytatja, és ha a hiányosság feltárása megalapozott, döntésében százezertől ötmillió forintig terjedő bírságot állapít meg. A bírság teljesítését úgy kell biztosítani, hogy az a központi költségvetés Alapvető Jogok Biztosának Hivatalára vonatkozó fejezete működési költségvetésének bevételét képezze.
+
+(9) Az alapvető jogok biztosa helyettese a bírságról szóló döntés írásbeli közlését követő nyolc napon belül kérheti az Országgyűléstől – a házelnökhöz benyújtott kérelemmel – a döntés hatályon kívül helyezését. A kérelemről az Országgyűlés vita nélkül, a kérelem benyújtását követő ülésén határoz, ha a kérelem legkésőbb az ülést megelőző hét utolsó munkanapján beérkezik. Ellenkező esetben az Országgyűlés a kérelemről az annak benyújtását követő második ülésén dönt.
+
+(10) Az Országgyűlés a (9) bekezdés szerinti kérelem esetén a bizottság döntését hatályában fenntarthatja, vagy a kérelemnek helyt adva azt hatályon kívül helyezheti.
 
 ### III. Fejezet — AZ ALAPVETŐ JOGOK BIZTOSÁNAK ELJÁRÁSA ÉS INTÉZKEDÉSEI
 
@@ -776,6 +792,10 @@ tevékenységét.
 45/G. § (1) Az alapvető jogok biztosa és helyettese az európai uniós költségvetési források felhasználásának ellenőrzésével összefüggő egyes, vagyonnyilatkozattal kapcsolatos törvények módosításáról szóló 2022. évi XXXI. törvénnyel megállapított rendelkezéseknek megfelelően, az Európai Bizottság kérésére egyes törvényeknek a kondicionalitási eljárás eredményes lezárása érdekében szükséges módosításáról szóló 2022. évi LVI. törvénnyel megállapított tartalommal és formában először – 2022. november 1. napján fennálló állapot szerint − 2023. január 31-ig tesz vagyonnyilatkozatot, amelyhez csatolja a vele közös háztartásban élő családtagjának vagyonnyilatkozatát is.
 
 (2) Az európai uniós költségvetési források felhasználásának ellenőrzésével összefüggő egyes, vagyonnyilatkozattal kapcsolatos törvények módosításáról szóló 2022. évi XXXI. törvény hatálybalépése napján folyamatban lévő vagyonnyilatkozattal kapcsolatos eljárásokban az eljárás megindulása napján hatályos szabályokat kell alkalmazni.
+
+45/H. § (1) Az alapvető jogok biztosa és helyettese az európai uniós forrásokhoz való hozzáférés érdekében szükséges egyes törvények módosításáról szóló 2026. évi XVIII. törvény által megállapított tartalommal és formában először – 2026. december 31. napján fennálló állapot szerint − 2027. január 31-ig tesz vagyonnyilatkozatot, amelyhez csatolja a vele közös háztartásban élő − a Polgári Törvénykönyvről szóló törvény szerinti − hozzátartozója vagyonnyilatkozatát is.
+
+(2) Az európai uniós forrásokhoz való hozzáférés érdekében szükséges egyes törvények módosításáról szóló 2026. évi XVIII. törvény hatálybalépése napján folyamatban lévő vagyonnyilatkozattal kapcsolatos eljárásokban az eljárás megindulása napján hatályos szabályokat kell alkalmazni.
 
 #### 16. Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 

@@ -153,7 +153,17 @@ jogszabályok előkészítésében.
 
 (4) Felmentéssel szüntethető meg a megbízatás, ha az Állami Számvevőszék elnöke neki fel nem róható okból nem képes eleget tenni megbízatásából adódó feladatainak. A felmentést az Országgyűlés mentelmi ügyekkel foglalkozó bizottsága kezdeményezheti, a felmentésről az Országgyűlés dönt.
 
-(5) Kizárással szünteti meg a megbízatást az Országgyűlés, ha az Állami Számvevőszék elnöke neki felróható okból nem tesz eleget megbízatásából eredő feladatainak, illetve jogerős ítéletben megállapított bűntettet követett el. A kizárást a mentelmi ügyekkel foglalkozó bizottság kezdeményezheti.
+(5) Kizárással szünteti meg a megbízatást az Országgyűlés, ha az Állami Számvevőszék elnöke nem tesz eleget az e törvényben előírt vagyonnyilatkozat-tételi kötelezettségének vagy abban lényeges adatot, tényt szándékosan valótlanul közölt, továbbá, ha neki felróható okból nem tesz eleget megbízatásából eredő feladatainak, illetve jogerős ítéletben megállapított bűntettet követett el. A kizárást az Országgyűlés mentelmi ügyekkel foglalkozó bizottsága kezdeményezheti.
+
+(6) Az (5) bekezdés szerinti kizárást az Országgyűlés mentelmi ügyekkel foglalkozó bizottsága köteles kezdeményezni, ha az európai uniós költségvetési források felhasználásának ellenőrzéséről szóló törvény rendelkezései szerint az Integritás Hatóság jelentésében azt állapítja meg, hogy az Állami Számvevőszék elnöke a vagyonnyilatkozat-tételi kötelezettségét elmulasztotta vagy a vagyonnyilatkozatában lényeges adatot, tényt szándékosan valótlanul közölt.
+
+(7) Ha az Integritás Hatóság a (6) bekezdés szerinti vizsgálata alapján hozott jelentésében a vagyonnyilatkozat kapcsán a (6) bekezdés alá nem tartozó – kizárólag adminisztratív jellegű, ugyanakkor csekély vagy elhanyagolható jelentőséget meghaladó – hiányosságot tárt fel, a jelentés megállapításainak figyelembevételével az Állami Számvevőszék elnökével szemben bírság kiszabását kezdeményezi az Országgyűlés mentelmi ügyekkel foglalkozó bizottságánál.
+
+(8) A bírság kiszabására az összeférhetetlenségi eljárásra vonatkozó rendelkezéseket az e §-ban meghatározott eltérésekkel kell alkalmazni. Ha az eljárás alapján megállapításra kerül, hogy az Integritás Hatóság (7) bekezdés szerinti vizsgálata alapján hozott jelentésében feltárt hiányosság megalapozott, – a felrótt mulasztás súlyának figyelembevételével – a bizottság százezertől ötmillió forintig terjedő bírság megállapításáról dönt. A bírság teljesítését úgy kell biztosítani, hogy az a központi költségvetés Állami Számvevőszékre vonatkozó fejezete működési költségvetésének bevételét képezze.
+
+(9) Az Állami Számvevőszék elnöke a bírságról szóló döntés írásbeli közlését követő nyolc napon belül kérheti az Országgyűléstől – a házelnökhöz benyújtott kérelemmel – a döntés hatályon kívül helyezését. A kérelemről az Országgyűlés vita nélkül, a kérelem benyújtását követő ülésén határoz, ha a kérelem legkésőbb az ülést megelőző hét utolsó munkanapján beérkezik. Ellenkező esetben az Országgyűlés a kérelemről az annak benyújtását követő második ülésén dönt.
+
+(10) Az Országgyűlés a (9) bekezdés szerinti kérelem esetén a mentelmi ügyekkel foglalkozó bizottság döntését hatályában fenntarthatja, vagy a kérelemnek helyt adva azt hatályon kívül helyezheti.
 
 12. § (1) Ha az elnök e tisztségét legalább három évig betöltötte és megbízatása megszűnésére a megbízatás időtartamának letelte, a 70. életév betöltése, lemondás, felmentés vagy halál miatt kerül sor, a tisztség megszűnésétől számított tizenöt napon belül egy összegben hathavi – lemondás esetén pedig háromhavi – illetményével megegyező összegű juttatásra jogosult, amely társadalombiztosítási járulék, egészségügyi hozzájárulás, valamint – a (3) bekezdésben meghatározott kivétellel – egészségbiztosítási és nyugdíjjárulék alapjául szolgáló jövedelem.
 
@@ -211,7 +221,9 @@ jogszabályok előkészítésében.
 
 (7) Az Állami Számvevőszék elnöke felmentéssel szüntetheti meg az alelnök megbízatását, ha az Állami Számvevőszék alelnöke neki fel nem róható okból nem képes eleget tenni megbízatásából adódó feladatainak.
 
-(8) Kizárással szünteti meg a megbízatást az Állami Számvevőszék elnöke, ha az alelnök neki felróható okból nem tesz eleget megbízatásából eredő feladatainak, illetve jogerős ítéletben megállapított bűntettet követett el.
+(8) Kizárással szünteti meg a megbízatást az Állami Számvevőszék elnöke, ha az alelnök nem tesz eleget az e törvényben előírt vagyonnyilatkozat-tételi kötelezettségének vagy abban lényeges adatot, tényt szándékosan valótlanul közölt, továbbá, ha neki felróható okból nem tesz eleget megbízatásából eredő feladatainak, illetve jogerős ítéletben megállapított bűntettet követett el.
+
+(8a) Ha az európai uniós költségvetési források felhasználásának ellenőrzéséről szóló törvény rendelkezései szerint az Integritás Hatóság jelentésében az Állami Számvevőszék alelnöke vagyonnyilatkozata kapcsán a (8) bekezdés alá nem tartozó – kizárólag adminisztratív jellegű, ugyanakkor csekély vagy elhanyagolható jelentőséget meghaladó – hiányosságot tárt fel, az Állami Számvevőszék elnöke a jelentés megállapításainak figyelembevételével az Állami Számvevőszék alelnökének a 20. § (2) bekezdése szerint megállapított illetményét a 21. § szerint – egy év határozott időtartamban legfeljebb 10%-kal – csökkentett mértékben állapítja meg.
 
 (9) Az Állami Számvevőszék alelnöke a társadalombiztosítás ellátásaira való jogosultság szempontjából közszolgálati jogviszonyban foglalkoztatott biztosítottnak, keresete nem önálló tevékenységből származó, járulékalapot képező jövedelemnek minősül.
 
@@ -564,6 +576,10 @@ kell megfelelően alkalmazni.
 (2) Ha a számvevői közszolgálati szerződés az (1) bekezdés szerinti határidőben a számvevőnek felróható okból nem kerül megkötésre, a számvevő jogviszonya a Kttv. 72. § (3) bekezdésében foglaltaknak megfelelően szűnik meg.
 
 (3) A számvevő illetménye nem lehet kevesebb annál, mint amekkora összegre illetményként a kinevezési okirat alapján 2022. december 31. napján jogosult volt.
+
+35/D. § (1) Az Állami Számvevőszék elnöke és alelnöke az európai uniós forrásokhoz való hozzáférés érdekében szükséges egyes törvények módosításáról szóló 2026. évi XVIII. törvény által megállapított tartalommal és formában először – 2026. december 31. napján fennálló állapot szerint − 2027. január 31-ig tesz vagyonnyilatkozatot, amelyhez csatolja a vele közös háztartásban élő − a Polgári Törvénykönyvről szóló törvény szerinti − hozzátartozója vagyonnyilatkozatát is.
+
+(2) Az európai uniós forrásokhoz való hozzáférés érdekében szükséges egyes törvények módosításáról szóló 2026. évi XVIII. törvény hatálybalépése napján folyamatban lévő vagyonnyilatkozattal kapcsolatos eljárásokban az eljárás megindulása napján hatályos szabályokat kell alkalmazni.
 
 ### Módosító rendelkezések
 

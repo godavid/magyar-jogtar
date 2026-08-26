@@ -1673,7 +1673,7 @@ biztosítja.
 
 (9) A bíróság, az ügyészség és a nyomozó hatóság – e törvény eltérő rendelkezésének hiányában – az indítvány előterjesztésétől számított tizenöt napon belül biztosítja az eljárás (2) bekezdés szerint meghatározott ügyiratai közül azoknak a megismerését, amelyek vonatkozásában a megismerést nem korlátozta.
 
-101. § (1) Bíróság, ügyészség, közjegyző, bírósági végrehajtó, állami adó- és vámhatóság, pártfogó felügyelő, megelőző pártfogó felügyelő, nyomozó hatóság, büntetés-végrehajtási szerv, közigazgatási hatóság, kormányzati ellenőrzési szerv, a Nemzeti Adatvédelmi és Információszabadság Hatóság, a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve, a rendőrség terrorizmust elhárító szerve, a katona terhelt állományilletékes parancsnoka a törvényben meghatározott feladata ellátásához szükséges mértékben és időtartamban megismerheti az eljárás ügyiratait. A megismerési jog a nyomozás befejezéséig az eljárás érdekeire figyelemmel korlátozható. A megismerés korlátozása ellen nincs helye jogorvoslatnak.
+101. § (1) Bíróság, ügyészség, közjegyző, bírósági végrehajtó, állami adó- és vámhatóság, pártfogó felügyelő, megelőző pártfogó felügyelő, nyomozó hatóság, büntetés-végrehajtási szerv, közigazgatási hatóság, kormányzati ellenőrzési szerv, az Integritás Hatóság, a Nemzeti Adatvédelmi és Információszabadság Hatóság, a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve, a rendőrség terrorizmust elhárító szerve, a katona terhelt állományilletékes parancsnoka a törvényben meghatározott feladata ellátásához szükséges mértékben és időtartamban megismerheti az eljárás ügyiratait. A megismerési jog a nyomozás befejezéséig az eljárás érdekeire figyelemmel korlátozható. A megismerés korlátozása ellen nincs helye jogorvoslatnak.
 
 (2) Törvénnyel kihirdetett nemzetközi szerződéssel vagy európai uniós jogi aktussal létrehozott szerv, a szerv ilyen jogforrásban meghatározott feladatainak ellátásához szükséges mértékben és időtartamban az (1) bekezdésben foglaltak szerint ismerheti meg az eljárás ügyiratait.
 
@@ -7207,7 +7207,7 @@ tárgyában.
 - c) a rendbírság átváltoztatásáról rendelkező határozat,
 - d) a tanú különösen védetté nyilvánításáról hozott határozat,
 - e) a megszüntetett eljárás folytatásának a 400. § (5) bekezdése szerinti elrendeléséről rendelkező határozat, és
-- f) a felülbírálati indítvány elbírálásáról hozott határozat
+- f) az Integritás Hatóság 817/C. § (1) bekezdése szerinti felülbírálati indítványának elbírálásáról szóló határozat kivételével a felülbírálati indítvány elbírálásáról hozott határozat
 
 ellen.
 
@@ -11415,7 +11415,7 @@ a bíróság a tárgyalást a jogi képviselő költségére elhalasztja, illetv
 - a) a korrupciós bűncselekmények (Btk. XXVII. Fejezet), kivéve
   - aa) a vesztegetés egyes enyhébben minősülő eseteit [Btk. 290. § (1) és (6) bekezdés],
   - ab) a vesztegetés elfogadása enyhébben minősülő esetét [Btk. 291. § (1) bekezdés];
-- b) a hivatali visszaélés (Btk. 305. §), kivéve, ha azt rendvédelmi szervnél, nemzetbiztonsági szolgálatnál, Országgyűlési Őrségnél, fővárosi vagy vármegyei kormányhivatalnál, önkormányzati igazgatási szervnél vagy köztestületnél nem vezető beosztású hivatalos személy követi el;
+- b) a hivatali visszaélés (Btk. 305. §);
 - c) a vagyon elleni bűncselekmények közül a nemzeti vagyonra, a HUN-REN Magyar Kutatási Hálózat vagy a közfeladatot ellátó közérdekű vagyonkezelő alapítványok által kezelt vagyonra elkövetett vagy ilyen vagyonban kárt okozó
   - ca) sikkasztás súlyosabban minősülő esetei [Btk. 372. § (4)–(6) bekezdés],
   - cb) csalás súlyosabban minősülő esetei [Btk. 373. § (4)–(6) bekezdés],
@@ -11463,7 +11463,9 @@ a bíróság a tárgyalást a jogi képviselő költségére elhalasztja, illetv
 - a) ha a sértett vagy a feljelentő nem nyújt be felülbírálati indítványt, az (1) bekezdésben meghatározott időtartam lejártától, vagy
 - b) ha sértett vagy feljelentő nem vesz részt az eljárásban vagy a (7) bekezdés alapján felülbírálati indítványt nem nyújthat be, az (1) bekezdés szerinti határozat meghozatalától
 
-számított öt munkanapon belül egy hónapra közzéteszi a 817/B. § (1) bekezdése szerinti határozatát, illetve az ügyiratjegyzéket az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény 3. § 29. pontjában meghatározott álnevesítés alkalmazásával (a továbbiakban: anonimizált határozat, illetve anonimizált ügyiratjegyzék).
+számított öt munkanapon belül két hónapra közzéteszi a 817/B. § (1) bekezdése szerinti határozatát, illetve az ügyiratjegyzéket az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény 3. § 29. pontjában meghatározott álnevesítés alkalmazásával (a továbbiakban: anonimizált határozat, illetve anonimizált ügyiratjegyzék).
+
+(2a) Az anonimizált határozatot, illetve az anonimizált ügyiratjegyzéket, amelyet közzé kell tenni az Integritás Hatóság honlapján, az ügyészség vagy a nyomozó hatóság haladéktalanul megküldi az Integritás Hatóság részére.
 
 (3) Az anonimizált határozatot, illetve az anonimizált ügyiratjegyzéket
 
@@ -11483,11 +11485,11 @@ kell közzétenni.
 
 (5) A közzététel során tájékoztatást kell nyújtani a határozattal szembeni felülbírálati indítvány benyújtásának a feltételeiről, a felülbírálati indítványt előterjesztő jogairól és kötelezettségeiről, a felülbírálati indítvány előterjesztésének határidejéről és arról a szervről, ahová a felülbírálati indítvány benyújtható.
 
-(6) Az anonimizált határozatnak az ügyészség vagy a nyomozó hatóság központi elektronikus tájékoztatásra szolgáló honlapján történt közzétételét követő egy hónapon belül – a gyanúsított, a védő, a sértett és a feljelentő kivételével – bármely természetes vagy nem természetes személy felülbírálati indítványt nyújthat be.
+(6) Az anonimizált határozatnak az ügyészség vagy a nyomozó hatóság központi elektronikus tájékoztatásra szolgáló honlapján történt közzétételét követő két hónapon belül – a gyanúsított, a védő, a sértett és a feljelentő kivételével – bármely természetes vagy nem természetes személy felülbírálati indítványt nyújthat be.
 
 (7) Az Integritás Hatóság kivételével az állam és a közhatalmat gyakorló szerv nem jogosult felülbírálati indítvány benyújtására, akkor sem, ha feljelentőként vagy sértettként vesz részt az eljárásban.
 
-(8) A sértett és a feljelentő kivételével a felülbírálati indítványt előterjesztő személy a felülbírálati indítvány benyújtása előtt az ügyiratok közül kizárólag az anonimizált határozatot, illetve az anonimizált ügyiratjegyzéket ismerheti meg.
+(8) A sértett, a feljelentő és az Integritás Hatóság kivételével a felülbírálati indítványt előterjesztő személy a felülbírálati indítvány benyújtása előtt az ügyiratok közül kizárólag az anonimizált határozatot, illetve az anonimizált ügyiratjegyzéket ismerheti meg.
 
 (9) A gyanúsított, a védő, a vagyoni érdekelt és az egyéb érdekelt, valamint a sértettnek vagy feljelentőnek minősülő állam és a közhatalmat gyakorló szerv által benyújtott panaszt a felülbírálati indítvány bíróság általi elbírálását követően az általános szabályok szerint, a felülbírálati indítvány elbírálásának eredményére tekintettel kell elbírálni. Ilyen esetben a panasz elbírálására vonatkozó határidőbe az eljárás megszüntetésétől az eljárást megszüntető határozat hivatalból történő hatályon kívül helyezéséig, vagy a bíróság határozatának az ügyészség részére történő kézbesítéséig terjedő időszak nem számít bele.
 
@@ -11554,7 +11556,7 @@ a bíróság a határidőt legfeljebb két hónappal meghosszabbíthatja. A bír
   - ab) ha a támadott határozatot a nyomozó hatóság hozta, a felülbírálati indítványt megküldő ügyészség számára, illetve
   - ac) annak, akire a határozat rendelkezést tartalmaz,
 - b) a c) pontban meghatározott kivétellel, a felülbírálati indítvány előterjesztőjének a 817/C. § (2) bekezdésében meghatározottak szerinti anonimizált határozatot, illetve
-- c) ha a felülbírálati indítványt a sértett vagy a feljelentő terjesztette elő, számára a határozatot
+- c) ha a felülbírálati indítványt a sértett, a feljelentő vagy az Integritás Hatóság terjesztette elő, számára a határozatot
 
 kézbesíti.
 
@@ -11567,7 +11569,13 @@ kézbesíti.
 
 (2) Az eljárás folytatására a 400. §-ban meghatározottak nem alkalmazhatók. Ha az ügyben korábban gyanúsításra került sor, és a gyanúsítás törvényi feltételei fennállnak, a korábbi gyanúsítottal a gyanúsítást ismételten közölni kell. Ilyen esetben a nyomozás 351. § szerinti határidejébe nem számít bele az eljárás megszüntetése és a gyanúsítás ismételt közlése közötti időtartam.
 
-(3) A nyomozás megindulása vagy az eljárás folytatása esetén az ügyészség vagy a nyomozó hatóság a bírósági határozat indokolásában meghatározottak alapulvételével, felderítetlenség esetén az ott meghatározott hiányosságok kiküszöbölésére törekedve folytatja az eljárást.
+(3) A nyomozás megindulása vagy az eljárás folytatása esetén az ügyészség vagy a nyomozó hatóság a bírósági határozat indokolásában meghatározottak alapulvételével, felderítetlenség esetén az ott meghatározott hiányosságok kiküszöbölésével folytatja az eljárást. Az eljárás újabb megszüntetésére nem kerülhet sor, ha felderítetlenség esetén a bírósági határozatban szereplő hiányosságok kiküszöbölésére nem került sor, kivéve, ha arra az ügyészségen vagy a nyomozó hatóságon kívül álló okból nem volt lehetőség.
+
+(3a) A (3) bekezdésben meghatározott esetben a nyomozó hatóság a nyomozás megindulásától vagy az eljárás folytatásától számított két hónapon belül – valamint azt követően kéthavonta – bemutatja az ügyészségnek a nyomozás ügyiratait, egyidejűleg beszámol a nyomozás állásáról. Az ügyészség a felülbírálati indítványt elbíráló bíróságnak továbbítja a nyomozó hatóság beszámolóját, a nyomozás ügyiratait, valamint a (4) bekezdés a) pontjában meghatározott jogköre gyakorlásával összefüggésben, a nyomozó hatóság beszámolójával kapcsolatban keletkezett ügyiratokat.
+
+(3b) Az ügyészségi nyomozás során a (3a) bekezdést azzal kell alkalmazni, hogy az ügyészség a felettes ügyészségnek számol be a nyomozás állásáról, és az ott meghatározott ügyiratokat a felettes ügyészség küldi meg a felülbírálati indítványt elbíráló bíróságnak.
+
+(3c) Ha a felülbírálati indítványt elbíráló bíróság az ügyiratok bemutatása alapján megállapítja, hogy a nyomozást nyilvánvalóan nem a (3) bekezdésben meghatározott rendelkezéseknek megfelelően folytatják le, akkor a szükséges intézkedések megtétele érdekében az ügyészség vezetőjéhez fordul. A következő beszámolóban a felülbírálati indítványt elbíráló bíróságot tájékoztatni kell a jelzése alapján megtett intézkedésekről is.
 
 (4) A nyomozás megindulása vagy az eljárás folytatása esetén
 
@@ -11584,8 +11592,8 @@ kézbesíti.
 
 (2) Ha az (1) bekezdés alapján ismételt felülbírálati indítvány benyújtásának van helye, az ügyészség vagy a nyomozó hatóság az anonimizált ügyiratjegyzékkel együtt
 
-- a) a felülbírálati indítványt előterjesztő sértett és feljelentő részére a határozatát,
-- b) a felülbírálati indítványt előterjesztő, a 817/C. § (6) és (7) bekezdése szerinti személy részére az anonimizált határozatát
+- a) a felülbírálati indítványt előterjesztő sértett, a feljelentő vagy az Integritás Hatóság részére a határozatát,
+- b) a felülbírálati indítványt előterjesztő, a 817/C. § (6) bekezdése szerinti személy részére az anonimizált határozatát
 
 kézbesíti.
 
@@ -11632,7 +11640,7 @@ kézbesíti.
 
 (7) Ha a feljelentő nem nyújtott be a vádindítvány képviseletére jogosult személykénti kijelölésére vonatkozó indítványt, azonban a sértett a vádindítvány képviseletére jogosult személykénti kijelölésére vonatkozó indítványt benyújtott, a bíróság a sértettet jelöli ki.
 
-(8) Ha több személy terjesztett elő ismételt felülbírálati indítványt, a bíróság a vádindítvány képviseletére jogosult személy kijelöléséről annak mérlegelésével dönt, hogy mely indítványozó kijelölésével ért egyet a felülbírálati indítványt előterjesztő személyek többsége.
+(8) Ha több személy terjesztett elő ismételt felülbírálati indítványt, a bíróság a vádindítvány képviseletére jogosult személy kijelöléséről annak mérlegelésével dönt, hogy mely indítványozó érintett az ügyben, mely indítványozó kellően jártas a vádindítvány képviseletére, illetve mely indítványozó kijelölésével ért egyet a felülbírálati indítványt előterjesztő személyek többsége.
 
 (9) Ha a (3) bekezdés szerinti esetben az erre jogosult személy vádindítványt kíván benyújtani, a vádindítvány képviseletére jogosult személyt az ismételt felülbírálati indítvány elbírálására jogosult bíróság jelöli ki. A vádindítvány képviseletére jogosult személykénti kijelölésre vonatkozó indítványt a 817/I. § (1) bekezdése szerinti közzétételtől számított egy hónapon belül kell benyújtani az eljárást megszüntető határozatot hozó hatóságnál. Az ügyészség vagy az ügyészség útján a nyomozó hatóság az indítványt az ügyiratokkal együtt a határidőt követően haladéktalanul megküldi az ismételt felülbírálati indítvány elbírálására jogosult bíróságnak. A bíróság nyolc napon belül határoz a vádindítvány képviseletére jogosult személy kijelöléséről.
 
@@ -11661,7 +11669,7 @@ kézbesíti.
 
 számított két hónapon belül nyújthatja be.
 
-(2) A vádindítványt a 817/H. § (1) bekezdése szerinti határozatot hozó ügyészségnél vagy nyomozó hatóságnál kell benyújtani. A vádindítványt a beérkezésétől számított nyolc napon belül az ügyészség vagy az ügyészség útján a nyomozó hatóság az ügyiratokkal együtt továbbítja a 19–22. § alapján hatáskörrel és illetékességgel rendelkező bírósághoz. A bíróság illetékessége a 21. § (3) bekezdése alapján nem állapítható meg.
+(2) A vádindítványt a 817/H. § (1) bekezdése szerinti határozatot hozó ügyészségnél vagy nyomozó hatóságnál kell benyújtani. A vádindítványt a beérkezésétől számított nyolc napon belül az ügyészség vagy az ügyészség útján a nyomozó hatóság az ügyiratokkal együtt továbbítja az ismételt felülbírálati indítvány elbírálására jogosult bírósághoz.
 
 (3) A vádindítvány tartalmazza
 
@@ -11673,7 +11681,7 @@ számított két hónapon belül nyújthatja be.
 
 ### A vádindítvány előzetes vizsgálata
 
-817/N. § (1) A bíróság a vádindítványt nem ügydöntő végzéssel elutasítja, ha
+817/N. § (1) Az ismételt felülbírálati indítvány elbírálására jogosult bíróság a vádindítványt nem ügydöntő végzéssel elutasítja, ha
 
 - a) a vádindítvány képviseletére jogosult személy a vádindítványt a törvényben meghatározott határidő eltelte után nyújtotta be,
 - b) a vádindítvány képviseletére jogosult személynek nincs jogi képviselője,
@@ -11684,34 +11692,38 @@ számított két hónapon belül nyújthatja be.
 
 (2) A vádindítvány képviseletére jogosult személy a vádindítvány elutasításáról rendelkező nem ügydöntő végzés kézbesítésétől számított tizenöt napon belül a vádindítványt ismételten benyújthatja, ha azt a bíróság az (1) bekezdés b), e) vagy f) pontja alapján utasította el, és az elutasítás oka már nem áll fenn.
 
-(3) A bíróság a vádindítványt nem utasíthatja el azon okból, hogy az nem tartalmazza a vádindítványban vádlottként megjelölt személynek a 184. § (2) bekezdésében felsorolt személyes adatait, és azok az ügyiratokból sem állapíthatók meg, ha a terhelt személyazonossága ezek hiányában is kétséget kizáróan megállapítható.
+(3) Az ismételt felülbírálati indítvány elbírálására jogosult bíróság a vádindítványt nem utasíthatja el azon okból, hogy az nem tartalmazza a vádindítványban vádlottként megjelölt személynek a 184. § (2) bekezdésében felsorolt személyes adatait, és azok az ügyiratokból sem állapíthatók meg, ha a terhelt személyazonossága ezek hiányában is kétséget kizáróan megállapítható.
 
 (4) Az (1) bekezdés d) pontja nem alkalmazható, ha a vádindítvány tárgyává tett cselekmény olyan bűncselekmény, amely a vádindítvány tárgyává tett közhatalom gyakorlásával vagy közvagyon kezelésével kapcsolatos kiemelt bűncselekménnyel szoros összefüggésben áll.
 
 (5) A vádindítvány előzetes vizsgálata során ülés nem tartható.
 
-(6) Ha a bíróság a vádindítványt nem ügydöntő végzéssel elutasítja, a határozatát a vádindítvány képviseletére jogosult személynek kézbesíti.
+(6) Ha az ismételt felülbírálati indítvány elbírálására jogosult bíróság a vádindítványt nem ügydöntő végzéssel elutasítja, a határozatát a vádindítvány képviseletére jogosult személynek kézbesíti.
 
 (7) A vádindítvány elutasítása ellen fellebbezésnek nincs helye.
 
 ### A vádindítvány megalapozottságának a vizsgálata
 
-817/O. § (1) Ha a vádindítvány elutasításának nincs helye, a bíróság a vádindítvány benyújtásától számított két hónapon belül megvizsgálja, hogy a vádindítványban vádlottként megjelölt személy megalapozottan gyanúsítható-e a vádindítvány tárgyává tett bűncselekmény elkövetésével.
+817/O. § (1) Ha a vádindítvány elutasításának a 817/N. § alapján nincs helye, az ismételt felülbírálati indítvány elbírálására jogosult bíróság a vádindítvány benyújtásától számított két hónapon belül megvizsgálja, hogy a vádindítványban vádlottként megjelölt személy megalapozottan gyanúsítható-e a vádindítvány tárgyává tett bűncselekmény elkövetésével.
 
 (2) A bíróság a vádindítvány megalapozottságának elbírálásakor teljeskörűen megvizsgálja az ügy ügyiratait és a vádindítvány képviseletére jogosult személy által csatolt adatokat, iratokat, nyilatkozatokat.
 
-817/P. § (1) A bíróság nem ügydöntő végzésével a vádindítványt
+817/P. § (1) Az ismételt felülbírálati indítvány elbírálására jogosult bíróság nem ügydöntő végzésével a vádindítványt
 
 - a) elutasítja, ha a vádindítványban vádlottként megjelölt személy a vádindítvány tárgyává tett bűncselekmény elkövetésével nem gyanúsítható megalapozottan,
 - b) részben elutasítja, ha a vádindítványban vádlottként megjelölt valamely személy a vádindítvány tárgyává tett bűncselekmény elkövetésével, vagy a vádindítványban vádlottként megjelölt személy a vádindítvány tárgyává tett valamely bűncselekmény elkövetésével nem gyanúsítható megalapozottan.
 
-(2) Ha a vádindítvány vizsgálata során adat merül fel arra, hogy a vádindítványban vádlottként megjelölt személy mentességet élvező személy és a vádindítvány elutasításának az érintett esetében nincs helye, a bíróság indítványozza a mentesség felfüggesztésére jogosult döntését. Ha a mentesség felfüggesztésére jogosult a mentességet nem függeszti fel, a bíróság a vádindítványt elutasítja vagy részben elutasítja.
+(2) Ha a vádindítvány vizsgálata során adat merül fel arra, hogy a vádindítványban vádlottként megjelölt személy mentességet élvező személy és a vádindítvány elutasításának az érintett esetében nincs helye, az ismételt felülbírálati indítvány elbírálására jogosult bíróság indítványozza a mentesség felfüggesztésére jogosult döntését. Ha a mentesség felfüggesztésére jogosult a mentességet nem függeszti fel, a bíróság a vádindítványt elutasítja vagy részben elutasítja.
 
 (3) A vádindítvány megalapozottságának a vizsgálata során ülés nem tartható.
 
 (4) Ha a bíróság a vádindítványt nem ügydöntő végzéssel elutasítja vagy részben elutasítja, a határozatát a vádindítvány képviseletére jogosult személynek kézbesíti.
 
 (5) Ha a bíróság a vádindítványt részben elutasítja, a vádindítvány képviseletére jogosult személy köteles a határozat kézbesítésétől számított tizenöt napon belül az elutasított vádindítványi részeket nem tartalmazó vádindítványt a bíróságnak ismételten benyújtani. Ha a vádindítvány képviseletére jogosult személy ezt elmulasztja, a bíróság az eljárást ügydöntő végzéssel megszünteti. Erre a nem ügydöntő végzésben a vádindítvány képviseletére jogosult személyt figyelmeztetni kell.
+
+(6) Ha a vádindítvány elutasításának az (1) bekezdés a) pontja vagy a (2) bekezdés alapján nincs helye, akkor az ismételt felülbírálati indítvány elbírálására jogosult bíróság a vádindítványt az ügyiratokkal együtt legkésőbb a 817/O. § (1) bekezdésében meghatározott határidőt követő nyolc napon belül továbbítja a 19–22. § alapján hatáskörrel és illetékességgel rendelkező bírósághoz. A bíróság illetékessége a 21. § (3) bekezdése alapján nem állapítható meg.
+
+(7) A vádindítvány részbeni elutasítása esetén a (6) bekezdésben meghatározott határidőbe az (5) bekezdésben meghatározott időszak nem számít bele.
 
 ### A bírósági eljárás szabályai a vádindítvány befogadását követően
 
@@ -12628,7 +12640,23 @@ az igazságügyért felelős miniszterrel egyetértésben, az Országgyűlési �
 
 876/C. § (1) A CV/A. Fejezetben meghatározott rendelkezések 2022. december 31. napjáig nem alkalmazhatók.
 
-(2) A CV/A. Fejezetben meghatározott rendelkezéseket a 2022. december 31-ét követően tett feljelentésekre és indult eljárásokban kell alkalmazni.
+(2) A CV/A. Fejezetben meghatározott rendelkezéseket a 2022. december 31-ét követően tett feljelentésekre és indult eljárásokban kell alkalmazni azzal, hogy a 2023. január 1. előtt elkövetett bűncselekményekre is alkalmazandó.
+
+(3) A CV/A. Fejezetben meghatározott rendelkezéseket kell alkalmazni és a nyomozó hatóság vagy az ügyészség a 379. § alapján új határozatot hoz a feljelentésről akkor is, ha
+
+- a) a 2022. december 31-ét követően tett feljelentés azonos cselekményre vonatkozik, mint egy korábbi, a 2023. január 1. napját megelőzően tett és elutasított feljelentés, és
+- b) a 2022. december 31-ét követően tett feljelentésre a 817/B. § (1) és (2) bekezdése alapján a CV/A. Fejezet alkalmazásának lenne helye.
+
+(4) A CV/A. Fejezetben meghatározott rendelkezéseket kell alkalmazni akkor is, ha
+
+- a) az eljárás 2023. január 1. napját megelőzően történt megszüntetésére olyan ügyben került sor, amelyben a 817/B. § (1) és (2) bekezdése alapján a CV/A. Fejezet alkalmazásának lenne helye, és
+- b) a 2022. december 31-ét követően bármely természetes vagy nem természetes személy jogi képviselője útján indítványozza a megszüntetett eljárás folytatását.
+
+(5) Ha a (4) bekezdés b) pontjában meghatározott indítvány alapján az ügyészség vagy a nyomozó hatóság megállapítja, hogy a közhatalom gyakorlásával vagy közvagyon kezelésével kapcsolatos kiemelt bűncselekmény miatt az eljárás folytatásának nincs helye, mert a 398. § (1) bekezdés a)–d) vagy i) pontja, illetve (2) bekezdés a) pontja alapján az eljárás megszüntetésének van helye, akkor az eljárás folytatásának elrendelése iránti indítvány elutasításáról rendelkező határozatában megjelöli az eljárás megszüntetésének okát is. A (4) bekezdés b) pontjában meghatározott indítvány nem terjeszthető elő a Magyarország által jelölt európai ügyésznek az (EU) 2017/1939 rendelet 16. cikkével összhangban a Tanács által történt kinevezését követő hat hónapot követő naptól, amely időpontot az igazságügyért felelős miniszter közleményként – annak ismertté válását követően haladéktalanul – a Magyar Közlöny mellékletét képező Hivatalos Értesítőben közzétesz.
+
+(6) A (4) bekezdés b) pontjában meghatározott indítványt benyújtó személy az (5) bekezdésben meghatározott határozattal szemben a határozat kézbesítését követő egy hónapon belül jogi képviselője útján felülbírálati indítványt nyújthat be. A továbbiakban a CV/A. Fejezet rendelkezéseinek alkalmazása szempontjából az (5) bekezdésben meghatározott határozatra az eljárást megszüntető határozattal szembeni eljárásra vonatkozó szabályokat kell megfelelően alkalmazni azzal az eltéréssel, hogy ha a határozatot hozó ügyészség vagy nyomozó hatóság vagy a felettes ügyészség a felülbírálati indítványt alaposnak tartja, akkor a 400. § (5)–(9) bekezdését alkalmazni kell.
+
+(7) A (3)–(4) bekezdés az európai uniós forrásokhoz való hozzáférés érdekében szükséges egyes törvények módosításáról szóló 2026. évi XVIII. törvény hatálybalépését követően benyújtott ismételt feljelentésre, megszüntetett eljárás folytatására irányuló indítványokra, vagy ezekre utaló más beadványokra alkalmazható.
 
 876/D. § Ha az elsőfokú bíróság gazdálkodással összefüggő kiemelt bűncselekmény miatt a 13. § (3) bekezdése alapján járt el három hivatásos bíróból álló tanácsban, a büntetőjogi tárgyú és ehhez kapcsolódóan egyéb törvények módosításáról szóló 2023. évi XCVII. törvény 1–9. alcíme hatálybalépését követően a tanács elnökének döntése alapján egyesbíróként, vagy változatlan összetételű tanácsban jár el.
 

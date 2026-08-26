@@ -12,7 +12,7 @@ Az Országgyűlés a demokratikus jogállam, az alkotmányos rend és az Alaptö
 
 - a) egyedi ügy: a természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező szervezet jogát vagy kötelezettségét, jogos érdekét vagy jogi helyzetét érintő vagy eldöntő bírósági eljárás,
 - b) bíró: a bíró, valamint a bírósági titkár, ha törvény rendelkezése alapján az egyesbíró hatáskörében bírósági titkár eljárhat.
-- c) Európai Unió Bírósága: az Európai Unióról szóló szerződés szerinti Bíróság, Törvényszék és különös hatáskörű törvényszékek.
+- c)
 
 #### 2. Az Alkotmánybíróság jogállása
 
@@ -65,11 +65,15 @@ Az Országgyűlés a demokratikus jogállam, az alkotmányos rend és az Alaptö
 
 11. § (1) Az Alkotmánybíróság tagja a megválasztását követő 30 napon belül vagyonnyilatkozatot tesz. A vagyonnyilatkozatra az országgyűlési képviselők vagyonnyilatkozatára vonatkozó szabályokat – az e törvényben meghatározott eltérésekkel – kell megfelelően alkalmazni.
 
-(2) Az Alkotmánybíróság tagja a vagyonnyilatkozatához csatolni köteles a vele közös háztartásban élő házas- vagy élettársának, gyermekeinek (a továbbiakban együtt: családtag) az Alkotmánybíróság tagja vagyonnyilatkozatával azonos tartalmú vagyonnyilatkozatát.
+(2) Az Alkotmánybíróság tagja a vagyonnyilatkozatához csatolni köteles a vele közös háztartásban élő − a Polgári Törvénykönyvről szóló törvény szerinti − hozzátartozója (a továbbiakban: családtag) az Alkotmánybíróság tagja vagyonnyilatkozatára megállapított tartalmú és formájú vagyonnyilatkozatát.
 
-(3) A családtag vagyonnyilatkozata kivételével a vagyonnyilatkozat nyilvános, oldalhű másolatát – a családtag személyes adatai kivételével – a főtitkár az Alkotmánybíróság Hivatalának honlapján haladéktalanul közzéteszi. A vagyonnyilatkozat a honlapról az Alkotmánybíróság tagja megbízatásának megszűnését követő egy év elteltével távolítható el.
+(3) A családtag vagyonnyilatkozata kivételével a vagyonnyilatkozat nyilvános, oldalhű másolatát – a családtag személyes adatai kivételével – a főtitkár az Alkotmánybíróság Hivatalának honlapján haladéktalanul közzéteszi. A vagyonnyilatkozat a honlapról az Alkotmánybíróság tagja megbízatásának megszűnését követő három év elteltével távolítható el.
 
-(4) A vagyonnyilatkozatokat a főtitkár kezeli. A főtitkár az Alkotmánybíróság volt tagjának, valamint családtagjának vagyonnyilatkozatát az Alkotmánybíróság tagja megbízatásának a megszűnését követő egy évig őrzi.
+(4) A vagyonnyilatkozatokat a főtitkár kezeli. A főtitkár az Alkotmánybíróság volt tagjának, valamint családtagjának vagyonnyilatkozatát az Alkotmánybíróság tagja megbízatásának a megszűnését követő három évig őrzi.
+
+(5) Ha az európai uniós költségvetési források felhasználásának ellenőrzéséről szóló törvény rendelkezései szerint az Integritás Hatóság jelentésében azt állapítja meg, hogy az Alkotmánybíróság tagja a vagyonnyilatkozat-tételi kötelezettségét elmulasztotta, illetve a vagyonnyilatkozatában lényeges adatot, tényt szándékosan valótlanul közölt, az Alkotmánybíróság elnöke – érintettsége esetén elnökhelyettese – kezdeményezi a 16. § (5) bekezdés szerinti eljárást.
+
+(6) Ha az Integritás Hatóság az (5) bekezdés szerinti vizsgálata alapján hozott jelentésében az Alkotmánybíróság tagja vagyonnyilatkozata kapcsán a (5) bekezdés alá nem tartozó – kizárólag adminisztratív jellegű, csekély vagy elhanyagolható jelentőséget meghaladó – hiányosságot tárt fel, az Alkotmánybíróság az Alkotmánybíróság elnöke – érintettsége esetén elnökhelyettese – kezdeményezésére százezertől ötmillió forintig terjedő bírságot állapíthat meg az alkotmánybíróval szemben, amelyről az Alkotmánybíróság teljes ülése hoz határozatot. A bírság teljesítését úgy kell biztosítani, hogy az a központi költségvetés Alkotmánybíróságra vonatkozó fejezete működési költségvetésének bevételét képezze.
 
 12. § A 10. §-ban meghatározott összeférhetetlenségi ok esetén az összeférhetetlenséget megállapító alkotmánybírósági határozat meghozatalának időpontjától az összeférhetetlenség megszüntetéséig, valamint a 11. §-ban meghatározott vagyonnyilatkozat-tétel elmulasztása esetén annak teljesítéséig az Alkotmánybíróság tagja a tisztségéből eredő jogkörét nem gyakorolhatja, és díjazásban, valamint juttatásban nem részesülhet.
 
@@ -394,6 +398,16 @@ indítványa alapján elvi véleményt nyilvánít.
 
 (2) A jogorvoslati kérelem alapján az elnök gondoskodik az ügynek a bíróságok szervezetéről és igazgatásáról szóló 2011. évi CLXI. törvény 108/A. § (5) bekezdése szerinti határidő betartását szolgáló időben történő napirendre vételéről.
 
+36/C. § (1) Az Alkotmánybíróság a kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbiakban: Kit.) 185. § (4) bekezdésében meghatározott esetben a jogosult által benyújtott, határozott kérelmet tartalmazó jogorvoslati kérelemre jár el. A jogorvoslati kérelemben – a vonatkozó iratok szükség szerinti egyidejű megküldésével – meg kell jelölni azon okokat, amelyek alapján az indítványozó megítélése szerint a Kúriának a magatartásra kötelezés tárgyában hozott döntése nem felel meg a törvényi rendelkezéseknek.
+
+(2) Ha a jogorvoslati kérelem elkésett, azt az Alkotmánybíróság érdemi vizsgálat nélkül visszautasítja. A határidő elmulasztásának következményét nem lehet alkalmazni, ha az Alkotmánybíróságnak címzett beadványt legkésőbb a határidő utolsó napján ajánlott küldeményként postára adták. A jogorvoslati kérelem benyújtására rendelkezésre álló határidő elmulasztása esetén igazolásnak van helye.
+
+(3) Ha nincs helye a (2) bekezdés szerinti visszautasításnak, az Alkotmánybíróság a jogorvoslati kérelemről a Kit. 185. § (4) bekezdése szerinti határidőn belül dönt.
+
+(4) Ha az Alkotmánybíróság azt állapítja meg, hogy az indítványozó jogorvoslati kérelme megalapozott, a Kúria döntését megsemmisíti, egyéb esetben a jogorvoslati kérelmet elutasítja.
+
+(5) A jogorvoslati kérelem alapján az elnök gondoskodik az ügynek a Kit. 185. § (4) bekezdése szerinti határidő betartását szolgáló időben történő napirendre vételéről.
+
 #### 15. Az önkormányzati rendelet, a közjogi szervezetszabályozó eszközök és jogegységi határozatok vizsgálata
 
 37. § (1) Az Alkotmánybíróság a 24–26. §-ban meghatározott hatáskörében az önkormányzati rendelet Alaptörvénnyel való összhangját akkor vizsgálja, ha a vizsgálat tárgya az önkormányzati rendelet más jogszabályba ütközésének vizsgálata nélkül, kizárólag az Alaptörvénnyel való összhang megállapítása.
@@ -406,21 +420,9 @@ indítványa alapján elvi véleményt nyilvánít.
 
 (2) Ha a konkrét alkotmányjogi probléma állami szerv jogállásával, működésével, vagy feladat- és hatáskörével összefüggésben merül fel, az Alkotmánybíróság az Alaptörvény rendelkezésének értelmezését az (1) bekezdés alapján akkor végzi, ha az alkotmányjogi probléma az Alaptörvénnyel összhangban történő működést, illetve feladat- és hatáskörgyakorlást ellehetetleníti, illetve az értelmezési bizonytalanság a jogbiztonságot veszélyezteti.
 
-#### 16/A. Előzetes európai uniós értelmező véleményről szóló döntés
+#### 16/A.
 
-38/A. § Az Alkotmánybíróság az Európai Unió Bírósága megkeresésére és az uniós alapító szerződésekben biztosított hatáskörének tiszteletben tartása mellett Magyarország
-
-- a) alkotmányos berendezkedése, ideértve az alapvető állami funkciói – köztük az állam területi integritásának biztosítása, a közrend fenntartása és a nemzeti biztonság védelme –,
-- b) alkotmányos
-  - ba) rendje,
-  - bb) követelményei, és
-  - bc) hagyományai,
-- c) nemzeti identitása,
-- d) szuverenitása,
-- e) népességére vonatkozó elidegeníthetetlen rendelkezési joga,
-- f) Alaptörvényében védett alapvető jogok és szabadságok, valamint emberi méltóság
-
-értelmezésére vonatkozóan előzetes véleményt nyilvánít az Alaptörvénnyel való összhang szempontjából, ha az Európai Unió Bírósága előtt folyamatban lévő ügyben történő döntéshozatallal összefüggésben felmerül ezen kérdések érintettsége, és az értelmezés közvetlenül levezethető az Alaptörvényből.
+#### 38/A. §
 
 #### 17. Az Alkotmánybíróság határozatainak jogkövetkezményei
 
@@ -816,6 +818,10 @@ indokolt, és a bíróság az 53. § (4) bekezdése alapján a döntés végreha
 74/C. § (1) Az Alkotmánybíróság tagja az európai uniós költségvetési források felhasználásának ellenőrzésével összefüggő egyes, vagyonnyilatkozattal kapcsolatos törvények módosításáról szóló 2022. évi XXXI. törvénnyel megállapított rendelkezéseknek megfelelően, az Európai Bizottság kérésére egyes törvényeknek a kondicionalitási eljárás eredményes lezárása érdekében szükséges módosításáról szóló 2022. évi LVI. törvénnyel megállapított tartalommal és formában először – 2022. november 1. napján fennálló állapot szerint − 2023. január 31-ig tesz vagyonnyilatkozatot, amelyhez csatolja a vele közös háztartásban élő családtagjának vagyonnyilatkozatát is.
 
 (2) Az európai uniós költségvetési források felhasználásának ellenőrzésével összefüggő egyes, vagyonnyilatkozattal kapcsolatos törvények módosításáról szóló 2022. évi XXXI. törvény hatálybalépése napján folyamatban lévő vagyonnyilatkozattal kapcsolatos eljárásokban az eljárás megindulása napján hatályos szabályokat kell alkalmazni.
+
+(3) Az Alkotmánybíróság tagja az európai uniós forrásokhoz való hozzáférés érdekében szükséges egyes törvények módosításáról szóló 2026. évi XVIII. törvény által megállapított tartalommal és formában először – 2026. december 31. napján fennálló állapot szerint − 2027. január 31-ig tesz vagyonnyilatkozatot, amelyhez csatolja a vele közös háztartásban élő − a Polgári Törvénykönyvről szóló törvény szerinti − hozzátartozója vagyonnyilatkozatát is.
+
+(4) Az európai uniós forrásokhoz való hozzáférés érdekében szükséges egyes törvények módosításáról szóló 2026. évi XVIII. törvény hatálybalépése napján folyamatban lévő vagyonnyilatkozattal kapcsolatos eljárásokban az eljárás megindulása napján hatályos szabályokat kell alkalmazni.
 
 74/D. § (1) A 2026. január 1-jén az Alkotmánybíróság Hivatalában foglalkoztatott köztisztviselők esetében a közszolgálati munkaszerződést – figyelemmel a különleges jogállású szervekről és az általuk foglalkoztatottak jogállásáról szóló 2019. évi CVII. törvény 98. § (3) bekezdésére is – 2026. január 31-éig kell megkötni.
 

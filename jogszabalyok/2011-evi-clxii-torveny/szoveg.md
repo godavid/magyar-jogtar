@@ -1891,7 +1891,7 @@ irányadó összeggel azonos.
 
 (3) A bírói és hozzátartozói vagyonnyilatkozatok személyi és vagyoni részeinek megsemmisítéséről a munkáltatói jogkör gyakorlója gondoskodik, aki a vagyonnyilatkozatok őrzésére megállapított időtartam leteltekor – a nyilvántartási szám és a kiegészítő kód egyidejű közlésével – haladéktalanul megkeresi az OBH-t az ott kezelt vagyoni részek visszaküldése iránt. Az OBH a vagyonnyilatkozatokat a megkeresés beérkezésétől számított 15 napon belül köteles visszaküldeni.
 
-203. § (1) A bíró vagyonnyilatkozatába a bíró és a munkáltatói jogkör gyakorlója, a hozzátartozói vagyonnyilatkozatba – a reá vonatkozó adatok tekintetében – a bíróval közös háztartásban élő hozzátartozója, továbbá mind a bírói, mind a hozzátartozói vagyonnyilatkozatba az e fejezet szerinti ellenőrzési eljárás esetén az OBT tagjai, valamint a szolgálati jogvitával összefüggésben a szolgálati bíróság, illetve a bíróság jogosult betekinteni.
+203. § (1) A bíró vagyonnyilatkozatába a bíró és a munkáltatói jogkör gyakorlója, a hozzátartozói vagyonnyilatkozatba – a reá vonatkozó adatok tekintetében – a bíróval közös háztartásban élő hozzátartozója, továbbá mind a bírói, mind a hozzátartozói vagyonnyilatkozatba az európai uniós költségvetési források felhasználásának ellenőrzéséről szóló törvény szerinti vagyonnyilatkozati feladatkörével összefüggésben eljáró Integritás Hatóság, továbbá az e fejezet szerinti ellenőrzési eljárás esetén az OBT tagjai, valamint a szolgálati jogvitával összefüggésben a szolgálati bíróság, illetve a bíróság jogosult betekinteni.
 
 (2) A vagyonnyilatkozatban foglalt adatokról harmadik személynek csak a bíró, illetve – a reá vonatkozó adatok tekintetében – a vele közös háztartásban élő hozzátartozó írásbeli hozzájárulásával adható tájékoztatás.
 
@@ -1923,6 +1923,12 @@ irányadó összeggel azonos.
 
 207. § Az OBT az ellenőrzési eljárás megállapításait közli a munkáltatói jogkör gyakorlójával. A munkáltatói jogkör gyakorlója a döntéséről és annak indokairól 15 napon belül tájékoztatja a bírót és az OBT-t. Ha a bíró a munkáltatói jogkör gyakorlójának a 90. § k) pontjára alapított döntését vitatja, jogorvoslatért bírósághoz fordulhat.
 
+207/A. § (1) Ha az európai uniós költségvetési források felhasználásának ellenőrzéséről szóló törvény szerinti vagyonnyilatkozati feladatkörével összefüggésben eljáró Integritás Hatóság a bíró vagyonnyilatkozatával összefüggésben vizsgálatot indít, a személyi és vagyoni rész adatait egymáshoz kell rendelni.
+
+(2) Ha az Integritás Hatóság az (1) bekezdés szerinti vizsgálata alapján hozott jelentésében azt állapítja meg, hogy a bíró a vagyonnyilatkozat-tételi kötelezettségét elmulasztotta, illetve a vagyonnyilatkozatában lényeges adatot, tényt szándékosan valótlanul közölt, az OBT az ellenőrzési eljárást haladéktalanul lefolytatja, továbbá annak eredményéről – így különösen a megtett intézkedésekről – az Integritás Hatóságot tájékoztatja.
+
+(3) Ha az Integritás Hatóság az (1) bekezdés szerinti vizsgálata alapján hozott jelentésében a bíró vagyonnyilatkozata kapcsán a (2) bekezdés alá nem tartozó – kizárólag adminisztratív jellegű, csekély vagy elhanyagolható jelentőséget meghaladó – hiányosságot tárt fel, az OBT az ellenőrzési eljárást haladéktalanul lefolytatja, továbbá – az ellenőrzési eljárás megállapításainak figyelembe vételével – százezertől ötmillió forintig terjedő vagyoni szankciót alkalmazhat a bíróval szemben.
+
 #### 75. A Kúria elnökére és az OBH elnökére vonatkozó rendelkezések
 
 208. § (1) A Kúria elnökére és az OBH elnökére a 197–207. §-ban foglalt rendelkezéseket az e §-ban, valamint a 209. és 210. §-ban foglalt eltérésekkel kell alkalmazni.
@@ -1937,11 +1943,21 @@ irányadó összeggel azonos.
 
 (3) A vagyonnyilatkozattal összefüggésben a munkáltatói jogkör gyakorlóján az Országgyűlést kell érteni.
 
+(4) Ha az európai uniós költségvetési források felhasználásának ellenőrzéséről szóló törvény szerinti vagyonnyilatkozati feladatkörével összefüggésben eljáró Integritás Hatóság a Kúria elnöke vagy az OBH elnöke vagyonnyilatkozatával összefüggésben vizsgálatot indít, az ezen adatokat tartalmazó borítékok felbontását követően a személyi és vagyoni rész adatait egymáshoz kell rendelni.
+
+(5) Ha az Integritás Hatóság a (4) bekezdés vizsgálata alapján hozott jelentésében azt állapítja meg, hogy a Kúria elnöke vagy az OBH elnöke vagyonnyilatkozatában lényeges adatot, tényt szándékosan valótlanul közölt, a (2) bekezdés szerinti vizsgálóbizottság az ellenőrzést haladéktalanul lefolytatja, továbbá a (2) bekezdésben foglalt tájékoztatáson túl, annak eredményéről – így különösen a megtett intézkedésekről – az Integritás Hatóságot is tájékoztatja.
+
+(6) Ha az Integritás Hatóság a (4) bekezdés szerinti vizsgálata alapján hozott jelentésében a Kúria elnöke vagy az OBH elnöke vagyonnyilatkozata kapcsán az (5) bekezdés alá nem tartozó – kizárólag adminisztratív jellegű, ugyanakkor a csekély vagy elhanyagolható jelentőséget meghaladó – hiányosságot tárt fel, kezdeményezi az (5) bekezdés szerinti vizsgálóbizottság eljárását, amely az ellenőrzést haladéktalanul lefolytatja, és ha az Integritás Hatóság (4) bekezdés szerinti vizsgálata alapján hozott jelentésében feltárt hiányosság megalapozott, – a felrótt mulasztás súlyának figyelembevételével – százezertől ötmillió forintig terjedő bírság megállapításáról dönt. A bírság teljesítését úgy kell biztosítani, hogy az a központi költségvetés bíróságokra vonatkozó fejezete működési költségvetésének bevételét képezze.
+
+(7) A Kúria elnöke vagy OBH elnöke a bírságról szóló döntés írásbeli közlését követő nyolc napon belül kérheti az Országgyűléstől – a házelnökhöz benyújtott kérelemmel – a döntés hatályon kívül helyezését. A kérelemről az Országgyűlés vita nélkül, a kérelem benyújtását követő ülésén határoz, ha a kérelem legkésőbb az ülést megelőző hét utolsó munkanapján beérkezik. Ellenkező esetben az Országgyűlés a kérelemről az annak benyújtását követő második ülésén dönt.
+
+(8) Az Országgyűlés a (7) bekezdés szerinti kérelem esetén a vizsgálóbizottság döntését hatályában fenntarthatja, vagy a kérelemnek helyt adva azt hatályon kívül helyezheti.
+
 210. § A Kúria elnökének és az OBH elnökének vagyonnyilatkozata – az azonosító adatok kivételével – nyilvános. A vagyonnyilatkozat nyilvánosságra hozataláról az Országgyűlés elnöke gondoskodik. A hozzátartozói vagyonnyilatkozat nem nyilvános.
 
 #### 76. A Kúriára, az OBH-ba és az érintett szervhez beosztott bíró vagyonnyilatkozata
 
-211. § A 197–207. § rendelkezéseit kell alkalmazni a Kúriára, az OBH-ba és az érintett szervhez beosztott bíróra is, azzal, hogy a munkáltatói jogkör gyakorlója a Kúria elnöke, az OBH elnöke, illetve az érintett szerv vezetője.
+211. § A 197–207/A. § rendelkezéseit kell alkalmazni a Kúriára, az OBH-ba és az érintett szervhez beosztott bíróra is, azzal, hogy a munkáltatói jogkör gyakorlója a Kúria elnöke, az OBH elnöke, illetve az érintett szerv vezetője.
 
 ### XIV. Fejezet — AZ ÜLNÖK JOGÁLLÁSA ÉS JAVADALMAZÁSA
 
@@ -2273,7 +2289,7 @@ kerülhet sor.
 - a) az 55. § (3a) bekezdése szerinti apai pótszabadságot nem vette igénybe, vagy
 - b) az 55. § (3a) bekezdése szerinti apai pótszabadságot igénybe vette, annak és a Módtv. szerinti apasági szabadság különbözetének megfelelő munkanapok tartamára.
 
-232/X. § (1) E törvénynek az egyes igazságügyi tárgyú törvényeknek a magyar helyreállítási és ellenállóképességi tervhez kapcsolódó módosításáról szóló 2023. évi X. törvénnyel módosított rendelkezései nem érintik az egyes igazságügyi tárgyú törvényeknek a magyar helyreállítási és ellenállóképességi tervhez kapcsolódó módosításáról szóló 2023. évi X. törvény hatálybalépésének napjáig hatályos rendelkezések alapján bíróvá kinevezett alkotmánybíró bírói kinevezését. E bíró szolgálati viszonya szünetel a kinevezéstől az Alkotmánybíróságban betöltött tagsága megszűnéséig. A szolgálati viszony szünetelését követően a bírót a választása szerinti ítélőtáblára kell beosztani. Ha e bíró a bírói szolgálati viszony szünetelése alatt betölti az Alaptörvény 26. cikk (2) bekezdése szerinti általános öregségi nyugdíjkorhatárt, a felmentésére vonatkozó javaslatot – az OBH elnökének egyidejű értesítése mellett – az Alkotmánybíróság elnöke terjeszti a köztársasági elnök elé. Az előterjesztésben meg kell jelölni a felmentés jogcímét és a megszűnés időpontját.
+232/X. § (1) E törvénynek az egyes igazságügyi tárgyú törvényeknek a magyar helyreállítási és ellenállóképességi tervhez kapcsolódó módosításáról szóló 2023. évi X. törvénnyel módosított rendelkezései nem érintik az egyes igazságügyi tárgyú törvényeknek a magyar helyreállítási és ellenállóképességi tervhez kapcsolódó módosításáról szóló 2023. évi X. törvény hatálybalépésének napjáig hatályos rendelkezések alapján bíróvá kinevezett alkotmánybíró bírói kinevezését. E bíró szolgálati viszonya szünetel a kinevezéstől az Alkotmánybíróságban betöltött tagsága megszűnéséig. Ha e bíró a bírói szolgálati viszony szünetelése alatt betölti az Alaptörvény 26. cikk (2) bekezdése szerinti általános öregségi nyugdíjkorhatárt, a felmentésére vonatkozó javaslatot – az OBH elnökének egyidejű értesítése mellett – az Alkotmánybíróság elnöke terjeszti a köztársasági elnök elé. Az előterjesztésben meg kell jelölni a felmentés jogcímét és a megszűnés időpontját.
 
 (2) E törvénynek az egyes igazságügyi tárgyú törvényeknek a magyar helyreállítási és ellenállóképességi tervhez kapcsolódó módosításáról szóló 2023. évi X. törvénnyel módosított rendelkezései nem érintik az egyes igazságügyi tárgyú törvényeknek a magyar helyreállítási és ellenállóképességi tervhez kapcsolódó módosításáról szóló 2023. évi X. törvény hatályba lépésének napjáig hatályos 27. és 27/A. § rendelkezései alapján beosztott bíró jogállását.
 

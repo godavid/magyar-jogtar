@@ -342,7 +342,7 @@ segíti, amelyre az államtitkár titkárságának szabályai az irányadóak.
 
 (5) A politikai felsővezetők, a közigazgatási államtitkárok és a helyettes államtitkárok személyi anyagának nyilvántartását a Miniszterelnöki Kormányiroda vezeti.
 
-(6) A (2) bekezdés szerinti minisztérium közigazgatási államtitkára és a Miniszterelnöki Kormányiroda közigazgatási államtitkára megállapodást köthet a (2) bekezdés szerinti minisztériumnak a Miniszterelnöki Kormányiroda (5) bekezdés szerinti, 7. § (3) bekezdése szerinti, valamint 183. § (2), (4) és (7) bekezdése, továbbá a 186. § szerinti feladatai ellátásában való közreműködéséről.
+(6) A (2) bekezdés szerinti minisztérium közigazgatási államtitkára és a Miniszterelnöki Kormányiroda közigazgatási államtitkára megállapodást köthet a (2) bekezdés szerinti minisztériumnak a Miniszterelnöki Kormányiroda (5) bekezdés szerinti, 7. § (3) bekezdése szerinti,, továbbá a 186. § szerinti feladatai ellátásában való közreműködéséről.
 
 #### 17. § [A Miniszterelnöki Kormányiroda vezetője]
 
@@ -2122,7 +2122,7 @@ ha a kormánytisztviselő álláshelyi feladatai körébe az adott nemzetiségi 
 
 (11) Nem keletkeztet összeférhetetlenséget az olyan állami befolyás gyakorlása következtében gazdasági társaságban vagy más szervezetben keletkező vezető tisztségviselői, illetve felügyelőbizottsági, auditbizottsági tagság, amelynek alapja az államháztartás, illetve a pénzügyi közvetítőrendszer stabilitásának erősítése érdekében hozott állami intézkedés, különös tekintettel az állami tőkeemelésre, kölcsönnyújtásra, kezesség-, illetve garanciavállalásra.
 
-(11a) Nem keletkeztet összeférhetetlenséget a közfeladatot ellátó közérdekű vagyonkezelő alapítvány kuratóriumában, felügyelőbizottságában betöltött tagság, valamint a közfeladatot ellátó közérdekű vagyonkezelő alapítványban betöltött vagyonellenőri tisztség azzal, hogy az érintett nem vehet részt olyan döntéshozatalban, illetve nem végezhet olyan tevékenységet, amelyet a közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló 2021. évi IX. törvény 15. § (3) bekezdése tilt.
+(11a)
 
 (11b) Nem keletkeztet összeférhetetlenséget a HUN-REN Magyar Kutatási Hálózat Irányító Testületében vagy felügyelőbizottságában betöltött tagság, azzal, hogy az érintettnek meg kell felelnie a HUN-REN Magyar Kutatási Hálózatról szóló 2024. évi XCI. törvény 9. § és 10. §-ában foglaltaknak.
 
@@ -4054,25 +4054,25 @@ együttesen kell tárolni (a továbbiakban együtt: személyi anyag).
 
 (3) Az (1) bekezdésben foglaltaktól eltérően az országgyűlési képviselői megbízatással nem rendelkező államtitkár, a miniszterelnök politikai igazgatója és a miniszterelnök nemzetbiztonsági főtanácsadója a Kormány előzetes engedélyével lehet a Magyar Nemzeti Bank felügyelőbizottságának, a Nemzeti Vagyongazdálkodási Tanácsnak, az Országos Betétbiztosítási Alap igazgatótanácsának, a Szanálási Alap igazgatótanácsának, a Likviditási Bizottságnak és a Fenntartható Gazdaságfehéredésért Felelős Bizottságnak, a közvetlen vagy közvetett többségi állami tulajdonban lévő befektetési alapkezelő irányító testületének, illetve felügyeleti feladatokat ellátó irányító testületének, valamint közvetlen vagy közvetett többségi állami tulajdonban lévő gazdasági társaság igazgatóságának és felügyelőbizottságának tagja, továbbá a Nemzeti Földalapkezelő Szervezet Birtokpolitikai Tanácsának elnöke és tagja.
 
-(3a) Az (1) bekezdésben foglalt összeférhetetlenségi okokat közfeladatot ellátó közérdekű vagyonkezelő alapítvány, illetve közérdekű vagyonkezelő alapítvány kuratóriumának vagy felügyelőbizottságának tagjaira, illetve a közfeladatot ellátó közérdekű vagyonkezelő alapítványban vagyonellenőri tisztséget betöltőkre nem kell alkalmazni, azzal hogy az érintett nem vehet részt olyan döntéshozatalban, illetve nem végezhet olyan tevékenységet, amelyet a közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló 2021. évi IX. törvény 15. § (3) bekezdése tilt.
+(3a)
 
 (4) Ha az összeférhetetlenségi eljárás ideje alatt a politikai felsővezető a vele szemben fennálló összeférhetetlenségi okot megszünteti, a miniszterelnök esetében az összeférhetetlenség nem mondható ki, a miniszter, a miniszterelnök politikai igazgatója, a miniszterelnök nemzetbiztonsági főtanácsadója és az államtitkár esetében a felmentést mellőzni kell.
 
 #### 183. § [Az országgyűlési képviselői megbízatással nem rendelkező politikai felsővezető vagyonnyilatkozata]
 
-(1) Az országgyűlési képviselői megbízatással nem rendelkező politikai felsővezető a megbízatása keletkezését követő harminc napon belül vagyonnyilatkozatot tesz az Országgyűlésről szóló 2012. évi XXXVI. törvény 1. melléklete szerinti tartalommal és formában, amelyhez csatolni köteles a vele közös háztartásban élő házas- vagy élettársának, továbbá gyermekének (a továbbiakban együtt: családtag) vagyonnyilatkozatát. Az országgyűlési képviselői megbízatással nem rendelkező politikai felsővezető és a családtag vagyonnyilatkozatára az országgyűlési képviselők vagyonnyilatkozatára vonatkozó szabályokat – az e törvényben meghatározott eltérésekkel – kell megfelelően alkalmazni.
+(1) Az országgyűlési képviselői megbízatással nem rendelkező politikai felsővezető a megbízatása keletkezését követő harminc napon belül, majd azt követően minden évben január 31-ig az előző év december 31. napján fennálló állapot szerint, valamint a megbízatásának megszűnését követő harminc napon belül vagyonnyilatkozatot tesz az Országgyűlésről szóló 2012. évi XXXVI. törvény 1. melléklete szerinti tartalommal és formában, amelyhez csatolni köteles a vele közös háztartásban élő − a Polgári Törvénykönyvről szóló törvény szerinti − hozzátartozója vagyonnyilatkozatát. Az országgyűlési képviselői megbízatással nem rendelkező politikai felsővezető és a vele közös háztartásban élő − a Polgári Törvénykönyvről szóló törvény szerinti − hozzátartozója vagyonnyilatkozatára az országgyűlési képviselők vagyonnyilatkozatára vonatkozó szabályokat kell megfelelően alkalmazni.
 
-(2) A vagyonnyilatkozatokat a Miniszterelnöki Kormányiroda kezeli.
+(2)
 
 (3)
 
-(4) A családtag vagyonnyilatkozata kivételével az országgyűlési képviselői megbízatással nem rendelkező politikai felsővezető vagyonnyilatkozatának nyilvános, oldalhű másolatát a Miniszterelnöki Kormányiroda a honlapján haladéktalanul közzéteszi. A vagyonnyilatkozat a honlapról az országgyűlési képviselői megbízatással nem rendelkező politikai felsővezető megbízatásának megszűnését követő egy év elteltével távolítható el.
+(4)
 
-(5) Az országgyűlési képviselői megbízatással nem rendelkező politikai felsővezető vagyonnyilatkozatával kapcsolatos eljárást az Országgyűlés összeférhetetlenségi ügyekkel foglalkozó állandó bizottságának (a továbbiakban: összeférhetetlenségi bizottság) elnökénél bárki kezdeményezheti a vagyonnyilatkozat konkrét tartalmára vonatkozó olyan tényállítással, amely pontosan megjelöli a vagyonnyilatkozat kifogásolt részét és tartalmát. Ha a kezdeményezés nem felel meg az e bekezdésben foglalt követelményeknek, nyilvánvalóan alaptalan, vagy az ismételten benyújtott kezdeményezés új tényállítást vagy adatot nem tartalmaz, az összeférhetetlenségi bizottság elnöke az eljárás lefolytatása nélkül elutasítja a kezdeményezést. A vagyonnyilatkozatban foglaltak valóságtartalmát az összeférhetetlenségi bizottság ellenőrzi.
+(5)
 
-(6) A vagyonnyilatkozattal kapcsolatos eljárás során az összeférhetetlenségi bizottság felhívására az országgyűlési képviselői megbízatással nem rendelkező politikai felsővezető köteles a saját, illetve családtagja vagyonnyilatkozatában feltüntetett vagyon-, jövedelem- és gazdasági érdekeltségi viszonyokat igazoló adatokat haladéktalanul, írásban bejelenteni. Az igazoló adatokba az összeférhetetlenségi bizottság tagjai tekinthetnek be. Az ellenőrzés eredményéről az összeférhetetlenségi bizottság elnöke tájékoztatja az Országgyűlés elnökét, aki az összeférhetetlenségi bizottság által megállapított tényekről a soron következő ülésen tájékoztatja az Országgyűlést.
+(6)
 
-(7) Az országgyűlési képviselői megbízatással nem rendelkező politikai felsővezető által benyújtott igazoló adatokat a vagyonnyilatkozattal kapcsolatos eljárás lezárulását követő harmincadik napon törölni kell. A Miniszterelnöki Kormányiroda az országgyűlési képviselői megbízatással nem rendelkező politikai felsővezető, valamint családtagja vagyonnyilatkozatát az országgyűlési képviselői megbízatással nem rendelkező politikai felsővezető megbízatásának a megszűnését követő egy évig őrzi, azt követően megsemmisíti.
+(7)
 
 #### 184. § [Az országgyűlési képviselői megbízatással rendelkező politikai felsővezető vagyonnyilatkozata]
 
@@ -4093,13 +4093,22 @@ kezdeményezi.
 
 (2a) Az (1) bekezdés szerinti esetben a miniszterelnök a miniszterelnök politikai igazgatóját, a miniszterelnök nemzetbiztonsági főtanácsadóját e megbízatása alól felmenti.
 
-(3)
+(3) Ha a vagyonnyilatkozat-tételi kötelezettség kapcsán az európai uniós költségvetési források felhasználásának ellenőrzéséről szóló törvény rendelkezései alapján eljáró Integritás Hatóság jelentésében azt állapítja meg, hogy a 3. § (3) bekezdés b)–e) pontja szerinti politikai felsővezető a vagyonnyilatkozat-tételt elmulasztotta, illetve vagyonnyilatkozatában lényeges adatot, tényt szándékosan valótlanul közölt, a miniszterelnök a (2) és (2a) bekezdés szerint jár el. Ha a miniszterelnök az e kötelezettségének tizenöt napon belül nem tesz eleget, az Integritás Hatóság a határidő lejártát követő harminc napon belül keresettel kérheti a Kúriától a miniszterelnöknek az Integritás Hatóság jelentésében foglalt magatartásra való kötelezését. A kérelmet a Kúria harminc napon belül, közigazgatási nemperes eljárásban, öt hivatásos bíróból álló tanácsban bírálja el.
+
+(4) A Kúria (3) bekezdése szerinti döntésével szemben az Alkotmánybíróságról szóló törvény rendelkezései szerint három napon belül jogorvoslati kérelem terjeszthető elő az Alkotmánybíróságnál. Az Alkotmánybíróság a jogorvoslati kérelemről a beérkezésétől számított tizenöt napon belül dönt.
+
+(5) Ha a vagyonnyilatkozat-tételi kötelezettség kapcsán az európai uniós költségvetési források felhasználásának ellenőrzéséről szóló törvény rendelkezései alapján eljáró Integritás Hatóság jelentésében azt állapítja meg, hogy a 3. § (3) bekezdés a) pontja szerinti politikai felsővezető a vagyonnyilatkozat-tételi kötelezettségét elmulasztotta, illetve abban lényeges adatot, tényt szándékosan valótlanul közölt, jelentését haladéktalanul közli az Országgyűlés elnökével. Az Országgyűlés elnöke a 3. § (3) bekezdés a) pontja szerinti
+
+- a) országgyűlési képviselői megbízatással nem rendelkező politikai felsővezető esetén a jelentésben foglaltak alapulvételével, az okok további vizsgálata nélkül, illetve
+- b) országgyűlési képviselői megbízatással rendelkező politikai felsővezető esetén az (1) bekezdés a) pontja szerint
+
+haladéktalanul kezdeményezi az összeférhetetlenség kimondását.
 
 #### 186. § [Az adatnyilvánosság]
 
-(1) A politikai felsővezető személyijövedelemadó-bevallásából az összevont adóalap összege, az összevont adóalap adójának összege, az összevont adóalap adóját csökkentő adókedvezmények összege, a külön adózó jövedelmek összege és a külön adózó jövedelmek adójának összege nyilvános. Ezen adatokat a politikai felsővezető a Miniszterelnöki Kormányiroda honlapján való közzététel céljából az adóbevallás benyújtására nyitva álló határidő lejártát követő tizenöt napon belül a Miniszterelnöki Kormányirodának megküldi.
+(1) A politikai felsővezető személyijövedelemadó-bevallásából az összevont adóalap összege (adóalap csökkentő kedvezmények nélkül), az összevont adóalapot csökkentő adóalap kedvezmények összege, az összevont adóalap adóját csökkentő adókedvezmények összege, a külön adózó jövedelmek összege és a külön adózó jövedelmek adójának összege nyilvános. Ezen adatokat a politikai felsővezető az Országgyűlés honlapján való közzététel céljából az adóbevallás benyújtására nyitva álló határidő lejártát követő tizenöt napon belül az Országgyűlésnek megküldi.
 
-(2) A politikai felsővezető illetményére, a részére kifizetett jutalomra és célprémiumra, az országgyűlési képviselői megbízatással rendelkező politikai felsővezető országgyűlési képviselői javadalmazására, illetve a politikai felsővezető részére e megbízatására tekintettel juttatott egyéb juttatásokra vonatkozó adatokat a Miniszterelnöki Kormányiroda honlapján közzé kell tenni.
+(2) A politikai felsővezető illetményére, a részére kifizetett jutalomra és célprémiumra, az országgyűlési képviselői megbízatással rendelkező politikai felsővezető országgyűlési képviselői javadalmazására, illetve a politikai felsővezető részére e megbízatására tekintettel juttatott egyéb juttatásokra vonatkozó adatokat az Országgyűlés honlapján közzé kell tenni.
 
 (3) A (2) bekezdésben meghatározott adatok változása esetén a megváltozott adatokat – a korábbi adat eltávolítása nélkül – a változástól számított tizenöt napon belül kell közzétenni.
 
@@ -4687,7 +4696,7 @@ A közigazgatási államtitkár és a helyettes államtitkár kormányzati szolg
 
 (2) Nem keletkeztet összeférhetetlenséget, ha a közigazgatási államtitkár, illetve a helyettes államtitkár a Magyar Nemzeti Bank felügyelőbizottságának tagja, a Nemzeti Vagyongazdálkodási Tanács tagja, továbbá a Birtokpolitikai Tanács elnöke vagy tagja.
 
-(2a) Nem keletkeztet összeférhetetlenséget a közfeladatot ellátó közérdekű vagyonkezelő alapítvány kuratóriumában, felügyelőbizottságában betöltött tagság, valamint a közfeladatot ellátó közérdekű vagyonkezelő alapítványban betöltött vagyonellenőri tisztség azzal, hogy az érintett nem vehet részt olyan döntéshozatalban, illetve nem végezhet olyan tevékenységet, amelyet a közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló 2021. évi IX. törvény 15. § (3) bekezdése tilt.
+(2a)
 
 (3) Ha az összeférhetetlenségi eljárás ideje alatt a közigazgatási államtitkár, illetve a helyettes államtitkár a vele szemben fennálló összeférhetetlenségi okot megszünteti, az összeférhetetlenség megállapítását mellőzni kell.
 
@@ -5806,6 +5815,16 @@ Az Ukrajna területén fennálló fegyveres konfliktusra tekintettel kihirdetett
 
 alkalmazni kell.
 
+#### 300/F. § [Átmeneti rendelkezés az európai uniós forrásokhoz való hozzáférés érdekében szükséges egyes törvények módosításáról szóló 2026. évi XVIII. törvényhez]
+
+(1) A (2) bekezdésben meghatározott eset kivételével a politikai felsővezető az európai uniós forrásokhoz való hozzáférés érdekében szükséges egyes törvények módosításáról szóló 2026. évi XVIII. törvénnyel (a továbbiakban: Módtv11.) megállapított rendelkezéseknek megfelelően először – 2026. december 31. napján fennálló állapot szerint − 2027. január 31-ig tesz vagyonnyilatkozatot, amelyhez csatolja a vele közös háztartásban élő − a Polgári Törvénykönyvről szóló törvény szerinti − hozzátartozója vagyonnyilatkozatát is.
+
+(2) Amennyiben a politikai felsővezető megbízatása a Módtv11. hatálybalépésének napja és 2026. december 31-e között szűnt vagy szűnik meg, a Módtv11.-gyel a 183. § (1) bekezdésében megállapított rendelkezésnek megfelelően 30 napon belül tesz – a Módtv11.-gyel megállapított e rendelkezés hatálybalépésének napján fennálló állapot szerint – vagyonnyilatkozatot, amelyhez csatolja a vele közös háztartásban élő − a Polgári Törvénykönyvről szóló törvény szerinti − hozzátartozója vagyonnyilatkozatát is.
+
+(3) A Módtv11.-gyel megállapított e rendelkezés hatálybalépését követően a Miniszterelnöki Kormányiroda 30 napon belül megküldi az általa kezelt valamennyi országgyűlési képviselői megbízatással nem rendelkező politikai felsővezető, illetve vele közös háztartásban élő − a Polgári Törvénykönyvről szóló törvény szerinti − hozzátartozó vagyonnyilatkozatát az Országgyűlés Mentelmi Bizottsága részére.
+
+(4) A Módtv11.-gyel megállapított e rendelkezés hatálybalépése napján folyamatban lévő vagyonnyilatkozattal kapcsolatos eljárásokban az eljárás megindulása napján hatályos szabályokat kell alkalmazni.
+
 #### 301. §
 
 #### 302. § [Átmeneti rendelkezés az egyes családügyi és családtámogatási vonatkozású törvények módosításáról szóló 2025. évi XXXIII. törvényhez]
@@ -5892,7 +5911,7 @@ E törvénynek a közszolgálati tárgyú törvények módosításáról szóló
 
 (4) A 320. § (1) bekezdése az Alaptörvény 29. cikk (7) bekezdése alapján sarkalatosnak minősül.
 
-(5) A 95. § (11a) bekezdése, 182. § (3a) bekezdése, valamint a 225. § (2a) bekezdése az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
+(5) A 185. § (4) bekezdése az Alaptörvény 24. cikk (9) bekezdése alapján sarkalatosnak minősül.
 
 #### 333. § [Az Európai Unió jogi aktusainak való megfelelés]
 
@@ -6069,7 +6088,7 @@ IV.
 
 19. családtámogatási kedvezmények
 
-20. politikai felsővezető személyijövedelemadó-bevallásából a nyilvános, honlapra közzétételre szánt változat (az összevont adóalap összege, az összevont adóalap adójának összege, az összevont adóalap adóját csökkentő adókedvezmények összege, a külön adózó jövedelmek összege és a külön adózó jövedelmek adójának összege)
+20. politikai felsővezető személyijövedelemadó-bevallásából a nyilvános, honlapra közzétételre szánt változat [az összevont adóalap összege (adóalap csökkentő kedvezmények nélkül), az összevont adóalapot csökkentő adóalap kedvezmények összege, az összevont adóalap adóját csökkentő adókedvezmények összege, a külön adózó jövedelmek összege és a külön adózó jövedelmek adójának összege]
 
 21. a politikai felsővezetői tisztség betöltésének igazolása céljából kiállított igazolvány száma
 

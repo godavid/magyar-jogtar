@@ -26,7 +26,7 @@ Az Országgyűlés az európai uniós költségvetési források felhasználás�
 
 #### 2. A Hatóság feladatellátása
 
-3. § A Hatóság minden olyan esetben fellép, ahol a Hatóság álláspontja szerint valamely, az európai uniós források felhasználása vagy annak ellenőrzése körében feladat- és hatáskörrel rendelkező szervezet, ideértve a szerződéskötőt is, nem tette meg a szükséges lépéseket olyan csalás, összeférhetetlenség, korrupció és egyéb jogsértés vagy szabálytalanság megelőzésére, felderítésére és kijavítására, amely érinti az európai uniós költségvetéssel való hatékony és eredményes pénzgazdálkodását vagy az Európai Unió pénzügyi érdekeinek védelmét, vagy ennek komoly kockázata felmerül. A Hatóság hatáskörrel rendelkezik különösen az Európai Uniótól részben vagy egészben pénzügyi támogatásban részesülő tervezett, folyamatban lévő vagy korábbi intézkedések vagy projektek tekintetében. Egy projekt kivonása az európai uniós finanszírozásból nem érinti a Hatóság hatásköreit, amennyiben a csalás, összeférhetetlenség, korrupció és egyéb jogsértés vagy szabálytalanság érinti az európai uniós költségvetéssel való hatékony és eredményes pénzgazdálkodást vagy az Európai Unió pénzügyi érdekeinek védelmét, vagy ennek komoly kockázata felmerül.
+3. § A Hatóság minden olyan esetben fellép, ahol a Hatóság álláspontja szerint valamely, az európai uniós források felhasználása vagy annak ellenőrzése körében feladat- és hatáskörrel rendelkező szervezet, ideértve a szerződéskötőt is, nem tette meg a szükséges lépéseket olyan csalás, összeférhetetlenség, korrupció és egyéb jogsértés vagy szabálytalanság megelőzésére, felderítésére és kijavítására, amely érinti az európai uniós költségvetéssel való hatékony és eredményes pénzgazdálkodását vagy az Európai Unió pénzügyi érdekeinek védelmét, vagy ennek komoly kockázata felmerül. A Hatóság hatáskörrel rendelkezik különösen az Európai Uniótól részben vagy egészben pénzügyi támogatásban részesülő tervezett, folyamatban lévő vagy korábbi intézkedések, eljárások vagy projektek tekintetében. A Hatóság hatásköre valamely intézkedés, eljárás vagy projekt európai uniós finanszírozásból való kivonása esetén is fennmarad.
 
 4. § (1) A Hatóság a feladatainak ellátása érdekében kérelemre, hivatalból vagy bejelentés, panasz alapján jár el. Panasz a panaszokról, a közérdekű bejelentésekről, valamint a visszaélések bejelentésével összefüggő szabályokról szóló törvény (a továbbiakban: Pkbtv.) rendelkezéseitől eltérően akkor is benyújtható, ha elintézése más eljárás hatálya tartozik. A Hatóság a feladatkörében bármilyen rendelkezésére álló információ alapján eljárhat.
 
@@ -46,7 +46,7 @@ Az Országgyűlés az európai uniós költségvetési források felhasználás�
 
 (2) A Hatóság vizsgálati feladat- és hatáskörei keretében
 
-- a) vizsgálati eljárást folytathat,
+- a) vizsgálati, illetve vagyonnyilatkozati vizsgálati eljárást folytathat,
 - b) eljárás megindítására hívhatja fel az európai uniós források felhasználásának ellenőrzése körében feladat- és hatáskörrel rendelkező szervezetet,
 - c) kezdeményezheti más szerv eljárását,
 - d) bíróság előtt mulasztási és más pert indíthat.
@@ -56,6 +56,7 @@ Az Országgyűlés az európai uniós költségvetési források felhasználás�
 - a) a részben vagy egészben európai uniós forrásból megvalósuló vagy megvalósítani tervezett közbeszerzésekkel összefüggésben hatósági ellenőrzést folytat,
 - b) az európai uniós forrásból megvalósuló közbeszerzésekkel összefüggésben tájékoztatási kötelezettséget írhat elő,
 - c) a közbeszerzési eljárásból egyes bűncselekményekkel összefüggésben kizárt jogi személyekről, egyéni cégekről és egyéni vállalkozókról (a továbbiakban együtt: gazdasági szereplő) nyilvántartást vezet.
+- d) a vagyonnyilatkozati vizsgálati eljárással összefüggésben vagyonnyilatkozati bírság kiszabására irányuló hatósági eljárást folytat.
 
 (4) A Hatóság jogszabályban meghatározottak szerint ellenőrzi az európai támogatásokat auditáló szerv, valamint a Belső Ellenőrzési és Integritási Igazgatóság foglalkoztatottjai által megtett összeférhetetlenségi nyilatkozatokat.
 
@@ -63,37 +64,11 @@ Az Országgyűlés az európai uniós költségvetési források felhasználás�
 
 (5a) A Belső Ellenőrzési és Integritási Igazgatóság a Hatóság kérésére haladéktalanul biztosítja a Hatóság részére a Belső Ellenőrzési és Integritási Igazgatóság által kezelt összeférhetetlenségi nyilatkozathoz és érdekeltségi nyilatkozatokhoz, valamint valamennyi, a Hatóság jogkörének gyakorlásához szükséges irathoz való hozzáférést.
 
-(6) A Hatóság feladatainak ellátása során, az ahhoz szükséges mértékben ellenőrizheti
+(6)
 
-- 1. a Gazdasági Versenyhivatal elnöke, elnökhelyettese, a Versenytanács tagja,
-- 2. a Médiatanács tagja,
-- 3. az Állami Számvevőszék elnöke és alelnöke,
-- 4. az alapvető jogok biztosa és helyettese,
-- 5. a Nemzeti Adatvédelmi és Információszabadság Hatóság elnöke és elnökhelyettese,
-- 6. az Alkotmánybíróság tagja,
-- 7. a legfőbb ügyész és a legfőbb ügyész helyettese,
-- 8. a Költségvetési Tanács elnöke,
-- 9. a Nemzeti Választási Iroda elnöke és elnökhelyettese,
-- 10. a Magyar Nemzeti Bank elnöke, alelnökei és a Monetáris Tanácsnak a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény 9. § (4) bekezdés c) pontjában meghatározott tagjai, valamint a felügyelőbizottság tagjai,
-- 11. a Nemzeti Emlékezet Bizottságának tagja,
-- 12. a Közbeszerzési Hatóság keretében működő Tanács elnöke, alelnöke és tagja,
-- 13. az országgyűlési képviselői megbízatással nem rendelkező politikai felsővezető,
-- 14. az önkormányzati képviselő és a polgármester és
-- 15. a nemzetiségi önkormányzati képviselő
+(6a)
 
-vagyonnyilatkozatát, és jogosult vagyonnyilatkozati vizsgálati eljárást lefolytatni, és ennek eredménye alapján az 1–15. pontokban meghatározott személyi körre vonatkozó szabályok szerinti vagyonnyilatkozattal kapcsolatos eljárást kezdeményezni. A vagyonnyilatkozattal kapcsolatos eljárás eredményéről a Hatóságot tájékoztatni kell.
-
-(6a) A Hatóság feladatainak ellátása során
-
-- a) a köztársasági elnök,
-- b) az országgyűlési képviselő, a nemzetiségi szószóló és az Országgyűlés háznagya,
-- c) a bíró,
-- d) az országgyűlési képviselői megbízatással rendelkező politikai felsővezető és
-- e) a Szuverenitásvédelmi Hivatal elnöke és elnökhelyettese
-
-vagyonnyilatkozatával kapcsolatban jogosult az a)–e) pontban meghatározott személyi körre vonatkozó szabályok szerinti vagyonnyilatkozattal kapcsolatos eljárást kezdeményezni. A vagyonnyilatkozattal kapcsolatos eljárás eredményéről a Hatóságot tájékoztatni kell.
-
-(7) A Hatóság az egyes vagyonnyilatkozat-tételi kötelezettségekről szóló 2007. évi CLII. törvény (a továbbiakban: Vnytv.) 14. § (1) bekezdés b) pontja szerint bejelentésével kezdeményezheti a Vnytv. szerinti ellenőrzési eljárást azzal a személlyel szemben, akinek vagyonnyilatkozat-tételi kötelezettségét az európai uniós források tekintetében fennálló javaslattételi, döntési vagy ellenőrzési jogosultsága alapozza meg. A Vnytv. szerinti ellenőrzési eljárás eredményéről – ennek keretében különösen a vagyongyarapodási vizsgálat kezdeményezéséről – a Hatóságot tájékoztatni kell.
+(7)
 
 6. § A Hatóság feladat- és hatáskörei nem érintik más szerv feladatköreit és hatáskörgyakorlását, így különösen az európai uniós források kezelésére létrehozott szervek feladatait, valamint az irányítási és ellenőrzési rendszerben meghatározott szerepüket.
 
@@ -122,6 +97,8 @@ vagyonnyilatkozatával kapcsolatban jogosult az a)–e) pontban meghatározott s
 (3) Az integritáskockázat-értékelést a nemzetközileg elismert integritásértékelési módszertannal rendelkező nemzetközi szervezetekkel – így lehetőség szerint a Gazdasági Együttműködési és Fejlesztési Szervezettel – együttműködve és egyeztetve kell elvégezni. A Hatóság figyelembe veszi a magyarországi integritást monitorozó nemzeti és nemzetközi civil szervezetek visszajelzéseit is.
 
 (4) A közbeszerzési rendszerrel kapcsolatos integritáskockázat-értékelés a közbeszerzési rendszerek értékelésére szolgáló nemzetközileg elismert módszertan szerint valósul meg.
+
+(4a) A vagyonnyilatkozat-tételi kötelezettségek ellenőrzésével összefüggő feladatkörei ellátása érdekében a Hatóság az integritáskockázat-értékelése keretében – az ellenőrzések prioritásának és gyakoriságának meghatározása céljából – folyamatosan azonosítja a vagyonnyilatkozat-tételre kötelezett személyek közül azokat, akik tekintetében az integritáskockázat mértéke magas. Az ezen értékelés során a Hatóság különösen a betöltött tisztség, feladatkör alkotmányos súlyát, illetve az ezzel kapcsolatos, az integritásban jelentkező sérülékenység mértékét veszi figyelembe.
 
 (5) A Hatóság az integritáskockázat-értékelés során alkalmazott módszertant a honlapján közzéteszi.
 
@@ -196,7 +173,7 @@ vagyonnyilatkozatával kapcsolatban jogosult az a)–e) pontban meghatározott s
 
 (4) A Hatóság ezen alcím szerinti vizsgálati eljárása nem minősül közigazgatási hatósági eljárásnak, ezen alcím szerinti tevékenységével kapcsolatban közigazgatási pernek nincs helye.
 
-18. § (1) A Hatóság a vizsgálati eljárásban minden olyan rendelkezésre álló információt értékel, amely a feladatai szempontjából releváns. Feladatainak ellátása érdekében a Hatóság bármely az adott ügyben érintett személytől vagy szervezettől a feladat- és hatáskörével összefüggően adatszolgáltatást kérhet.
+18. § (1) A Hatóság a vizsgálati eljárásban minden olyan rendelkezésre álló információt értékel, amely a feladatai szempontjából releváns. Feladatainak ellátása érdekében a Hatóság bármely az adott ügyben érintett személytől vagy szervezettől a feladat- és hatáskörével összefüggően adatszolgáltatást kérhet, ennek keretében különösen közhiteles nyilvántartásból vagy állami szervnél vezetett nyilvántartásból megismerheti azon adatokat – illetve azon törvény által védett titkokat –, amelyek az eljárása lefolytatásához szükségesek. Az adat megismerésére a Hatóság általi megkeresés útján, illetve – jogszabály rendelkezése szerint, ha a Hatóság az adott közhiteles nyilvántartás vagy adatbázis kapcsán megfelelő adatkapcsolattal rendelkezik – közvetlen adatkapcsolat útján is sor kerülhet.
 
 (2) A Hatóság megkeresheti az európai uniós források felhasználásának ellenőrzése körében feladat- és hatáskörrel rendelkező szervezetet, hogy a nevében bizonyítási jellegű cselekményeket végezzen, a megkeresett szervezet az ellenőrzésére vonatkozó szabályok szerint jár el. A Hatóság megkeresésére a 25. § rendelkezéseit megfelelően alkalmazni kell.
 
@@ -206,11 +183,11 @@ vagyonnyilatkozatával kapcsolatban jogosult az a)–e) pontban meghatározott s
 - b) a vizsgált adatkezelőtől, illetve a vizsgált adatkezelő bármely munkatársától írásbeli és szóbeli felvilágosítást kérhet,
 - c) a vizsgált üggyel összefüggésbe hozható bármely szervezettől vagy személytől írásbeli, illetve szóbeli felvilágosítást, továbbá a vizsgált üggyel összefüggésbe hozható adatról, iratról – ideértve az elektronikus adathordozón tárolt iratokat is – másolatot kérhet.
 
-(4) A Hatóság eljárása során az annak lefolytatásához szükséges mértékben kezelheti mindazokat a személyes adatokat, valamint törvény által védett titoknak és hivatás gyakorlásához kötött titoknak minősülő adatokat, amelyek a vizsgálattal összefüggnek, és amelyek kezelése a vizsgálat eredményes lefolytatása érdekében szükséges.
+(4) A Hatóság eljárása során az annak lefolytatásához szükséges mértékben kezelheti mindazokat a személyes adatokat, valamint törvény által védett titoknak – így különösen adótitoknak, banktitoknak vagy üzleti titoknak minősülő – és hivatás gyakorlásához kötött titoknak minősülő adatokat, amelyek a vizsgálattal összefüggnek, és amelyek kezelése a vizsgálat eredményes lefolytatása érdekében szükséges.
 
 (5) A Hatóság köztisztviselője – a minősített adat védelméről szóló törvény rendelkezéseinek megfelelően – vizsgálata során a vizsgálat lefolytatásához szükséges minősített adatokat megismerheti, arról kivonatot és másolatot készíthet, és a minősített adatot birtokában tarthatja.
 
-(6) A Hatóság (1) bekezdés szerinti adatkérésének a vizsgált adatkezelő, illetve az eljárási cselekménnyel érintett más szervezet vagy személy a Hatóság által megállapított – legfeljebb 60 napos – határidőn belül köteles eleget tenni. A Hatóság által megállapított határidő a (3) bekezdés b) és c) pontja szerinti esetben tizenöt napnál rövidebb nem lehet.
+(6) A Hatóság (1) bekezdés szerinti adatkérésének a vizsgált adatkezelő, illetve az eljárási cselekménnyel érintett más szervezet vagy személy a Hatóság által megállapított – legfeljebb 30 napos – határidőn belül köteles eleget tenni. A Hatóság által megállapított határidő a (3) bekezdés b) és c) pontja szerinti esetben tizenöt napnál rövidebb nem lehet. Ha a Hatóság (1) bekezdés szerinti, közhiteles nyilvántartás vagy állami szervnél vezetett nyilvántartás kapcsán intézett megkeresése olyan adat megismerésére irányul, amely nem áll rendelkezésre a megkeresett szervnél vagy amely törvény rendelkezése alapján nem adható át, erről a Hatóságot a Hatóság által megállapított határidőn belül tájékoztatja. A Hatóság a nem teljesített megkereséssel összefüggésben a közigazgatási perrendtartásról szóló 2017. évi I. törvény rendelkezései szerint mulasztási pert indíthat a tájékoztatás közlésétől vagy az erre nyitva álló határidő elteltét követő tizenöt napon belül, azzal, hogy a bíróság a mulasztási perben harminc napon belül határoz.
 
 (7) A (3) bekezdés b) és c) pontja szerinti felvilágosítást az arra felhívott személy megtagadhatja, ha
 
@@ -236,6 +213,81 @@ vagyonnyilatkozatával kapcsolatban jogosult az a)–e) pontban meghatározott s
 (4) A vizsgált személy vagy szervezet köteles tájékoztatni a Hatóságot a (3) bekezdésben foglaltak végrehajtásáról vagy arról, hogy az ajánlásokkal nem ért egyet és annak indokairól.
 
 (5) Ha a Hatóság az európai uniós források felhasználásával összefüggésben visszásságot tár fel, illetve nem tartja megfelelőnek az intézkedési javaslatainak végrehajtását, e törvény szerint a hatáskörrel rendelkező hatósághoz vagy bírósághoz fordulva kezdeményezheti annak eljárását.
+
+#### 7/A. A Hatóság vagyonnyilatkozati vizsgálati eljárása
+
+19/A. § (1) A Hatóság vagyonnyilatkozati vizsgálati eljárása során ellenőrizheti
+
+- 1. a köztársasági elnök,
+- 2. az országgyűlési képviselő, a nemzetiségi szószóló és – amennyiben e személy nem országgyűlési képviselő – az Országgyűlés háznagya, továbbá az Európai Parlament magyarországi képviselője,
+- 3. a polgármester és a főpolgármester, a helyi önkormányzati képviselő és a nemzetiségi önkormányzati képviselő,
+- 4. az Alkotmánybíróság tagja,
+- 5. az alapvető jogok biztosa és helyettese,
+- 6. az Állami Számvevőszék elnöke és alelnöke,
+- 7. a Kúria elnöke és elnökhelyettese,
+- 8. az Országos Bírósági Hivatal elnöke és elnökhelyettese, ideértve a bíró és igazságügyi alkalmazott elnökhelyettest is,
+- 9. a bíró, illetve a törvény által meghatározott ügyben az egyesbíró hatáskörében eljárásra jogosult bírósági titkár,
+- 10. a legfőbb ügyész és helyettese,
+- 11. a Magyar Nemzeti Bank elnöke, alelnöke és a Monetáris Tanácsnak a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény 9. § (4) bekezdés c) pontjában meghatározott tagjai, valamint a Magyar Nemzeti Bank felügyelőbizottságának tagja,
+- 12. a Költségvetési Tanács elnöke,
+- 13. a Nemzeti Emlékezet Bizottságának elnöke és tagja,
+- 14. a Médiatanács tagja,
+- 15. a kormányzati igazgatásról szóló 2018. évi CXXV. törvény szerinti
+  - a) országgyűlési képviselői megbízatással nem rendelkező politikai felsővezető,
+  - b) politikai vezető,
+  - c) biztosi jogviszonyban álló személy, valamint
+  - d) politikai tanácsadó, politikai főtanácsadó és kabinetfőnök (a továbbiakban együtt: politikai tanácsadó),
+- 16. a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény szerinti önálló szabályozó szerv, illetve az autonóm államigazgatási szerv vezetője, helyettese, illetve valamely ügydöntő testületi szervének azon tagja, aki vonatkozásában az önálló szabályozó szervet vagy az autonóm államigazgatási szervet létrehozó törvény vagyonnyilatkozat-tételi kötelezettséget ír elő,
+- 17. a közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló törvény szerint vagyonnyilatkozat-tételre kötelezett személy,
+- 18. a pártok működéséről és gazdálkodásáról szóló törvény szerint vagyonnyilatkozat-tételre kötelezett személy,
+- 19. az egyes vagyonnyilatkozat-tételi kötelezettségekről szóló 2007. évi CLII. törvény (a továbbiakban: Vnytv.) 3. §-a alapján vagyonnyilatkozat-tételre kötelezett személy – az Országos Bírósági Hivatal elnökhelyettesét ide nem értve, ha az igazságügyi alkalmazott –,
+- 20. az 1–19. pont alá nem tartozó, törvény által az Országgyűlésről szóló törvény szerinti vagyonnyilatkozat-tételre kötelezett, illetve a törvény által a Hatóság vagyonnyilatkozati eljárásának hatáskörébe utalt más személy
+
+vagyonnyilatkozatának, valamint e személyek vagyonnyilatkozat-tételi kötelezettségével összefüggésben – ha a hozzátartozói vagyonnyilatkozat-tételt törvény előírja – vagyonnyilatkozatot tevő hozzátartozó vagyonnyilatkozatát (a továbbiakban: hozzátartozói vagyonnyilatkozat).
+
+(2) A Hatóság (1) bekezdés szerinti hatáskörét
+
+- a) az (1) bekezdés 15. pont a) alpontja szerinti személyi kör tekintetében kizárólagosan,
+- b) az a) pont hatálya alá nem eső személyi kör tekintetében más – törvényben meghatározott – szervvel, szervezettel megosztottan
+
+gyakorolja.
+
+(3) Az (1) bekezdés szerinti eljárás a vagyonnyilatkozat-tételi kötelezettség teljesítésének, a vagyonnyilatkozat teljeskörűségének és hitelességének megállapítására, valamint az ellenőrzés alá vont személy vagyonnyilatkozata alapján nem igazolható vagyonváltozása forrásának ellenőrzésére irányulhat, azzal, hogy a Hatóság az eljárása során a vizsgálat alá vont személlyel összefüggésben keletkezett valamennyi – a vagyonnyilatkozatot jogszabály rendelkezése alapján őrző szerv vagy személy kezelésében levő – vagyonnyilatkozatot, illetve az ahhoz kapcsolódó hozzátartozói vagyonnyilatkozatot vizsgálhatja.
+
+(4) Az (1) bekezdés szerinti eljárást a Hatóság önállóan, illetve a vizsgálati eljárása részeként is lefolytathatja azzal, hogy a Hatóság (1) bekezdés szerinti eljárására vonatkozóan a 7. alcímben meghatározott – így különösen az adatok megismerésére vonatkozó, a 18. § (6) bekezdésében foglalt – rendelkezéseket megfelelően alkalmazni kell. A Hatóság a 9. § (4a) bekezdése szerint kialakított integritáskockázat-értékelése – és az ehhez kapcsolódó módszertan – alapján az (1) bekezdés szerinti eljárást rendszeresen, hivatalból is lefolytatja.
+
+(5) A Hatóság az (1) bekezdés szerinti eljárása során az azt jogszabály rendelkezése alapján őrző szerv vagy személy útján hozzáférhet a vizsgálat alá vont személy, valamint – ha a hozzátartozói vagyonnyilatkozat-tételt törvény előírja – vagyonnyilatkozatot tevő hozzátartozó vagyonnyilatkozatához, valamint arról másolatot készíthet. Ha a vagyonnyilatkozat-tételre vonatkozó jogszabály a vagyonnyilatkozat-tételt zárt boríték útján rendeli kezelni és a borítéknak a Hatóság általi kezelésére vonatkozóan eltérő rendelkezést nem állapít meg, az őrzéséért felelős a Hatóság feladat- és hatáskörében eljáró személy jelenlétében a vagyonnyilatkozatot tartalmazó zárt borítékot felbontja, illetve a felbontás tényéről és körülményeiről – közokiratba vagy teljes bizonyító erejű magánokiratba foglalt – jegyzőkönyvet készít. A zárt boríték felbontását és a másolatkészítést követően a vagyonnyilatkozat őrzéséért felelős személy a zárt borítékon a felbontás tényét és időpontját rögzíti, valamint a jegyzőkönyv egy példányát a borítékban elhelyezi, illetve az ezt követően a borítékot ismételten lezárja.
+
+(6) Az (1) bekezdés szerinti eljárás során a Hatóság felszólítja a vizsgálat alá vont személyt, hogy a Hatóság számára adja meg a vagyonnyilatkozat tartalmának alátámasztása érdekében szükséges felvilágosítást, továbbá, hogy a Hatóság számára adja át a kapcsolódó adatok, iratok másolatát. Ha a vizsgálat alá vont személy a Hatósággal való együttműködést megtagadja, e körülményt a Hatóság az eljárása során készült jelentésében rögzíti.
+
+(7) A Hatóság az (1) bekezdés szerinti eljárás alá vont személynek a felszólítás kézbesítésétől számított tíz napon belül előterjesztett kérelmére személyes meghallgatást tarthat. A Hatóság a meghallgatás időpontját a felszólítástól számított harminc napon belüli időpontra tűzi ki. A meghallgatásra jegyzőkönyvezés mellett – a vagyonnyilatkozati vizsgálati eljárás alá vont személy kérelme esetén – a vagyonnyilatkozati vizsgálat alá vont személy által megbízott más személy jelenlétében is sor kerülhet. A jegyzőkönyv tartalmazza készítésének helyét és idejét, a meghallgatáson részt vevő személyek azonosításához szükséges adatokat, nyilatkozataik lényegét, illetve a meghallgatás lefolytatása során a tényállás tisztázásával összefüggő ténymegállapításokat.
+
+(8) A Hatóság az (1) bekezdés szerinti eljárásában feltárt és beszerzett információkat az eljárás lezárása során összességében ítéli meg, valamint az ezzel összefüggő megállapításait jelentésében értékeli azzal, hogy ha
+
+- a) a vizsgálat alá vont személy vagyonnyilatkozat-tételi kötelezettségét nem teljesítette vagy abban lényeges adatot – különösen, ha ezzel összefüggésben valós vagyoni vagy jövedelmi helyzetét leplezve – szándékosan hamisan vagy valótlanul közölt, a vizsgálat alá vont személy megbízatása, jogviszonya megszüntetését kezdeményezve a – törvény rendelkezése alapján – erre hatáskörrel rendelkező szervhez, személyhez, hatósághoz vagy bírósághoz fordul, vagy
+- b) a vizsgálat alá vont személy
+  - ba) vagyonnyilatkozata kapcsán az a) pont alá nem tartozó – kizárólag adminisztratív jellegű – hiányosságot tárt fel, vagyonnyilatkozati bírság kiszabására irányuló hatósági eljárást indít, vagy, ha annak lefolytatása az e törvény rendelkezése alapján kizárt, ugyanakkor annak kiszabására – törvény rendelkezése alapján – az a) pont szerinti valamely szerv, személy, hatóság jogosult, az e szerv, személy, hatóság előtt bírság vagy ezzel egyenértékű vagyoni szankció (a továbbiakban együtt: bírság) kiszabását kezdeményezi, vagy
+  - bb) vagyonnyilatkozata a Hatóság által feltárt információk alapján a valóságnak megfelel, illetve annak esetleges – az a) pont és a b) pont ba) alpont alá nem eső, csekély vagy elhanyagolható jelentőségű – hiányosságával összefüggésben, a vagyonnyilatkozat teljeskörűsége érdekében tett ajánlás vagy intézkedési javaslat sikerre vezetett, a vizsgálatot vagy annak ezzel összefüggő részét lezárja.
+
+(9) Ha a Hatóság által a (8) bekezdés a) pontja, illetve b) pont ba) alpontja keretében kezdeményezett eljárások lefolytatása – az (1) bekezdés 15. pont a) alpontja szerinti, a Hatóság által kizárólagosan ellenőrzött személyi kör kivételével – során a megkeresett szerv, személy, hatóság, bíróság a Hatóság megállapításaitól eltérő megállapításra jutva a megbízatás, jogviszony megszüntetése, továbbá bírság kiszabása iránt nem intézkedik, köteles ennek okait részletesen indokolni, illetve erről a Hatóságot tájékoztatni.
+
+(10) A Hatóság (8) bekezdés a) pontja szerint hozott jelentését, továbbá a (9) bekezdés szerint kapott tájékoztatást a jelentéséhez kapcsolt módon nyilvánosan közzéteszi.
+
+#### 7/B. A vagyonnyilatkozati bírság kiszabására irányuló hatósági eljárás
+
+19/B. § (1) Ha az a (2) bekezdés szerint nem kizárt, a Hatóság a 19/A. § (8) bekezdés b) pont ba) alpontja szerinti esetben hivatalból vagyonnyilatkozati bírság kiszabására irányuló hatósági eljárást indít.
+
+(2) A vagyonnyilatkozati bírság kiszabására irányuló hatósági eljárás megindítása a 19/A. § (1) bekezdés 1–12. pontja szerinti személyek esetében kizárt.
+
+(3) A vagyonnyilatkozati bírság kiszabására irányuló hatósági eljárásban az ügyintézési határidő tizenöt nap.
+
+(4) A vagyonnyilatkozati bírság kiszabására irányuló hatósági eljárásban a Hatóság a 7/A. alcím szerinti eljárásában született jelentését, továbbá az annak alapjául beszerzett információkat, megállapításokat bizonyítási eszközként felhasználhatja.
+
+(5) A vagyonnyilatkozati bírság kiszabására irányuló hatósági eljárásban a Hatóság megállapíthatja a vagyonnyilatkozat-tételre kötelezett személy vagyonnyilatkozat-tételi kötelezettségével összefüggő jogsértése tényét, továbbá bírságot szabhat ki. A bírság mértéke százezertől ötmillió forintig terjedhet. A vagyonnyilatkozati bírság kiszabására irányuló hatósági eljárásban figyelmeztetés alkalmazása kizárt.
+
+(6) A Hatóság a (4) bekezdés szerinti bírság kiszabása során a közigazgatási szabályszegések szankcióiról szóló 2017. évi CXXV. törvény 10. § (1) bekezdésében foglaltak mellett a mulasztással érintett adatok számát és az eset összes körülményét is figyelembe veszi.
+
+(7) A Hatóság e § szerint hozott határozatát – a vagyonnyilatkozat-tételre kötelezett személy nevének, megbízatásának közzétételével – nyilvánosságra hozza.
 
 #### 8. Az európai uniós forrás bevonásával megvalósuló közbeszerzésekkel kapcsolatos egyes hatósági feladat- és hatáskörök
 
@@ -487,9 +539,9 @@ amelynek jogát vagy jogos érdekét a Hatóság egyedi döntése a megbízatás
 
 (4) A Hatóság elnöke és elnökhelyettese nem folytathat pártpolitikai tevékenységet, párt nevében vagy érdekében közszereplést nem vállalhat.
 
-43. § (1) A Hatóság elnökének és elnökhelyettesének javasolt személy az Alkalmassági Bizottságnak nyilatkozik arról, hogy nem áll fenn vele szemben az e törvény szerinti összeférhetetlenségi ok.
+43. § (1) A Hatóság elnökének és elnökhelyettesének javasolt személy az Alkalmassági Bizottságnak nyilatkozik arról, hogy nem áll fenn vele szemben az e törvény szerinti összeférhetetlenségi ok. Ezt a nyilatkozatot a Hatóság elnöke és elnökhelyettese köteles a kinevezés napjától számított minden naptári félévet követő 30. napon belül megismételni a megelőző naptári félévre vonatkozóan.
 
-(2) A nyilatkozat valóságtartalmát, továbbá a kinevezést követően az összeférhetetlenség fennállását az Alkalmassági Bizottság évente ellenőrzi.
+(2) A nyilatkozatok valóságtartalmát, továbbá a kinevezést követően az összeférhetetlenség fennállását az Alkalmassági Bizottság évente ellenőrzi, illetve hivatalból jár el, ha tudomására jut olyan információ, ami miatt a Hatóság elnöke vagy elnökhelyettese összeférhetetlenségével kapcsolatban kétely merül fel.
 
 (3) Ha a Hatóság elnökének vagy elnökhelyettesének javasolt személy a nyilatkozatban lényeges adatot, tényt valótlanul közölt, akkor az Alkalmassági Bizottság köteles kezdeményezni az Állami Számvevőszék elnökénél a Hatóság elnöke vagy elnökhelyettese jogviszonyának megszüntetését.
 
@@ -498,6 +550,8 @@ amelynek jogát vagy jogos érdekét a Hatóság egyedi döntése a megbízatás
 (5) Ha a Hatóság elnöke és elnökhelyettese tekintetében a kinevezését követően merül fel összeférhetetlenség, azt a felmerülését követő 15 napon belül köteles az Alkalmassági Bizottságnak bejelenteni. A Hatóság elnöke és elnökhelyettese a kinevezését követően felmerült összeférhetetlenséget a felmerülését követő 30 napon belül köteles megszüntetni, és ezt az Alkalmassági Bizottságnak bejelenteni.
 
 (6) Ha a Hatóság elnöke és elnökhelyettese tekintetében a kinevezését követően felmerült összeférhetetlenséget az Alkalmassági Bizottság tárja fel, az Alkalmassági Bizottság felszólítja a Hatóság elnökét vagy elnökhelyettesét, hogy az összeférhetetlenségét az annak felmerülését követő 30 napon belül szüntesse meg.
+
+(6a) A Hatóság elnöke, illetve elnökhelyettese összeférhetetlenségének ellenőrzése során az Alkalmassági Bizottság megismerheti az eljárás lefolytatásához feltétlenül szükséges körben és szabályok szerint azokat az adatokat, amelyeket a Hatóság is megismerhet a vagyonnyilatkozati vizsgálati eljárása során.
 
 (7) Ha a Hatóság elnöke vagy elnökhelyettese az összeférhetetlenségét az annak felmerülését követő 30 napon belül nem szüntette meg, vagy a feltárt összeférhetetlenség 30 napnál régebben áll fenn, az Alkalmassági Bizottság köteles kezdeményezni az Állami Számvevőszék elnökénél a Hatóság elnöke vagy elnökhelyettese jogviszonyának megszüntetését.
 
@@ -512,6 +566,8 @@ amelynek jogát vagy jogos érdekét a Hatóság egyedi döntése a megbízatás
 (4) A Hatóság elnökének és elnökhelyettesének javasolt személy, továbbá a Hatóság elnöke és elnökhelyettese vagyonnyilatkozatát az Alkalmassági Bizottság kezeli, és azt a (6) bekezdésben meghatározott időpontig őrzi.
 
 (5) A Hatóság elnökének és elnökhelyettesének javasolt személy, továbbá a Hatóság elnöke és elnökhelyettese vagyonnyilatkozatának valóságtartalmát az Alkalmassági Bizottság évente ellenőrzi, amelynek eredményéről jelentést készít. Az ellenőrzés eredményét tartalmazó jelentést öt évig meg kell őrizni.
+
+(5a) Az Alkalmassági Bizottság a Hatóság elnöke, illetve elnökhelyettese vagyonnyilatkozatának ellenőrzése során megismerheti az eljárás lefolytatásához feltétlen szükséges körben és szabályok szerint azokat az adatokat, amelyeket a Hatóság is megismerhet a vagyonnyilatkozati vizsgálati eljárása során.
 
 (6) A Hatóság elnökének és elnökhelyettesének javasolt személy, továbbá a Hatóság elnöke és elnökhelyettese vagyonnyilatkozatának nyilvános, oldalhű másolatát az Alkalmassági Bizottság a Hatóság honlapján haladéktalanul közzéteszi. A vagyonnyilatkozat a honlapról az elnök, illetve az elnökhelyettes jogviszonyának megszűnését követő öt év elteltével távolítható el.
 
@@ -575,7 +631,7 @@ meghatározott összeférhetetlenségi helyzeteket is, kiegészítve az összef�
 
 (3) A Munkacsoport a Hatóság nyilvános jelentéseit a feladatainak ellátása során figyelembe veheti, de a Hatóság nyilvános jelentéseihez nincs kötve és nem köteles azt figyelembe venni. A Hatóság a Munkacsoport jelentését az éves elemző integritásjelentés elkészítésekor figyelembe veheti, de a Munkacsoport jelentéséhez nincs kötve és nem köteles azt figyelembe venni.
 
-51. § (1) A Munkacsoport az éves jelentését a tárgyévet követő év március 15-éig fogadja el.
+51. § (1) A Munkacsoport az éves jelentését a tárgyévet követő év április 30-áig fogadja el.
 
 (2) A Munkacsoport az éves jelentését megküldi a Kormány részére, amelyet a Kormány a honlapján közzétesz.
 
@@ -612,6 +668,8 @@ meghatározott összeférhetetlenségi helyzeteket is, kiegészítve az összef�
 - i) a Nemzeti Védelmi Szolgálat főigazgatója által kijelölt személy és
 - j) a Nemzeti Adó- és Vámhivatal elnöke által kijelölt személy.
 
+(3a) A Munkacsoport állami szerveket képviselő tagjainak a kijelölése legfeljebb öt évre szól azzal, hogy a kijelölésüket a kijelölő személy bármikor visszavonhatja.
+
 (4) Minden tagot azonos jogok és kötelezettségek illetnek meg a Munkacsoport működésével összefüggésben, beleértve az információkhoz való hozzáférést és a beavatkozási jogot.
 
 (5) A Munkacsoportban való tagság nem jogosít fel a Hatóság tevékenységéhez való hozzáférésre.
@@ -624,12 +682,13 @@ meghatározott összeférhetetlenségi helyzeteket is, kiegészítve az összef�
 - d) a Szabályozott Tevékenységek Felügyeleti Hatósága elnöke által kijelölt személy,
 - e) az Országos Bírósági Hivatal elnöke által kijelölt személy és
 - f) a legfőbb ügyész által kijelölt személy.
+- g) az Európai Támogatásokat Auditáló Főigazgatóság főigazgatója által kijelölt személy.
 
 (2) Az állandó meghívottak a tagokkal azonos jogokkal rendelkeznek a Munkacsoport működésével összefüggésben az információkhoz való hozzáférés és a beavatkozás joga tekintetében.
 
 (3) A Hatóság elnökének felkérése alapján a Munkacsoport ülésén tanácskozási joggal más személy részt vehet.
 
-56. § (1) A Munkacsoport tagjai, valamint az állandó és eseti jelleggel meghívottak a Munkacsoportban végzett munkájukért díjazásban és költségtérítésben nem részesülnek.
+56. § (1) A Munkacsoport állami szerveket képviselő tagjai, valamint az állandó és eseti jelleggel meghívottak a Munkacsoportban végzett munkájukért külön díjazásban és költségtérítésben nem részesülnek. A Munkacsoport nem kormányzati szereplőket képviselő tagjait tiszteletdíj illeti meg, amelynek mértéke Magyarország operatív programjainak monitoring bizottságaiba civil szervezet által delegált tagok díjazásához igazodik, és amit a Hatóság költségvetésében kell elkülöníteni.
 
 (2) A Munkacsoport tagjai, valamint az állandó és eseti jelleggel meghívottak a feladatuk ellátásával kapcsolatban tudomásukra jutott minden törvény által védett titkot, így különösen üzleti titkot kötelesek megőrizni.
 
@@ -646,17 +705,18 @@ meghatározott összeférhetetlenségi helyzeteket is, kiegészítve az összef�
 
 (3) A pályázati felhívásra jelentkezők közül a nem kormányzati szereplőket képviselő tagjelöltek listáját a Hatóság elnöke állítja össze.
 
-(4) Az Alkalmassági Bizottság kötelező erejű véleményt ad a Hatóság Igazgatóságának a tagjelölti alkalmassági feltételek értékelésére és a kiválasztás szempontjaira vonatkozóan. Az alkalmasság elbírálásán túl az Alkalmassági Bizottság véleményében a jelölési és kinevezési eljárás sérelme nélkül bármilyen módon hozzájárulhat a nem kormányzati szereplőket képviselő tagok jelöléséről való megalapozott döntés meghozatalához.
+(4) Az Alkalmassági Bizottság kötelező erejű véleményt ad a Hatóság Igazgatóságának a tagjelölti alkalmassági feltételek értékelésére és a kiválasztás szempontjaira vonatkozóan az (1)–(2) bekezdésben meghatározott kritériumok alapján. Az alkalmasság elbírálásán túl az Alkalmassági Bizottság véleményében a jelölési és kinevezési eljárás sérelme nélkül bármilyen módon hozzájárulhat a nem kormányzati szereplőket képviselő tagok jelöléséről való megalapozott döntés meghozatalához.
 
 (5) A Hatóság Igazgatósága a tagjelöltek listájáról – az Alkalmassági Bizottság véleményére figyelemmel – választja ki a nem kormányzati szereplőket képviselő tagokat.
 
-(6) A nem kormányzati szereplőket képviselő tagok megbízatásukat személyesen kötelesek ellátni.
+(6) A nem kormányzati szereplőket képviselő tagok megbízatásukat személyesen kötelesek ellátni. Távollétük esetén képviseleti megbízást adhatnak egy másik nem kormányzati szereplőt képviselő tag részére, akinek a jogai és kötelezettségei azonosak a távollévő tagéval azzal, hogy a helyettesítő tagot a helyettesítésért többletjuttatás nem illeti meg.
 
 58. § (1) A Munkacsoport nem kormányzati szereplőket képviselő tagjának megbízatása megszűnik
 
 - a) lemondással,
 - b) halálával,
-- c) a felkérés visszavonásával, ha a Hatóság Igazgatósága a Munkacsoport elnökének javaslatára úgy dönt, hogy a kiválasztási kritériumok már nem teljesülnek.
+- c) a felkérés visszavonásával, ha a Hatóság Igazgatósága a Munkacsoport elnökének javaslatára megállapítja, hogy az 57. § (2) bekezdésében meghatározott kiválasztási kritériumok már nem teljesülnek,
+- d) a kinevezéstől számított öt év elteltével.
 
 (2) A Munkacsoport nem kormányzati szereplőket képviselő tagja a Munkacsoportban betöltött tisztségéről bármikor írásban lemondhat. A lemondást nem kell megindokolni. A lemondást a Hatóság Igazgatóságával kell közölni.
 
@@ -680,7 +740,7 @@ meghatározott összeférhetetlenségi helyzeteket is, kiegészítve az összef�
 
 (4) Abban az esetben, ha az ülésen jelen lévő tagok közül a nem kormányzati szereplőket képviselő tagok száma – ide nem értve az elnököt – nem éri el a jelen lévő tagok felét, a nem kormányzati szereplőket képviselő tagok szavazatainak értékét úgy kell megállapítani, hogy a nem kormányzati szereplőket képviselő tagok szavazatainak összértéke az összes szavazat – ide nem értve az elnök szavazatát – felét tegye ki.
 
-(5) A Munkacsoport az ügyrendjét az elnök javaslatára maga állapítja meg.
+(5) A Munkacsoport a szervezetét és működését szabályozó ügyrendjét, illetve az éves munkatervét az elnök javaslatára maga állapítja meg.
 
 62. § A Munkacsoport üléséről készült jegyzőkönyvet a Hatóság honlapján közzé kell tenni. A tagok által előre megküldött írásbeli közreműködéseket, valamint az általuk tett utólagos írásos észrevételeket csatolni kell a jegyzőkönyvhöz.
 
@@ -776,7 +836,7 @@ meghatározott összeférhetetlenségi helyzeteket is, kiegészítve az összef�
 
 (6) A Hatóság és az európai támogatásokat auditáló szerv az (1) és (5) bekezdés szerinti közreműködéssel és támogatásnyújtással összefüggésben a (3) bekezdés szerinti munkamegosztási megállapodásában rögzített módon és határidőben számolnak el egymással.
 
-72. § Az Alkalmassági Bizottság – nemzetközi szervezetekkel szorosan együttműködve és egyeztetve – a Hatóság Igazgatósága tagjainak kinevezését követően két évvel felülvizsgálja a Hatóság és a Hatóság Igazgatósága működését.
+72. § Az Alkalmassági Bizottság – nemzetközi szervezetekkel szorosan együttműködve és egyeztetve – a Hatóság Igazgatósága tagjainak kinevezését követően két évvel, majd utána évenként felülvizsgálja a Hatóság és a Hatóság Igazgatósága működését.
 
 73. § Az első integritáskockázat-értékelést a Hatóság működésének megkezdését követő négy hónapon belül, nemzetközileg elismert módszertannal rendelkező nemzetközi szervezetekkel együttműködve, a közbeszerzési rendszer elszámoltathatósága, integritása és átláthatósága mutatói (MAPS IV. pillér) alapján kell elvégezni.
 
@@ -798,29 +858,26 @@ meghatározott összeférhetetlenségi helyzeteket is, kiegészítve az összef�
 
 (2) A Munkacsoport a 2022. évre vonatkozó első jelentését 2023. március 15-éig fogadja el és küldi meg a Kormánynak.
 
+(3) Az európai uniós forrásokhoz való hozzáférés érdekében szükséges egyes törvények módosításáról szóló 2026. évi XVIII. törvénnyel (a továbbiakban: Módtv.) megállapított 58. § (1) bekezdés d) pontja a Munkacsoport nem kormányzati szereplőket képviselő tagjai vonatkozásában akkor is alkalmazandó, ha a kinevezésük a Módtv.-vel megállapított 58. § (1) bekezdés d) pontja hatálybalépése előtt történt.
+
 #### 31/A. Sarkalatossági záradék
 
-77/A. § (1) Az 5. § (6) bekezdés
+77/A. § (1) A 19/A. § (1) bekezdés
 
-- a) 2. pontja az Alaptörvény IX. cikk (6) bekezdése és 23. cikke alapján,
-- b) 3. pontja az Alaptörvény 43. cikk (4) bekezdése alapján,
-- c) 5. pontja az Alaptörvény VI. cikk (4) bekezdése alapján,
-- d) 6. pontja az Alaptörvény 24. cikk (9) bekezdése alapján,
-- e) 7. pontja az Alaptörvény 29. cikk (7) bekezdése alapján,
-- f) 9. pontja az Alaptörvény XXIX. cikk (3) bekezdése, 2. cikk (1) bekezdése és a 35. cikk (1) bekezdése alapján,
-- g) 14. pontja az Alaptörvény 31. cikk (3) bekezdése alapján,
-- h) 15. pontja az Alaptörvény XXIX. cikk (3) bekezdése alapján
-
-sarkalatosnak minősül.
-
-(2) Az 5. § (6a) bekezdés
-
-- a) a) pontja az Alaptörvény 12. cikk (5) bekezdése alapján,
-- b) b) pontja az Alaptörvény 4. cikk (2) és (5) bekezdése alapján,
-- c) c) pontja az Alaptörvény 25. cikk (8) bekezdése, valamint 26. cikk (1) és (2) bekezdése alapján
-- d)
+- a) 1. pontja az Alaptörvény 12. cikk (5) bekezdése alapján,
+- b) 2. pontja az Alaptörvény 4. cikk (2) és (5) bekezdése alapján,
+- c) 3. pontja az Alaptörvény XXIX. cikk (3) bekezdése, valamint a 31. cikk (3) bekezdése alapján,
+- d) 4. pontja az Alaptörvény 24. cikk (9) bekezdése alapján,
+- e) 6. pontja az Alaptörvény 43. cikk (4) bekezdése alapján,
+- f) 7–9. pontja az Alaptörvény 25. cikk (8) bekezdése, valamint 26. cikk (1) és (2) bekezdése alapján,
+- g) 10. pontja az Alaptörvény 29. cikk (7) bekezdése alapján,
+- h) 14. pontja az Alaptörvény IX. cikk (6) bekezdése és 23. cikke alapján,
+- i) 16. pontja az Alaptörvény VI. cikk (4) bekezdése, XXIX. cikk (3) bekezdése, 23. cikke, 2. cikk (1) bekezdése és 35. cikk (1) bekezdése alapján,
+- j) 18. pontja az Alaptörvény VIII. cikk (4) bekezdése alapján
 
 sarkalatosnak minősül.
+
+(2) A 19/B. § (1) és (2) bekezdése az Alaptörvény IX. cikk (6) bekezdése, XXIX. cikk (3) bekezdése, 23. cikke, VI. cikk (4) bekezdése, 2. cikk (1) bekezdése és a 35. cikk (1) bekezdése, valamint VIII. cikk (4) bekezdése alapján sarkalatosnak minősül.
 
 ### IX. Fejezet — MÓDOSÍTÓ RENDELKEZÉSEK
 
