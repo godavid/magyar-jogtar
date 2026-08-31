@@ -222,16 +222,9 @@ más személyszállítási szolgáltatást nyújtó szolgáltatók számára.
 
 (4) A (3) bekezdés szerinti megállapodásban meg kell határozni a helyi személyszállítási közszolgáltatásra, így különösen a közszolgáltatási menetrendre, annak módosítására, a díjrendszerre és a közszolgáltatási kötelezettség körébe eső személyszállítási szolgáltatást végző közlekedési szolgáltató kiválasztására, valamint annak esetleges veszteségei ellentételezésére vonatkozó rendelkezéseket.
 
-(5) Az 1370/2007/EK rendelet 7. cikk (1) bekezdésében meghatározott összevont jelentést az ellátásért felelős a felelősségi körébe tartozó közszolgáltatási tevékenységről a tárgyévet követő év október 31. napjáig készíti el. A jelentést az önkormányzat a honlapján, a miniszter a Kormány honlapján teszi közzé. A jelentést a miniszter és az önkormányzat megküldi a Közlekedéstudományi és Építésügyi Minőségellenőrző Intézet (a továbbiakban: KTI) részére, amely a jelentéseket saját honlapján közzéteszi.
+(5) Az 1370/2007/EK rendelet 7. cikk (1) bekezdésében meghatározott összevont jelentést az ellátásért felelős a felelősségi körébe tartozó közszolgáltatási tevékenységről a tárgyévet követő év október 31. napjáig készíti el. A jelentést az önkormányzat a honlapján, a miniszter a Kormány honlapján teszi közzé. A jelentést a miniszter és az önkormányzat megküldi az országos közlekedésszervező részére, amely a jelentéseket saját honlapján közzéteszi.
 
-(6) A KTI a
-
-- a) 4. § (3) bekezdés i) és j) pontjában, valamint (5) bekezdésében,
-- b) 26–28. §-ban,
-- c) 31–32. §-ban, valamint
-- d) 35. §-ban
-
-szabályozott feladatok tekintetében ellátja a miniszter szakmai háttértámogatását, közreműködik a szakmai előkészítésben.
+(6)
 
 #### 4/A.
 
@@ -864,7 +857,7 @@ valósulhat meg.
 
 #### 18. Közszolgáltatási szerződés
 
-25. § (1) A közszolgáltatási szerződés megkötésére a miniszter az államháztartásért felelős miniszterrel egyetértésben, az önkormányzat nevében az önkormányzat képviselő-testületének felhatalmazása alapján a polgármester (a fővárosban a főpolgármester), vagy – a kijelölő jogszabályban foglaltak alapján – a rendeletben megjelölt közlekedésszervező jogosult. A közszolgáltatási szerződés érvényességi idejére és esetleges meghosszabbításának feltételeire az 1370/2007/EK rendelet 4. cikk (3)–(4) bekezdésében, 5. cikk (3a), (4b) és (6) bekezdésében meghatározott rendelkezések az irányadóak. Amennyiben a közszolgáltatási szerződés a közlekedési szolgáltatónál gazdasági hátrányt okozó kötelezettséget tartalmaz, annak a pénzügyi ellentételezés tekintetében legalább 3 éves – amennyiben a szerződés érvényessége kevesebb mint 3 év, akkor a szerződés érvénytartamával megegyező – időszakra vonatkozó pénzügyi (éven túli) kötelezettségvállalást kell tartalmaznia.
+25. § (1) A közszolgáltatási szerződés megkötésére a miniszter nevében az országos közlekedésszervező, az önkormányzat nevében az önkormányzat képviselő-testületének felhatalmazása alapján a polgármester (a fővárosban a főpolgármester), vagy – a kijelölő jogszabályban foglaltak alapján – a rendeletben megjelölt közlekedésszervező jogosult. A közszolgáltatási szerződés érvényességi idejére és esetleges meghosszabbításának feltételeire az 1370/2007/EK rendelet 4. cikk (3)–(4) bekezdésében, 5. cikk (3a), (4b) és (6) bekezdésében meghatározott rendelkezések az irányadóak. Amennyiben a közszolgáltatási szerződés a közlekedési szolgáltatónál gazdasági hátrányt okozó kötelezettséget tartalmaz, annak a pénzügyi ellentételezés tekintetében legalább 3 éves – amennyiben a szerződés érvényessége kevesebb mint 3 év, akkor a szerződés érvénytartamával megegyező – időszakra vonatkozó pénzügyi (éven túli) kötelezettségvállalást kell tartalmaznia.
 
 (2) A személyszállítási közszolgáltatási szerződés része a közszolgáltatási menetrend, amely elkülönülten tartalmazza az országos, a regionális és elővárosi személyszállítási szolgáltatásokat. Helyi személyszállítási szolgáltatás esetén a személyszállítási közszolgáltatási szerződés része a helyi közszolgáltatási menetrend. Ha az 1370/2007/EK rendelet vagy e törvény másként nem rendelkezik, a személyszállítási közszolgáltatási szerződésre a Ptk. szerződésekre vonatkozó általános szabályai az irányadók.
 
@@ -1438,6 +1431,8 @@ vonatkozó önkormányzati rendelet kiadására.
 (25) A (23) bekezdés szerinti vagyonátadás elszámolása olyan módon történik, hogy a MÁV Zrt., a MÁV Személyszállítási Zrt., a MÁV Pályaműködtetési Zrt. és a MÁV SZK az országos közlekedésszervező részére átadott vagyonelemeket a számvitelről szóló törvény 36. § (2) bekezdés e) pontja alapján a tőketartalék terhére, tőketartalék hiányában a számvitelről szóló törvény 37. § (2) bekezdés g) pontja alapján az eredménytartalék terhére, az országos közlekedésszervező a MÁV Zrt.-től, a MÁV Személyszállítási Zrt.-től, a MÁV Pályaműködtetési Zrt.-től és a MÁV SZK-tól átvett vagyonelemeket pedig a számvitelről szóló törvény 36. § (1) bekezdés f) pontja szerint a tőketartalék javára számolja el. Az elszámolás során az eszközöket, vagyonelemeket nyilvántartási értéken kell figyelembe venni.
 
 (26) A közlekedésszervező és a közlekedési szolgáltató között kötött, a közszolgáltatás ellátására vonatkozó megállapodás vagy kijelölés alapján végzett tevékenységéből szerzett nettó árbevétel a gépjárműadóról szóló 1991. évi LXXXII. törvény 5. § c) pontja tekintetében közúti tömegközlekedés folytatásából származó nettó árbevételnek minősül.
+
+(27) A miniszter, valamint az országos közlekedésszervező a (17) bekezdésben meghatározott versenyeztetési eljárás megkezdése érdekében a 23. § (2a) bekezdése alapján kötött vasúti személyszállítási közszolgáltatási szerződésekben meghatározott kizárólagos jogokat a versenyeztetési eljárás keretében történő odaítélés érdekében a szerződés egyoldalú módosításával korlátozhatja.
 
 #### 36. Az Európai Unió jogának való megfelelés
 
