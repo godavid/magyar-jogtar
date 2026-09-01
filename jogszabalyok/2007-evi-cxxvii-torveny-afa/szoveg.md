@@ -4093,17 +4093,19 @@ közösségi adószám birtokában végezhet.
 
 ### Adatszolgáltatás
 
-257/G. § (1) Az adóalany a (2)–(6) bekezdésben meghatározottak esetében köteles adatot szolgáltatni az állami adó- és vámhatóság részére.
+257/G. § (1) Az adóalany a (2)–(7) bekezdésben meghatározott esetekben köteles adatot szolgáltatni az állami adó- és vámhatóság részére.
 
 (2) Az adóalany az általa teljesített termékértékesítésekről, szolgáltatásnyújtásokról kiállított, kibocsátott számláról, számlával egy tekintet alá eső okiratról, – a pénztárgéppel, valamint az e-pénztárgéppel kiállított számlák, számlával egy tekintet alá eső okiratok kivételével – valamint termék beszerzése, szolgáltatás igénybevétele esetén azon számlákról, számlával egy tekintet alá eső okiratokról, amelyek alapján adólevonási jogot gyakorol, az adatszolgáltatást a 10. számú mellékletben meghatározottak szerint teljesíti.
 
-(3) Az adóalany az általa teljesített 2. § a) pontja szerinti termékértékesítésekről, szolgáltatásnyújtásokról kiállított, kibocsátott e-nyugtákról, valamint az e-pénztárgéppel kiállított számlákról, továbbá az azokkal egy tekintet alá eső okiratokról az adatszolgáltatást a 11. számú mellékletben foglaltak szerint teljesíti.
+(3) Az adóalany az általa teljesített 2. § a) pontja szerinti termékértékesítésekről, szolgáltatásnyújtásokról kiállított, kibocsátott nyugtákról – kivéve a pénztárgéppel kiállított nyugtákat –, e-nyugtákról, e-pénztárgéppel kiállított számlákról, továbbá az azokkal egy tekintet alá eső okiratokról az adatszolgáltatást a 11. számú mellékletben foglaltak szerint teljesíti.
 
-(4) A 178. § (1a) bekezdése, valamint a 10. és 11. számú melléklet szerinti adatokat az állami adó- és vámhatóság az Air. szerinti adózók ellenőrzéséhez, ellenőrzésre történő kiválasztásához és jogszabályban meghatározott egyéb feladata ellátásához használhatja fel az adó megállapításához való jog elévülési idején belül.
+(4) A (3) bekezdéstől eltérően, ha a belföldön gazdasági céllal nem letelepedett adóalany az általa teljesített 2. § a) pontja szerinti termékértékesítés, szolgáltatásnyújtás utáni adófizetési kötelezettségét a Közösség egy másik tagállamában teljesíti olyan módon, amely tartalmában megfelel a Héa-irányelv XII. cím 6. fejezet 2. és 3. szakaszában foglalt különös szabályozásnak, akkor az általa kibocsátott nyugtákról, valamint az azzal egy tekintet alá eső okiratokról az adatszolgáltatást az ezen különös szabályozás szerint vezetett nyilvántartás rendelkezésre bocsátásával teljesíti.
 
-(5) Az adóalany a Közösségen belüli ügyleteivel kapcsolatos adatszolgáltatást a 4/A. számú mellékletben foglaltak szerint teljesíti.
+(5) A 178. § (1a) bekezdése, valamint a 10. és 11. számú melléklet szerinti adatokat az állami adó- és vámhatóság az Air. szerinti adózók ellenőrzéséhez, ellenőrzésre történő kiválasztásához és jogszabályban meghatározott egyéb feladata ellátásához használhatja fel az adó megállapításához való jog elévülési idején belül.
 
-(6) A (2) bekezdésben foglaltaktól eltérően a 195/G. § hatálya alá tartozó adóalany az általa e minőségében teljesített 2. § a) pontja szerinti termékértékesítésről, szolgáltatásnyújtásról kiállított, kibocsátott számlákról, számlával egy tekintet alá eső okiratokról az adatszolgáltatást azon, a székhelye, ennek hiányában lakóhelye szerinti tagállami szabályozás szerinti adatszolgáltatással teljesíti, amely tartalmában a Héa-irányelv 284b. cikkének felel meg.
+(6) Az adóalany a Közösségen belüli ügyleteivel kapcsolatos adatszolgáltatást a 4/A. számú mellékletben foglaltak szerint teljesíti.
+
+(7) A (2) és a (3) bekezdésben foglaltaktól eltérően a 195/G. § hatálya alá tartozó adóalany az általa e minőségében teljesített 2. § a) pontja szerinti termékértékesítésről, szolgáltatásnyújtásról kiállított, kibocsátott számlákról, nyugtákról, valamint az azokkal egy tekintet alá eső okiratokról az adatszolgáltatást azon, a székhelye, ennek hiányában lakóhelye szerinti tagállami szabályozás szerinti adatszolgáltatással teljesíti, mely tartalmában a Héa-irányelv 284b. cikkének felel meg.
 
 ### Ingatlan értékesítésére vonatkozó bejelentési szabály
 
@@ -4871,12 +4873,12 @@ nem haladja meg a 22 000 000 forintnak megfelelő pénzösszeget.
 
 | Sorszám | Megnevezés | vtsz. |
 | --- | --- | --- |
-| 1. | Az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló törvény hatálya alá tartozó olyan humán gyógyszerek, amelyeket külön jogszabályban meghatározott hatóság forgalomba hozatalra engedélyezett, valamint a nem kereskedelmi jellegű áruforgalomban az erre jogosult hatóság engedélyével importált gyógyszerek; Humán gyógyászati célú magisztrális készítmények. |  |
+| 1. | Az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló törvény hatálya alá tartozó olyan humán gyógyszerek, amelyeket külön jogszabályban meghatározott hatóság forgalomba hozatalra engedélyezett, valamint a nem kereskedelmi jellegű áruforgalomban az erre jogosult hatóság engedélyével importált gyógyszerek (kivéve a 3/B. számú melléklet 2. sora alá tartozó termékeket) |  |
 | 2. | Hagyományos gyógynövény drogok közvetlen lakossági fogyasztásra, kiskereskedelemben szokásos kiszerelésben | 1211 90 86; 1211 50 00-ból 1302-ből |
 | 3. | Az arra feljogosított hatóság által engedélyezett humán célra felhasználásra kerülő diagnosztikai reagensek | 3002 11-ből; 3002 12-ből; 3002 13-ból; 3002 14-ből; 3002 15-ből 3002 19-ből 3002 90-ből 3006 20-ból 3006 30-ból 3821-ből 3822-ből |
-| 4. | Orvosi radioaktív izotópok | 2844 40 20 00-ból |
+| 4. |  |  |
 | 5. | Külön jogszabályban meghatározott speciális gyógyászati célra szánt tápszerek (élelmiszerek), valamint anyatej-helyettesítő és anyatej-kiegészítő tápszerek (élelmiszerek) | 1901 10 00-ból 2106 90 92-ből 2106 90 98-ból 2202 99-ből 3004 50 00-ból |
-| 6. | Egészségügyi oxigén (max. 10, ill. 20 liter űrtartalmú, 150, ill. 200 bar nyomású palackban kiszerelve vagy cseppfolyós formában, kizárólag gyógyszerkönyvi minőségű termék) | 2804 40-ből |
+| 6. |  |  |
 | 7. | Braille-tábla műanyagból | 3926 90-ből |
 | 8. | Fehér bot vakoknak | 6602-ből |
 | 9. | Pontozó vakoknak | 8205 59 80-ből |
@@ -4997,6 +4999,8 @@ nem haladja meg a 22 000 000 forintnak megfelelő pénzösszeget.
 | Sorszám | Megnevezés | vtsz. |
 | --- | --- | --- |
 | 1. | Napilap (hetenként legalább négyszer megjelenő kiadvány) | 4902-ből |
+| 2. | Kizárólag orvosi rendelvényhez kötött gyógyszerek |  |
+| 3. | Humán gyógyászati célú magisztrális készítmények |  |
 
 ### 4. számú melléklet a 2007. évi CXXVII. törvényhez
 
@@ -5414,6 +5418,18 @@ Számla befogadása
 
 #### Nyugta- és számla adatszolgáltatás
 
-Adatszolgáltatás az e-pénztárgéppel kiállított bizonylatokról
+#### A) Adatszolgáltatás az e-pénztárgéppel kiállított bizonylatokról
 
 Az adóalany az e-nyugták és az e-pénztárgéppel kiállított nyugtával egy tekintet alá eső okiratok, számlák és számlával egy tekintet alá eső okiratok e törvény szerint kötelező adatairól, azok kiállításával egyidejűleg, jogszabály szerint rendszeresen adatot szolgáltat az adó- és vámhatóság részére.
+
+#### B) Adatszolgáltatás egyéb nyugtákról, nyugtával egy tekintet alá eső okiratokról
+
+- 1. Az adóalany a nyugta, nyugtával egy tekintet alá eső okirat, kivéve a pénztárgéppel kiállított nyugtákat, az e-nyugtákat, és az e-pénztárgéppel kiállított nyugtával egy tekintet alá eső okiratokat, e törvény szerinti adattartalmáról a kibocsátást követő 3 naptári napon belül köteles adatot szolgáltatni. Az adatszolgáltatást napi szinten összesítve, adómértékek szerinti bontásban kell teljesíteni.
+
+Az adatszolgáltatást az állami adó- és vámhatóság által erre a célra biztosított elektronikus felületen kell teljesíteni. Az elektronikus felület az adóalany egyedi azonosítására szolgáló adatok igénylését követően használható. Az azonosító adatokat az adóalany vagy annak Air. szerinti állandó meghatalmazottja igényli.
+
+Az adatszolgáltatást az adóalany nevében az a személy is teljesítheti, akit az adóalany vagy annak Air. szerinti állandó meghatalmazottja az elektronikus felületen megjelöl. Az adóalany vagy annak Air. szerinti állandó meghatalmazottja által megjelölt személy által teljesített valamennyi adatszolgáltatás az adóalany nevében tett jognyilatkozatnak minősül.
+
+Az adóalany vagy annak Air. szerinti állandó meghatalmazottja az elektronikus felületen megjelöli azon személyt, akinek az elektronikus felületen szolgáltatott adatokhoz hozzáférési lehetőséget ad.
+
+- 2. Az 1. pontban foglalt adatszolgáltatási kötelezettség nem vonatkozik arra az esetre, amikor a pénztárgépet üzemeltető adóalany jogszabályban felsorolt rendkívüli körülmények fennállása miatt mentesül a nyugtaadási kötelezettség pénztárgép útján történő teljesítése alól és nyugta-kibocsátási kötelezettségét ideiglenesen nyomtatvány felhasználásával teljesíti.

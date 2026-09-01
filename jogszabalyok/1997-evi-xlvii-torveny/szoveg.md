@@ -260,7 +260,9 @@ tartalmazza.
 
 (4) A tüdőgondozó intézetek a tuberkulózis, illetve a bőr- és nemibeteg ellátás intézményei az 1. számú mellékletben szereplő nemi betegségek előfordulása esetén – további személyek veszélyeztetésére tekintettel – a 4. § (1) bekezdése szerinti célból egymás között továbbíthatják az érintett kontaktusaira vonatkozó személyazonosító adatok közül a családi és utónevet, a leánykori nevet, valamint a lakó- és tartózkodási helyet.
 
-(5)
+(5) A várandósgondozást végző orvos, szülésznő, védőnő és a várandóst ellátó más kezelőorvos az 1. számú melléklet A) pontjában foglalt táblázat 68. és 69. sorában szereplő fertőzésre vonatkozó adatokat – az EESZT útján is – megismerheti, függetlenül attól, hogy mely egészségügyi szolgáltató végezte a szűrést.
+
+(5a) Az 1. számú melléklet A) pontjában foglalt táblázat 68. és 69. sorában szereplő fertőzésre vonatkozó adatokat a születendő gyermek élete és testi épsége védelme érdekében a várandósgondozást végző orvos, szülésznő, védőnő és a várandóst ellátó más kezelőorvos számára az EESZT működtetője hozzáférhetővé teszi, abban az esetben is, ha azok az érintett 35/H. § (1) bekezdése szerinti önrendelkezési nyilatkozatában foglalt korlátozás alá esnek. Az érintettet az adatok megismerésének tényéről tájékoztatni szükséges.
 
 (6) Amennyiben az érintett annak megállapítása érdekében, hogy HIV vírusával fertőződött-e – személyazonosságának előzetes felfedése nélkül – szűrővizsgálaton kíván részt venni, személyazonosító adatait a betegellátó részére nem köteles átadni.
 
@@ -962,6 +964,10 @@ hívja fel az érintett csatlakozott adatkezelőt.
 
 (5) Az érintett írásban kérheti az egészségügyiprofil-nyilvántartásba bejegyzett adatának helyesbítését – a téves adat tudomásszerzésétől számított 30 napon belül – az azt bejegyző (1) bekezdés szerinti orvosától, az állami vérellátótól, illetve a működtetőtől.
 
+(6) Titkos örökbefogadás esetén a gyermek kezelőorvosa – a miniszter rendeletében meghatározott rendben – gondoskodik a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 135/E. § (1) bekezdése szerinti anonimizált dokumentumban foglalt adatoknak az EESZT-be történő feltöltéséről. A kezelőorvos a feltöltés idejéig kezeli a gyermek korábbi és jelenlegi TAJ számát, a megküldött dokumentumban szereplő egészségügyi adatokat és a gyermek korábbi TAJ számához tartozó ellátási események adatait.
+
+(7) A (6) bekezdés szerinti orvost a titkos örökbefogadás tekintetében titoktartási kötelezettség terheli.
+
 ### Egészségügyi dokumentáció nyilvántartása az EESZT-n belül
 
 35/K. § (1) A csatlakozott adatkezelő köteles az EESZT útján a működtető részére a miniszter által rendeletben meghatározott tartalmi és formai követelményeknek megfelelő módon – az egészségügyi dokumentáció megismerésére jogosultaknak a 4. § (1) és (2) bekezdésében meghatározott célból az érintett dokumentumokhoz az EESZT útján való hozzáférés érdekében – megküldeni az egészségügyi ellátás során keletkezett dokumentumokat.
@@ -1314,6 +1320,8 @@ megismerheti.
 
 rendeletben állapítsa meg.
 
+(2a) Felhatalmazást kap a miniszter, hogy a 35/J. § (6) bekezdése szerinti adatfeltöltés rendjét rendeletben határozza meg.
+
 (3) Felhatalmazást kap a Kormány, hogy
 
 - a) a 30. § (4) bekezdés b) pontja szerinti adatkezelőt,
@@ -1365,102 +1373,107 @@ rendeletben jelölje ki.
 
 ### 1. számú melléklet az 1997. évi XLVII. törvényhez
 
-Fertőző betegségek listája az érintett részéről történő kötelező adatszolgáltatás, valamint az egészségügyi államigazgatási szerv részére történő kötelező adattovábbítás esetén
+#### Fertőző betegségek listája az érintett részéről történő kötelező adatszolgáltatás, valamint az egészségügyi államigazgatási szerv részére történő kötelező adattovábbítás esetén
 
-Fertőzések, fertőzéses eredetű betegségek, mérgezések és kórokozóik
+A) Személyazonosító adatokkal együtt jelentendő betegségek
 
-| Betegség megnevezése | Jelentendő kórokozó |
-| --- | --- |
-| A) Személyazonosító adatokkal együtt jelentendő betegségek |  |
-| Acut flaccid paralysis (heveny petyhüdt bénulás) |  |
-| Amoebiasis | Entamoeba histolytica |
-| Anthrax (lépfene) | Bacillus anthracis |
-| Botulizmus | a Clostridium botulinum A, B, és F típusú neurotoxint termelő biovariánsai |
-| Brucellosis | Brucella spp. |
-| Campylobacteriosis | Campylobacter spp. |
-| Creutzfeldt-Jacob-betegség (CJB) |  |
-| Variáns Creutzfeldt-Jacob-betegség (vCJB) | prion |
-| Chikungunya-láz | Chikungunya-vírus |
-| Cholera (kolera) | Vibrio cholerae |
-| Cryptosporidiosis | Cryptosporidium spp. |
-| Diphtheria (torokgyík) | Corynebacterium diphtheriae, Corynebacterium ulcerans, Corynebacterium pseudotuberculosis |
-| Echinococcosis | Echinococcus spp. |
-| Egészségügyi ellátással összefüggő fertőzés |  |
-| Egészségügyi ellátással összefüggő Clostridium difficile által okozott fertőzés | C. difficile toxin pozitív törzsek |
-| Egészségügyi ellátással összefüggő multirezisztens kórokozó által okozott fertőzés | Vérből, liquorból és más szövetekből kitenyésztett multirezisztens kórokozók: Staphylococcus aureus MRSA; Enterococcus spp. VRE; Enterobacter spp. MENB; Escherichia coli MECO; Klebsiella spp. MKLE; Acinetobacter baumanii MACI; Pseudomonas aeruginosa MPAE; Stenotrophomonas maltophilia MSTM; Staphylococcus aureus VISA; Klebsiella pneumoniae CRKL; Egyéb Enterobacteriacea CRE |
-| Egészségügyi ellátással összefüggő véráramfertőzés | Bármely baktérium, gomba, vírus (leggyakoribb kórokozók: CNS, S. aureus, Enterococcus spp, E. coli, P. aeruginosa, Enterobacter spp, K. pneumoniae, Candida spp, Acinetobacter spp) |
-| Encephalitis infectiosa (fertőző agyvelőgyulladás) | agyvelőgyulladást okozó bármely vírus (leggyakoribb kórokozók: enterovírusok , herpesvírusok, LCM vírus, CMV, kullancsencephalitis vírusa, nyugat-nílusi vírus stb) |
-| Enterohaemorrhagiás/verotoxin- (shigatoxin-) termelő Escherichia coli okozott megbetegedés | verotoxin- (shigatoxin-) termelő Escherichia coli |
-| Egyéb patogén Escherichia coli által okozott megbetegedés | Escherichia coli (patogenitási markerekkel rendelkező, toxintermelő) |
-| Ételfertőzés | az ételfertőzés kórokozójaként azonosított bármely baktérium vagy vírus |
-| Ételmérgezés | az ételmérgezés kórokozójaként azonosított bármely baktérium, toxin |
-| Febris flava (sárgaláz) | Sárgalázvírus |
-| Giardiasis | Giardia lamblia |
-| Haemophilus influenzae által okozott invazív betegség | normálisan steril helyről kimutatott Haemophilus influenzae |
-| Hantavírus okozta veseszindróma | Hantavírusok |
-| Hepatitis infectiosa (heveny fertőző májgyulladás) |  |
-| Hepatitis A vírus által okozott heveny májgyulladás | Hepatitis A vírus |
-| Hepatitis B vírus által okozott heveny májgyulladás | Hepatitis B vírus |
-| Hepatitis B vírus által okozott krónikus fertőzés ( újonnan diagnosztizált) | Hepatitis B vírus |
-| Hepatitis C vírus által okozott heveny májgyulladás | Hepatitis C vírus |
-| Hepatitis C vírus által okozott krónikus fertőzés (újonnan diagnosztizált) | Hepatitis C vírus |
-| Hepatitis E vírus által okozott heveny májgyulladás | Hepatitis E vírus |
-| Influenza | Influenzavírus |
-| Keratoconjunctivitis epidemica (fertőző kötőhártya- és szaruhártya-gyulladás) | conjunctiva váladékból kimutatott Adenovírusok |
-| Kullancsencephalitis | Kullancsencephalitis vírus |
-| Legionárius betegség | Legionella spp. |
-| Leptospirosis | Leptospira spp. |
-| Listeriosis | Listeria monocytogenes |
-| Lyme-kór erythema migrans és heveny neuroborreliosis | Borrelia burgdorferi sensu lato csoportba tartozó humán patogén spirocheták |
-| Lyssa (veszettség) | Rabiesvírus |
-| Lyssa fertőzésre gyanús sérülés |  |
-| Madárinfluenza | Humán megbetegedést okozó madárinfluenza-vírus |
-| Malaria | Plasmodium spp. |
-| Malleus (takonykór) | Burkholderia (Pseudomonas) mallei |
-| Meningitis purulenta (gennyes agyhártyagyulladás) | gennyes meningitist okozó bármely baktérium |
-| Meningitis serosa (savós agyhártyagyulladás) | asepticus meningitist okozó vírusok [különféle enterovírusok (Coxsackie A és B vírus egyes szerotípusai, echovírus, enterovírus 71), herpesvírusok, adenovírusok, LCM vírus, CMV stb.] |
-| Meningococcus által okozott invazív betegség (meningitis epidemica, meningococcoemia ) | normálisan steril helyről kimutatott Neisseria meningitidis |
-| Morbilli (kanyaró) | Kanyaróvírus |
-| Nyugat-nílusi láz | Nyugat-nílusi vírus |
-| Ornithosis (papagájkór) | Chlamydia Psittaci |
-| Paratyphus | Salmonella Paratyphi A,B,C |
-| Parotitis epidemica (mumpsz) | Mumps vírus |
-| Pertussis (szamárköhögés) | Bordetella pertussis |
-| Pestis | Yersinia pestis |
-| Poliomyelitis anterior acuta (járványos gyermekbénulás) | Poliovírus 1, 2, 3 típusa |
-| Q-láz | Coxiella burnetii |
-| Rotavírus okozta gastroenteritis | Rotavírus |
-| Rubeola (rózsahimlő) | Rubeolavírus |
-| Congenitalis rubeola syndroma | Rubeolavírus |
-| Salmonellosis | Salmonella spp. |
-| Scarlatina (vörheny) | Streptococcus pyogenes erythrogen toxint termelő törzsei |
-| Shigellosis | Shigella spp. |
-| Súlyos akut légúti tünetegyüttes (SARS) | SARS-coronavírus |
-| Streptococcus pneumoniae által okozott invazív betegség | normálisan steril helyről kimutatott Streptococcus pneumoniae |
-| Strongyloidosis | Strongyloides stercoralis |
-| Taeniasis | Taenia spp. |
-| Tetanus (merevgörcs) | Clostridium tetani |
-| Toxoplasmosis | Toxoplasma gondii |
-| Congenitalis toxoplasmosis | Toxoplasma gondii |
-| Tuberculosis | Mycobacterium tuberculosis complex |
-| Trichinellosis | Trichinella spp. |
-| Tularemia | Francisella tularensis |
-| Typhus abdominalis | Salmonella Typhi |
-| Typhus exanthematicus | Rickettsia prowazeki |
-| Varicella (bárányhimlő) | (nem jelentendő a kórokozó) |
-| Variola (himlő) | Himlővírus |
-| Vírusos haemorrhagiás lázak | Dengue-vírus, Ebola-vírus, Hantavírus, Lassa-vírus, Marburg-vírus, Rift-völgyi láz vírusa, Krími-kongói haemorrhagiás láz vírusa |
-| Yersiniosis | Yersinia enterocolitica, Yersinia pseudotuberculosis |
-| Korábban Magyarországon nem észlelt, különösen veszélyes fertőző betegség |  |
-| Új influenzavírus által okozott emberi megbetegedések | Influenzavírus A, B, C |
-| B) Személyazonosító nélkül jelentendő betegségek |  |
-| AIDS-megbetegedés | HIV |
-| HIV-fertőzés | HIV |
-| Acut urogenitalis chlamydiasis | Chlamydia trachomatis D-K szerotípusa |
-| Gonorrhoea (kankó) | Neisseria gonorrhoeae |
-| Lymphogranuloma venereum | Chlamydia trachomatis L1, L2 és L3 szerotípusai |
-| Syphilis (vérbaj) | Treponema pallidum |
-| Connatalis syphilis | Treponema pallidum |
+|  | A | B |
+| --- | --- | --- |
+| 1 | Fertőzések, fertőzéses eredetű betegségek, mérgezések megnevezése | Jelentendő kórokozó |
+| 2 | Acut flaccid paralysis (heveny petyhüdt bénulás) |  |
+| 3 | Amoebiasis | Entamoeba histolytica |
+| 4 | Anthrax (lépfene) | Bacillus anthracis |
+| 5 | Botulizmus | a Clostridium botulinum A, B, és F típusú neurotoxint termelő biovariánsai |
+| 6 | Brucellosis | Brucella spp. |
+| 7 | Campylobacteriosis | Campylobacter spp. |
+| 8 | Creutzfeldt-Jacob-betegség (CJB) |  |
+| 9 | Variáns Creutzfeldt-Jacob-betegség (vCJB) | prion |
+| 10 | Chikungunya-láz | Chikungunya-vírus |
+| 11 | Cholera (kolera) | Vibrio cholerae |
+| 12 | Cryptosporidiosis | Cryptosporidium spp. |
+| 13 | Diphtheria (torokgyík) | Corynebacterium diphtheriae, Corynebacterium ulcerans, Corynebacterium pseudotuberculosis |
+| 14 | Echinococcosis | Echinococcus spp. |
+| 15 | Egészségügyi ellátással összefüggő fertőzés |  |
+| 16 | Egészségügyi ellátással összefüggő Clostridium difficile által okozott fertőzés | C. difficile toxin pozitív törzsek |
+| 17 | Egészségügyi ellátással összefüggő multirezisztens kórokozó által okozott fertőzés | Vérből, liquorból és más szövetekből kitenyésztett multirezisztens kórokozók: Staphylococcus aureus MRSA; Enterococcus spp. VRE; Enterobacter spp. MENB; Escherichia coli MECO; Klebsiella spp. MKLE; Acinetobacter baumanii MACI; Pseudomonas aeruginosa MPAE; Stenotrophomonas maltophilia MSTM; Staphylococcus aureus VISA; Klebsiella pneumoniae CRKL; Egyéb Enterobacteriacea CRE |
+| 18 | Egészségügyi ellátással összefüggő véráramfertőzés | Bármely baktérium, gomba, vírus (leggyakoribb kórokozók: CNS, S. aureus, Enterococcus spp, E. coli, P. aeruginosa, Enterobacter spp, K. pneumoniae, Candida spp, Acinetobacter spp) |
+| 19 | Encephalitis infectiosa (fertőző agyvelőgyulladás) | agyvelőgyulladást okozó bármely vírus (leggyakoribb kórokozók: enterovírusok , herpesvírusok, LCM vírus, CMV, kullancsencephalitis vírusa, nyugat-nílusi vírus stb) |
+| 20 | Enterohaemorrhagiás/verotoxin- (shigatoxin-) termelő Escherichia coli okozott megbetegedés | verotoxin- (shigatoxin-) termelő Escherichia coli |
+| 21 | Egyéb patogén Escherichia coli által okozott megbetegedés | Escherichia coli (patogenitási markerekkel rendelkező, toxintermelő) |
+| 22 | Ételfertőzés | az ételfertőzés kórokozójaként azonosított bármely baktérium vagy vírus |
+| 23 | Ételmérgezés | az ételmérgezés kórokozójaként azonosított bármely baktérium, toxin |
+| 24 | Febris flava (sárgaláz) | Sárgalázvírus |
+| 25 | Giardiasis | Giardia lamblia |
+| 26 | Haemophilus influenzae által okozott invazív betegség | normálisan steril helyről kimutatott Haemophilus influenzae |
+| 27 | Hantavírus okozta veseszindróma | Hantavírusok |
+| 28 | Hepatitis infectiosa (heveny fertőző májgyulladás) |  |
+| 29 | Hepatitis A vírus által okozott heveny májgyulladás | Hepatitis A vírus |
+| 30 | Hepatitis B vírus által okozott heveny májgyulladás | Hepatitis B vírus |
+| 31 | Hepatitis B vírus által okozott krónikus fertőzés (újonnan diagnosztizált) | Hepatitis B vírus |
+| 32 | Hepatitis C vírus által okozott heveny májgyulladás | Hepatitis C vírus |
+| 33 | Hepatitis C vírus által okozott krónikus fertőzés (újonnan diagnosztizált) | Hepatitis C vírus |
+| 34 | Hepatitis E vírus által okozott heveny májgyulladás | Hepatitis E vírus |
+| 35 | Influenza | Influenzavírus |
+| 36 | Keratoconjunctivitis epidemica (fertőző kötőhártya- és szaruhártya-gyulladás) | conjunctiva váladékból kimutatott Adenovírusok |
+| 37 | Kullancsencephalitis | Kullancsencephalitis vírus |
+| 38 | Legionárius betegség | Legionella spp. |
+| 39 | Leptospirosis | Leptospira spp. |
+| 40 | Listeriosis | Listeria monocytogenes |
+| 41 | Lyme-kór erythema migrans és heveny neuroborreliosis | Borrelia burgdorferi sensu lato csoportba tartozó humán patogén spirocheták |
+| 42 | Lyssa (veszettség) | Rabiesvírus |
+| 43 | Lyssa fertőzésre gyanús sérülés |  |
+| 44 | Madárinfluenza | Humán megbetegedést okozó madárinfluenza-vírus |
+| 45 | Malaria | Plasmodium spp. |
+| 46 | Malleus (takonykór) | Burkholderia (Pseudomonas) mallei |
+| 47 | Meningitis purulenta (gennyes agyhártyagyulladás) | gennyes meningitist okozó bármely baktérium |
+| 48 | Meningitis serosa (savós agyhártyagyulladás) | asepticus meningitist okozó vírusok [különféle enterovírusok (Coxsackie A és B vírus egyes szerotípusai, echovírus, enterovírus 71), herpesvírusok, adenovírusok, LCM vírus, CMV stb.] |
+| 49 | Meningococcus által okozott invazív betegség (meningitis epidemica, meningococcoemia ) | normálisan steril helyről kimutatott Neisseria meningitidis |
+| 50 | Morbilli (kanyaró) | Kanyaróvírus |
+| 51 | Nyugat-nílusi láz | Nyugat-nílusi vírus |
+| 52 | Ornithosis (papagájkór) | Chlamydia Psittaci |
+| 53 | Paratyphus | Salmonella Paratyphi A,B,C |
+| 54 | Parotitis epidemica (mumpsz) | Mumps vírus |
+| 55 | Pertussis (szamárköhögés) | Bordetella pertussis |
+| 56 | Pestis | Yersinia pestis |
+| 57 | Poliomyelitis anterior acuta (járványos gyermekbénulás) | Poliovírus 1, 2, 3 típusa |
+| 58 | Q-láz | Coxiella burnetii |
+| 59 | Rotavírus okozta gastroenteritis | Rotavírus |
+| 60 | Rubeola (rózsahimlő) | Rubeolavírus |
+| 61 | Congenitalis rubeola syndroma | Rubeolavírus |
+| 62 | Salmonellosis | Salmonella spp. |
+| 63 | Scarlatina (vörheny) | Streptococcus pyogenes erythrogen toxint termelő törzsei |
+| 64 | Shigellosis | Shigella spp. |
+| 65 | Súlyos akut légúti tünetegyüttes (SARS) | SARS-coronavírus |
+| 66 | Streptococcus pneumoniae által okozott invazív betegség | normálisan steril helyről kimutatott Streptococcus pneumoniae |
+| 67 | Strongyloidosis | Strongyloides stercoralis |
+| 68 | Syphilis (vérbaj) | Treponema pallidum |
+| 69 | Connatalis syphilis | Treponema pallidum |
+| 70 | Taeniasis | Taenia spp. |
+| 71 | Tetanus (merevgörcs) | Clostridium tetani |
+| 72 | Toxoplasmosis | Toxoplasma gondii |
+| 73 | Congenitalis toxoplasmosis | Toxoplasma gondii |
+| 74 | Tuberculosis | Mycobacterium tuberculosis complex |
+| 75 | Trichinellosis | Trichinella spp. |
+| 76 | Tularemia | Francisella tularensis |
+| 77 | Typhus abdominalis | Salmonella Typhi |
+| 78 | Typhus exanthematicus | Rickettsia prowazeki |
+| 79 | Varicella (bárányhimlő) | (nem jelentendő a kórokozó) |
+| 80 | Variola (himlő) | Himlővírus |
+| 81 | Vírusos haemorrhagiás lázak | Dengue-vírus, Ebola-vírus, Hantavírus, Lassa-vírus, Marburg-vírus, Rift-völgyi láz vírusa, Krími-kongói haemorrhagiás láz vírusa |
+| 82 | Yersiniosis | Yersinia enterocolitica, Yersinia pseudotuberculosis |
+| 83 | Korábban Magyarországon nem észlelt, különösen veszélyes fertőző betegség |  |
+| 84 | Új influenzavírus által okozott emberi megbetegedések | Influenzavírus A, B, C |
+
+B) Személyazonosító nélkül jelentendő betegségek
+
+|  | A | B |
+| --- | --- | --- |
+| 1 | Fertőzések, fertőzéses eredetű betegségek, mérgezések megnevezése | Jelentendő kórokozó |
+| 2 | AIDS-megbetegedés | HIV |
+| 3 | HIV-fertőzés | HIV |
+| 4 | Acut urogenitalis chlamydiasis | Chlamydia trachomatis D-K szerotípusa |
+| 5 | Gonorrhoea (kankó) | Neisseria gonorrhoeae |
+| 6 | Lymphogranuloma venereum | Chlamydia trachomatis L1, L2 és L3 szerotípusai |
 
 ### 2. számú melléklet az 1997. évi XLVII. törvényhez
 

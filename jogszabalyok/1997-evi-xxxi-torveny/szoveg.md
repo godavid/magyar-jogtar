@@ -4443,6 +4443,10 @@ vonatkozó adatokat kezelhet.
 - a) a tanfolyamra jelentkező örökbe fogadni szándékozó személy személyazonosító adatait, és
 - b) a tanfolyam oktatóinak személyazonosító adatait és végzettségére vonatkozó adatait.
 
+135/E. § (1) A gyermekvédelmi szakszolgáltatás a titkos örökbefogadás engedélyezését követően az örökbe fogadó szülő számára átadja a gyermek Elektronikus Egészségügyi Szolgáltatási Térben (a továbbiakban: EESZT) tárolt dokumentációját oly módon anonimizálva, hogy a gyermek származására vonatkozó, valamint a gyermek és a gyermek hozzátartozóinak azonosítására alkalmas adatok ne legyenek felismerhetőek.
+
+(2) Az (1) bekezdés szerinti feladat ellátása érdekében az EESZT működtetője a gyermekvédelmi gyám számára – az örökbefogadást megelőzően – hozzáférést biztosít a gyermek EESZT-ben tárolt egészségügyi adataihoz.
+
 136. § (1) A gyermek személyazonosító adatai, továbbá
 
 - a) az ingatlanra vonatkozó adatok az ingatlan-nyilvántartás szerveinek az ingatlantulajdonnal kapcsolatos jogot érintő változás esetén,

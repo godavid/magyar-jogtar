@@ -421,9 +421,18 @@ használ.
 
 megismerni.
 
+(4) A képzési és vizsgasikerességi mutatók közzététele érdekében a szakképzés információs rendszere a felnőttképzőkhöz rendelve a képzésben résztvevők szakmai vizsgáival, valamint a képesítő vizsgáival kapcsolatban az alábbi adatokat adja át a felnőttképzés adatszolgáltatási rendszere számára:
+
+- a) a vizsgázó oktatási azonosítója,
+- b) a 13/B. § szerinti tanúsítvány sorszáma,
+- c) a vizsga időpontja,
+- d) a vizsga megnevezése,
+- e) a vizsga eredménye, valamint
+- f) a vizsga helyszíne.
+
 #### 11. A felnőttképző adatkezelése
 
-21. § (1) A felnőttképző a képzés lebonyolítása, valamint a bejelentési és adatszolgáltatási kötelezettség hatóság általi teljesítése esetén a hatóság az 1. § (2) és (2a) bekezdése szerinti kötelezettség teljesítése érdekében kezeli
+21. § (1) A felnőttképző a képzés lebonyolítása és a képzési és vizsgasikerességi mutatók közzététele, valamint a bejelentési és adatszolgáltatási kötelezettség hatóság általi teljesítése esetén a hatóság az 1. § (2) és (2a) bekezdése szerinti kötelezettség teljesítése érdekében kezeli
 
 - a) a képzésben részt vevő személy
   - aa) természetes személyazonosító adatait és – az oktatási azonosító szám kiadásával összefüggésben – oktatási azonosító számát,
@@ -436,6 +445,8 @@ megismerni.
   - bd) a képzéssel összefüggő fizetési kötelezettségeivel és az igénybe vett képzési hitellel
 
 kapcsolatosak.
+
+- c) a képzési és vizsgasikerességi mutatók közzététele céljából a 20/A. § (4) bekezdése szerinti adatokat.
 
 (2) Az (1) bekezdés szerinti adatok statisztikai célra felhasználhatók és statisztikai célú felhasználásra személyazonosításra alkalmatlan módon átadhatók, továbbá a Központi Statisztikai Hivatal részére statisztikai célra egyedi azonosításra alkalmas módon térítésmentesen átadhatók és felhasználhatók.
 
@@ -570,7 +581,7 @@ rendeletben jelölje ki.
 
 - a) a felnőttképzési tevékenységhez szükséges bejelentés és engedély részletes feltételeit, a bejelentés, illetve az engedély megadása iránti kérelem adattartalmát, benyújtásának és elbírálásának részletes szabályait, a vagyoni biztosíték formáit, mértékét és felhasználásának szabályait, a felnőttképzők nyilvántartásának – személyes adatnak nem minősülő – adattartalmát, és a felnőttképzők nyilvántartásának vezetésére vonatkozó részletes eljárási szabályokat, a nyilvántartás módosításának és a nyilvántartásból való törlés eseteit, a felnőttképzési szerződés tartalmát, a felnőttképzési tevékenység feltételeit, a felnőttképző dokumentum- és nyilvántartásvezetési kötelezettségének szabályait, a felnőttképzők ellenőrzésére vonatkozó részletes szabályokat, valamint a felnőttképzési tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket,
 - b) a felnőttképzési szakértői tevékenység folytatásának részletes feltételeit, a felnőttképzési szakterületeket, a felnőttképzési szakértői tevékenységre irányuló bejelentés adattartalmát és a bejelentésre vonatkozó részletes eljárási szabályokat, a felnőttképzési szakértők nyilvántartásának adatait, a nyilvántartás közhiteles adatait és a felnőttképzési szakértők díjazására vonatkozó rendelkezéseket,
-- c) a felnőttképzési minőségirányítási rendszert és annak külső értékelésére vonatkozó részletes szabályokat,
+- c) a felnőttképzési minőségirányítási rendszert és annak külső értékelésére, valamint a képzési és vizsgasikerességi mutatókra vonatkozó részletes szabályokat,
 - d) a bemeneti kompetenciamérés lefolytatására és eredményének figyelembevételére, valamint az előzetes tudásmérés lefolytatására, az előzetesen felmért tudásnak a képzés során történő beszámítására vonatkozó szabályokat és azon képzési egységek meghatározásának szabályait, amelyekre a tudásmérés irányul,
 - e) az ösztöndíj igénybevételének feltételeit, a képzési hitel igénybevételének részletes feltételeit és eljárási szabályait, a hitelszerződés megkötésének, a képzési hitel kamata meghatározásának, igénylésének, folyósításának, törlesztésének, előtörlesztésének, támogatásának, záró elszámolásának, megszűnésének, továbbá felmondásának részletes szabályait, az együttműködési megállapodás megkötésének és felmondásának részletes szabályait, valamint a képzési hitelrendszer működtetésének részletes szabályait,
 - f) a képzés nemzetgazdasági szempontból kiemelt jelentőségűvé minősítésének feltételeit, eljárását és módját,
@@ -630,6 +641,8 @@ vonatkozó részletes szabályokat.
 33/C. § (1) A felsőoktatási, kulturális és kapcsolódó törvények módosításáról szóló 2025. évi XCV. törvénnyel (a továbbiakban: Módtv5.) módosított 11/A. § (5) bekezdését a 2026. március 31-én folyamatban lévő programkövetelmények nyilvántartásba vételére, módosítására és törlésére irányuló eljárásokra is alkalmazni kell.
 
 (2) A Módtv5.-tel módosított 12. § (1) bekezdés a) és h) pontját a 2026. március 31-ét követően indított képzések esetén kell alkalmazni.
+
+(3) A Módtv5.-tel módosított 20/A. § (4) bekezdését, valamint 21. § (1) bekezdés c) pontját a 2020. szeptember 1-jét követően indított képzések vonatkozásában kell alkalmazni.
 
 #### 17. Az Európai Unió jogának való megfelelés
 
