@@ -142,9 +142,7 @@ az online csalások elleni további hatékony fellépés érdekében szükséges
 
 #### 49. §
 
-50. § A Kbt. 37. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Az (1) bekezdés h) és i) pontja szerinti eljárás eredményéről szóló tájékoztatót az ajánlatkérő legkésőbb a szerződéskötést, ennek hiányában az eljárás eredménytelenné nyilvánításáról vagy a szerződés megkötésének megtagadásáról szóló ajánlatkérői döntést vagy a szerződés megkötésének megtagadására vonatkozó ajánlattevői döntés kézhezvételét követő húsz napon belül köteles megküldeni közzétételre. Részekre történő ajánlattétel esetén az ajánlatkérő az eljárás eredményéről szóló tájékoztatót az egyes részekre vonatkozóan külön is közzéteheti. Az ajánlatkérő részekre történő ajánlattétel esetén a teljes eljárásra vagy több részre vonatkozóan akkor tehet közzé egyetlen tájékoztatót, ha az e bekezdés szerinti közzétételre megküldés határidejét a tájékoztatóban érintett mindegyik rész tekintetében betartja. Az eredménytelen közbeszerzési eljárás vagy az olyan közbeszerzési eljárás, amelynek eredményeképp nem kerül sor a szerződés megkötésére e hirdetmény – az egyes részek tekintetében az adott részre vonatkozó hirdetmény – közzétételével zárul le.”
+#### 50. §
 
 #### 51. §
 
@@ -160,9 +158,7 @@ az online csalások elleni további hatékony fellépés érdekében szükséges
 
 #### 57. §
 
-58. § A Kbt. 131. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Eredményes közbeszerzési eljárás alapján a szerződést a nyertes ajánlattevővel – közös ajánlattétel esetén a nyertes ajánlattevőkkel – kell írásban megkötni a közbeszerzési eljárásban közölt végleges feltételek, szerződéstervezet és ajánlat tartalmának megfelelően. Az eredményes közbeszerzési eljárás a szerződés megkötésével – az egyes részek tekintetében az adott részre vonatkozó szerződés megkötésével – zárul le.”
+#### 58. §
 
 #### 59. §
 
@@ -174,14 +170,7 @@ az online csalások elleni további hatékony fellépés érdekében szükséges
 
 #### 63. §
 
-64. § Hatályát veszti a Kbt.
-
-- a)
-- b)
-- c)
-- d) 114. § (15) bekezdése,
-- e) 127. § (1) bekezdésében az „az uniós értékhatárt elérő értékű koncessziónál” szövegrész,
-- f)
+#### 64. §
 
 #### 22. Az ügyvédi tevékenységről szóló 2017. évi LXXVIII. törvény módosítása
 
