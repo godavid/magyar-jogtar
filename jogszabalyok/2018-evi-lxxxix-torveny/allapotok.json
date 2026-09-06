@@ -128,5 +128,10 @@
     "datum": "2026-07-24",
     "verzio": 27,
     "sha": "b3379ffafb2cf30266f7d028661dfcff5aeacb6b"
+  },
+  {
+    "datum": "2026-09-01",
+    "verzio": 26,
+    "sha": "6f86bbaa20f134d6dbbb713d03cf3c9aa57f4561"
   }
 ]
