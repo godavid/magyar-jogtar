@@ -22,7 +22,7 @@ a Magyarország Kormánya és Kuvait Állam Kormánya között a beruházások �
 
 5. § Az e törvény végrehajtásához szükséges intézkedésekről a külgazdasági ügyekért felelős miniszter gondoskodik.
 
-6. § Hatályát veszti a Magyar Köztársaság és Kuvait Állam között a beruházások elősegítéséről és kölcsönös védelméről Kuvaitban, 1989. november 8. napján aláírt Megállapodás kihirdetéséről szóló 1994. évi XCV. törvény.
+#### 6. §
 
 ### 1. melléklet a 2025. évi CIV. törvényhez
 
